@@ -1,0 +1,16 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "nathanielgrivas.vercel.app"
+        }
+      ],
+      "destination": "/links.html"
+    }
+  ]
+}
