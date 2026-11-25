@@ -279,8 +279,10 @@
     wire();
   };
 
+  const track = () => { if (window.NG) { try { summary().forEach(([k, v]) => window.NG.answer(k, v)); } catch (e) { /* ignore */ } } };
   const next = () => {
     AUTO.delete(cur);
+    track();
     const list = visible();
     const i = list.indexOf(cur);
     if (i + 1 < list.length) { cur = list[i + 1]; render(); }
@@ -504,7 +506,7 @@
     res.innerHTML = html;
     res.hidden = false;
 
-    const sync = () => { $('textarea[name=message]', lead).value = message(); };
+    const sync = () => { $('textarea[name=message]', lead).value = message(); if (window.NG && matchable) window.NG.answer('Areas picked', picked.map((sl) => BY[sl].name).join(', ')); };
     const drawAreas = () => {
       if (!matchable) return;
       $('.achips', res).innerHTML = picked.map((sl) => '<button type="button" class="achip on" data-s="' + sl + '">' + esc(BY[sl].name) + ' <i aria-hidden="true">&times;</i></button>').join('') || '<span class="muted">Add at least one</span>';

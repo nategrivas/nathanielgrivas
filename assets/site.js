@@ -11,7 +11,9 @@
       if (!name || !/^\S+@\S+\.\S+$/.test(email)) { say('Add your name and a valid email so I can reply.'); return; }
       const looking = d.getAll('looking').join(', ') || 'Not specified';
       const payload = { name, email, phone: d.get('phone') || '', looking, message: d.get('message') || '',
-        page: location.pathname + location.search, _subject: (form.dataset.subject || 'Website lead') + ': ' + looking + ' (' + name + ')', _template: 'table' };
+        page: location.pathname + location.search, _subject: (form.dataset.subject || 'Website lead') + ': ' + looking + ' (' + name + ')', _template: 'table',
+        ...(window.NG ? window.NG.journey() : {}) };
+      if (d.get('lender')) payload.lender_intro = 'Yes';
       const btn = form.querySelector('button[type=submit]');
       const label = btn.textContent;
       btn.disabled = true; btn.textContent = 'Sending...';
@@ -20,6 +22,7 @@
           method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(payload) });
         if (!r.ok) throw new Error('bad status');
         form.reset();
+        if (window.NG) window.NG.submitted();
         say(form.dataset.ok ? form.dataset.ok.replace('{name}', name.split(' ')[0]) : 'Got it, ' + name.split(' ')[0] + '. I will get back to you within a day.');
       } catch (err) {
         say('This message could not be sent from here. Call or text 310-269-5541, or email nate.grivas@compass.com.');
