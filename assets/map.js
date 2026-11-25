@@ -147,5 +147,16 @@
       else if (tagBtns.some((b) => b.dataset.tag === h)) st.tags.add(h);
     });
     if (init.length) apply();
+    // hovering a card lights up its dot on the map
+    const bySlug = Object.fromEntries(dots.map((d) => [d.dataset.slug, d]));
+    cards.forEach((c) => {
+      c.addEventListener('mouseenter', () => { const d = bySlug[c.dataset.slug]; if (d) d.classList.add('hl'); });
+      c.addEventListener('mouseleave', () => { const d = bySlug[c.dataset.slug]; if (d) d.classList.remove('hl'); });
+    });
+    dots.forEach((d) => {
+      const c = grid.querySelector('.hcard[data-slug="' + d.dataset.slug + '"]');
+      d.addEventListener('mouseenter', () => { if (c) c.classList.add('hl'); });
+      d.addEventListener('mouseleave', () => { if (c) c.classList.remove('hl'); });
+    });
   }
 }

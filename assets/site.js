@@ -47,7 +47,7 @@
       const r = hm.getBoundingClientRect();
       const narrow = r.width < 760;
       const x = narrow ? cx - v.width / 2 : cx - v.width * 0.62;
-      hm.setAttribute('viewBox', Math.max(-v.width * 0.35, Math.min(1000 - v.width * 0.65, x)).toFixed(1) + ' ' + (narrow ? cy - v.height * 0.3 : v.y).toFixed(1) + ' ' + v.width + ' ' + v.height);
+      hm.setAttribute('viewBox', Math.max(-v.width * 0.35, Math.min(1000 - v.width * 0.65, x)).toFixed(1) + ' ' + (narrow ? cy - v.height * 0.13 : v.y).toFixed(1) + ' ' + v.width + ' ' + v.height);
     };
     fit(); addEventListener('resize', fit);
   }
@@ -60,4 +60,110 @@
     row.addEventListener('pointermove', (e) => { if (!down) return; const dx = e.clientX - sx; if (Math.abs(dx) > 4) moved = true; row.scrollLeft = sl - dx; });
     row.addEventListener('click', (e) => { if (moved) { e.preventDefault(); moved = false; } }, true);
   });
+
+  // Tabs: any [data-tabs] block with [data-tab] buttons and [data-panel] panels
+  document.querySelectorAll('[data-tabs]').forEach((box) => {
+    const btns = [...box.querySelectorAll('[data-tab]')];
+    btns.forEach((b) => b.addEventListener('click', () => {
+      btns.forEach((x) => x.setAttribute('aria-selected', String(x === b)));
+      box.querySelectorAll('[data-panel]').forEach((p) => { p.hidden = p.dataset.panel !== b.dataset.tab; });
+    }));
+  });
+
+  // "What's my home worth" style shortcuts pre-check the right box in the contact form
+  document.querySelectorAll('[data-preset]').forEach((a) => a.addEventListener('click', () => {
+    const box = document.querySelector('#contact input[value="' + a.dataset.preset[0].toUpperCase() + a.dataset.preset.slice(1) + '"]');
+    if (box) box.checked = true;
+  }));
+
+  // On-page section nav: highlight the section in view
+  const sub = document.querySelector('.subnav');
+  if (sub && 'IntersectionObserver' in window) {
+    const links = [...sub.querySelectorAll('a[href^="#"]')];
+    const map = new Map(links.map((a) => [a.getAttribute('href').slice(1), a]));
+    const io = new IntersectionObserver((ents) => {
+      ents.forEach((en) => { if (en.isIntersecting) { links.forEach((l) => l.classList.remove('on')); const a = map.get(en.target.id); if (a) { a.classList.add('on'); a.scrollIntoView({ block: 'nearest', inline: 'nearest' }); } } });
+    }, { rootMargin: '-30% 0px -60% 0px' });
+    map.forEach((_, id) => { const el = document.getElementById(id); if (el) io.observe(el); });
+  }
+
+  // Search palette: Cmd/Ctrl+K or "/" anywhere, or any [data-cmdk] button
+  const dlg = document.getElementById('cmdk');
+  if (dlg) {
+    const input = document.getElementById('cmdk-q');
+    const list = document.getElementById('cmdk-list');
+    let data = null, items = [], sel = 0, lastFocus = null;
+    const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+    const load = () => data ? Promise.resolve(data) : fetch('/assets/search.json').then((r) => r.json()).then((d) => (data = d)).catch(() => (data = []));
+    const QUICK = ['Explore the map', 'Which LA neighborhood fits you?', 'Transfer tax & mansion tax calculator', 'Contact', 'The Brodsky Group'];
+    const score = (it, words) => {
+      const t = it.t.toLowerCase(), hay = (it.t + ' ' + it.s + ' ' + it.k).toLowerCase();
+      let sc = 0;
+      for (const w of words) { if (!hay.includes(w)) return -1; sc += t.startsWith(w) ? 5 : t.includes(w) ? 3 : 1; }
+      return sc + (it.g === 'Neighborhoods' ? 1 : 0);
+    };
+    const render = () => {
+      const q = input.value.trim().toLowerCase();
+      let res;
+      if (!q) {
+        const nav = [{ t: 'Explore the map', s: 'All 40 neighborhoods', u: '/neighborhoods/', g: 'Jump to', i: 'M' }];
+        res = nav.concat((data || []).filter((x) => QUICK.includes(x.t)).map((x) => Object.assign({}, x, { g: 'Jump to' })))
+          .concat((data || []).filter((x) => x.g === 'Neighborhoods').slice(0, 6));
+      } else {
+        const words = q.split(/\s+/);
+        res = (data || []).map((x) => [score(x, words), x]).filter((x) => x[0] >= 0).sort((a, b) => b[0] - a[0]).slice(0, 14).map((x) => x[1]);
+      }
+      items = res; sel = 0;
+      if (!res.length) { list.innerHTML = '<li class="cmdk-empty">Nothing found. Try a neighborhood name, a ZIP like 90049, or a word like "tax".</li>'; return; }
+      let g = '', html = '';
+      res.forEach((x, i) => {
+        if (x.g !== g) { g = x.g; html += '<li class="grp">' + esc(g) + '</li>'; }
+        html += '<li><a href="' + esc(x.u) + '" role="option" data-i="' + i + '" aria-selected="' + (i === 0) + '"' + (x.u.startsWith('http') ? ' rel="noopener"' : '') + '><span class="ic">' + esc(x.i || '') + '</span><span><b>' + esc(x.t) + '</b><small>' + esc(x.s || '') + '</small></span></a></li>';
+      });
+      list.innerHTML = html;
+    };
+    const move = (d) => {
+      const as = [...list.querySelectorAll('a')]; if (!as.length) return;
+      sel = (sel + d + as.length) % as.length;
+      as.forEach((a, i) => a.setAttribute('aria-selected', String(i === sel)));
+      as[sel].scrollIntoView({ block: 'nearest' });
+    };
+    const open = () => { lastFocus = document.activeElement; dlg.hidden = false; document.body.style.overflow = 'hidden'; input.value = ''; load().then(render); render(); setTimeout(() => input.focus(), 10); };
+    const close = () => { dlg.hidden = true; document.body.style.overflow = ''; if (lastFocus) lastFocus.focus(); };
+    document.querySelectorAll('[data-cmdk]').forEach((b) => b.addEventListener('click', open));
+    dlg.addEventListener('click', (e) => { if (e.target === dlg || e.target.closest('[data-close]')) close(); });
+    list.addEventListener('click', (e) => { if (e.target.closest('a')) close(); });
+    input.addEventListener('input', render);
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowDown') { e.preventDefault(); move(1); }
+      else if (e.key === 'ArrowUp') { e.preventDefault(); move(-1); }
+      else if (e.key === 'Enter') { const a = list.querySelector('a[aria-selected="true"]'); if (a) { e.preventDefault(); a.click(); } }
+    });
+    document.addEventListener('keydown', (e) => {
+      const typing = /INPUT|TEXTAREA|SELECT/.test((document.activeElement || {}).tagName || '');
+      if ((e.key === 'k' || e.key === 'K') && (e.metaKey || e.ctrlKey)) { e.preventDefault(); dlg.hidden ? open() : close(); }
+      else if (e.key === '/' && !typing && dlg.hidden) { e.preventDefault(); open(); }
+      else if (e.key === 'Escape' && !dlg.hidden) close();
+    });
+  }
+}
+
+// Photo gallery lightbox
+{
+  const box = document.querySelector('.lightbox');
+  const gal = document.querySelector('[data-gallery]');
+  if (box && gal) {
+    const all = [...gal.querySelectorAll('.gall i')].map((i) => ({ src: i.dataset.full, alt: i.dataset.alt }));
+    const img = box.querySelector('img'), cap = box.querySelector('.lb-c');
+    let at = 0;
+    const show = (k) => { at = (k + all.length) % all.length; img.src = all[at].src; img.alt = all[at].alt; cap.textContent = all[at].alt + '  (' + (at + 1) + ' of ' + all.length + ')'; };
+    const open = (src) => { const k = all.findIndex((a) => a.src === src); show(k < 0 ? 0 : k); box.hidden = false; document.body.style.overflow = 'hidden'; box.querySelector('.lb-x').focus(); };
+    const close = () => { box.hidden = true; document.body.style.overflow = ''; };
+    gal.querySelectorAll('.g').forEach((b) => b.addEventListener('click', () => open(b.dataset.full)));
+    box.querySelector('.lb-x').addEventListener('click', close);
+    box.querySelector('.lb-p').addEventListener('click', () => show(at - 1));
+    box.querySelector('.lb-n').addEventListener('click', () => show(at + 1));
+    box.addEventListener('click', (ev) => { if (ev.target === box) close(); });
+    document.addEventListener('keydown', (ev) => { if (box.hidden) return; if (ev.key === 'Escape') close(); if (ev.key === 'ArrowLeft') show(at - 1); if (ev.key === 'ArrowRight') show(at + 1); });
+  }
 }
