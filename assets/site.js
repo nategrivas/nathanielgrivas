@@ -20,7 +20,7 @@
           method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(payload) });
         if (!r.ok) throw new Error('bad status');
         form.reset();
-        say('Got it, ' + name.split(' ')[0] + '. I will get back to you within a day.');
+        say(form.dataset.ok ? form.dataset.ok.replace('{name}', name.split(' ')[0]) : 'Got it, ' + name.split(' ')[0] + '. I will get back to you within a day.');
       } catch (err) {
         say('This message could not be sent from here. Call or text 310-269-5541, or email nate.grivas@compass.com.');
       } finally { btn.disabled = false; btn.textContent = label; }

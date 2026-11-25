@@ -450,44 +450,91 @@
     const rows = summary();
     const wantsLender = A.budget === 'lender' || A.pay === 'loan';
     const matchable = A.goal !== 'sell' || A.sell_next === 'buyla';
-    let html = '';
-    let top = [];
+    const living = A.goal === 'buy' || A.goal === 'rent' || A.sell_next === 'buyla';
+    let ranked = [];
+    const picked = [];
     if (matchable) {
-      const ranked = H.map((h) => ({ h, ...score(h) })).sort((a, b) => b.s - a.s);
-      top = ranked.slice(0, 3);
-      const more = ranked.slice(3, 7);
-      const tiles = top.map((x) => {
-        const c = $('#pool [data-slug="' + x.h.slug + '"]');
-        const tile = c ? c.outerHTML.replace('loading="lazy"', 'loading="eager"') : '';
-        return '<div class="match">' + tile + (x.why.length ? '<ul class="whys">' + x.why.map((w) => '<li>' + esc(w) + '</li>').join('') + '</ul>' : '') + '</div>';
-      }).join('');
-      html += '<h2 class="h2">Start with these</h2><div class="matches">' + tiles + '</div>' +
-        '<div class="alsorow"><span>Also worth a look</span>' + more.map((x) => '<a href="/neighborhoods/' + x.h.slug + '/">' + esc(x.h.name) + '</a>').join('') + '</div>';
+      ranked = H.map((h) => ({ h, ...score(h) })).sort((a, b) => b.s - a.s);
+      [...PREF].forEach((sl) => { if (!picked.includes(sl)) picked.push(sl); });
+      ranked.slice(0, 3).forEach((x) => { if (!picked.includes(x.h.slug) && picked.length < 4) picked.push(x.h.slug); });
+    }
+    const crit = () => {
+      const c = [];
+      const take = (o, k) => { if (A[k] && !['skip', 'other'].includes(A[k])) c.push(LBL(o, A[k])); };
+      if (A.goal === 'rent') take('rentbudget', 'budget'); else take('budget', 'budget');
+      if (A.beds && !['skip', 'other'].includes(A.beds)) c.push(A.beds.replace('5', '5') + '+ beds');
+      if (living) take(A.goal === 'rent' ? 'renthome' : 'home', 'home');
+      arr('strategy').forEach((v) => c.push(LBL('strategy', v)));
+      arr('build').forEach((v) => c.push(LBL('build', v)));
+      if (living) arr('must').forEach((v) => c.push(LBL('must', v)));
+      take('when', 'when');
+      if (A.budget !== 'lender') take('pay', 'pay');
+      return c;
+    };
+    const message = () => {
+      const lines = ['SEARCH TO SET UP'];
+      if (matchable) lines.push('Areas: ' + (picked.map((sl) => BY[sl].name).join(', ') || 'open'));
+      if (A.goal === 'sell') lines.push('SELLER: ' + (A.sell_addr || 'address not given'));
+      rows.forEach(([k, v]) => lines.push(k + ': ' + v));
+      if ($('input[name=lender]', lead).checked) lines.push('Wants a lender intro: yes');
+      return lines.join('\n');
+    };
+    let html = '';
+    if (matchable) {
+      html += '<p class="eyebrow">Your search</p><h2 class="h2">Here\'s what I\'ll set up</h2>' +
+        '<div class="srch"><div class="crit">' + crit().map((c) => '<span>' + esc(c) + '</span>').join('') + '</div>' +
+        '<div class="areas"><b>Areas</b><div class="achips"></div></div>' +
+        '<div class="addrow"><span>Add</span><div class="addchips"></div></div></div>';
+    } else {
+      html += '<p class="eyebrow">Your home</p><h2 class="h2">' + esc(A.sell_addr || 'Your property') + '</h2><p class="lede">I\'ll pull the recent sales around it and send you a real price range.</p>';
+    }
+    html += '<div class="qsend"><h3>' + (matchable ? 'Get new listings that match' : 'Get your numbers') + '</h3><p>' +
+      (matchable ? 'I\'ll save this search on Compass and send you an invite, so new homes come straight to you.' : 'Comps and a price range within a day.') + '</p></div>';
+    if (matchable) {
+      html += '<h3 class="whyh">Why these areas</h3><div class="matches"></div>';
       const notes = [];
       if (arr('strategy').includes('str')) notes.push('Los Angeles and Santa Monica both restrict stays under 30 days. Furnished rentals of 30+ days avoid those rules.');
-      if ((A.goal === 'invest' || A.goal === 'build') && (['35to6', '6p'].includes(A.budget) || arr('build').includes('spec')) && top.some((x) => x.h.city === 'Los Angeles')) notes.push('City of LA sales over $5.4M pay Measure ULA: 4%, or 5.5% from $10.9M. Santa Monica and Culver City have their own high-end transfer taxes. Beverly Hills, West Hollywood, Malibu and unincorporated areas pay only the county rate.');
+      if ((A.goal === 'invest' || A.goal === 'build') && (['35to6', '6p'].includes(A.budget) || arr('build').includes('spec')) && ranked.slice(0, 3).some((x) => x.h.city === 'Los Angeles')) notes.push('City of LA sales over $5.4M pay Measure ULA: 4%, or 5.5% from $10.9M. Santa Monica and Culver City have their own high-end transfer taxes. Beverly Hills, West Hollywood, Malibu and unincorporated areas pay only the county rate.');
       if (arr('strategy').some((v) => ['ltr', 'mf'].includes(v)) || arr('build').includes('apts')) {
-        const cities = [...new Set(top.map((x) => x.h.city))];
-        cities.forEach((c) => { const ci = window.CITIES[c]; if (ci) notes.push(ci.rent + '.'); });
+        [...new Set(ranked.slice(0, 3).map((x) => x.h.city))].forEach((c) => { const ci = window.CITIES[c]; if (ci) notes.push(ci.rent + '.'); });
       }
       if (notes.length) html += '<div class="qnotes"><b>Good to know</b><ul>' + notes.map((n) => '<li>' + esc(n) + '</li>').join('') + '</ul></div>';
-    } else {
-      html += '<h2 class="h2">Next step: your numbers</h2><p class="lede">I\'ll pull recent sales near ' + esc(A.sell_addr || 'your property') + ' and send you a real range.</p>';
     }
-    html += '<div class="qsum"><b>Your answers</b><dl>' + rows.map(([k, v]) => '<dt>' + esc(k) + '</dt><dd>' + esc(v) + '</dd>').join('') + '</dl><button type="button" class="qagain">Start over</button></div>' +
-      '<div class="qsend"><h3>Send this to Nate</h3><p>' + (matchable ? 'He\'ll reply with homes that fit' + (wantsLender ? ' and a lender intro' : '') : 'He\'ll reply with your numbers') + '.</p></div>';
+    html += '<details class="qsum"><summary>Your answers</summary><dl>' + rows.map(([k, v]) => '<dt>' + esc(k) + '</dt><dd>' + esc(v) + '</dd>').join('') + '</dl></details><button type="button" class="qagain">Start over</button>';
     res.innerHTML = html;
     res.hidden = false;
-    // lead form
-    const msg = 'Matches: ' + (top.map((x) => x.h.name).join(', ') || 'n/a') + '\n' + rows.map(([k, v]) => k + ': ' + v).join('\n');
+
+    const sync = () => { $('textarea[name=message]', lead).value = message(); };
+    const drawAreas = () => {
+      if (!matchable) return;
+      $('.achips', res).innerHTML = picked.map((sl) => '<button type="button" class="achip on" data-s="' + sl + '">' + esc(BY[sl].name) + ' <i aria-hidden="true">&times;</i></button>').join('') || '<span class="muted">Add at least one</span>';
+      const sugg = ranked.filter((x) => !picked.includes(x.h.slug)).slice(0, 6);
+      $('.addchips', res).innerHTML = sugg.map((x) => '<button type="button" class="achip" data-s="' + x.h.slug + '">+ ' + esc(x.h.name) + '</button>').join('');
+      $$('.achip', res).forEach((b) => b.addEventListener('click', () => {
+        const sl = b.dataset.s, i = picked.indexOf(sl);
+        if (i >= 0) picked.splice(i, 1); else picked.push(sl);
+        drawAreas(); drawTiles(); sync();
+      }));
+    };
+    const drawTiles = () => {
+      if (!matchable) return;
+      const by = Object.fromEntries(ranked.map((x) => [x.h.slug, x]));
+      $('.matches', res).innerHTML = picked.slice(0, 6).map((sl) => {
+        const x = by[sl]; const c = $('#pool [data-slug="' + sl + '"]');
+        const tile = c ? c.outerHTML.replace('loading="lazy"', 'loading="eager"') : '';
+        return '<div class="match">' + tile + (x && x.why.length ? '<ul class="whys">' + x.why.map((w) => '<li>' + esc(w) + '</li>').join('') + '</ul>' : '') + '</div>';
+      }).join('');
+    };
+    drawAreas(); drawTiles();
+
     lead.hidden = false;
     $('.qsend', res).appendChild(lead);
-    $('textarea[name=message]', lead).value = msg;
+    lead.dataset.subject = matchable ? 'Search to set up' : 'Home value request';
+    lead.dataset.ok = matchable ? 'Got it, {name}. I\'ll set up your search on Compass and send you the invite.' : 'Got it, {name}. Your numbers are on the way within a day.';
     $('input[name=looking]', lead).value = LBL('goal', A.goal) || 'Not specified';
-    const lb = $('.lenderbox', lead); lb.hidden = !matchable || A.goal === 'rent';
+    $('.lenderbox', lead).hidden = !matchable || A.goal === 'rent';
     const cb = $('input[name=lender]', lead); cb.checked = wantsLender;
-    const sync = () => { $('textarea[name=message]', lead).value = msg + (cb.checked ? '\nWants a lender intro: yes' : ''); };
-    cb.addEventListener('change', sync); sync();
+    cb.onchange = sync; sync();
     $('.qagain', res).addEventListener('click', () => {
       Object.keys(A).forEach((k) => delete A[k]); Object.keys(RAW).forEach((k) => delete RAW[k]);
       AUTO.clear(); CUSTOM.length = 0; PREF.clear();
@@ -498,7 +545,10 @@
   };
 
   // ------------------------------------------------------------ start
-  const goal = new URLSearchParams(location.search).get('goal');
+  const qs = new URLSearchParams(location.search);
+  const area = BY[qs.get('area')];
+  if (area) { CUSTOM.push({ label: area.name, ll: area.ll }); PREF.add(area.slug); }
+  const goal = qs.get('goal');
   if (goal && OPT.goal.some((g) => g[0] === goal)) { A.goal = goal; cur = flow()[1]; }
   render();
   window.__intake = { read, money, whenOf, score, A, flow }; // for testing
