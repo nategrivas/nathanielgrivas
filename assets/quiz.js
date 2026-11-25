@@ -40,11 +40,11 @@
     strategy: [['ltr', 'Long-term rental'], ['mtr', 'Furnished, 30+ day stays'], ['str', 'Short-term rental'], ['flip', 'Fix and flip'], ['adu', 'Add an ADU or split the lot'], ['mf', 'Multifamily building']],
     build: [['spec', 'New single-family home'], ['adu', 'ADUs or a lot split'], ['small', 'Duplex to fourplex'], ['apts', 'Apartments, 5+ units'], ['condo', 'Condos or townhomes']],
     land: [['own', 'I own it'], ['need', 'I need a lot'], ['teardown', 'I want a teardown']],
-    must: [['beach', 'Near the beach'], ['walkable', 'Walk to coffee and dinner'], ['schools', 'Strong public schools'], ['yard', 'Space and a yard'], ['views', 'A view'], ['quiet', 'Quiet street'], ['nightlife', 'Nightlife'], ['transit', 'Near the Metro'], ['value', 'More home for the money'], ['luxury', 'Top-tier luxury'], ['creative', 'Arts and creative scene'], ['golf', 'Near a public golf course'], ['hikes', 'Near parks and trails']],
+    must: [['beach', 'Near the beach'], ['walkable', 'Walk to coffee and dinner'], ['schools', 'Its own city school district'], ['yard', 'Space and a yard'], ['views', 'A view'], ['quiet', 'Quiet street'], ['nightlife', 'Nightlife'], ['transit', 'Near the Metro'], ['value', 'More home for the money'], ['luxury', 'Top-tier luxury'], ['creative', 'Arts and creative scene'], ['golf', 'Near a public golf course'], ['hikes', 'Near parks and trails']],
     home: [['house', 'House'], ['condo', 'Condo or townhome'], ['multi', 'Duplex to fourplex, live in one'], ['land', 'Land to build on'], ['open', 'Open to anything']],
     renthome: [['house', 'House'], ['condo', 'Apartment or condo'], ['open', 'Open to anything']],
     beds: [['1', '1'], ['2', '2'], ['3', '3'], ['4', '4'], ['5', '5+']],
-    who: [['solo', 'Just me'], ['partner', 'Partner'], ['kids', 'Kids'], ['pets', 'Pets'], ['family', 'Parents or extended family']],
+    pets: [['none', 'No pets'], ['dog', 'Dog'], ['cat', 'Cat'], ['both', 'Dog and cat'], ['other', 'Other pet']],
     sell_next: [['buyla', 'Yes, in LA'], ['buyout', 'Yes, outside LA'], ['no', 'No'], ['unsure', 'Not sure yet']],
   };
 
@@ -67,7 +67,7 @@
     must: { q: () => 'Pick up to three must-haves', o: () => 'must', many: true, max: 3, ph: 'Or type what matters, like "walk to the beach, good schools"' },
     home: { q: () => 'What kind of place?', o: () => (A.goal === 'rent' ? 'renthome' : 'home'), one: true, ph: 'Or type it' },
     beds: { q: () => 'How many bedrooms?', o: () => 'beds', one: true, ph: 'Or type it' },
-    who: { q: () => "Who's moving in?", o: () => 'who', many: true, ph: 'Or type it, like "me, my wife and our dog"' },
+    pets: { q: () => 'Any pets?', o: () => 'pets', one: true, ph: 'Or type it, like "one small dog"' },
     sell_addr: { q: () => 'Which property are you selling?', text: true, ph: 'Street address, or just the neighborhood' },
     sell_next: { q: () => 'Are you buying after you sell?', o: () => 'sell_next', one: true, ph: 'Or type it' },
   };
@@ -75,11 +75,11 @@
   const flow = () => {
     let f;
     switch (A.goal) {
-      case 'buy': f = ['goal', 'budget', 'pay', 'when', 'where', 'must', 'home', 'beds', 'who']; break;
-      case 'rent': f = ['goal', 'budget', 'when', 'where', 'must', 'home', 'beds', 'who']; break;
+      case 'buy': f = ['goal', 'budget', 'pay', 'when', 'where', 'must', 'home', 'beds']; break;
+      case 'rent': f = ['goal', 'budget', 'when', 'where', 'must', 'home', 'beds', 'pets']; break;
       case 'invest': f = ['goal', 'budget', 'pay', 'strategy', 'areas', 'when']; break;
       case 'build': f = ['goal', 'build', 'land', 'budget', 'pay', 'areas', 'when']; break;
-      case 'sell': f = ['goal', 'sell_addr', 'when', 'sell_next'].concat(A.sell_next === 'buyla' ? ['budget', 'pay', 'where', 'must', 'home', 'beds', 'who'] : []); break;
+      case 'sell': f = ['goal', 'sell_addr', 'when', 'sell_next'].concat(A.sell_next === 'buyla' ? ['budget', 'pay', 'where', 'must', 'home', 'beds'] : []); break;
       default: f = ['goal'];
     }
     return f.filter((k) => !(k === 'pay' && A.budget === 'lender'));
@@ -190,14 +190,10 @@
     const bd = t.match(/(\d)\s*\+?\s*(bed|br\b|bd\b|bedroom)/) || t.match(/\b(one|two|three|four|five)\s*(bed|bedroom)/);
     if (bd) { const n = { one: 1, two: 2, three: 3, four: 4, five: 5 }[bd[1]] || +bd[1]; f.beds = String(Math.min(5, Math.max(1, n))); }
     if (has(t, ['studio apartment', 'a studio', 'studio unit'])) f.beds = '1';
-    // household
-    const who = [];
-    if (has(t, ['just me', 'myself', 'alone', 'single', 'only me'])) who.push('solo');
-    if (has(t, ['wife', 'husband', 'partner', 'spouse', 'girlfriend', 'boyfriend', 'fiance', 'fiancé', 'my love', 'couple'])) who.push('partner');
-    if (has(t, ['kid*', 'child*', 'son', 'sons', 'daughter*', 'baby', 'toddler*', 'twins', 'family of'])) who.push('kids');
-    if (has(t, ['dog*', 'cat', 'cats', 'pet', 'pets', 'pupp*'])) who.push('pets');
-    if (has(t, ['parents', 'mom', 'dad', 'mother', 'father', 'in-law', 'in-laws', 'grandma', 'grandpa'])) who.push('family');
-    if (who.length) f.who = who;
+    // pets (rentals)
+    const dog = has(t, ['dog*', 'pupp*']), cat = has(t, ['cat', 'cats', 'kitten*']);
+    if (dog && cat) f.pets = 'both'; else if (dog) f.pets = 'dog'; else if (cat) f.pets = 'cat';
+    else if (has(t, ['no pets', 'no pet'])) f.pets = 'none';
     // investor plan
     const st = [];
     if (has(t, ['airbnb', 'short term', 'short-term', 'vacation', 'vrbo', 'str'])) st.push('str');
@@ -229,7 +225,7 @@
   // apply what was read; returns labels for the current step
   const LBL = (o, v) => { const x = (OPT[o] || []).find((p) => p[0] === v); return x ? x[1] : v; };
   const apply = (f, cur) => {
-    const map = { goal: 'goal', budget: 'budget', rentbudget: 'budget', pay: 'pay', when: 'when', where: 'where', areas: 'areas', strategy: 'strategy', build: 'build', land: 'land', must: 'must', home: 'home', beds: 'beds', who: 'who', sell_next: 'sell_next' };
+    const map = { goal: 'goal', budget: 'budget', rentbudget: 'budget', pay: 'pay', when: 'when', where: 'where', areas: 'areas', strategy: 'strategy', build: 'build', land: 'land', must: 'must', home: 'home', beds: 'beds', pets: 'pets', sell_next: 'sell_next' };
     let got = [];
     Object.entries(f).forEach(([k, v]) => {
       if (k === 'hoods') return;
@@ -372,10 +368,10 @@
     // must-haves
     const M = living ? arr('must') : [];
     const tag = { beach: 3, walkable: 2.5, yard: 2, views: 2.5, nightlife: 2.5, transit: 2.5, value: 2.5, luxury: 2.5, creative: 2 };
-    const WHY = { beach: 'near the beach', walkable: 'walkable', yard: 'yards and space', views: 'views', nightlife: 'nightlife', transit: 'near the Metro', value: 'more for the money', luxury: 'luxury homes', creative: 'creative scene', quiet: 'quiet streets', family: 'family streets' };
+    const WHY = { beach: 'near the beach', walkable: 'walkable', yard: 'yards and space', views: 'views', nightlife: 'nightlife', transit: 'near the Metro', value: 'more for the money', luxury: 'luxury homes', creative: 'creative scene', quiet: 'quiet streets' };
     M.forEach((m) => {
       if (tag[m] && T(h, m)) add(tag[m], WHY[m]);
-      if (m === 'schools') { if (T(h, 'family')) add(1.5); if (OWN_DISTRICT.includes(h.city)) add(1.8, 'its own school district'); }
+      if (m === 'schools' && OWN_DISTRICT.includes(h.city)) add(2.5, 'its own school district');
       if (m === 'quiet') { if (T(h, 'quiet')) add(2, 'quiet streets'); if (T(h, 'nightlife')) s -= 1; }
       if (m === 'golf' && h.golf) add(2, 'public golf nearby');
       if (m === 'hikes' && (h.trails || T(h, 'views'))) add(2, 'parks and trails close by');
@@ -388,11 +384,6 @@
     if (home === 'land' && (T(h, 'yard') || T(h, 'value'))) add(1);
     if (['4', '5'].includes(A.beds) && (T(h, 'yard') || T(h, 'family'))) add(1);
     if (A.beds === '1' && (T(h, 'condo') || T(h, 'walkable'))) add(1);
-    const W = living ? arr('who') : [];
-    if (W.includes('kids')) { if (T(h, 'family')) add(2, 'family streets'); if (T(h, 'quiet')) add(1); }
-    if (W.includes('pets') && T(h, 'yard')) add(1);
-    if (W.includes('solo') && (T(h, 'walkable') || T(h, 'nightlife'))) add(1);
-    if (W.includes('family') && T(h, 'yard')) add(1);
     // investors and builders
     const ST = A.goal === 'invest' ? arr('strategy') : [];
     if (ST.includes('ltr')) { if (T(h, 'value')) add(2, 'stronger rent-to-price'); if (T(h, 'transit') || T(h, 'walkable')) add(1, 'renter demand'); }
@@ -441,7 +432,7 @@
     if (arr('must').length) rows.push(['Must-haves', arr('must').map((v) => L('must', v)).join(', ')]);
     if (A.home && !['skip', 'other'].includes(A.home)) rows.push(['Type', L(A.goal === 'rent' ? 'renthome' : 'home', A.home)]);
     if (A.beds && !['skip', 'other'].includes(A.beds)) rows.push(['Bedrooms', L('beds', A.beds)]);
-    if (arr('who').length) rows.push(['Household', arr('who').map((v) => L('who', v)).join(', ')]);
+    if (A.pets && !['skip', 'other'].includes(A.pets)) rows.push(['Pets', L('pets', A.pets)]);
     Object.entries(RAW).forEach(([k, v]) => { if (k !== 'sell_addr') rows.push(['In their words (' + k.replace('_', ' ') + ')', v]); });
     return rows;
   };
