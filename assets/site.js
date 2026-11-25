@@ -13,6 +13,7 @@
       const payload = { name, email, phone: d.get('phone') || '', looking, message: d.get('message') || '',
         page: location.pathname + location.search, _subject: (form.dataset.subject || 'Website lead') + ': ' + looking + ' (' + name + ')', _template: 'table' };
       const btn = form.querySelector('button[type=submit]');
+      const label = btn.textContent;
       btn.disabled = true; btn.textContent = 'Sending...';
       try {
         const r = await fetch('https://formsubmit.co/ajax/' + form.dataset.to, {
@@ -22,7 +23,7 @@
         say('Got it, ' + name.split(' ')[0] + '. I will get back to you within a day.');
       } catch (err) {
         say('This message could not be sent from here. Call or text 310-269-5541, or email nate.grivas@compass.com.');
-      } finally { btn.disabled = false; btn.textContent = 'Send to Nathaniel'; }
+      } finally { btn.disabled = false; btn.textContent = label; }
     });
   });
 
