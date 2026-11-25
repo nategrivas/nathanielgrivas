@@ -557,7 +557,7 @@ table.rows{width:100%;border-collapse:collapse;font-size:14px}
 .circles .plus{display:grid;place-items:center;background:var(--glass2);font:600 16px var(--head);color:var(--cu2)}
 @media(max-width:860px){
   .mh-grid{grid-template-columns:minmax(0,1fr);gap:18px}
-  .mh-photo{aspect-ratio:auto;height:min(64vh,560px);border-radius:24px}
+  .mh-photo{aspect-ratio:auto;height:min(50vh,460px);border-radius:24px}
   .mh-copy h1{font-size:clamp(34px,9vw,48px)}
   .mh-ctas .btn{flex:1 1 100%}
 }
@@ -689,3 +689,6 @@ details.guide-more>.toolchips{margin-bottom:20px}
 @media(max-width:600px){.lightbox{padding:60px 8px}.lb-p,.lb-n{top:auto;bottom:50px;transform:none}}
 .allmap svg{transform:none}.allmap:hover svg{transform:scale(1.08)}
 .allmap h3{color:var(--cu2)}
+.hz.nomedia{min-height:clamp(380px,56vh,560px)}
+.hz.nomedia::after{background:linear-gradient(90deg,rgba(10,9,8,.85) 0,rgba(10,9,8,.35) 50%,rgba(10,9,8,0) 75%),linear-gradient(180deg,rgba(10,9,8,0) 60%,rgba(10,9,8,.9))}
+.hz{isolation:isolate}.hz>.heromap{z-index:0}
