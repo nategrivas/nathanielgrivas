@@ -266,33 +266,31 @@
   });
 })();
 
-// Listing films: a silent loop plays while in view; tapping plays the full film with sound. Vimeo loads only on tap.
+// Listing films: every film plays on its own, muted, whenever it is on screen. No buttons needed.
 (() => {
-  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const seen = (box, on, off) => {
+    if (!('IntersectionObserver' in window)) { on(); return; }
+    new IntersectionObserver((ents) => ents.forEach((en) => (en.isIntersecting ? on() : off && off())), { threshold: 0.2, rootMargin: '200px 0px' }).observe(box);
+  };
   document.querySelectorAll('[data-film]').forEach((box) => {
-    const v = box.querySelector('video'), btn = box.querySelector('.film-play');
-    let full = false;
-    if (!reduce && 'IntersectionObserver' in window) {
-      new IntersectionObserver((ents) => ents.forEach((en) => {
-        if (full) return;
-        if (en.isIntersecting) { if (!v.getAttribute('src')) v.src = v.dataset.src; const pr = v.play(); if (pr) pr.catch(() => {}); } else v.pause();
-      }), { threshold: 0.25 }).observe(box);
-    }
-    btn.addEventListener('click', () => {
-      full = true;
-      v.src = box.dataset.full; v.loop = false; v.muted = false; v.controls = true; v.preload = 'auto';
-      box.classList.add('playing');
-      const pr = v.play(); if (pr) pr.catch(() => {});
-      if (window.NG) window.NG.answer('Watched film', document.title);
+    const v = box.querySelector('video'), snd = box.querySelector('.film-snd');
+    v.muted = true;
+    const go = () => { if (!v.getAttribute('src')) { v.src = v.dataset.src; v.preload = 'auto'; } const pr = v.play(); if (pr) pr.catch(() => {}); };
+    seen(box, go, () => v.pause());
+    if (snd) snd.addEventListener('click', () => {
+      v.muted = !v.muted; snd.setAttribute('aria-pressed', String(!v.muted)); snd.setAttribute('aria-label', v.muted ? 'Turn sound on' : 'Turn sound off');
+      box.classList.toggle('sound', !v.muted); go();
+      if (!v.muted && window.NG) window.NG.answer('Watched film', document.title);
     });
   });
   document.querySelectorAll('[data-vimeo]').forEach((box) => {
-    box.querySelector('.film-play').addEventListener('click', () => {
+    let done = false;
+    seen(box, () => {
+      if (done) return; done = true;
       const f = document.createElement('iframe');
-      f.src = 'https://player.vimeo.com/video/' + box.dataset.vimeo + '?autoplay=1&dnt=1&title=0&byline=0&portrait=0';
-      f.allow = 'autoplay; fullscreen; picture-in-picture'; f.allowFullscreen = true; f.title = 'Video tour';
-      box.innerHTML = ''; box.appendChild(f); box.classList.add('playing');
-      if (window.NG) window.NG.answer('Watched film', document.title);
+      f.src = 'https://player.vimeo.com/video/' + box.dataset.vimeo + '?autoplay=1&muted=1&loop=1&autopause=0&playsinline=1&background=1&dnt=1&title=0&byline=0&portrait=0';
+      f.allow = 'autoplay; fullscreen; picture-in-picture'; f.title = 'Video tour'; f.setAttribute('loading', 'eager');
+      box.appendChild(f); box.classList.add('playing');
     });
   });
 })();
