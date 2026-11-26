@@ -1,0 +1,154 @@
+{
+ "date": "2026-11-26",
+ "title": "King tides, the Netflix lot deal and a busy holiday weekend",
+ "dek": "Thanksgiving in LA: record high tides along the coast, trains halted south of Irvine, Netflix buys a historic Studio City lot, and what's on this weekend.",
+ "items": [
+  {
+   "tag": "Weather",
+   "h": "Record king tides and big surf hit the coast on Thanksgiving morning",
+   "t": "An extreme high tide of about 8 feet arrived Thursday morning, with a coastal flood advisory for the Malibu coast and LA County beaches through noon and a high surf warning until 9 p.m. Forecasters expect waves of roughly 6 to 11 feet with strong rip currents, and the LA Harbor tied its all-time high-water mark. If you're heading to the beach this weekend, check tide times before parking in beach lots and stay off the rocks and jetties.",
+   "hoods": [
+    "malibu",
+    "santa-monica",
+    "venice",
+    "marina-del-rey",
+    "playa-del-rey"
+   ],
+   "src": [
+    [
+     "ABC7 live updates",
+     "https://abc7.com/live-updates/king-tides-live-updates-socal-coastal-communities-brace-possible-record-breaking-high-surf-flooding-heres-timeline/20070299/"
+    ],
+    [
+     "Yahoo News / ABC7",
+     "https://www.yahoo.com/news/weather-news/articles/amtrak-pacific-surfliner-train-suspended-191750201.html"
+    ]
+   ]
+  },
+  {
+   "tag": "Transit",
+   "h": "Amtrak halts Pacific Surfliner trains between Irvine and Oceanside",
+   "t": "High-tide washout damaged track near San Clemente, so Amtrak suspended Pacific Surfliner service between Irvine and Oceanside for the day. Taking the train to San Diego this weekend? Check pacificsurfliner.com before you leave, since more king tides are expected in December and January.",
+   "hoods": [],
+   "src": [
+    [
+     "ABC7",
+     "https://abc7.com/post/amtrak-pacific-surfliner-train-service-suspended-parts-la-county-oc-san-diego-due-high-tides-powerful-waves/20086249/"
+    ],
+    [
+     "Edhat",
+     "https://www.edhat.com/beyond-local/news/metrolink-orange-county-king-tides-suspension/"
+    ]
+   ]
+  },
+  {
+   "tag": "Real estate",
+   "h": "Netflix buys the Radford Studio Center lot in Studio City for $380 million",
+   "t": "The 55-acre, 22-stage lot where Seinfeld and Gunsmoke were filmed drew no bids at Tuesday's foreclosure auction in Pomona, so it went back to the Goldman Sachs-led lenders, and Netflix announced its purchase about an hour later. The price is about a fifth of the $1.85 billion Hackman Capital paid in 2021. ABC7 reports Netflix paid the city's Measure ULA transfer tax on the deal, and the lot will keep running as a working studio.",
+   "hoods": [
+    "studio-city"
+   ],
+   "src": [
+    [
+     "ABC7",
+     "https://abc7.com/post/netflix-buys-storied-radford-studio-center-city-380-million-variety-reports/20079872/"
+    ],
+    [
+     "The Real Deal",
+     "https://therealdeal.com/la/2026/11/24/goldman-sachs-officially-takes-over-radford-studio/"
+    ],
+    [
+     "Bloomberg",
+     "https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses"
+    ]
+   ]
+  },
+  {
+   "tag": "Weather",
+   "h": "A historic El Niño winter is shaping up",
+   "t": "UC climate scientist Daniel Swain's November update says this El Niño is already among the strongest on record for this time of year and still strengthening, which raises the odds of heavy rain and flooding in Southern California. The biggest local impacts usually arrive after the event peaks, so the wettest stretch could come after the new year. If you own a home, clear gutters and drains now and check drainage on hillside lots.",
+   "hoods": [],
+   "src": [
+    [
+     "UC ANR El Niño update (PDF)",
+     "https://ucanr.edu/sites/default/files/2026-11/Daniel%20Swain%20El%20Nino%20Fact%20Sheet%20ANR%20(Final%20version%20including%20CIWR%20logo,%2011062026).pdf"
+    ],
+    [
+     "FOX 11",
+     "https://www.foxla.com/news/southern-california-el-nino-winter-storm-forecast-2026"
+    ]
+   ]
+  },
+  {
+   "tag": "Things to do",
+   "h": "A packed holiday weekend: the Hollywood Christmas Parade, the Auto Show and holiday concerts",
+   "t": "The Hollywood Christmas Parade returns Sunday, Nov. 29, and the LA Auto Show runs downtown through the same day. Walt Disney Concert Hall kicks off its holiday series this weekend with Home Alone and Elf screened with a live orchestra, and the Smorgasburg holiday market is on the calendar too.",
+   "hoods": [
+    "hollywood"
+   ],
+   "src": [
+    [
+     "Resident",
+     "https://resident.com/los-angeles/2026/11/03/las-holiday-season-begins-with-these-15-things-to-do-in-november-2026"
+    ],
+    [
+     "We Like LA",
+     "https://www.welikela.com/things-to-do-this-thanksgiving-weekend-in-los-angeles-11-26-2026-to-11-29-2026/"
+    ]
+   ]
+  },
+  {
+   "tag": "Food",
+   "h": "Two downtown classics are serving again: Cole's and the Original Pantry",
+   "t": "Cole's, the French dip institution on 6th Street, has reopened with a more polished dining room, and the century-old Original Pantry Cafe is back serving breakfast, lunch and dinner under nonprofit management.",
+   "hoods": [],
+   "src": [
+    [
+     "The Infatuation",
+     "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+    ]
+   ]
+  },
+  {
+   "tag": "Housing",
+   "h": "LA rents kept cooling this fall",
+   "t": "The median asking rent in the City of LA slipped 3.3% from a year earlier to $2,708 in the third quarter of 2026, part of a slow multi-year easing in housing costs across LA County.",
+   "hoods": [],
+   "src": [
+    [
+     "Edhat",
+     "https://www.edhat.com/beyond-local/news/los-angeles-rents-drop-home-costly/"
+    ]
+   ]
+  }
+ ],
+ "openings": [
+  {
+   "n": "Kōzo",
+   "hood": "west-hollywood",
+   "w": "An Afro-Asian restaurant on Sunset with a cave-like dining room and dishes like king crab miso rolls. 8500 Sunset Blvd.",
+   "src": [
+    "The Infatuation",
+    "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+   ]
+  },
+  {
+   "n": "Mievè",
+   "hood": "fairfax",
+   "w": "A pizza pop-up turned sit-down restaurant, with toppings that rotate with the farmers market. 131 S La Brea Ave.",
+   "src": [
+    "The Infatuation",
+    "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+   ]
+  },
+  {
+   "n": "Yoonjen",
+   "hood": "culver-city",
+   "w": "A casual Korean breakfast and lunch window from the chef behind Spoon by H. 6960 S Centinela Ave, Suite 100.",
+   "src": [
+    "The Infatuation",
+    "https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings"
+   ]
+  }
+ ]
+}
