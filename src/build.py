@@ -14,6 +14,8 @@ import lamap  # noqa: E402
 import photos  # noqa: E402
 from photos import PHOTOS  # noqa: E402
 import places  # noqa: E402
+import v8  # noqa: E402
+from v8 import aerial, reviews_band, trust_row, GBP_URL, stars  # noqa: E402
 import guide_build as G  # noqa: E402
 GUIDES = G.load()
 import math  # noqa: E402
@@ -36,6 +38,7 @@ SAME_AS = [
     "https://www.zillow.com/profile/nate%20grivas",
     "https://www.realtor.com/realestateagents/6992bfc5702a1b78f9011763",
     "https://www.homes.com/real-estate-agents/nathaniel-grivas/zkpdjdw/",
+    "https://www.google.com/search?kgmid=/g/11nr10vv1j",
 ]
 
 PROPS = {
@@ -130,21 +133,26 @@ def head(title, desc, path, extra="", og="hero.jpg"):
 <meta property="og:url" content="{canon}">
 <meta property="og:image" content="{SITE}/img/{og}">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#100d0b">
+<meta name="theme-color" content="#f7f4ef">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<link rel="alternate" type="text/markdown" href="{md_url(path)}" title="Plain text version for AI and screen readers">
 <meta name="ng-to" content="{FORM_TO}">
 <link rel="icon" href="{rel(path)}assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Manrope:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{rel(path)}assets/style.css">
 {extra}
 </head>
-<body>
-{lamap.base_symbol()}"""
+<body>"""
 
 
 def rel(path):
     return "/"
+
+
+def md_url(path):
+    return "/index.md" if path == "/" else path.rstrip("/") + ".md"
 
 
 
@@ -179,6 +187,7 @@ def foot(path, scripts=(), active=""):
 <div class="me"><div class="name">Nathaniel Grivas</div>
 <p>REALTOR&reg; with <a href="{BG}" rel="noopener">The Brodsky Group</a> at Compass<br>{ADDR}<br>
 <a href="tel:{TEL}">{PHONE}</a> &nbsp; <a href="mailto:{EMAIL}">{EMAIL}</a></p>
+<a class="foot-g" href="{GBP_URL}" rel="noopener">{stars()}<b>5.0</b> on Google &middot; read the reviews</a>
 <p class="soc"><a href="{BG}" rel="noopener">The Brodsky Group</a> <a href="{SAME_AS[0]}">Compass</a> <a href="{SAME_AS[2]}">Instagram</a> <a href="{SAME_AS[1]}">LinkedIn</a> <a href="{SAME_AS[3]}">Zillow</a> <a href="{SAME_AS[4]}">Realtor.com</a></p></div>
 <div><h4>Explore</h4><ul><li><a href="/neighborhoods/">The map</a></li>{regions}</ul></div>
 <div><h4>Tools</h4><ul>{tools}</ul></div>
@@ -279,7 +288,7 @@ FEATURED = {
               "I represented both the seller and the buyer and closed it in October 2026 for $3,275,000."],
         poster="/img/fuller.jpg", vimeo="1180538967", film_len="1:00",
         compass="https://www.compass.com/homedetails/616-N-Fuller-Ave-Los-Angeles-CA-90036/2072900371372293281_lid/",
-        credit="Sold by Nate Grivas of The Brodsky Group at Compass"),
+        credit="Sold by Nathaniel Grivas of The Brodsky Group at Compass"),
 }
 
 
@@ -335,8 +344,11 @@ def mini_map(h, width=170, aspect=0.56, r=1.0):
 def hood_card(h, r, extra_cls=""):
     c = CITIES[h["city"]]
     chips = f'<span>{e(c["short"])}</span><span title="{TIER_WORD[h["tier"]]}">{TIER[h["tier"]]}</span>'
+    ph = PHOTOS.get(h["slug"])
+    media = (ph_img(ph[0][0], ph[0][1], 520, 0.56, "(max-width:700px) 92vw, 300px", cls="hc-img") if ph
+             else aerial(*h["ll"], z=15, cols=3, rows=3, ts=180, cls="hc-aer"))
     return f"""<a class="hcard{extra_cls}" href="{r}neighborhoods/{h['slug']}/" data-slug="{h['slug']}" data-region="{slug(h['region'])}" data-tags="{' '.join(h['tags'])}" data-name="{e(h['name'].lower())}" data-zips="{h['zips']}">
-{mini_map(h)}
+<div class="hc-media">{media}</div>
 <div class="hc-body"><span class="hc-reg">{e(h['region'])}</span><h3>{e(h['name'])}</h3><p>{e(h['line'])}</p>
 <div class="hc-chips">{chips}</div></div></a>"""
 
@@ -459,7 +471,7 @@ def photo_tile(h, cls="", sizes="(max-width:700px) 92vw, 30vw"):
     if p:
         media = ph_img(p[0][0], p[0][1], 900, None, sizes)
     else:
-        media = mini_map(h, 320, 1.2, 1.4)
+        media = aerial(*h["ll"], z=15, cols=3, rows=3, ts=230)
     tier = TIER[h["tier"]]
     return (f'<a class="tile{" maptile" if not p else ""}{" " + cls if cls else ""}" href="/neighborhoods/{h["slug"]}/" data-tags="{" ".join(h["tags"])}">'
             f'{media}<div class="tile-txt"><span class="tile-k">{e(h["region"])} &middot; {tier}</span><h3>{e(h["name"])}</h3><p>{e(h["line"])}</p></div></a>')
@@ -569,22 +581,59 @@ def post_card(p, r):
 
 
 # ------------------------------------------------------------------ pages
+def agent_facts():
+    def deal(k):
+        p_ = PROPS[k]
+        return f"{p_['addr']}, {p_['area']} ({p_['tag'].lower()}, {p_['price']}{p_.get('per', '')}; represented the {p_['rep'].lower()})"
+    def lst(k):
+        p_ = PROPS[k]
+        return f"{p_['addr']}, {p_['area']} ({p_['tag'].lower()}, {p_['price']}{p_.get('per', '')})"
+    return [
+        ("Name", "Nathaniel Grivas"),
+        ("Role", "REALTOR®, residential real estate agent"),
+        ("License", f"California DRE #{DRE}"),
+        ("Brokerage", f"Compass, Beverly Hills office, {ADDR} (Compass DRE #{CO_DRE})"),
+        ("Team", "The Brodsky Group at Compass, led by Or Brodsky, with over $100M in annual team sales"),
+        ("Reviews", "5.0 stars on Google (2 reviews)"),
+        ("Areas served", "West Los Angeles, Beverly Hills, the Hollywood Hills, Central LA, the Eastside and the San Fernando Valley: " + ", ".join(h["name"] for h in ORDER)),
+        ("Services", "Buying, selling, leasing, investing and building: pricing and listing prep, competitive offers, leasing, new construction, teardown and lot analysis, ADU feasibility and off-market deals"),
+        ("Closed deals", "; ".join(deal(k) for k in SOLD)),
+        ("Current listings", "; ".join(lst(k) for k in ACTIVE)),
+        ("Education", "Loyola Marymount University, Marketing and Business Law"),
+        ("Contact", f"Call or text {PHONE}, email {EMAIL}"),
+    ]
+
+
+def facts_band():
+    rows = "".join(f"<div><dt>{e(k)}</dt><dd>{e(v)}</dd></div>" for k, v in agent_facts())
+    return f"""<section class="band facts-band" id="facts"><div class="wrap">
+<div class="sec-head"><div><p class="kick">Quick facts</p><h2>Nathaniel Grivas at a glance</h2></div></div>
+<dl class="qfacts">{rows}</dl></div></section>"""
+
+
 def person_ld():
     return {
-        "@context": "https://schema.org", "@type": "RealEstateAgent", "name": "Nathaniel Grivas",
-        "jobTitle": "REALTOR", "description": "West Los Angeles REALTOR with The Brodsky Group at Compass Beverly Hills. " + AREAS_LINE,
+        "@context": "https://schema.org", "@type": "RealEstateAgent", "@id": SITE + "/#nathaniel", "name": "Nathaniel Grivas",
+        "alternateName": "Nate Grivas", "jobTitle": "REALTOR",
+        "description": "West Los Angeles REALTOR with The Brodsky Group at Compass Beverly Hills. " + AREAS_LINE,
         "url": SITE + "/", "image": SITE + "/img/nate-hero.jpg", "telephone": "+1-310-269-5541", "email": EMAIL,
         "address": {"@type": "PostalAddress", "streetAddress": "9454 Wilshire Blvd, Ste 100",
                     "addressLocality": "Beverly Hills", "addressRegion": "CA", "postalCode": "90212", "addressCountry": "US"},
-        "areaServed": [h["name"] for h in ORDER],
+        "geo": {"@type": "GeoCoordinates", "latitude": 34.0675, "longitude": -118.3995},
+        "openingHours": "Mo-Su 00:00-23:59",
+        "areaServed": [{"@type": "Place", "name": f"{h['name']}, Los Angeles, CA", "url": f"{SITE}/neighborhoods/{h['slug']}/",
+                        "geo": {"@type": "GeoCoordinates", "latitude": h["ll"][0], "longitude": h["ll"][1]}} for h in ORDER],
         "parentOrganization": {"@type": "RealEstateAgent", "name": "Compass", "url": "https://www.compass.com/"},
         "memberOf": {"@type": "Organization", "name": "The Brodsky Group at Compass", "url": BG,
                      "description": "Compass Beverly Hills team with over $100M in annual sales"},
         "makesOffer": [{"@type": "Offer", "itemOffered": {"@type": "Service", "name": t, "description": d}} for _, t, d in HELP],
         "knowsAbout": ["Luxury residential real estate", "Development and teardown analysis", "ADU feasibility",
-                       "Off-market sourcing", "Leasing", "Measure ULA", "Los Angeles neighborhoods"],
+                       "Off-market sourcing", "Leasing", "Measure ULA", "Los Angeles neighborhoods", "Seller financing"],
         "alumniOf": {"@type": "CollegeOrUniversity", "name": "Loyola Marymount University"},
         "identifier": {"@type": "PropertyValue", "name": "California DRE license", "value": DRE},
+        "hasCredential": {"@type": "EducationalOccupationalCredential", "credentialCategory": "license",
+                          "name": "California real estate salesperson license", "identifier": DRE,
+                          "recognizedBy": {"@type": "GovernmentOrganization", "name": "California Department of Real Estate"}},
         "sameAs": SAME_AS,
     }
 
@@ -629,24 +678,27 @@ def page_home(posts):
     path = "/"
     r = "/"
     tiles = "".join(photo_tile(BY_SLUG[s_], "big" if i == 0 else "") for i, s_ in enumerate(HOME_HOODS))
-    tiles += (f'<a class="tile maptile allmap" href="/neighborhoods/"><svg viewBox="0 0 {lamap.W:g} {lamap.HH:g}" preserveAspectRatio="xMidYMid slice" aria-hidden="true">{use_base()}</svg>'
+    tiles += (f'<a class="tile maptile allmap" href="/neighborhoods/">{aerial(34.06, -118.39, z=12, cols=3, rows=3, ts=260)}'
               f'<div class="tile-txt"><span class="tile-k">The map</span><h3>Every neighborhood</h3></div></a>')
     helps = "".join(f'<a href="{intake_url(g)}"><b>{e(t)}</b><span>{e(d)}</span><i aria-hidden="true">&rarr;</i></a>' for g, t, d in HELP)
     body = f"""{nav(path, "home")}
 <main>
 <section class="face-hero" aria-label="Nathaniel Grivas, West Los Angeles REALTOR">
-<figure class="fh-me"><img src="/img/nate-hero.jpg" alt="Nathaniel Grivas, REALTOR&reg; at Compass Beverly Hills" width="1200" height="1500" fetchpriority="high"></figure>
+<figure class="fh-me"><img src="/img/nate-hero-800.jpg" srcset="/img/nate-hero-800.jpg 800w, /img/nate-hero.jpg 1200w" sizes="(max-width:860px) 100vw, 42vw" alt="Nathaniel Grivas, REALTOR&reg; at Compass Beverly Hills" width="1200" height="1500" fetchpriority="high"></figure>
 <div class="fh-copy">
 <p class="kick">The Brodsky Group at Compass Beverly Hills</p>
 <h1><span class="lh-name">Nathaniel Grivas</span><span class="lh-sub">West Los Angeles REALTOR&reg;</span></h1>
 <p class="fh-lede">I help people buy, sell, rent, invest and build across West LA, Beverly Hills and the Valley.</p>
-<div class="lh-cta"><a class="btn lux solid" href="#help">Work with me</a><a class="btn lux" href="#homes">View listings</a></div>
-<figure class="fh-team"><img src="/img/team.jpg" alt="The Brodsky Group team at Compass Beverly Hills" width="2000" height="1333" fetchpriority="high">
+<div class="lh-cta"><button type="button" class="btn lux solid" data-msg>Work with me</button><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div>
+{trust_row("fh-trust")}
+<figure class="fh-team"><img src="/img/team-1200.jpg" srcset="/img/team-1200.jpg 1200w, /img/team.jpg 2000w" sizes="(max-width:860px) 92vw, 46vw" alt="The Brodsky Group team at Compass Beverly Hills" width="1200" height="800" loading="lazy" decoding="async">
 <figcaption><span><b>The Brodsky Group</b> &middot; $100M+ in annual team sales</span><a href="{BG}" rel="noopener">Meet the team &#8599;</a></figcaption></figure>
 </div>
 </section>
 
 {featured_section()}
+
+{reviews_band(True, "What my clients say", "rv-home")}
 
 <section class="help" id="help"><div class="wrap">
 <div class="lux-head"><p class="kick">Work with me</p><h2>How can I help?</h2></div>
@@ -687,7 +739,7 @@ def page_home(posts):
 {foot(path, [])}"""
     desc = ("Nathaniel Grivas, West Los Angeles REALTOR® with The Brodsky Group at Compass Beverly Hills. Buy, sell, rent, invest or build across West LA, "
             "Beverly Hills and the Valley.")
-    extra = ld(person_ld()) + ld(listings_ld()) + '\n<link rel="alternate" type="text/markdown" href="/index.md" title="Text version of this page">'
+    extra = ld(person_ld()) + ld(listings_ld())
     return head("Nathaniel Grivas | West Los Angeles REALTOR® | The Brodsky Group at Compass", desc, path, extra, og="nate-hero.jpg") + body
 
 
@@ -697,18 +749,21 @@ def page_explore():
     regs = "".join(f'<button type="button" data-region="{slug(x)}" aria-pressed="false">{e(x)}</button>' for x in REGIONS)
     tags = "".join(f'<button type="button" data-tag="{k}" aria-pressed="false">{e(v)}</button>' for k, v in TAGS.items())
     cards = "".join(hood_card(h, r) for h in ORDER)
+    pts = [{"slug": h["slug"], "name": h["name"], "lat": h["ll"][0], "lng": h["ll"][1], "line": h["line"], "url": f"/neighborhoods/{h['slug']}/",
+            "region": slug(h["region"]), "tags": " ".join(h["tags"]), "zips": h["zips"],
+            "img": photos.url(PHOTOS[h["slug"]][0][0], 480, 300) if PHOTOS.get(h["slug"]) else ""} for h in ORDER]
     body = f"""{nav(path, "explore")}
 <main class="wrap xp">
 <div class="xp-map">
-<div class="maphead"><span class="live">Explore LA</span><span>Drag &middot; pinch &middot; double-click to zoom</span></div>
-<div class="mapwrap explore-map">{big_map(r)}<div class="tip" hidden></div>
-<div class="zoom"><button type="button" data-z="in" aria-label="Zoom in">+</button><button type="button" data-z="out" aria-label="Zoom out">&minus;</button><button type="button" data-z="reset" aria-label="Reset map">&#8634;</button></div></div>
+<div class="satmap" id="satmap" role="region" aria-label="Satellite map of Los Angeles neighborhoods"></div>
+<script type="application/json" id="satmap-data">{json.dumps(pts)}</script>
 <div class="agentbar"><img src="/img/nate.jpg" alt="" width="42" height="42"><div><b>Not sure where to start?</b><span>Take the <a href="/tools/neighborhood-quiz/">6-question quiz</a> or ask me directly.</span></div>
 <a class="btn small" href="sms:{TEL}">Text</a><a class="btn solid small" href="tel:{TEL}">Call</a></div>
 </div>
 <div class="xp-side">
-<p class="eyebrow">Explore LA</p>
-<h1>Explore LA</h1>
+<p class="kick">Explore LA</p>
+<h1>40 neighborhoods, coast to Valley</h1>
+<p class="xp-lede">Real satellite imagery, photos, where to eat, the rules and who each area fits.</p>
 <label class="search">{ICONS['search']}<input id="q" type="search" placeholder="Search a neighborhood or ZIP" autocomplete="off"></label>
 <div class="chiprow" id="regions" role="group" aria-label="Region"><button type="button" data-region="" aria-pressed="true">All</button>{regs}</div>
 <div class="chiprow" id="tags" role="group" aria-label="What you want">{tags}</div>
@@ -718,11 +773,13 @@ def page_explore():
 </div>
 </main>
 <section class="band" style="padding-top:10px"><div class="wrap"><div class="tools">{tool_card("neighborhood-quiz", r)}{tool_card("compare", r)}{tool_card("la-rules", r)}</div></div></section>
+{reviews_band(False, "Why people work with me")}
 {contact_band(r, "Not sure where to start?", "Answer a few questions and I'll set up a search for the areas that fit.", "buy")}
-{foot(path, ["map.js"], "explore")}"""
-    desc = "Interactive map and guides to 40 Los Angeles neighborhoods, from Santa Monica and Venice to Beverly Hills, Los Feliz and the Valley. By Nathaniel Grivas, REALTOR®."
+{foot(path, ["vendor/leaflet.js", "satmap.js"], "explore")}"""
+    desc = "Satellite map and guides to 40 Los Angeles neighborhoods, from Santa Monica and Venice to Beverly Hills, Los Feliz and the Valley. By Nathaniel Grivas, REALTOR®."
     ld_ = crumbs_ld([("Home", "/"), ("Explore LA", path)])
-    return head("Explore 40 Los Angeles Neighborhoods | Interactive Map | Nathaniel Grivas", desc, path, ld(ld_)) + body
+    extra = ld(ld_) + '\n<link rel="stylesheet" href="/assets/vendor/leaflet.css">'
+    return head("Explore 40 Los Angeles Neighborhoods | Satellite Map | Nathaniel Grivas", desc, path, extra) + body
 
 
 def rules_box(h, r):
@@ -748,24 +805,25 @@ def page_hood(h, posts):
     i = ORDER.index(h)
     prev_, next_ = ORDER[i - 1], ORDER[(i + 1) % len(ORDER)]
     ph = PHOTOS.get(h["slug"], [])
-    spots = "".join(f'<li><span class="n">{k + 1}</span><b>{e(t)}</b><span>{e(d)}</span></li>' for k, (t, d) in enumerate(h["know"]))
-    near = "".join(photo_tile(BY_SLUG[n]) for n in h["near"])
+    n = h["name"]
+    spots = "".join(f'<li><span class="n">{k + 1}</span><span><b>{e(t)}</b><span>{e(d)}</span></span></li>' for k, (t, d) in enumerate(h["know"]))
+    near = "".join(photo_tile(BY_SLUG[x]) for x in h["near"])
     deals = DEALS.get(h["slug"], [])
     deals_html = ""
     if deals:
         deals_html = f"""<section class="band" id="deals"><div class="wrap">
-<div class="head"><h2 class="h2">My deals in {e(h['name'])}</h2><a href="/listings/">All listings &rarr;</a></div>
+<div class="sec-head"><div><p class="kick">Track record</p><h2>My deals in {e(n)}</h2></div><a href="/listings/">All listings &rarr;</a></div>
 <div class="grid homes">{"".join(prop_card(k, r) for k in deals)}</div></div></section>"""
     rel_posts = [p for p in posts if h["slug"] in p.get("hoods", []) or (h["city"] == "Los Angeles" and "city-of-la" in p.get("hoods", []))]
     posts_html = ""
     if rel_posts:
-        posts_html = f"""<div class="head" style="margin-top:26px"><h3>Read before you buy here</h3></div><div class="posts">{"".join(post_card(p, r) for p in rel_posts[:3])}</div>"""
+        posts_html = f"""<div class="nb-reads"><h3>Read before you buy here</h3><div class="posts">{"".join(post_card(p, r) for p in rel_posts[:3])}</div></div>"""
     chips = "".join(f'<a href="/neighborhoods/#{t}">{e(TAGS[t])}</a>' for t in h["tags"])
     if ph:
-        hero_media = ph_img(ph[0][0], ph[0][1], 1800, None, "100vw", eager=True, cls="hz-bg")
-        credit = '' if ph[0][0].startswith("/") else '<a class="credit" href="https://unsplash.com/" rel="noopener">Photo: Unsplash</a>'
+        hero_media = ph_img(ph[0][0], ph[0][1], 2000, None, "100vw", eager=True, cls="nb-hero-img")
+        credit = '<a class="credit" href="https://unsplash.com/" rel="noopener">Photo: Unsplash</a>'
     else:
-        hero_media = hero_map(h)
+        hero_media = aerial(*h["ll"], z=15, cols=7, rows=4, ts=300, cls="nb-hero-aer", eager=True, label=f"Aerial photo of {n}")
         credit = ""
     gal = ""
     if len(ph) > 1:
@@ -777,68 +835,94 @@ def page_hood(h, posts):
             figs += (f'<button type="button" class="g{" g0" if k == 0 else ""}" data-full="{photos.url(pid, 2000)}" data-alt="{e(alt)}" aria-label="View photo: {e(alt)}">'
                      f'{ph_img(pid, alt, 900 if k == 0 else 600, 0.75 if k else 0.8, "(max-width:700px) 80vw, 33vw")}{more}</button>')
         all_ = "".join(f'<i data-full="{photos.url(pid, 2000)}" data-alt="{e(alt)}"></i>' for pid, alt in ph)
-        gal = f'<section class="band gband"><div class="wrap"><div class="gallery n{len(items)}" data-gallery>{figs}<div hidden class="gall">{all_}</div></div></div></section>'
+        gal = (f'<section class="band nb-gal" id="photos"><div class="wrap"><div class="sec-head"><div><p class="kick">Photos</p><h2>{e(n)} in pictures</h2></div></div>'
+               f'<div class="gallery n{len(items)}" data-gallery>{figs}<div hidden class="gall">{all_}</div></div></div></section>')
     lat, lng = h["ll"]
-    gmaps = f"https://www.google.com/maps/search/?api=1&query={h['name'].replace(' ', '+').replace('&', 'and')}+Los+Angeles+CA"
-    place = {"@context": "https://schema.org", "@type": "Place", "name": f"{h['name']}, Los Angeles",
+    qa = v8.hood_faq(h, c, PHONE, DRE)
+    place = {"@context": "https://schema.org", "@type": "Place", "name": f"{n}, Los Angeles", "url": SITE + path,
              "description": h["intro"], "geo": {"@type": "GeoCoordinates", "latitude": lat, "longitude": lng},
+             "hasMap": v8.gmaps_link(h),
              "containedInPlace": {"@type": "City", "name": c["label"].replace("City of ", "").replace("Unincorporated ", "")}}
     if ph:
         place["image"] = [photos.url(pid, 1600) for pid, _ in ph[:3]]
-    crumbs = crumbs_ld([("Home", "/"), ("Neighborhoods", "/neighborhoods/"), (h["name"], path)])
+    service = {"@context": "https://schema.org", "@type": "Service", "serviceType": "Real estate agent",
+               "name": f"Buying, selling and renting in {n}", "url": SITE + path,
+               "provider": {"@id": SITE + "/#nathaniel"}, "areaServed": {"@type": "Place", "name": f"{n}, Los Angeles, CA",
+               "geo": {"@type": "GeoCoordinates", "latitude": lat, "longitude": lng}}}
+    crumbs = crumbs_ld([("Home", "/"), ("Neighborhoods", "/neighborhoods/"), (n, path)])
+    sub = [("overview", "Overview"), ("map", "Satellite map")] + ([("photos", "Photos")] if gal else []) + \
+          [("around", "Eat &amp; do"), ("living", "Living here"), ("reviews", "Reviews"), ("faq", "FAQ")]
+    subnav = "".join(f'<a href="#{a}">{b}</a>' for a, b in sub)
     body = f"""{nav(path, "explore")}
-<main class="hood">
-<section class="hz{" nomedia" if not ph else ""}">{hero_media}
-<div class="wrap hz-in">
-<div class="crumbs"><a href="/neighborhoods/">Neighborhoods</a> / <a href="/neighborhoods/#{slug(h['region'])}">{e(h['region'])}</a></div>
-<h1>{e(h['name'])}</h1>
-<p class="hz-line">{e(h['line'])}</p>
-<div class="hz-chips"><span title="{TIER_WORD[h['tier']]}">{TIER[h['tier']]} &middot; {TIER_WORD[h['tier']]}</span><span>{e(c['short'])}</span><span>ZIP {e(h['zips'])}</span></div>
-<div class="cta-row"><a class="btn solid big" href="{intake_url('buy', h['slug'])}">Get {e(h['name'])} listings</a><a class="btn big" href="sms:{TEL}">{ICONS['text']}Text Nathaniel</a></div>
+<main class="nb">
+<section class="nb-hero{" nb-aer" if not ph else ""}">{hero_media}<div class="nb-shade"></div>
+<div class="wrap nb-hin">
+<nav class="crumbs" aria-label="Breadcrumb"><a href="/neighborhoods/">Neighborhoods</a> / <a href="/neighborhoods/#{slug(h['region'])}">{e(h['region'])}</a></nav>
+<h1>{e(n)}</h1>
+<p class="nb-line">{e(h['line'])}</p>
+<div class="nb-chips"><span>{e(c['short'])}</span><span>ZIP {e(h['zips'])}</span><span title="{TIER_WORD[h['tier']]}">{TIER[h['tier']]} &middot; {TIER_WORD[h['tier']]}</span></div>
+<div class="nb-cta"><a class="btn lux solid" href="{intake_url('buy', h['slug'])}">See {e(n)} homes</a><a class="btn lux" href="sms:{TEL}">Text Nathaniel</a></div>
 </div>{credit}</section>
-{gal}
-<section class="band"><div class="wrap feel">
-<div class="feel-l">
-<h2 class="h2">What it's like</h2>
-<p class="big">{e(h['feel'])}</p>
+<nav class="nb-sub" aria-label="On this page"><div class="wrap">{subnav}<a class="nb-sub-cta" href="tel:{TEL}">{ICONS['call']}{PHONE}</a></div></nav>
+<section class="band nb-ov" id="overview"><div class="wrap nb-ov-grid">
+<div class="nb-ov-l">
+<p class="kick">What it&rsquo;s like</p>
+<p class="nb-lead">{e(h['feel'])}</p>
+<p class="nb-intro">{e(h['intro'])}</p>
 <div class="taglinks">{chips}</div>
-<h3 class="spots-h">Spots to know</h3>
-<ol class="spots">{spots}</ol>
 </div>
-<aside class="feel-r">
-<a class="mapcard glass" href="{gmaps}" rel="noopener">{mini_map(h, 260, 0.62, 1.3)}<span>{ICONS['pin']}Open in Google Maps</span></a>
-{nate_card(f"Thinking about {h['name']}?", f"I'll send you what's for sale, and what's coming. <a href='{BG}' rel='noopener'>The Brodsky Group</a> at Compass.")}
+<aside class="nb-facts" aria-label="{e(n)} at a glance">
+<h2>At a glance</h2>
+<dl>
+<div><dt>Jurisdiction</dt><dd>{e(c['label'])}</dd></div>
+<div><dt>ZIP</dt><dd>{e(h['zips'])}</dd></div>
+<div><dt>Price level</dt><dd>{TIER[h['tier']]} &middot; {TIER_WORD[h['tier']]}</dd></div>
+<div><dt>Region</dt><dd>{e(h['region'])}</dd></div>
+<div><dt>Good fit if</dt><dd>{e(h['fit'])}</dd></div>
+</dl>
+<div class="nb-agent"><img src="/img/nate-sm.jpg" alt="Nathaniel Grivas" width="64" height="80" loading="lazy">
+<div><b>Nathaniel Grivas</b><span>REALTOR&reg; &middot; The Brodsky Group at Compass</span><a href="{GBP_URL}" rel="noopener">{stars()} 5.0 on Google</a></div></div>
+<div class="nb-agent-cta"><a class="btn solid" href="tel:{TEL}">{ICONS['call']}Call</a><a class="btn" href="sms:{TEL}">{ICONS['text']}Text</a><button type="button" class="btn" data-msg>{ICONS['email']}Message</button></div>
 </aside>
 </div></section>
+<section class="band nb-map" id="map"><div class="wrap">
+<div class="sec-head"><div><p class="kick">From above</p><h2>{e(n)} by satellite</h2></div><a href="{v8.gmaps_link(h)}" rel="noopener">Open in Google Maps &#8599;</a></div>
+<div class="nb-mapgrid">
+{v8.sat_map(h)}
+<div class="nb-spots"><h3>Spots to know</h3><ol>{spots}</ol></div>
+</div></div></section>
+{gal}
 {local_guide(h)}
 {deals_html}
-<section class="band" id="nearby"><div class="wrap">
-<div class="head"><h2 class="h2">Next door</h2><a href="/neighborhoods/">All neighborhoods &rarr;</a></div>
-<div class="tilerow">{near}</div>
-</div></section>
-<section class="band"><div class="wrap">
-<details class="guide-more glass"><summary><span><b>The full {e(h['name'])} guide</b><small>History, housing, who it fits, taxes and rules</small></span><span class="chev">+</span></summary>
-<div class="gm-body">
-<div class="gm-text">
-<p>{e(h['intro'])}</p>
+<section class="band nb-live" id="living"><div class="wrap">
+<div class="sec-head"><div><p class="kick">Living here</p><h2>The homes, the rules and who it fits</h2></div></div>
+<div class="nb-live-grid">
+<div class="nb-live-l">
 <h3>The housing</h3><p>{e(h['housing'])}</p>
 <div class="fitgrid"><div class="fit yes"><b>Good fit if</b><p>{e(h['fit'])}</p></div><div class="fit no"><b>Think twice if</b><p>{e(h['skip'])}</p></div></div>
+<div class="toolchips"><span>Run the numbers</span><a href="/tools/mortgage/">{ICONS['home']}Mortgage</a><a href="/tools/rent-vs-buy/">{ICONS['scale']}Rent vs buy</a><a href="/tools/transfer-tax/?city={slug(h['city'])}">{ICONS['tax']}Transfer tax</a><a href="/tools/compare/?a={h['slug']}&amp;b={h['near'][0]}">{ICONS['split']}Compare</a></div>
 </div>
 {rules_box(h, r)}
 </div>
 {posts_html}
-<div class="toolchips"><span>Run the numbers</span><a href="/tools/mortgage/">{ICONS['home']}Mortgage</a><a href="/tools/rent-vs-buy/">{ICONS['scale']}Rent vs buy</a><a href="/tools/transfer-tax/?city={slug(h['city'])}">{ICONS['tax']}Transfer tax</a><a href="/tools/compare/?a={h['slug']}&amp;b={h['near'][0]}">{ICONS['split']}Compare</a></div>
-</details>
+</div></section>
+{reviews_band(False, f"Why people work with me")}
+<section class="band" id="nearby"><div class="wrap">
+<div class="sec-head"><div><p class="kick">Next door</p><h2>Neighborhoods nearby</h2></div><a href="/neighborhoods/">All 40 neighborhoods &rarr;</a></div>
+<div class="tilerow">{near}</div>
+</div></section>
+{journal_band(h['slug'], n)}
+{v8.faq_html(qa, f"{n}: common questions")}
+<section class="band" style="padding-top:0"><div class="wrap">
 <nav class="pager" aria-label="More neighborhoods"><a class="glass" href="/neighborhoods/{prev_['slug']}/"><span>Previous</span>{e(prev_['name'])}</a><a class="glass" href="/neighborhoods/"><span>All</span>Map</a><a class="glass" href="/neighborhoods/{next_['slug']}/"><span>Next</span>{e(next_['name'])}</a></nav>
 </div></section>
-{contact_band(r, f"Looking in {h['name']}?", f"Tell me what you want. I'll set up your search and send new {h['name']} listings as they hit.", "buy", area=h['slug'])}
+{contact_band(r, f"Looking in {n}?", f"Tell me what you want and your budget. I'll set up your search and send new {n} listings as they hit, including ones that aren't public yet.", "buy", "", f"Website lead: {n}", form=True)}
 <div class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Photo viewer"><button type="button" class="lb-x" aria-label="Close">&times;</button><button type="button" class="lb-p" aria-label="Previous photo">&lsaquo;</button><img alt=""><button type="button" class="lb-n" aria-label="Next photo">&rsaquo;</button><p class="lb-c"></p></div>
 </main>
 {foot(path, (), "explore")}"""
-    title = f"Living in {h['name']}, Los Angeles: Photos & Neighborhood Guide | Nathaniel Grivas"
+    title = f"Living in {n}, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas"
     desc = f"{h['line']} {h['intro']}"[:300]
-    og = "hero.jpg"
-    return head(title, desc, path, ld(place) + ld(crumbs), og=og) + body
+    return head(title, desc, path, ld(place) + ld(service) + ld(crumbs) + ld(v8.faq_ld(qa)), og="hero.jpg") + body
 
 
 def page_tools():
@@ -1086,6 +1170,7 @@ def page_featured(k):
 {gal}
 <section class="band lux-band"><div class="wrap"><div class="lux-head"><p class="kick">Also featured</p><h2><a class="plain" href="{PROPS[other]["page"]}">{e(o["title"])}</a></h2></div>
 <a class="also" href="{PROPS[other]["page"]}"><img src="{o["poster"]}" alt="{e(o["title"])}" loading="lazy"><span><small>{e(o["status"])} &middot; {e(o["price"])}</small><b>{e(o["title"])}</b>{e(o["line"])} <i>Watch the film &rarr;</i></span></a></div></section>
+{reviews_band(False, "What sellers say")}
 {contact_band("/", "Want a result like this?", f"Thinking about selling, or looking for a home like this in the {f['where'].split(',')[0]}? Tell me what you're after.", "sell", "", "Website lead: " + f["title"] + " (sold)", form=True) if f["status"] == "Sold" else contact_band("/", "Let's talk", "Questions about this home, or looking for something like it? Send me a note.", "buy", "Interested in " + f["title"], "Website lead: " + f["title"], form=True)}
 {'<div class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Photo viewer"><button type="button" class="lb-x" aria-label="Close">&times;</button><button type="button" class="lb-p" aria-label="Previous photo">&lsaquo;</button><img alt=""><button type="button" class="lb-n" aria-label="Next photo">&rsaquo;</button><p class="lb-c"></p></div>' if gal else ''}
 </main>
@@ -1114,6 +1199,7 @@ def page_listings():
 <section class="band" style="padding-top:0"><div class="wrap">
 <div class="head"><div><p class="eyebrow">Track record</p><h2 class="h2">Closed</h2></div></div>
 <div class="grid">{"".join(prop_card(k, r) for k in SOLD)}</div></div></section>
+{reviews_band(False, "What sellers say")}
 {contact_band(r, "Get homes before they hit the market", "Tell me the area and the budget. Off-market and coming-soon homes go to my list first.", "buy", "", "Website lead: off-market list")}
 </main>
 {foot(path)}"""
@@ -1129,6 +1215,7 @@ def page_about():
 <div class="portrait"><img src="{r}img/nate-about.jpg" alt="Nathaniel Grivas, REALTOR at Compass" width="900" height="990"></div>
 <div><p class="eyebrow">About Nathaniel</p><h1 class="h1">Nathaniel Grivas</h1>
 <p class="lede" style="margin-top:18px">Raised between New York and Seattle before relocating to Los Angeles, Nathaniel Grivas is a REALTOR&reg; with The Brodsky Group at Compass Beverly Hills, a team with over $100M in annual sales. He represents buyers, sellers, landlords and developers across West Los Angeles, Beverly Hills and the San Fernando Valley.</p>
+{trust_row()}
 <div class="facts"><div class="glass"><b>$100M+</b><span>annual team sales</span></div><div><b>DRE</b><span>#{DRE}</span></div><div><b>LMU</b><span>Marketing &amp; Business Law</span></div></div>
 <div class="cta-row"><a class="btn solid" href="tel:{TEL}">Call {PHONE}</a><a class="btn" href="#contact" data-msg>Send a message</a><a class="btn ext" href="{BG}" rel="noopener">The Brodsky Group</a></div>
 </div></div></section>
@@ -1140,6 +1227,8 @@ def page_about():
 <h2>Outside of real estate</h2>
 <p>Basketball, golf and tennis, and time with friends and family. I write about the parts of LA that are actually worth your time in the <a href="{r}guide/">LA Guide</a>.</p>
 </div></section>
+{reviews_band(True, "What my clients say")}
+{facts_band()}
 {team_section("team-2.jpg", "I work on The Brodsky Group, led by Or Brodsky at Compass Beverly Hills. Over $100M in sales every year, from new construction to off-market deals.")}
 {contact_band(r)}
 </main>
@@ -1270,7 +1359,7 @@ def page_guide(posts):
             cats += f'<div class="gcatg"><p class="kick">{e(glabel)}</p><div class="gcats">{links}</div></div>'
     ready = [BY_SLUG[s_] for s_ in GUIDES if s_ in BY_SLUG]
     tiles = "".join(
-        f'<a class="gtile" href="/guide/{h["slug"]}/">{(ph_img(PHOTOS[h["slug"]][0][0], PHOTOS[h["slug"]][0][1], 700, 0.7, "(max-width:700px) 50vw, 25vw") if PHOTOS.get(h["slug"]) else mini_map(h, 320, 0.7, 1.2))}'
+        f'<a class="gtile" href="/guide/{h["slug"]}/">{(ph_img(PHOTOS[h["slug"]][0][0], PHOTOS[h["slug"]][0][1], 700, 0.7, "(max-width:700px) 50vw, 25vw") if PHOTOS.get(h["slug"]) else aerial(*h["ll"], z=15, cols=3, rows=3, ts=200))}'
         f'<span><small>{e(h["region"])}</small><b>{e(h["name"])}</b><em>{len(GUIDES[h["slug"]]["places"])} places</em></span></a>' for h in ready)
     soon = [h for h in ORDER if h["slug"] not in GUIDES]
     soon_html = ""
@@ -1356,7 +1445,7 @@ def page_privacy():
 <h2>How I use it</h2>
 <p>To reply to you, set up home searches and listing alerts, follow up about buying, selling, renting, investing or building, and improve this site. Your contact details and search may be added to my client records at Compass.</p>
 <h2>Who it is shared with</h2>
-<p>I don't sell your information. It is shared with the services that run this site and deliver messages (Vercel for hosting, FormSubmit for form email), with Compass and The Brodsky Group to provide real estate services, and when the law requires it. Pages also load fonts from Google and neighborhood photos from Unsplash, and a listing video from Vimeo loads when you scroll to it. These services receive standard web request data.</p>
+<p>I don't sell your information. It is shared with the services that run this site and deliver messages (Vercel for hosting, FormSubmit for form email), with Compass and The Brodsky Group to provide real estate services, and when the law requires it. Pages also load fonts and satellite maps from Google, neighborhood photos from Unsplash, aerial imagery from the U.S. Geological Survey, and a listing video from Vimeo when you scroll to it. These services receive standard web request data.</p>
 <h2>Calls and texts</h2>
 <p>If you send a form, you agree I can contact you by call, text or email about real estate. Reply STOP to any text to opt out. Message and data rates may apply.</p>
 <h2>Your choices</h2>
@@ -1574,9 +1663,11 @@ def main():
     today = datetime.date.today().isoformat()
     sm = "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>" for u in pages)
     (DIST / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>')
-    (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
+    (DIST / "robots.txt").write_text(robots_txt())
+    mds = text_twins(pages, posts)
     (DIST / "llms.txt").write_text(llms_txt(posts))
-    (DIST / "index.md").write_text(home_md(posts))
+    (DIST / "llms-full.txt").write_text(llms_full(posts, mds))
+    (DIST / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
     (DIST / "assets" / "search.json").write_text(json.dumps(search_index(posts), separators=(",", ":")))
     export_deploy(pages, today)
     print(f"built {len(pages)} pages, {len(posts)} posts, {len(HOODS)} neighborhoods")
@@ -1611,13 +1702,66 @@ def export_deploy(pages, today):
     }, indent=2))
     sm = "".join(f"<url><loc>{SITE}{u.rstrip('/') if u != '/' else '/'}</loc><lastmod>{today}</lastmod></url>" for u in pages)
     (out / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>')
-    (out / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
-    (out / "llms.txt").write_text(flat_txt((DIST / "llms.txt").read_text()))
-    (out / "index.md").write_text(flat_txt((DIST / "index.md").read_text()))
+    (out / "robots.txt").write_text(robots_txt())
+    for name in ("llms.txt", "llms-full.txt"):
+        (out / name).write_text(flat_txt((DIST / name).read_text()))
+    (out / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
+    for u in pages:
+        src = DIST / md_url(u).lstrip("/")
+        if src.exists():
+            dst = out / md_url(u).lstrip("/")
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            dst.write_text(flat_txt(src.read_text()))
 
 
 def flat_txt(text):
-    return re.sub(r"(https://www\.nathanielgrivas\.com/[^)\s]+)/\)", r"\1)", text)
+    text = re.sub(r"(https://www\.nathanielgrivas\.com/[^)\s]+)/\)", r"\1)", text)
+    return re.sub(r"(https://www\.nathanielgrivas\.com/[^\s)]+)/(?=[\s.,;]|$)", r"\1", text, flags=re.M)
+
+
+INDEXNOW_KEY = "7c1f4e2a9b8d4f6e8a3c5d7e9f1b2c4d"
+AI_BOTS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User", "anthropic-ai", "PerplexityBot",
+           "Perplexity-User", "Google-Extended", "Googlebot", "Bingbot", "Applebot", "Applebot-Extended", "DuckAssistBot", "meta-externalagent",
+           "Amazonbot", "MistralAI-User", "cohere-ai", "YouBot", "CCBot"]
+
+
+def robots_txt():
+    bots = "".join(f"User-agent: {b}\nAllow: /\n\n" for b in AI_BOTS)
+    return (f"# Search engines and AI assistants are welcome to read and cite this site.\n"
+            f"# Plain-text summary for AI: {SITE}/llms.txt  Full text: {SITE}/llms-full.txt\n\n"
+            f"User-agent: *\nAllow: /\n\n{bots}Sitemap: {SITE}/sitemap.xml\n")
+
+
+MD_FOOT = (f"\n---\n\nNathaniel Grivas, REALTOR\u00ae (California DRE #{DRE}), The Brodsky Group at Compass Beverly Hills, {ADDR}. "
+           f"Rated 5.0 on Google. Call or text {PHONE}, email {EMAIL}. Website: {SITE}/  Summary for AI: {SITE}/llms.txt\n")
+
+
+def text_twins(pages, posts):
+    """Writes a markdown version of every page next to it (page.md) so AI readers get the full text fast."""
+    out = {}
+    for u, t in pages.items():
+        m = re.search(r"<title>(.*?)</title>", t, re.S)
+        title = html.unescape(m.group(1)) if m else u
+        if u == "/":
+            md = home_md(posts)
+        else:
+            md = f"# {title}\n\nSource page: {SITE}{u}\n\n" + v8.html_to_md(t, SITE)
+        md += MD_FOOT
+        f = DIST / md_url(u).lstrip("/")
+        f.parent.mkdir(parents=True, exist_ok=True)
+        f.write_text(md)
+        out[u] = md
+    return out
+
+
+def llms_full(posts, mds):
+    keep = ["/", "/about/", "/listings/", "/homes/3721-evans/", "/homes/616-fuller/", "/neighborhoods/"] + \
+           [f"/neighborhoods/{h['slug']}/" for h in ORDER] + [f"/guide/{p['slug']}/" for p in posts]
+    parts = [llms_txt(posts), "\n\n# Full text of the main pages\n"]
+    for u in keep:
+        if u in mds:
+            parts.append(f"\n\n<!-- {SITE}{u} -->\n\n" + mds[u])
+    return "".join(parts)
 
 
 def search_index(posts):
@@ -1666,26 +1810,38 @@ def home_md(posts):
 
 
 def llms_txt(posts):
-    lines = ["# Nathaniel Grivas", "",
-             f"> Nathaniel Grivas is a West Los Angeles REALTOR® (CA DRE #{DRE}) with The Brodsky Group at Compass, {ADDR}. "
-             "He helps people buy, sell, rent, invest and build across West Los Angeles, Beverly Hills and the San Fernando Valley. "
-             f"His team does over $100M in annual sales. Call or text {PHONE}, email {EMAIL}.", "",
-             f"Full text version of the homepage, with listings and services: {SITE}/index.md", "",
-             "## Listings"]
+    lines = ["# Nathaniel Grivas, REALTOR® in Los Angeles", "",
+             f"> Nathaniel Grivas is a Los Angeles REALTOR® (California DRE #{DRE}) with The Brodsky Group at Compass Beverly Hills, {ADDR}. "
+             "He helps people buy, sell, rent, invest and build across West Los Angeles, Beverly Hills, the Hollywood Hills, Central LA, "
+             f"the Eastside and the San Fernando Valley. Rated 5.0 on Google. His team does over $100M in annual sales. Call or text {PHONE}, email {EMAIL}.", "",
+             "Every page on this site has a plain-text twin: add .md to the address (for example /neighborhoods/venice.md). "
+             f"Everything in one file: {SITE}/llms-full.txt", "",
+             "## Key facts", ""]
+    lines += [f"- {k}: {v}" for k, v in agent_facts()]
+    lines += ["", f"## Client reviews (Google, {v8.RATING} stars, read them at {GBP_URL})", ""]
+    lines += [f"- {r_['name']}, {r_['who']}, 5 stars, {r_['when']}: “{r_['text']}”" for r_ in v8.REVIEWS]
+    lines += ["", "## Main pages", "",
+              f"- [About Nathaniel Grivas]({SITE}/about/): background, quick facts, team, reviews",
+              f"- [Listings]({SITE}/listings/): active listings and closed deals",
+              f"- [All 40 neighborhoods on a satellite map]({SITE}/neighborhoods/)",
+              f"- [The LA Guide]({SITE}/guide/): where to eat, drink and go, neighborhood by neighborhood",
+              f"- [The LA Journal]({SITE}/journal/): daily Los Angeles news and new openings"]
+    lines += ["", "## Listings and closed deals", ""]
     for k in ACTIVE + SOLD:
         p_ = PROPS[k]
-        lines.append(f"- [{p_['addr']}, {p_['area']}]({SITE + p_['page'] if p_.get('page') else p_.get('site') or p_['url']}): {p_['tag']}, {p_['price']}{p_.get('per', '')}" + (" (video tour on the page)" if p_.get("page") else ""))
-    lines += ["", "## The LA Guide: where to eat, drink and go (by neighborhood)"]
+        rep_ = f", represented the {p_['rep'].lower()}" if p_.get("rep") else ""
+        lines.append(f"- [{p_['addr']}, {p_['area']}]({SITE + p_['page'] if p_.get('page') else p_.get('site') or p_['url']}): {p_['tag']}, {p_['price']}{p_.get('per', '')}{rep_}" + (" (video tour on the page)" if p_.get("page") else ""))
+    lines += ["", "## Neighborhoods he works in (each page: satellite map, photos, places, rules, FAQ)", ""]
+    lines += [f"- [{h['name']}]({SITE}/neighborhoods/{h['slug']}/): {h['line']} {CITIES[h['city']]['label']}, ZIP {h['zips']}." for h in ORDER]
+    lines += ["", "## The LA Guide: where to eat, drink and go (by neighborhood)", ""]
     lines += [f"- [{BY_SLUG[k]['name']} guide]({SITE}/guide/{k}/): {len(d['places'])} restaurants, coffee shops, bars and things to do" for k, d in GUIDES.items() if k in BY_SLUG]
-    if JOURNAL:
-        lines += ["", "## The LA Journal: daily Los Angeles news and openings", f"- [All entries]({SITE}/journal/)"]
-        lines += [f"- [{j['title']}]({SITE}/journal/{j['date']}/) ({j['date']}): {j['dek']}" for j in JOURNAL[:30]]
-    lines += ["", "## The LA Guide: best of LA by category"]
+    lines += ["", "## The LA Guide: best of LA by category", ""]
     lines += [f"- [Best {G.CATS[k][1]} in LA]({SITE}/guide/best/{k}/)" for k in G.ORDERED if guide_counts().get(k)]
-    lines += ["", "## Neighborhood guides"]
-    lines += [f"- [{h['name']}]({SITE}/neighborhoods/{h['slug']}/): {h['line']}" for h in ORDER]
-    lines += ["", "## Tools"] + [f"- [{t}]({SITE}/tools/{s}/): {d}" for s, t, d, _ in TOOLS]
-    lines += ["", "## LA Guide"] + [f"- [{p['title']}]({SITE}/guide/{p['slug']}/): {p['description']}" for p in posts]
+    if JOURNAL:
+        lines += ["", "## The LA Journal: daily Los Angeles news and openings", "", f"- [All entries]({SITE}/journal/)"]
+        lines += [f"- [{j['title']}]({SITE}/journal/{j['date']}/) ({j['date']}): {j['dek']}" for j in JOURNAL[:30]]
+    lines += ["", "## Tools", ""] + [f"- [{t}]({SITE}/tools/{s}/): {d}" for s, t, d, _ in TOOLS]
+    lines += ["", "## Articles", ""] + [f"- [{p['title']}]({SITE}/guide/{p['slug']}/): {p['description']}" for p in posts]
     return "\n".join(lines) + "\n"
 
 
