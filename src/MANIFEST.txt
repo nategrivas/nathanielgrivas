@@ -3,6 +3,8 @@ src/MANIFEST.txt
 src/build.py
 src/changed.py
 src/guide/beverly-hills.json
+src/guide/los-feliz.json
+src/guide/mar-vista.json
 src/guide/santa-monica.json
 src/guide/silver-lake.json
 src/guide/venice.json
