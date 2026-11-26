@@ -75,6 +75,10 @@ One file per day: src/journal/YYYY-MM-DD.json
 - Never use em dashes. Search the web for every item; never write news from memory.
 
 ## Commit tips
+Vercel's free Hobby plan allows 100 deployments per rolling 24 hours, and every GitHub commit
+triggers one. Past that, commits still land on main but the site stops updating until the window
+resets; the next commit after that deploys everything. Keep each run to about 10 commits or fewer:
+one commit per folder, never one per file.
 Keep GitHub commit summaries under 50 characters. Longer ones show a ProTip that shifts the
 layout and the Commit button click can miss. Check github.com/nategrivas/nathanielgrivas/commits/main
 after uploading.
