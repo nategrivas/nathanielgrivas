@@ -274,27 +274,26 @@ FEATURED = {
     "fuller": dict(
         title="616 N Fuller Ave", where="Fairfax District, Los Angeles, CA 90036", status="Sold", price="$3,275,000",
         stats=[("7", "Bedrooms"), ("8", "Bathrooms"), ("5,257", "Sq ft"), ("7,334", "Sq ft lot"), ("2016", "Built")],
-        line="A three-level modern home with a pool in the Fairfax District. Sold for $3,275,000 with our team on both sides.",
+        line="A three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000, representing both the seller and the buyer.",
         body=["A 2016 modern home on a 7,334 sq ft lot in the Fairfax District: seven bedrooms, eight baths and three levels, with a pool.",
-              "The Brodsky Group represented both the seller and the buyer. It closed in October 2026 for $3,275,000."],
+              "I represented both the seller and the buyer and closed it in October 2026 for $3,275,000."],
         poster="/img/fuller.jpg", vimeo="1180538967", film_len="1:00",
         compass="https://www.compass.com/homedetails/616-N-Fuller-Ave-Los-Angeles-CA-90036/2072900371372293281_lid/",
-        credit="Sold by The Brodsky Group at Compass"),
+        credit="Sold by Nate Grivas of The Brodsky Group at Compass"),
 }
 
 
 def film_evans(big=False):
     f = FEATURED["evans"]
     return (f'<div class="film film-wide" data-film data-full="{f["film"]}">'
-            f'<video data-src="{f["loop"]}" poster="{f["loop_poster"]}" muted loop playsinline preload="none" aria-label="Video of 3721 Evans St W"></video>'
-            f'<button type="button" class="film-play"><span class="fp-i" aria-hidden="true"></span>Watch the film <small>{f["film_len"]}, sound on</small></button></div>')
+            f'<video data-src="{f["film"]}" poster="{f["loop_poster"]}" muted loop playsinline autoplay preload="none" aria-label="Video tour of 3721 Evans St W"></video>'
+            f'<button type="button" class="film-snd" aria-label="Turn sound on" aria-pressed="false"></button></div>')
 
 
 def film_fuller():
     f = FEATURED["fuller"]
     return (f'<div class="film film-tall" data-vimeo="{f["vimeo"]}">'
-            f'<img src="{f["poster"]}" alt="616 N Fuller Ave" loading="lazy">'
-            f'<button type="button" class="film-play"><span class="fp-i" aria-hidden="true"></span>Watch the film <small>{f["film_len"]}</small></button></div>')
+            f'<img src="{f["poster"]}" alt="616 N Fuller Ave" loading="lazy"></div>')
 
 
 def featured_section(heading="Featured homes", kick="Watch the films"):
@@ -1087,7 +1086,7 @@ def page_featured(k):
 {gal}
 <section class="band lux-band"><div class="wrap"><div class="lux-head"><p class="kick">Also featured</p><h2><a class="plain" href="{PROPS[other]["page"]}">{e(o["title"])}</a></h2></div>
 <a class="also" href="{PROPS[other]["page"]}"><img src="{o["poster"]}" alt="{e(o["title"])}" loading="lazy"><span><small>{e(o["status"])} &middot; {e(o["price"])}</small><b>{e(o["title"])}</b>{e(o["line"])} <i>Watch the film &rarr;</i></span></a></div></section>
-{contact_band("/", "Let's talk", "Questions about this home, or looking for something like it? Send me a note.", "buy", "Interested in " + f["title"], "Website lead: " + f["title"], form=True)}
+{contact_band("/", "Want a result like this?", f"Thinking about selling, or looking for a home like this in the {f['where'].split(',')[0]}? Tell me what you're after.", "sell", "", "Website lead: " + f["title"] + " (sold)", form=True) if f["status"] == "Sold" else contact_band("/", "Let's talk", "Questions about this home, or looking for something like it? Send me a note.", "buy", "Interested in " + f["title"], "Website lead: " + f["title"], form=True)}
 {'<div class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Photo viewer"><button type="button" class="lb-x" aria-label="Close">&times;</button><button type="button" class="lb-p" aria-label="Previous photo">&lsaquo;</button><img alt=""><button type="button" class="lb-n" aria-label="Next photo">&rsaquo;</button><p class="lb-c"></p></div>' if gal else ''}
 </main>
 {foot(path)}"""
@@ -1357,7 +1356,7 @@ def page_privacy():
 <h2>How I use it</h2>
 <p>To reply to you, set up home searches and listing alerts, follow up about buying, selling, renting, investing or building, and improve this site. Your contact details and search may be added to my client records at Compass.</p>
 <h2>Who it is shared with</h2>
-<p>I don't sell your information. It is shared with the services that run this site and deliver messages (Vercel for hosting, FormSubmit for form email), with Compass and The Brodsky Group to provide real estate services, and when the law requires it. Pages also load fonts from Google and neighborhood photos from Unsplash, and a listing video from Vimeo plays only when you press play. These services receive standard web request data.</p>
+<p>I don't sell your information. It is shared with the services that run this site and deliver messages (Vercel for hosting, FormSubmit for form email), with Compass and The Brodsky Group to provide real estate services, and when the law requires it. Pages also load fonts from Google and neighborhood photos from Unsplash, and a listing video from Vimeo loads when you scroll to it. These services receive standard web request data.</p>
 <h2>Calls and texts</h2>
 <p>If you send a form, you agree I can contact you by call, text or email about real estate. Reply STOP to any text to opt out. Message and data rates may apply.</p>
 <h2>Your choices</h2>
