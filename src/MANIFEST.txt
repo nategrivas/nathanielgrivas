@@ -2,8 +2,10 @@ src/GUIDE_RUNBOOK.md
 src/MANIFEST.txt
 src/build.py
 src/changed.py
+src/guide/bel-air.json
 src/guide/beverly-grove.json
 src/guide/beverly-hills.json
+src/guide/bhpo.json
 src/guide/brentwood.json
 src/guide/century-city.json
 src/guide/cheviot-hills.json
@@ -13,6 +15,7 @@ src/guide/echo-park.json
 src/guide/encino.json
 src/guide/fairfax.json
 src/guide/hancock-park.json
+src/guide/hollywood-hills.json
 src/guide/hollywood.json
 src/guide/los-feliz.json
 src/guide/malibu.json
@@ -22,6 +25,7 @@ src/guide/miracle-mile.json
 src/guide/north-hollywood.json
 src/guide/pacific-palisades.json
 src/guide/palms.json
+src/guide/pico-robertson.json
 src/guide/playa-del-rey.json
 src/guide/playa-vista.json
 src/guide/reseda.json
