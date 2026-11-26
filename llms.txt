@@ -15,6 +15,8 @@ Full text version of the homepage, with listings and services: https://www.natha
 
 ## The LA Guide: where to eat, drink and go (by neighborhood)
 - [Beverly Hills guide](https://www.nathanielgrivas.com/guide/beverly-hills): 26 restaurants, coffee shops, bars and things to do
+- [Brentwood guide](https://www.nathanielgrivas.com/guide/brentwood): 20 restaurants, coffee shops, bars and things to do
+- [Culver City guide](https://www.nathanielgrivas.com/guide/culver-city): 34 restaurants, coffee shops, bars and things to do
 - [Echo Park guide](https://www.nathanielgrivas.com/guide/echo-park): 28 restaurants, coffee shops, bars and things to do
 - [Los Feliz guide](https://www.nathanielgrivas.com/guide/los-feliz): 36 restaurants, coffee shops, bars and things to do
 - [Mar Vista guide](https://www.nathanielgrivas.com/guide/mar-vista): 17 restaurants, coffee shops, bars and things to do
@@ -22,6 +24,8 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Silver Lake guide](https://www.nathanielgrivas.com/guide/silver-lake): 29 restaurants, coffee shops, bars and things to do
 - [Venice guide](https://www.nathanielgrivas.com/guide/venice): 42 restaurants, coffee shops, bars and things to do
 - [West Hollywood guide](https://www.nathanielgrivas.com/guide/west-hollywood): 60 restaurants, coffee shops, bars and things to do
+- [West LA & Sawtelle guide](https://www.nathanielgrivas.com/guide/west-la): 25 restaurants, coffee shops, bars and things to do
+- [Westwood guide](https://www.nathanielgrivas.com/guide/westwood): 21 restaurants, coffee shops, bars and things to do
 
 ## The LA Guide: best of LA by category
 - [Best coffee shops in LA](https://www.nathanielgrivas.com/guide/best/coffee)
