@@ -41,7 +41,10 @@ A place gets in only if it passes two tests: real people rate it highly, and it 
    Use rating, review count, hours and the review text to decide who gets in and what locals
    praise or warn about. Rule of thumb: 4.4+ with 150+ reviews, or 4.6+ with 50+ for small spots.
    Drop anything Google shows as closed. Never put Google stars, counts or review text on the
-   site; the write-up stays in our own words. Google is research only, so it is not a source key.
+   site; the write-up stays in our own words. A local favorite that only Google covers can still
+   get in: give it the neighborhood's "gm" source key
+   (["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=<Area>+CA"])
+   and keep its write-up to plain facts about the place.
 5. Reddit and Yelp: both ban automated reading and the fetch tool refuses them. Do not route
    around that (no browser, no mirror sites). Get the Reddit consensus secondhand from articles
    that round up Reddit picks (Chowhound, Tasting Table, etc.) and from local forums and tip
@@ -62,5 +65,7 @@ swap out weak ones, add new openings that locals already love, update `updated`.
 5. python3 src/changed.py  prints every deploy file that differs from main, grouped by folder,
    with the GitHub upload URL for each folder.
 6. Upload each folder's files in Chrome at github.com/nategrivas/nathanielgrivas/upload/main/<folder>
-   (file_upload up to 3.8MB per call), commit straight to main. Vercel deploys in about 30s.
+   (file_upload takes at most 32 files and 3.8MB per call; call it again on the same page to add
+   more before committing). Run find again after every page load: element refs change. Commit
+   straight to main. Vercel deploys in about 30s.
 7. Upload any changed src files the same way (src, src/guide), and add new paths to MANIFEST.txt.
