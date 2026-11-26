@@ -133,7 +133,7 @@
       dots.forEach((d) => d.classList.toggle('off', !ok(d)));
       regBtns.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.region === st.region)));
       tagBtns.forEach((b) => b.setAttribute('aria-pressed', String(st.tags.has(b.dataset.tag))));
-      count.textContent = n === cards.length ? 'Showing all ' + n + ' neighborhoods' : 'Showing ' + n + ' of ' + cards.length + ' neighborhoods';
+      count.textContent = n === cards.length ? '' : 'Showing ' + n + ' of ' + cards.length;
       empty.hidden = n > 0;
       const h = [st.region, ...st.tags].filter(Boolean).join('+');
       history.replaceState(null, '', h ? '#' + h : location.pathname);
@@ -147,5 +147,16 @@
       else if (tagBtns.some((b) => b.dataset.tag === h)) st.tags.add(h);
     });
     if (init.length) apply();
+    // hovering a card lights up its dot on the map
+    const bySlug = Object.fromEntries(dots.map((d) => [d.dataset.slug, d]));
+    cards.forEach((c) => {
+      c.addEventListener('mouseenter', () => { const d = bySlug[c.dataset.slug]; if (d) d.classList.add('hl'); });
+      c.addEventListener('mouseleave', () => { const d = bySlug[c.dataset.slug]; if (d) d.classList.remove('hl'); });
+    });
+    dots.forEach((d) => {
+      const c = grid.querySelector('.hcard[data-slug="' + d.dataset.slug + '"]');
+      d.addEventListener('mouseenter', () => { if (c) c.classList.add('hl'); });
+      d.addEventListener('mouseleave', () => { if (c) c.classList.remove('hl'); });
+    });
   }
 }
