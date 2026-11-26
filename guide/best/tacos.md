@@ -1,0 +1,407 @@
+# Best Tacos & Mexican in Los Angeles by Neighborhood | The LA Guide
+
+Source page: https://www.nathanielgrivas.com/guide/best/tacos
+
+The LA Guide
+
+# The best tacos and Mexican food in Los Angeles
+
+27 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+
+### Coast
+
+### Lily's Malibu
+
+$
+
+[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 29211 Heathercliff Rd
+
+Oversized breakfast burritos and long lines.
+
+**Order:** Call your order in ahead.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Lily%27s+Malibu+29211+Heathercliff+Rd+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Breakfast Cheap eats
+
+### Coni'Seafood Marina del Rey
+
+$$
+
+[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · Marina del Rey
+
+The second location of one of LA's best Nayarit-style Mexican seafood restaurants.
+
+**Order:** Pescado zarandeado and shrimp aguachile.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Coni%27Seafood+Marina+del+Rey+Marina+del+Rey+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Seafood
+
+### Paco's Tacos
+
+$$
+
+[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · Centinela Ave
+
+A neighborhood staple for classic Mexican food in big portions.
+
+**Order:** A combination plate and a margarita.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Paco%27s+Tacos+Centinela+Ave+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Cheap eats Dinner
+
+### T.C. Organic
+
+$$
+
+[Playa del Rey](https://www.nathanielgrivas.com/guide/playa-del-rey) · 333 Culver Blvd
+
+A family-run Mexican restaurant cooking everything from scratch.
+
+**Order:** Chilaquiles at brunch or the fish tacos.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=T.C.+Organic+333+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Breakfast Lunch
+
+### San Damian
+
+$$$$
+
+[Venice](https://www.nathanielgrivas.com/guide/venice) · Venice
+
+An upscale Baja-style marisquería with bright, citrusy plates and tequila cocktails.
+
+**Order:** Rockfish ceviche with uni, shrimp aguachile and kanpachi al pastor.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=San+Damian+Venice+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-venice-restaurants)
+
+Dinner Seafood
+
+### La Isla Bonita
+
+$
+
+[Venice](https://www.nathanielgrivas.com/guide/venice) · Rose Ave
+
+A mariscos truck where lunch for one is cheap and the ceviche and cocteles are the reason people line up.
+
+**Order:** Ceviche tostada or a campechana.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=La+Isla+Bonita+Rose+Ave+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-venice-restaurants)
+
+Lunch Seafood
+
+### Casablanca
+
+$$
+
+[Venice](https://www.nathanielgrivas.com/guide/venice) · 220 Lincoln Blvd
+
+A long-running, dependable Mexican restaurant with a tableside tortilla station and a tequila cart.
+
+**Order:** Calamari steak, the birria burrito or build-your-own fish tacos.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Casablanca+220+Lincoln+Blvd+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-venice-restaurants)
+
+Dinner
+
+### Westside
+
+### Tito's Tacos
+
+$
+
+[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 11222 Washington Pl
+
+A walk-up taco stand open since 1959 and a true LA institution.
+
+**Order:** Cheese-crusted hard-shell tacos and the beef and bean burrito.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Tito%27s+Tacos+11222+Washington+Pl+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Cheap eats Landmarks & sights
+
+### Coni'Seafood
+
+$$
+
+[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 4532 S Centinela Ave
+
+Nayarit-style Mexican seafood that people drive across town for.
+
+**Order:** Pescado zarandeado to share, plus aguachile and shrimp tacos. Closed Tuesdays.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Coni%27Seafood+4532+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-westside-restaurants-for-eastsiders-la) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Seafood Lunch
+
+### Tacos Mar Vista
+
+$
+
+[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 3760 S Centinela Ave
+
+A red taco truck in front of Mitsuwa known for loaded quesabirria with plenty of consommé.
+
+**Order:** The mini quesabirria tacos. Daytime only, closed Sundays.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Tacos+Mar+Vista+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Cheap eats
+
+### Lenny's Casita
+
+$$
+
+[Pico-Robertson & Beverlywood](https://www.nathanielgrivas.com/guide/pico-robertson) · 8823 W Pico Blvd
+
+A lively kosher Mexican restaurant with inventive cocktails and mocktails.
+
+**Order:** Tacos, the taquitos and a margarita.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Lenny%27s+Casita+8823+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+
+Dinner Cocktail bars
+
+### Hermanito
+
+$$
+
+[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 2024 Sawtelle Blvd
+
+A Mexican bar with a great patio and inventive cocktails.
+
+**Order:** Birria tacos and a margarita.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Hermanito+2024+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Cocktail bars Dinner
+
+### Central
+
+### El Coyote
+
+$$
+
+[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 7312 Beverly Blvd
+
+A huge, festive Mexican landmark where the margaritas are the main event.
+
+**Order:** A house margarita with a big group.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=El+Coyote+7312+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Dinner Cocktail bars Landmarks & sights
+
+### Ka'Teen
+
+$$$
+
+[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 6516 Selma Ave
+
+A Yucatán-inspired restaurant inside the Tommie hotel that feels like a resort.
+
+**Order:** Lamb neck barbacoa and a whole grilled fish.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Ka%27Teen+6516+Selma+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
+
+Dinner Date night
+
+### First Of All
+
+$$
+
+[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8200 Santa Monica Blvd
+
+A modern Mexican cafe that does breakfast through dinner, with an easygoing room and friendly service.
+
+**Order:** Chips, salsa and guacamole, then the mushroom mole or a breakfast burrito.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=First+Of+All+8200+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+
+Brunch
+
+### Guisados
+
+$
+
+[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8935 Santa Monica Blvd
+
+The Boyle Heights taqueria's WeHo branch, known for slow-cooked braises on fresh handmade tortillas.
+
+**Order:** The six-taco sampler.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Guisados+8935+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants)
+
+Lunch Cheap eats
+
+### Marvito
+
+$$$
+
+[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 1113 N Harper Ave
+
+A retro Tex-Mex roadhouse where nights run late on mezcal and crispy tacos.
+
+**Order:** Chorizo queso, crispy beef tacos and the double smashburger.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Marvito+1113+N+Harper+Ave+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants)
+
+Dinner Late night
+
+### Gracias Madre
+
+$$
+
+[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8905 Melrose Ave
+
+Plant-based Mexican under shade trees, and one of the busiest patios in the city.
+
+**Order:** Anything with the cashew cheese, plus the tamales.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Gracias+Madre+8905+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+
+Dinner Healthy & plant-based
+
+### Eastside
+
+### Sabores Oaxaqueños
+
+$$
+
+[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 5520 Santa Monica Blvd
+
+Oaxacan cooking anchored by a smoky goat birria.
+
+**Order:** The oversized goat birria taco and a tlayuda to share.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Sabores+Oaxaque%C3%B1os+5520+Santa+Monica+Blvd+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Dinner
+
+### A Tí
+
+$$
+
+[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1498 W Sunset Blvd
+
+Modern Mexican cooking with a patio built for cocktails.
+
+**Order:** Blue corn tacos and the duck confit with date mole.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=A+T%C3%AD+1498+W+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-Echo-Park)
+
+Dinner Date night
+
+### Angel's Tijuana Tacos
+
+$
+
+[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1185 W Sunset Blvd
+
+Tijuana-style tacos off the trompo, worth the long line.
+
+**Order:** Al pastor and the crispy fried cheese taco.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Angel%27s+Tijuana+Tacos+1185+W+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-Echo-Park)
+
+Cheap eats Late night
+
+### Alejandra's Quesadilla Cart
+
+$
+
+[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1246 Echo Park Ave
+
+A street cart making handmade Oaxacan quesadillas with creative fillings.
+
+**Order:** A huitlacoche quesadilla. Open Friday through Monday.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Alejandra%27s+Quesadilla+Cart+1246+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-Echo-Park)
+
+Cheap eats
+
+### Yuca's
+
+$
+
+[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 2056 Hillhurst Ave
+
+A tiny roadside stand that's been feeding the neighborhood for about 50 years and won a James Beard award.
+
+**Order:** Cochinita pibil tacos and the cheeseburger.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Yuca%27s+2056+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Cheap eats Lunch
+
+### Best Fish Taco in Ensenada
+
+$
+
+[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1650 Hillhurst Ave
+
+A short menu of fish, shrimp and potato tacos on a thatched patio. Fast, cheap and reliable.
+
+**Order:** Fish tacos and a trip to the salsa bar.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Best+Fish+Taco+in+Ensenada+1650+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Seafood Cheap eats
+
+### HomeState
+
+$
+
+[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 4624 Hollywood Blvd
+
+A Texas-style taco counter known for breakfast tacos on fresh flour tortillas.
+
+**Order:** Breakfast tacos and the Frito pie in a bag.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=HomeState+4624+Hollywood+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Breakfast Cheap eats
+
+### Ceviche Project
+
+$$$
+
+[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 2524 Hyperion Ave
+
+A tropical, club-like cevicheria with bright, vibrant seafood.
+
+**Order:** Scallops on the half shell, tai snapper ceviche and the kanpachi tostada.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Ceviche+Project+2524+Hyperion+Ave+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Seafood Dinner
+
+### Valley
+
+### El Ruso Taquería
+
+$
+
+[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 10624 Ventura Blvd
+
+Sonoran-style tacos on fresh flour tortillas, with meats cooked over mesquite.
+
+**Order:** The thin-cut ribeye taco.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=El+Ruso+Taquer%C3%ADa+10624+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Cheap eats Lunch
+
+Keep browsing
+
+## More categories
+
+[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+
+---
+
+Nathaniel Grivas, REALTOR® (California DRE #02410660), The Brodsky Group at Compass Beverly Hills, 9454 Wilshire Blvd, Ste 100, Beverly Hills, CA 90212. Rated 5.0 on Google. Call or text 310-269-5541, email nate.grivas@compass.com. Website: https://www.nathanielgrivas.com/  Summary for AI: https://www.nathanielgrivas.com/llms.txt
