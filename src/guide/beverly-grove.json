@@ -1,0 +1,27 @@
+{"slug": "beverly-grove", "updated": "2026-11-26",
+ "intro": "Beverly Grove is one of LA's most restaurant-dense neighborhoods, centered on West 3rd Street and Beverly Boulevard between La Cienega and Fairfax. It's an easy place to walk from coffee to lunch to a long dinner, with the Beverly Center at its west end.",
+ "sources": {
+  "inf": ["The Infatuation: Best restaurants in Beverly Grove", "https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove"],
+  "infbg": ["The Infatuation: Beverly Grove", "https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove"],
+  "infbr": ["The Infatuation: Where to brunch in West Hollywood", "https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood"],
+  "tor": ["Time Out: Best West Hollywood restaurants", "https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants"],
+  "lp": ["Lonely Planet: West Hollywood and Mid-City restaurants", "https://www.lonelyplanet.com/usa/los-angeles/west-hollywood/restaurants"],
+  "gm": ["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA"]
+ },
+ "places": [
+  {"n": "Neighborhood", "c": ["coffee"], "a": "8151 W 3rd St", "p": "$", "w": "A small specialty coffee shop with a walk-up window, outdoor seating and its own parking.", "o": "An iced Americano or a seasonal latte with a cinnamon roll.", "s": ["gm"]},
+  {"n": "Takagi Coffee", "c": ["breakfast", "brunch", "coffee"], "a": "8048 W 3rd St", "p": "$$", "w": "A Japanese cafe known for tall souffle pancakes and omurice. Expect a short wait.", "o": "Souffle pancakes and the omurice with karaage.", "s": ["gm"]},
+  {"n": "Joan's on Third", "c": ["breakfast", "lunch", "bakery", "market"], "a": "8350 W 3rd St", "p": "$$", "w": "One of LA's original market cafes, with excellent pastries and a deli counter.", "o": "A pastry and coffee, or a sandwich from the case.", "s": ["lp"]},
+  {"n": "Kings Road Cafe", "c": ["brunch", "coffee"], "a": "8361 Beverly Blvd", "p": "$$", "w": "A longtime brunch spot with strong coffee and a busy sidewalk patio.", "o": "The veggie garden scramble.", "s": ["infbr"]},
+  {"n": "MOOD", "c": ["breakfast", "brunch"], "a": "8201 W 3rd St", "p": "$$", "w": "A stylish two-level breakfast spot with an Eastern European twist.", "o": "Syrniki and the mushroom truffle toast. Reserve on weekends.", "s": ["gm"]},
+  {"n": "Regalade", "c": ["dinner", "date"], "a": "8136 W 3rd St", "p": "$$", "w": "An affordable French neighborhood bistro that fits almost any occasion.", "o": "Steak frites and the green curry mussels.", "s": ["inf"]},
+  {"n": "Oste", "c": ["dinner", "pizza", "date"], "a": "8142 W 3rd St", "p": "$$", "w": "A colorful Roman-leaning Italian spot with pinsa, a burrata bar and lush outdoor seating.", "o": "A pinsa and something from the burrata bar.", "s": ["inf", "infbg"]},
+  {"n": "A.O.C.", "c": ["dinner", "wine", "date"], "a": "8700 W 3rd St", "p": "$$$", "w": "Suzanne Goin's small-plates restaurant with one of the best wine lists in LA and a beautiful courtyard.", "o": "Order a glass of wine and share several small plates.", "s": ["tor"]},
+  {"n": "Marvin", "c": ["dinner", "wine"], "a": "8114 Beverly Blvd", "p": "$$", "w": "A cozy French bistro built for snacking and wine.", "o": "Stick to the toasts and a bottle.", "s": ["inf"]},
+  {"n": "La Paella", "c": ["dinner", "seafood"], "a": "476 S San Vicente Blvd", "p": "$$", "w": "A family-run Spanish restaurant that feels like an old tavern.", "o": "Tapas, the paella valenciana mixta and sangria.", "s": ["inf", "infbg"]},
+  {"n": "Carlitos Gardel", "c": ["dinner", "date"], "a": "7963 Melrose Ave", "p": "$$$", "w": "An old-school Argentinian steakhouse and one of the true neighborhood restaurants left in the area.", "o": "The prime ribeye with chimichurri, then something with dulce de leche.", "s": ["inf", "infbg"]},
+  {"n": "Byrdie's Rotisserie", "c": ["lunch", "cheap"], "a": "8030 W 3rd St", "p": "$", "w": "A counter-service rotisserie with great sauces.", "o": "Chicken with the hot sauce, chimichurri and gochujang aioli.", "s": ["inf"]},
+  {"n": "Sticky Rice", "c": ["dinner", "cheap"], "a": "Beverly Grove", "p": "$", "w": "A casual Thai spot made for walk-ins, curry and beer.", "o": "A curry and a cold beer.", "s": ["infbg"]},
+  {"n": "Greek Eats", "c": ["lunch", "cheap"], "a": "Beverly Grove", "p": "$", "w": "A small counter with a big menu of excellent Greek staples.", "o": "A gyro plate.", "s": ["infbg"]},
+  {"n": "Burger She Wrote", "c": ["lunch", "cheap"], "a": "Beverly Grove", "p": "$", "w": "A smashburger shop.", "o": "A double smash.", "s": ["infbg"]}
+ ]}
