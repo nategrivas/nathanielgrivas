@@ -5,9 +5,12 @@ src/changed.py
 src/guide/beverly-grove.json
 src/guide/beverly-hills.json
 src/guide/brentwood.json
+src/guide/century-city.json
 src/guide/culver-city.json
+src/guide/east-hollywood.json
 src/guide/echo-park.json
 src/guide/fairfax.json
+src/guide/hancock-park.json
 src/guide/hollywood.json
 src/guide/los-feliz.json
 src/guide/malibu.json
@@ -16,6 +19,7 @@ src/guide/marina-del-rey.json
 src/guide/pacific-palisades.json
 src/guide/playa-vista.json
 src/guide/santa-monica.json
+src/guide/sherman-oaks.json
 src/guide/silver-lake.json
 src/guide/studio-city.json
 src/guide/venice.json
