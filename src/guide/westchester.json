@@ -1,0 +1,109 @@
+{
+ "slug": "westchester",
+ "updated": "2026-11-26",
+ "intro": "Westchester sits on the bluffs just north of LAX, home to Loyola Marymount University and a set of neighborhood restaurants and coffee shops along Manchester Avenue, La Tijera Boulevard and the Westchester Triangle.",
+ "sources": {
+  "to": [
+   "Time Out: The best restaurants in LA",
+   "https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-Los-angeles"
+  ],
+  "ot": [
+   "OpenTable diner reviews: LAX / Westchester",
+   "https://opentable.com.au/features/best-restaurants-for-foodies-lax-ca"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "The Boy & The Bear",
+   "c": [
+    "coffee"
+   ],
+   "a": "7403 S La Tijera Blvd",
+   "p": "$",
+   "w": "A coffee roaster with a roomy cafe, good wifi and easy parking, popular for working.",
+   "o": "A flat white with a pastry.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "The Coffee Company",
+   "c": [
+    "breakfast",
+    "brunch",
+    "coffee"
+   ],
+   "a": "8751 S La Tijera Blvd",
+   "p": "$$",
+   "w": "A busy corner cafe minutes from LAX with a long breakfast menu and house-made biscuits.",
+   "o": "An omelet with the Potatoes O'Brien and a biscuit.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Tomat",
+   "c": [
+    "date",
+    "dinner",
+    "brunch",
+    "bakery"
+   ],
+   "a": "6261 W 87th St",
+   "p": "$$$",
+   "w": "A seasonal, garden-to-table restaurant and bakery with a rooftop patio that looks out on planes landing at LAX.",
+   "o": "Morning pastries, or dinner on the roof.",
+   "s": [
+    "to",
+    "gm"
+   ]
+  },
+  {
+   "n": "Ayara Thai",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "6245 W 87th St",
+   "p": "$$",
+   "w": "A family-owned Thai restaurant that has been a Westside favorite since 2004.",
+   "o": "Chicken satay, pad see ew and mango sticky rice. Book ahead; it fills up.",
+   "s": [
+    "ot"
+   ]
+  },
+  {
+   "n": "Shokudo",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "6224 W Manchester Ave",
+   "p": "$$",
+   "w": "A newer Japanese restaurant known for handmade udon and katsu sets.",
+   "o": "Handmade udon with tempura.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "The Manchester",
+   "c": [
+    "bars",
+    "dinner",
+    "date"
+   ],
+   "a": "8522 Lincoln Blvd",
+   "p": "$$",
+   "w": "A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy hour.",
+   "o": "A whiskey sour and the Sichuan wings.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

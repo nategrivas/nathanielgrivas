@@ -1,29 +1,312 @@
-{"slug": "brentwood", "updated": "2026-11-26",
+{
+ "slug": "brentwood",
+ "updated": "2026-11-26",
  "intro": "Brentwood's center is San Vicente Boulevard, a coral-tree-lined median with a run of cafes and Italian restaurants, plus Barrington Court just off it. The Getty sits on the hill above, the Country Mart anchors the west end, and the trails up Mandeville Canyon start a few minutes away.",
  "sources": {
-  "inf": ["The Infatuation: Best restaurants in Brentwood", "https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood"],
-  "fod": ["Fodor's: Best restaurants in Brentwood", "https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/santa-monica-and-the-beaches/brentwood/restaurants"],
-  "gm": ["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA"]
+  "inf": [
+   "The Infatuation: Best restaurants in Brentwood",
+   "https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood"
+  ],
+  "fod": [
+   "Fodor's: Best restaurants in Brentwood",
+   "https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/santa-monica-and-the-beaches/brentwood/restaurants"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA"
+  ],
+  "getty": [
+   "Getty: Building Getty's Future",
+   "https://www.getty.edu/about/building-gettys-future/"
+  ]
  },
  "places": [
-  {"n": "Caffe Luxxe", "c": ["coffee"], "a": "11640 San Vicente Blvd", "p": "$$", "w": "A small European-style espresso bar that's been Brentwood's neighborhood coffee stop for years.", "o": "A cappuccino. Park in the lot; it's validated.", "s": ["gm"]},
-  {"n": "Parakeet Cafe", "c": ["breakfast", "coffee", "healthy"], "a": "13050 San Vicente Blvd", "p": "$$", "w": "A bright, friendly cafe at the west end of San Vicente with protein-forward breakfasts and creative lattes.", "o": "The breakfast croissant sandwich and an iced mint latte.", "s": ["gm"]},
-  {"n": "Coral Tree Cafe", "c": ["breakfast", "brunch", "lunch"], "a": "11645 San Vicente Blvd", "p": "$$", "w": "A big, airy order-at-the-counter cafe with generous portions.", "o": "Lox benedict or the blueberry pancakes.", "s": ["gm"]},
-  {"n": "Clark Street Brentwood", "c": ["bakery", "lunch"], "a": "11702 Barrington Ct", "p": "$$", "w": "The famous LA bakery's Brentwood cafe, good any weekday.", "o": "Go before 11am for the Caesar wrap or the tuna melt.", "s": ["inf"]},
-  {"n": "Farmshop", "c": ["brunch", "lunch", "market"], "a": "225 26th St", "p": "$$$", "w": "The all-day hangout of the Brentwood Country Mart, with a market for picnic supplies.", "o": "The poached chicken salad.", "s": ["inf"]},
-  {"n": "Brentwood Country Mart", "c": ["shop", "kids"], "a": "225 26th St", "p": "$$", "w": "A red barn-style courtyard of boutiques, a bookstore, a toy store and cafes.", "o": "Coffee, then a wander through the shops. The first hour of parking is free.", "s": ["gm"]},
-  {"n": "Pizzana", "c": ["pizza", "dinner"], "a": "11712 San Vicente Blvd", "p": "$$", "w": "Neapolitan pizza in a sleek room, and a Fodor's pick for the neighborhood.", "o": "The Diavola and the panna cotta.", "s": ["inf", "fod"]},
-  {"n": "All Roads", "c": ["pizza", "wine", "cheap"], "a": "145 S Barrington Ave", "p": "$$", "w": "A casual walk-in Roman pizzeria and wine bar where everything is under $30.", "o": "Crispy oval pizzas and antipasti.", "s": ["inf"]},
-  {"n": "Jon and Vinny's", "c": ["pizza", "dinner"], "a": "11938 San Vicente Blvd", "p": "$$", "w": "Italian American comfort food from the Animal team.", "o": "A thin-crust pizza right out of the oven.", "s": ["inf"]},
-  {"n": "The Wilkes", "c": ["dinner", "date"], "a": "148 S Barrington Ave", "p": "$$$", "w": "A charming old-school steakhouse.", "o": "The latke-crusted schnitzel, the pork chop and a wedge salad.", "s": ["inf"]},
-  {"n": "Matū Kai", "c": ["dinner", "date"], "a": "11777 San Vicente Blvd", "p": "$$$$", "w": "A modern, dim steakhouse built around wagyu.", "o": "The five-course tasting for two, or the cheesesteak at the bar.", "s": ["inf"]},
-  {"n": "Osteria Vera", "c": ["dinner", "date"], "a": "11640 San Vicente Blvd", "p": "$$$", "w": "A warm brick-walled Italian room.", "o": "Lobster and tomato paccheri, and ask about the off-menu duck.", "s": ["inf"]},
-  {"n": "Divino", "c": ["dinner"], "a": "11714 Barrington Ct", "p": "$$$", "w": "A lively, dark Italian spot that regulars love.", "o": "Tagliatelle with tomato and monkfish.", "s": ["inf"]},
-  {"n": "Peppone", "c": ["dinner", "date"], "a": "11628 Barrington Ct", "p": "$$$$", "w": "A pricey, old-school red-sauce Italian institution.", "o": "Dover sole and the Chicago rigatoni.", "s": ["inf"]},
-  {"n": "Palmeri Ristorante", "c": ["dinner", "date"], "a": "11650 San Vicente Blvd", "p": "$$$", "w": "A quiet Italian room that works for a calm date night.", "o": "Bolognese tagliatelle and the veal chop.", "s": ["inf"]},
-  {"n": "Sushi Sasabune", "c": ["sushi", "dinner"], "a": "11917 Wilshire Blvd", "p": "$$$$", "w": "A classic sushi counter known for trust-the-chef omakase.", "o": "Sit at the bar for omakase.", "s": ["inf"]},
-  {"n": "Thunderbird Bar", "c": ["sports", "bars"], "a": "12217 Wilshire Blvd", "p": "$$", "w": "A friendly neighborhood sports bar with better food than it needs to have.", "o": "The Thunderburger during a Dodgers game.", "s": ["gm"]},
-  {"n": "The Getty", "c": ["museum", "art", "landmark"], "a": "1200 Getty Center Dr", "p": "Free", "w": "The hilltop museum with world-class art, gardens and views from downtown to the ocean. Admission is free; parking is paid.", "o": "Reserve a time online, ride the tram up and finish in the Central Garden.", "s": ["gm"]},
-  {"n": "Westridge Trailhead and Mandeville Canyon", "c": ["hike", "dogs", "fitness"], "a": "2660 Westridge Rd", "p": "Free", "w": "A dog-friendly ridge hike with an easy fire road and a steeper parallel trail, and views from downtown to the ocean.", "o": "Go early or at sunset. There's no shade and little parking.", "s": ["gm"]},
-  {"n": "San Vicente Mountain Park", "c": ["hike", "park", "landmark"], "a": "17500 Mulholland Dr", "p": "Free", "w": "A ridgetop park at an old Cold War Nike missile site with a lookout tower and huge views.", "o": "Hike in from the Westridge trail, about four miles each way.", "s": ["gm"]}
- ]}
+  {
+   "n": "Caffe Luxxe",
+   "c": [
+    "coffee"
+   ],
+   "a": "11640 San Vicente Blvd",
+   "p": "$$",
+   "w": "A small European-style espresso bar that's been Brentwood's neighborhood coffee stop for years.",
+   "o": "A cappuccino. Park in the lot; it's validated.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Parakeet Cafe",
+   "c": [
+    "breakfast",
+    "coffee",
+    "healthy"
+   ],
+   "a": "13050 San Vicente Blvd",
+   "p": "$$",
+   "w": "A bright, friendly cafe at the west end of San Vicente with protein-forward breakfasts and creative lattes.",
+   "o": "The breakfast croissant sandwich and an iced mint latte.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Coral Tree Cafe",
+   "c": [
+    "breakfast",
+    "brunch",
+    "lunch"
+   ],
+   "a": "11645 San Vicente Blvd",
+   "p": "$$",
+   "w": "A big, airy order-at-the-counter cafe with generous portions.",
+   "o": "Lox benedict or the blueberry pancakes.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Clark Street Brentwood",
+   "c": [
+    "bakery",
+    "lunch"
+   ],
+   "a": "11702 Barrington Ct",
+   "p": "$$",
+   "w": "The famous LA bakery's Brentwood cafe, good any weekday.",
+   "o": "Go before 11am for the Caesar wrap or the tuna melt.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Farmshop",
+   "c": [
+    "brunch",
+    "lunch",
+    "market"
+   ],
+   "a": "225 26th St",
+   "p": "$$$",
+   "w": "The all-day hangout of the Brentwood Country Mart, with a market for picnic supplies.",
+   "o": "The poached chicken salad.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Brentwood Country Mart",
+   "c": [
+    "shop",
+    "kids"
+   ],
+   "a": "225 26th St",
+   "p": "$$",
+   "w": "A red barn-style courtyard of boutiques, a bookstore, a toy store and cafes.",
+   "o": "Coffee, then a wander through the shops. The first hour of parking is free.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Pizzana",
+   "c": [
+    "pizza",
+    "dinner"
+   ],
+   "a": "11712 San Vicente Blvd",
+   "p": "$$",
+   "w": "Neapolitan pizza in a sleek room, and a Fodor's pick for the neighborhood.",
+   "o": "The Diavola and the panna cotta.",
+   "s": [
+    "inf",
+    "fod"
+   ]
+  },
+  {
+   "n": "All Roads",
+   "c": [
+    "pizza",
+    "wine",
+    "cheap"
+   ],
+   "a": "145 S Barrington Ave",
+   "p": "$$",
+   "w": "A casual walk-in Roman pizzeria and wine bar where everything is under $30.",
+   "o": "Crispy oval pizzas and antipasti.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Jon and Vinny's",
+   "c": [
+    "pizza",
+    "dinner"
+   ],
+   "a": "11938 San Vicente Blvd",
+   "p": "$$",
+   "w": "Italian American comfort food from the Animal team.",
+   "o": "A thin-crust pizza right out of the oven.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "The Wilkes",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "148 S Barrington Ave",
+   "p": "$$$",
+   "w": "A charming old-school steakhouse.",
+   "o": "The latke-crusted schnitzel, the pork chop and a wedge salad.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Matū Kai",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "11777 San Vicente Blvd",
+   "p": "$$$$",
+   "w": "A modern, dim steakhouse built around wagyu.",
+   "o": "The five-course tasting for two, or the cheesesteak at the bar.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Osteria Vera",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "11640 San Vicente Blvd",
+   "p": "$$$",
+   "w": "A warm brick-walled Italian room.",
+   "o": "Lobster and tomato paccheri, and ask about the off-menu duck.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Divino",
+   "c": [
+    "dinner"
+   ],
+   "a": "11714 Barrington Ct",
+   "p": "$$$",
+   "w": "A lively, dark Italian spot that regulars love.",
+   "o": "Tagliatelle with tomato and monkfish.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Peppone",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "11628 Barrington Ct",
+   "p": "$$$$",
+   "w": "A pricey, old-school red-sauce Italian institution.",
+   "o": "Dover sole and the Chicago rigatoni.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Palmeri Ristorante",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "11650 San Vicente Blvd",
+   "p": "$$$",
+   "w": "A quiet Italian room that works for a calm date night.",
+   "o": "Bolognese tagliatelle and the veal chop.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Sushi Sasabune",
+   "c": [
+    "sushi",
+    "dinner"
+   ],
+   "a": "11917 Wilshire Blvd",
+   "p": "$$$$",
+   "w": "A classic sushi counter known for trust-the-chef omakase.",
+   "o": "Sit at the bar for omakase.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Thunderbird Bar",
+   "c": [
+    "sports",
+    "bars"
+   ],
+   "a": "12217 Wilshire Blvd",
+   "p": "$$",
+   "w": "A friendly neighborhood sports bar with better food than it needs to have.",
+   "o": "The Thunderburger during a Dodgers game.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "The Getty",
+   "c": [
+    "museum",
+    "art",
+    "landmark"
+   ],
+   "a": "1200 Getty Center Dr",
+   "p": "Free",
+   "w": "The hilltop museum with world-class art, gardens and views from downtown to the ocean. Admission is free; parking is paid.",
+   "o": "Reserve a time online, ride the tram up and finish in the Central Garden. Go before March 15, 2027, when it closes for about a year of renovation.",
+   "s": [
+    "gm",
+    "getty"
+   ]
+  },
+  {
+   "n": "Westridge Trailhead and Mandeville Canyon",
+   "c": [
+    "hike",
+    "dogs",
+    "fitness"
+   ],
+   "a": "2660 Westridge Rd",
+   "p": "Free",
+   "w": "A dog-friendly ridge hike with an easy fire road and a steeper parallel trail, and views from downtown to the ocean.",
+   "o": "Go early or at sunset. There's no shade and little parking.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "San Vicente Mountain Park",
+   "c": [
+    "hike",
+    "park",
+    "landmark"
+   ],
+   "a": "17500 Mulholland Dr",
+   "p": "Free",
+   "w": "A ridgetop park at an old Cold War Nike missile site with a lookout tower and huge views.",
+   "o": "Hike in from the Westridge trail, about four miles each way.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

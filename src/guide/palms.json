@@ -1,0 +1,109 @@
+{
+ "slug": "palms",
+ "updated": "2026-11-26",
+ "intro": "Palms sits between Culver City and West LA, a dense grid of apartments and strip malls along Venice, National and Motor, with some of the Westside's best casual cooking and the Expo Line close by.",
+ "sources": {
+  "inf": [
+   "The Infatuation: Palms",
+   "https://www.theinfatuation.com/los-angeles/neighborhoods/palms"
+  ],
+  "to": [
+   "Time Out: The best restaurants in LA",
+   "https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-los-angeles"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "The Little Marionette",
+   "c": [
+    "coffee"
+   ],
+   "a": "3570 Motor Ave",
+   "p": "$",
+   "w": "A small, friendly espresso bar on Motor known for Australian-style coffee and a well-made matcha.",
+   "o": "A flat white or the matcha.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Lokal Sandwich Shop",
+   "c": [
+    "lunch",
+    "breakfast",
+    "cheap"
+   ],
+   "a": "10433 National Blvd #1A",
+   "p": "$",
+   "w": "A busy little sandwich shop where the specialty is banh mi on fresh, soft bread.",
+   "o": "A tofu or Korean BBQ banh mi.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Kotoya Japanese Ramen",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "10422 National Blvd",
+   "p": "$$",
+   "w": "One of the best ramen shops on the Westside, known for a rich tonkotsu broth. You order on tablets.",
+   "o": "Tonkotsu or the spicy miso ramen.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Versailles",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "10319 Venice Blvd",
+   "p": "$$",
+   "w": "A longtime LA Cuban restaurant with big plates and a lively dining room.",
+   "o": "The garlic chicken with plantains.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Bamboo Restaurant",
+   "c": [
+    "dinner",
+    "date",
+    "bars"
+   ],
+   "a": "10835 Venice Blvd",
+   "p": "$$",
+   "w": "A warm Latin-Caribbean dining room and bar whose cocktails use fresh-pressed sugar cane.",
+   "o": "Mango curry chicken and a mojito.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "n/naka",
+   "c": [
+    "date",
+    "dinner"
+   ],
+   "a": "3455 S Overland Ave",
+   "p": "$$$$",
+   "w": "Chef Niki Nakayama's celebrated modern kaiseki tasting menu, one of the hardest reservations in LA.",
+   "o": "Watch the reservation page for new dates and book the moment they drop.",
+   "s": [
+    "to"
+   ]
+  }
+ ]
+}

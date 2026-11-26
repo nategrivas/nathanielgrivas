@@ -1,0 +1,149 @@
+{
+ "slug": "playa-del-rey",
+ "updated": "2026-11-26",
+ "intro": "Playa del Rey is a small beach town at the south end of the Ballona Wetlands, with a short, walkable strip of bars and restaurants on Culver Boulevard and wide beaches where you can watch jets leave LAX.",
+ "sources": {
+  "ot": [
+   "OpenTable diner reviews: Playa del Rey",
+   "https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Tanner's Coffee Co.",
+   "c": [
+    "coffee",
+    "breakfast"
+   ],
+   "a": "200 Culver Blvd, Suite C",
+   "p": "$",
+   "w": "A small neighborhood cafe with vintage photos of the area and solid breakfast sandwiches.",
+   "o": "A croissant breakfast sandwich and a latte.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Petros Kafe",
+   "c": [
+    "coffee",
+    "breakfast"
+   ],
+   "a": "427 Culver Blvd",
+   "p": "$",
+   "w": "A tiny coffee bar with a patio over the wetlands and a Greek food truck out back. Open Wednesday through Sunday.",
+   "o": "An iced latte and a Greek omelette from the truck.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "T.C. Organic",
+   "c": [
+    "breakfast",
+    "tacos",
+    "lunch"
+   ],
+   "a": "333 Culver Blvd",
+   "p": "$$",
+   "w": "A family-run Mexican restaurant cooking everything from scratch.",
+   "o": "Chilaquiles at brunch or the fish tacos.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Playa Provisions",
+   "c": [
+    "seafood",
+    "dinner",
+    "brunch",
+    "bars"
+   ],
+   "a": "119 Culver Blvd",
+   "p": "$$$",
+   "w": "Chef Brooke Williamson's beachside spot with a daytime counter, a seafood dining room, a whiskey bar and house-made ice cream.",
+   "o": "Crab claws and the lobster roll, then ice cream.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Bacari PDR",
+   "c": [
+    "dinner",
+    "date",
+    "wine"
+   ],
+   "a": "6805 S Vista Del Mar Ln",
+   "p": "$$",
+   "w": "A Mediterranean small-plates restaurant and the neighborhood's go-to for a night out.",
+   "o": "Share several small plates with a bottle of wine.",
+   "s": [
+    "ot",
+    "gm"
+   ]
+  },
+  {
+   "n": "Caffe Pinguini",
+   "c": [
+    "date",
+    "dinner"
+   ],
+   "a": "6935 Pacific Ave",
+   "p": "$$$",
+   "w": "A Roman-run Italian restaurant serving fresh pasta near the beach since 1997, with a heated back patio.",
+   "o": "A pasta and a glass of Italian red.",
+   "s": [
+    "ot",
+    "gm"
+   ]
+  },
+  {
+   "n": "The Harbor Room",
+   "c": [
+    "dive",
+    "bars"
+   ],
+   "a": "195 Culver Blvd",
+   "p": "$",
+   "w": "A cash-only locals' bar often called the smallest bar in LA County. There's an ATM inside.",
+   "o": "A cheap, strong drink at the bar.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Mo's Place",
+   "c": [
+    "sports",
+    "bars"
+   ],
+   "a": "203 Culver Blvd",
+   "p": "$$",
+   "w": "The neighborhood sports bar, with plenty of TVs and live bands some nights.",
+   "o": "Fish and chips during the game.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Dockweiler State Beach",
+   "c": [
+    "beach",
+    "landmark"
+   ],
+   "a": "12000 Vista Del Mar",
+   "p": "$",
+   "w": "A wide beach with fire pits, a bike path and jets taking off from LAX right overhead.",
+   "o": "Arrive early on weekends to claim a fire pit.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

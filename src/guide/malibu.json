@@ -1,33 +1,372 @@
-{"slug": "malibu", "updated": "2026-11-26",
+{
+ "slug": "malibu",
+ "updated": "2026-11-26",
  "intro": "Malibu is 21 miles of coastline along PCH, from Surfrider Beach and the pier to Zuma, Point Dume and the sea caves at El Matador. The restaurants lean on the views and the seafood, and the Santa Monica Mountains rise right behind the beach.",
  "sources": {
-  "inf": ["The Infatuation: Best Malibu restaurants", "https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants"],
-  "laist": ["LAist: Fire-affected restaurants open and closed in Malibu and the Palisades", "https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary"],
-  "gm": ["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=Malibu+CA"]
+  "inf": [
+   "The Infatuation: Best Malibu restaurants",
+   "https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants"
+  ],
+  "laist": [
+   "LAist: Fire-affected restaurants open and closed in Malibu and the Palisades",
+   "https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Malibu+CA"
+  ],
+  "getty": [
+   "Getty: Building Getty's Future",
+   "https://www.getty.edu/about/building-gettys-future/"
+  ]
  },
  "places": [
-  {"n": "Caffe Luxxe Malibu", "c": ["coffee"], "a": "22333 Pacific Coast Hwy", "p": "$$", "w": "A well-run espresso bar with a garden patio out back.", "o": "A latte and an almond croissant in the garden.", "s": ["gm"]},
-  {"n": "Le Cafe Plage", "c": ["coffee", "breakfast", "bakery"], "a": "29169 Heathercliff Rd", "p": "$$", "w": "A busy French-style cafe near Point Dume, popular after a morning hike.", "o": "A vanilla cold foam latte and the lobster burrito.", "s": ["gm"]},
-  {"n": "Lily's Malibu", "c": ["breakfast", "tacos", "cheap"], "a": "29211 Heathercliff Rd", "p": "$", "w": "Oversized breakfast burritos and long lines.", "o": "Call your order in ahead.", "s": ["inf"]},
-  {"n": "The Country Kitchen", "c": ["breakfast", "cheap"], "a": "21239 Pacific Coast Hwy", "p": "$", "w": "A walk-up PCH stand where surfers grab breakfast burritos.", "o": "The breakfast burrito with bacon.", "s": ["inf"]},
-  {"n": "Malibu Farm Pier Cafe", "c": ["brunch", "lunch", "healthy"], "a": "23000 Pacific Coast Hwy", "p": "$$", "w": "A breezy all-day restaurant at the end of the Malibu Pier.", "o": "Light salads or fish tacos with the view.", "s": ["inf"]},
-  {"n": "Pita Bu", "c": ["lunch", "cheap", "healthy"], "a": "22935 Pacific Coast Hwy", "p": "$", "w": "A casual Israeli patio across from Surfrider Beach.", "o": "The salmon kofta plate.", "s": ["inf"]},
-  {"n": "Casita Basqueria", "c": ["lunch", "market"], "a": "3730 Cross Creek Rd", "p": "$$", "w": "A tiny Spanish market making sandwiches on imported bread.", "o": "Go early; the daily sandwiches sell out.", "s": ["inf"]},
-  {"n": "Malibu Seafood", "c": ["seafood", "lunch", "cheap"], "a": "25653 Pacific Coast Hwy", "p": "$$", "w": "A tiny roadside shack with fresh fish and chips.", "o": "Fish and chips and a shrimp cocktail on the patio.", "s": ["inf"]},
-  {"n": "Broad Street Oyster Company", "c": ["seafood", "lunch"], "a": "23359 Pacific Coast Hwy", "p": "$$", "w": "Counter-service seafood with one of LA's best lobster rolls.", "o": "The hot buttered lobster roll.", "s": ["inf"]},
-  {"n": "Neptune's Net", "c": ["seafood", "cheap", "landmark"], "a": "42505 Pacific Coast Hwy", "p": "$$", "w": "A retro 1960s-style seafood stop at the far end of Malibu, famous with motorcyclists.", "o": "Clam chowder or anything fried.", "s": ["inf"]},
-  {"n": "Clark's Oyster Bar", "c": ["seafood", "dinner", "bars"], "a": "23465 Civic Center Way", "p": "$$$", "w": "An upscale raw bar with martinis.", "o": "Rockfish ceviche and a martini.", "s": ["inf"]},
-  {"n": "Nobu Malibu", "c": ["sushi", "dinner", "date"], "a": "22706 Pacific Coast Hwy", "p": "$$$$", "w": "The glamorous oceanfront flagship.", "o": "Rock shrimp tempura and a sunset table.", "s": ["inf"]},
-  {"n": "Taverna Tony", "c": ["dinner"], "a": "23410 Civic Center Way", "p": "$$$", "w": "A lively indoor-outdoor Greek restaurant in the Country Mart.", "o": "Grilled octopus and a whole branzino.", "s": ["inf"]},
-  {"n": "Tra Di Noi", "c": ["dinner", "date"], "a": "3835 Cross Creek Rd", "p": "$$$", "w": "A classic white-tablecloth Italian spot since the early 1990s.", "o": "Jumbo gnocchi with veal ragu.", "s": ["inf"]},
-  {"n": "Lucky's Malibu", "c": ["dinner"], "a": "3835 Cross Creek Rd", "p": "$$$$", "w": "A steakhouse with a lively room and solid food.", "o": "Start with the shrimp cocktail.", "s": ["inf"]},
-  {"n": "Duke's Malibu", "c": ["lunch", "bars"], "a": "21150 Pacific Coast Hwy", "p": "$$", "w": "A surf-themed oceanfront restaurant with strong margaritas, reopening in stages after fire damage.", "o": "A mai tai at the window. Check hours before you go.", "s": ["inf", "laist"]},
-  {"n": "Paradise Cove Beach Cafe", "c": ["lunch", "beach", "bars"], "a": "28128 Pacific Coast Hwy", "p": "$$", "w": "The only Malibu restaurant actually on the sand. You come for the setting.", "o": "A cocktail with your feet in the sand.", "s": ["inf"]},
-  {"n": "Rosenthal Wine Bar and Patio", "c": ["wine"], "a": "Kanan Dume Rd and W Newton Canyon Rd", "p": "$$", "w": "A local winery's tasting patio, reopened at a new canyon location after the fire.", "o": "Weekend afternoons only.", "s": ["laist"]},
-  {"n": "Malibu Pier and Surfrider Beach", "c": ["beach", "landmark", "fitness"], "a": "23000 Pacific Coast Hwy", "p": "Free", "w": "Malibu's historic pier next to the famous point break.", "o": "Watch the surfers from the pier in the morning.", "s": ["inf"]},
-  {"n": "Zuma Beach", "c": ["beach", "kids", "fitness"], "a": "Zuma Beach", "p": "$", "w": "A huge, clean stretch of sand with lifeguards, showers and easy parking right next to the water.", "o": "A full beach day with kids.", "s": ["gm"]},
-  {"n": "Point Dume State Beach", "c": ["beach", "hike"], "a": "6800 Westward Beach Rd", "p": "$", "w": "A beach and a short bluff hike with sweeping views, wildflowers in spring and whales in season.", "o": "Hike the headland at sunset.", "s": ["gm"]},
-  {"n": "El Matador State Beach", "c": ["beach", "landmark"], "a": "32350 Pacific Coast Hwy", "p": "$", "w": "A dramatic cove of sea stacks, arches and small caves at the bottom of a steep path.", "o": "Go for sunset, but leave before the lot closes.", "s": ["gm"]},
-  {"n": "Getty Villa", "c": ["museum", "art", "landmark"], "a": "17985 Pacific Coast Hwy", "p": "Free", "w": "The Getty's re-created Roman villa, with Greek and Roman antiquities and gardens above the ocean. Free with a timed reservation.", "o": "Reserve online and pay for parking; pair it with lunch on PCH.", "s": ["gm"]},
-  {"n": "Malibu Creek State Park", "c": ["hike", "park", "kids"], "a": "1925 Las Virgenes Rd", "p": "$", "w": "Canyon trails, a rock pool for swimming and the old M*A*S*H filming site.", "o": "Hike to the M*A*S*H site, about 2.5 miles each way.", "s": ["gm"]}
- ]}
+  {
+   "n": "Caffe Luxxe Malibu",
+   "c": [
+    "coffee"
+   ],
+   "a": "22333 Pacific Coast Hwy",
+   "p": "$$",
+   "w": "A well-run espresso bar with a garden patio out back.",
+   "o": "A latte and an almond croissant in the garden.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Le Cafe Plage",
+   "c": [
+    "coffee",
+    "breakfast",
+    "bakery"
+   ],
+   "a": "29169 Heathercliff Rd",
+   "p": "$$",
+   "w": "A busy French-style cafe near Point Dume, popular after a morning hike.",
+   "o": "A vanilla cold foam latte and the lobster burrito.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Lily's Malibu",
+   "c": [
+    "breakfast",
+    "tacos",
+    "cheap"
+   ],
+   "a": "29211 Heathercliff Rd",
+   "p": "$",
+   "w": "Oversized breakfast burritos and long lines.",
+   "o": "Call your order in ahead.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "The Country Kitchen",
+   "c": [
+    "breakfast",
+    "cheap"
+   ],
+   "a": "21239 Pacific Coast Hwy",
+   "p": "$",
+   "w": "A walk-up PCH stand where surfers grab breakfast burritos.",
+   "o": "The breakfast burrito with bacon.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Malibu Farm Pier Cafe",
+   "c": [
+    "brunch",
+    "lunch",
+    "healthy"
+   ],
+   "a": "23000 Pacific Coast Hwy",
+   "p": "$$",
+   "w": "A breezy all-day restaurant at the end of the Malibu Pier.",
+   "o": "Light salads or fish tacos with the view.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Pita Bu",
+   "c": [
+    "lunch",
+    "cheap",
+    "healthy"
+   ],
+   "a": "22935 Pacific Coast Hwy",
+   "p": "$",
+   "w": "A casual Israeli patio across from Surfrider Beach.",
+   "o": "The salmon kofta plate.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Casita Basqueria",
+   "c": [
+    "lunch",
+    "market"
+   ],
+   "a": "3730 Cross Creek Rd",
+   "p": "$$",
+   "w": "A tiny Spanish market making sandwiches on imported bread.",
+   "o": "Go early; the daily sandwiches sell out.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Malibu Seafood",
+   "c": [
+    "seafood",
+    "lunch",
+    "cheap"
+   ],
+   "a": "25653 Pacific Coast Hwy",
+   "p": "$$",
+   "w": "A tiny roadside shack with fresh fish and chips.",
+   "o": "Fish and chips and a shrimp cocktail on the patio.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Broad Street Oyster Company",
+   "c": [
+    "seafood",
+    "lunch"
+   ],
+   "a": "23359 Pacific Coast Hwy",
+   "p": "$$",
+   "w": "Counter-service seafood with one of LA's best lobster rolls.",
+   "o": "The hot buttered lobster roll.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Neptune's Net",
+   "c": [
+    "seafood",
+    "cheap",
+    "landmark"
+   ],
+   "a": "42505 Pacific Coast Hwy",
+   "p": "$$",
+   "w": "A retro 1960s-style seafood stop at the far end of Malibu, famous with motorcyclists.",
+   "o": "Clam chowder or anything fried.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Clark's Oyster Bar",
+   "c": [
+    "seafood",
+    "dinner",
+    "bars"
+   ],
+   "a": "23465 Civic Center Way",
+   "p": "$$$",
+   "w": "An upscale raw bar with martinis.",
+   "o": "Rockfish ceviche and a martini.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Nobu Malibu",
+   "c": [
+    "sushi",
+    "dinner",
+    "date"
+   ],
+   "a": "22706 Pacific Coast Hwy",
+   "p": "$$$$",
+   "w": "The glamorous oceanfront flagship.",
+   "o": "Rock shrimp tempura and a sunset table.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Taverna Tony",
+   "c": [
+    "dinner"
+   ],
+   "a": "23410 Civic Center Way",
+   "p": "$$$",
+   "w": "A lively indoor-outdoor Greek restaurant in the Country Mart.",
+   "o": "Grilled octopus and a whole branzino.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Tra Di Noi",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "3835 Cross Creek Rd",
+   "p": "$$$",
+   "w": "A classic white-tablecloth Italian spot since the early 1990s.",
+   "o": "Jumbo gnocchi with veal ragu.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Lucky's Malibu",
+   "c": [
+    "dinner"
+   ],
+   "a": "3835 Cross Creek Rd",
+   "p": "$$$$",
+   "w": "A steakhouse with a lively room and solid food.",
+   "o": "Start with the shrimp cocktail.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Duke's Malibu",
+   "c": [
+    "lunch",
+    "bars"
+   ],
+   "a": "21150 Pacific Coast Hwy",
+   "p": "$$",
+   "w": "A surf-themed oceanfront restaurant with strong margaritas, reopening in stages after fire damage.",
+   "o": "A mai tai at the window. Check hours before you go.",
+   "s": [
+    "inf",
+    "laist"
+   ]
+  },
+  {
+   "n": "Paradise Cove Beach Cafe",
+   "c": [
+    "lunch",
+    "beach",
+    "bars"
+   ],
+   "a": "28128 Pacific Coast Hwy",
+   "p": "$$",
+   "w": "The only Malibu restaurant actually on the sand. You come for the setting.",
+   "o": "A cocktail with your feet in the sand.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Rosenthal Wine Bar and Patio",
+   "c": [
+    "wine"
+   ],
+   "a": "Kanan Dume Rd and W Newton Canyon Rd",
+   "p": "$$",
+   "w": "A local winery's tasting patio, reopened at a new canyon location after the fire.",
+   "o": "Weekend afternoons only.",
+   "s": [
+    "laist"
+   ]
+  },
+  {
+   "n": "Malibu Pier and Surfrider Beach",
+   "c": [
+    "beach",
+    "landmark",
+    "fitness"
+   ],
+   "a": "23000 Pacific Coast Hwy",
+   "p": "Free",
+   "w": "Malibu's historic pier next to the famous point break.",
+   "o": "Watch the surfers from the pier in the morning.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Zuma Beach",
+   "c": [
+    "beach",
+    "kids",
+    "fitness"
+   ],
+   "a": "Zuma Beach",
+   "p": "$",
+   "w": "A huge, clean stretch of sand with lifeguards, showers and easy parking right next to the water.",
+   "o": "A full beach day with kids.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Point Dume State Beach",
+   "c": [
+    "beach",
+    "hike"
+   ],
+   "a": "6800 Westward Beach Rd",
+   "p": "$",
+   "w": "A beach and a short bluff hike with sweeping views, wildflowers in spring and whales in season.",
+   "o": "Hike the headland at sunset.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "El Matador State Beach",
+   "c": [
+    "beach",
+    "landmark"
+   ],
+   "a": "32350 Pacific Coast Hwy",
+   "p": "$",
+   "w": "A dramatic cove of sea stacks, arches and small caves at the bottom of a steep path.",
+   "o": "Go for sunset, but leave before the lot closes.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Getty Villa",
+   "c": [
+    "museum",
+    "art",
+    "landmark"
+   ],
+   "a": "17985 Pacific Coast Hwy",
+   "p": "Free",
+   "w": "The Getty's re-created Roman villa, with Greek and Roman antiquities and gardens above the ocean. Free with a timed reservation.",
+   "o": "Reserve online and pay for parking; pair it with lunch on PCH. It stays open while the Getty Center closes for renovation in 2027, with some Center paintings on view here.",
+   "s": [
+    "gm",
+    "getty"
+   ]
+  },
+  {
+   "n": "Malibu Creek State Park",
+   "c": [
+    "hike",
+    "park",
+    "kids"
+   ],
+   "a": "1925 Las Virgenes Rd",
+   "p": "$",
+   "w": "Canyon trails, a rock pool for swimming and the old M*A*S*H filming site.",
+   "o": "Hike to the M*A*S*H site, about 2.5 miles each way.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

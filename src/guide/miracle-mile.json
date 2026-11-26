@@ -1,0 +1,149 @@
+{
+ "slug": "miracle-mile",
+ "updated": "2026-11-26",
+ "intro": "Miracle Mile is the stretch of Wilshire Boulevard between La Brea and Fairfax known as Museum Row, home to LACMA, the Academy Museum, the Petersen and the La Brea Tar Pits, with Art Deco buildings along Wilshire and a strong run of restaurants on La Brea.",
+ "sources": {
+  "tp": [
+   "La Brea Tar Pits",
+   "https://tarpits.org/last-chance"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Savor",
+   "c": [
+    "coffee",
+    "lunch"
+   ],
+   "a": "5657 Wilshire Blvd, Suite 150",
+   "p": "$$",
+   "w": "A family-owned cafe with good espresso drinks, sandwiches and a small sidewalk patio.",
+   "o": "The house cold brew and the pesto turkey sandwich.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "République",
+   "c": [
+    "brunch",
+    "breakfast",
+    "bakery",
+    "date"
+   ],
+   "a": "624 S La Brea Ave",
+   "p": "$$$",
+   "w": "Walter and Margarita Manzke's French bakery and restaurant in a landmark 1920s building, packed for brunch and a dressier room at dinner.",
+   "o": "Pastries from the case at brunch. Go early on weekends.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Met Her At A Bar",
+   "c": [
+    "brunch",
+    "breakfast"
+   ],
+   "a": "759 S La Brea Ave",
+   "p": "$$",
+   "w": "A small, busy brunch cafe best known for its waffles.",
+   "o": "Chilaquiles or a loaded waffle.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Andre's",
+   "c": [
+    "lunch",
+    "cheap",
+    "dinner"
+   ],
+   "a": "5400 Wilshire Blvd",
+   "p": "$",
+   "w": "A cafeteria-style Italian spot that has fed LA since the 1960s, now in a new home on Wilshire.",
+   "o": "Spaghetti and meatballs; the large feeds two.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Yuko Kitchen",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "5484 Wilshire Blvd",
+   "p": "$$",
+   "w": "An order-at-the-counter Japanese rice bowl spot in a plant-filled space.",
+   "o": "A salmon rice bowl.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "LACMA",
+   "c": [
+    "museum",
+    "art",
+    "landmark"
+   ],
+   "a": "5905 Wilshire Blvd",
+   "p": "$$",
+   "w": "LA's biggest art museum, with the new David Geffen Galleries inside and Chris Burden's Urban Light lampposts out front.",
+   "o": "Urban Light at dusk, then the galleries.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Academy Museum of Motion Pictures",
+   "c": [
+    "museum",
+    "film"
+   ],
+   "a": "6067 Wilshire Blvd",
+   "p": "$$",
+   "w": "Floors of film history and rotating exhibits, plus screenings and a terrace that looks toward the Hollywood Hills.",
+   "o": "Check the screening calendar before you go.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Petersen Automotive Museum",
+   "c": [
+    "museum",
+    "kids"
+   ],
+   "a": "6060 Wilshire Blvd",
+   "p": "$$",
+   "w": "One of the world's great car museums, behind its famous ribbon-wrapped facade.",
+   "o": "Add the basement Vault tour.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "La Brea Tar Pits",
+   "c": [
+    "park",
+    "landmark",
+    "kids"
+   ],
+   "a": "5801 Wilshire Blvd",
+   "p": "Free",
+   "w": "Ice Age asphalt seeps and active excavation sites in the park. The museum building is closed for renovation until about 2028, but much of the park stays open.",
+   "o": "Walk to the Lake Pit and look for the tar bubbling up.",
+   "s": [
+    "tp",
+    "gm"
+   ]
+  }
+ ]
+}
