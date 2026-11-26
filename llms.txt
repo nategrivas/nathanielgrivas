@@ -28,7 +28,10 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Malibu guide](https://www.nathanielgrivas.com/guide/malibu): 24 restaurants, coffee shops, bars and things to do
 - [Mar Vista guide](https://www.nathanielgrivas.com/guide/mar-vista): 17 restaurants, coffee shops, bars and things to do
 - [Marina del Rey guide](https://www.nathanielgrivas.com/guide/marina-del-rey): 17 restaurants, coffee shops, bars and things to do
+- [Miracle Mile guide](https://www.nathanielgrivas.com/guide/miracle-mile): 9 restaurants, coffee shops, bars and things to do
 - [Pacific Palisades guide](https://www.nathanielgrivas.com/guide/pacific-palisades): 13 restaurants, coffee shops, bars and things to do
+- [Palms guide](https://www.nathanielgrivas.com/guide/palms): 6 restaurants, coffee shops, bars and things to do
+- [Playa del Rey guide](https://www.nathanielgrivas.com/guide/playa-del-rey): 9 restaurants, coffee shops, bars and things to do
 - [Playa Vista guide](https://www.nathanielgrivas.com/guide/playa-vista): 5 restaurants, coffee shops, bars and things to do
 - [Santa Monica guide](https://www.nathanielgrivas.com/guide/santa-monica): 40 restaurants, coffee shops, bars and things to do
 - [Sherman Oaks guide](https://www.nathanielgrivas.com/guide/sherman-oaks): 12 restaurants, coffee shops, bars and things to do
@@ -37,6 +40,7 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Venice guide](https://www.nathanielgrivas.com/guide/venice): 42 restaurants, coffee shops, bars and things to do
 - [West Hollywood guide](https://www.nathanielgrivas.com/guide/west-hollywood): 60 restaurants, coffee shops, bars and things to do
 - [West LA & Sawtelle guide](https://www.nathanielgrivas.com/guide/west-la): 25 restaurants, coffee shops, bars and things to do
+- [Westchester guide](https://www.nathanielgrivas.com/guide/westchester): 6 restaurants, coffee shops, bars and things to do
 - [Westwood guide](https://www.nathanielgrivas.com/guide/westwood): 21 restaurants, coffee shops, bars and things to do
 
 ## The LA Journal: daily Los Angeles news and openings
