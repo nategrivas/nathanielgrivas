@@ -171,3 +171,97 @@
     document.addEventListener('keydown', (ev) => { if (box.hidden) return; if (ev.key === 'Escape') close(); if (ev.key === 'ArrowLeft') show(at - 1); if (ev.key === 'ArrowRight') show(at + 1); });
   }
 }
+
+// Header over the hero: solid once scrolled
+(() => {
+  const top = document.querySelector('.top.over');
+  if (!top) return;
+  const on = () => top.classList.toggle('scrolled', window.scrollY > 30);
+  on();
+  window.addEventListener('scroll', on, { passive: true });
+})();
+
+// Hero slideshow
+(() => {
+  const hero = document.querySelector('.lux-hero');
+  if (!hero) return;
+  const figs = [...hero.querySelectorAll('.lh-slides figure')];
+  const dots = [...hero.querySelectorAll('.lh-dots button')];
+  const cap = hero.querySelector('.lh-cap');
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  let i = 0, timer = null, ready = false;
+  const load = (f) => {
+    const im = f && f.querySelector('img[data-src]');
+    if (!im) return;
+    im.srcset = im.dataset.srcset; im.src = im.dataset.src;
+    im.removeAttribute('data-src'); im.removeAttribute('data-srcset');
+  };
+  const show = (n) => {
+    i = (n + figs.length) % figs.length;
+    load(figs[i]);
+    figs.forEach((f, k) => f.classList.toggle('on', k === i));
+    dots.forEach((d, k) => d.setAttribute('aria-current', k === i ? 'true' : 'false'));
+    const f = figs[i], c = f.dataset.cap, h = f.dataset.href;
+    if (c) { cap.hidden = false; cap.textContent = c; if (h) cap.setAttribute('href', h); else cap.removeAttribute('href'); }
+    else cap.hidden = true;
+    if (ready) load(figs[(i + 1) % figs.length]);
+  };
+  const play = () => {
+    clearInterval(timer);
+    if (reduce) return;
+    timer = setInterval(() => { if (!document.hidden) show(i + 1); }, 6500);
+  };
+  dots.forEach((d, k) => d.addEventListener('click', () => { show(k); play(); }));
+  show(0);
+  const start = () => { ready = true; load(figs[1]); play(); };
+  if (document.readyState === 'complete') start(); else window.addEventListener('load', start);
+})();
+
+// Call, text and message popups. Call/Text still open the phone app; on a computer the popup also shows the number and a QR code.
+(() => {
+  const reach = document.getElementById('ngd-reach');
+  const msg = document.getElementById('ngd-msg');
+  if (!reach || !msg || typeof reach.showModal !== 'function') return;
+  const phoneUI = window.matchMedia('(pointer: coarse) and (max-width: 820px)');
+  const kick = reach.querySelector('.kick'), num = reach.querySelector('.ngd-num');
+  const qr = reach.querySelector('.ngd-qr img'), alt = reach.querySelector('[data-alt]');
+  const tel = num.getAttribute('href').replace(/^(tel|sms):/, '');
+  const setMode = (m) => {
+    const text = m === 'text';
+    kick.textContent = text ? 'Text Nate' : 'Call Nate';
+    num.setAttribute('href', (text ? 'sms:' : 'tel:') + tel);
+    qr.src = text ? qr.dataset.text : qr.dataset.call;
+    qr.alt = 'QR code to ' + (text ? 'text ' : 'call ') + num.textContent;
+    alt.setAttribute('href', (text ? 'tel:' : 'sms:') + tel);
+    alt.textContent = text ? 'Call instead' : 'Text instead';
+  };
+  const open = (d) => {
+    [reach, msg].forEach((x) => { if (x !== d && x.open) x.close(); });
+    if (!d.open) d.showModal();
+  };
+  document.addEventListener('click', (ev) => {
+    const a = ev.target.closest('a[href^="tel:"], a[href^="sms:"], a[href^="mailto:"], [data-msg]');
+    if (!a) return;
+    const href = a.getAttribute('href') || '';
+    if (a.hasAttribute('data-msg') || (href.startsWith('mailto:') && !a.closest('dialog'))) {
+      ev.preventDefault();
+      open(msg);
+      return;
+    }
+    if (href.startsWith('mailto:')) return;
+    const m = href.startsWith('sms:') ? 'text' : 'call';
+    if (a.closest('#ngd-reach')) { setMode(m); return; }
+    if (phoneUI.matches) return;
+    setMode(m);
+    setTimeout(() => open(reach), 60);
+  });
+  [reach, msg].forEach((d) => d.addEventListener('click', (ev) => {
+    if (ev.target === d || ev.target.closest('[data-close]')) d.close();
+  }));
+  const copy = reach.querySelector('[data-copy]');
+  copy.addEventListener('click', async () => {
+    try { await navigator.clipboard.writeText(copy.dataset.copy); copy.textContent = 'Copied'; }
+    catch (e) { copy.textContent = copy.dataset.copy; }
+    setTimeout(() => { copy.textContent = 'Copy number'; }, 1800);
+  });
+})();
