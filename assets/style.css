@@ -932,3 +932,37 @@ a.lh-cap[href]:hover{color:#fff;text-decoration:underline;text-underline-offset:
 .lux-band .bento .big h3{font-size:44px}
 @media(max-width:520px){.lux-band .tile h3{font-size:22px}.lux-band .bento .big h3{font-size:32px}}
 .post h3,.posts h3{font-family:var(--serif);font-weight:500;font-size:25px;letter-spacing:0;line-height:1.1}
+
+/* call, text and message popups */
+.ngd{padding:0;border:1px solid var(--line2);border-radius:4px;background:#121110;color:var(--ink);width:min(460px,calc(100vw - 24px));max-height:calc(100dvh - 32px);overflow:auto;box-shadow:0 30px 90px rgba(0,0,0,.6)}
+.ngd-msg{width:min(640px,calc(100vw - 24px))}
+.ngd::backdrop{background:rgba(0,0,0,.64);-webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px)}
+.ngd-box{position:relative;padding:30px 28px 24px}
+.ngd-x{position:absolute;top:8px;right:8px;width:44px;height:44px;border:0;background:none;color:var(--soft);font-size:28px;line-height:1;cursor:pointer}
+.ngd-x:hover{color:var(--ink)}
+.ngd h2{margin:2px 0 12px;font:500 clamp(36px,6vw,48px)/1 var(--serif)}
+.ngd-num{color:var(--ink);text-decoration:none}
+.ngd-num:hover{color:var(--cu2)}
+.ngd-note{color:var(--soft);font-size:14.5px;margin:0 0 16px}
+.ngd-note a{color:var(--cu2)}
+.ngd-qr{display:flex;justify-content:center;margin:6px 0 20px}
+.ngd-qr img{width:168px;height:168px;background:#fff;padding:6px}
+.ngd-row{display:flex;flex-wrap:wrap;gap:8px}
+.ngd-row .btn{flex:1 1 auto;min-height:44px;font-size:13px;border-radius:3px}
+.ngd .lead{background:none;border:0;padding:0;box-shadow:none}
+.top .btn.ghost{border-radius:0;background:none;border:1px solid transparent;min-height:40px;padding:0 10px;font:600 11.5px/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--soft)}
+.top .btn.ghost:hover{color:var(--cu2)}
+.top.over .btn.ghost{color:rgba(255,255,255,.88)}
+.btn svg,.searchbtn svg{flex:none}
+.nav a{flex:none}
+@media(max-width:1300px){.brand .bk{display:none}}
+@media(max-width:1180px){.nav a.bg{display:none}}
+@media(max-width:1060px){.top .btn.ghost{display:none}}
+.nav{flex:none}
+@media(max-width:1400px){.brand .bk{display:none}}
+@media(max-width:1240px){.nav a.bg{display:none}}
+.brand{flex:none;flex-direction:column;align-items:flex-start;justify-content:center;gap:5px}
+.brand .wm{font-size:23px}
+.brand .bk,.top .brand .bk{display:block;height:auto;padding:0;border:0;font-size:8.5px;letter-spacing:.52em;color:var(--mute)}
+.top.over .brand .bk{color:rgba(255,255,255,.7)}
+.top .wrap{gap:16px}

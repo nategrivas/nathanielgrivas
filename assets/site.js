@@ -216,3 +216,52 @@
   const start = () => { ready = true; load(figs[1]); play(); };
   if (document.readyState === 'complete') start(); else window.addEventListener('load', start);
 })();
+
+// Call, text and message popups. Call/Text still open the phone app; on a computer the popup also shows the number and a QR code.
+(() => {
+  const reach = document.getElementById('ngd-reach');
+  const msg = document.getElementById('ngd-msg');
+  if (!reach || !msg || typeof reach.showModal !== 'function') return;
+  const phoneUI = window.matchMedia('(pointer: coarse) and (max-width: 820px)');
+  const kick = reach.querySelector('.kick'), num = reach.querySelector('.ngd-num');
+  const qr = reach.querySelector('.ngd-qr img'), alt = reach.querySelector('[data-alt]');
+  const tel = num.getAttribute('href').replace(/^(tel|sms):/, '');
+  const setMode = (m) => {
+    const text = m === 'text';
+    kick.textContent = text ? 'Text Nate' : 'Call Nate';
+    num.setAttribute('href', (text ? 'sms:' : 'tel:') + tel);
+    qr.src = text ? qr.dataset.text : qr.dataset.call;
+    qr.alt = 'QR code to ' + (text ? 'text ' : 'call ') + num.textContent;
+    alt.setAttribute('href', (text ? 'tel:' : 'sms:') + tel);
+    alt.textContent = text ? 'Call instead' : 'Text instead';
+  };
+  const open = (d) => {
+    [reach, msg].forEach((x) => { if (x !== d && x.open) x.close(); });
+    if (!d.open) d.showModal();
+  };
+  document.addEventListener('click', (ev) => {
+    const a = ev.target.closest('a[href^="tel:"], a[href^="sms:"], a[href^="mailto:"], [data-msg]');
+    if (!a) return;
+    const href = a.getAttribute('href') || '';
+    if (a.hasAttribute('data-msg') || (href.startsWith('mailto:') && !a.closest('dialog'))) {
+      ev.preventDefault();
+      open(msg);
+      return;
+    }
+    if (href.startsWith('mailto:')) return;
+    const m = href.startsWith('sms:') ? 'text' : 'call';
+    if (a.closest('#ngd-reach')) { setMode(m); return; }
+    if (phoneUI.matches) return;
+    setMode(m);
+    setTimeout(() => open(reach), 60);
+  });
+  [reach, msg].forEach((d) => d.addEventListener('click', (ev) => {
+    if (ev.target === d || ev.target.closest('[data-close]')) d.close();
+  }));
+  const copy = reach.querySelector('[data-copy]');
+  copy.addEventListener('click', async () => {
+    try { await navigator.clipboard.writeText(copy.dataset.copy); copy.textContent = 'Copied'; }
+    catch (e) { copy.textContent = copy.dataset.copy; }
+    setTimeout(() => { copy.textContent = 'Copy number'; }, 1800);
+  });
+})();
