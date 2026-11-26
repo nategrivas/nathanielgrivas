@@ -1154,3 +1154,6 @@ a.plain{color:inherit;text-decoration:none}
 .gtile em{font-style:normal;font-size:12.5px;color:rgba(255,255,255,.8)}
 .gsoon{margin-top:18px;font-size:13.5px;color:var(--mute)}
 @media(max-width:900px){.gh-grid,.gend{grid-template-columns:1fr}.gtiles{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+/* guide end CTA: long button labels wrap on phones */
+@media (max-width:640px){.gend .lh-cta,.ghero .lh-cta{flex-direction:column;align-items:stretch}.gend .lh-cta .btn,.ghero .lh-cta .btn{white-space:normal;text-align:center;justify-content:center;min-width:0}}
