@@ -14,6 +14,20 @@
  },
  "places": [
   {
+   "n": "Saint Coffee Shop",
+   "c": [
+    "coffee",
+    "breakfast"
+   ],
+   "a": "11706 Moorpark St",
+   "p": "$$",
+   "w": "A busy neighborhood coffee shop with well-balanced espresso drinks and good pastries.",
+   "o": "An iced vanilla latte and a cinnamon roll.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
    "n": "Aroma Cafe",
    "c": [
     "breakfast",

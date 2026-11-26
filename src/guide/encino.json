@@ -1,0 +1,89 @@
+{
+ "slug": "encino",
+ "updated": "2026-11-26",
+ "intro": "Encino stretches along Ventura Boulevard west of the 405, with leafy hillside streets to the south, a long run of restaurants and cafes on the boulevard, and the Sepulveda Basin's parks just to the north.",
+ "sources": {
+  "inf": [
+   "The Infatuation: San Fernando Valley",
+   "https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Encino+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Aurora Coffee & Creamery",
+   "c": [
+    "coffee"
+   ],
+   "a": "16550 Ventura Blvd, #110",
+   "p": "$",
+   "w": "A friendly coffee bar that also makes rolled ice cream.",
+   "o": "A strawberry matcha or an iced mocha.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Shin Sushi",
+   "c": [
+    "sushi",
+    "date"
+   ],
+   "a": "16573 Ventura Blvd",
+   "p": "$$$$",
+   "w": "An intimate omakase counter where the chef talks you through every piece. A special-occasion splurge.",
+   "o": "Book the omakase well ahead and arrive on time.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Davenport's",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "16120 Ventura Blvd",
+   "p": "$$$",
+   "w": "A classic steak and seafood house, known for prime rib and its holiday decorations.",
+   "o": "Prime rib or a ribeye with a baked potato.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "POPULAR",
+   "c": [
+    "dinner",
+    "date",
+    "seafood"
+   ],
+   "a": "18047 Ventura Blvd",
+   "p": "$$$",
+   "w": "An upscale kosher dairy restaurant serving fish, Mediterranean plates and sushi.",
+   "o": "A fish main with the sides, and the bread with za'atar butter.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Los Encinos State Historic Park",
+   "c": [
+    "park",
+    "landmark",
+    "kids"
+   ],
+   "a": "16756 Moorpark St",
+   "p": "Free",
+   "w": "A small historic park with an 1800s adobe, a spring-fed duck pond and citrus trees.",
+   "o": "Come on the third Sunday of the month for the blacksmith demonstration.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

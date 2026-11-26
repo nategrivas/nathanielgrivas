@@ -1,0 +1,184 @@
+{
+ "slug": "north-hollywood",
+ "updated": "2026-11-26",
+ "intro": "North Hollywood centers on the NoHo Arts District around Lankershim and Magnolia, with small theaters and the B Line subway terminus, plus a deep bench of Thai, Middle Eastern, Latin and barbecue spots across the wider neighborhood.",
+ "sources": {
+  "inf": [
+   "The Infatuation: North Hollywood",
+   "https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood"
+  ],
+  "infsc": [
+   "The Infatuation: Studio City",
+   "https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Moxie Coffee Bar",
+   "c": [
+    "coffee"
+   ],
+   "a": "5300 Lankershim Blvd, Suite 115",
+   "p": "$",
+   "w": "A bright Arts District coffee bar with creative lattes and plenty of dairy-free and sugar-free options.",
+   "o": "The panela canela latte.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "La Rochelle Bakery & Cafe",
+   "c": [
+    "bakery",
+    "breakfast",
+    "coffee",
+    "lunch"
+   ],
+   "a": "5050 Vineland Ave",
+   "p": "$",
+   "w": "A bakery cafe with a hidden, plant-filled back patio and generous breakfast plates.",
+   "o": "A pastry and a sandwich out on the patio.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "The Front Yard",
+   "c": [
+    "brunch",
+    "dinner"
+   ],
+   "a": "4222 Vineland Ave",
+   "p": "$$",
+   "w": "The Garland hotel's restaurant, with a big courtyard patio and an easy weekend brunch.",
+   "o": "The short rib burger and a martini.",
+   "s": [
+    "infsc",
+    "gm"
+   ]
+  },
+  {
+   "n": "Sri Siam Cafe",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "12843 Vanowen St",
+   "p": "$$",
+   "w": "A small family-run Thai restaurant open since 1984 and one of the most important Thai spots in LA.",
+   "o": "Crispy rice salad and the panang curry.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Wat Thai Food Court",
+   "c": [
+    "market",
+    "cheap",
+    "lunch"
+   ],
+   "a": "8225 Coldwater Canyon Ave",
+   "p": "$",
+   "w": "Weekend-only Thai street food stalls on the grounds of a Buddhist temple. You trade cash for tokens to pay.",
+   "o": "Arrive before noon, when the popular stalls start to sell out.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Swinging Door BBQ",
+   "c": [
+    "lunch",
+    "dinner"
+   ],
+   "a": "11018 Vanowen St",
+   "p": "$$",
+   "w": "Texas-style barbecue smoked in the alley out back, mostly for takeout.",
+   "o": "Brisket, ribs and burnt ends with the baked beans.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Chiba",
+   "c": [
+    "sushi",
+    "dinner"
+   ],
+   "a": "7515 Lankershim Blvd",
+   "p": "$$",
+   "w": "A busy, multi-room sushi restaurant where the bar is the place to sit.",
+   "o": "Nigiri at the bar, plus the spicy tuna crispy rice.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Hayat's Kitchen",
+   "c": [
+    "lunch",
+    "dinner"
+   ],
+   "a": "11009 Burbank Blvd, #117",
+   "p": "$$",
+   "w": "A Lebanese restaurant with a garden patio and bread baked fresh in an outdoor oven.",
+   "o": "Kebab platters and the hot mezze.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Mofongos",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "5757 Lankershim Blvd",
+   "p": "$$",
+   "w": "One of LA's few Puerto Rican restaurants, with friendly servers who walk first-timers through the menu.",
+   "o": "The appetizer platter, then a carne guisada mofongo.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Idle Hour",
+   "c": [
+    "bars",
+    "brunch"
+   ],
+   "a": "4824 Vineland Ave",
+   "p": "$$",
+   "w": "A restored 1940s bar in a building shaped like a giant barrel, with a big patio and solid bar food.",
+   "o": "Happy hour out on the patio.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "El Portal Theatre",
+   "c": [
+    "film",
+    "music"
+   ],
+   "a": "5269 Lankershim Blvd",
+   "p": "$$",
+   "w": "A restored 1920s theater in the Arts District hosting plays, musicals and concerts.",
+   "o": "Grab a drink at the theater's bar before the show.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

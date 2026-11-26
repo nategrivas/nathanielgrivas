@@ -1,0 +1,80 @@
+{
+ "slug": "valley-village",
+ "updated": "2026-11-26",
+ "intro": "Valley Village is a quiet residential pocket between North Hollywood and Studio City, with a small cluster of restaurants and bars along Magnolia Boulevard and Laurel Canyon Boulevard.",
+ "sources": {
+  "inf": [
+   "The Infatuation: North Hollywood",
+   "https://www.theinfatuation.com/los-angeles/neighborhoods/north-hollywood"
+  ],
+  "pbs": [
+   "PBS SoCal: Iconic North Hollywood restaurants",
+   "https://www.pbssocal.org/food-discovery/food/iconic-neighborhood-restaurants-north-hollywood"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Valley+Village+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Valley Smash Burgers",
+   "c": [
+    "cheap",
+    "lunch"
+   ],
+   "a": "5206 Laurel Canyon Blvd",
+   "p": "$",
+   "w": "A no-frills counter turning out some of the best smash burgers in the Valley.",
+   "o": "A double with the loaded fries.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Rustic Spoon",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "12500 Magnolia Blvd",
+   "p": "$$",
+   "w": "A warmly decorated Thai restaurant that critics call one of the Valley's most overlooked.",
+   "o": "Tom kha soup and the drunken noodles.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "ViVi Ristorante",
+   "c": [
+    "date",
+    "dinner"
+   ],
+   "a": "5424 Laurel Canyon Blvd",
+   "p": "$$",
+   "w": "A cozy, old-school Italian spot with a record player spinning at the bar.",
+   "o": "The oxtail cavatelli and the warm bread.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Fox Fire Room",
+   "c": [
+    "bars",
+    "dive",
+    "sports"
+   ],
+   "a": "12516 Magnolia Blvd",
+   "p": "$",
+   "w": "A classic wood-paneled Valley bar with darts, a red glow and game-day crowds.",
+   "o": "Darts and a drink during the game.",
+   "s": [
+    "pbs",
+    "gm"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "slug": "tarzana",
+ "updated": "2026-11-26",
+ "intro": "Tarzana, named for Edgar Rice Burroughs' Tarzan after the author's ranch here, runs along Ventura Boulevard west of Encino, with a strong mix of Israeli, Persian, Eastern European, Japanese and French restaurants.",
+ "sources": {
+  "ot": [
+   "OpenTable diner reviews: Tarzana",
+   "https://opentable.co.uk/phrase/1366781"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Tarzana+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Cafe Aftab",
+   "c": [
+    "coffee",
+    "breakfast"
+   ],
+   "a": "19239 Ventura Blvd",
+   "p": "$$",
+   "w": "A newer Persian cafe with a calm, sunny room, creative drinks and good breakfast toasts.",
+   "o": "A cappuccino and the salmon toast.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Hummus Bar & Grill",
+   "c": [
+    "lunch",
+    "dinner"
+   ],
+   "a": "18743 Ventura Blvd",
+   "p": "$$",
+   "w": "An Israeli grill known for fresh hummus, hot bread and an endless spread of small salads.",
+   "o": "Hummus topped with meat, plus the salads.",
+   "s": [
+    "ot",
+    "gm"
+   ]
+  },
+  {
+   "n": "Traktir",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "18588 Ventura Blvd",
+   "p": "$$$",
+   "w": "A white-tablecloth Eastern European restaurant with house-infused vodka flights.",
+   "o": "Borscht, potato vareniki and the chicken Kyiv.",
+   "s": [
+    "ot",
+    "gm"
+   ]
+  },
+  {
+   "n": "So Sushi",
+   "c": [
+    "sushi",
+    "dinner"
+   ],
+   "a": "19522 Ventura Blvd",
+   "p": "$$",
+   "w": "A busy neighborhood sushi bar with an all-you-can-eat option.",
+   "o": "Sit at the sushi bar.",
+   "s": [
+    "ot",
+    "gm"
+   ]
+  },
+  {
+   "n": "TLV Tapas Bar",
+   "c": [
+    "date",
+    "bars",
+    "latenight"
+   ],
+   "a": "5442 Yolanda Ave",
+   "p": "$$$$",
+   "w": "An upscale kosher Mediterranean tapas restaurant that turns into a party with a DJ later at night.",
+   "o": "Bluefin crispy rice and the market salad.",
+   "s": [
+    "ot",
+    "gm"
+   ]
+  },
+  {
+   "n": "Le Sanglier",
+   "c": [
+    "date",
+    "dinner"
+   ],
+   "a": "5522 Crebs Ave",
+   "p": "$$$",
+   "w": "A father-and-son French restaurant open for more than 50 years, with a cozy lodge-style dining room. Dinner Wednesday through Saturday.",
+   "o": "Duck a l'orange and the creme brulee.",
+   "s": [
+    "ot",
+    "gm"
+   ]
+  }
+ ]
+}
