@@ -966,3 +966,4 @@ a.lh-cap[href]:hover{color:#fff;text-decoration:underline;text-underline-offset:
 .brand .bk,.top .brand .bk{display:block;height:auto;padding:0;border:0;font-size:8.5px;letter-spacing:.52em;color:var(--mute)}
 .top.over .brand .bk{color:rgba(255,255,255,.7)}
 .top .wrap{gap:16px}
+h1,h2,h3,.h1,.h2,.price,.lux-stats b,.brand .wm,.help-row b,.tile h3,.post h3,.ngd h2,.ngd-num,.lh-name,.meet h2,.lux-head h2{font-variant-numeric:lining-nums!important;font-feature-settings:"lnum" 1!important}
