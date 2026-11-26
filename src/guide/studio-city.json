@@ -1,0 +1,307 @@
+{
+ "slug": "studio-city",
+ "updated": "2026-11-26",
+ "intro": "Studio City runs along Ventura Boulevard at the foot of the Santa Monica Mountains, with the CBS studio lot, a long strip of sushi bars and neighborhood restaurants, a classic jazz club on Cahuenga and trailheads like Fryman Canyon a few minutes up the hill.",
+ "sources": {
+  "inf": [
+   "The Infatuation: Studio City",
+   "https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Studio+City+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Aroma Cafe",
+   "c": [
+    "breakfast",
+    "coffee",
+    "lunch",
+    "bakery"
+   ],
+   "a": "Ventura Blvd",
+   "p": "$$",
+   "w": "An all-day neighborhood cafe where the pastry case and sandwiches draw a steady line.",
+   "o": "Coffee and something from the bakery case.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "El Ruso Taquería",
+   "c": [
+    "tacos",
+    "cheap",
+    "lunch"
+   ],
+   "a": "10624 Ventura Blvd",
+   "p": "$",
+   "w": "Sonoran-style tacos on fresh flour tortillas, with meats cooked over mesquite.",
+   "o": "The thin-cut ribeye taco.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Joe's Falafel",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "3535 Cahuenga Blvd W",
+   "p": "$",
+   "w": "A tiny counter near the studios turning out kabobs, shawarma and falafel wraps.",
+   "o": "A falafel laffa or the beef kabob plate.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Avi Cue",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "11288 Ventura Blvd",
+   "p": "$$",
+   "w": "A quick counter built around spit-roasted shawarma.",
+   "o": "The wagyu shawarma sandwich.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Burosu Ramen",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "12265 Ventura Blvd, Unit 102",
+   "p": "$$",
+   "w": "One of the strongest ramen shops in the Valley, with big bowls worth taking home.",
+   "o": "The spicy Reddo, plus the brothless Orenji to share.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Daichan",
+   "c": [
+    "lunch",
+    "dinner"
+   ],
+   "a": "11288 Ventura Blvd",
+   "p": "$$",
+   "w": "A cluttered, homey Japanese comfort food spot tucked into a strip mall.",
+   "o": "The original poke bowl.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Saoha Khao Soi",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "3250 Cahuenga Blvd W",
+   "p": "$$",
+   "w": "A Northern Thai specialist known for its rich curry noodle soup.",
+   "o": "Khao soi with crispy pork or soft-shell crab.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Mantee Cafe",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "10962 Ventura Blvd",
+   "p": "$$",
+   "w": "A family-run Armenian restaurant with generous plates and a warm room.",
+   "o": "The mantee dumplings with yogurt, dolma and the sizzling feta.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Black Market Liquor Bar",
+   "c": [
+    "dinner",
+    "bars",
+    "date"
+   ],
+   "a": "11915 Ventura Blvd",
+   "p": "$$",
+   "w": "A long-running gastropub under a brick barrel ceiling with a big shareable menu that works for groups.",
+   "o": "Small plates to share and a cocktail.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Laurel Tavern",
+   "c": [
+    "bars",
+    "dinner",
+    "sports"
+   ],
+   "a": "11938 Ventura Blvd",
+   "p": "$$",
+   "w": "A friendly neighborhood bar with a solid happy hour.",
+   "o": "The burger and a beer.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Uovo",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "Ventura Blvd",
+   "p": "$$",
+   "w": "A casual pasta bar making fresh pasta in a relaxed setting.",
+   "o": "Two pastas to share.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Rosetta Osteria & Crudo Bar",
+   "c": [
+    "date",
+    "dinner",
+    "seafood"
+   ],
+   "a": "12345 Ventura Blvd",
+   "p": "$$$",
+   "w": "An Italian dining room pairing raw seafood with pastas and a good wine list. Dinner only, closed Mondays.",
+   "o": "Oysters and a couple of crudos to start.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Alto",
+   "c": [
+    "date",
+    "dinner"
+   ],
+   "a": "12969 Ventura Blvd",
+   "p": "$$$$",
+   "w": "A dark, moody Argentine steakhouse built around an open fire grill.",
+   "o": "Piquillo peppers and the lamb saddle. It is a splurge.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Asanebo",
+   "c": [
+    "sushi",
+    "date",
+    "dinner"
+   ],
+   "a": "11941 Ventura Blvd",
+   "p": "$$$$",
+   "w": "An old-school sushi bar on Ventura's sushi row, known for pristine nigiri.",
+   "o": "The omakase if you want the full tour of their signatures.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Sushi Tomoki",
+   "c": [
+    "sushi",
+    "dinner"
+   ],
+   "a": "3791 Cahuenga Blvd W",
+   "p": "$$$",
+   "w": "A neighborhood sushi bar where ordering nigiri at the counter is the move.",
+   "o": "Sit at the bar, order a la carte and get the hirame.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Yume Sushi",
+   "c": [
+    "sushi",
+    "cheap"
+   ],
+   "a": "12254 Ventura Blvd",
+   "p": "$$",
+   "w": "A good-value sushi spot that does especially well as takeout.",
+   "o": "The Yume Box.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Oy Bar",
+   "c": [
+    "dive",
+    "bars",
+    "latenight"
+   ],
+   "a": "12446 Moorpark St",
+   "p": "$$",
+   "w": "A dim neighborhood dive with better food than it needs to have.",
+   "o": "The cheesy burger, or the pastrami quesadilla when it is on.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "The Last Canteen",
+   "c": [
+    "bars",
+    "dinner"
+   ],
+   "a": "10964 Ventura Blvd",
+   "p": "$$",
+   "w": "A post-apocalyptic themed cocktail bar with fully committed decor and a real kitchen.",
+   "o": "A house cocktail and a few shared plates.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "The Baked Potato",
+   "c": [
+    "music",
+    "latenight"
+   ],
+   "a": "3787 Cahuenga Blvd",
+   "p": "$$",
+   "w": "A small, long-running jazz club where the menu is giant stuffed baked potatoes.",
+   "o": "Buy tickets online ahead of time, since shows sell out.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Fryman Canyon",
+   "c": [
+    "hike",
+    "park",
+    "dogs"
+   ],
+   "a": "3493 Laurel Canyon Blvd (trailhead)",
+   "p": "Free",
+   "w": "A shady canyon loop with a steady climb and Valley views, popular with dog walkers.",
+   "o": "Go early; the lot fills fast on weekends.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

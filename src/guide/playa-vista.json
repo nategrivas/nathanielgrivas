@@ -1,0 +1,13 @@
+{"slug": "playa-vista", "updated": "2026-11-26",
+ "intro": "Playa Vista is a newer, walkable planned neighborhood built around the Runway shopping district, parks and tech offices, right next to the Ballona Wetlands. Everyday errands, dinner and a movie are all a short walk apart.",
+ "sources": {
+  "infmdr": ["The Infatuation: Marina del Rey", "https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey"],
+  "gm": ["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA"]
+ },
+ "places": [
+  {"n": "Mom, Please", "c": ["brunch", "breakfast"], "a": "Playa Vista", "p": "$$", "w": "An excellent, cozy Ukrainian cafe on the border of Playa Vista and Marina del Rey.", "o": "Syrniki and a brunch plate.", "s": ["infmdr"]},
+  {"n": "Urban Plates", "c": ["lunch", "healthy", "dinner"], "a": "12746 W Jefferson Blvd", "p": "$$", "w": "A fast, fresh counter-service spot with plates, salads and a wine list.", "o": "Steak frites or the ahi salad.", "s": ["gm"]},
+  {"n": "Playa Vista House", "c": ["sports", "bars"], "a": "12751 Millennium Dr", "p": "$$", "w": "An open-air sports bar and restaurant with plenty of TVs and occasional live music.", "o": "Thursday or Sunday football.", "s": ["gm"]},
+  {"n": "Runway Playa Vista", "c": ["shop", "film", "kids"], "a": "12775 W Millennium", "p": "$$", "w": "The neighborhood's walkable center, with restaurants, a Whole Foods, a movie theater, fire pits and play areas.", "o": "Dinner and a movie; the theater validates parking.", "s": ["gm"]},
+  {"n": "Ballona Wetlands Ecological Reserve", "c": ["hike", "park"], "a": "Ballona Wetlands", "p": "Free", "w": "A protected coastal wetland with birding and a walking and bike path that links Marina del Rey and Playa del Rey.", "o": "An early walk or bike ride along the path. Parts may be closed for restoration.", "s": ["gm"]}
+ ]}
