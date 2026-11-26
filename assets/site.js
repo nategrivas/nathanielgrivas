@@ -171,3 +171,48 @@
     document.addEventListener('keydown', (ev) => { if (box.hidden) return; if (ev.key === 'Escape') close(); if (ev.key === 'ArrowLeft') show(at - 1); if (ev.key === 'ArrowRight') show(at + 1); });
   }
 }
+
+// Header over the hero: solid once scrolled
+(() => {
+  const top = document.querySelector('.top.over');
+  if (!top) return;
+  const on = () => top.classList.toggle('scrolled', window.scrollY > 30);
+  on();
+  window.addEventListener('scroll', on, { passive: true });
+})();
+
+// Hero slideshow
+(() => {
+  const hero = document.querySelector('.lux-hero');
+  if (!hero) return;
+  const figs = [...hero.querySelectorAll('.lh-slides figure')];
+  const dots = [...hero.querySelectorAll('.lh-dots button')];
+  const cap = hero.querySelector('.lh-cap');
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  let i = 0, timer = null, ready = false;
+  const load = (f) => {
+    const im = f && f.querySelector('img[data-src]');
+    if (!im) return;
+    im.srcset = im.dataset.srcset; im.src = im.dataset.src;
+    im.removeAttribute('data-src'); im.removeAttribute('data-srcset');
+  };
+  const show = (n) => {
+    i = (n + figs.length) % figs.length;
+    load(figs[i]);
+    figs.forEach((f, k) => f.classList.toggle('on', k === i));
+    dots.forEach((d, k) => d.setAttribute('aria-current', k === i ? 'true' : 'false'));
+    const f = figs[i], c = f.dataset.cap, h = f.dataset.href;
+    if (c) { cap.hidden = false; cap.textContent = c; if (h) cap.setAttribute('href', h); else cap.removeAttribute('href'); }
+    else cap.hidden = true;
+    if (ready) load(figs[(i + 1) % figs.length]);
+  };
+  const play = () => {
+    clearInterval(timer);
+    if (reduce) return;
+    timer = setInterval(() => { if (!document.hidden) show(i + 1); }, 6500);
+  };
+  dots.forEach((d, k) => d.addEventListener('click', () => { show(k); play(); }));
+  show(0);
+  const start = () => { ready = true; load(figs[1]); play(); };
+  if (document.readyState === 'complete') start(); else window.addEventListener('load', start);
+})();
