@@ -1002,3 +1002,17 @@ h1,h2,h3,.h1,.h2,.price,.lux-stats b,.brand .wm,.help-row b,.tile h3,.post h3,.n
 .cardsite{align-self:flex-start;padding:4px 2px;font:600 11px/1.3 var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--cu2);text-decoration:none}
 .cardsite:hover{text-decoration:underline;text-underline-offset:4px}
 .fh-team img{height:auto}
+/* intake sliders */
+.sliders{display:grid;gap:28px;margin:4px 0 20px}
+.sld{display:block}
+.sld-top{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:10px}
+.sld-l{font:600 11px/1.2 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--mute)}
+.sld-v{font:500 clamp(32px,4.4vw,48px)/1 var(--serif);color:var(--ink);font-variant-numeric:lining-nums;font-feature-settings:"lnum" 1}
+.sld input[type=range]{-webkit-appearance:none;appearance:none;display:block;width:100%;height:32px;margin:0;background:transparent;cursor:pointer;--p:50%}
+.sld input[type=range]:focus-visible{outline:2px solid var(--cu2);outline-offset:4px}
+.sld input[type=range]::-webkit-slider-runnable-track{height:3px;background:linear-gradient(90deg,var(--cu2) var(--p),var(--line2) var(--p))}
+.sld input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:28px;height:28px;margin-top:-12.5px;border-radius:50%;background:#fff;border:3px solid var(--cu);box-shadow:0 2px 12px rgba(0,0,0,.5)}
+.sld input[type=range]::-moz-range-track{height:3px;background:var(--line2)}
+.sld input[type=range]::-moz-range-progress{height:3px;background:var(--cu2)}
+.sld input[type=range]::-moz-range-thumb{width:22px;height:22px;border-radius:50%;background:#fff;border:3px solid var(--cu)}
+.sld-ends{display:flex;justify-content:space-between;margin-top:4px;font-size:12.5px;color:var(--mute)}

@@ -40,13 +40,25 @@
     strategy: [['ltr', 'Long-term rental'], ['mtr', 'Furnished, 30+ day stays'], ['str', 'Short-term rental'], ['flip', 'Fix and flip'], ['adu', 'Add an ADU or split the lot'], ['mf', 'Multifamily building']],
     build: [['spec', 'New single-family home'], ['adu', 'ADUs or a lot split'], ['small', 'Duplex to fourplex'], ['apts', 'Apartments, 5+ units'], ['condo', 'Condos or townhomes']],
     land: [['own', 'I own it'], ['need', 'I need a lot'], ['teardown', 'I want a teardown']],
-    must: [['beach', 'Near the beach'], ['walkable', 'Walk to coffee and dinner'], ['schools', 'Its own city school district'], ['yard', 'Space and a yard'], ['views', 'A view'], ['quiet', 'Quiet street'], ['nightlife', 'Nightlife'], ['transit', 'Near the Metro'], ['value', 'More home for the money'], ['luxury', 'Top-tier luxury'], ['creative', 'Arts and creative scene'], ['golf', 'Near a public golf course'], ['hikes', 'Near parks and trails']],
+    must: [['kitchen', 'A big kitchen'], ['primary1', 'Primary bedroom on the first floor'], ['single', 'Single story'], ['yard', 'A yard'], ['pool', 'A pool'], ['views', 'A view'], ['adu', 'Guest house or ADU'], ['office', 'Home office'], ['garage', 'Garage'], ['outdoor', 'Outdoor space to entertain'], ['ready', 'Move-in ready'], ['fixer', 'A fixer with upside'], ['modern', 'Modern or new construction'], ['character', 'Character and architecture']],
+    mustrent: [['kitchen', 'A big kitchen'], ['laundry', 'In-unit laundry'], ['parking', 'Parking'], ['outdoor', 'Private outdoor space'], ['yard', 'A yard'], ['views', 'A view'], ['office', 'Room for an office'], ['pool', 'A pool'], ['furnished', 'Furnished'], ['ready', 'Newly updated']],
+    vibe: [['beach', 'Near the beach'], ['walkable', 'Walk to coffee and dinner'], ['schools', 'Its own city school district'], ['views', 'Views'], ['quiet', 'Quiet street'], ['nightlife', 'Nightlife'], ['transit', 'Near the Metro'], ['value', 'More home for the money'], ['luxury', 'Top-tier luxury'], ['creative', 'Arts and creative scene'], ['golf', 'Near a public golf course'], ['hikes', 'Near parks and trails']],
     home: [['house', 'House'], ['condo', 'Condo or townhome'], ['multi', 'Duplex to fourplex, live in one'], ['land', 'Land to build on'], ['open', 'Open to anything']],
     renthome: [['house', 'House'], ['condo', 'Apartment or condo'], ['open', 'Open to anything']],
-    beds: [['1', '1'], ['2', '2'], ['3', '3'], ['4', '4'], ['5', '5+']],
     pets: [['none', 'No pets'], ['dog', 'Dog'], ['cat', 'Cat'], ['both', 'Dog and cat'], ['other', 'Other pet']],
     sell_next: [['buyla', 'Yes, in LA'], ['buyout', 'Yes, outside LA'], ['no', 'No'], ['unsure', 'Not sure yet']],
   };
+
+  // slider scales
+  const buyVals = (() => { const v = []; for (let n = 300e3; n < 1e6; n += 25e3) v.push(n); for (let n = 1e6; n < 3e6; n += 50e3) v.push(n); for (let n = 3e6; n < 6e6; n += 100e3) v.push(n); for (let n = 6e6; n < 15e6; n += 250e3) v.push(n); for (let n = 15e6; n <= 30e6; n += 1e6) v.push(n); return v; })();
+  const rentVals = (() => { const v = []; for (let n = 1500; n < 5000; n += 100) v.push(n); for (let n = 5000; n < 10000; n += 250) v.push(n); for (let n = 10000; n <= 30000; n += 1000) v.push(n); return v; })();
+  const usd = (n) => '$' + Math.round(n).toLocaleString('en-US');
+  const near = (vals, n) => vals.reduce((bi, v, i) => (Math.abs(v - n) < Math.abs(vals[bi] - n) ? i : bi), 0);
+  const tierOf = (n, rent) => (rent ? (n < 3000 ? 'r3' : n < 5000 ? 'r5' : n < 8000 ? 'r8' : n < 15000 ? 'r15' : 'r15p')
+    : (n < 1e6 ? 'u1' : n <= 2e6 ? '1to2' : n <= 3.5e6 ? '2to35' : n <= 6e6 ? '35to6' : '6p'));
+  const priceTxt = () => (A.budget === 'lender' ? "Not sure yet, wants to talk to a lender" : A.price ? usd(A.price) + (A.goal === 'rent' ? ' a month' : '') + (A.price >= (A.goal === 'rent' ? 30000 : 30e6) ? '+' : '') : '');
+  const bedTxt = (v) => (+v ? v + '+ beds' : 'Any beds');
+  const bathTxt = (v) => (+v ? v + '+ baths' : 'Any baths');
 
   const A = {}; // answers
   const RAW = {}; // typed text per step
@@ -56,7 +68,9 @@
 
   const STEPS = {
     goal: { q: () => 'What are you looking to do?', o: () => 'goal', one: true, ph: 'Or type it, like "buy a duplex in Venice and live in one unit"' },
-    budget: { q: () => (A.goal === 'rent' ? 'What can you spend each month?' : "What's your budget?"), o: () => (A.goal === 'rent' ? 'rentbudget' : 'budget'), one: true, ph: () => (A.goal === 'rent' ? 'Or type it, like "$4,500 a month"' : 'Or type it, like "around $1.8M"') },
+    budget: { q: () => (A.goal === 'rent' ? 'What can you spend each month?' : "What's your budget?"), o: () => (A.goal === 'rent' ? 'rentbudget' : 'budget'),
+      slider: () => { const rent = A.goal === 'rent'; const vals = rent ? rentVals : buyVals; return [{ label: rent ? 'Up to, per month' : 'Up to', vals, fmt: (n) => usd(n) + (n === vals[vals.length - 1] ? '+' : ''), idx: () => near(vals, A.price || (rent ? 5000 : 1500000)), set: (n) => { A.price = n; A.budget = tierOf(n, rent); } }]; },
+      extra: () => (A.goal === 'rent' ? '' : '<div class="opts"><button type="button" class="opt' + (A.budget === 'lender' ? ' sel' : '') + '" data-v="lender">Not sure yet. I\'d like to talk to a lender</button></div>'), ph: () => (A.goal === 'rent' ? 'Or type it, like "$4,500 a month"' : 'Or type it, like "around $1.8M"') },
     pay: { q: () => 'How are you paying?', o: () => 'pay', one: true, ph: 'Or type it' },
     when: { q: () => (A.goal === 'rent' ? 'When do you want to move?' : A.goal === 'sell' ? 'When do you want to sell?' : A.goal === 'build' ? 'When do you want to start?' : 'When do you want to buy?'), o: () => 'when', one: true, ph: 'Or type it, like "by June"' },
     where: { q: () => 'Where do you need to be most days?', o: () => 'where', many: true, ph: 'Type a workplace, school or address, like "Cedars-Sinai" or "SpaceX"' },
@@ -64,9 +78,12 @@
     strategy: { q: () => "What's the plan for it?", o: () => 'strategy', many: true, ph: 'Or describe it' },
     build: { q: () => 'What do you want to build?', o: () => 'build', many: true, ph: 'Or describe the project' },
     land: { q: () => 'Do you have the land?', o: () => 'land', one: true, ph: 'Or type the address' },
-    must: { q: () => 'Pick up to three must-haves', o: () => 'must', many: true, max: 3, ph: 'Or type what matters, like "walk to the beach, good schools"' },
+    must: { q: () => 'What matters most?', o: () => (A.goal === 'rent' ? 'mustrent' : 'must'), many: true, ph: 'Or type it, like "big kitchen, primary downstairs, pool"' },
     home: { q: () => 'What kind of place?', o: () => (A.goal === 'rent' ? 'renthome' : 'home'), one: true, ph: 'Or type it' },
-    beds: { q: () => 'How many bedrooms?', o: () => 'beds', one: true, ph: 'Or type it' },
+    beds: { q: () => 'How many bedrooms and bathrooms?', o: () => 'beds',
+      slider: () => [{ label: 'Bedrooms', vals: [0, 1, 2, 3, 4, 5, 6], fmt: (n) => (n ? n + '+' : 'Any'), idx: () => +(A.beds || 0), set: (n) => { A.beds = String(n); } },
+        { label: 'Bathrooms', vals: [0, 1, 2, 3, 4, 5, 6], fmt: (n) => (n ? n + '+' : 'Any'), idx: () => +(A.baths || 0), set: (n) => { A.baths = String(n); } }],
+      ph: 'Or type it, like "4 bed 3 bath"' },
     pets: { q: () => 'Any pets?', o: () => 'pets', one: true, ph: 'Or type it, like "one small dog"' },
     sell_addr: { q: () => 'Which property are you selling?', text: true, ph: 'Street address, or just the neighborhood' },
     sell_next: { q: () => 'Are you buying after you sell?', o: () => 'sell_next', one: true, ph: 'Or type it' },
@@ -111,6 +128,7 @@
     }
     if (!out.length) return null;
     const v = Math.max(...out);
+    money.last = v;
     if (rent || (v < 40000 && /mo|month|rent|lease/.test(s))) {
       return v < 3000 ? 'r3' : v < 5000 ? 'r5' : v < 8000 ? 'r8' : v < 15000 ? 'r15' : 'r15p';
     }
@@ -147,7 +165,7 @@
     if (f.goal === 'sell' && buyW) f.sell_next = 'buyla';
     // budget
     const b = money(t, A.goal === 'rent' || f.goal === 'rent');
-    if (b) { if (b[0] === 'r') f.rentbudget = b; else f.budget = b; }
+    if (b) { if (b[0] === 'r') f.rentbudget = b; else f.budget = b; f.price = money.last; }
     if (has(t, ['lender', 'not sure what i can afford', "don't know what i can afford", 'pre-qual', 'prequal*', 'how much can i', 'not sure', 'no idea', "don't know", 'dont know'])) { if (!b && (step === 'budget' || has(t, ['lender', 'afford', 'qualif*']))) f.budget = 'lender'; }
     // pay
     if (has(t, ['1031', 'exchange'])) f.pay = '1031';
@@ -179,17 +197,23 @@
     if (has(t, ['anywhere', 'wherever', "doesn't matter", 'dont care', "don't care", 'numbers work', 'pencil'])) regs.push('any');
     if (regs.length) f.areas = regs;
     // must-haves
-    const MUST = { beach: ['beach*', 'ocean', 'sand', 'surf*'], walkable: ['walk*', 'coffee', 'shops', 'restaurant*'], schools: ['school*', 'education'], yard: ['yard', 'backyard', 'garden', 'pool', 'space', 'big lot'], views: ['view*', 'canyon', 'hillside'], quiet: ['quiet', 'peaceful', 'privacy', 'private', 'safe*'], nightlife: ['nightlife', 'bars', 'going out', 'clubs', 'night life'], transit: ['metro', 'train', 'transit', 'subway', 'no car'], value: ['affordable', 'cheap*', 'value', 'deal', 'for the money', 'bang for'], luxury: ['luxury', 'estate', 'gated', 'high end', 'high-end', 'prestig*'], creative: ['art', 'arts', 'creative', 'music', 'galler*'], golf: ['golf*'], hikes: ['hike', 'hikes', 'hiking', 'trail*', 'park', 'parks', 'outdoors'] };
-    const must = Object.entries(MUST).filter(([, ws]) => has(t, ws)).map(([k]) => k);
+    const VIBE = { beach: ['beach*', 'ocean', 'sand', 'surf*'], walkable: ['walkable', 'walk to', 'coffee', 'shops', 'restaurant*'], schools: ['school*', 'education'], views: ['view*', 'canyon', 'hillside'], quiet: ['quiet', 'peaceful', 'safe*'], nightlife: ['nightlife', 'bars', 'going out', 'clubs', 'night life'], transit: ['metro', 'train', 'transit', 'subway', 'no car'], value: ['affordable', 'cheap*', 'value', 'deal', 'for the money', 'bang for'], luxury: ['luxury', 'estate', 'gated', 'high end', 'high-end', 'prestig*'], creative: ['art', 'arts', 'creative', 'music', 'galler*'], golf: ['golf*'], hikes: ['hike', 'hikes', 'hiking', 'trail*', 'park', 'parks', 'outdoors'] };
+    const vibe = Object.entries(VIBE).filter(([, ws]) => has(t, ws)).map(([k]) => k);
+    if (vibe.length) f.vibe = vibe;
+    const MUST = { kitchen: ['kitchen', 'chef*', 'cook*'], primary1: ['primary on the first', 'primary downstairs', 'primary on the ground', 'first floor primary', 'first-floor primary', 'main floor primary', 'primary on the main', 'master downstairs', 'master on the first', 'downstairs bedroom', 'ground floor bedroom', 'bedroom downstairs'], single: ['single story', 'single-story', 'one story', 'one-story', 'no stairs', 'single level'], yard: ['yard', 'backyard', 'garden', 'big lot', 'grass'], pool: ['pool', 'pools'], views: ['view*'], adu: ['adu', 'guest house', 'guesthouse', 'casita', 'in-law', 'back house'], office: ['office', 'study', 'work from home', 'wfh'], garage: ['garage'], parking: ['parking', 'garage'], laundry: ['laundry', 'washer', 'w/d'], furnished: ['furnished'], outdoor: ['patio', 'deck', 'rooftop', 'balcony', 'outdoor', 'entertain*'], ready: ['move-in ready', 'move in ready', 'turnkey', 'turn key', 'updated', 'remodeled', 'renovated'], fixer: ['fixer', 'tlc', 'needs work', 'upside'], modern: ['modern', 'new construction', 'new build', 'brand new', 'contemporary'], character: ['spanish', 'craftsman', 'mid-century', 'midcentury', 'character', 'traditional', 'historic', 'architectur*'] };
+    const allowed = (A.goal === 'rent' || f.goal === 'rent' ? OPT.mustrent : OPT.must).map((x) => x[0]);
+    const must = Object.entries(MUST).filter(([k, ws]) => allowed.includes(k) && has(t, ws)).map(([k]) => k);
     if (must.length) f.must = must;
     // home type and size
     if (has(t, ['duplex', 'triplex', 'fourplex', '4plex', '4-plex', 'units', 'multifamily', 'multi-family', 'multi family', 'income property'])) f.home = 'multi';
     else if (has(t, ['condo*', 'townho*', 'apartment*', 'loft', 'no yard'])) f.home = 'condo';
     else if (has(t, ['land', 'lot', 'vacant'])) f.home = 'land';
     else if (has(t, ['house', 'single family', 'single-family', 'sfr'])) f.home = 'house';
-    const bd = t.match(/(\d)\s*\+?\s*(bed|br\b|bd\b|bedroom)/) || t.match(/\b(one|two|three|four|five)\s*(bed|bedroom)/);
-    if (bd) { const n = { one: 1, two: 2, three: 3, four: 4, five: 5 }[bd[1]] || +bd[1]; f.beds = String(Math.min(5, Math.max(1, n))); }
-    if (has(t, ['studio apartment', 'a studio', 'studio unit'])) f.beds = '1';
+    const bd = t.match(/(\d)\s*\+?\s*(bed|br\b|bd\b|bedroom)/) || t.match(/\b(one|two|three|four|five|six)\s*(bed|bedroom)/);
+    if (bd) { const n = { one: 1, two: 2, three: 3, four: 4, five: 5, six: 6 }[bd[1]] || +bd[1]; f.beds = String(Math.min(6, Math.max(1, n))); }
+    if (has(t, ['studio apartment', 'a studio', 'studio unit'])) f.beds = '0';
+    const ba = t.match(/(\d)(?:\.5)?\s*\+?\s*(bath|ba\b|bathroom)/) || t.match(/\b(one|two|three|four|five)\s*(bath|bathroom)/);
+    if (ba) { const n = { one: 1, two: 2, three: 3, four: 4, five: 5 }[ba[1]] || +ba[1]; f.baths = String(Math.min(6, Math.max(1, n))); }
     // pets (rentals)
     const dog = has(t, ['dog*', 'pupp*']), cat = has(t, ['cat', 'cats', 'kitten*']);
     if (dog && cat) f.pets = 'both'; else if (dog) f.pets = 'dog'; else if (cat) f.pets = 'cat';
@@ -218,14 +242,14 @@
     else if (step === 'sell_next' && has(t, ['yes', 'yeah', 'yep', 'probably'])) f.sell_next = 'buyla';
     else if (step === 'sell_next' && has(t, ['no', 'nope', 'not buying', 'rent after', 'renting after'])) f.sell_next = 'no';
     else if (step === 'sell_next' && has(t, ['maybe', 'not sure', 'unsure', 'depends'])) f.sell_next = 'unsure';
-    if (f.goal === 'sell' || step === 'sell_addr') { f.sellText = raw; delete f.home; delete f.beds; delete f.where; delete f.hoods; delete f.must; delete f.areas; }
+    if (f.goal === 'sell' || step === 'sell_addr') { f.sellText = raw; delete f.home; delete f.beds; delete f.baths; delete f.price; delete f.vibe; delete f.where; delete f.hoods; delete f.must; delete f.areas; }
     return f;
   };
 
   // apply what was read; returns labels for the current step
   const LBL = (o, v) => { const x = (OPT[o] || []).find((p) => p[0] === v); return x ? x[1] : v; };
   const apply = (f, cur) => {
-    const map = { goal: 'goal', budget: 'budget', rentbudget: 'budget', pay: 'pay', when: 'when', where: 'where', areas: 'areas', strategy: 'strategy', build: 'build', land: 'land', must: 'must', home: 'home', beds: 'beds', pets: 'pets', sell_next: 'sell_next' };
+    const map = { goal: 'goal', budget: 'budget', rentbudget: 'budget', pay: 'pay', when: 'when', where: 'where', areas: 'areas', strategy: 'strategy', build: 'build', land: 'land', must: 'must', home: 'home', beds: 'beds', baths: 'baths', price: 'price', vibe: 'vibe', pets: 'pets', sell_next: 'sell_next' };
     let got = [];
     Object.entries(f).forEach(([k, v]) => {
       if (k === 'hoods') return;
@@ -240,7 +264,7 @@
       PREF.add(h.slug);
       if (cur === 'where' || cur === 'areas') got.push('hood:' + h.name);
     });
-    if (f.must && A.must && A.must.length > 3) A.must = A.must.slice(0, 3);
+    if (f.vibe) A.vibe = [...new Set([].concat(A.vibe || [], f.vibe))];
     return got;
   };
 
@@ -258,12 +282,20 @@
     back.hidden = i <= 0;
     const ph = typeof st.ph === 'function' ? st.ph() : st.ph;
     let body = '';
-    if (st.text) {
+    if (st.slider) {
+      const sl = st.slider();
+      body = '<div class="sliders">' + sl.map((x, i) => '<label class="sld"><span class="sld-top"><span class="sld-l">' + esc(x.label) + '</span><output class="sld-v"></output></span>' +
+        '<input type="range" min="0" max="' + (x.vals.length - 1) + '" step="1" value="' + x.idx() + '" data-i="' + i + '" aria-label="' + esc(x.label) + '">' +
+        '<span class="sld-ends"><span>' + esc(x.fmt(x.vals[0])) + '</span><span>' + esc(x.fmt(x.vals[x.vals.length - 1])) + '</span></span></label>').join('') + '</div>' +
+        (st.extra ? st.extra() : '') +
+        '<form class="qtype"><input type="text" placeholder="' + esc(ph) + '" aria-label="Type your own answer"><button class="btn" type="submit" aria-label="Use what I typed">&rarr;</button></form>' +
+        '<p class="qread" hidden></p><div class="qnav"><button type="button" class="btn solid qnext">Next</button><button type="button" class="qskip">Skip</button></div>';
+    } else if (st.text) {
       body = '<form class="qtype big"><input type="text" placeholder="' + esc(ph) + '" value="' + esc(RAW[cur] || '') + '" aria-label="' + esc(st.q()) + '"><button class="btn solid" type="submit">Next</button></form>';
     } else {
       const o = st.o();
       const sel = A[cur] === undefined ? [] : [].concat(A[cur]);
-      body = '<div class="opts' + (st.many ? ' many' : '') + (o === 'beds' ? ' row' : '') + '">' +
+      body = '<div class="opts' + (st.many ? ' many' : '') + '' + '">' +
         OPT[o].map(([v, l]) => '<button type="button" class="opt' + (sel.includes(v) ? ' sel' : '') + '" data-v="' + esc(v) + '" aria-pressed="' + sel.includes(v) + '">' + esc(l) + '</button>').join('') +
         (cur === 'where' || cur === 'areas' ? CUSTOM.map((c) => '<button type="button" class="opt sel custom" disabled>' + esc(c.label) + '</button>').join('') : '') +
         '</div>' +
@@ -289,6 +321,11 @@
     const st = STEPS[cur];
     const form = $('.qtype', host);
     const note = $('.qread', host);
+    const sl = st.slider ? st.slider() : null;
+    const ranges = $$('input[type=range]', host);
+    const paint = (r) => { const x = sl[+r.dataset.i]; const v = x.vals[+r.value]; r.closest('.sld').querySelector('.sld-v').textContent = x.fmt(v); r.style.setProperty('--p', (100 * r.value / r.max) + '%'); };
+    ranges.forEach((r) => { paint(r); r.addEventListener('input', () => { paint(r); sl[+r.dataset.i].set(sl[+r.dataset.i].vals[+r.value]); if (A.budget === 'lender' && cur === 'budget') { A.budget = tierOf(A.price, A.goal === 'rent'); $$('.opt', host).forEach((o) => o.classList.remove('sel')); } }); });
+    const commit = () => { if (sl && !(cur === 'budget' && A.budget === 'lender')) ranges.forEach((r) => sl[+r.dataset.i].set(sl[+r.dataset.i].vals[+r.value])); };
     $$('.opt:not(.custom)', host).forEach((b) => b.addEventListener('click', () => {
       const v = b.dataset.v;
       if (st.many) {
@@ -311,6 +348,22 @@
       if (!val) return;
       RAW[cur] = val;
       if (st.text) { A[cur] = val; apply(read(val, cur), cur); next(); return; }
+      if (st.slider) {
+        const f = read(val, cur);
+        if (cur === 'budget' && f.rentbudget) { f.budget = f.rentbudget; }
+        apply(f, cur);
+        if (f.price) A.price = f.price;
+        if (f.baths) A.baths = f.baths;
+        if (f.beds) A.beds = f.beds;
+        const said = cur === 'budget' ? priceTxt() : [A.beds !== undefined ? bedTxt(A.beds) : '', A.baths !== undefined ? bathTxt(A.baths) : ''].filter(Boolean).join(', ');
+        render();
+        const n2 = $('.qread', host);
+        n2.innerHTML = said ? '<b>Got it:</b> ' + esc(said) : '<b>Got it.</b> I\'ll read your note.';
+        n2.hidden = false;
+        if (!said && A[cur] === undefined) A[cur] = 'other';
+        setTimeout(next, 700);
+        return;
+      }
       const got = apply(read(val, cur), cur);
       const o = st.o();
       if (got.length) {
@@ -329,7 +382,7 @@
         setTimeout(next, 650);
       }
     });
-    const nx = $('.qnext', host); if (nx) nx.addEventListener('click', next);
+    const nx = $('.qnext', host); if (nx) nx.addEventListener('click', () => { commit(); next(); });
     const sk = $('.qskip', host); if (sk) sk.addEventListener('click', () => { if (A[cur] === undefined) A[cur] = 'skip'; next(); });
   };
 
@@ -365,11 +418,22 @@
       const pts = Math.max(0, 3.4 - d / 2.4);
       add(pts, d < 4.5 ? (d < 1.2 ? 'right by ' + a.label : Math.round(d) + ' mi from ' + a.label) : '');
     });
-    // must-haves
+    // what matters in the home
     const M = living ? arr('must') : [];
-    const tag = { beach: 3, walkable: 2.5, yard: 2, views: 2.5, nightlife: 2.5, transit: 2.5, value: 2.5, luxury: 2.5, creative: 2 };
-    const WHY = { beach: 'near the beach', walkable: 'walkable', yard: 'yards and space', views: 'views', nightlife: 'nightlife', transit: 'near the Metro', value: 'more for the money', luxury: 'luxury homes', creative: 'creative scene', quiet: 'quiet streets' };
-    M.forEach((m) => {
+    if (M.includes('views') && T(h, 'views')) add(2.5, 'views');
+    if (M.includes('yard') && T(h, 'yard')) add(2, 'homes with yards');
+    if (M.includes('pool') && (T(h, 'yard') || T(h, 'luxury'))) add(1.2, 'room for a pool');
+    if (M.includes('adu') && T(h, 'yard')) add(1.5, 'lots with room for a guest house');
+    if ((M.includes('single') || M.includes('primary1')) && (T(h, 'yard') || T(h, 'family'))) add(1, 'single-story houses');
+    if (M.includes('fixer') && T(h, 'value')) add(2, 'more upside for the money');
+    if (M.includes('modern') && (T(h, 'luxury') || T(h, 'views'))) add(1, 'new construction');
+    if (M.includes('character') && (T(h, 'creative') || T(h, 'family'))) add(1, 'older homes with character');
+    if ((M.includes('laundry') || M.includes('parking')) && T(h, 'condo')) add(0.8);
+    // location wishes they typed
+    const V = living ? arr('vibe') : [];
+    const tag = { beach: 3, walkable: 2.5, views: 2.5, nightlife: 2.5, transit: 2.5, value: 2.5, luxury: 2.5, creative: 2 };
+    const WHY = { beach: 'near the beach', walkable: 'walkable', views: 'views', nightlife: 'nightlife', transit: 'near the Metro', value: 'more for the money', luxury: 'luxury homes', creative: 'creative scene' };
+    V.forEach((m) => {
       if (tag[m] && T(h, m)) add(tag[m], WHY[m]);
       if (m === 'schools' && OWN_DISTRICT.includes(h.city)) add(2.5, 'its own school district');
       if (m === 'quiet') { if (T(h, 'quiet')) add(2, 'quiet streets'); if (T(h, 'nightlife')) s -= 1; }
@@ -382,8 +446,8 @@
     if (home === 'condo' && T(h, 'condo')) add(2, 'good condo choices');
     if (home === 'multi' && DUPLEX.includes(h.slug)) add(2.5, 'duplexes and small income buildings');
     if (home === 'land' && (T(h, 'yard') || T(h, 'value'))) add(1);
-    if (['4', '5'].includes(A.beds) && (T(h, 'yard') || T(h, 'family'))) add(1);
-    if (A.beds === '1' && (T(h, 'condo') || T(h, 'walkable'))) add(1);
+    if (+A.beds >= 4 && (T(h, 'yard') || T(h, 'family'))) add(1);
+    if (A.beds !== undefined && +A.beds <= 1 && A.beds !== 'skip' && (T(h, 'condo') || T(h, 'walkable'))) add(1);
     // investors and builders
     const ST = A.goal === 'invest' ? arr('strategy') : [];
     if (ST.includes('ltr')) { if (T(h, 'value')) add(2, 'stronger rent-to-price'); if (T(h, 'transit') || T(h, 'walkable')) add(1, 'renter demand'); }
@@ -418,7 +482,7 @@
     rows.push(['Goal', goal]);
     if (A.sell_addr) rows.push(['Selling', A.sell_addr]);
     if (A.sell_next && A.sell_next !== 'skip') rows.push(['Buying after', L('sell_next', A.sell_next)]);
-    if (A.budget && !['skip', 'other'].includes(A.budget)) rows.push(['Budget', L(A.goal === 'rent' ? 'rentbudget' : 'budget', A.budget)]);
+    if (A.budget && !['skip', 'other'].includes(A.budget)) rows.push(['Budget', priceTxt() || L(A.goal === 'rent' ? 'rentbudget' : 'budget', A.budget)]);
     if (A.pay && !['skip', 'other'].includes(A.pay)) rows.push(['Paying', L('pay', A.pay)]);
     if (A.when && !['skip', 'other'].includes(A.when)) rows.push(['Timing', L('when', A.when)]);
     if (arr('strategy').length) rows.push(['Plan', arr('strategy').map((v) => L('strategy', v)).join(', ')]);
@@ -429,9 +493,11 @@
     if (CUSTOM.length && A.goal !== 'invest' && A.goal !== 'build') rows.push(['Named areas', CUSTOM.map((c) => c.label).join(', ')]);
     const ar = arr('areas').map((v) => L('areas', v)).concat(A.goal === 'invest' || A.goal === 'build' ? CUSTOM.map((c) => c.label) : []);
     if (ar.length) rows.push(['Areas', ar.join(', ')]);
-    if (arr('must').length) rows.push(['Must-haves', arr('must').map((v) => L('must', v)).join(', ')]);
+    if (arr('must').length) rows.push(['What matters most', arr('must').map((v) => L(A.goal === 'rent' ? 'mustrent' : 'must', v)).join(', ')]);
+    if (arr('vibe').length) rows.push(['Area wishes', arr('vibe').map((v) => L('vibe', v)).join(', ')]);
     if (A.home && !['skip', 'other'].includes(A.home)) rows.push(['Type', L(A.goal === 'rent' ? 'renthome' : 'home', A.home)]);
-    if (A.beds && !['skip', 'other'].includes(A.beds)) rows.push(['Bedrooms', L('beds', A.beds)]);
+    if (A.beds && !['skip', 'other'].includes(A.beds)) rows.push(['Bedrooms', bedTxt(A.beds)]);
+    if (A.baths && !['skip', 'other'].includes(A.baths)) rows.push(['Bathrooms', bathTxt(A.baths)]);
     if (A.pets && !['skip', 'other'].includes(A.pets)) rows.push(['Pets', L('pets', A.pets)]);
     Object.entries(RAW).forEach(([k, v]) => { if (k !== 'sell_addr') rows.push(['In their words (' + k.replace('_', ' ') + ')', v]); });
     return rows;
@@ -454,12 +520,13 @@
     const crit = () => {
       const c = [];
       const take = (o, k) => { if (A[k] && !['skip', 'other'].includes(A[k])) c.push(LBL(o, A[k])); };
-      if (A.goal === 'rent') take('rentbudget', 'budget'); else take('budget', 'budget');
-      if (A.beds && !['skip', 'other'].includes(A.beds)) c.push(A.beds.replace('5', '5') + '+ beds');
+      if (A.budget && !['skip', 'other'].includes(A.budget)) c.push(A.budget === 'lender' ? 'Talk to a lender first' : 'Up to ' + priceTxt());
+      if (A.beds && !['skip', 'other'].includes(A.beds) && +A.beds) c.push(bedTxt(A.beds));
+      if (A.baths && !['skip', 'other'].includes(A.baths) && +A.baths) c.push(bathTxt(A.baths));
       if (living) take(A.goal === 'rent' ? 'renthome' : 'home', 'home');
       arr('strategy').forEach((v) => c.push(LBL('strategy', v)));
       arr('build').forEach((v) => c.push(LBL('build', v)));
-      if (living) arr('must').forEach((v) => c.push(LBL('must', v)));
+      if (living) arr('must').forEach((v) => c.push(LBL(A.goal === 'rent' ? 'mustrent' : 'must', v)));
       take('when', 'when');
       if (A.budget !== 'lender') take('pay', 'pay');
       return c;
