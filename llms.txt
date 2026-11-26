@@ -14,8 +14,10 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [1127 Glenville Dr #2, Pico-Robertson](https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/): Leased, $3,400/mo
 
 ## The LA Guide: where to eat, drink and go (by neighborhood)
+- [Bel Air guide](https://www.nathanielgrivas.com/guide/bel-air): 3 restaurants, coffee shops, bars and things to do
 - [Beverly Grove guide](https://www.nathanielgrivas.com/guide/beverly-grove): 15 restaurants, coffee shops, bars and things to do
 - [Beverly Hills guide](https://www.nathanielgrivas.com/guide/beverly-hills): 26 restaurants, coffee shops, bars and things to do
+- [Beverly Hills Post Office guide](https://www.nathanielgrivas.com/guide/bhpo): 2 restaurants, coffee shops, bars and things to do
 - [Brentwood guide](https://www.nathanielgrivas.com/guide/brentwood): 20 restaurants, coffee shops, bars and things to do
 - [Century City guide](https://www.nathanielgrivas.com/guide/century-city): 6 restaurants, coffee shops, bars and things to do
 - [Cheviot Hills & Rancho Park guide](https://www.nathanielgrivas.com/guide/cheviot-hills): 4 restaurants, coffee shops, bars and things to do
@@ -25,6 +27,7 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Encino guide](https://www.nathanielgrivas.com/guide/encino): 5 restaurants, coffee shops, bars and things to do
 - [Fairfax District guide](https://www.nathanielgrivas.com/guide/fairfax): 18 restaurants, coffee shops, bars and things to do
 - [Hancock Park & Larchmont guide](https://www.nathanielgrivas.com/guide/hancock-park): 7 restaurants, coffee shops, bars and things to do
+- [Hollywood Hills guide](https://www.nathanielgrivas.com/guide/hollywood-hills): 5 restaurants, coffee shops, bars and things to do
 - [Hollywood guide](https://www.nathanielgrivas.com/guide/hollywood): 33 restaurants, coffee shops, bars and things to do
 - [Los Feliz guide](https://www.nathanielgrivas.com/guide/los-feliz): 36 restaurants, coffee shops, bars and things to do
 - [Malibu guide](https://www.nathanielgrivas.com/guide/malibu): 24 restaurants, coffee shops, bars and things to do
@@ -34,6 +37,7 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [North Hollywood guide](https://www.nathanielgrivas.com/guide/north-hollywood): 11 restaurants, coffee shops, bars and things to do
 - [Pacific Palisades guide](https://www.nathanielgrivas.com/guide/pacific-palisades): 13 restaurants, coffee shops, bars and things to do
 - [Palms guide](https://www.nathanielgrivas.com/guide/palms): 6 restaurants, coffee shops, bars and things to do
+- [Pico-Robertson & Beverlywood guide](https://www.nathanielgrivas.com/guide/pico-robertson): 6 restaurants, coffee shops, bars and things to do
 - [Playa del Rey guide](https://www.nathanielgrivas.com/guide/playa-del-rey): 9 restaurants, coffee shops, bars and things to do
 - [Playa Vista guide](https://www.nathanielgrivas.com/guide/playa-vista): 5 restaurants, coffee shops, bars and things to do
 - [Reseda guide](https://www.nathanielgrivas.com/guide/reseda): 3 restaurants, coffee shops, bars and things to do
