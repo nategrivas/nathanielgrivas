@@ -18,6 +18,7 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Santa Monica guide](https://www.nathanielgrivas.com/guide/santa-monica): 40 restaurants, coffee shops, bars and things to do
 - [Silver Lake guide](https://www.nathanielgrivas.com/guide/silver-lake): 29 restaurants, coffee shops, bars and things to do
 - [Venice guide](https://www.nathanielgrivas.com/guide/venice): 42 restaurants, coffee shops, bars and things to do
+- [West Hollywood guide](https://www.nathanielgrivas.com/guide/west-hollywood): 60 restaurants, coffee shops, bars and things to do
 
 ## The LA Guide: best of LA by category
 - [Best coffee shops in LA](https://www.nathanielgrivas.com/guide/best/coffee)
@@ -31,6 +32,7 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Best seafood in LA](https://www.nathanielgrivas.com/guide/best/seafood)
 - [Best sushi and Japanese food in LA](https://www.nathanielgrivas.com/guide/best/sushi)
 - [Best bakeries and dessert in LA](https://www.nathanielgrivas.com/guide/best/bakery)
+- [Best healthy and plant-based food in LA](https://www.nathanielgrivas.com/guide/best/healthy)
 - [Best cheap eats in LA](https://www.nathanielgrivas.com/guide/best/cheap)
 - [Best cocktail bars in LA](https://www.nathanielgrivas.com/guide/best/bars)
 - [Best dive bars in LA](https://www.nathanielgrivas.com/guide/best/dive)
