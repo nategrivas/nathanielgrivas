@@ -19,6 +19,11 @@ From Westchester to Malibu, Hollywood to Silver Lake, and across the San Fernand
 - Invest: Income property, value-add and off-market deals.
 - Build: Lots, teardowns and ADU feasibility.
 
+## Featured homes (with video tours)
+
+- [3721 Evans St W, Los Feliz, Los Angeles, CA 90027](https://www.nathanielgrivas.com/homes/3721-evans): For sale, $4,800,000. A brand-new modern compound in Los Feliz: a five-bedroom main house and a three-bedroom ADU, each with its own rooftop lounge.
+- [616 N Fuller Ave, Fairfax District, Los Angeles, CA 90036](https://www.nathanielgrivas.com/homes/616-fuller): Sold, $3,275,000. A three-level modern home with a pool in the Fairfax District. Sold for $3,275,000 with our team on both sides.
+
 ## Listings
 
 Available:
