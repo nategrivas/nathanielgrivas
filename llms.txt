@@ -13,6 +13,46 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [14757 Hartland St, Van Nuys](https://www.compass.com/homedetails/14757-Hartland-St-Van-Nuys-CA-91405/2115491441809620633_lid/): Sold, $825K
 - [1127 Glenville Dr #2, Pico-Robertson](https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/): Leased, $3,400/mo
 
+## The LA Guide: where to eat, drink and go (by neighborhood)
+- [Beverly Hills guide](https://www.nathanielgrivas.com/guide/beverly-hills): 26 restaurants, coffee shops, bars and things to do
+- [Santa Monica guide](https://www.nathanielgrivas.com/guide/santa-monica): 40 restaurants, coffee shops, bars and things to do
+- [Silver Lake guide](https://www.nathanielgrivas.com/guide/silver-lake): 29 restaurants, coffee shops, bars and things to do
+- [Venice guide](https://www.nathanielgrivas.com/guide/venice): 42 restaurants, coffee shops, bars and things to do
+
+## The LA Guide: best of LA by category
+- [Best coffee shops in LA](https://www.nathanielgrivas.com/guide/best/coffee)
+- [Best breakfast in LA](https://www.nathanielgrivas.com/guide/best/breakfast)
+- [Best brunch in LA](https://www.nathanielgrivas.com/guide/best/brunch)
+- [Best lunch in LA](https://www.nathanielgrivas.com/guide/best/lunch)
+- [Best dinner in LA](https://www.nathanielgrivas.com/guide/best/dinner)
+- [Best date night restaurants in LA](https://www.nathanielgrivas.com/guide/best/date)
+- [Best pizza in LA](https://www.nathanielgrivas.com/guide/best/pizza)
+- [Best tacos and Mexican food in LA](https://www.nathanielgrivas.com/guide/best/tacos)
+- [Best seafood in LA](https://www.nathanielgrivas.com/guide/best/seafood)
+- [Best sushi and Japanese food in LA](https://www.nathanielgrivas.com/guide/best/sushi)
+- [Best bakeries and dessert in LA](https://www.nathanielgrivas.com/guide/best/bakery)
+- [Best cheap eats in LA](https://www.nathanielgrivas.com/guide/best/cheap)
+- [Best cocktail bars in LA](https://www.nathanielgrivas.com/guide/best/bars)
+- [Best dive bars in LA](https://www.nathanielgrivas.com/guide/best/dive)
+- [Best wine bars in LA](https://www.nathanielgrivas.com/guide/best/wine)
+- [Best beer bars and breweries in LA](https://www.nathanielgrivas.com/guide/best/beer)
+- [Best rooftop bars in LA](https://www.nathanielgrivas.com/guide/best/rooftop)
+- [Best sports bars in LA](https://www.nathanielgrivas.com/guide/best/sports)
+- [Best late-night spots in LA](https://www.nathanielgrivas.com/guide/best/latenight)
+- [Best live music in LA](https://www.nathanielgrivas.com/guide/best/music)
+- [Best comedy and theater in LA](https://www.nathanielgrivas.com/guide/best/comedy)
+- [Best museums in LA](https://www.nathanielgrivas.com/guide/best/museum)
+- [Best art and galleries in LA](https://www.nathanielgrivas.com/guide/best/art)
+- [Best landmarks in LA](https://www.nathanielgrivas.com/guide/best/landmark)
+- [Best parks in LA](https://www.nathanielgrivas.com/guide/best/park)
+- [Best hikes in LA](https://www.nathanielgrivas.com/guide/best/hike)
+- [Best beaches in LA](https://www.nathanielgrivas.com/guide/best/beach)
+- [Best shopping in LA](https://www.nathanielgrivas.com/guide/best/shop)
+- [Best markets and farmers markets in LA](https://www.nathanielgrivas.com/guide/best/market)
+- [Best fitness and outdoor sports in LA](https://www.nathanielgrivas.com/guide/best/fitness)
+- [Best family outings in LA](https://www.nathanielgrivas.com/guide/best/kids)
+- [Best dog-friendly spots in LA](https://www.nathanielgrivas.com/guide/best/dogs)
+
 ## Neighborhood guides
 - [Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu): Twenty-one miles of coast, its own city, and septic tanks.
 - [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey): Boats, high-rises and the bike path, run by the county.
