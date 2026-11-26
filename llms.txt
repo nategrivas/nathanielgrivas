@@ -14,12 +14,16 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [1127 Glenville Dr #2, Pico-Robertson](https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/): Leased, $3,400/mo
 
 ## The LA Guide: where to eat, drink and go (by neighborhood)
+- [Beverly Grove guide](https://www.nathanielgrivas.com/guide/beverly-grove): 15 restaurants, coffee shops, bars and things to do
 - [Beverly Hills guide](https://www.nathanielgrivas.com/guide/beverly-hills): 26 restaurants, coffee shops, bars and things to do
 - [Brentwood guide](https://www.nathanielgrivas.com/guide/brentwood): 20 restaurants, coffee shops, bars and things to do
 - [Culver City guide](https://www.nathanielgrivas.com/guide/culver-city): 34 restaurants, coffee shops, bars and things to do
 - [Echo Park guide](https://www.nathanielgrivas.com/guide/echo-park): 28 restaurants, coffee shops, bars and things to do
+- [Fairfax District guide](https://www.nathanielgrivas.com/guide/fairfax): 18 restaurants, coffee shops, bars and things to do
+- [Hollywood guide](https://www.nathanielgrivas.com/guide/hollywood): 33 restaurants, coffee shops, bars and things to do
 - [Los Feliz guide](https://www.nathanielgrivas.com/guide/los-feliz): 36 restaurants, coffee shops, bars and things to do
 - [Mar Vista guide](https://www.nathanielgrivas.com/guide/mar-vista): 17 restaurants, coffee shops, bars and things to do
+- [Pacific Palisades guide](https://www.nathanielgrivas.com/guide/pacific-palisades): 13 restaurants, coffee shops, bars and things to do
 - [Santa Monica guide](https://www.nathanielgrivas.com/guide/santa-monica): 40 restaurants, coffee shops, bars and things to do
 - [Silver Lake guide](https://www.nathanielgrivas.com/guide/silver-lake): 29 restaurants, coffee shops, bars and things to do
 - [Venice guide](https://www.nathanielgrivas.com/guide/venice): 42 restaurants, coffee shops, bars and things to do
