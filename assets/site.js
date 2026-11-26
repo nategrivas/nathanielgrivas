@@ -265,3 +265,34 @@
     setTimeout(() => { copy.textContent = 'Copy number'; }, 1800);
   });
 })();
+
+// Listing films: a silent loop plays while in view; tapping plays the full film with sound. Vimeo loads only on tap.
+(() => {
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  document.querySelectorAll('[data-film]').forEach((box) => {
+    const v = box.querySelector('video'), btn = box.querySelector('.film-play');
+    let full = false;
+    if (!reduce && 'IntersectionObserver' in window) {
+      new IntersectionObserver((ents) => ents.forEach((en) => {
+        if (full) return;
+        if (en.isIntersecting) { if (!v.getAttribute('src')) v.src = v.dataset.src; const pr = v.play(); if (pr) pr.catch(() => {}); } else v.pause();
+      }), { threshold: 0.25 }).observe(box);
+    }
+    btn.addEventListener('click', () => {
+      full = true;
+      v.src = box.dataset.full; v.loop = false; v.muted = false; v.controls = true; v.preload = 'auto';
+      box.classList.add('playing');
+      const pr = v.play(); if (pr) pr.catch(() => {});
+      if (window.NG) window.NG.answer('Watched film', document.title);
+    });
+  });
+  document.querySelectorAll('[data-vimeo]').forEach((box) => {
+    box.querySelector('.film-play').addEventListener('click', () => {
+      const f = document.createElement('iframe');
+      f.src = 'https://player.vimeo.com/video/' + box.dataset.vimeo + '?autoplay=1&dnt=1&title=0&byline=0&portrait=0';
+      f.allow = 'autoplay; fullscreen; picture-in-picture'; f.allowFullscreen = true; f.title = 'Video tour';
+      box.innerHTML = ''; box.appendChild(f); box.classList.add('playing');
+      if (window.NG) window.NG.answer('Watched film', document.title);
+    });
+  });
+})();
