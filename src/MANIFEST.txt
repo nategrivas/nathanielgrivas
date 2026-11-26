@@ -16,7 +16,10 @@ src/guide/los-feliz.json
 src/guide/malibu.json
 src/guide/mar-vista.json
 src/guide/marina-del-rey.json
+src/guide/miracle-mile.json
 src/guide/pacific-palisades.json
+src/guide/palms.json
+src/guide/playa-del-rey.json
 src/guide/playa-vista.json
 src/guide/santa-monica.json
 src/guide/sherman-oaks.json
@@ -25,6 +28,7 @@ src/guide/studio-city.json
 src/guide/venice.json
 src/guide/west-hollywood.json
 src/guide/west-la.json
+src/guide/westchester.json
 src/guide/westwood.json
 src/guide_build.py
 src/hoods.py
