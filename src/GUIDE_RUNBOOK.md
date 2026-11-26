@@ -51,9 +51,33 @@ A place gets in only if it passes two tests: real people rate it highly, and it 
    sites: Food Talk Central, Foursquare tips, Atly.
 6. Aim for 30 to 50 places across eat, drink and do.
 
-## Refresh
-Each run also re-checks one existing neighborhood against Google: confirm every place is open,
-swap out weak ones, add new openings that locals already love, update `updated`.
+## Monthly refresh (1st of each month)
+Re-check every neighborhood: confirm each place is still open (Google places_search, critics'
+closure notes), remove closures, swap out weak ones, and add places that opened in the last few
+months once real people rate them highly (same bar as above). Openings that are only weeks old go
+in the LA Journal first, not the guide. Update `updated` on every file you touch.
+
+## The LA Journal (daily, evening)
+One file per day: src/journal/YYYY-MM-DD.json
+  {"date","title","dek","items":[{"tag","h","t","hoods":[slugs],"src":[[outlet,url]]}],
+   "openings":[{"n","hood","w","src":[outlet,url]}]}
+- 5 to 8 items about Los Angeles that day: city news, weather, transit, real estate and housing,
+  food, things to do this week, sports. Lead with what matters most to people living in the areas
+  Nate covers (West LA, Beverly Hills, the Valley, Hollywood to Silver Lake, the beach cities).
+- `h` and `t` are our own words: 2 to 4 short sentences, plain facts, no quotes, nothing copied or
+  closely paraphrased. Always link the original reporting in `src` (1 to 3 outlets).
+- Tag `hoods` with neighborhood slugs from src/hoods.py when an item is about one; the item then
+  shows on that neighborhood's guide page under "in the news".
+- `openings`: notable new restaurants or bars in our neighborhoods (Infatuation's New Openings,
+  Eater LA, Time Out). They go in the journal, not the guide, until they earn strong reviews.
+- Neutral on politics: report what happened, no opinions. No crime-victim details, no private people.
+- Fair housing: describe places and events, never the people who live somewhere.
+- Never use em dashes. Search the web for every item; never write news from memory.
+
+## Commit tips
+Keep GitHub commit summaries under 50 characters. Longer ones show a ProTip that shifts the
+layout and the Commit button click can miss. Check github.com/nategrivas/nathanielgrivas/commits/main
+after uploading.
 
 ## Running it from a fresh session
 1. mkdir -p /home/claude/site && cd /home/claude/site

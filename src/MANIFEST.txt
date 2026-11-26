@@ -28,6 +28,7 @@ src/guide/west-la.json
 src/guide/westwood.json
 src/guide_build.py
 src/hoods.py
+src/journal/2026-11-26.json
 src/lamap.py
 src/photos.py
 src/places.py

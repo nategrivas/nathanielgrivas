@@ -182,7 +182,7 @@ def foot(path, scripts=(), active=""):
 <p class="soc"><a href="{BG}" rel="noopener">The Brodsky Group</a> <a href="{SAME_AS[0]}">Compass</a> <a href="{SAME_AS[2]}">Instagram</a> <a href="{SAME_AS[1]}">LinkedIn</a> <a href="{SAME_AS[3]}">Zillow</a> <a href="{SAME_AS[4]}">Realtor.com</a></p></div>
 <div><h4>Explore</h4><ul><li><a href="/neighborhoods/">The map</a></li>{regions}</ul></div>
 <div><h4>Tools</h4><ul>{tools}</ul></div>
-<div><h4>More</h4><ul><li><a href="/guide/">LA Guide</a></li><li><a href="/listings/">Listings</a></li><li><a href="/about/">About</a></li><li><a href="/#contact" data-msg>Contact</a></li><li><a href="/privacy/">Privacy</a></li><li><a class="ext" href="{BG}" rel="noopener">The Brodsky Group</a></li></ul></div>
+<div><h4>More</h4><ul><li><a href="/guide/">LA Guide</a></li><li><a href="/journal/">LA Journal</a></li><li><a href="/listings/">Listings</a></li><li><a href="/about/">About</a></li><li><a href="/#contact" data-msg>Contact</a></li><li><a href="/privacy/">Privacy</a></li><li><a class="ext" href="{BG}" rel="noopener">The Brodsky Group</a></li></ul></div>
 </div>
 <details><summary>All neighborhoods</summary><div class="foot-hoods">{cols}</div></details>
 <div class="legal">Nathaniel Grivas, REALTOR&reg;, DRE #{DRE}. Compass is a licensed real estate broker, DRE #{CO_DRE}. Equal Housing Opportunity.
@@ -1207,6 +1207,7 @@ def page_hood_guide(d):
 </div>{photo}</div></section>
 <nav class="gnav" aria-label="Categories"><div class="wrap">{nav_}</div></nav>
 <div class="wrap gbody">{secs}</div>
+{journal_band(d["slug"], h["name"])}
 <section class="band lux-band"><div class="wrap"><div class="gend">
 <div><p class="kick">Thinking about living here?</p><h2>Homes in {e(h["name"])}</h2><p>Tell me what you're after and I'll send new {e(h["name"])} listings as they hit the market.</p>
 <div class="lh-cta"><a class="btn lux solid" href="{intake_url("buy", d["slug"])}">Get {e(h["name"])} listings</a><a class="btn lux" href="/neighborhoods/{d["slug"]}/">The {e(h["name"])} neighborhood guide</a></div></div>
@@ -1284,6 +1285,7 @@ def page_guide(posts):
 <h1>Where to eat, drink and go in every corner of LA</h1>
 <p class="lede">{total} places across {len(ready)} neighborhoods so far, from coffee and brunch to dive bars, live music, hikes and golf. Every pick is written from what critics and real people consistently say about it, and checked again as places open and close.</p>
 </div></section>
+{journal_teaser()}
 <section class="band lux-band" style="padding-top:10px"><div class="wrap">
 <div class="lux-head"><p class="kick">By neighborhood</p><h2>Pick a neighborhood</h2></div>
 <div class="gtiles">{tiles}</div>{soon_html}
@@ -1406,6 +1408,126 @@ def write(path, text):
     out.write_text(ext_tabs(text))
 
 
+# ------------------------------------------------------------------ LA Journal (daily, src/journal/YYYY-MM-DD.json)
+def load_journal():
+    out = []
+    d_ = ROOT / "src" / "journal"
+    if d_.exists():
+        for f in sorted(d_.glob("*.json")):
+            j = json.loads(f.read_text())
+            if not j.get("draft"):
+                out.append(j)
+    out.sort(key=lambda j: j["date"], reverse=True)
+    return out
+
+
+JOURNAL = load_journal()
+
+
+def jdate(d):
+    return datetime.date.fromisoformat(d).strftime("%A, %B %-d, %Y")
+
+
+def jhoods(slugs):
+    hs = [BY_SLUG[s_] for s_ in slugs or [] if s_ in BY_SLUG]
+    return ", ".join(f'<a href="/guide/{h["slug"]}/">{e(h["name"])}</a>' if h["slug"] in GUIDES else f'<a href="/neighborhoods/{h["slug"]}/">{e(h["name"])}</a>' for h in hs)
+
+
+def jitem(it, date=None):
+    srcs = ", ".join(f'<a href="{u}" rel="noopener">{e(t)}</a>' for t, u in it.get("src", []))
+    hs = jhoods(it.get("hoods"))
+    when = f'<a href="/journal/{date}/">{fmt_date(date)}</a> &middot; ' if date else ""
+    return (f'<article class="jit"><p class="jit-t">{e(it.get("tag", "LA"))}</p><h3>{e(it["h"])}</h3><p class="jit-b">{e(it["t"])}</p>'
+            f'<p class="jit-f">{when}{("Neighborhoods: " + hs + " &middot; ") if hs else ""}{("Sources: " + srcs) if srcs else ""}</p></article>')
+
+
+def journal_for(slug_, n=4):
+    rows = []
+    for j in JOURNAL:
+        for it in j["items"]:
+            if slug_ in (it.get("hoods") or []):
+                rows.append((j["date"], it))
+    return rows[:n]
+
+
+def journal_band(slug_, name):
+    rows = journal_for(slug_)
+    if not rows:
+        return ""
+    return (f'<section class="band lux-band"><div class="wrap"><div class="lux-head"><p class="kick">The LA Journal</p><h2>{e(name)} in the news</h2><a href="/journal/">All journal entries &rarr;</a></div>'
+            f'<div class="jits">{"".join(jitem(it, d) for d, it in rows)}</div></div></section>')
+
+
+def journal_teaser():
+    if not JOURNAL:
+        return ""
+    j = JOURNAL[0]
+    heads = "".join(f'<li>{e(it["h"])}</li>' for it in j["items"][:4])
+    return (f'<section class="band lux-band" style="padding-top:6px"><div class="wrap"><a class="jteaser" href="/journal/{j["date"]}/">'
+            f'<span class="kick">The LA Journal &middot; {jdate(j["date"])}</span><b>{e(j["title"])}</b><span class="jt-d">{e(j["dek"])}</span>'
+            f'<ul>{heads}</ul><span class="jt-go">Read today&rsquo;s journal &rarr;</span></a></div></section>')
+
+
+def page_journal_day(j, newer, older):
+    path = f"/journal/{j['date']}/"
+    items = "".join(jitem(it) for it in j["items"])
+    opens = ""
+    if j.get("openings"):
+        cards = "".join(
+            f'<article class="jit"><p class="jit-t">New opening</p><h3>{e(o["n"])}</h3><p class="jit-b">{e(o["w"])}</p>'
+            f'<p class="jit-f">{("Neighborhood: " + jhoods([o.get("hood")]) + " &middot; ") if o.get("hood") else ""}{("Source: " + chr(60) + "a href=" + chr(34) + o["src"][1] + chr(34) + " rel=noopener" + chr(62) + e(o["src"][0]) + "</a>") if o.get("src") else ""}</p></article>'
+            for o in j["openings"])
+        opens = f'<section class="gsec"><h2 class="gsec-h">New openings</h2><div class="jits">{cards}</div></section>'
+    pn = ""
+    if newer or older:
+        pn = ('<nav class="jpn">' + (f'<a href="/journal/{older["date"]}/">&larr; {fmt_date(older["date"])}</a>' if older else "<span></span>")
+              + (f'<a href="/journal/{newer["date"]}/">{fmt_date(newer["date"])} &rarr;</a>' if newer else "") + '</nav>')
+    body = f"""{nav(path, "guide")}
+<main>
+<section class="ghero"><div class="wrap narrow">
+<nav class="crumbs" aria-label="Breadcrumb"><a href="/guide/">The LA Guide</a> / <a href="/journal/">The LA Journal</a> / <span>{fmt_date(j["date"])}</span></nav>
+<p class="kick">The LA Journal &middot; {jdate(j["date"])}</p>
+<h1 class="jh1">{e(j["title"])}</h1>
+<p class="lede">{e(j["dek"])}</p>
+<p class="gh-meta">By Nathaniel Grivas, REALTOR&reg; &middot; Written in plain English with links to the original reporting</p>
+</div></section>
+<div class="wrap narrow gbody"><section class="gsec"><h2 class="gsec-h">Today in LA</h2><div class="jits">{items}</div></section>{opens}{pn}</div>
+<section class="band lux-band"><div class="wrap"><div class="gend">
+<div><p class="kick">Where to go</p><h2>The LA Guide</h2><p>The best restaurants, coffee, bars and things to do in {len(GUIDES)} neighborhoods, updated as places open and close.</p>
+<div class="lh-cta"><a class="btn lux solid" href="/guide/">Browse the guide</a><a class="btn lux" href="/journal/">All journal entries</a></div></div>
+<div><p class="kick">Buying or selling?</p><h2>Talk to Nate</h2><p>West LA, Beverly Hills and the Valley. Call or text {PHONE}.</p>
+<div class="lh-cta"><a class="btn lux solid" href="tel:{TEL}">Call {PHONE}</a><a class="btn lux" href="/neighborhoods/">Explore neighborhoods</a></div></div>
+</div></div></section>
+</main>
+{foot(path)}"""
+    art = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": j["title"], "description": j["dek"],
+           "datePublished": j["date"], "dateModified": j.get("updated", j["date"]),
+           "author": {"@type": "Person", "name": "Nathaniel Grivas", "url": SITE + "/about/"},
+           "publisher": {"@type": "Person", "name": "Nathaniel Grivas"}, "mainEntityOfPage": SITE + path}
+    title = f"{j['title']} | The LA Journal, {fmt_date(j['date'])}"
+    return head(title, j["dek"], path, ld(art) + ld(crumbs_ld([("Home", "/"), ("The LA Guide", "/guide/"), ("The LA Journal", "/journal/"), (fmt_date(j["date"]), path)]))) + body
+
+
+def page_journal_index():
+    path = "/journal/"
+    rows = "".join(
+        f'<a class="jrow" href="/journal/{j["date"]}/"><span class="kick">{jdate(j["date"])}</span><b>{e(j["title"])}</b><span class="jt-d">{e(j["dek"])}</span>'
+        f'<ul>{"".join(chr(60) + "li" + chr(62) + e(it["h"]) + "</li>" for it in j["items"][:3])}</ul></a>' for j in JOURNAL)
+    body = f"""{nav(path, "guide")}
+<main>
+<section class="ghero"><div class="wrap narrow">
+<nav class="crumbs" aria-label="Breadcrumb"><a href="/guide/">The LA Guide</a> / <span>The LA Journal</span></nav>
+<p class="kick">The LA Journal</p>
+<h1>What's happening in LA, every day</h1>
+<p class="lede">A short daily read on Los Angeles: city news, new openings, events and the real estate stories worth knowing, written in plain English with links to the original reporting.</p>
+</div></section>
+<div class="wrap narrow gbody"><div class="jrows">{rows}</div></div>
+</main>
+{foot(path)}"""
+    desc = "The LA Journal by Nathaniel Grivas: a short daily roundup of Los Angeles news, new restaurant openings, events and real estate, with links to the original reporting."
+    return head("The LA Journal: Daily Los Angeles News, Openings & Events | Nathaniel Grivas", desc, path, ld(crumbs_ld([("Home", "/"), ("The LA Guide", "/guide/"), ("The LA Journal", path)]))) + body
+
+
 def main():
     if DIST.exists():
         shutil.rmtree(DIST)
@@ -1434,6 +1556,10 @@ def main():
     for k, n in guide_counts().items():
         if n:
             pages[f"/guide/best/{k}/"] = page_best(k)
+    if JOURNAL:
+        pages["/journal/"] = page_journal_index()
+        for i, j in enumerate(JOURNAL):
+            pages[f"/journal/{j['date']}/"] = page_journal_day(j, JOURNAL[i - 1] if i > 0 else None, JOURNAL[i + 1] if i + 1 < len(JOURNAL) else None)
     for u, t in pages.items():
         write(u, t)
     (DIST / "404.html").write_text(ext_tabs(page_404()))
@@ -1552,6 +1678,9 @@ def llms_txt(posts):
         lines.append(f"- [{p_['addr']}, {p_['area']}]({SITE + p_['page'] if p_.get('page') else p_.get('site') or p_['url']}): {p_['tag']}, {p_['price']}{p_.get('per', '')}" + (" (video tour on the page)" if p_.get("page") else ""))
     lines += ["", "## The LA Guide: where to eat, drink and go (by neighborhood)"]
     lines += [f"- [{BY_SLUG[k]['name']} guide]({SITE}/guide/{k}/): {len(d['places'])} restaurants, coffee shops, bars and things to do" for k, d in GUIDES.items() if k in BY_SLUG]
+    if JOURNAL:
+        lines += ["", "## The LA Journal: daily Los Angeles news and openings", f"- [All entries]({SITE}/journal/)"]
+        lines += [f"- [{j['title']}]({SITE}/journal/{j['date']}/) ({j['date']}): {j['dek']}" for j in JOURNAL[:30]]
     lines += ["", "## The LA Guide: best of LA by category"]
     lines += [f"- [Best {G.CATS[k][1]} in LA]({SITE}/guide/best/{k}/)" for k in G.ORDERED if guide_counts().get(k)]
     lines += ["", "## Neighborhood guides"]
