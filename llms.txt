@@ -18,6 +18,7 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Beverly Hills guide](https://www.nathanielgrivas.com/guide/beverly-hills): 26 restaurants, coffee shops, bars and things to do
 - [Brentwood guide](https://www.nathanielgrivas.com/guide/brentwood): 20 restaurants, coffee shops, bars and things to do
 - [Century City guide](https://www.nathanielgrivas.com/guide/century-city): 6 restaurants, coffee shops, bars and things to do
+- [Cheviot Hills & Rancho Park guide](https://www.nathanielgrivas.com/guide/cheviot-hills): 4 restaurants, coffee shops, bars and things to do
 - [Culver City guide](https://www.nathanielgrivas.com/guide/culver-city): 34 restaurants, coffee shops, bars and things to do
 - [East Hollywood guide](https://www.nathanielgrivas.com/guide/east-hollywood): 21 restaurants, coffee shops, bars and things to do
 - [Echo Park guide](https://www.nathanielgrivas.com/guide/echo-park): 28 restaurants, coffee shops, bars and things to do
@@ -35,17 +36,20 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Palms guide](https://www.nathanielgrivas.com/guide/palms): 6 restaurants, coffee shops, bars and things to do
 - [Playa del Rey guide](https://www.nathanielgrivas.com/guide/playa-del-rey): 9 restaurants, coffee shops, bars and things to do
 - [Playa Vista guide](https://www.nathanielgrivas.com/guide/playa-vista): 5 restaurants, coffee shops, bars and things to do
+- [Reseda guide](https://www.nathanielgrivas.com/guide/reseda): 3 restaurants, coffee shops, bars and things to do
 - [Santa Monica guide](https://www.nathanielgrivas.com/guide/santa-monica): 40 restaurants, coffee shops, bars and things to do
 - [Sherman Oaks guide](https://www.nathanielgrivas.com/guide/sherman-oaks): 12 restaurants, coffee shops, bars and things to do
 - [Silver Lake guide](https://www.nathanielgrivas.com/guide/silver-lake): 29 restaurants, coffee shops, bars and things to do
 - [Studio City guide](https://www.nathanielgrivas.com/guide/studio-city): 21 restaurants, coffee shops, bars and things to do
 - [Tarzana guide](https://www.nathanielgrivas.com/guide/tarzana): 6 restaurants, coffee shops, bars and things to do
 - [Valley Village guide](https://www.nathanielgrivas.com/guide/valley-village): 4 restaurants, coffee shops, bars and things to do
+- [Van Nuys guide](https://www.nathanielgrivas.com/guide/van-nuys): 5 restaurants, coffee shops, bars and things to do
 - [Venice guide](https://www.nathanielgrivas.com/guide/venice): 42 restaurants, coffee shops, bars and things to do
 - [West Hollywood guide](https://www.nathanielgrivas.com/guide/west-hollywood): 60 restaurants, coffee shops, bars and things to do
 - [West LA & Sawtelle guide](https://www.nathanielgrivas.com/guide/west-la): 25 restaurants, coffee shops, bars and things to do
 - [Westchester guide](https://www.nathanielgrivas.com/guide/westchester): 6 restaurants, coffee shops, bars and things to do
 - [Westwood guide](https://www.nathanielgrivas.com/guide/westwood): 21 restaurants, coffee shops, bars and things to do
+- [Woodland Hills guide](https://www.nathanielgrivas.com/guide/woodland-hills): 5 restaurants, coffee shops, bars and things to do
 
 ## The LA Journal: daily Los Angeles news and openings
 - [All entries](https://www.nathanielgrivas.com/journal)
