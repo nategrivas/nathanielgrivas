@@ -15,6 +15,7 @@ Full text version of the homepage, with listings and services: https://www.natha
 
 ## The LA Guide: where to eat, drink and go (by neighborhood)
 - [Beverly Hills guide](https://www.nathanielgrivas.com/guide/beverly-hills): 26 restaurants, coffee shops, bars and things to do
+- [Los Feliz guide](https://www.nathanielgrivas.com/guide/los-feliz): 36 restaurants, coffee shops, bars and things to do
 - [Santa Monica guide](https://www.nathanielgrivas.com/guide/santa-monica): 40 restaurants, coffee shops, bars and things to do
 - [Silver Lake guide](https://www.nathanielgrivas.com/guide/silver-lake): 29 restaurants, coffee shops, bars and things to do
 - [Venice guide](https://www.nathanielgrivas.com/guide/venice): 42 restaurants, coffee shops, bars and things to do
@@ -43,6 +44,7 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Best late-night spots in LA](https://www.nathanielgrivas.com/guide/best/latenight)
 - [Best live music in LA](https://www.nathanielgrivas.com/guide/best/music)
 - [Best comedy and theater in LA](https://www.nathanielgrivas.com/guide/best/comedy)
+- [Best movie theaters in LA](https://www.nathanielgrivas.com/guide/best/film)
 - [Best museums in LA](https://www.nathanielgrivas.com/guide/best/museum)
 - [Best art and galleries in LA](https://www.nathanielgrivas.com/guide/best/art)
 - [Best landmarks in LA](https://www.nathanielgrivas.com/guide/best/landmark)
@@ -52,6 +54,7 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Best shopping in LA](https://www.nathanielgrivas.com/guide/best/shop)
 - [Best markets and farmers markets in LA](https://www.nathanielgrivas.com/guide/best/market)
 - [Best fitness and outdoor sports in LA](https://www.nathanielgrivas.com/guide/best/fitness)
+- [Best golf in LA](https://www.nathanielgrivas.com/guide/best/golf)
 - [Best family outings in LA](https://www.nathanielgrivas.com/guide/best/kids)
 - [Best dog-friendly spots in LA](https://www.nathanielgrivas.com/guide/best/dogs)
 
