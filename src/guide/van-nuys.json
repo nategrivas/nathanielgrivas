@@ -1,0 +1,90 @@
+{
+ "slug": "van-nuys",
+ "updated": "2026-11-26",
+ "intro": "Van Nuys is the Valley's civic center, home to the Van Nuys Airport and the Sepulveda Basin, with Lake Balboa and the Japanese Garden among the best outdoor spots in the Valley and a long run of family-run restaurants along Victory, Vanowen and Van Nuys Boulevard.",
+ "sources": {
+  "inf": [
+   "The Infatuation: San Fernando Valley",
+   "https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Cemitas Don Adrian",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "14902 Victory Blvd",
+   "p": "$",
+   "w": "A long-running Puebla-style torta shop in a small strip mall.",
+   "o": "The breaded milanesa cemita.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Ay Papa Que Rico",
+   "c": [
+    "lunch",
+    "dinner",
+    "cheap"
+   ],
+   "a": "7456 Van Nuys Blvd",
+   "p": "$$",
+   "w": "A Cuban-inspired spot built around charcoal-grilled chicken, with a pastry case and plenty of seating.",
+   "o": "Half a chicken with black beans and yellow rice, or a Cubano.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "The Smash Stand",
+   "c": [
+    "cheap",
+    "lunch"
+   ],
+   "a": "16435 Vanowen St",
+   "p": "$",
+   "w": "A tiny burger counter tucked beside a liquor store, turning out excellent smash burgers.",
+   "o": "A double smash and the loaded fries.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Lake Balboa Park",
+   "c": [
+    "park",
+    "kids",
+    "dogs"
+   ],
+   "a": "6300 Balboa Blvd",
+   "p": "Free",
+   "w": "A big park around a lake with a 1.3-mile loop path, paddle boats and plenty of birds.",
+   "o": "Walk the loop in the morning; come in spring for the cherry blossoms.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "The Japanese Garden",
+   "c": [
+    "park",
+    "landmark"
+   ],
+   "a": "6100 Woodley Ave",
+   "p": "$",
+   "w": "A peaceful formal garden with waterfalls, koi ponds and a teahouse in the Sepulveda Basin. Entry is a few dollars.",
+   "o": "Check the hours before you go; it keeps limited days.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

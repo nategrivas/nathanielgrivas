@@ -1,0 +1,62 @@
+{
+ "slug": "reseda",
+ "updated": "2026-11-26",
+ "intro": "Reseda sits in the heart of the west Valley along Sherman Way and Reseda Boulevard, with some of the Valley's best family-run Vietnamese and Lebanese cooking in its strip malls.",
+ "sources": {
+  "inf": [
+   "The Infatuation: San Fernando Valley",
+   "https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Reseda+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Vinh Loi",
+   "c": [
+    "dinner",
+    "lunch",
+    "healthy"
+   ],
+   "a": "18625 Sherman Way, #101",
+   "p": "$$",
+   "w": "A beloved vegan Vietnamese restaurant with bold flavors and owners who will happily order for you.",
+   "o": "The lemongrass banh mi and the peanut soup, or ask Kevin to pick.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Khuu Bistro",
+   "c": [
+    "lunch",
+    "dinner",
+    "cheap"
+   ],
+   "a": "18845 Sherman Way",
+   "p": "$",
+   "w": "A tiny spot serving Northern and Southern Vietnamese specialties you rarely see in the Valley.",
+   "o": "Banh xeo, egg rolls and the dill fish.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Monaia Mediterranean Cuisine",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "19642 Sherman Way",
+   "p": "$$",
+   "w": "A warm, family-run Lebanese restaurant with generous portions and very fresh food.",
+   "o": "Makanek sausage, the mixed grill and baklava to finish.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

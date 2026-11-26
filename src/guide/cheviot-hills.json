@@ -1,0 +1,72 @@
+{
+ "slug": "cheviot-hills",
+ "updated": "2026-11-26",
+ "intro": "Cheviot Hills is a quiet, green neighborhood of winding streets between Century City and Culver City, anchored by its big recreation center and the Rancho Park golf course, with neighborhood restaurants along Pico Boulevard nearby.",
+ "sources": {
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "John O' Groats",
+   "c": [
+    "breakfast",
+    "brunch"
+   ],
+   "a": "10516 W Pico Blvd",
+   "p": "$$",
+   "w": "A longtime neighborhood breakfast spot known for its biscuits and big pancakes.",
+   "o": "Pancakes or eggs with a side of biscuits.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "FOOD",
+   "c": [
+    "breakfast",
+    "lunch",
+    "healthy"
+   ],
+   "a": "10571 W Pico Blvd",
+   "p": "$$",
+   "w": "A friendly neighborhood cafe with an all-day menu and plenty of healthy options.",
+   "o": "The pancakes, or the Thai steak salad at lunch.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Bossa Nova",
+   "c": [
+    "dinner",
+    "latenight"
+   ],
+   "a": "10982 W Pico Blvd",
+   "p": "$$",
+   "w": "A casual Brazilian restaurant with a huge menu that stays open late.",
+   "o": "Brazilian cheese bread and the salmon.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Cheviot Hills Recreation Center",
+   "c": [
+    "park",
+    "fitness",
+    "dogs",
+    "kids"
+   ],
+   "a": "2551 Motor Ave",
+   "p": "Free",
+   "w": "A big park with tennis courts, a pool, ball fields, basketball and an off-leash dog area.",
+   "o": "Book a tennis court early on weekends.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

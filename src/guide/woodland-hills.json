@@ -1,0 +1,91 @@
+{
+ "slug": "woodland-hills",
+ "updated": "2026-11-26",
+ "intro": "Woodland Hills sits at the west end of the Valley, with Ventura Boulevard's restaurants along the south side, the Warner Center district's parks and shopping to the north, and the Santa Monica Mountains rising behind it.",
+ "sources": {
+  "inf": [
+   "The Infatuation: San Fernando Valley",
+   "https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Prose Kitchen and Bar",
+   "c": [
+    "dinner",
+    "brunch",
+    "date"
+   ],
+   "a": "21150 Ventura Blvd",
+   "p": "$$$",
+   "w": "A small, ambitious neighborhood restaurant with a seasonal menu, a tasting menu option and weekend brunch.",
+   "o": "The four-course tasting menu, or happy hour at the bar.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "The Brothers Sushi",
+   "c": [
+    "sushi",
+    "date",
+    "lunch"
+   ],
+   "a": "21418 Ventura Blvd",
+   "p": "$$$$",
+   "w": "A lively, high-end sushi restaurant with fish sourced from Japan, in an unassuming building.",
+   "o": "Start with the omakase; come back for the loaded chirashi at lunch.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "The Local Peasant",
+   "c": [
+    "sports",
+    "bars",
+    "brunch"
+   ],
+   "a": "22901 Ventura Blvd",
+   "p": "$$",
+   "w": "A big gastropub with a patio, a strong happy hour and a packed room on game days.",
+   "o": "Fish and chips and the lemon-pepper wings during the game.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Topanga Village",
+   "c": [
+    "shop"
+   ],
+   "a": "6256 Topanga Canyon Blvd",
+   "p": "$$",
+   "w": "An open-air shopping village with restaurants, a bookstore and plenty of outdoor seating.",
+   "o": "Browse The Open Book, then grab lunch on the plaza.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Warner Center Park",
+   "c": [
+    "park",
+    "music",
+    "kids"
+   ],
+   "a": "5800 Topanga Canyon Blvd",
+   "p": "Free",
+   "w": "A big, shady lawn that hosts free concerts in the summer.",
+   "o": "Bring a blanket for a summer concert night.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}
