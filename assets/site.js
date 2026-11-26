@@ -228,7 +228,7 @@
   const tel = num.getAttribute('href').replace(/^(tel|sms):/, '');
   const setMode = (m) => {
     const text = m === 'text';
-    kick.textContent = text ? 'Text Nate' : 'Call Nate';
+    kick.textContent = text ? 'Text Nathaniel' : 'Call Nathaniel';
     num.setAttribute('href', (text ? 'sms:' : 'tel:') + tel);
     qr.src = text ? qr.dataset.text : qr.dataset.call;
     qr.alt = 'QR code to ' + (text ? 'text ' : 'call ') + num.textContent;

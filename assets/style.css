@@ -967,3 +967,38 @@ a.lh-cap[href]:hover{color:#fff;text-decoration:underline;text-underline-offset:
 .top.over .brand .bk{color:rgba(255,255,255,.7)}
 .top .wrap{gap:16px}
 h1,h2,h3,.h1,.h2,.price,.lux-stats b,.brand .wm,.help-row b,.tile h3,.post h3,.ngd h2,.ngd-num,.lh-name,.meet h2,.lux-head h2{font-variant-numeric:lining-nums!important;font-feature-settings:"lnum" 1!important}
+
+/* v7: face and team hero, Nathaniel wordmark */
+.brand .wm{font-size:20px;letter-spacing:.12em}
+@media(max-width:400px){.brand .wm{font-size:17px;letter-spacing:.1em}}
+.face-hero{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);min-height:calc(100svh - var(--hh));background:#0d0c0b;border-bottom:1px solid var(--line)}
+.fh-me{margin:0;position:relative;overflow:hidden;background:#d9d2c8}
+.fh-me img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 14%}
+.fh-copy{display:flex;flex-direction:column;justify-content:center;padding:clamp(32px,4.5vw,72px) clamp(24px,5vw,84px)}
+.face-hero h1{margin:0}
+.face-hero .lh-name{font-size:clamp(50px,6vw,94px);text-shadow:none}
+.face-hero .lh-sub{margin-top:18px;color:var(--soft)}
+.fh-lede{max-width:520px;margin:22px 0 0;font-size:17px;line-height:1.65;color:var(--soft)}
+.face-hero .lh-cta{margin-top:28px}
+.face-hero .btn.lux:not(.solid){background:none;border-color:var(--line2)}
+.face-hero .btn.lux:not(.solid):hover{background:#fff;border-color:#fff}
+.fh-team{margin:clamp(28px,4.5vh,48px) 0 0}
+.fh-team img{width:100%;aspect-ratio:16/7;object-fit:cover;object-position:50% 32%}
+.fh-team figcaption{display:flex;justify-content:space-between;align-items:center;gap:10px 16px;flex-wrap:wrap;padding-top:14px;font:600 11px/1.4 var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--mute)}
+.fh-team figcaption b{color:var(--ink);font-weight:600}
+.fh-team figcaption a{color:var(--cu2);text-decoration:none}
+.fh-team figcaption a:hover{text-decoration:underline;text-underline-offset:4px}
+@media(max-width:860px){
+  .face-hero{grid-template-columns:1fr;min-height:0}
+  .fh-me{aspect-ratio:4/4.4;max-height:72svh}
+  .fh-copy{padding:30px max(4vw,16px) 40px}
+  .fh-team img{aspect-ratio:3/2}
+}
+/* help row without numbers */
+.help-row a{gap:12px}
+@media(max-width:600px){.help-row a{grid-template-columns:1fr auto}.help-row span:not(.hn){grid-column:1/2}.help-row i{grid-column:2}}
+/* property website link under a card */
+.cardwrap{display:flex;flex-direction:column;gap:12px}
+.cardsite{align-self:flex-start;padding:4px 2px;font:600 11px/1.3 var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--cu2);text-decoration:none}
+.cardsite:hover{text-decoration:underline;text-underline-offset:4px}
+.fh-team img{height:auto}
