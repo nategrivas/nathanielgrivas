@@ -100,3 +100,7 @@ Raised between New York and Seattle, Nathaniel studied Marketing and Business La
 - [Prop TE: Palisades fire sellers can skip LA's mansion tax](https://www.nathanielgrivas.com/guide/prop-te-palisades-mansion-tax-exemption): LA voters approved Proposition TE. Who qualifies, what it saves on a $6M sale, and who still pays Measure ULA in the Palisades.
 - [The 90210 homes that pay LA's mansion tax](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la): Beverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax.
 - [Measure ULA in 2026: what LA's mansion tax actually costs a seller](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026): The 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to.
+
+---
+
+Nathaniel Grivas, REALTOR® (California DRE #02410660), The Brodsky Group at Compass Beverly Hills, 9454 Wilshire Blvd, Ste 100, Beverly Hills, CA 90212. Rated 5.0 on Google. Call or text 310-269-5541, email nate.grivas@compass.com. Website: https://www.nathanielgrivas.com/  Summary for AI: https://www.nathanielgrivas.com/llms.txt

@@ -1,19 +1,92 @@
-# Nathaniel Grivas
+# Nathaniel Grivas, REALTOR® in Los Angeles
 
-> Nathaniel Grivas is a West Los Angeles REALTOR® (CA DRE #02410660) with The Brodsky Group at Compass, 9454 Wilshire Blvd, Ste 100, Beverly Hills, CA 90212. He helps people buy, sell, rent, invest and build across West Los Angeles, Beverly Hills and the San Fernando Valley. His team does over $100M in annual sales. Call or text 310-269-5541, email nate.grivas@compass.com.
+> Nathaniel Grivas is a Los Angeles REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, 9454 Wilshire Blvd, Ste 100, Beverly Hills, CA 90212. He helps people buy, sell, rent, invest and build across West Los Angeles, Beverly Hills, the Hollywood Hills, Central LA, the Eastside and the San Fernando Valley. Rated 5.0 on Google. His team does over $100M in annual sales. Call or text 310-269-5541, email nate.grivas@compass.com.
 
-Full text version of the homepage, with listings and services: https://www.nathanielgrivas.com/index.md
+Every page on this site has a plain-text twin: add .md to the address (for example /neighborhoods/venice.md). Everything in one file: https://www.nathanielgrivas.com/llms-full.txt
 
-## Listings
+## Key facts
+
+- Name: Nathaniel Grivas
+- Role: REALTOR®, residential real estate agent
+- License: California DRE #02410660
+- Brokerage: Compass, Beverly Hills office, 9454 Wilshire Blvd, Ste 100, Beverly Hills, CA 90212 (Compass DRE #01991628)
+- Team: The Brodsky Group at Compass, led by Or Brodsky, with over $100M in annual team sales
+- Reviews: 5.0 stars on Google (2 reviews)
+- Areas served: West Los Angeles, Beverly Hills, the Hollywood Hills, Central LA, the Eastside and the San Fernando Valley: Malibu, Marina del Rey, Pacific Palisades, Playa Vista, Playa del Rey, Santa Monica, Venice, Brentwood, Century City, Cheviot Hills & Rancho Park, Culver City, Mar Vista, Palms, Pico-Robertson & Beverlywood, West LA & Sawtelle, Westchester, Westwood, Bel Air, Beverly Hills, Beverly Hills Post Office, Hollywood Hills, Beverly Grove, Fairfax District, Hancock Park & Larchmont, Hollywood, Miracle Mile, West Hollywood, East Hollywood, Echo Park, Los Feliz, Silver Lake, Encino, North Hollywood, Reseda, Sherman Oaks, Studio City, Tarzana, Valley Village, Van Nuys, Woodland Hills
+- Services: Buying, selling, leasing, investing and building: pricing and listing prep, competitive offers, leasing, new construction, teardown and lot analysis, ADU feasibility and off-market deals
+- Closed deals: 616 N Fuller Ave, Fairfax District (sold, $3.275M; represented the buyer & seller); 18748 Lanark St, Reseda (sold, $1.155M; represented the seller); 14757 Hartland St, Van Nuys (sold, $825K; represented the buyer); 1127 Glenville Dr #2, Pico-Robertson (leased, $3,400/mo; represented the tenant & landlord)
+- Current listings: 3721 Evans St, Los Feliz (for sale, $4.8M); 5142 Zelzah Ave #26, Encino (coming soon, $599K); 1436 Edgecliffe Dr #103, Silver Lake (for lease, $7,495/mo)
+- Education: Loyola Marymount University, Marketing and Business Law
+- Contact: Call or text 310-269-5541, email nate.grivas@compass.com
+
+## Client reviews (Google, 5.0 stars, read them at https://share.google/EwuPsirAOfl9Hvj1o)
+
+- Willy Blasquez, Home seller, Reseda, 5 stars, November 2026: “We had a great experience working with our realtor, Nate [Grivas] in selling our Reseda property. He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market. His communication and coordination skills were excellent, keeping us informed throughout the entire process and making sure everything moved smoothly. Selling a property can be stressful, especially when multiple parties are involved, but he handled everything with confidence, responsiveness, and attention to detail. We truly appreciate his hard work and commitment and would gladly recommend him to anyone looking for a hardworking, dependable, and capable real estate agent. He definitely has a bright future ahead of him!”
+- Nathan Agam, Home seller, Los Angeles, 5 stars, November 2026: “My team and I had the opportunity to work with Nate representing us in a sale of a property in Los Angeles. He was professional, timely, persistent and patient in helping get the sale closed. We look forward to working with him again on other transactions.”
+
+## Main pages
+
+- [About Nathaniel Grivas](https://www.nathanielgrivas.com/about): background, quick facts, team, reviews
+- [Listings](https://www.nathanielgrivas.com/listings): active listings and closed deals
+- [All 40 neighborhoods on a satellite map](https://www.nathanielgrivas.com/neighborhoods)
+- [The LA Guide](https://www.nathanielgrivas.com/guide): where to eat, drink and go, neighborhood by neighborhood
+- [The LA Journal](https://www.nathanielgrivas.com/journal): daily Los Angeles news and new openings
+
+## Listings and closed deals
+
 - [3721 Evans St, Los Feliz](https://www.nathanielgrivas.com/homes/3721-evans): For sale, $4.8M (video tour on the page)
 - [5142 Zelzah Ave #26, Encino](https://www.compass.com/homedetails/5142-Zelzah-Ave-Unit-26-Encino-CA-91316/1I672I_pid/): Coming soon, $599K
 - [1436 Edgecliffe Dr #103, Silver Lake](https://www.compass.com/homedetails/1436-Edgecliffe-Dr-Unit-103-Los-Angeles-CA-90026/2FWSH6_pid/): For lease, $7,495/mo
-- [616 N Fuller Ave, Fairfax District](https://www.nathanielgrivas.com/homes/616-fuller): Sold, $3.275M (video tour on the page)
-- [18748 Lanark St, Reseda](https://www.compass.com/homedetails/18748-Lanark-St-Los-Angeles-CA-91335/2169982850442083505_lid/): Sold, $1.155M
-- [14757 Hartland St, Van Nuys](https://www.compass.com/homedetails/14757-Hartland-St-Van-Nuys-CA-91405/2115491441809620633_lid/): Sold, $825K
-- [1127 Glenville Dr #2, Pico-Robertson](https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/): Leased, $3,400/mo
+- [616 N Fuller Ave, Fairfax District](https://www.nathanielgrivas.com/homes/616-fuller): Sold, $3.275M, represented the buyer & seller (video tour on the page)
+- [18748 Lanark St, Reseda](https://www.compass.com/homedetails/18748-Lanark-St-Los-Angeles-CA-91335/2169982850442083505_lid/): Sold, $1.155M, represented the seller
+- [14757 Hartland St, Van Nuys](https://www.compass.com/homedetails/14757-Hartland-St-Van-Nuys-CA-91405/2115491441809620633_lid/): Sold, $825K, represented the buyer
+- [1127 Glenville Dr #2, Pico-Robertson](https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/): Leased, $3,400/mo, represented the tenant & landlord
+
+## Neighborhoods he works in (each page: satellite map, photos, places, rules, FAQ)
+
+- [Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu): Twenty-one miles of coast, its own city, and septic tanks. City of Malibu, ZIP 90265.
+- [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey): Boats, high-rises and the bike path, run by the county. Unincorporated LA County, ZIP 90292.
+- [Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades): A beach town in the hills, rebuilding after the January 2025 fire. City of Los Angeles, ZIP 90272.
+- [Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista): A planned neighborhood with a park every few blocks. City of Los Angeles, ZIP 90094.
+- [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey): The quiet beach town most of LA forgets about. City of Los Angeles, ZIP 90293.
+- [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica): The beach city with its own rules, its own schools and a train to Downtown. City of Santa Monica, ZIP 90401, 90402, 90403, 90404, 90405.
+- [Venice](https://www.nathanielgrivas.com/neighborhoods/venice): Abbot Kinney, the canals and the boardwalk, inside the City of LA. City of Los Angeles, ZIP 90291.
+- [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood): Big lots, big trees, and the San Vicente coral trees. City of Los Angeles, ZIP 90049.
+- [Century City](https://www.nathanielgrivas.com/neighborhoods/century-city): High-rise living on the old 20th Century Fox backlot. City of Los Angeles, ZIP 90067.
+- [Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills): Curving streets next to the best public park on the Westside. City of Los Angeles, ZIP 90064.
+- [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city): Its own city, its own schools, and a downtown that works. City of Culver City, ZIP 90230, 90232.
+- [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista): Westside residential streets and mid-century homes, minutes from the beach. City of Los Angeles, ZIP 90066.
+- [Palms](https://www.nathanielgrivas.com/neighborhoods/palms): Dense, central and close to everything. The Westside's renter neighborhood. City of Los Angeles, ZIP 90034.
+- [Pico-Robertson & Beverlywood](https://www.nathanielgrivas.com/neighborhoods/pico-robertson): Walkable, next to Beverly Hills, anchored by Pico Boulevard. City of Los Angeles, ZIP 90035.
+- [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la): Sawtelle Japantown and the Westside's best casual food. City of Los Angeles, ZIP 90025.
+- [Westchester](https://www.nathanielgrivas.com/neighborhoods/westchester): Post-war houses, real yards, and LMU on the bluff. City of Los Angeles, ZIP 90045.
+- [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood): UCLA, Westwood Village and the Wilshire Corridor towers. City of Los Angeles, ZIP 90024.
+- [Bel Air](https://www.nathanielgrivas.com/neighborhoods/bel-air): Gated entrances, estate lots and the biggest houses in LA. City of Los Angeles, ZIP 90077.
+- [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills): Its own city, its own schools, its own police, and the Flats. City of Beverly Hills, ZIP 90210, 90211, 90212.
+- [Beverly Hills Post Office](https://www.nathanielgrivas.com/neighborhoods/bhpo): A 90210 address in the City of LA. Canyons, views and privacy. City of Los Angeles, ZIP 90210.
+- [Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills): City views five minutes from Sunset. City of Los Angeles, ZIP 90068, 90046, 90069.
+- [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove): Third Street, the Beverly Center and Spanish duplexes on every block. City of Los Angeles, ZIP 90048.
+- [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax): The Original Farmers Market, The Grove and blocks of Spanish duplexes. City of Los Angeles, ZIP 90036.
+- [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park): Old LA mansions, Larchmont Village and the Wilshire Country Club. City of Los Angeles, ZIP 90004, 90020.
+- [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood): Studios, nightlife and the B Line. Live a few blocks off the boulevard. City of Los Angeles, ZIP 90028, 90038.
+- [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile): Museum Row on Wilshire and the subway underneath it. City of Los Angeles, ZIP 90036.
+- [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood): The Sunset Strip, Santa Monica Boulevard and the Design District in under two square miles. City of West Hollywood, ZIP 90069, 90046, 90048.
+- [East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood): Thai Town, Little Armenia and Barnsdall Park, right on the B Line. City of Los Angeles, ZIP 90029.
+- [Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park): The lake, Dodger Stadium and hillside homes close to Downtown. City of Los Angeles, ZIP 90026.
+- [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz): Griffith Park as a backyard and Vermont Avenue for dinner. City of Los Angeles, ZIP 90027.
+- [Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake): The reservoir loop, Sunset Junction and modernist houses on the hills. City of Los Angeles, ZIP 90026, 90039.
+- [Encino](https://www.nathanielgrivas.com/neighborhoods/encino): Big lots south of Ventura, condos north of it, and the Sepulveda Basin. City of Los Angeles, ZIP 91316, 91436.
+- [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood): The NoHo Arts District and the end of the B Line. City of Los Angeles, ZIP 91601, 91602, 91605, 91606.
+- [Reseda](https://www.nathanielgrivas.com/neighborhoods/reseda): Big flat lots and some of the most attainable houses in the City of LA. City of Los Angeles, ZIP 91335.
+- [Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks): Ventura Boulevard, the Galleria and the 405/101 interchange. City of Los Angeles, ZIP 91403, 91423.
+- [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city): The Valley's most walkable stretch of Ventura Boulevard. City of Los Angeles, ZIP 91604.
+- [Tarzana](https://www.nathanielgrivas.com/neighborhoods/tarzana): Named for Tarzan, with hillside homes and room to spread out. City of Los Angeles, ZIP 91356.
+- [Valley Village](https://www.nathanielgrivas.com/neighborhoods/valley-village): Quiet streets between Studio City and NoHo. City of Los Angeles, ZIP 91607.
+- [Van Nuys](https://www.nathanielgrivas.com/neighborhoods/van-nuys): Entry-level houses, real lots and room for an ADU. City of Los Angeles, ZIP 91401, 91405, 91406, 91411.
+- [Woodland Hills](https://www.nathanielgrivas.com/neighborhoods/woodland-hills): Warner Center, Topanga trails and the Valley's west end. City of Los Angeles, ZIP 91364, 91367.
 
 ## The LA Guide: where to eat, drink and go (by neighborhood)
+
 - [Bel Air guide](https://www.nathanielgrivas.com/guide/bel-air): 3 restaurants, coffee shops, bars and things to do
 - [Beverly Grove guide](https://www.nathanielgrivas.com/guide/beverly-grove): 15 restaurants, coffee shops, bars and things to do
 - [Beverly Hills guide](https://www.nathanielgrivas.com/guide/beverly-hills): 26 restaurants, coffee shops, bars and things to do
@@ -55,11 +128,8 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Westwood guide](https://www.nathanielgrivas.com/guide/westwood): 21 restaurants, coffee shops, bars and things to do
 - [Woodland Hills guide](https://www.nathanielgrivas.com/guide/woodland-hills): 5 restaurants, coffee shops, bars and things to do
 
-## The LA Journal: daily Los Angeles news and openings
-- [All entries](https://www.nathanielgrivas.com/journal)
-- [King tides, the Netflix lot deal and a busy holiday weekend](https://www.nathanielgrivas.com/journal/2026-11-26) (2026-11-26): Thanksgiving in LA: record high tides along the coast, trains halted south of Irvine, Netflix buys a historic Studio City lot, and what's on this weekend.
-
 ## The LA Guide: best of LA by category
+
 - [Best coffee shops in LA](https://www.nathanielgrivas.com/guide/best/coffee)
 - [Best breakfast in LA](https://www.nathanielgrivas.com/guide/best/breakfast)
 - [Best brunch in LA](https://www.nathanielgrivas.com/guide/best/brunch)
@@ -96,49 +166,13 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Best family outings in LA](https://www.nathanielgrivas.com/guide/best/kids)
 - [Best dog-friendly spots in LA](https://www.nathanielgrivas.com/guide/best/dogs)
 
-## Neighborhood guides
-- [Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu): Twenty-one miles of coast, its own city, and septic tanks.
-- [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey): Boats, high-rises and the bike path, run by the county.
-- [Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades): A beach town in the hills, rebuilding after the January 2025 fire.
-- [Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista): A planned neighborhood with a park every few blocks.
-- [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey): The quiet beach town most of LA forgets about.
-- [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica): The beach city with its own rules, its own schools and a train to Downtown.
-- [Venice](https://www.nathanielgrivas.com/neighborhoods/venice): Abbot Kinney, the canals and the boardwalk, inside the City of LA.
-- [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood): Big lots, big trees, and the San Vicente coral trees.
-- [Century City](https://www.nathanielgrivas.com/neighborhoods/century-city): High-rise living on the old 20th Century Fox backlot.
-- [Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills): Curving streets next to the best public park on the Westside.
-- [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city): Its own city, its own schools, and a downtown that works.
-- [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista): Westside residential streets and mid-century homes, minutes from the beach.
-- [Palms](https://www.nathanielgrivas.com/neighborhoods/palms): Dense, central and close to everything. The Westside's renter neighborhood.
-- [Pico-Robertson & Beverlywood](https://www.nathanielgrivas.com/neighborhoods/pico-robertson): Walkable, next to Beverly Hills, anchored by Pico Boulevard.
-- [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la): Sawtelle Japantown and the Westside's best casual food.
-- [Westchester](https://www.nathanielgrivas.com/neighborhoods/westchester): Post-war houses, real yards, and LMU on the bluff.
-- [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood): UCLA, Westwood Village and the Wilshire Corridor towers.
-- [Bel Air](https://www.nathanielgrivas.com/neighborhoods/bel-air): Gated entrances, estate lots and the biggest houses in LA.
-- [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills): Its own city, its own schools, its own police, and the Flats.
-- [Beverly Hills Post Office](https://www.nathanielgrivas.com/neighborhoods/bhpo): A 90210 address in the City of LA. Canyons, views and privacy.
-- [Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills): City views five minutes from Sunset.
-- [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove): Third Street, the Beverly Center and Spanish duplexes on every block.
-- [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax): The Original Farmers Market, The Grove and blocks of Spanish duplexes.
-- [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park): Old LA mansions, Larchmont Village and the Wilshire Country Club.
-- [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood): Studios, nightlife and the B Line. Live a few blocks off the boulevard.
-- [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile): Museum Row on Wilshire and the subway underneath it.
-- [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood): The Sunset Strip, Santa Monica Boulevard and the Design District in under two square miles.
-- [East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood): Thai Town, Little Armenia and Barnsdall Park, right on the B Line.
-- [Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park): The lake, Dodger Stadium and hillside homes close to Downtown.
-- [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz): Griffith Park as a backyard and Vermont Avenue for dinner.
-- [Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake): The reservoir loop, Sunset Junction and modernist houses on the hills.
-- [Encino](https://www.nathanielgrivas.com/neighborhoods/encino): Big lots south of Ventura, condos north of it, and the Sepulveda Basin.
-- [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood): The NoHo Arts District and the end of the B Line.
-- [Reseda](https://www.nathanielgrivas.com/neighborhoods/reseda): Big flat lots and some of the most attainable houses in the City of LA.
-- [Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks): Ventura Boulevard, the Galleria and the 405/101 interchange.
-- [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city): The Valley's most walkable stretch of Ventura Boulevard.
-- [Tarzana](https://www.nathanielgrivas.com/neighborhoods/tarzana): Named for Tarzan, with hillside homes and room to spread out.
-- [Valley Village](https://www.nathanielgrivas.com/neighborhoods/valley-village): Quiet streets between Studio City and NoHo.
-- [Van Nuys](https://www.nathanielgrivas.com/neighborhoods/van-nuys): Entry-level houses, real lots and room for an ADU.
-- [Woodland Hills](https://www.nathanielgrivas.com/neighborhoods/woodland-hills): Warner Center, Topanga trails and the Valley's west end.
+## The LA Journal: daily Los Angeles news and openings
+
+- [All entries](https://www.nathanielgrivas.com/journal)
+- [King tides, the Netflix lot deal and a busy holiday weekend](https://www.nathanielgrivas.com/journal/2026-11-26) (2026-11-26): Thanksgiving in LA: record high tides along the coast, trains halted south of Irvine, Netflix buys a historic Studio City lot, and what's on this weekend.
 
 ## Tools
+
 - [Find your place in LA](https://www.nathanielgrivas.com/tools/neighborhood-quiz): Buy, rent, invest or build. Get matched to the right areas.
 - [Transfer tax & mansion tax calculator](https://www.nathanielgrivas.com/tools/transfer-tax): What a sale costs in transfer taxes in LA, Santa Monica, Culver City, Beverly Hills and more.
 - [What will it cost per month?](https://www.nathanielgrivas.com/tools/mortgage): Payment, taxes, insurance and HOA, plus the price your budget really buys.
@@ -146,7 +180,8 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [Compare two neighborhoods](https://www.nathanielgrivas.com/tools/compare): Side by side: rules, schools, price level and what daily life is like.
 - [LA isn't one city](https://www.nathanielgrivas.com/tools/la-rules): Transfer taxes, rent control and schools change at every city line. Here's the map.
 
-## LA Guide
+## Articles
+
 - [Prop TE: Palisades fire sellers can skip LA's mansion tax](https://www.nathanielgrivas.com/guide/prop-te-palisades-mansion-tax-exemption): LA voters approved Proposition TE. Who qualifies, what it saves on a $6M sale, and who still pays Measure ULA in the Palisades.
 - [The 90210 homes that pay LA's mansion tax](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la): Beverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax.
 - [Measure ULA in 2026: what LA's mansion tax actually costs a seller](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026): The 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to.
