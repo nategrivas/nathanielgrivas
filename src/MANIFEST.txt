@@ -10,10 +10,14 @@ src/guide/echo-park.json
 src/guide/fairfax.json
 src/guide/hollywood.json
 src/guide/los-feliz.json
+src/guide/malibu.json
 src/guide/mar-vista.json
+src/guide/marina-del-rey.json
 src/guide/pacific-palisades.json
+src/guide/playa-vista.json
 src/guide/santa-monica.json
 src/guide/silver-lake.json
+src/guide/studio-city.json
 src/guide/venice.json
 src/guide/west-hollywood.json
 src/guide/west-la.json
