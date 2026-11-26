@@ -1,0 +1,16 @@
+src/GUIDE_RUNBOOK.md
+src/MANIFEST.txt
+src/build.py
+src/changed.py
+src/guide/beverly-hills.json
+src/guide/santa-monica.json
+src/guide/silver-lake.json
+src/guide/venice.json
+src/guide_build.py
+src/hoods.py
+src/lamap.py
+src/photos.py
+src/places.py
+src/posts/2026-11-25-90210-city-of-la.html
+src/posts/2026-11-25-measure-ula-2026.html
+src/posts/2026-11-25-prop-te-palisades.html
