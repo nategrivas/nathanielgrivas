@@ -1,0 +1,32 @@
+{"slug": "mar-vista", "updated": "2026-11-26",
+ "intro": "Mar Vista is Venice's quieter neighbor, with a walkable stretch of Venice Boulevard around Grand View, a Sunday farmers market and one of the best Japanese markets on the Westside. Its restaurant scene has grown fast, from Taiwanese comfort food on Grand View to a French bistro on Centinela.",
+ "sources": {
+  "laist": ["LAist: Ask a local, Mar Vista eateries", "https://laist.com/news/food/ask-a-local-mar-vista-eateries"],
+  "to": ["Time Out: A guide to Mar Vista", "https://timeout.com/los-angeles/mar-vista"],
+  "infcas": ["The Infatuation: Best casual restaurants in LA", "https://www.theinfatuation.com/los-angeles/guides/best-casual-restaurants-los-angeles"],
+  "infchez": ["The Infatuation: Chez Mar", "https://www.theinfatuation.com/los-angeles/reviews/chez-mar"],
+  "infsep": ["The Infatuation: Best things we ate in September 2026", "https://www.theinfatuation.com/los-angeles/guides/best-dishes-infatuation-la-september-2026"],
+  "infwest": ["The Infatuation: Westside restaurants worth the drive", "https://www.theinfatuation.com/los-angeles/guides/best-westside-restaurants-for-eastsiders-la"],
+  "towest": ["Time Out: Best restaurants on the Westside", "https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside"],
+  "resy": ["Resy: The restaurants that defined LA dining in 2025", "https://blog.resy.com/2025/12/los-angeles-restaurants-2025/"],
+  "gm": ["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA"]
+ },
+ "places": [
+  {"n": "Alana's Coffee Roasters", "c": ["coffee"], "a": "12511 Venice Blvd", "p": "$", "w": "The neighborhood's coffee hangout, roasting on site with playful drinks and a shaded patio. It has its own small parking lot.", "o": "A cardamom brown sugar latte and a croissant.", "s": ["laist", "to", "gm"]},
+  {"n": "Awaken Cafe", "c": ["coffee"], "a": "3838 S Centinela Ave", "p": "$", "w": "A big, calm cafe with a courtyard and long tables that make it one of the easiest places to work in Mar Vista.", "o": "A latte in the courtyard.", "s": ["gm"]},
+  {"n": "Kind Grounds", "c": ["coffee", "dogs"], "a": "3759 Sawtelle Blvd", "p": "$", "w": "A bright little cafe with a roomy patio, creative matcha drinks and a dog-friendly policy.", "o": "A seasonal matcha or the golden dirty chai.", "s": ["gm"]},
+  {"n": "Saba Coffee Shop", "c": ["coffee"], "a": "12912 Venice Blvd", "p": "$", "w": "A surf-themed cafe and shop with plenty of seating and outlets, plus occasional night markets.", "o": "A matcha latte with salted vanilla cold foam.", "s": ["gm"]},
+  {"n": "Cafe Laurent", "c": ["breakfast", "brunch"], "a": "12034 Venice Blvd", "p": "$$", "w": "A French cafe with a relaxed patio and very large portions.", "o": "The breakfast croissant or the French toast.", "s": ["gm"]},
+  {"n": "Maxine's Cafe", "c": ["breakfast", "cheap"], "a": "13329 Washington Blvd", "p": "$", "w": "A decades-old breakfast counter, formerly Maxwell's, with friendly service and short waits.", "o": "Eggs with the fruit side at the counter.", "s": ["gm"]},
+  {"n": "Blueys", "c": ["lunch", "brunch", "dinner"], "a": "12825 Venice Blvd", "p": "$$", "w": "An airy, open-air cafe named after an Australian surf break. Easy lunches by day and a laid-back dinner with happy hour.", "o": "The Whirley Bowl at lunch, the burger at night. There's no Wi-Fi.", "s": ["laist", "gm"]},
+  {"n": "Beethoven Market", "c": ["brunch", "dinner", "date"], "a": "12904 Palms Blvd", "p": "$$", "w": "Mar Vista's 75-year-old corner grocery, rebuilt into a rustic Italian restaurant with a patio. One of the restaurants that defined LA in 2025.", "o": "The kale chicken salad at brunch, duck pappardelle or a pizza at dinner.", "s": ["resy", "gm"]},
+  {"n": "Little Fatty", "c": ["dinner", "cheap"], "a": "3809 Grand View Blvd", "p": "$$", "w": "Taiwanese comfort food and the Mar Vista default for a weeknight dinner.", "o": "Scallion pancakes and the five-spice pork, then a drink next door at Accomplice.", "s": ["infcas", "to"]},
+  {"n": "Accomplice", "c": ["bars", "date"], "a": "3811 Grand View Blvd", "p": "$$$", "w": "A creative cocktail bar next to Little Fatty, with two back-to-back bars and a menu of a dozen house drinks.", "o": "Sit at the bar and watch the torched cocktails get made. Weekday happy hour.", "s": ["to", "gm"]},
+  {"n": "Chez Mar", "c": ["seafood", "dinner", "date"], "a": "12222 Venice Blvd", "p": "$$$", "w": "A small raw bar and Southern California bistro from the former chef at Dudley Market, and one of the Westside's best new spots.", "o": "Walk in and start at the raw bar.", "s": ["infchez", "infsep"]},
+  {"n": "Electric Bleu", "c": ["dinner", "date", "wine"], "a": "3523 S Centinela Ave", "p": "$$$", "w": "A neighborhood French bistro with an open kitchen counter and a reasonably priced tasting menu.", "o": "Roast chicken and potatoes with the Electric Fries, or the tasting menu at the counter.", "s": ["laist", "gm"]},
+  {"n": "Coni'Seafood", "c": ["seafood", "tacos", "lunch"], "a": "4532 S Centinela Ave", "p": "$$", "w": "Nayarit-style Mexican seafood that people drive across town for.", "o": "Pescado zarandeado to share, plus aguachile and shrimp tacos. Closed Tuesdays.", "s": ["infwest", "towest", "gm"]},
+  {"n": "Mitsuwa Marketplace", "c": ["market", "lunch", "cheap"], "a": "3760 S Centinela Ave", "p": "$", "w": "A Japanese supermarket with a busy food court and a bookstore full of manga and stationery.", "o": "Ramen or tempura in the food court, then snacks and mochi from the market.", "s": ["to", "gm"]},
+  {"n": "Tacos Mar Vista", "c": ["tacos", "cheap"], "a": "3760 S Centinela Ave", "p": "$", "w": "A red taco truck in front of Mitsuwa known for loaded quesabirria with plenty of consommé.", "o": "The mini quesabirria tacos. Daytime only, closed Sundays.", "s": ["gm"]},
+  {"n": "Mar Vista Farmers Market", "c": ["market", "kids"], "a": "Grand View Blvd and Venice Blvd", "p": "Free", "w": "A Sunday morning market with produce, flowers, prepared food, music and kids' activities.", "o": "Go early for produce and stay for empanadas.", "s": ["to"]},
+  {"n": "Mar Vista Recreation Center", "c": ["park", "kids", "fitness"], "a": "11430 Woodbine St", "p": "Free", "w": "The neighborhood's big park, with a pool, tennis and basketball courts, a roller hockey rink, ball fields and shaded picnic areas.", "o": "Swim in the warm months or play tennis.", "s": ["gm"]}
+ ]}
