@@ -1,0 +1,43 @@
+{
+ "slug": "bhpo",
+ "updated": "2026-11-26",
+ "intro": "Beverly Hills Post Office is the hillside area above the city of Beverly Hills, covering Benedict, Coldwater and Franklin canyons. It is mostly residential, with some of the best quick escapes into nature on the Westside.",
+ "sources": {
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Beverly+Hills+Post+Office+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Franklin Canyon Park",
+   "c": [
+    "hike",
+    "park",
+    "kids",
+    "dogs"
+   ],
+   "a": "2600 Franklin Canyon Dr",
+   "p": "Free",
+   "w": "A quiet canyon park with a lake and duck pond, shady trails and old-growth trees, minutes from Beverly Hills.",
+   "o": "Walk the lake loop and look for turtles in the pond. Drive slowly; there are stop-sign cameras.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "TreePeople (Coldwater Canyon Park)",
+   "c": [
+    "hike",
+    "park"
+   ],
+   "a": "12601 Mulholland Dr",
+   "p": "Free",
+   "w": "A well-kept forested park with wide trails and city and Valley views, run by a nonprofit.",
+   "o": "Join a guided moonlight hike.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

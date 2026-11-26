@@ -1,0 +1,108 @@
+{
+ "slug": "pico-robertson",
+ "updated": "2026-11-26",
+ "intro": "Pico-Robertson centers on the busy crossroads of Pico and Robertson Boulevards just south of Beverly Hills, with LA's biggest cluster of kosher restaurants, bakeries and markets plus a few destination dining rooms.",
+ "sources": {
+  "to": [
+   "Time Out: The best restaurants on the Westside",
+   "https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside"
+  ],
+  "loc": [
+   "Locale: The hottest new restaurants in LA",
+   "https://localemagazine.com/hottest-new-restaurants-in-los-angeles/"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Supa Coffee",
+   "c": [
+    "coffee"
+   ],
+   "a": "1173 S Robertson Blvd",
+   "p": "$",
+   "w": "A small, friendly coffee and boba shop with house-made syrups.",
+   "o": "A caramel latte or one of the seasonal specials.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Lamalo Cafe",
+   "c": [
+    "breakfast",
+    "bakery",
+    "lunch"
+   ],
+   "a": "8837 W Pico Blvd",
+   "p": "$$",
+   "w": "A kosher bakery and cafe with excellent croissants, sourdough and beautifully plated breakfasts. Closed Saturdays.",
+   "o": "The chocolate chip miso cookie and an egg breakfast.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Sei Pizza Bar",
+   "c": [
+    "pizza",
+    "dinner"
+   ],
+   "a": "8781 W Pico Blvd",
+   "p": "$$",
+   "w": "A small pizza bar with an open kitchen, soft and airy crust, and creative toppings. Tables are hard to get.",
+   "o": "The funghi or diavola, and save room for the tiramisu.",
+   "s": [
+    "to",
+    "gm"
+   ]
+  },
+  {
+   "n": "Lenny's Casita",
+   "c": [
+    "dinner",
+    "tacos",
+    "bars"
+   ],
+   "a": "8823 W Pico Blvd",
+   "p": "$$",
+   "w": "A lively kosher Mexican restaurant with inventive cocktails and mocktails.",
+   "o": "Tacos, the taquitos and a margarita.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Formaggi",
+   "c": [
+    "pizza",
+    "dinner"
+   ],
+   "a": "8832 W Pico Blvd",
+   "p": "$$",
+   "w": "A kosher dairy spot for thin-crust sourdough pizza and house-made pasta.",
+   "o": "A margherita and the arancini.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Lielle",
+   "c": [
+    "date",
+    "dinner"
+   ],
+   "a": "9575 W Pico Blvd",
+   "p": "$$$$",
+   "w": "A Michelin-recognized restaurant serving a seasonal four-course prix fixe.",
+   "o": "Book well ahead for a special occasion.",
+   "s": [
+    "loc",
+    "gm"
+   ]
+  }
+ ]
+}

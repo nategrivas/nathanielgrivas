@@ -1,0 +1,58 @@
+{
+ "slug": "bel-air",
+ "updated": "2026-11-26",
+ "intro": "Bel Air is a quiet, gated hillside enclave of winding canyon roads north of Sunset, home to the storied Hotel Bel-Air, with a small village of shops at Beverly Glen Circle up the canyon.",
+ "sources": {
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "The Restaurant at Hotel Bel-Air",
+   "c": [
+    "date",
+    "dinner",
+    "brunch",
+    "bars"
+   ],
+   "a": "701 Stone Canyon Rd",
+   "p": "$$$$",
+   "w": "A garden dining room at the famous hotel, next to the swan pond, with live jazz at the bar some nights.",
+   "o": "Brunch on the patio, then walk the grounds to see the swans.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Il Segreto",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "2932 Beverly Glen Cir",
+   "p": "$$$",
+   "w": "A warm Italian restaurant at the Beverly Glen Circle shopping center up the canyon.",
+   "o": "The zucchini souffle and the truffle pizza.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Skirball Cultural Center",
+   "c": [
+    "museum",
+    "kids",
+    "music"
+   ],
+   "a": "2701 N Sepulveda Blvd",
+   "p": "$$",
+   "w": "A cultural center and museum with rotating exhibits, a famous Noah's Ark play space for kids and summer concerts.",
+   "o": "Bring kids to Noah's Ark; parking is free.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}
