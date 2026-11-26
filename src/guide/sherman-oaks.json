@@ -1,0 +1,191 @@
+{
+ "slug": "sherman-oaks",
+ "updated": "2026-11-26",
+ "intro": "Sherman Oaks has the Valley's busiest stretch of Ventura Boulevard, lined with restaurants, coffee shops and bars from the 405 east toward Studio City, plus easy access to the Santa Monica Mountains to the south.",
+ "sources": {
+  "inf": [
+   "The Infatuation: Sherman Oaks",
+   "https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-sherman-oaks"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Ideology Coffee",
+   "c": [
+    "coffee"
+   ],
+   "a": "14622 Ventura Blvd, Ste 116",
+   "p": "$",
+   "w": "A bright specialty coffee bar with good pastries and a few patio tables.",
+   "o": "A flat white or cortado with an almond croissant.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Petit Trois Le Valley",
+   "c": [
+    "breakfast",
+    "brunch",
+    "date"
+   ],
+   "a": "13705 Ventura Blvd",
+   "p": "$$$",
+   "w": "Ludo Lefebvre's French brasserie, at its best in the morning.",
+   "o": "The breakfast sandwich, an omelet and croissants.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Borekas Sephardic Pastries",
+   "c": [
+    "bakery",
+    "breakfast",
+    "cheap"
+   ],
+   "a": "15030 Ventura Blvd, Suite 25",
+   "p": "$",
+   "w": "A tiny takeout window for flaky stuffed bourekas.",
+   "o": "The cheese bourekas. Go early before they sell out.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Sincerely Syria",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "14518 Ventura Blvd",
+   "p": "$",
+   "w": "A counter-service shawarma spot.",
+   "o": "The chicken shawarma wrap in thin, crisp pita.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Mizlala",
+   "c": [
+    "lunch",
+    "healthy",
+    "dinner"
+   ],
+   "a": "4515 Sepulveda Blvd",
+   "p": "$$",
+   "w": "A bright, casual Mediterranean restaurant.",
+   "o": "Sumac fries, Moroccan chicken and a tahini shake.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Anajak Thai",
+   "c": [
+    "dinner",
+    "date",
+    "wine"
+   ],
+   "a": "14704 Ventura Blvd",
+   "p": "$$",
+   "w": "A family-run Thai restaurant that ranks among the best in LA, with a big natural wine list.",
+   "o": "Southern Thai fried chicken, or Thai taco night on Tuesdays.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Mistral",
+   "c": [
+    "date",
+    "dinner"
+   ],
+   "a": "13422 Ventura Blvd",
+   "p": "$$$",
+   "w": "A decades-old French bistro, recently reopened.",
+   "o": "French onion soup and the garlic confit caesar.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Sushi Note",
+   "c": [
+    "sushi",
+    "wine",
+    "date"
+   ],
+   "a": "13447 Ventura Blvd",
+   "p": "$$$$",
+   "w": "A sushi bar with a serious wine program.",
+   "o": "The omakase.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "BLVD Steak",
+   "c": [
+    "dinner",
+    "date",
+    "bars"
+   ],
+   "a": "13817 Ventura Blvd",
+   "p": "$$$$",
+   "w": "A classic steakhouse with ice-cold martinis.",
+   "o": "A filet at the bar.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Daisy Margarita Bar",
+   "c": [
+    "bars",
+    "latenight"
+   ],
+   "a": "14633 Ventura Blvd",
+   "p": "$$",
+   "w": "A high-energy cantina known for inventive margaritas.",
+   "o": "The salsa verde margarita.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Game Changer Brewhouse",
+   "c": [
+    "sports",
+    "beer",
+    "bars"
+   ],
+   "a": "13730 Ventura Blvd",
+   "p": "$$",
+   "w": "A brewpub built for watching games, with big screens everywhere.",
+   "o": "Wings and a house beer. Book ahead for big games.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Sherman Oaks Castle Park",
+   "c": [
+    "kids",
+    "golf"
+   ],
+   "a": "4989 Sepulveda Blvd",
+   "p": "$",
+   "w": "Three castle-themed mini golf courses plus batting cages and an arcade, open since 1974.",
+   "o": "A round of mini golf at night.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

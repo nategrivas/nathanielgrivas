@@ -1,0 +1,309 @@
+{
+ "slug": "east-hollywood",
+ "updated": "2026-11-26",
+ "intro": "East Hollywood takes in Thai Town, Little Armenia, Virgil Village and the Melrose Hill strip, between Hollywood and Los Feliz. It is one of the deepest eating neighborhoods in LA, with some of the city's best Thai cooking, a run of chef-driven spots on Melrose and a few great small bars.",
+ "sources": {
+  "inf": [
+   "The Infatuation: East Hollywood",
+   "https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=East+Hollywood+Los+Angeles+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Courage Bagels",
+   "c": [
+    "breakfast",
+    "bakery"
+   ],
+   "a": "777 N Virgil Ave",
+   "p": "$",
+   "w": "Crackly, deeply browned bagels that draw a morning line and can sell out.",
+   "o": "The burnt everything bagel with salmon. Go before 10am.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Hollywood Coffee House",
+   "c": [
+    "coffee"
+   ],
+   "a": "4972 Hollywood Blvd",
+   "p": "$",
+   "w": "A roomy neighborhood cafe in a converted industrial space, with a calm back area for working.",
+   "o": "A shaken espresso.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Sapp Coffee Shop",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "5183 Hollywood Blvd",
+   "p": "$",
+   "w": "Despite the name, a no-frills Thai noodle shop that ranks among the best Thai restaurants in LA.",
+   "o": "Boat noodle soup and the jade noodles.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Roasted Duck by Pa Ord",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "5136 Hollywood Blvd",
+   "p": "$",
+   "w": "A Thai noodle shop built around glazed roast duck.",
+   "o": "The duck special with garlicky jade noodles.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Heng Heng Chicken Rice",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "5420 Hollywood Blvd",
+   "p": "$",
+   "w": "A focused Thai counter for Hainan-style chicken rice.",
+   "o": "Chicken rice plus the crispy zaab chicken to share.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Amphai Northern Thai Food Club",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "5301 Sunset Blvd #11",
+   "p": "$",
+   "w": "A tiny Northern Thai spot in a strip mall, great for a solo lunch.",
+   "o": "Khao soi and the sai oua sausage.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Ggiata Delicatessen",
+   "c": [
+    "lunch"
+   ],
+   "a": "5009 Melrose Ave",
+   "p": "$$",
+   "w": "Big Italian-American subs and breakfast sandwiches.",
+   "o": "Meatball parm or the chicken cutlet with vodka sauce.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Kuya Lord",
+   "c": [
+    "lunch",
+    "dinner"
+   ],
+   "a": "5003 Melrose Ave",
+   "p": "$$",
+   "w": "A Filipino grill whose big trays are built for sharing with a group.",
+   "o": "A tapsilog tray or the lucenachon rice bowl.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Bridgetown Roti",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "850 N Vermont Ave",
+   "p": "$",
+   "w": "A fast-casual Caribbean counter with big flavors.",
+   "o": "Goat roti, plantains and the curry mac and cheese.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Little Fish",
+   "c": [
+    "seafood",
+    "lunch",
+    "dinner"
+   ],
+   "a": "5035 Melrose Ave",
+   "p": "$$",
+   "w": "A small seafood cafe: sandwiches by day, a more ambitious menu at night.",
+   "o": "A tuna melt at lunch or scallop crudo at dinner.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Jitlada",
+   "c": [
+    "dinner"
+   ],
+   "a": "5233 W Sunset Blvd",
+   "p": "$$",
+   "w": "A Thai Town institution known for fiery Southern Thai cooking.",
+   "o": "The crispy catfish salad and stir-fried garlic crab.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Ruen Pair",
+   "c": [
+    "latenight",
+    "dinner"
+   ],
+   "a": "5257 Hollywood Blvd",
+   "p": "$",
+   "w": "A late-night Thai Town standby that is best for stir-fries.",
+   "o": "Crispy catfish with basil.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Sabores Oaxaqueños",
+   "c": [
+    "tacos",
+    "dinner"
+   ],
+   "a": "5520 Santa Monica Blvd",
+   "p": "$$",
+   "w": "Oaxacan cooking anchored by a smoky goat birria.",
+   "o": "The oversized goat birria taco and a tlayuda to share.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Marouch",
+   "c": [
+    "dinner"
+   ],
+   "a": "4905 Santa Monica Blvd",
+   "p": "$$",
+   "w": "A family-run Lebanese and Armenian restaurant in Little Armenia.",
+   "o": "A spread of mezze including muhammara and sujuk.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Saffy's",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "4845 Fountain Ave",
+   "p": "$$$",
+   "w": "A wood-fired Middle Eastern kebab house from the team behind Bavel and Bestia.",
+   "o": "Hummus, then a big kebab platter for the table.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Found Oyster",
+   "c": [
+    "seafood",
+    "date",
+    "dinner"
+   ],
+   "a": "4880 Fountain Ave",
+   "p": "$$$",
+   "w": "A small, buzzing raw bar with excellent oysters.",
+   "o": "Oysters, the crab dip and the big seafood platter.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Ètra",
+   "c": [
+    "date",
+    "dinner"
+   ],
+   "a": "737 N Western Ave",
+   "p": "$$$",
+   "w": "A candlelit Italian room with a focus on grilled meats.",
+   "o": "The salt-and-pepper New York strip.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Flavors From Afar",
+   "c": [
+    "dinner"
+   ],
+   "a": "5652 Hollywood Blvd",
+   "p": "$$",
+   "w": "Rotating dinners cooked by refugee and immigrant chefs, often with live jazz.",
+   "o": "Check the schedule and go for a themed dinner night.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Budonoki",
+   "c": [
+    "bars",
+    "dinner"
+   ],
+   "a": "654 N Virgil Ave",
+   "p": "$$",
+   "w": "A lively izakaya with shochu cocktails and shareable plates.",
+   "o": "Thai sausage and the wagyu yakisoba.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Bar Etoile",
+   "c": [
+    "wine",
+    "bars",
+    "date"
+   ],
+   "a": "632 N Western Ave",
+   "p": "$$",
+   "w": "A cozy French wine bar with a short, satisfying menu.",
+   "o": "Steak frites and the gruyere tart.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Real Charmer",
+   "c": [
+    "bars",
+    "latenight"
+   ],
+   "a": "864 N Virgil Ave",
+   "p": "$$",
+   "w": "A stylish little cocktail bar in Virgil Village with a smoking patio.",
+   "o": "A house cocktail; Mondays bring a tiki menu.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

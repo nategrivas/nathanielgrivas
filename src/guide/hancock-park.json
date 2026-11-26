@@ -1,0 +1,121 @@
+{
+ "slug": "hancock-park",
+ "updated": "2026-11-26",
+ "intro": "Hancock Park is a historic neighborhood of 1920s homes and tree-lined streets. Larchmont Village, its small walkable main street, is where locals go for sandwiches, books and errands, and Melrose Avenue on the north edge adds some of the city's best Italian restaurants.",
+ "sources": {
+  "inf": [
+   "The Infatuation: Hollywood",
+   "https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood"
+  ],
+  "to": [
+   "Time Out: Larchmont Boulevard",
+   "https://www.timeout.com/los-angeles/things-to-do/la-city-guide-a-tour-of-larchmont-boulevard-in-hancock-park"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Larchmont Village Wine, Spirits & Cheese",
+   "c": [
+    "lunch",
+    "wine"
+   ],
+   "a": "223 N Larchmont Blvd",
+   "p": "$$",
+   "w": "A wine and cheese shop with a sandwich counter that draws a lunch line. Closed Sundays.",
+   "o": "A made-to-order Italian sandwich.",
+   "s": [
+    "to",
+    "gm"
+   ]
+  },
+  {
+   "n": "Louise's Trattoria",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "232 N Larchmont Blvd",
+   "p": "$$",
+   "w": "A long-running neighborhood Italian restaurant on Larchmont.",
+   "o": "A pasta and the tiramisu.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Osteria Mamma",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "5732 Melrose Ave",
+   "p": "$$",
+   "w": "A warm, family-run Italian osteria with house-made pasta.",
+   "o": "Squid ink pasta and tiramisu.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Pizzeria Mozza",
+   "c": [
+    "pizza",
+    "dinner"
+   ],
+   "a": "641 N Highland Ave",
+   "p": "$$$",
+   "w": "Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.",
+   "o": "A seasonal pizza and the butterscotch budino.",
+   "s": [
+    "inf",
+    "gm"
+   ]
+  },
+  {
+   "n": "Osteria Mozza",
+   "c": [
+    "date",
+    "dinner"
+   ],
+   "a": "6602 Melrose Ave",
+   "p": "$$$$",
+   "w": "Nancy Silverton's sit-down Italian dining room, with a mozzarella bar.",
+   "o": "Something from the mozzarella bar, then pasta.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Chi Spacca",
+   "c": [
+    "date",
+    "dinner"
+   ],
+   "a": "6610 Melrose Ave",
+   "p": "$$$$",
+   "w": "The meat-focused member of the Mozza group, built around big cuts and house charcuterie.",
+   "o": "A large-format steak to share.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Chevalier's Books",
+   "c": [
+    "shop",
+    "kids"
+   ],
+   "a": "133 N Larchmont Blvd",
+   "p": "$$",
+   "w": "A well-curated independent bookstore on Larchmont with a cozy kids' section.",
+   "o": "Browse the staff picks.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

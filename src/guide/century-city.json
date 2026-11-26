@@ -1,0 +1,105 @@
+{
+ "slug": "century-city",
+ "updated": "2026-11-26",
+ "intro": "Century City is the Westside's office and shopping district, built on former 20th Century Fox backlot land between Beverly Hills and West LA. Most of the eating and entertainment centers on Westfield Century City and the towers along Avenue of the Stars.",
+ "sources": {
+  "ot": [
+   "OpenTable diner reviews: Century City",
+   "https://www.opentable.com/lists/top-picks-century-city-restaurants-los-angeles"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA"
+  ]
+ },
+ "places": [
+  {
+   "n": "Clementine",
+   "c": [
+    "breakfast",
+    "bakery",
+    "lunch",
+    "coffee"
+   ],
+   "a": "1751 Ensley Ave",
+   "p": "$$",
+   "w": "A neighborhood bakery cafe with pastries, sandwiches and a small patio off Santa Monica Boulevard.",
+   "o": "A pastry and coffee, or a sandwich at lunch.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Javier's",
+   "c": [
+    "dinner",
+    "bars"
+   ],
+   "a": "10250 Santa Monica Blvd (Westfield Century City)",
+   "p": "$$$",
+   "w": "An upscale Mexican restaurant with a lively bar.",
+   "o": "Crab enchiladas and a margarita.",
+   "s": [
+    "ot"
+   ]
+  },
+  {
+   "n": "Toscanova",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "10250 Santa Monica Blvd (Westfield Century City)",
+   "p": "$$$",
+   "w": "A Tuscan trattoria from chef Agostino Sciandri.",
+   "o": "Fresh pasta and a glass of Italian red.",
+   "s": [
+    "ot"
+   ]
+  },
+  {
+   "n": "Hinoki & the Bird",
+   "c": [
+    "date",
+    "dinner",
+    "lunch"
+   ],
+   "a": "10 W Century Dr",
+   "p": "$$$",
+   "w": "A Japanese-influenced California restaurant tucked under a residential tower, with a leafy patio.",
+   "o": "The black cod and a cocktail on the patio.",
+   "s": [
+    "ot",
+    "gm"
+   ]
+  },
+  {
+   "n": "Bar Verde",
+   "c": [
+    "lunch"
+   ],
+   "a": "Nordstrom, Westfield Century City",
+   "p": "$$",
+   "w": "Nordstrom's in-store restaurant and bar, an easy sit-down break while shopping.",
+   "o": "Lunch and a glass of wine mid-shopping.",
+   "s": [
+    "ot"
+   ]
+  },
+  {
+   "n": "Westfield Century City",
+   "c": [
+    "shop",
+    "film",
+    "market"
+   ],
+   "a": "10250 Santa Monica Blvd",
+   "p": "$$",
+   "w": "A big open-air mall with a movie theater, a food hall and Eataly's multi-level Italian market.",
+   "o": "Go on a weekday; weekend parking gets slow.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}
