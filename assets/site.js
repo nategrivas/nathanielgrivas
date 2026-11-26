@@ -294,3 +294,38 @@
     });
   });
 })();
+
+// Satellite maps: the Google satellite view loads when the map scrolls near the screen; until then a real aerial photo holds its place.
+(() => {
+  const boxes = document.querySelectorAll('.sat[data-sat]');
+  if (!boxes.length) return;
+  const load = (box) => {
+    if (box.dataset.on) return;
+    box.dataset.on = '1';
+    const f = document.createElement('iframe');
+    f.src = box.dataset.sat; f.title = 'Satellite map'; f.loading = 'lazy'; f.allowFullscreen = true;
+    f.referrerPolicy = 'no-referrer-when-downgrade';
+    f.addEventListener('load', () => box.classList.add('live'));
+    box.appendChild(f);
+  };
+  if (!('IntersectionObserver' in window)) { boxes.forEach(load); return; }
+  const io = new IntersectionObserver((ents) => ents.forEach((en) => {
+    if (en.isIntersecting) { load(en.target); io.unobserve(en.target); }
+  }), { rootMargin: '500px 0px' });
+  boxes.forEach((b) => io.observe(b));
+})();
+
+// Neighborhood page: highlight the section you're reading in the sticky bar.
+(() => {
+  const bar = document.querySelector('.nb-sub');
+  if (!bar || !('IntersectionObserver' in window)) return;
+  const links = [...bar.querySelectorAll('a[href^="#"]')];
+  const map = new Map(links.map((a) => [a.getAttribute('href').slice(1), a]));
+  const io = new IntersectionObserver((ents) => ents.forEach((en) => {
+    if (!en.isIntersecting) return;
+    links.forEach((a) => a.removeAttribute('aria-current'));
+    const a = map.get(en.target.id);
+    if (a) { a.setAttribute('aria-current', 'true'); a.scrollIntoView({ block: 'nearest', inline: 'nearest' }); }
+  }), { rootMargin: '-45% 0px -50% 0px' });
+  map.forEach((_, id) => { const s = document.getElementById(id); if (s) io.observe(s); });
+})();
