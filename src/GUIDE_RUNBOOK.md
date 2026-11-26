@@ -97,3 +97,11 @@ after uploading.
    more before committing). Run find again after every page load: element refs change. Commit
    straight to main. Vercel deploys in about 30s.
 7. Upload any changed src files the same way (src, src/guide), and add new paths to MANIFEST.txt.
+
+## Site v8 notes (Nov 26, 2026)
+- Light editorial theme (assets/style.css, v8 block at the end). Dark is kept for the home hero, the films, photo overlays and the footer.
+- Every page has a plain-text twin next to it (page.md). When you upload a folder, upload the .md files with the .html files in the same commit.
+- llms.txt, llms-full.txt, robots.txt and the IndexNow key file are built at the root. Upload them with the root files.
+- Google reviews live in src/v8.py (REVIEWS). When a new Google review appears, add it there, rebuild and upload everything that changed.
+- Neighborhood satellite maps are Google Maps embeds (satellite view) that load on scroll; aerial photos come from USGS (public domain).
+- GitHub upload: after clicking Commit changes, wait for "Processing your files" to finish before leaving the page, or the commit is lost.
