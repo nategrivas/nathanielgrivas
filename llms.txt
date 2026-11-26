@@ -39,6 +39,10 @@ Full text version of the homepage, with listings and services: https://www.natha
 - [West LA & Sawtelle guide](https://www.nathanielgrivas.com/guide/west-la): 25 restaurants, coffee shops, bars and things to do
 - [Westwood guide](https://www.nathanielgrivas.com/guide/westwood): 21 restaurants, coffee shops, bars and things to do
 
+## The LA Journal: daily Los Angeles news and openings
+- [All entries](https://www.nathanielgrivas.com/journal)
+- [King tides, the Netflix lot deal and a busy holiday weekend](https://www.nathanielgrivas.com/journal/2026-11-26) (2026-11-26): Thanksgiving in LA: record high tides along the coast, trains halted south of Irvine, Netflix buys a historic Studio City lot, and what's on this weekend.
+
 ## The LA Guide: best of LA by category
 - [Best coffee shops in LA](https://www.nathanielgrivas.com/guide/best/coffee)
 - [Best breakfast in LA](https://www.nathanielgrivas.com/guide/best/breakfast)
