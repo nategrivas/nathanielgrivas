@@ -20,9 +20,9 @@ Sold for $3,275,000
 
 **2016** Built
 
-A three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000, representing both the seller and the buyer.
+A three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000 with seller financing, representing both the sellers and the buyer.
 
-Call 310-269-5541
+Get a result like this Call 310-269-5541
 
 [View on Compass ↗](https://www.compass.com/homedetails/616-N-Fuller-Ave-Los-Angeles-CA-90036/2072900371372293281_lid/)
 
@@ -30,7 +30,9 @@ The home
 
 A 2016 modern home on a 7,334 sq ft lot in the Fairfax District: seven bedrooms, eight baths and three levels, with a pool.
 
-I represented both the seller and the buyer and closed it in October 2026 for $3,275,000.
+I structured the sale with seller financing: the sellers carried the loan, so my buyer closed at $3,275,000 without a bank. It took a creative structure, firm protections for the sellers and a lot of coordination, and it closed in October 2026.
+
+I represented both the sellers and the buyer. Deals like this are why I say complicated is fine. If the numbers only work with a creative structure, bring it to me and I'll figure it out.
 
 Also featured
 
@@ -38,33 +40,62 @@ Also featured
 
 [For sale · $4,800,000 3721 Evans St WA brand-new modern compound in Los Feliz: a five-bedroom main house and a three-bedroom ADU, each with its own rooftop lounge. Watch the film →](https://www.nathanielgrivas.com/homes/3721-evans)
 
-Reviews
+What you get
 
-## What sellers say
+## Creative deals, real resources
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+Seller financing, off-market buyers, lenders for every situation and a $100M+ team behind every deal.
 
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
+### Off-market and coming-soon homes
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow.
 
-“He was professional, timely, persistent and patient in helping get the sale closed.”
+### Lenders for every kind of buyer
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on.
 
-Contact
+### Creative deal structures
+
+Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan.
+
+### Developers and builders
+
+Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking.
+
+### The right people for every step
+
+Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need.
+
+### Complicated is fine
+
+Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out.
+
+[What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
+
+From this sale
+
+## What my sellers said
+
+[5.0 Read it on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+
+“My team and I had the opportunity to work with Nate representing us in a sale of a property in Los Angeles. He was professional, timely, persistent and patient in helping get the sale closed. We look forward to working with him again on other transactions.”
+
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026
+
+Free, no obligation
 
 ## Want a result like this?
 
-Thinking about selling, or looking for a home like this in the Fairfax District? Tell me what you're after.
+Find out what your home is worth, or tell me what you're looking for. Creative deals welcome.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

@@ -22,7 +22,7 @@ Sold for $1,155,000
 
 A half-acre lot in Reseda that I marketed to developers as a land play. Multiple offers came in the first week, and I sold it for $1,155,000, $156,000 over asking.
 
-Call 310-269-5541
+Get a result like this Call 310-269-5541
 
 [View on Compass ↗](https://www.compass.com/homedetails/18748-Lanark-St-Los-Angeles-CA-91335/2169982850442083505_lid/)
 
@@ -55,6 +55,38 @@ Drone view of 18748 Lanark St showing the open land behind the house. Drone phot
 
 Satellite view. [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=18748+Lanark+St%2C+Reseda%2C+CA+91335)
 
+What you get
+
+## One call. The whole network.
+
+Buying, selling or investing, you get more than an agent. You get every resource it takes to close, on any deal, however complicated.
+
+### Off-market and coming-soon homes
+
+Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow.
+
+### Lenders for every kind of buyer
+
+Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on.
+
+### Creative deal structures
+
+Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan.
+
+### Developers and builders
+
+Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking.
+
+### The right people for every step
+
+Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need.
+
+### Complicated is fine
+
+Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out.
+
+[What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
+
 From this sale
 
 ## What my sellers said
@@ -75,19 +107,20 @@ Track record
 
 [Leased $3,400 /mo1127 Glenville Dr #2 Pico-RobertsonRepresented tenant & landlord](https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/)
 
-Contact
+Free, no obligation
 
 ## Own a lot builders would want?
 
 Send me the address. I'll pull the zoning and the land comps and tell you what a developer would pay.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

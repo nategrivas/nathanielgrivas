@@ -42,35 +42,68 @@ Also featured
 
 ## [616 N Fuller Ave](https://www.nathanielgrivas.com/homes/616-fuller)
 
-[Sold · $3,275,000 616 N Fuller AveA three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000, representing both the seller and the buyer. Watch the film →](https://www.nathanielgrivas.com/homes/616-fuller)
+[Sold · $3,275,000 616 N Fuller AveA three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000 with seller financing, representing both the sellers and the buyer. Watch the film →](https://www.nathanielgrivas.com/homes/616-fuller)
+
+What you get
+
+## Creative deals, real resources
+
+Seller financing, off-market buyers, lenders for every situation and a $100M+ team behind every deal.
+
+### Off-market and coming-soon homes
+
+Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow.
+
+### Lenders for every kind of buyer
+
+Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on.
+
+### Creative deal structures
+
+Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan.
+
+### Developers and builders
+
+Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking.
+
+### The right people for every step
+
+Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need.
+
+### Complicated is fine
+
+Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out.
+
+[What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
 
 Reviews
 
-## What sellers say
+## What clients say
 
 [5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
-Contact
+Free, no obligation
 
-## Let's talk
+## Want a home like this?
 
-Questions about this home, or looking for something like it? Send me a note.
+Tell me what you're looking for and I'll send homes that fit, including off-market ones. Or ask me about this one.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
