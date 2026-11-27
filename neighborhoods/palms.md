@@ -34,11 +34,13 @@ Palms is one of the oldest neighborhoods on LA's Westside, founded in 1886 and a
 
 Call Text
 
-From above
+The map
 
-## Palms by satellite
+## Palms, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Palms%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get Palms listings
 Local LA
 
 ## Where to eat, drink and go in Palms
+
+See them on the map →
 
 Palms sits between Culver City and West LA, a dense grid of apartments and strip malls along Venice, National and Motor, with some of the Westside's best casual cooking and the Expo Line close by.
 
@@ -81,7 +85,7 @@ Coffee
 
 $
 
-Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 10117 Washington Blvd
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.7 mi · 10117 Washington Blvd
 
 A decades-old roaster with a cult following, an eclectic room full of tins and instruments, and a line out the door.
 
@@ -91,19 +95,19 @@ A decades-old roaster with a cult following, an eclectic room full of tins and i
 
 Coffee
 
-### Leilo Coffee
+### S&W Country Diner
 
 $
 
-Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 10606 Culver Blvd
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.8 mi · 9748 Washington Blvd
 
-A calm, minimal new cafe with carefully made espresso and creative matcha.
+A cash-only greasy spoon with platter-sized pancakes.
 
-**Order:** The snow matcha or an almond milk latte with avocado toast.
+**Order:** Biscuits and gravy or country fried steak.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Leilo+Coffee+10606+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=S%26W+Country+Diner+9748+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants)
 
-Coffee
+Breakfast Cheap eats
 
 Eat
 
@@ -127,7 +131,7 @@ Lunch Breakfast Cheap eats
 
 $$$
 
-Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 9300 Culver Blvd
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.0 mi · 9300 Culver Blvd
 
 A polished hearth-cooking restaurant downtown, good for a business lunch.
 
@@ -137,19 +141,19 @@ A polished hearth-cooking restaurant downtown, good for a business lunch.
 
 Lunch Dinner
 
-### Jackson Market and Deli
+### Lonzo's
 
 $$
 
-Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 4065 Jackson Ave
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.8 mi · 10804 Washington Blvd
 
-A hidden neighborhood market with great sandwiches and a patio with a koi pond.
+A Peruvian bakery and cevicheria with a patio.
 
-**Order:** A deli sandwich on the pond patio. Wood-fired pizza Thursday through Sunday.
+**Order:** Lomo saltado and a ceviche.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Jackson+Market+and+Deli+4065+Jackson+Ave+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lonzo%27s+10804+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
 
-Lunch
+Lunch Seafood
 
 **Love Palms? Live here.** Get new Palms listings, including off-market ones, or a free value on your Palms home.
 
@@ -251,7 +255,7 @@ Cocktail bars & lounges Date night
 
 $$
 
-Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 2.1 mi · 11700 National Blvd
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 1.6 mi · 11700 National Blvd
 
 A classy cocktail lounge with a small dance floor and local DJs on weekends.
 

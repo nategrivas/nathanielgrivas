@@ -24,6 +24,10 @@
    "o": "A strawberry matcha or an iced mocha.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.15738,
+    -118.49435
    ]
   },
   {
@@ -39,6 +43,10 @@
    "s": [
     "inf",
     "gm"
+   ],
+   "ll": [
+    34.15783,
+    -118.49369
    ]
   },
   {
@@ -53,6 +61,10 @@
    "o": "Prime rib or a ribeye with a baked potato.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.15635,
+    -118.48411
    ]
   },
   {
@@ -68,6 +80,10 @@
    "o": "A fish main with the sides, and the bread with za'atar butter.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.16504,
+    -118.52571
    ]
   },
   {
@@ -83,6 +99,10 @@
    "o": "Come on the third Sunday of the month for the blacksmith demonstration.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.16038,
+    -118.49818
    ]
   }
  ]

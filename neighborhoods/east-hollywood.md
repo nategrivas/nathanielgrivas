@@ -34,11 +34,13 @@ East Hollywood is a City of LA neighborhood between Hollywood, Los Feliz and Sil
 
 Call Text
 
-From above
+The map
 
-## East Hollywood by satellite
+## East Hollywood, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=East+Hollywood%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get East Hollywood listings
 Local LA
 
 ## Where to eat, drink and go in East Hollywood
+
+See them on the map →
 
 East Hollywood takes in Thai Town, Little Armenia, Virgil Village and the Melrose Hill strip, between Hollywood and Los Feliz. It is one of the deepest eating neighborhoods in LA, with some of the city's best Thai cooking, a run of chef-driven spots on Melrose and a few great small bars.
 
@@ -91,19 +95,19 @@ A roomy neighborhood cafe in a converted industrial space, with a calm back area
 
 Coffee
 
-### All Time
+### Handles Coffee
 
-$$$
+$
 
-Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 1.2 mi · 2040 Hillhurst Ave
+Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 0.7 mi · 4459 Sunset Blvd
 
-A mostly outdoor all-day spot built on seasonal produce. Breakfast is casual; dinner gets lively.
+A two-story cafe at the bottom of Los Feliz with strong, espresso-heavy drinks and a friendly counter.
 
-**Order:** A breakfast burrito by day, the dry-aged steak and a leafy salad at night.
+**Order:** The house flat white with sweet cream. Card only.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=All+Time+2040+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Handles+Coffee+4459+Sunset+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [Discover Los Angeles](https://www.discoverlosangeles.com/eat-drink/coffee-lovers-in-la) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
-Brunch Dinner Lunch
+Coffee
 
 Eat
 

@@ -26,6 +26,10 @@
    "o": "The four-course tasting menu, or happy hour at the bar.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.16699,
+    -118.59451
    ]
   },
   {
@@ -42,6 +46,10 @@
    "s": [
     "inf",
     "gm"
+   ],
+   "ll": [
+    34.16777,
+    -118.5981
    ]
   },
   {
@@ -55,6 +63,10 @@
    "o": "Browse The Open Book, then grab lunch on the plaza.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.18403,
+    -118.60607
    ]
   },
   {
@@ -70,6 +82,10 @@
    "o": "Bring a blanket for a summer concert night.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.17543,
+    -118.60554
    ]
   }
  ]

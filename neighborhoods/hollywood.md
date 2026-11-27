@@ -34,11 +34,13 @@ Hollywood is the City of LA neighborhood around Hollywood Boulevard and Sunset, 
 
 Call Text
 
-From above
+The map
 
-## Hollywood by satellite
+## Hollywood, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Hollywood%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get Hollywood listings
 Local LA
 
 ## Where to eat, drink and go in Hollywood
+
+See them on the map →
 
 Hollywood is LA's entertainment district, with historic movie palaces, the Walk of Fame, the Bowl and the Pantages, plus serious restaurants on Melrose, Highland and Sunset. Runyon Canyon and the hills around the Hollywood Sign start just above the flats.
 
@@ -155,7 +159,7 @@ Healthy & plant-based Rooftops & views Dinner
 
 $$$
 
-Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.7 mi · 641 N Highland Ave
+Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.3 mi · 641 N Highland Ave
 
 Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.
 

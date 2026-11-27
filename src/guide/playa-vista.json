@@ -40,6 +40,10 @@
    "o": "Steak frites or the ahi salad.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.97723,
+    -118.41659
    ]
   },
   {
@@ -55,6 +59,10 @@
    "o": "Dinner and a movie; the theater validates parking.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.97672,
+    -118.41706
    ]
   },
   {
@@ -69,6 +77,10 @@
    "o": "An early walk or bike ride along the path. Parts may be closed for restoration.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.96753,
+    -118.43607
    ]
   }
  ]

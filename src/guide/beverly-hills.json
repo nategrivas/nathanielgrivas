@@ -57,6 +57,10 @@
    "o": "Bagel and lox, stuffed cabbage and matzah ball soup.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0703,
+    -118.40216
    ]
   },
   {
@@ -72,6 +76,10 @@
    "s": [
     "inf",
     "todo"
+   ],
+   "ll": [
+    34.06852,
+    -118.40769
    ]
   },
   {
@@ -85,6 +93,10 @@
    "o": "The prosciutto focaccia.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07045,
+    -118.40474
    ]
   },
   {
@@ -99,6 +111,10 @@
    "o": "A plate with shawarma, schnitzel or falafel.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.05956,
+    -118.3904
    ]
   },
   {
@@ -113,6 +129,10 @@
    "o": "The #1 bowl.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06747,
+    -118.37636
    ]
   },
   {
@@ -127,6 +147,10 @@
    "o": "Smoked salmon pizza and spicy tuna cones.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06766,
+    -118.39781
    ]
   },
   {
@@ -143,6 +167,10 @@
    "s": [
     "inf",
     "torodeo"
+   ],
+   "ll": [
+    34.07181,
+    -118.40151
    ]
   },
   {
@@ -158,6 +186,10 @@
    "o": "Bone-in veal parm, tableside Caesar and a martini.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06749,
+    -118.40916
    ]
   },
   {
@@ -171,6 +203,10 @@
    "o": "Barbecue ribs, spinach-artichoke dip or the French dip.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06652,
+    -118.39896
    ]
   },
   {
@@ -185,6 +221,10 @@
    "o": "Chicken piccata, the chopped salad and brownie à la mode.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0673,
+    -118.40209
    ]
   },
   {
@@ -198,6 +238,10 @@
    "o": "Pappardelle, tuna carpaccio and ossobuco.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07085,
+    -118.40082
    ]
   },
   {
@@ -212,6 +256,10 @@
    "o": "Lobster and burrata, and the octopus and bone marrow fusilli.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06936,
+    -118.40434
    ]
   },
   {
@@ -225,6 +273,10 @@
    "o": "The five-course menu.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06321,
+    -118.39917
    ]
   },
   {
@@ -239,6 +291,10 @@
    "o": "Prime rib and the spinning salad.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0678,
+    -118.37607
    ]
   },
   {
@@ -254,6 +310,10 @@
    "s": [
     "inf",
     "torodeo"
+   ],
+   "ll": [
+    34.06833,
+    -118.3766
    ]
   },
   {
@@ -268,6 +328,10 @@
    "o": "The 20-course omakase, about $220.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06963,
+    -118.40366
    ]
   },
   {
@@ -282,6 +346,10 @@
    "o": "The 22-course omakase. Arrive on time and don't ask for changes.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06813,
+    -118.39827
    ]
   },
   {
@@ -297,6 +365,10 @@
    "o": "A drink or brunch on the patio.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.08171,
+    -118.4138
    ]
   },
   {
@@ -311,6 +383,10 @@
    "o": "The Beverly Hills Art Show runs here in May and October.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.07229,
+    -118.4035
    ]
   },
   {
@@ -325,6 +401,10 @@
    "o": "Window-shop, then lunch at The Cheese Store a few blocks over.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.06763,
+    -118.40135
    ]
   },
   {
@@ -339,6 +419,10 @@
    "o": "The interior opens only for events and tours.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.09208,
+    -118.40159
    ]
   },
   {
@@ -353,6 +437,10 @@
    "o": "Docent-led tours only, booked in advance.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.08648,
+    -118.41736
    ]
   },
   {
@@ -366,6 +454,10 @@
    "o": "Busiest around Halloween.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.06905,
+    -118.41094
    ]
   },
   {
@@ -379,6 +471,10 @@
    "o": "Check what's showing before you go.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.06978,
+    -118.40477
    ]
   },
   {
@@ -392,6 +488,10 @@
    "o": "Pair it with the Wallis next door.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.07561,
+    -118.39637
    ]
   },
   {
@@ -406,6 +506,10 @@
    "o": "Check the Goldsmith Theater lineup.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.07263,
+    -118.4017
    ]
   },
   {
@@ -422,6 +526,10 @@
    "s": [
     "fare",
     "atly"
+   ],
+   "ll": [
+    34.06832,
+    -118.40716
    ]
   },
   {
@@ -437,6 +545,10 @@
    "s": [
     "fcr",
     "tofcr"
+   ],
+   "ll": [
+    34.08171,
+    -118.4138
    ]
   },
   {
@@ -451,6 +563,10 @@
    "o": "A window table at the start of the day, then a walk up Rodeo.",
    "s": [
     "otbk"
+   ],
+   "ll": [
+    34.06689,
+    -118.40037
    ]
   },
   {
@@ -467,6 +583,10 @@
    "s": [
     "roof",
     "infhb"
+   ],
+   "ll": [
+    34.06658,
+    -118.41164
    ]
   }
  ]

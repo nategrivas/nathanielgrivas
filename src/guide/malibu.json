@@ -47,6 +47,10 @@
    "o": "A vanilla cold foam latte and the lobster burrito.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.02089,
+    -118.80916
    ]
   },
   {
@@ -62,6 +66,10 @@
    "o": "Call your order in ahead.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.02086,
+    -118.81035
    ]
   },
   {
@@ -76,6 +84,10 @@
    "o": "The breakfast burrito with bacon.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03712,
+    -118.63724
    ]
   },
   {
@@ -91,6 +103,10 @@
    "o": "Light salads or fish tacos with the view.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03563,
+    -118.67564
    ]
   },
   {
@@ -106,6 +122,10 @@
    "o": "The salmon kofta plate.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03826,
+    -118.67513
    ]
   },
   {
@@ -120,6 +140,10 @@
    "o": "Go early; the daily sandwiches sell out.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03934,
+    -118.68493
    ]
   },
   {
@@ -135,6 +159,10 @@
    "o": "Fish and chips and a shrimp cocktail on the patio.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03327,
+    -118.73235
    ]
   },
   {
@@ -149,6 +177,10 @@
    "o": "The hot buttered lobster roll.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03463,
+    -118.68158
    ]
   },
   {
@@ -164,6 +196,10 @@
    "o": "Clam chowder or anything fried.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.05329,
+    -118.96255
    ]
   },
   {
@@ -179,6 +215,10 @@
    "o": "Rockfish ceviche and a martini.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0391,
+    -118.68743
    ]
   },
   {
@@ -194,6 +234,10 @@
    "o": "Rock shrimp tempura and a sunset table.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03896,
+    -118.6696
    ]
   },
   {
@@ -207,6 +251,10 @@
    "o": "Grilled octopus and a whole branzino.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03647,
+    -118.68744
    ]
   },
   {
@@ -221,6 +269,10 @@
    "o": "Jumbo gnocchi with veal ragu.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03607,
+    -118.68581
    ]
   },
   {
@@ -234,6 +286,10 @@
    "o": "Start with the shrimp cocktail.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03607,
+    -118.68581
    ]
   },
   {
@@ -249,6 +305,10 @@
    "s": [
     "inf",
     "laist"
+   ],
+   "ll": [
+    34.03686,
+    -118.63663
    ]
   },
   {
@@ -264,6 +324,10 @@
    "o": "A cocktail with your feet in the sand.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.02028,
+    -118.78713
    ]
   },
   {
@@ -307,6 +371,10 @@
    "o": "A full beach day with kids.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.02144,
+    -118.83103
    ]
   },
   {
@@ -321,6 +389,10 @@
    "o": "Hike the headland at sunset.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.01117,
+    -118.81665
    ]
   },
   {
@@ -335,6 +407,10 @@
    "o": "Go for sunset, but leave before the lot closes.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.0398,
+    -118.87894
    ]
   },
   {
@@ -351,6 +427,10 @@
    "s": [
     "gm",
     "getty"
+   ],
+   "ll": [
+    34.04498,
+    -118.56502
    ]
   },
   {
@@ -366,6 +446,10 @@
    "o": "Hike to the M*A*S*H site, about 2.5 miles each way.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.0836,
+    -118.74533
    ]
   }
  ]

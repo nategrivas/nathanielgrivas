@@ -34,11 +34,13 @@ West Los Angeles is the City of LA area between Santa Monica, Brentwood, Westwoo
 
 Call Text
 
-From above
+The map
 
-## West LA & Sawtelle by satellite
+## West LA & Sawtelle, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Sawtelle%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,9 +57,11 @@ Local LA
 
 ## Where to eat, drink and go in West LA & Sawtelle
 
+See them on the map →
+
 West LA's heart is Sawtelle Japantown, a few walkable blocks of ramen counters, izakayas, dessert shops and pop-culture stores between Santa Monica and Olympic Boulevards. Around it, Pico and National have some of the Westside's best neighborhood bars.
 
-25 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+27 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -253,9 +257,9 @@ Cheap eats Late night
 
 What's my home worth? Get West LA & Sawtelle listings
 
-Go
+Eat
 
-### Places to go
+### Dinner
 
 ### Daikokuya
 
@@ -341,6 +345,10 @@ Stylish Thai street food from a sister-led kitchen, with a Bangkok-inspired mura
 
 Dinner Lunch
 
+Go
+
+### Places to go
+
 ### Lost and Found Cocktails
 
 $$
@@ -354,6 +362,34 @@ A classy cocktail lounge with a small dance floor and local DJs on weekends.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 Cocktail bars & lounges Late night
+
+### Bar Toscana
+
+$$$
+
+Next door in [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood) · 1.5 mi · 11633 San Vicente Blvd
+
+An intimate, stylish cocktail bar next door to Toscana, the longtime Brentwood power-dinner spot. Italian aperitivo drinks and small plates in a room that stays lively late.
+
+**Order:** A Negroni riff and a few small plates before or after dinner on San Vicente.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Toscana+11633+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/bar-toscana)
+
+Cocktail bars & lounges Date night
+
+### Offhand Wine Bar
+
+$$
+
+Next door in [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica) · 1.5 mi · 3008 Santa Monica Blvd
+
+A casual natural wine bar where the staff actually explain the bottles.
+
+**Order:** A chilled red or a dry riesling.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Offhand+Wine+Bar+3008+Santa+Monica+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
+
+Wine bars Date night
 
 ### Janss Family House
 
@@ -373,7 +409,7 @@ Landmarks & sights
 
 Free
 
-Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 1.7 mi · 10899 Wilshire Blvd
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 1.4 mi · 10899 Wilshire Blvd
 
 UCLA's free contemporary art museum with a courtyard, a strong shop and free screenings and talks.
 
@@ -415,19 +451,19 @@ The pop-culture shop that helped start the modern Sawtelle scene, with a gallery
 
 Shopping Art & galleries
 
-### Westfield Century City
+### Santa Monica Airport observation deck
 
-$$
+Free
 
-Next door in [Century City](https://www.nathanielgrivas.com/neighborhoods/century-city) · 2.0 mi · 10250 Santa Monica Blvd
+Next door in [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica) · 1.5 mi · Santa Monica Airport
 
-A big open-air mall with a movie theater, a food hall and Eataly's multi-level Italian market.
+A public deck right beside an active runway where you can hear the jets up close.
 
-**Do:** Go on a weekday; weekend parking gets slow.
+**Do:** Bring the kids for takeoffs.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Westfield+Century+City+10250+Santa+Monica+Blvd+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Airport+observation+deck+Santa+Monica+Airport+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
 
-Shopping Movies Markets
+Kids & family Landmarks & sights
 
 Sources
 

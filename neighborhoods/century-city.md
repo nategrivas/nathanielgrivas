@@ -34,11 +34,13 @@ Century City was built starting in the 1960s on land that was once the 20th Cent
 
 Call Text
 
-From above
+The map
 
-## Century City by satellite
+## Century City, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Century+City%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,9 +57,11 @@ Local LA
 
 ## Where to eat, drink and go in Century City
 
+See them on the map →
+
 Century City is the Westside's office and shopping district, built on former 20th Century Fox backlot land between Beverly Hills and West LA. Most of the eating and entertainment centers on Westfield Century City and the towers along Avenue of the Stars.
 
-15 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+14 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -77,31 +81,31 @@ A neighborhood bakery cafe with pastries, sandwiches and a small patio off Santa
 
 Breakfast Bakeries & dessert Lunch
 
-### Fountain Coffee Room at the Beverly Hills Hotel
-
-$$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9641 Sunset Blvd
-
-A pink, 1949 soda-fountain counter inside the Beverly Hills Hotel with about 20 stools and breakfast served all day. It is walk-in only, so you sit at the counter and watch the room.
-
-**Order:** Silver dollar pancakes and a milkshake. Daily, 7 a.m. to 4 p.m.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fountain+Coffee+Room+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Dorchester Collection](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/fountain-coffee-room) [Time Out](https://timeout.com/los-angeles/restaurants/fountain-coffee-room)
-
-Breakfast Landmarks & sights
-
 ### THE Blvd at the Beverly Wilshire
 
 $$$$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9500 Wilshire Blvd
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.1 mi · 9500 Wilshire Blvd
 
 The Beverly Wilshire's street-level dining room, looking straight down Rodeo Drive. A polished Four Seasons breakfast and a classic spot for a morning meeting.
 
 **Order:** A window table at the start of the day, then a walk up Rodeo.
 
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=THE+Blvd+at+the+Beverly+Wilshire+9500+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/cuisine/best-breakfast-restaurants-beverly-hills-ca)
+
+Breakfast Brunch
+
+### John O' Groats
+
+$$
+
+Next door in [Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills) · 0.9 mi · 10516 W Pico Blvd
+
+A longtime neighborhood breakfast spot known for its biscuits and big pancakes.
+
+**Order:** Pancakes or eggs with a side of biscuits.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=John+O%27+Groats+10516+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Breakfast Brunch
 
@@ -127,7 +131,7 @@ Lunch
 
 $$$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9560 Dayton Way
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.1 mi · 9560 Dayton Way
 
 A showbiz power-lunch classic known for polished, professional service.
 
@@ -141,7 +145,7 @@ Lunch Dinner
 
 $$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9705 S Santa Monica Blvd
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 0.9 mi · 9705 S Santa Monica Blvd
 
 A fromagerie open for more than 50 years that makes some of the best deli sandwiches in LA.
 
@@ -155,9 +159,9 @@ Lunch Markets
 
 What's my home worth? Get Century City listings
 
-Eat
+Eat & drink
 
-### Dinner
+### Dinner & drinks
 
 ### Javier's
 
@@ -201,29 +205,11 @@ A Japanese-influenced California restaurant tucked under a residential tower, wi
 
 Date night Dinner Lunch
 
-Drink
-
-### Nightlife
-
-### Polo Lounge at the Beverly Hills Hotel
-
-$$$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9641 Sunset Blvd
-
-The pink hotel's famous lounge, worth a visit even if you aren't staying.
-
-**Order:** A drink or brunch on the patio.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
-
-Cocktail bars & lounges Brunch Landmarks & sights
-
 ### The Rooftop at the Waldorf Astoria
 
 $$$$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9850 Wilshire Blvd
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 0.7 mi · 9850 Wilshire Blvd
 
 A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
 
@@ -233,19 +219,19 @@ A garden-style rooftop 12 floors above Beverly Hills with one of the widest view
 
 Rooftops & views Cocktail bars & lounges Date night
 
-### Lost and Found Cocktails
+### Polo Lounge at the Beverly Hills Hotel
 
-$$
+$$$$
 
-Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 2.0 mi · 11700 National Blvd
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.7 mi · 9641 Sunset Blvd
 
-A classy cocktail lounge with a small dance floor and local DJs on weekends.
+The pink hotel's famous lounge, worth a visit even if you aren't staying.
 
-**Order:** A smoked old fashioned. Open Wednesday through Saturday.
+**Order:** A drink or brunch on the patio.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
 
-Cocktail bars & lounges Late night
+Cocktail bars & lounges Brunch Landmarks & sights
 
 Do
 
@@ -269,7 +255,7 @@ Shopping Movies Markets
 
 $$$$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · Rodeo Dr
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.1 mi · Rodeo Dr
 
 The luxury shopping street, including Two Rodeo and Anderson Court.
 
@@ -283,7 +269,7 @@ Shopping Landmarks & sights
 
 $
 
-Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 2.0 mi · 2130 Sawtelle Blvd
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 1.9 mi · 2130 Sawtelle Blvd
 
 A Japanese grocery with good bento and sushi, next to the Daiso housewares store.
 

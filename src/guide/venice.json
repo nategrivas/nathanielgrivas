@@ -53,6 +53,10 @@
    "s": [
     "tocoffee",
     "erwin"
+   ],
+   "ll": [
+    33.9873,
+    -118.47265
    ]
   },
   {
@@ -68,6 +72,10 @@
     "tocoffee",
     "dla",
     "fsq"
+   ],
+   "ll": [
+    34.00016,
+    -118.47029
    ]
   },
   {
@@ -82,6 +90,10 @@
    "s": [
     "fsq",
     "erwin"
+   ],
+   "ll": [
+    33.99109,
+    -118.46692
    ]
   },
   {
@@ -97,6 +109,10 @@
    "s": [
     "tocoffee",
     "fsq"
+   ],
+   "ll": [
+    33.99438,
+    -118.45281
    ]
   },
   {
@@ -113,6 +129,10 @@
    "s": [
     "erwin",
     "todo"
+   ],
+   "ll": [
+    33.9877,
+    -118.4721
    ]
   },
   {
@@ -130,6 +150,10 @@
     "inf",
     "secret",
     "fsq"
+   ],
+   "ll": [
+    33.9953,
+    -118.47458
    ]
   },
   {
@@ -144,6 +168,10 @@
    "o": "Weekend brunch on the patio.",
    "s": [
     "fsq"
+   ],
+   "ll": [
+    33.99629,
+    -118.47711
    ]
   },
   {
@@ -159,6 +187,10 @@
    "s": [
     "inf",
     "fsq"
+   ],
+   "ll": [
+    33.9905,
+    -118.46496
    ]
   },
   {
@@ -175,6 +207,10 @@
     "inf",
     "todo",
     "fsq"
+   ],
+   "ll": [
+    33.99216,
+    -118.47185
    ]
   },
   {
@@ -232,6 +268,10 @@
    "o": "Kanpachi steamed in banana leaf, shrimp dumplings in coconut bisque and twice-fried chicken.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    33.98475,
+    -118.47037
    ]
   },
   {
@@ -247,6 +287,10 @@
    "s": [
     "inf",
     "todo"
+   ],
+   "ll": [
+    33.99423,
+    -118.47961
    ]
   },
   {
@@ -260,6 +304,10 @@
    "o": "Larb, fried chicken and a noodle dish.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    33.99152,
+    -118.449
    ]
   },
   {
@@ -303,6 +351,10 @@
    "o": "Squid ink linguine with lobster and a bottle of red.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    33.99317,
+    -118.47468
    ]
   },
   {
@@ -317,6 +369,10 @@
    "o": "Vodka sauce pasta, a thin-crust pizza and crispy branzino.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    33.98502,
+    -118.47028
    ]
   },
   {
@@ -330,6 +386,10 @@
    "o": "Dry-aged porterhouse, potato pancake and a dirty martini.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    33.99777,
+    -118.47481
    ]
   },
   {
@@ -357,6 +417,10 @@
    "o": "Calamari steak, the birria burrito or build-your-own fish tacos.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.00163,
+    -118.46796
    ]
   },
   {
@@ -371,6 +435,10 @@
    "o": "A pitcher upstairs at sunset.",
    "s": [
     "infbars"
+   ],
+   "ll": [
+    33.97898,
+    -118.46659
    ]
   },
   {
@@ -384,6 +452,10 @@
    "o": "Fruit-infused cocktails.",
    "s": [
     "infbars"
+   ],
+   "ll": [
+    33.98537,
+    -118.446
    ]
   },
   {
@@ -413,6 +485,10 @@
    "o": "A tequila cocktail upstairs, then the band downstairs.",
    "s": [
     "infbars"
+   ],
+   "ll": [
+    33.98725,
+    -118.47265
    ]
   },
   {
@@ -426,6 +502,10 @@
    "o": "Mai tais, a punch bowl for the group, or a tequila slushie in a coconut.",
    "s": [
     "infbars"
+   ],
+   "ll": [
+    33.98699,
+    -118.47303
    ]
   },
   {
@@ -456,6 +536,10 @@
    "o": "Cocktails at golden hour.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    33.98694,
+    -118.47252
    ]
   },
   {
@@ -471,6 +555,10 @@
    "s": [
     "todo",
     "dla"
+   ],
+   "ll": [
+    33.98691,
+    -118.47359
    ]
   },
   {
@@ -486,6 +574,10 @@
    "s": [
     "todo",
     "dla"
+   ],
+   "ll": [
+    33.98567,
+    -118.47273
    ]
   },
   {
@@ -500,6 +592,10 @@
    "o": "Day passes run about $10.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    33.98567,
+    -118.47273
    ]
   },
   {
@@ -516,6 +612,10 @@
    "s": [
     "todo",
     "dla"
+   ],
+   "ll": [
+    33.98091,
+    -118.46844
    ]
   },
   {
@@ -530,6 +630,10 @@
    "o": "Watch a run on a weekend afternoon.",
    "s": [
     "dla"
+   ],
+   "ll": [
+    33.98091,
+    -118.46844
    ]
   },
   {
@@ -545,6 +649,10 @@
    "s": [
     "todo",
     "dla"
+   ],
+   "ll": [
+    33.99225,
+    -118.47274
    ]
   },
   {
@@ -558,6 +666,10 @@
    "o": "Buy a book and get a discount at the Sidewalk Cafe next door.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    33.98785,
+    -118.47437
    ]
   },
   {
@@ -571,6 +683,10 @@
    "o": "Open Saturdays noon to 3pm by email reservation, about $20.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.00004,
+    -118.45686
    ]
   },
   {
@@ -599,6 +715,10 @@
    "o": "Walk out at sunset, then a burger at Hinano across the street.",
    "s": [
     "dla"
+   ],
+   "ll": [
+    33.97776,
+    -118.46911
    ]
   }
  ]

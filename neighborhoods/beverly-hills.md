@@ -34,11 +34,13 @@ Beverly Hills is an independent city of about 5.7 square miles surrounded by Los
 
 Call Text
 
-From above
+The map
 
-## Beverly Hills by satellite
+## Beverly Hills, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Beverly+Hills%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,6 +57,8 @@ What's my home worth? Get Beverly Hills listings
 Local LA
 
 ## Where to eat, drink and go in Beverly Hills
+
+See them on the map →
 
 Beverly Hills does the classics well: power-lunch rooms, old Hollywood martinis, serious omakase and some of the best sandwiches in LA. Between meals there are mansions, gardens and galleries within a few blocks of Rodeo.
 
@@ -388,19 +392,19 @@ A garden-style rooftop 12 floors above Beverly Hills with one of the widest view
 
 Rooftops & views Cocktail bars & lounges Date night
 
-### Cold Shoulder
+### Sunset at the West Hollywood EDITION
 
-$$$
+$$$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 2.3 mi · 359 S Fairfax Ave
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.3 mi · 9040 Sunset Blvd
 
-A moody speakeasy across from The Grove with elaborate cocktails.
+A basement nightclub under the EDITION hotel with a strict door and a dressed-up crowd. The most polished late-night room on the Strip.
 
-**Order:** A cocktail from the spirits menu.
+**Order:** Get on a list or book a table before you go. Dress code is enforced.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sunset+at+the+West+Hollywood+EDITION+9040+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Discotech](https://discotech.me/los-angeles/best-clubs-in-west-hollywood-los-angeles/)
 
-Cocktail bars & lounges Date night
+Cocktail bars & lounges Late night
 
 Do
 
@@ -526,6 +530,20 @@ The luxury shopping street, including Two Rodeo and Anderson Court.
 
 Shopping Landmarks & sights
 
+### RH West Hollywood rooftop
+
+Free
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.4 mi · 8564 Melrose Ave
+
+A furniture showroom with a rooftop garden and Hollywood Hills views that feels like a secret.
+
+**Do:** Head straight up for the view.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=RH+West+Hollywood+rooftop+8564+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+
+Shopping Rooftops & views
+
 ### Westfield Century City
 
 $$
@@ -539,20 +557,6 @@ A big open-air mall with a movie theater, a food hall and Eataly's multi-level I
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Westfield+Century+City+10250+Santa+Monica+Blvd+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
 
 Shopping Movies Markets
-
-### Original Farmers Market
-
-$
-
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 2.3 mi · 6333 W 3rd St
-
-LA's historic open-air market of food stalls and grocers, open since 1934.
-
-**Do:** Graze: laksa, Brazilian barbecue, oysters and a pie.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Original+Farmers+Market+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
-
-Markets Landmarks & sights Lunch
 
 Sources
 

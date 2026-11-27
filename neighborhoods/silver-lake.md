@@ -34,11 +34,13 @@ Silver Lake is a City of LA neighborhood built around the Silver Lake Reservoir,
 
 Call Text
 
-From above
+The map
 
-## Silver Lake by satellite
+## Silver Lake, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Silver+Lake%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get Silver Lake listings
 Local LA
 
 ## Where to eat, drink and go in Silver Lake
+
+See them on the map →
 
 Silver Lake is the Eastside's living room: a reservoir to walk around, a long run of restaurants on Sunset, and some of the best bars in the city. The best stretches are Sunset Junction and the strip of Silver Lake Boulevard just south of the reservoir.
 
@@ -451,7 +455,7 @@ Hikes & nature Fitness & outdoor sports
 
 Free
 
-Next door in [Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park) · 0.8 mi · 751 Echo Park Ave
+Next door in [Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park) · 1.3 mi · 751 Echo Park Ave
 
 A palm-ringed lake with swan pedal boats, a fountain and a walking loop. The lotus bed blooms each summer.
 
@@ -479,25 +483,11 @@ Where Santa Monica Boulevard ends and the closest thing Silver Lake has to a wal
 
 Shopping Landmarks & sights
 
-### Skylight Books
-
-Free
-
-Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 1.7 mi · 1818 N Vermont Ave
-
-A beloved independent bookstore with great staff picks, author readings and an art book annex next door.
-
-**Do:** Check the readings calendar.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Skylight+Books+1818+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Foursquare](https://lv.foursquare.com/FoursquareGuide/list/explore-los-feliz-los-angeles) [Discover Los Angeles](https://www.discoverlosangeles.com/visit/hidden-gems-in-los-feliz)
-
-Shopping
-
 ### Wacko and La Luz de Jesus Gallery
 
 Free
 
-Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 1.7 mi · 4633 Hollywood Blvd
+Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 1.5 mi · 4633 Hollywood Blvd
 
 A pop-culture oddities shop that gets stranger the deeper you go, with a lowbrow art gallery in back.
 
@@ -506,6 +496,20 @@ A pop-culture oddities shop that gets stranger the deeper you go, with a lowbrow
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Wacko+and+La+Luz+de+Jesus+Gallery+4633+Hollywood+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [SilverKris](https://silverkris.singaporeair.com/experience/travel-tips/neighbourhood-spotlight-los-feliz-los-angeles/)
 
 Shopping Art & galleries
+
+### Travel Town
+
+Free
+
+Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 1.7 mi · 5200 Zoo Dr
+
+A free outdoor railroad museum in Griffith Park where kids can climb on real trains.
+
+**Do:** Weekend morning with little kids.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Travel+Town+5200+Zoo+Dr+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-griffith-park)
+
+Kids & family Parks
 
 Sources
 

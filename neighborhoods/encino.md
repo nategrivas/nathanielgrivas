@@ -34,11 +34,13 @@ Encino is a City of LA neighborhood in the south Valley, west of Sherman Oaks, w
 
 Call Text
 
-From above
+The map
 
-## Encino by satellite
+## Encino, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Encino%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,11 +57,13 @@ Local LA
 
 ## Where to eat, drink and go in Encino
 
+See them on the map →
+
 Encino stretches along Ventura Boulevard west of the 405, with leafy hillside streets to the south, a long run of restaurants and cafes on the boulevard, and the Sepulveda Basin's parks just to the north.
 
-5 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+8 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-Go
+Eat
 
 ### Restaurants & cafes
 
@@ -76,6 +80,20 @@ A friendly coffee bar that also makes rolled ice cream.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Aurora+Coffee+%26+Creamery+16550+Ventura+Blvd%2C+%23110+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 Coffee
+
+### Borekas Sephardic Pastries
+
+$
+
+Next door in [Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks) · 2.3 mi · 15030 Ventura Blvd, Suite 25
+
+A tiny takeout window for flaky stuffed bourekas.
+
+**Order:** The cheese bourekas. Go early before they sell out.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Borekas+Sephardic+Pastries+15030+Ventura+Blvd%2C+Suite+25+Sherman+Oaks+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-sherman-oaks)
+
+Bakeries & dessert Breakfast Cheap eats
 
 ### Shin Sushi
 
@@ -119,6 +137,10 @@ An upscale kosher dairy restaurant serving fish, Mediterranean plates and sushi.
 
 Dinner Date night Seafood
 
+Do
+
+### Parks & outdoors
+
 ### Los Encinos State Historic Park
 
 Free
@@ -132,6 +154,38 @@ A small historic park with an 1800s adobe, a spring-fed duck pond and citrus tre
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Los+Encinos+State+Historic+Park+16756+Moorpark+St+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 Parks Landmarks & sights Kids & family
+
+### Lake Balboa Park
+
+Free
+
+Next door in [Van Nuys](https://www.nathanielgrivas.com/neighborhoods/van-nuys) · 1.6 mi · 6300 Balboa Blvd
+
+A big park around a lake with a 1.3-mile loop path, paddle boats and plenty of birds.
+
+**Do:** Walk the loop in the morning; come in spring for the cherry blossoms.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Park+6300+Balboa+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+
+Parks Kids & family Dog-friendly
+
+### The Japanese Garden
+
+$
+
+Next door in [Van Nuys](https://www.nathanielgrivas.com/neighborhoods/van-nuys) · 1.8 mi · 6100 Woodley Ave
+
+A peaceful formal garden with waterfalls, koi ponds and a teahouse in the Sepulveda Basin. Entry is a few dollars.
+
+**Do:** Check the hours before you go; it keeps limited days.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Japanese+Garden+6100+Woodley+Ave+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+
+Parks Landmarks & sights
+
+**Love Encino? Live here.** Get new Encino listings, including off-market ones, or a free value on your Encino home.
+
+What's my home worth? Get Encino listings
 
 Sources
 

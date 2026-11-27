@@ -34,11 +34,13 @@ Brentwood is a City of LA neighborhood west of the 405, running from the Wilshir
 
 Call Text
 
-From above
+The map
 
-## Brentwood by satellite
+## Brentwood, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Brentwood%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -56,9 +58,11 @@ Local LA
 
 ## Where to eat, drink and go in Brentwood
 
+See them on the map →
+
 Brentwood's center is San Vicente Boulevard, a coral-tree-lined median with a run of cafes and Italian restaurants, plus Barrington Court just off it. The Getty sits on the hill above, the Country Mart anchors the west end, and the trails up Mandeville Canyon start a few minutes away.
 
-21 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+26 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -184,9 +188,9 @@ Pizza Dinner
 
 What's my home worth? Get Brentwood listings
 
-Eat & drink
+Eat
 
-### Dinner & drinks
+### Dinner
 
 ### The Wilkes
 
@@ -286,6 +290,10 @@ A classic sushi counter known for trust-the-chef omakase.
 
 Sushi & Japanese Dinner
 
+Drink
+
+### Nightlife
+
 ### Bar Toscana
 
 $$$
@@ -299,6 +307,34 @@ An intimate, stylish cocktail bar next door to Toscana, the longtime Brentwood p
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Toscana+11633+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/bar-toscana)
 
 Cocktail bars & lounges Date night
+
+### Offhand Wine Bar
+
+$$
+
+Next door in [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica) · 1.7 mi · 3008 Santa Monica Blvd
+
+A casual natural wine bar where the staff actually explain the bottles.
+
+**Order:** A chilled red or a dry riesling.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Offhand+Wine+Bar+3008+Santa+Monica+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
+
+Wine bars Date night
+
+### The Chestnut Club
+
+$$
+
+Next door in [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica) · 2.5 mi · 1348 14th St
+
+Well-made cocktails in a rowdy room. Weekend lines run long.
+
+**Order:** Go early or on a weeknight.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Chestnut+Club+1348+14th+St+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
+
+Cocktail bars & lounges
 
 Do
 
@@ -322,7 +358,7 @@ Museums Art & galleries Landmarks & sights
 
 Free
 
-Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.0 mi · 10899 Wilshire Blvd
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 10899 Wilshire Blvd
 
 UCLA's free contemporary art museum with a courtyard, a strong shop and free screenings and talks.
 
@@ -331,6 +367,52 @@ UCLA's free contemporary art museum with a courtyard, a strong shop and free scr
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
 
 Museums Art & galleries
+
+### Janss Family House
+
+Free
+
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 2.4 mi · 1945 Purdue Ave
+
+Frank Gehry's first house design, built to show a Pop Art collection. View it from the street.
+
+**Do:** A quick stop on a Sawtelle walk.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Janss+Family+House+1945+Purdue+Ave+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Landmarks & sights
+
+### Brentwood Country Mart
+
+$$
+
+225 26th St
+
+A red barn-style courtyard of boutiques, a bookstore, a toy store and cafes.
+
+**Do:** Coffee, then a wander through the shops. The first hour of parking is free.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Mart+225+26th+St+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+
+Shopping Kids & family
+
+### Montana Avenue
+
+$$$
+
+Next door in [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica) · 1.1 mi · Montana Ave
+
+Santa Monica's upscale shopping street, with boutiques and cafes for blocks.
+
+**Do:** Pair it with lunch at Bread Head or a burger at Father's Office.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Montana+Avenue+Montana+Ave+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
+
+Shopping
+
+Do
+
+### Parks & outdoors
 
 ### Westridge Trailhead and Mandeville Canyon
 
@@ -360,19 +442,19 @@ A ridgetop park at an old Cold War Nike missile site with a lookout tower and hu
 
 Hikes & nature Parks Landmarks & sights
 
-### Brentwood Country Mart
+### Will Rogers State Historic Park
 
-$$
+$
 
-225 26th St
+Next door in [Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades) · 1.9 mi · 1501 Will Rogers State Park Rd
 
-A red barn-style courtyard of boutiques, a bookstore, a toy store and cafes.
+Will Rogers' old ranch, with a polo field, horses and the Inspiration Point trail's big ocean and city views. Some areas are still being repaired.
 
-**Do:** Coffee, then a wander through the shops. The first hour of parking is free.
+**Do:** Hike the loop to Inspiration Point.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Mart+225+26th+St+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Historic+Park+1501+Will+Rogers+State+Park+Rd+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
-Shopping Kids & family
+Hikes & nature Parks Landmarks & sights
 
 Sources
 

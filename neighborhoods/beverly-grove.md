@@ -34,11 +34,13 @@ Beverly Grove is the City of LA neighborhood between West Hollywood, Beverly Hil
 
 Call Text
 
-From above
+The map
 
-## Beverly Grove by satellite
+## Beverly Grove, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Beverly+Grove%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get Beverly Grove listings
 Local LA
 
 ## Where to eat, drink and go in Beverly Grove
+
+See them on the map →
 
 Beverly Grove is one of LA's most restaurant-dense neighborhoods, centered on West 3rd Street and Beverly Boulevard between La Cienega and Fairfax. It's an easy place to walk from coffee to lunch to a long dinner, with the Beverly Center at its west end.
 
@@ -289,47 +293,47 @@ Drink
 
 ### Nightlife
 
-### Cold Shoulder
+### The Nice Guy
 
 $$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 0.9 mi · 359 S Fairfax Ave
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 0.3 mi · 401 N La Cienega Blvd
 
-A moody speakeasy across from The Grove with elaborate cocktails.
+A dark, red-booth Italian lounge that has been the city's most reliable celebrity scene since 2014. Getting in without a reservation is hard on weekends.
 
-**Order:** A cocktail from the spirits menu.
+**Order:** Book a late table, order the chicken parm and a martini, and use the photo booth.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Nice+Guy+401+N+La+Cienega+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-sceniest-restaurants-in-west-hollywood-ranked)
 
-Cocktail bars & lounges Date night
+Cocktail bars & lounges Late night
 
-### Polo Lounge at the Beverly Hills Hotel
-
-$$$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.3 mi · 9641 Sunset Blvd
-
-The pink hotel's famous lounge, worth a visit even if you aren't staying.
-
-**Order:** A drink or brunch on the patio.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
-
-Cocktail bars & lounges Brunch Landmarks & sights
-
-### The Rooftop at the Waldorf Astoria
+### Nightingale Plaza
 
 $$$$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.3 mi · 9850 Wilshire Blvd
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 0.6 mi · 643 N La Cienega Blvd
 
-A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
+A small, high-end nightclub on La Cienega known for its Sunday party. Entry is at the door's discretion and most people book a table.
 
-**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
+**Order:** Sunday night, with a table reserved ahead.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nightingale+Plaza+643+N+La+Cienega+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Discotech](https://discotech.me/los-angeles/best-clubs-in-west-hollywood-los-angeles/)
 
-Rooftops & views Cocktail bars & lounges Date night
+Cocktail bars & lounges Late night
+
+### The Roger Room
+
+$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 0.2 mi · 370 N La Cienega Blvd
+
+A small, dark cocktail den behind a neon psychic sign. It fills up around 9pm.
+
+**Order:** Order by spirit and let the bartender build it.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Roger+Room+370+N+La+Cienega+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
+
+Cocktail bars & lounges
 
 Sources
 

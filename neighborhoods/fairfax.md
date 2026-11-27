@@ -34,11 +34,13 @@ The Fairfax District is a City of LA neighborhood around Fairfax Avenue between 
 
 Call Text
 
-From above
+The map
 
-## Fairfax District by satellite
+## Fairfax District, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Fairfax%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get Fairfax District listings
 Local LA
 
 ## Where to eat, drink and go in Fairfax District
+
+See them on the map →
 
 The Fairfax District runs from the Original Farmers Market and The Grove up Fairfax Avenue, LA's classic deli and streetwear strip, to Melrose. It's walkable, busy at all hours and home to some of the city's most famous food stalls.
 
@@ -91,19 +95,19 @@ A calm Melrose cafe with plenty of seating and outlets, good for getting work do
 
 Coffee
 
-### Cecconi's
+### Takagi Coffee
 
-$$$
+$$
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 8764 Melrose Ave
+Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 0.4 mi · 8048 W 3rd St
 
-A Melrose and Robertson corner classic for Italian. Nights are a scene, mornings are calmer.
+A Japanese cafe known for tall souffle pancakes and omurice. Expect a short wait.
 
-**Order:** Steak and eggs at brunch on the patio.
+**Order:** Souffle pancakes and the omurice with karaage.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cecconi%27s+8764+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Takagi+Coffee+8048+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
 
-Brunch Dinner
+Breakfast Brunch Coffee
 
 Eat
 
@@ -303,19 +307,19 @@ A moody speakeasy across from The Grove with elaborate cocktails.
 
 Cocktail bars & lounges Date night
 
-### The Lucky Tiki
+### The Nice Guy
 
 $$$
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 8512 Santa Monica Blvd
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 0.9 mi · 401 N La Cienega Blvd
 
-A hidden, reservation-only tiki bar behind Tail o' the Pup and one of the most theatrical drinks in town.
+A dark, red-booth Italian lounge that has been the city's most reliable celebrity scene since 2014. Getting in without a reservation is hard on weekends.
 
-**Order:** Get on the reservation list early.
+**Order:** Book a late table, order the chicken parm and a martini, and use the photo booth.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Lucky+Tiki+8512+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Nice+Guy+401+N+La+Cienega+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-sceniest-restaurants-in-west-hollywood-ranked)
 
-Cocktail bars & lounges
+Cocktail bars & lounges Late night
 
 Do
 
@@ -335,33 +339,33 @@ A big, shady park next to The Grove with lawns, walking paths and sports facilit
 
 Parks Dog-friendly Kids & family
 
-### West Hollywood Park
+### La Brea Tar Pits
 
 Free
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 647 N San Vicente Blvd
+Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 0.9 mi · 5801 Wilshire Blvd
 
-The city's main park, with a modern playground, courts, a dog park and the library next door.
+Ice Age asphalt seeps and active excavation sites in the park. The museum building is closed for renovation until about 2028, but much of the park stays open.
 
-**Do:** Pickleball or tennis, then the library's rooftop views.
+**Do:** Walk to the Lake Pit and look for the tar bubbling up.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Park+647+N+San+Vicente+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+5801+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [La Brea Tar Pits](https://tarpits.org/last-chance) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
-Parks Kids & family Dog-friendly
+Parks Landmarks & sights Kids & family
 
-### Plummer Park
+### Kings Road Park
 
 Free
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 7377 Santa Monica Blvd
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.1 mi · 1000 Kings Rd
 
-A busy neighborhood park with tennis and pickleball courts, a playground and free summer concerts.
+A small, shady pocket park with water features and a toddler playground.
 
-**Do:** Summer Sunday concerts.
+**Do:** A quiet lunch break on a bench.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Plummer+Park+7377+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/west-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kings+Road+Park+1000+Kings+Rd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
-Parks Kids & family Fitness & outdoor sports
+Parks Kids & family
 
 Do
 
@@ -395,19 +399,19 @@ An outdoor shopping village with a trolley, a fountain show and a movie theater,
 
 Shopping Kids & family Movies
 
-### Book Soup
+### RH West Hollywood rooftop
 
 Free
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 8818 Sunset Blvd
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.1 mi · 8564 Melrose Ave
 
-An independent bookstore on the Strip with more than 60,000 titles.
+A furniture showroom with a rooftop garden and Hollywood Hills views that feels like a secret.
 
-**Do:** Browse the film and art sections.
+**Do:** Head straight up for the view.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Book+Soup+8818+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=RH+West+Hollywood+rooftop+8564+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
 
-Shopping
+Shopping Rooftops & views
 
 Sources
 

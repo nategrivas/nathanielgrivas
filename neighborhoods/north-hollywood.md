@@ -34,11 +34,13 @@ North Hollywood is a City of LA neighborhood in the east Valley, where the Metro
 
 Call Text
 
-From above
+The map
 
-## North Hollywood by satellite
+## North Hollywood, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=North+Hollywood%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,9 +57,11 @@ Local LA
 
 ## Where to eat, drink and go in North Hollywood
 
+See them on the map →
+
 North Hollywood centers on the NoHo Arts District around Lankershim and Magnolia, with small theaters and the B Line subway terminus, plus a deep bench of Thai, Middle Eastern, Latin and barbecue spots across the wider neighborhood.
 
-15 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+14 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -201,9 +205,9 @@ One of LA's few Puerto Rican restaurants, with friendly servers who walk first-t
 
 Dinner Lunch
 
-Drink
+Go
 
-### Nightlife
+### Places to go
 
 ### Idle Hour
 
@@ -223,7 +227,7 @@ Cocktail bars & lounges Brunch
 
 $$$
 
-Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 2.1 mi · 11720 Ventura Blvd
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 2.2 mi · 11720 Ventura Blvd
 
 A candlelit restaurant and lounge with a library bar and heated patios with fireplaces. The Valley's dress-up night out, busy until late.
 
@@ -247,10 +251,6 @@ A friendly neighborhood bar with a solid happy hour.
 
 Cocktail bars & lounges Dinner
 
-Do
-
-### Things to do
-
 ### El Portal Theatre
 
 $$
@@ -264,20 +264,6 @@ A restored 1920s theater in the Arts District hosting plays, musicals and concer
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Portal+Theatre+5269+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Movies Live music
-
-### The Baked Potato
-
-$$
-
-Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 2.1 mi · 3787 Cahuenga Blvd
-
-A small, long-running jazz club where the menu is giant stuffed baked potatoes.
-
-**Do:** Buy tickets online ahead of time, since shows sell out.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Baked+Potato+3787+Cahuenga+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
-
-Live music Late night
 
 ### Wat Thai Food Court
 

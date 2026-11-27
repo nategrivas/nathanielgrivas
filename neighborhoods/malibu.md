@@ -34,11 +34,13 @@ Malibu is its own city stretching along about 21 miles of coastline west of Paci
 
 Call Text
 
-From above
+The map
 
-## Malibu by satellite
+## Malibu, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Malibu%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,6 +57,8 @@ What's my home worth? Get Malibu listings
 Local LA
 
 ## Where to eat, drink and go in Malibu
+
+See them on the map →
 
 Malibu is 21 miles of coastline along PCH, from Surfrider Beach and the pier to Zuma, Point Dume and the sea caves at El Matador. The restaurants lean on the views and the seafood, and the Santa Monica Mountains rise right behind the beach.
 

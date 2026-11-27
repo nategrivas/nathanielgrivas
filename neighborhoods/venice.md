@@ -34,11 +34,13 @@ Venice is part of the City of Los Angeles, between Santa Monica and Marina del R
 
 Call Text
 
-From above
+The map
 
-## Venice by satellite
+## Venice, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Venice%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -56,9 +58,11 @@ Local LA
 
 ## Where to eat, drink and go in Venice
 
+See them on the map →
+
 Venice packs a beach town, one of LA's best restaurant streets and a handful of genuinely odd landmarks into a couple of square miles. Abbot Kinney and Rose Avenue carry most of the eating and drinking; the boardwalk, canals and skatepark carry the rest.
 
-40 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+41 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -194,19 +198,19 @@ A roadside-style burger window that's quick, cheap and reliable.
 
 Lunch
 
-### Paco's Tacos
+### J. Nichols Kitchen
 
 $$
 
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.1 mi · Centinela Ave
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.8 mi · Marina del Rey
 
-A neighborhood staple for classic Mexican food in big portions.
+A good-at-everything neighborhood restaurant.
 
-**Order:** A combination plate and a margarita.
+**Order:** Whatever the special is.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Paco%27s+Tacos+Centinela+Ave+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=J.+Nichols+Kitchen+Marina+del+Rey+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
 
-Tacos & Mexican Cheap eats Dinner
+Lunch Dinner
 
 **Love Venice? Live here.** Get new Venice listings, including off-market ones, or a free value on your Venice home.
 
@@ -502,7 +506,7 @@ Rooftops & views Cocktail bars & lounges
 
 Do
 
-### Things to do
+### Culture & shows
 
 ### Venice Canals
 
@@ -559,34 +563,6 @@ Street art everywhere, including the Touch of Venice mural on Windward that nods
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Venice+murals+Windward+Ave+and+the+boardwalk+Venice+Los+Angeles+CA) Sources: [Discover Los Angeles](https://www.discoverlosangeles.com/things-to-do/things-to-do-in-venice-california)
 
 Art & galleries Landmarks & sights
-
-### Abbot Kinney Blvd
-
-$$$
-
-Abbot Kinney Blvd
-
-Venice's most stylish street: boutiques, galleries, restaurants and bars along a walkable mile.
-
-**Do:** Artists & Fleas runs Saturdays 11am to 5pm at Abbot Kinney and Westminster.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Abbot+Kinney+Blvd+Abbot+Kinney+Blvd+Venice+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-venice) [Discover Los Angeles](https://www.discoverlosangeles.com/things-to-do/things-to-do-in-venice-california)
-
-Shopping Markets
-
-### Small World Books
-
-$
-
-1407 Ocean Front Walk
-
-A family-owned bookstore that's been on the boardwalk for more than 50 years, strong on local authors. There's a resident cat.
-
-**Do:** Buy a book and get a discount at the Sidewalk Cafe next door.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Small+World+Books+1407+Ocean+Front+Walk+Venice+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-venice)
-
-Shopping
 
 Do
 
@@ -647,6 +623,52 @@ A long, quiet pier at the south end of the boardwalk, good for a sunset walk awa
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Venice+Fishing+Pier+Washington+Blvd+at+the+beach+Venice+Los+Angeles+CA) Sources: [Discover Los Angeles](https://www.discoverlosangeles.com/things-to-do/things-to-do-in-venice-california)
 
 Beaches Landmarks & sights
+
+Do
+
+### Shops, markets & spas
+
+### Abbot Kinney Blvd
+
+$$$
+
+Abbot Kinney Blvd
+
+Venice's most stylish street: boutiques, galleries, restaurants and bars along a walkable mile.
+
+**Do:** Artists & Fleas runs Saturdays 11am to 5pm at Abbot Kinney and Westminster.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Abbot+Kinney+Blvd+Abbot+Kinney+Blvd+Venice+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-venice) [Discover Los Angeles](https://www.discoverlosangeles.com/things-to-do/things-to-do-in-venice-california)
+
+Shopping Markets
+
+### Small World Books
+
+$
+
+1407 Ocean Front Walk
+
+A family-owned bookstore that's been on the boardwalk for more than 50 years, strong on local authors. There's a resident cat.
+
+**Do:** Buy a book and get a discount at the Sidewalk Cafe next door.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Small+World+Books+1407+Ocean+Front+Walk+Venice+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-venice)
+
+Shopping
+
+### Main Street, Ocean Park
+
+$$
+
+Next door in [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica) · 2.1 mi · Main St
+
+The lower-key, hipper shopping street that runs toward Venice.
+
+**Do:** Browse, then lunch on the street.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Main+Street%2C+Ocean+Park+Main+St+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
+
+Shopping
 
 Sources
 

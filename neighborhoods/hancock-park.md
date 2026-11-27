@@ -34,11 +34,13 @@ Hancock Park is one of LA's oldest wealthy neighborhoods, developed in the 1920s
 
 Call Text
 
-From above
+The map
 
-## Hancock Park & Larchmont by satellite
+## Hancock Park & Larchmont, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Hancock+Park%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,6 +57,8 @@ Local LA
 
 ## Where to eat, drink and go in Hancock Park & Larchmont
 
+See them on the map →
+
 Hancock Park is a historic neighborhood of 1920s homes and tree-lined streets. Larchmont Village, its small walkable main street, is where locals go for sandwiches, books and errands, and Melrose Avenue on the north edge adds some of the city's best Italian restaurants.
 
 16 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -67,7 +71,7 @@ Eat
 
 $$$
 
-Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 624 S La Brea Ave
+Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.0 mi · 624 S La Brea Ave
 
 Walter and Margarita Manzke's French bakery and restaurant in a landmark 1920s building, packed for brunch and a dressier room at dinner.
 
@@ -77,25 +81,25 @@ Walter and Margarita Manzke's French bakery and restaurant in a landmark 1920s b
 
 Brunch Breakfast Bakeries & dessert
 
-### Savor
+### Flowin Cafe
 
-$$
+$
 
-Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 5657 Wilshire Blvd, Suite 150
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.1 mi · 7201 Melrose Ave
 
-A family-owned cafe with good espresso drinks, sandwiches and a small sidewalk patio.
+A calm Melrose cafe with plenty of seating and outlets, good for getting work done.
 
-**Order:** The house cold brew and the pesto turkey sandwich.
+**Order:** A cream-top latte and a croissant.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Savor+5657+Wilshire+Blvd%2C+Suite+150+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Flowin+Cafe+7201+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
-Coffee Lunch
+Coffee
 
 ### Met Her At A Bar
 
 $$
 
-Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 759 S La Brea Ave
+Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.1 mi · 759 S La Brea Ave
 
 A small, busy brunch cafe best known for its waffles.
 
@@ -137,19 +141,19 @@ Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.
 
 Pizza Dinner
 
-### Mother Tongue
+### Petit Trois
 
-$$$
+$$
 
-Next door in [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · 1.7 mi · Hollywood
+Next door in [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · 0.8 mi · 718 N Highland Ave
 
-A wellness-minded rooftop restaurant known for its happy hour.
+Ludo Lefebvre's small, buzzy French bistro.
 
-**Order:** The shiitake larb at happy hour.
+**Order:** The Boursin omelet, steak frites or the Big Mec burger.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mother+Tongue+Hollywood+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Petit+Trois+718+N+Highland+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
 
-Healthy & plant-based Rooftops & views Dinner
+Lunch Dinner
 
 **Love Hancock Park & Larchmont? Live here.** Get new Hancock Park & Larchmont listings, including off-market ones, or a free value on your Hancock Park & Larchmont home.
 
@@ -219,11 +223,25 @@ Drink
 
 ### Nightlife
 
+### Bar Lis
+
+$$$
+
+Next door in [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · 1.8 mi · 1541 N Wilcox Ave
+
+A French Riviera-style lounge on the roof of the Thompson Hollywood, with a straight view of the Hollywood Sign. Jazz on Tuesdays, a packed dance floor on Saturdays.
+
+**Order:** Come early for sunset, or book ahead on weekends when table minimums kick in.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Lis+1541+N+Wilcox+Ave+Hollywood+Los+Angeles+CA) Sources: [Michelin Guide](https://guide.michelin.com/en/hotels-stays/los-angeles-area/thompson-hollywood-12410) [Time Out](https://www.timeout.com/los-angeles/bars/bar-lis)
+
+Rooftops & views Cocktail bars & lounges Date night
+
 ### Cold Shoulder
 
 $$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.7 mi · 359 S Fairfax Ave
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.8 mi · 359 S Fairfax Ave
 
 A moody speakeasy across from The Grove with elaborate cocktails.
 
@@ -237,7 +255,7 @@ Cocktail bars & lounges Date night
 
 $$$
 
-Next door in [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · 1.7 mi · 7000 Hollywood Blvd
+Next door in [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · 2.0 mi · 7000 Hollywood Blvd
 
 A cocktail lounge inside the Hollywood Roosevelt with two antique bowling lanes.
 
@@ -246,20 +264,6 @@ A cocktail lounge inside the Hollywood Roosevelt with two antique bowling lanes.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Spare+Room+7000+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
 
 Cocktail bars & lounges Date night
-
-### Bar Lis
-
-$$$
-
-Next door in [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · 1.7 mi · 1541 N Wilcox Ave
-
-A French Riviera-style lounge on the roof of the Thompson Hollywood, with a straight view of the Hollywood Sign. Jazz on Tuesdays, a packed dance floor on Saturdays.
-
-**Order:** Come early for sunset, or book ahead on weekends when table minimums kick in.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Lis+1541+N+Wilcox+Ave+Hollywood+Los+Angeles+CA) Sources: [Michelin Guide](https://guide.michelin.com/en/hotels-stays/los-angeles-area/thompson-hollywood-12410) [Time Out](https://www.timeout.com/los-angeles/bars/bar-lis)
-
-Rooftops & views Cocktail bars & lounges Date night
 
 Do
 
@@ -279,6 +283,20 @@ A well-curated independent bookstore on Larchmont with a cozy kids' section.
 
 Shopping Kids & family
 
+### The Grove
+
+$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.6 mi · 189 The Grove Dr
+
+An outdoor shopping village with a trolley, a fountain show and a movie theater, next to the Farmers Market.
+
+**Do:** Shop, catch a movie, then eat at the market.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Grove+189+The+Grove+Dr+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Shopping Kids & family Movies
+
 ### Original Farmers Market
 
 $
@@ -292,20 +310,6 @@ LA's historic open-air market of food stalls and grocers, open since 1934.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Original+Farmers+Market+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
 
 Markets Landmarks & sights Lunch
-
-### The Grove
-
-$$
-
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.7 mi · 189 The Grove Dr
-
-An outdoor shopping village with a trolley, a fountain show and a movie theater, next to the Farmers Market.
-
-**Do:** Shop, catch a movie, then eat at the market.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Grove+189+The+Grove+Dr+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
-
-Shopping Kids & family Movies
 
 Sources
 

@@ -28,6 +28,10 @@
    "o": "A caramel latte or one of the seasonal specials.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.05647,
+    -118.38378
    ]
   },
   {
@@ -43,6 +47,10 @@
    "o": "The chocolate chip miso cookie and an egg breakfast.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.05498,
+    -118.3844
    ]
   },
   {
@@ -58,6 +66,10 @@
    "s": [
     "to",
     "gm"
+   ],
+   "ll": [
+    34.05478,
+    -118.38331
    ]
   },
   {
@@ -73,6 +85,10 @@
    "o": "Tacos, the taquitos and a margarita.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.05494,
+    -118.38418
    ]
   },
   {
@@ -87,6 +103,10 @@
    "o": "A margherita and the arancini.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.05492,
+    -118.38495
    ]
   },
   {
@@ -102,6 +122,10 @@
    "s": [
     "loc",
     "gm"
+   ],
+   "ll": [
+    34.05526,
+    -118.39771
    ]
   }
  ]

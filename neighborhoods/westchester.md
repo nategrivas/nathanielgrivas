@@ -34,11 +34,13 @@ Westchester grew up in the 1940s around LAX and the aircraft plants. It's a City
 
 Call Text
 
-From above
+The map
 
-## Westchester by satellite
+## Westchester, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Westchester%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get Westchester listings
 Local LA
 
 ## Where to eat, drink and go in Westchester
+
+See them on the map →
 
 Westchester sits on the bluffs just north of LAX, home to Loyola Marymount University and a set of neighborhood restaurants and coffee shops along Manchester Avenue, La Tijera Boulevard and the Westchester Triangle.
 

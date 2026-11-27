@@ -34,11 +34,13 @@ Miracle Mile is the City of LA neighborhood along Wilshire Boulevard between Fai
 
 Call Text
 
-From above
+The map
 
-## Miracle Mile by satellite
+## Miracle Mile, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Miracle+Mile%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get Miracle Mile listings
 Local LA
 
 ## Where to eat, drink and go in Miracle Mile
+
+See them on the map →
 
 Miracle Mile is the stretch of Wilshire Boulevard between La Brea and Fairfax known as Museum Row, home to LACMA, the Academy Museum, the Petersen and the La Brea Tar Pits, with Art Deco buildings along Wilshire and a strong run of restaurants on La Brea.
 
@@ -137,19 +141,19 @@ An order-at-the-counter Japanese rice bowl spot in a plant-filled space.
 
 Lunch Cheap eats
 
-### Pizzeria Mozza
+### Singapore's Banana Leaf
 
-$$$
+$
 
-Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.5 mi · 641 N Highland Ave
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 0.7 mi · 6333 W 3rd St
 
-Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.
+A Farmers Market stall for Singaporean and Indonesian dishes.
 
-**Order:** A seasonal pizza and the butterscotch budino.
+**Order:** Laksa, beef rendang and roti paratha.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pizzeria+Mozza+641+N+Highland+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Singapore%27s+Banana+Leaf+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
 
-Pizza Dinner
+Lunch Cheap eats
 
 **Love Miracle Mile? Live here.** Get new Miracle Mile listings, including off-market ones, or a free value on your Miracle Mile home.
 
@@ -177,7 +181,7 @@ Dinner Date night
 
 $$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 351 N Fairfax Ave
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.1 mi · 351 N Fairfax Ave
 
 A clubby Afro-Caribbean restaurant.
 
@@ -187,19 +191,19 @@ A clubby Afro-Caribbean restaurant.
 
 Dinner Date night
 
-### Osteria Mozza
+### Lawry's The Prime Rib
 
-$$$$
+$$$
 
-Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.5 mi · 6602 Melrose Ave
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.3 mi · 100 N La Cienega Blvd
 
-Nancy Silverton's sit-down Italian dining room, with a mozzarella bar.
+A Beverly Hills rite of passage since long before the chain spread.
 
-**Order:** Something from the mozzarella bar, then pasta.
+**Order:** Prime rib and the spinning salad.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Osteria+Mozza+6602+Melrose+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lawry%27s+The+Prime+Rib+100+N+La+Cienega+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
 
-Date night Dinner
+Dinner Kids & family
 
 Drink
 
@@ -209,7 +213,7 @@ Drink
 
 $$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 359 S Fairfax Ave
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 0.7 mi · 359 S Fairfax Ave
 
 A moody speakeasy across from The Grove with elaborate cocktails.
 
@@ -223,7 +227,7 @@ Cocktail bars & lounges Date night
 
 $$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 361 S Fairfax Ave
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 0.7 mi · 361 S Fairfax Ave
 
 A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
 
@@ -233,19 +237,19 @@ A dim, no-menu cocktail bar where the bartenders build a drink around your taste
 
 Cocktail bars & lounges Date night
 
-### The Lucky Tiki
+### The Nice Guy
 
 $$$
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.9 mi · 8512 Santa Monica Blvd
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 401 N La Cienega Blvd
 
-A hidden, reservation-only tiki bar behind Tail o' the Pup and one of the most theatrical drinks in town.
+A dark, red-booth Italian lounge that has been the city's most reliable celebrity scene since 2014. Getting in without a reservation is hard on weekends.
 
-**Order:** Get on the reservation list early.
+**Order:** Book a late table, order the chicken parm and a martini, and use the photo booth.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Lucky+Tiki+8512+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Nice+Guy+401+N+La+Cienega+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-sceniest-restaurants-in-west-hollywood-ranked)
 
-Cocktail bars & lounges
+Cocktail bars & lounges Late night
 
 Do
 
@@ -315,7 +319,7 @@ Parks Landmarks & sights Kids & family
 
 Free
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 7600 Beverly Blvd
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 0.9 mi · 7600 Beverly Blvd
 
 A big, shady park next to The Grove with lawns, walking paths and sports facilities.
 
@@ -325,19 +329,19 @@ A big, shady park next to The Grove with lawns, walking paths and sports facilit
 
 Parks Dog-friendly Kids & family
 
-### West Hollywood Park
+### Plummer Park
 
 Free
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.9 mi · 647 N San Vicente Blvd
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.9 mi · 7377 Santa Monica Blvd
 
-The city's main park, with a modern playground, courts, a dog park and the library next door.
+A busy neighborhood park with tennis and pickleball courts, a playground and free summer concerts.
 
-**Do:** Pickleball or tennis, then the library's rooftop views.
+**Do:** Summer Sunday concerts.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Park+647+N+San+Vicente+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Plummer+Park+7377+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/west-hollywood)
 
-Parks Kids & family Dog-friendly
+Parks Kids & family Fitness & outdoor sports
 
 Sources
 

@@ -84,6 +84,10 @@
    "o": "Whatever seasonal latte is on the board; vegan ice cream sits next door.",
    "s": [
     "tocof"
+   ],
+   "ll": [
+    34.08638,
+    -118.38052
    ]
   },
   {
@@ -97,6 +101,10 @@
    "o": "Espresso or nitro cold brew on the patio, with avocado toast.",
    "s": [
     "tocof"
+   ],
+   "ll": [
+    34.08088,
+    -118.38694
    ]
   },
   {
@@ -111,6 +119,10 @@
    "o": "A flat white and one of the vegan bowls.",
    "s": [
     "tocof"
+   ],
+   "ll": [
+    34.0802,
+    -118.38503
    ]
   },
   {
@@ -125,6 +137,10 @@
    "o": "The lavender latte and the chilaquiles. Closed Mondays.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.09122,
+    -118.36679
    ]
   },
   {
@@ -139,6 +155,10 @@
    "o": "The cereal-milk latte and a breakfast burrito.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.09435,
+    -118.36345
    ]
   },
   {
@@ -154,6 +174,10 @@
    "o": "Lemon ricotta pancakes in the skillet or the croissant breakfast sandwich.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.09219,
+    -118.38054
    ]
   },
   {
@@ -167,6 +191,10 @@
    "o": "One order of pancakes for the table, and coffee in a French press.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.09784,
+    -118.36208
    ]
   },
   {
@@ -181,6 +209,10 @@
    "o": "The flight of three mini waffles and pancakes, or steak and eggs.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.09078,
+    -118.34529
    ]
   },
   {
@@ -195,6 +227,10 @@
    "o": "Chilaquiles, or the oatmeal if you're keeping it light.",
    "s": [
     "infbr"
+   ],
+   "ll": [
+    34.09085,
+    -118.373
    ]
   },
   {
@@ -212,6 +248,10 @@
     "todo",
     "togay",
     "infbr"
+   ],
+   "ll": [
+    34.08339,
+    -118.38514
    ]
   },
   {
@@ -227,6 +267,10 @@
    "s": [
     "todo",
     "infbr"
+   ],
+   "ll": [
+    34.09054,
+    -118.37007
    ]
   },
   {
@@ -241,6 +285,10 @@
    "o": "The lemon lavender waffle and a savory breakfast burrito to balance it.",
    "s": [
     "infbr"
+   ],
+   "ll": [
+    34.08099,
+    -118.38488
    ]
   },
   {
@@ -255,6 +303,10 @@
    "o": "Steak and eggs at brunch on the patio.",
    "s": [
     "infbr"
+   ],
+   "ll": [
+    34.08088,
+    -118.38429
    ]
   },
   {
@@ -268,6 +320,10 @@
    "o": "A tartine and a flight of mimosas.",
    "s": [
     "infbr"
+   ],
+   "ll": [
+    34.0901,
+    -118.37614
    ]
   },
   {
@@ -282,6 +338,10 @@
    "o": "Chips, salsa and guacamole, then the mushroom mole or a breakfast burrito.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.09058,
+    -118.36714
    ]
   },
   {
@@ -298,6 +358,10 @@
    "s": [
     "infr",
     "tor"
+   ],
+   "ll": [
+    34.08984,
+    -118.37545
    ]
   },
   {
@@ -313,6 +377,10 @@
    "o": "The six-taco sampler.",
    "s": [
     "tor"
+   ],
+   "ll": [
+    34.08442,
+    -118.38523
    ]
   },
   {
@@ -329,6 +397,10 @@
    "s": [
     "tor",
     "todo"
+   ],
+   "ll": [
+    34.09265,
+    -118.37955
    ]
   },
   {
@@ -344,6 +416,10 @@
    "s": [
     "infr",
     "tor"
+   ],
+   "ll": [
+    34.08236,
+    -118.38851
    ]
   },
   {
@@ -359,6 +435,10 @@
    "s": [
     "infr",
     "tor"
+   ],
+   "ll": [
+    34.08135,
+    -118.38669
    ]
   },
   {
@@ -374,6 +454,10 @@
    "s": [
     "infr",
     "tor"
+   ],
+   "ll": [
+    34.09071,
+    -118.38881
    ]
   },
   {
@@ -390,6 +474,10 @@
    "s": [
     "infr",
     "tor"
+   ],
+   "ll": [
+    34.09094,
+    -118.36895
    ]
   },
   {
@@ -404,6 +492,10 @@
    "o": "Come early for the burger, then anything off the hearth.",
    "s": [
     "tor"
+   ],
+   "ll": [
+    34.08187,
+    -118.38554
    ]
   },
   {
@@ -419,6 +511,10 @@
    "s": [
     "tor",
     "infwh"
+   ],
+   "ll": [
+    34.08268,
+    -118.3752
    ]
   },
   {
@@ -435,6 +531,10 @@
    "s": [
     "tor",
     "infwh"
+   ],
+   "ll": [
+    34.08215,
+    -118.38851
    ]
   },
   {
@@ -448,6 +548,10 @@
    "o": "The steak or the French onion burger.",
    "s": [
     "tor"
+   ],
+   "ll": [
+    34.09748,
+    -118.36829
    ]
   },
   {
@@ -463,6 +567,10 @@
    "o": "Book golden hour and order the crab salad.",
    "s": [
     "tor"
+   ],
+   "ll": [
+    34.09487,
+    -118.37347
    ]
   },
   {
@@ -479,6 +587,10 @@
    "s": [
     "tor",
     "infbr"
+   ],
+   "ll": [
+    34.09055,
+    -118.38889
    ]
   },
   {
@@ -495,6 +607,10 @@
    "s": [
     "tor",
     "infbr"
+   ],
+   "ll": [
+    34.08096,
+    -118.38695
    ]
   },
   {
@@ -509,6 +625,10 @@
    "o": "Fried ravioli, chicken parm and the Caesar.",
    "s": [
     "infr"
+   ],
+   "ll": [
+    34.08181,
+    -118.3891
    ]
   },
   {
@@ -523,6 +643,10 @@
    "o": "Stick to nigiri, then add the smoked yellowtail tostada.",
    "s": [
     "infr"
+   ],
+   "ll": [
+    34.08283,
+    -118.38679
    ]
   },
   {
@@ -536,6 +660,10 @@
    "o": "A sashimi bowl and the spicy crispy rice.",
    "s": [
     "infr"
+   ],
+   "ll": [
+    34.08752,
+    -118.38057
    ]
   },
   {
@@ -553,6 +681,10 @@
    "s": [
     "infr",
     "infbar"
+   ],
+   "ll": [
+    34.0908,
+    -118.34648
    ]
   },
   {
@@ -567,6 +699,10 @@
    "o": "Potato vareniki and beef stroganoff.",
    "s": [
     "infr"
+   ],
+   "ll": [
+    34.09098,
+    -118.36665
    ]
   },
   {
@@ -582,6 +718,10 @@
    "o": "The black lasagna and the mushroom carbonara.",
    "s": [
     "infr"
+   ],
+   "ll": [
+    34.09055,
+    -118.36957
    ]
   },
   {
@@ -596,6 +736,10 @@
    "s": [
     "infbar",
     "tobar"
+   ],
+   "ll": [
+    34.08984,
+    -118.37545
    ]
   },
   {
@@ -610,6 +754,10 @@
    "s": [
     "infbar",
     "tobar"
+   ],
+   "ll": [
+    34.078,
+    -118.37635
    ]
   },
   {
@@ -624,6 +772,10 @@
    "s": [
     "infbar",
     "tobar"
+   ],
+   "ll": [
+    34.09078,
+    -118.39162
    ]
   },
   {
@@ -639,6 +791,10 @@
    "s": [
     "infbar",
     "tobar"
+   ],
+   "ll": [
+    34.09098,
+    -118.36317
    ]
   },
   {
@@ -654,6 +810,10 @@
    "s": [
     "infr",
     "infbar"
+   ],
+   "ll": [
+    34.09509,
+    -118.37212
    ]
   },
   {
@@ -668,6 +828,10 @@
    "o": "A classic cocktail in one of the booths.",
    "s": [
     "infbar"
+   ],
+   "ll": [
+    34.09055,
+    -118.34608
    ]
   },
   {
@@ -682,6 +846,10 @@
    "o": "Come for happy hour.",
    "s": [
     "tobar"
+   ],
+   "ll": [
+    34.08215,
+    -118.37657
    ]
   },
   {
@@ -696,6 +864,10 @@
    "o": "Tuesday's Roast Battle.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.0952,
+    -118.37399
    ]
   },
   {
@@ -709,6 +881,10 @@
    "o": "Arrive early on Tuesday for the open mic.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.0982,
+    -118.36447
    ]
   },
   {
@@ -722,6 +898,10 @@
    "o": "Stand on the floor and skip the spots under the balcony.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.08161,
+    -118.38935
    ]
   },
   {
@@ -735,6 +915,10 @@
    "o": "Check the calendar and get dinner at the Rainbow before the show.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.0909,
+    -118.38798
    ]
   },
   {
@@ -749,6 +933,10 @@
    "o": "A loud night of live rock.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.09072,
+    -118.38566
    ]
   },
   {
@@ -762,6 +950,10 @@
    "o": "Browse the film and art sections.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.09046,
+    -118.38368
    ]
   },
   {
@@ -776,6 +968,10 @@
    "o": "Tours run Wednesday through Sunday; reserve ahead.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.08605,
+    -118.3718
    ]
   },
   {
@@ -790,6 +986,10 @@
    "o": "Pair it with Hauser and Wirth nearby.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.0817,
+    -118.38533
    ]
   },
   {
@@ -804,6 +1004,10 @@
    "o": "Head straight up for the view.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.08188,
+    -118.37881
    ]
   },
   {
@@ -817,6 +1021,10 @@
    "o": "Walk it at night, from the Whisky to the Comedy Store.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.09386,
+    -118.37677
    ]
   },
   {
@@ -830,6 +1038,10 @@
    "o": "Photos, then the bars along Santa Monica Boulevard.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.0904,
+    -118.3846
    ]
   },
   {
@@ -847,6 +1059,10 @@
    "s": [
     "gm",
     "todo"
+   ],
+   "ll": [
+    34.08324,
+    -118.38388
    ]
   },
   {
@@ -863,6 +1079,10 @@
    "s": [
     "gm",
     "towh"
+   ],
+   "ll": [
+    34.09065,
+    -118.35066
    ]
   },
   {
@@ -877,6 +1097,10 @@
    "o": "A quiet lunch break on a bench.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.08896,
+    -118.37164
    ]
   },
   {
@@ -893,6 +1117,10 @@
    "s": [
     "cbsweho",
     "vwh"
+   ],
+   "ll": [
+    34.09088,
+    -118.36365
    ]
   },
   {
@@ -907,6 +1135,10 @@
    "o": "Book a late table, order the chicken parm and a martini, and use the photo booth.",
    "s": [
     "niceguy"
+   ],
+   "ll": [
+    34.0786,
+    -118.37635
    ]
   },
   {
@@ -921,6 +1153,10 @@
    "o": "Get on a list or book a table before you go. Dress code is enforced.",
    "s": [
     "dtweho"
+   ],
+   "ll": [
+    34.09054,
+    -118.38907
    ]
   },
   {
@@ -936,6 +1172,10 @@
    "s": [
     "wrabbit",
     "vwh"
+   ],
+   "ll": [
+    34.0946,
+    -118.37424
    ]
   },
   {
@@ -950,6 +1190,10 @@
    "o": "Sunday night, with a table reserved ahead.",
    "s": [
     "dtweho"
+   ],
+   "ll": [
+    34.08326,
+    -118.37684
    ]
   }
  ]

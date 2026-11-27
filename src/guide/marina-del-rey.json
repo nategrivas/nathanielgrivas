@@ -30,6 +30,10 @@
    "o": "A strawberry matcha or a fresh juice and a bagel. Opens at 6am.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.97944,
+    -118.46577
    ]
   },
   {
@@ -44,6 +48,10 @@
    "o": "Huevos rancheros or steak eggs benedict.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.98363,
+    -118.45927
    ]
   },
   {
@@ -59,6 +67,10 @@
    "s": [
     "infmdr",
     "fsq"
+   ],
+   "ll": [
+    33.98973,
+    -118.44992
    ]
   },
   {
@@ -74,6 +86,10 @@
    "s": [
     "infmdr",
     "fsq"
+   ],
+   "ll": [
+    33.97947,
+    -118.46628
    ]
   },
   {
@@ -102,6 +118,10 @@
    "o": "The omakase.",
    "s": [
     "infmdr"
+   ],
+   "ll": [
+    33.98446,
+    -118.43936
    ]
   },
   {
@@ -116,6 +136,10 @@
    "o": "The Trust Me set.",
    "s": [
     "infmdr"
+   ],
+   "ll": [
+    33.97921,
+    -118.43958
    ]
   },
   {
@@ -130,6 +154,10 @@
    "o": "A martini and seafood on the water.",
    "s": [
     "infmdr"
+   ],
+   "ll": [
+    33.97869,
+    -118.45333
    ]
   },
   {
@@ -144,6 +172,10 @@
    "o": "Share the sushi rolls and a pizza.",
    "s": [
     "infmdr"
+   ],
+   "ll": [
+    33.98144,
+    -118.44184
    ]
   },
   {
@@ -173,6 +205,10 @@
    "o": "A combination plate and a margarita.",
    "s": [
     "infmdr"
+   ],
+   "ll": [
+    33.99613,
+    -118.4277
    ]
   },
   {
@@ -187,6 +223,10 @@
    "o": "Whatever the special is.",
    "s": [
     "infmdr"
+   ],
+   "ll": [
+    33.98559,
+    -118.43825
    ]
   },
   {
@@ -216,6 +256,10 @@
    "o": "A drink on the patio at sunset.",
    "s": [
     "infmdr"
+   ],
+   "ll": [
+    33.97031,
+    -118.44567
    ]
   },
   {
@@ -229,6 +273,10 @@
    "o": "A tropical drink with friends.",
    "s": [
     "infmdr"
+   ],
+   "ll": [
+    33.98385,
+    -118.44703
    ]
   },
   {
@@ -244,6 +292,10 @@
    "o": "Bring little kids, or launch a paddleboard.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.9821,
+    -118.45895
    ]
   }
  ]

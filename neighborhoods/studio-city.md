@@ -34,11 +34,13 @@ Studio City is a City of LA neighborhood in the southeast Valley, named for the 
 
 Call Text
 
-From above
+The map
 
-## Studio City by satellite
+## Studio City, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Studio+City%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,9 +57,11 @@ Local LA
 
 ## Where to eat, drink and go in Studio City
 
+See them on the map →
+
 Studio City runs along Ventura Boulevard at the foot of the Santa Monica Mountains, with the CBS studio lot, a long strip of sushi bars and neighborhood restaurants, a classic jazz club on Cahuenga and trailheads like Fryman Canyon a few minutes up the hill.
 
-26 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+25 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -91,19 +95,19 @@ An all-day neighborhood cafe where the pastry case and sandwiches draw a steady 
 
 Breakfast Coffee Lunch
 
-### Moxie Coffee Bar
+### The Front Yard
 
-$
+$$
 
-Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 2.1 mi · 5300 Lankershim Blvd, Suite 115
+Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 1.1 mi · 4222 Vineland Ave
 
-A bright Arts District coffee bar with creative lattes and plenty of dairy-free and sugar-free options.
+The Garland hotel's restaurant, with a big courtyard patio and an easy weekend brunch.
 
-**Order:** The panela canela latte.
+**Order:** The short rib burger and a martini.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Moxie+Coffee+Bar+5300+Lankershim+Blvd%2C+Suite+115+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Front+Yard+4222+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
-Coffee
+Brunch Dinner
 
 Eat
 
@@ -361,7 +365,7 @@ Cocktail bars & lounges Dinner Date night
 
 Do
 
-### Culture & shows
+### Things to do
 
 ### The Baked Potato
 
@@ -381,7 +385,7 @@ Live music Late night
 
 $$
 
-Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 2.1 mi · 5269 Lankershim Blvd
+Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 1.8 mi · 5269 Lankershim Blvd
 
 A restored 1920s theater in the Arts District hosting plays, musicals and concerts.
 
@@ -390,24 +394,6 @@ A restored 1920s theater in the Arts District hosting plays, musicals and concer
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Portal+Theatre+5269+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Movies Live music
-
-### The Ford
-
-$$
-
-Next door in [Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills) · 2.4 mi · 2580 Cahuenga Blvd E
-
-An intimate 1,200-seat outdoor amphitheater built into the hillside, across the freeway from the Hollywood Bowl.
-
-**Do:** Bring your own food and drinks for a summer show.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Ford+2580+Cahuenga+Blvd+E+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
-
-Live music Movies
-
-Do
-
-### Parks & outdoors
 
 ### Fryman Canyon
 
@@ -423,25 +409,25 @@ A shady canyon loop with a steady climb and Valley views, popular with dog walke
 
 Hikes & nature Parks Dog-friendly
 
-### Bronson Caves
+### TreePeople (Coldwater Canyon Park)
 
 Free
 
-Next door in [Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills) · 2.4 mi · 3200 Canyon Dr
+Next door in [Beverly Hills Post Office](https://www.nathanielgrivas.com/neighborhoods/bhpo) · 1.4 mi · 12601 Mulholland Dr
 
-A short, easy walk to the cave used as the Batcave in the 1960s TV show, with a clear view of the Hollywood Sign.
+A well-kept forested park with wide trails and city and Valley views, run by a nonprofit.
 
-**Do:** Go early for parking, then keep going on the Brush Canyon trail.
+**Do:** Join a guided moonlight hike.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+3200+Canyon+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=TreePeople+%28Coldwater+Canyon+Park%29+12601+Mulholland+Dr+Beverly+Hills+Post+Office+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Hills+Post+Office+CA)
 
-Hikes & nature Landmarks & sights Kids & family
+Hikes & nature Parks
 
 ### Laurel Canyon Dog Park
 
 Free
 
-Next door in [Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills) · 2.4 mi · 8260 Mulholland Dr
+Next door in [Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills) · 1.6 mi · 8260 Mulholland Dr
 
 A big off-leash dog park in a wooded hollow, with a separate area for small dogs.
 

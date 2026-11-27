@@ -29,6 +29,10 @@
    "o": "The pumpkin chai or a Yemeni coffee.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.06319,
+    -118.44714
    ]
   },
   {
@@ -42,6 +46,10 @@
    "o": "The iced vanilla latte with house-made syrup.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.05472,
+    -118.44151
    ]
   },
   {
@@ -56,6 +64,10 @@
    "o": "The Turkish breakfast for two and menemen.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.04758,
+    -118.43469
    ]
   },
   {
@@ -70,6 +82,10 @@
    "o": "The beef tongue sandwich and kuku sabzi.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.05559,
+    -118.44151
    ]
   },
   {
@@ -83,6 +99,10 @@
    "o": "Tahchin and the tahdig with stew.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.05153,
+    -118.43825
    ]
   },
   {
@@ -98,6 +118,10 @@
    "s": [
     "inf",
     "infww"
+   ],
+   "ll": [
+    34.04784,
+    -118.43527
    ]
   },
   {
@@ -113,6 +137,10 @@
    "s": [
     "inf",
     "infww"
+   ],
+   "ll": [
+    34.06022,
+    -118.44272
    ]
   },
   {
@@ -128,6 +156,10 @@
    "s": [
     "inf",
     "infww"
+   ],
+   "ll": [
+    34.05054,
+    -118.4374
    ]
   },
   {
@@ -142,6 +174,10 @@
    "o": "The Mix pie.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.05447,
+    -118.44131
    ]
   },
   {
@@ -156,6 +192,10 @@
    "o": "A mandi spread for the table.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06049,
+    -118.44711
    ]
   },
   {
@@ -169,6 +209,10 @@
    "o": "Tea-smoked ribs and mapo tofu.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.04823,
+    -118.44328
    ]
   },
   {
@@ -183,6 +227,10 @@
    "o": "Several small plates. Expect a wait.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.04766,
+    -118.43511
    ]
   },
   {
@@ -197,6 +245,10 @@
    "o": "The omakase.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.04839,
+    -118.4433
    ]
   },
   {
@@ -210,6 +262,10 @@
    "o": "Southern seafood curry and the Phuket wings.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.05722,
+    -118.44315
    ]
   },
   {
@@ -224,6 +280,10 @@
    "o": "A focaccia sandwich or the prix-fixe.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.05947,
+    -118.44375
    ]
   },
   {
@@ -238,6 +298,10 @@
    "o": "Steak au poivre with a baguette.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06049,
+    -118.44427
    ]
   },
   {
@@ -252,6 +316,10 @@
    "o": "The lunch combo meat plate.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0623,
+    -118.44801
    ]
   },
   {
@@ -267,6 +335,10 @@
    "o": "Two fresh cookies with a scoop in the middle.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06303,
+    -118.44687
    ]
   },
   {
@@ -281,6 +353,10 @@
    "o": "Saffron pistachio.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.05546,
+    -118.44214
    ]
   },
   {
@@ -295,6 +371,10 @@
    "o": "Check the events calendar, then lunch at Lulu.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.05947,
+    -118.44375
    ]
   }
  ]

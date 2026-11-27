@@ -34,11 +34,13 @@ Mar Vista is a City of LA neighborhood between Venice, Culver City and Palms. It
 
 Call Text
 
-From above
+The map
 
-## Mar Vista by satellite
+## Mar Vista, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -56,9 +58,11 @@ Local LA
 
 ## Where to eat, drink and go in Mar Vista
 
+See them on the map →
+
 Mar Vista is Venice's quieter neighbor, with a walkable stretch of Venice Boulevard around Grand View, a Sunday farmers market and one of the best Japanese markets on the Westside. Its restaurant scene has grown fast, from Taiwanese comfort food on Grand View to a French bistro on Centinela.
 
-23 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+22 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -194,19 +198,19 @@ A red taco truck in front of Mitsuwa known for loaded quesabirria with plenty of
 
 Tacos & Mexican Cheap eats
 
-### Laurel Grill
+### Paco's Tacos
 
-$$$
+$$
 
-Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 2.3 mi · 9300 Culver Blvd
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 0.5 mi · Centinela Ave
 
-A polished hearth-cooking restaurant downtown, good for a business lunch.
+A neighborhood staple for classic Mexican food in big portions.
 
-**Order:** The ribs or the ribeye.
+**Order:** A combination plate and a margarita.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Grill+9300+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Paco%27s+Tacos+Centinela+Ave+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
 
-Lunch Dinner
+Tacos & Mexican Cheap eats Dinner
 
 **Love Mar Vista? Live here.** Get new Mar Vista listings, including off-market ones, or a free value on your Mar Vista home.
 
@@ -272,9 +276,9 @@ Nayarit-style Mexican seafood that people drive across town for.
 
 Seafood Tacos & Mexican Lunch
 
-Drink
+Go
 
-### Nightlife
+### Places to go
 
 ### Accomplice
 
@@ -290,37 +294,33 @@ A creative cocktail bar next to Little Fatty, with two back-to-back bars and a m
 
 Cocktail bars & lounges Date night
 
-### Whiskey Red's
+### Lost and Found Cocktails
 
 $$
 
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 2.0 mi · 13813 Fiji Way
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 1.4 mi · 11700 National Blvd
 
-A touristy spot where the marina view is the reason to go.
+A classy cocktail lounge with a small dance floor and local DJs on weekends.
 
-**Order:** A drink on the patio at sunset.
+**Order:** A smoked old fashioned. Open Wednesday through Saturday.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Whiskey+Red%27s+13813+Fiji+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
-Cocktail bars & lounges Rooftops & views
+Cocktail bars & lounges Late night
 
-### The Warehouse Restaurant
+### The Lincoln
 
 $$
 
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 2.0 mi · 4499 Admiralty Way
+Next door in [Venice](https://www.nathanielgrivas.com/neighborhoods/venice) · 1.6 mi · Lincoln Blvd
 
-A quirky, rowdy nautical-themed classic on the water.
+A dim, bungalow-style cocktail bar with a patio that feels walled off from the traffic outside. Packed on weekends.
 
-**Order:** A tropical drink with friends.
+**Order:** Fruit-infused cocktails.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Warehouse+Restaurant+4499+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Lincoln+Lincoln+Blvd+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-bars-in-venice)
 
 Cocktail bars & lounges
-
-Do
-
-### Parks & outdoors
 
 ### Mar Vista Recreation Center
 
@@ -340,7 +340,7 @@ Parks Kids & family Fitness & outdoor sports
 
 $
 
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 2.0 mi · 4101 Admiralty Way
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 2.2 mi · 4101 Admiralty Way
 
 A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and paddleboard launching.
 
@@ -349,20 +349,6 @@ A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 Beaches Kids & family Fitness & outdoor sports
-
-### Ballona Wetlands Ecological Reserve
-
-Free
-
-Next door in [Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista) · 2.1 mi · Ballona Wetlands
-
-A protected coastal wetland with birding and a walking and bike path that links Marina del Rey and Playa del Rey.
-
-**Do:** An early walk or bike ride along the path. Parts may be closed for restoration.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Ecological+Reserve+Ballona+Wetlands+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
-
-Hikes & nature Parks
 
 Do
 
@@ -396,19 +382,19 @@ A Sunday morning market with produce, flowers, prepared food, music and kids' ac
 
 Markets Kids & family
 
-### Runway Playa Vista
+### Santa Monica Airport observation deck
 
-$$
+Free
 
-Next door in [Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista) · 2.1 mi · 12775 W Millennium
+Next door in [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica) · 1.4 mi · Santa Monica Airport
 
-The neighborhood's walkable center, with restaurants, a Whole Foods, a movie theater, fire pits and play areas.
+A public deck right beside an active runway where you can hear the jets up close.
 
-**Do:** Dinner and a movie; the theater validates parking.
+**Do:** Bring the kids for takeoffs.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Runway+Playa+Vista+12775+W+Millennium+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Airport+observation+deck+Santa+Monica+Airport+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
 
-Shopping Movies Kids & family
+Kids & family Landmarks & sights
 
 Sources
 

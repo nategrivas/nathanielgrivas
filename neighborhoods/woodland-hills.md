@@ -34,11 +34,13 @@ Woodland Hills is a City of LA neighborhood at the west end of the Valley, next 
 
 Call Text
 
-From above
+The map
 
-## Woodland Hills by satellite
+## Woodland Hills, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Woodland+Hills%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get Woodland Hills listings
 Local LA
 
 ## Where to eat, drink and go in Woodland Hills
+
+See them on the map →
 
 Woodland Hills sits at the west end of the Valley, with Ventura Boulevard's restaurants along the south side, the Warner Center district's parks and shopping to the north, and the Santa Monica Mountains rising behind it.
 

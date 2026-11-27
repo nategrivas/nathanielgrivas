@@ -34,11 +34,13 @@ Tarzana is a City of LA neighborhood in the southwest Valley, named after Edgar 
 
 Call Text
 
-From above
+The map
 
-## Tarzana by satellite
+## Tarzana, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Tarzana%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,13 +57,15 @@ Local LA
 
 ## Where to eat, drink and go in Tarzana
 
+See them on the map →
+
 Tarzana, named for Edgar Rice Burroughs' Tarzan after the author's ranch here, runs along Ventura Boulevard west of Encino, with a strong mix of Israeli, Persian, Eastern European, Japanese and French restaurants.
 
-6 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+7 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
-### Restaurants & cafes
+### Breakfast & lunch
 
 ### Cafe Aftab
 
@@ -90,6 +94,24 @@ An Israeli grill known for fresh hummus, hot bread and an endless spread of smal
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Hummus+Bar+%26+Grill+18743+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Lunch Dinner
+
+### Khuu Bistro
+
+$
+
+Next door in [Reseda](https://www.nathanielgrivas.com/neighborhoods/reseda) · 2.4 mi · 18845 Sherman Way
+
+A tiny spot serving Northern and Southern Vietnamese specialties you rarely see in the Valley.
+
+**Order:** Banh xeo, egg rolls and the dill fish.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Khuu+Bistro+18845+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+
+Lunch Dinner Cheap eats
+
+Eat
+
+### Dinner
 
 ### Traktir
 
@@ -146,6 +168,10 @@ A father-and-son French restaurant open for more than 50 years, with a cozy lodg
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Le+Sanglier+5522+Crebs+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Date night Dinner
+
+**Love Tarzana? Live here.** Get new Tarzana listings, including off-market ones, or a free value on your Tarzana home.
+
+What's my home worth? Get Tarzana listings
 
 Sources
 

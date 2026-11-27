@@ -29,6 +29,10 @@
    "o": "A double with the loaded fries.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.16509,
+    -118.3964
    ]
   },
   {
@@ -44,6 +48,10 @@
    "s": [
     "inf",
     "gm"
+   ],
+   "ll": [
+    34.16467,
+    -118.40546
    ]
   },
   {
@@ -58,6 +66,10 @@
    "o": "The oxtail cavatelli and the warm bread.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.16913,
+    -118.3964
    ]
   }
  ]

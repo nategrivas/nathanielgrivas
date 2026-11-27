@@ -34,11 +34,13 @@ Santa Monica is its own city, about eight square miles of bluffs and flats betwe
 
 Call Text
 
-From above
+The map
 
-## Santa Monica by satellite
+## Santa Monica, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Santa+Monica%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -56,13 +58,15 @@ Local LA
 
 ## Where to eat, drink and go in Santa Monica
 
+See them on the map →
+
 Santa Monica is a beach city with its own rules and a deep bench of restaurants, from a 1950s seaside shack to tasting menus that book a month out. Main Street and Ocean Park are the relaxed half; downtown, Wilshire and Montana carry the rest.
 
-36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+38 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
-### Breakfast & lunch
+### Coffee & breakfast
 
 ### Layla Bagels
 
@@ -91,6 +95,24 @@ Bold, Indonesian-leaning cooking in a cheerful room. Weekend brunch doesn't need
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Cobi%27s+Main+St+area+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
 
 Brunch Dinner
+
+### Farmshop
+
+$$$
+
+Next door in [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood) · 2.0 mi · 225 26th St
+
+The all-day hangout of the Brentwood Country Mart, with a market for picnic supplies.
+
+**Order:** The poached chicken salad.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Farmshop+225+26th+St+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Brunch Lunch Markets
+
+Eat
+
+### Lunch & casual
 
 ### Bay Cities Italian Deli
 
@@ -161,6 +183,10 @@ Strong wood-fired pizza in a small room that still works for a date. The lines a
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Milo+%26+Olive+2723+Wilshire+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
 
 Pizza Date night
+
+**Love Santa Monica? Live here.** Get new Santa Monica listings, including off-market ones, or a free value on your Santa Monica home.
+
+What's my home worth? Get Santa Monica listings
 
 Eat
 
@@ -348,10 +374,6 @@ A quirky nautical shack by the pier that's been the classic Santa Monica bar for
 
 Dinner Landmarks & sights
 
-**Love Santa Monica? Live here.** Get new Santa Monica listings, including off-market ones, or a free value on your Santa Monica home.
-
-What's my home worth? Get Santa Monica listings
-
 Drink
 
 ### Nightlife
@@ -485,6 +507,20 @@ A historic optical room that projects the street and ocean onto a table. Offbeat
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Camera+Obscura+1450+Ocean+Ave+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
 
 Museums Landmarks & sights
+
+### Mosaic Tile House
+
+$$
+
+Next door in [Venice](https://www.nathanielgrivas.com/neighborhoods/venice) · 2.4 mi · 1116 Palms Blvd
+
+Two artists' home covered floor to roof in tile, paint and ceramics. Nothing else in LA looks like it.
+
+**Do:** Open Saturdays noon to 3pm by email reservation, about $20.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mosaic+Tile+House+1116+Palms+Blvd+Venice+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-venice)
+
+Art & galleries
 
 ### Palisades Park
 

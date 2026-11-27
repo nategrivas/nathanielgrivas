@@ -25,6 +25,10 @@
    "o": "The burnt everything bagel with salmon. Go before 10am.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08548,
+    -118.28706
    ]
   },
   {
@@ -38,6 +42,10 @@
    "o": "A shaken espresso.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.10168,
+    -118.29776
    ]
   },
   {
@@ -52,6 +60,10 @@
    "o": "Boat noodle soup and the jade noodles.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.10208,
+    -118.30327
    ]
   },
   {
@@ -66,6 +78,10 @@
    "o": "The duck special with garlicky jade noodles.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.10149,
+    -118.30188
    ]
   },
   {
@@ -80,6 +96,10 @@
    "o": "Chicken rice plus the crispy zaab chicken to share.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.10166,
+    -118.30771
    ]
   },
   {
@@ -94,6 +114,10 @@
    "o": "Khao soi and the sai oua sausage.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.09845,
+    -118.30599
    ]
   },
   {
@@ -121,6 +145,10 @@
    "o": "A tapsilog tray or the lucenachon rice bowl.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08365,
+    -118.30947
    ]
   },
   {
@@ -135,6 +163,10 @@
    "o": "Goat roti, plantains and the curry mac and cheese.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08678,
+    -118.29142
    ]
   },
   {
@@ -163,6 +195,10 @@
    "o": "The crispy catfish salad and stir-fried garlic crab.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0986,
+    -118.30402
    ]
   },
   {
@@ -178,6 +214,10 @@
    "o": "Crispy catfish with basil.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.10206,
+    -118.3055
    ]
   },
   {
@@ -192,6 +232,10 @@
    "o": "The oversized goat birria taco and a tlayuda to share.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.09034,
+    -118.31032
    ]
   },
   {
@@ -205,6 +249,10 @@
    "o": "A spread of mezze including muhammara and sujuk.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.09093,
+    -118.29625
    ]
   },
   {
@@ -219,6 +267,10 @@
    "o": "Hummus, then a big kebab platter for the table.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.09562,
+    -118.29522
    ]
   },
   {
@@ -234,6 +286,10 @@
    "o": "Oysters, the crab dip and the big seafood platter.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.09535,
+    -118.29486
    ]
   },
   {
@@ -248,6 +304,10 @@
    "o": "The salt-and-pepper New York strip.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08435,
+    -118.30935
    ]
   },
   {
@@ -261,6 +321,10 @@
    "o": "Check the schedule and go for a themed dinner night.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.10163,
+    -118.31284
    ]
   },
   {
@@ -275,6 +339,10 @@
    "o": "Thai sausage and the wagyu yakisoba.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08276,
+    -118.28672
    ]
   },
   {
@@ -290,6 +358,10 @@
    "o": "Steak frites and the gruyere tart.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08217,
+    -118.30904
    ]
   },
   {
@@ -304,6 +376,10 @@
    "o": "A house cocktail; Mondays bring a tiki menu.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.08733,
+    -118.28671
    ]
   }
  ]

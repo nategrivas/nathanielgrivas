@@ -34,11 +34,13 @@ Van Nuys is a City of LA neighborhood in the center of the Valley, home to the V
 
 Call Text
 
-From above
+The map
 
-## Van Nuys by satellite
+## Van Nuys, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Van+Nuys%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,9 +57,11 @@ Local LA
 
 ## Where to eat, drink and go in Van Nuys
 
+See them on the map →
+
 Van Nuys is the Valley's civic center, home to the Van Nuys Airport and the Sepulveda Basin, with Lake Balboa and the Japanese Garden among the best outdoor spots in the Valley and a long run of family-run restaurants along Victory, Vanowen and Van Nuys Boulevard.
 
-5 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+6 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Go
 
@@ -104,6 +108,20 @@ A tiny burger counter tucked beside a liquor store, turning out excellent smash 
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Smash+Stand+16435+Vanowen+St+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Cheap eats Lunch
+
+### Sri Siam Cafe
+
+$$
+
+Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 2.2 mi · 12843 Vanowen St
+
+A small family-run Thai restaurant open since 1984 and one of the most important Thai spots in LA.
+
+**Order:** Crispy rice salad and the panang curry.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sri+Siam+Cafe+12843+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Dinner Lunch
 
 ### Lake Balboa Park
 

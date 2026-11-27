@@ -25,6 +25,10 @@
    "o": "The house cold brew and the pesto turkey sandwich.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.06251,
+    -118.35169
    ]
   },
   {
@@ -41,6 +45,10 @@
    "o": "Pastries from the case at brunch. Go early on weekends.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.06416,
+    -118.34377
    ]
   },
   {
@@ -55,6 +63,10 @@
    "o": "Chilaquiles or a loaded waffle.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.06124,
+    -118.3445
    ]
   },
   {
@@ -70,6 +82,10 @@
    "o": "Spaghetti and meatballs; the large feeds two.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.06207,
+    -118.34644
    ]
   },
   {
@@ -84,6 +100,10 @@
    "o": "A salmon rice bowl.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.06217,
+    -118.34798
    ]
   },
   {
@@ -99,6 +119,10 @@
    "o": "Urban Light at dusk, then the galleries.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.06374,
+    -118.35894
    ]
   },
   {
@@ -113,6 +137,10 @@
    "o": "Check the screening calendar before you go.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.06382,
+    -118.36083
    ]
   },
   {
@@ -127,6 +155,10 @@
    "o": "Add the basement Vault tour.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.06231,
+    -118.36119
    ]
   },
   {
@@ -143,6 +175,10 @@
    "s": [
     "tp",
     "gm"
+   ],
+   "ll": [
+    34.06376,
+    -118.35566
    ]
   }
  ]

@@ -36,6 +36,10 @@
    "o": "A lavender latte and a savory pastry. Park up on Kensington and take the stairs down.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.07108,
+    -118.25065
    ]
   },
   {
@@ -49,6 +53,10 @@
    "o": "A cappuccino or the fig leaf latte. There's no Wi-Fi.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.08138,
+    -118.25474
    ]
   },
   {
@@ -62,6 +70,10 @@
    "o": "An iced matcha on the patio.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.07614,
+    -118.25634
    ]
   },
   {
@@ -77,6 +89,10 @@
    "o": "A hand pie or the Basque cheesecake, plus the prosciutto sandwich.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.08335,
+    -118.2546
    ]
   },
   {
@@ -91,6 +107,10 @@
    "o": "The mushroom dip at lunch; beef tartare toast and roast chicken at dinner.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06664,
+    -118.26079
    ]
   },
   {
@@ -106,6 +126,10 @@
    "o": "Blue corn tacos and the duck confit with date mole.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07547,
+    -118.2553
    ]
   },
   {
@@ -120,6 +144,10 @@
    "o": "Nikkei sashimi, a scallop hand roll and the shrimp dumplings.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08347,
+    -118.25978
    ]
   },
   {
@@ -134,6 +162,10 @@
    "o": "Chicken parm and the lasagna bolognese.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07628,
+    -118.25669
    ]
   },
   {
@@ -149,6 +181,10 @@
    "o": "Chicken oyster skewers and the garlic fried rice with Dungeness crab.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0728,
+    -118.25153
    ]
   },
   {
@@ -163,6 +199,10 @@
    "o": "The Osaka-style okonomiyaki and a sake flight.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07283,
+    -118.25159
    ]
   },
   {
@@ -177,6 +217,10 @@
    "o": "Small plates and the branzino.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07676,
+    -118.25757
    ]
   },
   {
@@ -206,6 +250,10 @@
    "o": "A pizza and the fried mozzarella.",
    "s": [
     "infep"
+   ],
+   "ll": [
+    34.07737,
+    -118.26385
    ]
   },
   {
@@ -220,6 +268,10 @@
    "o": "Order the deep dish when you sit down; it takes a while.",
    "s": [
     "fod"
+   ],
+   "ll": [
+    34.07753,
+    -118.25976
    ]
   },
   {
@@ -233,6 +285,10 @@
    "o": "The pepperoni pan pie, eaten in.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0758,
+    -118.2543
    ]
   },
   {
@@ -247,6 +303,10 @@
    "o": "The vegetable plates and the lamb kebab.",
    "s": [
     "infep"
+   ],
+   "ll": [
+    34.07758,
+    -118.26462
    ]
   },
   {
@@ -262,6 +322,10 @@
    "o": "Al pastor and the crispy fried cheese taco.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06771,
+    -118.25012
    ]
   },
   {
@@ -276,6 +340,10 @@
    "o": "A huitlacoche quesadilla. Open Friday through Monday.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07627,
+    -118.25754
    ]
   },
   {
@@ -291,6 +359,10 @@
    "s": [
     "inf",
     "fod"
+   ],
+   "ll": [
+    34.06668,
+    -118.25442
    ]
   },
   {
@@ -305,6 +377,10 @@
    "o": "The banana split or pistachio.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07769,
+    -118.25991
    ]
   },
   {
@@ -319,6 +395,10 @@
    "o": "The lavender cocktail with the watermelon salad.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.08003,
+    -118.25992
    ]
   },
   {
@@ -333,6 +413,10 @@
    "o": "Go on a weeknight for an easy conversation.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.0691,
+    -118.25051
    ]
   },
   {
@@ -347,6 +431,10 @@
    "o": "The tequila sour before a Dodgers game.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.0763,
+    -118.2565
    ]
   },
   {
@@ -363,6 +451,10 @@
    "s": [
     "to",
     "gm"
+   ],
+   "ll": [
+    34.06963,
+    -118.25978
    ]
   },
   {
@@ -376,6 +468,10 @@
    "o": "Check the calendar for local and touring acts.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.07773,
+    -118.2601
    ]
   },
   {
@@ -390,6 +486,10 @@
    "o": "Eat and drink on Sunset before the game and walk up.",
    "s": [
     "infep"
+   ],
+   "ll": [
+    34.07363,
+    -118.23985
    ]
   }
  ]

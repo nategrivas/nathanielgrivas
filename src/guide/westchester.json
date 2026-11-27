@@ -28,6 +28,10 @@
    "o": "A flat white with a pastry.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.9705,
+    -118.37959
    ]
   },
   {
@@ -43,6 +47,10 @@
    "o": "An omelet with the Potatoes O'Brien and a biscuit.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.95749,
+    -118.39461
    ]
   },
   {
@@ -60,6 +68,10 @@
    "s": [
     "to",
     "gm"
+   ],
+   "ll": [
+    33.95867,
+    -118.39468
    ]
   },
   {
@@ -74,6 +86,10 @@
    "o": "Chicken satay, pad see ew and mango sticky rice. Book ahead; it fills up.",
    "s": [
     "ot"
+   ],
+   "ll": [
+    33.95867,
+    -118.39446
    ]
   },
   {
@@ -88,6 +104,10 @@
    "o": "Handmade udon with tempura.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.95947,
+    -118.3945
    ]
   },
   {
@@ -103,6 +123,10 @@
    "o": "A whiskey sour and the Sichuan wings.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.96005,
+    -118.41913
    ]
   }
  ]

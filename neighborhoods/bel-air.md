@@ -34,11 +34,13 @@ Bel Air is a City of LA hillside neighborhood north of UCLA, founded by Alphonzo
 
 Call Text
 
-From above
+The map
 
-## Bel Air by satellite
+## Bel Air, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Bel+Air%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,13 +57,29 @@ Local LA
 
 ## Where to eat, drink and go in Bel Air
 
+See them on the map →
+
 Bel Air is a quiet, gated hillside enclave of winding canyon roads north of Sunset, home to the storied Hotel Bel-Air, with a small village of shops at Beverly Glen Circle up the canyon.
 
-8 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+9 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
 ### Coffee & breakfast
+
+### Clark Street Brentwood
+
+$$
+
+Next door in [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood) · 2.1 mi · 11702 Barrington Ct
+
+The famous LA bakery's Brentwood cafe, good any weekday.
+
+**Order:** Go before 11am for the Caesar wrap or the tuna melt.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Clark+Street+Brentwood+11702+Barrington+Ct+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Bakeries & dessert Lunch
 
 ### Sana'a Cafe
 
@@ -77,37 +95,23 @@ A Yemeni coffeehouse with comfortable seating upstairs, board games and late hou
 
 Coffee Late night
 
-### Sipp Coffee House
+### Diddy Riese
 
 $
 
-Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 1427 Westwood Blvd
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.2 mi · 926 Broxton Ave
 
-A cozy local coffee shop with good music and Wi-Fi.
+The ice cream cookie sandwich institution. The line is long and worth it.
 
-**Order:** The iced vanilla latte with house-made syrup.
+**Order:** Two fresh cookies with a scoop in the middle.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sipp+Coffee+House+1427+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Diddy+Riese+926+Broxton+Ave+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
 
-Coffee
+Bakeries & dessert Cheap eats Kids & family
 
-### Pera LA
+Eat
 
-$$
-
-Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 1942 Westwood Blvd
-
-A casual Turkish spot built around a big shared breakfast.
-
-**Order:** The Turkish breakfast for two and menemen.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pera+LA+1942+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
-
-Breakfast Brunch
-
-Go
-
-### Restaurants & cafes
+### Dinner
 
 ### The Restaurant at Hotel Bel-Air
 
@@ -137,19 +141,27 @@ A warm Italian restaurant at the Beverly Glen Circle shopping center up the cany
 
 Dinner Date night
 
-### Hamasaku
+### Peppone
 
 $$$$
 
-Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 11043 Santa Monica Blvd
+Next door in [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood) · 2.1 mi · 11628 Barrington Ct
 
-A strip-mall sushi bar with a traditional omakase that's fairly priced for its quality.
+A pricey, old-school red-sauce Italian institution.
 
-**Order:** The omakase.
+**Order:** Dover sole and the Chicago rigatoni.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hamasaku+11043+Santa+Monica+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Peppone+11628+Barrington+Ct+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
 
-Sushi & Japanese Date night
+Dinner Date night
+
+**Love Bel Air? Live here.** Get new Bel Air listings, including off-market ones, or a free value on your Bel Air home.
+
+What's my home worth? Get Bel Air listings
+
+Do
+
+### Culture & shows
 
 ### Skirball Cultural Center
 
@@ -165,11 +177,25 @@ A cultural center and museum with rotating exhibits, a famous Noah's Ark play sp
 
 Museums Kids & family Live music
 
+### The Getty
+
+Free
+
+Next door in [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood) · 1.5 mi · 1200 Getty Center Dr
+
+The hilltop museum with world-class art, gardens and views from downtown to the ocean. Admission is free; parking is paid.
+
+**Do:** Reserve a time online, ride the tram up and finish in the Central Garden. Go before March 15, 2027, when it closes for about a year of renovation.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Getty+1200+Getty+Center+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA) [Getty](https://www.getty.edu/about/building-gettys-future/)
+
+Museums Art & galleries Landmarks & sights
+
 ### Hammer Museum
 
 Free
 
-Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 10899 Wilshire Blvd
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.4 mi · 10899 Wilshire Blvd
 
 UCLA's free contemporary art museum with a courtyard, a strong shop and free screenings and talks.
 
@@ -178,10 +204,6 @@ UCLA's free contemporary art museum with a courtyard, a strong shop and free scr
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
 
 Museums Art & galleries
-
-**Love Bel Air? Live here.** Get new Bel Air listings, including off-market ones, or a free value on your Bel Air home.
-
-What's my home worth? Get Bel Air listings
 
 Sources
 

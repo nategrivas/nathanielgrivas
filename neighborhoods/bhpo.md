@@ -34,11 +34,13 @@ Beverly Hills Post Office, or BHPO, is the hillside area above Beverly Hills tha
 
 Call Text
 
-From above
+The map
 
-## Beverly Hills Post Office by satellite
+## Beverly Hills Post Office, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Beverly+Crest%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,9 +57,11 @@ Local LA
 
 ## Where to eat, drink and go in Beverly Hills Post Office
 
+See them on the map →
+
 Beverly Hills Post Office is the hillside area above the city of Beverly Hills, covering Benedict, Coldwater and Franklin canyons. It is mostly residential, with some of the best quick escapes into nature on the Westside.
 
-11 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -67,7 +71,7 @@ Eat
 
 $$$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9641 Sunset Blvd
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.5 mi · 9641 Sunset Blvd
 
 A pink, 1949 soda-fountain counter inside the Beverly Hills Hotel with about 20 stools and breakfast served all day. It is walk-in only, so you sit at the counter and watch the room.
 
@@ -77,85 +81,93 @@ A pink, 1949 soda-fountain counter inside the Beverly Hills Hotel with about 20 
 
 Breakfast Landmarks & sights
 
-### THE Blvd at the Beverly Wilshire
-
-$$$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9500 Wilshire Blvd
-
-The Beverly Wilshire's street-level dining room, looking straight down Rodeo Drive. A polished Four Seasons breakfast and a classic spot for a morning meeting.
-
-**Order:** A window table at the start of the day, then a walk up Rodeo.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=THE+Blvd+at+the+Beverly+Wilshire+9500+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/cuisine/best-breakfast-restaurants-beverly-hills-ca)
-
-Breakfast Brunch
-
-### Nate 'n Al Delicatessen
-
-$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 414 N Beverly Dr
-
-A classic deli with an eclectic, very Beverly Hills crowd.
-
-**Order:** Bagel and lox, stuffed cabbage and matzah ball soup.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nate+%27n+Al+Delicatessen+414+N+Beverly+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
-
-Breakfast Lunch
-
-Eat & drink
-
-### Dinner & drinks
-
-### Spago
-
-$$$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 176 N Canon Dr
-
-The iconic LA dining room, with attentive service and a big-night feel.
-
-**Order:** Smoked salmon pizza and spicy tuna cones.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Spago+176+N+Canon+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
-
-Dinner Date night
-
-### Funke
-
-$$$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9388 S Santa Monica Blvd
-
-A three-level pasta palace with reliably excellent handmade pasta. The rooftop bar is walk-in only.
-
-**Order:** Any flour-and-egg pasta and a tomato martini. Reservations drop 7 days out at 9am.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Funke+9388+S+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills) [Time Out](https://www.timeout.com/los-angeles/restaurants/rodeo-drive-restaurants)
-
-Dinner Date night Rooftops & views
-
-### La Dolce Vita
+### Cecconi's
 
 $$$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9785 S Santa Monica Blvd
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 2.2 mi · 8764 Melrose Ave
 
-An old Hollywood red-sauce room with strong martinis and real glamour.
+A Melrose and Robertson corner classic for Italian. Nights are a scene, mornings are calmer.
 
-**Order:** Bone-in veal parm, tableside Caesar and a martini.
+**Order:** Steak and eggs at brunch on the patio.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Dolce+Vita+9785+S+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cecconi%27s+8764+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
 
-Dinner Date night Cocktail bars & lounges
+Brunch Dinner
+
+### The Butcher, The Baker, The Cappuccino Maker
+
+$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.9 mi · 8653 Sunset Blvd
+
+The Strip's busiest breakfast, with a garden patio in back. It takes reservations, which is rare for brunch in WeHo.
+
+**Order:** Lemon ricotta pancakes in the skillet or the croissant breakfast sandwich.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Butcher%2C+The+Baker%2C+The+Cappuccino+Maker+8653+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+
+Breakfast Brunch Bakeries & dessert
+
+Eat
+
+### Dinner
+
+### Ardor
+
+$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.6 mi · 9040 Sunset Blvd
+
+A moody, vegetable-forward restaurant inside the Edition hotel.
+
+**Order:** The tempura onion rings and tandoor carrots.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ardor+9040+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+
+Dinner Brunch Healthy & plant-based
+
+### Somni
+
+$$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 2.0 mi · 9045 Nemo St
+
+A Michelin-level tasting counter with a long, theatrical, seafood-heavy menu. One of the most expensive meals in LA.
+
+**Order:** Book the full tasting menu well in advance.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Somni+9045+Nemo+St+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants)
+
+Dinner Date night
+
+### Dan Tana's
+
+$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 2.0 mi · 9071 Santa Monica Blvd
+
+Red-checked tablecloths, red sauce and decades of Hollywood regulars.
+
+**Order:** Fried ravioli, chicken parm and the Caesar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dan+Tana%27s+9071+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-west-hollywood)
+
+Dinner Late night
+
+**Love Beverly Hills Post Office? Live here.** Get new Beverly Hills Post Office listings, including off-market ones, or a free value on your Beverly Hills Post Office home.
+
+What's my home worth? Get Beverly Hills Post Office listings
+
+Drink
+
+### Nightlife
 
 ### Polo Lounge at the Beverly Hills Hotel
 
 $$$$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9641 Sunset Blvd
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.5 mi · 9641 Sunset Blvd
 
 The pink hotel's famous lounge, worth a visit even if you aren't staying.
 
@@ -165,23 +177,33 @@ The pink hotel's famous lounge, worth a visit even if you aren't staying.
 
 Cocktail bars & lounges Brunch Landmarks & sights
 
-### The Rooftop at the Waldorf Astoria
+### Sunset at the West Hollywood EDITION
 
 $$$$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9850 Wilshire Blvd
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.6 mi · 9040 Sunset Blvd
 
-A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
+A basement nightclub under the EDITION hotel with a strict door and a dressed-up crowd. The most polished late-night room on the Strip.
 
-**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
+**Order:** Get on a list or book a table before you go. Dress code is enforced.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sunset+at+the+West+Hollywood+EDITION+9040+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Discotech](https://discotech.me/los-angeles/best-clubs-in-west-hollywood-los-angeles/)
 
-Rooftops & views Cocktail bars & lounges Date night
+Cocktail bars & lounges Late night
 
-**Love Beverly Hills Post Office? Live here.** Get new Beverly Hills Post Office listings, including off-market ones, or a free value on your Beverly Hills Post Office home.
+### Bar Next Door
 
-What's my home worth? Get Beverly Hills Post Office listings
+$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.4 mi · 9159 Sunset Blvd
+
+A tiny craft cocktail bar in the old office of Marilyn Monroe's agent, with drinks named after Strip landmarks.
+
+**Order:** Go Sunday through Thursday when it's calmer.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Next+Door+9159+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
+
+Cocktail bars & lounges
 
 Do
 
@@ -215,17 +237,17 @@ A well-kept forested park with wide trails and city and Valley views, run by a n
 
 Hikes & nature Parks
 
-### Beverly Gardens Park
+### Greystone Mansion
 
 Free
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · Santa Monica Blvd near Canon Dr
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.0 mi · 905 Loma Vista Dr
 
-A long, tree-lined park with the Beverly Hills sign everyone photographs.
+A 55-room Tudor estate whose gardens and grounds are free to walk.
 
-**Do:** The Beverly Hills Art Show runs here in May and October.
+**Do:** The interior opens only for events and tours.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Santa+Monica+Blvd+near+Canon+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Greystone+Mansion+905+Loma+Vista+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
 
 Parks Landmarks & sights
 

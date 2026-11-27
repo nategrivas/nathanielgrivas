@@ -34,11 +34,13 @@ Westwood is the City of LA neighborhood around UCLA, from the Wilshire Corridor 
 
 Call Text
 
-From above
+The map
 
-## Westwood by satellite
+## Westwood, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Westwood%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,9 +57,11 @@ Local LA
 
 ## Where to eat, drink and go in Westwood
 
+See them on the map →
+
 Westwood runs from the UCLA campus and Westwood Village south past Wilshire, where Westwood Boulevard turns into LA's best stretch of Persian food. The Village has historic movie palaces, late-night eats and the free Hammer Museum.
 
-24 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+25 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -225,9 +229,9 @@ Lunch Cheap eats
 
 What's my home worth? Get Westwood listings
 
-Eat & drink
+Eat
 
-### Dinner & drinks
+### Dinner
 
 ### Shamshiri Grill
 
@@ -341,11 +345,15 @@ A romantic French bistro with a patio in the Village.
 
 Dinner Date night
 
+Drink
+
+### Nightlife
+
 ### Bar Toscana
 
 $$$
 
-Next door in [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood) · 2.0 mi · 11633 San Vicente Blvd
+Next door in [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood) · 1.2 mi · 11633 San Vicente Blvd
 
 An intimate, stylish cocktail bar next door to Toscana, the longtime Brentwood power-dinner spot. Italian aperitivo drinks and small plates in a room that stays lively late.
 
@@ -355,19 +363,33 @@ An intimate, stylish cocktail bar next door to Toscana, the longtime Brentwood p
 
 Cocktail bars & lounges Date night
 
-### Lost and Found Cocktails
+### The Rooftop at the Waldorf Astoria
 
-$$
+$$$$
 
-Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 1.7 mi · 11700 National Blvd
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.9 mi · 9850 Wilshire Blvd
 
-A classy cocktail lounge with a small dance floor and local DJs on weekends.
+A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
 
-**Order:** A smoked old fashioned. Open Wednesday through Saturday.
+**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
 
-Cocktail bars & lounges Late night
+Rooftops & views Cocktail bars & lounges Date night
+
+### Polo Lounge at the Beverly Hills Hotel
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.2 mi · 9641 Sunset Blvd
+
+The pink hotel's famous lounge, worth a visit even if you aren't staying.
+
+**Order:** A drink or brunch on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Cocktail bars & lounges Brunch Landmarks & sights
 
 Do
 
@@ -391,7 +413,7 @@ Museums Art & galleries
 
 Free
 
-Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 1.7 mi · 1945 Purdue Ave
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 1.6 mi · 1945 Purdue Ave
 
 Frank Gehry's first house design, built to show a Pop Art collection. View it from the street.
 

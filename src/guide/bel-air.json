@@ -23,6 +23,10 @@
    "o": "Brunch on the patio, then walk the grounds to see the swans.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.0865,
+    -118.44642
    ]
   },
   {
@@ -37,6 +41,10 @@
    "o": "The zucchini souffle and the truffle pizza.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.12782,
+    -118.44356
    ]
   },
   {
@@ -52,6 +60,10 @@
    "o": "Bring kids to Noah's Ark; parking is free.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.12454,
+    -118.47913
    ]
   }
  ]

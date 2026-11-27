@@ -27,6 +27,10 @@
    "s": [
     "inf",
     "gm"
+   ],
+   "ll": [
+    34.20129,
+    -118.53936
    ]
   },
   {
@@ -42,6 +46,10 @@
    "o": "Banh xeo, egg rolls and the dill fish.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.20147,
+    -118.54421
    ]
   },
   {
@@ -56,6 +64,10 @@
    "o": "Makanek sausage, the mixed grill and baklava to finish.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.20088,
+    -118.56095
    ]
   }
  ]

@@ -34,11 +34,13 @@ Reseda is a City of LA neighborhood in the west-central Valley, north of Tarzana
 
 Call Text
 
-From above
+The map
 
-## Reseda by satellite
+## Reseda, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Reseda%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,13 +57,29 @@ Local LA
 
 ## Where to eat, drink and go in Reseda
 
+See them on the map →
+
 Reseda sits in the heart of the west Valley along Sherman Way and Reseda Boulevard, with some of the Valley's best family-run Vietnamese and Lebanese cooking in its strip malls.
 
-3 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+6 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
-### Restaurants
+### Breakfast & lunch
+
+### Cafe Aftab
+
+$$
+
+Next door in [Tarzana](https://www.nathanielgrivas.com/neighborhoods/tarzana) · 2.2 mi · 19239 Ventura Blvd
+
+A newer Persian cafe with a calm, sunny room, creative drinks and good breakfast toasts.
+
+**Order:** A cappuccino and the salmon toast.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Aftab+19239+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+
+Coffee Breakfast
 
 ### Khuu Bistro
 
@@ -76,6 +94,24 @@ A tiny spot serving Northern and Southern Vietnamese specialties you rarely see 
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Khuu+Bistro+18845+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
 Lunch Dinner Cheap eats
+
+### Hummus Bar & Grill
+
+$$
+
+Next door in [Tarzana](https://www.nathanielgrivas.com/neighborhoods/tarzana) · 2.1 mi · 18743 Ventura Blvd
+
+An Israeli grill known for fresh hummus, hot bread and an endless spread of small salads.
+
+**Order:** Hummus topped with meat, plus the salads.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hummus+Bar+%26+Grill+18743+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+
+Lunch Dinner
+
+Eat
+
+### Dinner
 
 ### Vinh Loi
 
@@ -104,6 +140,24 @@ A warm, family-run Lebanese restaurant with generous portions and very fresh foo
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Monaia+Mediterranean+Cuisine+19642+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
 Dinner Lunch
+
+### Le Sanglier
+
+$$$
+
+Next door in [Tarzana](https://www.nathanielgrivas.com/neighborhoods/tarzana) · 2.1 mi · 5522 Crebs Ave
+
+A father-and-son French restaurant open for more than 50 years, with a cozy lodge-style dining room. Dinner Wednesday through Saturday.
+
+**Order:** Duck a l'orange and the creme brulee.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Le+Sanglier+5522+Crebs+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+
+Date night Dinner
+
+**Love Reseda? Live here.** Get new Reseda listings, including off-market ones, or a free value on your Reseda home.
+
+What's my home worth? Get Reseda listings
 
 Sources
 

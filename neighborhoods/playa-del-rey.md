@@ -34,11 +34,13 @@ Playa del Rey is a small beach community in the City of LA, between Marina del R
 
 Call Text
 
-From above
+The map
 
-## Playa del Rey by satellite
+## Playa del Rey, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,9 +57,11 @@ Local LA
 
 ## Where to eat, drink and go in Playa del Rey
 
+See them on the map →
+
 Playa del Rey is a small beach town at the south end of the Ballona Wetlands, with a short, walkable strip of bars and restaurants on Culver Boulevard and wide beaches where you can watch jets leave LAX.
 
-11 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -105,9 +109,9 @@ A family-run Mexican restaurant cooking everything from scratch.
 
 Breakfast Tacos & Mexican Lunch
 
-Eat & drink
+Eat
 
-### Dinner & drinks
+### Dinner
 
 ### Playa Provisions
 
@@ -151,11 +155,19 @@ A Roman-run Italian restaurant serving fresh pasta near the beach since 1997, wi
 
 Date night Dinner
 
+**Love Playa del Rey? Live here.** Get new Playa del Rey listings, including off-market ones, or a free value on your Playa del Rey home.
+
+What's my home worth? Get Playa del Rey listings
+
+Drink
+
+### Nightlife
+
 ### Whiskey Red's
 
 $$
 
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.8 mi · 13813 Fiji Way
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.0 mi · 13813 Fiji Way
 
 A touristy spot where the marina view is the reason to go.
 
@@ -165,11 +177,25 @@ A touristy spot where the marina view is the reason to go.
 
 Cocktail bars & lounges Rooftops & views
 
+### The Manchester
+
+$$
+
+Next door in [Westchester](https://www.nathanielgrivas.com/neighborhoods/westchester) · 1.2 mi · 8522 Lincoln Blvd
+
+A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy hour.
+
+**Order:** A whiskey sour and the Sichuan wings.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+
+Cocktail bars & lounges Dinner Date night
+
 ### The Warehouse Restaurant
 
 $$
 
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.8 mi · 4499 Admiralty Way
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.9 mi · 4499 Admiralty Way
 
 A quirky, rowdy nautical-themed classic on the water.
 
@@ -178,10 +204,6 @@ A quirky, rowdy nautical-themed classic on the water.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Warehouse+Restaurant+4499+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
 
 Cocktail bars & lounges
-
-**Love Playa del Rey? Live here.** Get new Playa del Rey listings, including off-market ones, or a free value on your Playa del Rey home.
-
-What's my home worth? Get Playa del Rey listings
 
 Do
 
@@ -205,7 +227,7 @@ Beaches Landmarks & sights
 
 Free
 
-Next door in [Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista) · 1.6 mi · Ballona Wetlands
+Next door in [Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista) · 0.8 mi · Ballona Wetlands
 
 A protected coastal wetland with birding and a walking and bike path that links Marina del Rey and Playa del Rey.
 
@@ -219,7 +241,7 @@ Hikes & nature Parks
 
 $
 
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.8 mi · 4101 Admiralty Way
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 2.1 mi · 4101 Admiralty Way
 
 A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and paddleboard launching.
 

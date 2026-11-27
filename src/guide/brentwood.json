@@ -36,6 +36,10 @@
    "o": "A cappuccino. Park in the lot; it's validated.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.05347,
+    -118.46254
    ]
   },
   {
@@ -51,6 +55,10 @@
    "o": "The breakfast croissant sandwich and an iced mint latte.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.04844,
+    -118.49052
    ]
   },
   {
@@ -66,6 +74,10 @@
    "o": "Lox benedict or the blueberry pancakes.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.05416,
+    -118.46376
    ]
   },
   {
@@ -80,6 +92,10 @@
    "o": "Go before 11am for the Caesar wrap or the tuna melt.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06457,
+    -118.46943
    ]
   },
   {
@@ -95,6 +111,10 @@
    "o": "The poached chicken salad.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.04793,
+    -118.49125
    ]
   },
   {
@@ -109,6 +129,10 @@
    "o": "Coffee, then a wander through the shops. The first hour of parking is free.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.04787,
+    -118.49118
    ]
   },
   {
@@ -124,6 +148,10 @@
    "s": [
     "inf",
     "fod"
+   ],
+   "ll": [
+    34.05334,
+    -118.46604
    ]
   },
   {
@@ -139,6 +167,10 @@
    "o": "Crispy oval pizzas and antipasti.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06433,
+    -118.46902
    ]
   },
   {
@@ -167,6 +199,10 @@
    "o": "The latke-crusted schnitzel, the pork chop and a wedge salad.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06462,
+    -118.46915
    ]
   },
   {
@@ -181,6 +217,10 @@
    "o": "The five-course tasting for two, or the cheesesteak at the bar.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.05348,
+    -118.46836
    ]
   },
   {
@@ -195,6 +235,10 @@
    "o": "Lobster and tomato paccheri, and ask about the off-menu duck.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.05307,
+    -118.46307
    ]
   },
   {
@@ -208,6 +252,10 @@
    "o": "Tagliatelle with tomato and monkfish.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06454,
+    -118.46945
    ]
   },
   {
@@ -222,6 +270,10 @@
    "o": "Dover sole and the Chicago rigatoni.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.06501,
+    -118.46926
    ]
   },
   {
@@ -236,6 +288,10 @@
    "o": "Bolognese tagliatelle and the veal chop.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.05371,
+    -118.46367
    ]
   },
   {
@@ -250,6 +306,10 @@
    "o": "Sit at the bar for omakase.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.04619,
+    -118.46504
    ]
   },
   {
@@ -266,6 +326,10 @@
    "s": [
     "gm",
     "getty"
+   ],
+   "ll": [
+    34.07695,
+    -118.47571
    ]
   },
   {
@@ -281,6 +345,10 @@
    "o": "Go early or at sunset. There's no shade and little parking.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.0847,
+    -118.509
    ]
   },
   {
@@ -310,6 +378,10 @@
    "o": "A Negroni riff and a few small plates before or after dinner on San Vicente.",
    "s": [
     "btos"
+   ],
+   "ll": [
+    34.05431,
+    -118.46323
    ]
   }
  ]

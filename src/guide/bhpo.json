@@ -23,6 +23,10 @@
    "o": "Walk the lake loop and look for turtles in the pond. Drive slowly; there are stop-sign cameras.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.12282,
+    -118.40844
    ]
   },
   {
@@ -37,6 +41,10 @@
    "o": "Join a guided moonlight hike.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.12796,
+    -118.40648
    ]
   }
  ]

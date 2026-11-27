@@ -36,6 +36,10 @@
    "o": "A matcha with the pistachio blossom syrup or the apple pie latte.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.09821,
+    -118.32256
    ]
   },
   {
@@ -51,6 +55,10 @@
    "o": "A Spanish latte and the Biscoff tres leches before a show.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.10145,
+    -118.32647
    ]
   },
   {
@@ -65,6 +73,10 @@
    "o": "Blueberry pancakes or a hot sandwich. Open Wednesday through Sunday.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.10535,
+    -118.32385
    ]
   },
   {
@@ -79,6 +91,10 @@
    "o": "The oatmeal griddle cakes.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.09083,
+    -118.3387
    ]
   },
   {
@@ -93,6 +109,10 @@
    "o": "The Boursin omelet, steak frites or the Big Mec burger.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.08387,
+    -118.33848
    ]
   },
   {
@@ -109,6 +129,10 @@
    "s": [
     "to",
     "todo"
+   ],
+   "ll": [
+    34.10176,
+    -118.3353
    ]
   },
   {
@@ -124,6 +148,10 @@
    "o": "The full tasting menu.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.08363,
+    -118.33019
    ]
   },
   {
@@ -138,6 +166,10 @@
    "o": "A dry-aged steak and something from the butcher case to take home.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.0979,
+    -118.33336
    ]
   },
   {
@@ -153,6 +185,10 @@
    "o": "Whatever's seasonal, and the dark chocolate tart.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.09812,
+    -118.3554
    ]
   },
   {
@@ -168,6 +204,10 @@
    "o": "The Phuket-style crab curry with rice noodles.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.09772,
+    -118.33588
    ]
   },
   {
@@ -183,6 +223,10 @@
    "o": "Lamb neck barbacoa and a whole grilled fish.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.09944,
+    -118.33189
    ]
   },
   {
@@ -212,6 +256,10 @@
    "o": "A classic cocktail and a frame of bowling.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.10093,
+    -118.34181
    ]
   },
   {
@@ -226,6 +274,10 @@
    "o": "Head to the back patio for a boozy snow cone.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.10024,
+    -118.32403
    ]
   },
   {
@@ -241,6 +293,10 @@
    "o": "Book a window table at sunset.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.10576,
+    -118.34141
    ]
   },
   {
@@ -255,6 +311,10 @@
    "o": "Bring a picnic and take the Bowl shuttle; parking is limited.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.1117,
+    -118.33717
    ]
   },
   {
@@ -269,6 +329,10 @@
    "o": "Front rows of the mezzanine are the best seats.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.10221,
+    -118.32577
    ]
   },
   {
@@ -283,6 +347,10 @@
    "o": "Skip the crowded courtyard and see a movie in the main house.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.10207,
+    -118.34095
    ]
   },
   {
@@ -297,6 +365,10 @@
    "o": "Catch a nitrate or 70mm screening.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.10082,
+    -118.33666
    ]
   },
   {
@@ -311,6 +383,10 @@
    "o": "A Disney premiere with the kids.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.1011,
+    -118.33981
    ]
   },
   {
@@ -326,6 +402,10 @@
    "o": "Bring a blanket for a summer screening.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.0905,
+    -118.31978
    ]
   },
   {
@@ -340,6 +420,10 @@
    "o": "Get there early for the rooftop.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.10128,
+    -118.32325
    ]
   },
   {
@@ -353,6 +437,10 @@
    "o": "Check the calendar.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.09849,
+    -118.32429
    ]
   },
   {
@@ -367,6 +455,10 @@
    "o": "A weeknight show in the main room.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.10038,
+    -118.32983
    ]
   },
   {
@@ -381,6 +473,10 @@
    "o": "Check the in-store calendar.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.10119,
+    -118.32477
    ]
   },
   {
@@ -395,6 +491,10 @@
    "o": "Get in with a member, a hotel stay or show tickets.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.10403,
+    -118.34401
    ]
   },
   {
@@ -409,6 +509,10 @@
    "o": "Book ahead and download the tour app.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.08365,
+    -118.3208
    ]
   },
   {
@@ -422,6 +526,10 @@
    "o": "Walk it early in the morning.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.1016,
+    -118.3267
    ]
   },
   {
@@ -451,6 +559,10 @@
    "o": "Go early; use the Mulholland entrance for an easier walk.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.10537,
+    -118.34883
    ]
   },
   {
@@ -466,6 +578,10 @@
    "o": "Photos of the sign, then a picnic.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.12776,
+    -118.327
    ]
   },
   {
@@ -480,6 +596,10 @@
    "o": "Arrive early; it closes in the evening.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.11682,
+    -118.34136
    ]
   },
   {
@@ -495,6 +615,10 @@
    "o": "Book the sunset ride.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.12784,
+    -118.31631
    ]
   },
   {
@@ -511,6 +635,10 @@
    "s": [
     "barlis",
     "tobarlis"
+   ],
+   "ll": [
+    34.09895,
+    -118.33136
    ]
   }
  ]

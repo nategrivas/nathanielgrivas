@@ -26,6 +26,10 @@
    "s": [
     "inf",
     "gm"
+   ],
+   "ll": [
+    34.18657,
+    -118.45764
    ]
   },
   {
@@ -41,6 +45,10 @@
    "o": "Half a chicken with black beans and yellow rice, or a Cubano.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.20628,
+    -118.44866
    ]
   },
   {
@@ -55,6 +63,10 @@
    "o": "A double smash and the loaded fries.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.19398,
+    -118.49162
    ]
   },
   {
@@ -70,6 +82,10 @@
    "o": "Walk the loop in the morning; come in spring for the cherry blossoms.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.1815,
+    -118.49682
    ]
   },
   {
@@ -84,6 +100,10 @@
    "o": "Check the hours before you go; it keeps limited days.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.18044,
+    -118.48302
    ]
   }
  ]

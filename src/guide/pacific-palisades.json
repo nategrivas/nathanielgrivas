@@ -1,27 +1,258 @@
-{"slug": "pacific-palisades", "updated": "2026-11-26",
+{
+ "slug": "pacific-palisades",
+ "updated": "2026-11-26",
  "intro": "Pacific Palisades is rebuilding after the January 2025 Palisades Fire. Palisades Village reopened in August 2026 after a $100 million restoration, and a growing list of local restaurants, shops and trails are open again. This guide lists only places confirmed open, and it grows as more return.",
  "sources": {
-  "abc7": ["ABC7: Palisades Village grand reopening", "https://abc7.com/story/hundreds-gather-grand-reopening-palisades-village-year-half-fire-damage-renovations/19685457/"],
-  "abc7b": ["ABC7: Palisades Village reopens this weekend", "https://abc7.com/post/rick-carusos-palisades-village-reopen-saturday-more-100-million-renovations/19677362/"],
-  "lamag": ["Los Angeles Magazine: Palisades small businesses reopen", "https://lamag.com/style/pacific-palisades-small-business-reopenings-august-2026/"],
-  "lamagv": ["Los Angeles Magazine: Palisades Village reopens", "https://lamag.com/news/palisades-village-re-opens-celebrating-a-sense-of-normalcy-and-resilience/"],
-  "smdp": ["Santa Monica Daily Press: New neighborhood grill opens in the Palisades", "https://www.smdp.com/new-neighborhood-grill-to-open-aug-15-in-rebuilding-pacific-palisades.md"],
-  "yahoo": ["Nancy Silverton to open Spacca Tutto at Palisades Village", "https://www.yahoo.com/news/articles/la-chef-nancy-silverton-open-195941103.html"],
-  "laist": ["LAist: Fire-affected restaurants open and closed in Malibu and the Palisades", "https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary"],
-  "gm": ["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA"]
+  "abc7": [
+   "ABC7: Palisades Village grand reopening",
+   "https://abc7.com/story/hundreds-gather-grand-reopening-palisades-village-year-half-fire-damage-renovations/19685457/"
+  ],
+  "abc7b": [
+   "ABC7: Palisades Village reopens this weekend",
+   "https://abc7.com/post/rick-carusos-palisades-village-reopen-saturday-more-100-million-renovations/19677362/"
+  ],
+  "lamag": [
+   "Los Angeles Magazine: Palisades small businesses reopen",
+   "https://lamag.com/style/pacific-palisades-small-business-reopenings-august-2026/"
+  ],
+  "lamagv": [
+   "Los Angeles Magazine: Palisades Village reopens",
+   "https://lamag.com/news/palisades-village-re-opens-celebrating-a-sense-of-normalcy-and-resilience/"
+  ],
+  "smdp": [
+   "Santa Monica Daily Press: New neighborhood grill opens in the Palisades",
+   "https://www.smdp.com/new-neighborhood-grill-to-open-aug-15-in-rebuilding-pacific-palisades.md"
+  ],
+  "yahoo": [
+   "Nancy Silverton to open Spacca Tutto at Palisades Village",
+   "https://www.yahoo.com/news/articles/la-chef-nancy-silverton-open-195941103.html"
+  ],
+  "laist": [
+   "LAist: Fire-affected restaurants open and closed in Malibu and the Palisades",
+   "https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA"
+  ]
  },
  "places": [
-  {"n": "Palisades Garden Cafe", "c": ["breakfast", "cheap"], "a": "15231 La Cruz Dr", "p": "$", "w": "A decades-old breakfast and burger cafe that reopened with a new roof and opens at 6:30 every morning.", "o": "Breakfast at the counter.", "s": ["lamag"]},
-  {"n": "Palisades Village", "c": ["shop", "landmark", "kids"], "a": "15225 Palisades Village Ln", "p": "$$", "w": "The neighborhood's walkable town square of shops, restaurants and lawns, reopened in August 2026 after a full restoration.", "o": "Walk the lawns, shop, then lunch on Swarthmore.", "s": ["abc7", "lamagv", "gm"]},
-  {"n": "Spacca Tutto", "c": ["dinner", "date"], "a": "15255 Palisades Village Ln", "p": "$$$$", "w": "Nancy Silverton's new Italian steak and seafood restaurant in Palisades Village.", "o": "Focaccia di Recco, the branzino and the chocolate chip cookie with soft serve.", "s": ["yahoo", "gm"]},
-  {"n": "Porta Via", "c": ["lunch", "dinner"], "a": "1063 N Swarthmore Ave", "p": "$$$", "w": "A polished California restaurant on Swarthmore, freshly reopened with a patio.", "o": "The tuna tower and the sea bass.", "s": ["gm"]},
-  {"n": "Angelini Ristorante and Bar", "c": ["dinner", "lunch", "date"], "a": "1038 N Swarthmore Ave", "p": "$$$", "w": "An Italian restaurant and bar with indoor and outdoor seating in the Village.", "o": "The octopus salad and the filet.", "s": ["gm"]},
-  {"n": "Alphabet Bar and Grill", "c": ["lunch", "dinner", "bars"], "a": "1033 N Swarthmore Ave", "p": "$$", "w": "A new neighborhood grill from the h.wood Group that opened with the Village.", "o": "The burger and the olive cake.", "s": ["smdp", "gm"]},
-  {"n": "Erewhon Palisades", "c": ["market", "healthy"], "a": "Palisades Village", "p": "$$$", "w": "The luxury grocer, back in the Village with its smoothie and hot bars.", "o": "A smoothie and lunch from the hot bar.", "s": ["lamagv"]},
-  {"n": "Loomey's Toys", "c": ["kids", "shop"], "a": "Palisades Village", "p": "$$", "w": "A local toy shop that lost its home in the fire and reopened inside Palisades Village.", "o": "Pick up a gift and support a returning local business.", "s": ["abc7b"]},
-  {"n": "Pali Trading Post", "c": ["shop"], "a": "15248 Sunset Blvd", "p": "$$", "w": "An upscale general store with gourmet treats, jewelry and home goods, and a neighborhood hub again.", "o": "Browse for gifts.", "s": ["lamag"]},
-  {"n": "BOCA", "c": ["shop"], "a": "970 Monument St", "p": "$$", "w": "A longtime beachy clothing boutique with aloha shirts and accessories, saved from the fire and reopened.", "o": "Shop the aloha shirts.", "s": ["lamag"]},
-  {"n": "Gerry Blanck's Martial Arts Center", "c": ["fitness", "kids"], "a": "542 Palisades Dr", "p": "$$", "w": "A karate dojo that has taught in the Palisades for more than 40 years and reopened in June 2026.", "o": "Kids' classes.", "s": ["lamag"]},
-  {"n": "Gladstones", "c": ["seafood", "lunch"], "a": "17300 Pacific Coast Hwy", "p": "$$$", "w": "The classic oceanfront seafood restaurant at Sunset and PCH, open again after the fire.", "o": "Check current hours, then lunch with an ocean view.", "s": ["laist"]},
-  {"n": "Will Rogers State Historic Park", "c": ["hike", "park", "landmark", "dogs"], "a": "1501 Will Rogers State Park Rd", "p": "$", "w": "Will Rogers' old ranch, with a polo field, horses and the Inspiration Point trail's big ocean and city views. Some areas are still being repaired.", "o": "Hike the loop to Inspiration Point.", "s": ["gm"]}
- ]}
+  {
+   "n": "Palisades Garden Cafe",
+   "c": [
+    "breakfast",
+    "cheap"
+   ],
+   "a": "15231 La Cruz Dr",
+   "p": "$",
+   "w": "A decades-old breakfast and burger cafe that reopened with a new roof and opens at 6:30 every morning.",
+   "o": "Breakfast at the counter.",
+   "s": [
+    "lamag"
+   ],
+   "ll": [
+    34.04561,
+    -118.52552
+   ]
+  },
+  {
+   "n": "Palisades Village",
+   "c": [
+    "shop",
+    "landmark",
+    "kids"
+   ],
+   "a": "15225 Palisades Village Ln",
+   "p": "$$",
+   "w": "The neighborhood's walkable town square of shops, restaurants and lawns, reopened in August 2026 after a full restoration.",
+   "o": "Walk the lawns, shop, then lunch on Swarthmore.",
+   "s": [
+    "abc7",
+    "lamagv",
+    "gm"
+   ],
+   "ll": [
+    34.04745,
+    -118.5248
+   ]
+  },
+  {
+   "n": "Spacca Tutto",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "15255 Palisades Village Ln",
+   "p": "$$$$",
+   "w": "Nancy Silverton's new Italian steak and seafood restaurant in Palisades Village.",
+   "o": "Focaccia di Recco, the branzino and the chocolate chip cookie with soft serve.",
+   "s": [
+    "yahoo",
+    "gm"
+   ]
+  },
+  {
+   "n": "Porta Via",
+   "c": [
+    "lunch",
+    "dinner"
+   ],
+   "a": "1063 N Swarthmore Ave",
+   "p": "$$$",
+   "w": "A polished California restaurant on Swarthmore, freshly reopened with a patio.",
+   "o": "The tuna tower and the sea bass.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Angelini Ristorante and Bar",
+   "c": [
+    "dinner",
+    "lunch",
+    "date"
+   ],
+   "a": "1038 N Swarthmore Ave",
+   "p": "$$$",
+   "w": "An Italian restaurant and bar with indoor and outdoor seating in the Village.",
+   "o": "The octopus salad and the filet.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Alphabet Bar and Grill",
+   "c": [
+    "lunch",
+    "dinner",
+    "bars"
+   ],
+   "a": "1033 N Swarthmore Ave",
+   "p": "$$",
+   "w": "A new neighborhood grill from the h.wood Group that opened with the Village.",
+   "o": "The burger and the olive cake.",
+   "s": [
+    "smdp",
+    "gm"
+   ]
+  },
+  {
+   "n": "Erewhon Palisades",
+   "c": [
+    "market",
+    "healthy"
+   ],
+   "a": "Palisades Village",
+   "p": "$$$",
+   "w": "The luxury grocer, back in the Village with its smoothie and hot bars.",
+   "o": "A smoothie and lunch from the hot bar.",
+   "s": [
+    "lamagv"
+   ],
+   "ll": [
+    34.04711,
+    -118.52519
+   ]
+  },
+  {
+   "n": "Loomey's Toys",
+   "c": [
+    "kids",
+    "shop"
+   ],
+   "a": "Palisades Village",
+   "p": "$$",
+   "w": "A local toy shop that lost its home in the fire and reopened inside Palisades Village.",
+   "o": "Pick up a gift and support a returning local business.",
+   "s": [
+    "abc7b"
+   ]
+  },
+  {
+   "n": "Pali Trading Post",
+   "c": [
+    "shop"
+   ],
+   "a": "15248 Sunset Blvd",
+   "p": "$$",
+   "w": "An upscale general store with gourmet treats, jewelry and home goods, and a neighborhood hub again.",
+   "o": "Browse for gifts.",
+   "s": [
+    "lamag"
+   ]
+  },
+  {
+   "n": "BOCA",
+   "c": [
+    "shop"
+   ],
+   "a": "970 Monument St",
+   "p": "$$",
+   "w": "A longtime beachy clothing boutique with aloha shirts and accessories, saved from the fire and reopened.",
+   "o": "Shop the aloha shirts.",
+   "s": [
+    "lamag"
+   ],
+   "ll": [
+    34.04655,
+    -118.52401
+   ]
+  },
+  {
+   "n": "Gerry Blanck's Martial Arts Center",
+   "c": [
+    "fitness",
+    "kids"
+   ],
+   "a": "542 Palisades Dr",
+   "p": "$$",
+   "w": "A karate dojo that has taught in the Palisades for more than 40 years and reopened in June 2026.",
+   "o": "Kids' classes.",
+   "s": [
+    "lamag"
+   ],
+   "ll": [
+    34.04489,
+    -118.55219
+   ]
+  },
+  {
+   "n": "Gladstones",
+   "c": [
+    "seafood",
+    "lunch"
+   ],
+   "a": "17300 Pacific Coast Hwy",
+   "p": "$$$",
+   "w": "The classic oceanfront seafood restaurant at Sunset and PCH, open again after the fire.",
+   "o": "Check current hours, then lunch with an ocean view.",
+   "s": [
+    "laist"
+   ],
+   "ll": [
+    34.03845,
+    -118.5557
+   ]
+  },
+  {
+   "n": "Will Rogers State Historic Park",
+   "c": [
+    "hike",
+    "park",
+    "landmark",
+    "dogs"
+   ],
+   "a": "1501 Will Rogers State Park Rd",
+   "p": "$",
+   "w": "Will Rogers' old ranch, with a polo field, horses and the Inspiration Point trail's big ocean and city views. Some areas are still being repaired.",
+   "o": "Hike the loop to Inspiration Point.",
+   "s": [
+    "gm"
+   ],
+   "ll": [
+    34.05442,
+    -118.51308
+   ]
+  }
+ ]
+}

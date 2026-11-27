@@ -34,11 +34,13 @@ West Hollywood is its own city of about 1.9 square miles between Beverly Hills a
 
 Call Text
 
-From above
+The map
 
-## West Hollywood by satellite
+## West Hollywood, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,6 +57,8 @@ What's my home worth? Get West Hollywood listings
 Local LA
 
 ## Where to eat, drink and go in West Hollywood
+
+See them on the map →
 
 West Hollywood packs the Sunset Strip's music clubs and comedy rooms, Santa Monica Boulevard's bars and the Melrose and Robertson restaurant row into under two square miles. It's one of the most walkable cities in LA, and brunch here is a weekend sport.
 
@@ -946,19 +950,19 @@ A furniture showroom with a rooftop garden and Hollywood Hills views that feels 
 
 Shopping Rooftops & views
 
-### Original Farmers Market
+### The Grove
 
-$
+$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 6333 W 3rd St
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.2 mi · 189 The Grove Dr
 
-LA's historic open-air market of food stalls and grocers, open since 1934.
+An outdoor shopping village with a trolley, a fountain show and a movie theater, next to the Farmers Market.
 
-**Do:** Graze: laksa, Brazilian barbecue, oysters and a pie.
+**Do:** Shop, catch a movie, then eat at the market.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Original+Farmers+Market+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Grove+189+The+Grove+Dr+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
 
-Markets Landmarks & sights Lunch
+Shopping Kids & family Movies
 
 Sources
 

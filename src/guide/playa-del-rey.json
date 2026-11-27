@@ -25,6 +25,10 @@
    "o": "A croissant breakfast sandwich and a latte.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.9588,
+    -118.4481
    ]
   },
   {
@@ -39,6 +43,10 @@
    "o": "An iced latte and a Greek omelette from the truck.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.96143,
+    -118.44572
    ]
   },
   {
@@ -54,6 +62,10 @@
    "o": "Chilaquiles at brunch or the fish tacos.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.96037,
+    -118.44691
    ]
   },
   {
@@ -70,6 +82,10 @@
    "o": "Crab claws and the lobster roll, then ice cream.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.95801,
+    -118.44975
    ]
   },
   {
@@ -86,6 +102,10 @@
    "s": [
     "ot",
     "gm"
+   ],
+   "ll": [
+    33.95867,
+    -118.44839
    ]
   },
   {
@@ -101,6 +121,10 @@
    "s": [
     "ot",
     "gm"
+   ],
+   "ll": [
+    33.95748,
+    -118.44953
    ]
   },
   {
@@ -115,6 +139,10 @@
    "o": "Arrive early on weekends to claim a fire pit.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    33.92548,
+    -118.43072
    ]
   }
  ]

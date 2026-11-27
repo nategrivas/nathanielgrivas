@@ -44,6 +44,10 @@
    "o": "A pour-over on the patio.",
    "s": [
     "toguide"
+   ],
+   "ll": [
+    34.09215,
+    -118.28037
    ]
   },
   {
@@ -60,6 +64,10 @@
    "o": "Cafe cubano, pastelitos and the Cubano.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0829,
+    -118.27355
    ]
   },
   {
@@ -73,6 +81,10 @@
    "o": "The black cod bagel, or lox with wasabi tobiko cream cheese.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07661,
+    -118.27499
    ]
   },
   {
@@ -88,6 +100,10 @@
    "o": "Breakfast burrito, fried chicken sandwich or oxtail in Japanese curry.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0831,
+    -118.28436
    ]
   },
   {
@@ -102,6 +118,10 @@
    "o": "Barbari bread, kofteh tabrizi and the Persian mille-feuille.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08382,
+    -118.27388
    ]
   },
   {
@@ -115,6 +135,10 @@
    "o": "Any focaccia sandwich and the tiramisu.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08207,
+    -118.27183
    ]
   },
   {
@@ -130,6 +154,10 @@
    "o": "Beef scallion pancake roll and wonton noodle soup.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.09052,
+    -118.27715
    ]
   },
   {
@@ -144,6 +172,10 @@
    "o": "Burrata with tomato granita, branzino in coconut sauce and bananas foster.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08528,
+    -118.27456
    ]
   },
   {
@@ -158,6 +190,10 @@
    "o": "Duck tortellini, fried sweetbreads or steak frites.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.09114,
+    -118.2831
    ]
   },
   {
@@ -172,6 +208,10 @@
    "o": "Steak au poivre, frisée salad and sorbet in a frozen lemon.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.09215,
+    -118.28045
    ]
   },
   {
@@ -187,6 +227,10 @@
    "o": "Scallops on the half shell, tai snapper ceviche and the kanpachi tostada.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.10501,
+    -118.27283
    ]
   },
   {
@@ -201,6 +245,10 @@
    "o": "Yuca latkes, plantain gnocchi in curry and spicy coconut mussels.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08882,
+    -118.27655
    ]
   },
   {
@@ -215,6 +263,10 @@
    "o": "Mackerel conserva, tortilla española and grilled prawns.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08966,
+    -118.26805
    ]
   },
   {
@@ -229,6 +281,10 @@
    "o": "Taro-coconut dip with focaccia and crab-stuffed tortang talong.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07597,
+    -118.28659
    ]
   },
   {
@@ -242,6 +298,10 @@
    "o": "The omakase with toro and wagyu, or spicy tuna crispy rice.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.09555,
+    -118.28307
    ]
   },
   {
@@ -255,6 +315,10 @@
    "o": "Larb and a bottle of natural wine.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08692,
+    -118.27584
    ]
   },
   {
@@ -269,6 +333,10 @@
    "o": "Malai rigatoni, saag pizza and masala wings. Avoid big game nights.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.08107,
+    -118.27041
    ]
   },
   {
@@ -298,6 +366,10 @@
    "s": [
     "inf",
     "tobars"
+   ],
+   "ll": [
+    34.08898,
+    -118.26896
    ]
   },
   {
@@ -312,6 +384,10 @@
    "s": [
     "tobars",
     "roadbook"
+   ],
+   "ll": [
+    34.09748,
+    -118.28576
    ]
   },
   {
@@ -328,6 +404,10 @@
    "s": [
     "infeast",
     "tobars"
+   ],
+   "ll": [
+    34.09569,
+    -118.28425
    ]
   },
   {
@@ -356,6 +436,10 @@
    "o": "Bring a group and catch a show.",
    "s": [
     "infelcid"
+   ],
+   "ll": [
+    34.09383,
+    -118.28241
    ]
   },
   {
@@ -369,6 +453,10 @@
    "o": "A whiskey flight at happy hour.",
    "s": [
     "tobars"
+   ],
+   "ll": [
+    34.08369,
+    -118.27378
    ]
   },
   {
@@ -384,6 +472,10 @@
    "o": "Walk the loop, then eat on the Silver Lake Blvd strip just south.",
    "s": [
     "toguide"
+   ],
+   "ll": [
+    34.09741,
+    -118.26404
    ]
   },
   {
@@ -412,6 +504,10 @@
    "o": "Shop, get coffee and people-watch.",
    "s": [
     "toguide"
+   ],
+   "ll": [
+    34.09265,
+    -118.28079
    ]
   }
  ]

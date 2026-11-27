@@ -34,11 +34,13 @@ Echo Park is a City of LA neighborhood northwest of Downtown, between Silver Lak
 
 Call Text
 
-From above
+The map
 
-## Echo Park by satellite
+## Echo Park, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Echo+Park%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,9 +57,11 @@ Local LA
 
 ## Where to eat, drink and go in Echo Park
 
+See them on the map →
+
 Echo Park wraps around its lake, with swan boats and a palm-lined loop, and Sunset Boulevard runs through it with some of the Eastside's best bars, taquerias and music rooms. Dodger Stadium sits right above it in Chavez Ravine.
 
-28 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+29 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -403,7 +407,7 @@ Cocktail bars & lounges Rooftops & views
 
 Do
 
-### Things to do
+### Culture & shows
 
 ### The Echo
 
@@ -433,6 +437,24 @@ The Dodgers' hilltop home in Chavez Ravine, right above the neighborhood.
 
 Landmarks & sights Kids & family
 
+### Vista Theatre
+
+$$
+
+Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 2.0 mi · 4473 Sunset Dr
+
+A century-old single-screen movie palace with an Egyptian interior. Every other row was removed, so there's real legroom.
+
+**Do:** A matinee with real butter on the popcorn.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Vista+Theatre+4473+Sunset+Dr+Los+Feliz+Los+Angeles+CA) Sources: [Discover Los Angeles](https://www.discoverlosangeles.com/visit/hidden-gems-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-los-feliz)
+
+Movies Landmarks & sights
+
+Do
+
+### Parks & outdoors
+
 ### Echo Park Lake
 
 Free
@@ -447,20 +469,6 @@ A palm-ringed lake with swan pedal boats, a fountain and a walking loop. The lot
 
 Parks Landmarks & sights Kids & family
 
-### Silver Lake Reservoir
-
-Free
-
-Next door in [Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake) · 0.8 mi · Silver Lake Blvd
-
-The neighborhood's centerpiece: a loop for running, a meadow for picnics and room for dogs.
-
-**Do:** Walk the loop, then eat on the Silver Lake Blvd strip just south.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Silver+Lake+Reservoir+Silver+Lake+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/silver-lake-guide)
-
-Parks Fitness & outdoor sports Dog-friendly
-
 ### Silver Lake Stairs
 
 Free
@@ -474,6 +482,20 @@ Dozens of public stairways wind through the hillsides, a way to see the neighbor
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Silver+Lake+Stairs+Throughout+the+hills+Silver+Lake+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/silver-lake-guide)
 
 Hikes & nature Fitness & outdoor sports
+
+### Silver Lake Reservoir
+
+Free
+
+Next door in [Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake) · 1.3 mi · Silver Lake Blvd
+
+The neighborhood's centerpiece: a loop for running, a meadow for picnics and room for dogs.
+
+**Do:** Walk the loop, then eat on the Silver Lake Blvd strip just south.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Silver+Lake+Reservoir+Silver+Lake+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/silver-lake-guide)
+
+Parks Fitness & outdoor sports Dog-friendly
 
 Sources
 

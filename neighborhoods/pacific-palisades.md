@@ -34,11 +34,13 @@ Pacific Palisades is part of the City of LA, between Santa Monica and Malibu. Th
 
 Call Text
 
-From above
+The map
 
-## Pacific Palisades by satellite
+## Pacific Palisades, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -56,13 +58,15 @@ Local LA
 
 ## Where to eat, drink and go in Pacific Palisades
 
+See them on the map →
+
 Pacific Palisades is rebuilding after the January 2025 Palisades Fire. Palisades Village reopened in August 2026 after a $100 million restoration, and a growing list of local restaurants, shops and trails are open again. This guide lists only places confirmed open, and it grows as more return.
 
-13 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+17 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
-### Breakfast & lunch
+### Coffee & breakfast
 
 ### Palisades Garden Cafe
 
@@ -77,6 +81,38 @@ A decades-old breakfast and burger cafe that reopened with a new roof and opens 
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Palisades+Garden+Cafe+15231+La+Cruz+Dr+Pacific+Palisades+Los+Angeles+CA) Sources: [Los Angeles Magazine](https://lamag.com/style/pacific-palisades-small-business-reopenings-august-2026/)
 
 Breakfast Cheap eats
+
+### Farmshop
+
+$$$
+
+Next door in [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood) · 2.0 mi · 225 26th St
+
+The all-day hangout of the Brentwood Country Mart, with a market for picnic supplies.
+
+**Order:** The poached chicken salad.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Farmshop+225+26th+St+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Brunch Lunch Markets
+
+### Parakeet Cafe
+
+$$
+
+Next door in [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood) · 2.1 mi · 13050 San Vicente Blvd
+
+A bright, friendly cafe at the west end of San Vicente with protein-forward breakfasts and creative lattes.
+
+**Order:** The breakfast croissant sandwich and an iced mint latte.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Parakeet+Cafe+13050+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+
+Breakfast Coffee Healthy & plant-based
+
+Eat
+
+### Lunch & casual
 
 ### Porta Via
 
@@ -106,9 +142,27 @@ A new neighborhood grill from the h.wood Group that opened with the Village.
 
 Lunch Dinner Cocktail bars & lounges
 
-Go
+### Bread Head
 
-### Restaurants & cafes
+$$
+
+Next door in [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica) · 2.1 mi · 1518 Montana Ave
+
+Sandwiches on loaves baked fresh every day, somewhere between focaccia and ciabatta.
+
+**Order:** The muffuletta, or mozzarella and avocado.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bread+Head+1518+Montana+Ave+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Lunch
+
+**Love Pacific Palisades? Live here.** Get new Pacific Palisades listings, including off-market ones, or a free value on your Pacific Palisades home.
+
+What's my home worth? Get Pacific Palisades listings
+
+Eat
+
+### Dinner
 
 ### Spacca Tutto
 
@@ -152,6 +206,10 @@ The classic oceanfront seafood restaurant at Sunset and PCH, open again after th
 
 Seafood Lunch
 
+Do
+
+### Parks & outdoors
+
 ### Gerry Blanck's Martial Arts Center
 
 $$
@@ -180,9 +238,19 @@ Will Rogers' old ranch, with a polo field, horses and the Inspiration Point trai
 
 Hikes & nature Parks Landmarks & sights
 
-**Love Pacific Palisades? Live here.** Get new Pacific Palisades listings, including off-market ones, or a free value on your Pacific Palisades home.
+### Palisades Park
 
-What's my home worth? Get Pacific Palisades listings
+Free
+
+Next door in [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica) · 2.0 mi · Ocean Ave
+
+The bluff-top park with views down the coast and across to the Santa Monica Mountains.
+
+**Do:** Walk the north end to skip the pier crowds.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Palisades+Park+Ocean+Ave+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
+
+Parks Landmarks & sights
 
 Do
 

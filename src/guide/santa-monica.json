@@ -46,6 +46,10 @@
    "o": "The open-face bagel with seasonal fruit, cream cheese and honey.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.01158,
+    -118.46819
    ]
   },
   {
@@ -60,6 +64,10 @@
    "o": "Kanpachi crudo, pork dumplings and a curry.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0062,
+    -118.48816
    ]
   },
   {
@@ -75,6 +83,10 @@
    "s": [
     "inf",
     "fodors"
+   ],
+   "ll": [
+    34.01798,
+    -118.48919
    ]
   },
   {
@@ -88,6 +100,10 @@
    "o": "The muffuletta, or mozzarella and avocado.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03326,
+    -118.49354
    ]
   },
   {
@@ -102,6 +118,10 @@
    "o": "Xiao long bao, garlicky string beans and spicy wontons.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.01364,
+    -118.49378
    ]
   },
   {
@@ -116,6 +136,10 @@
    "o": "Squash blossom pizza, arancini and the radicchio salad.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.01165,
+    -118.46807
    ]
   },
   {
@@ -130,6 +154,10 @@
    "o": "Mushroom pizza and garlic knots.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03769,
+    -118.47603
    ]
   },
   {
@@ -144,6 +172,10 @@
    "o": "Crispy calamari with salted egg yolk, green curry risotto with mussels and pad kee mao.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.03511,
+    -118.47153
    ]
   },
   {
@@ -158,6 +190,10 @@
    "o": "Octopus with chorizo, scallops with saffron butter and garlicky gambas.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0174,
+    -118.49378
    ]
   },
   {
@@ -172,6 +208,10 @@
    "o": "Grilled artichokes, steak tartare and the thick pork chop.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.02504,
+    -118.49133
    ]
   },
   {
@@ -186,6 +226,10 @@
    "o": "The daily crudo, tuna tartare and oysters.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.00067,
+    -118.48235
    ]
   },
   {
@@ -200,6 +244,10 @@
    "o": "Cordon bleu chicken wings, mini French onion soup and the burger.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.00023,
+    -118.48202
    ]
   },
   {
@@ -214,6 +262,10 @@
    "o": "Fried corn ribs, grilled duck breast and udon with cod roe butter.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.01937,
+    -118.49752
    ]
   },
   {
@@ -228,6 +280,10 @@
    "o": "The omakase.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.01944,
+    -118.45485
    ]
   },
   {
@@ -241,6 +297,10 @@
    "o": "Blistered lamb chops, goat cheese tartines and chilled wine.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0283,
+    -118.46767
    ]
   },
   {
@@ -255,6 +315,10 @@
    "o": "The tasting menu.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    33.99816,
+    -118.48007
    ]
   },
   {
@@ -268,6 +332,10 @@
    "o": "About ten courses. Reservations open a month ahead.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.02442,
+    -118.49133
    ]
   },
   {
@@ -283,6 +351,10 @@
    "s": [
     "inf",
     "infbars"
+   ],
+   "ll": [
+    34.02933,
+    -118.49848
    ]
   },
   {
@@ -298,6 +370,10 @@
    "o": "A cocktail and a pizza for the table.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.0038,
+    -118.48552
    ]
   },
   {
@@ -327,6 +403,10 @@
    "s": [
     "infbars",
     "smcom"
+   ],
+   "ll": [
+    34.01046,
+    -118.49325
    ]
   },
   {
@@ -342,6 +422,10 @@
    "o": "A house martini for a special occasion.",
    "s": [
     "infbars"
+   ],
+   "ll": [
+    34.01386,
+    -118.49716
    ]
   },
   {
@@ -356,6 +440,10 @@
    "o": "A gin and tonic at sunset on a weekday.",
    "s": [
     "infbars"
+   ],
+   "ll": [
+    34.02139,
+    -118.4951
    ]
   },
   {
@@ -370,6 +458,10 @@
    "o": "Pizza and cocktails on the roof.",
    "s": [
     "smcom"
+   ],
+   "ll": [
+    34.01536,
+    -118.49789
    ]
   },
   {
@@ -384,6 +476,10 @@
    "o": "A chilled red or a dry riesling.",
    "s": [
     "infbars"
+   ],
+   "ll": [
+    34.03643,
+    -118.47029
    ]
   },
   {
@@ -397,6 +493,10 @@
    "o": "Go early or on a weeknight.",
    "s": [
     "infbars"
+   ],
+   "ll": [
+    34.02421,
+    -118.48609
    ]
   },
   {
@@ -411,6 +511,10 @@
    "o": "Walk the north end to skip the pier crowds.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.02252,
+    -118.5084
    ]
   },
   {
@@ -426,6 +530,10 @@
    "o": "Go at sunset, then walk north along the sand.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.0089,
+    -118.4974
    ]
   },
   {
@@ -440,6 +548,10 @@
    "o": "Rent a bike and ride to Venice in about 15 minutes.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.00805,
+    -118.49343
    ]
   },
   {
@@ -454,6 +566,10 @@
    "s": [
     "todo",
     "fodors"
+   ],
+   "ll": [
+    34.0166,
+    -118.49906
    ]
   },
   {
@@ -467,6 +583,10 @@
    "o": "Browse, then lunch on the street.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.01044,
+    -118.49094
    ]
   },
   {
@@ -480,6 +600,10 @@
    "o": "Pair it with lunch at Bread Head or a burger at Father's Office.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.04372,
+    -118.48099
    ]
   },
   {
@@ -493,6 +617,10 @@
    "o": "Go on a weekend afternoon for the buskers.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.01633,
+    -118.4969
    ]
   },
   {
@@ -507,6 +635,10 @@
    "o": "Pop in during a walk through Palisades Park.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.01279,
+    -118.49704
    ]
   },
   {
@@ -521,6 +653,10 @@
    "o": "Bring the kids for takeoffs.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.01748,
+    -118.44755
    ]
   },
   {
@@ -536,6 +672,10 @@
    "s": [
     "bung",
     "bungf"
+   ],
+   "ll": [
+    34.01802,
+    -118.50161
    ]
   }
  ]

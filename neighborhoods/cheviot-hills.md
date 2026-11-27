@@ -34,11 +34,13 @@ Cheviot Hills and Rancho Park are City of LA neighborhoods between Century City,
 
 Call Text
 
-From above
+The map
 
-## Cheviot Hills & Rancho Park by satellite
+## Cheviot Hills & Rancho Park, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get Cheviot Hills & Rancho Park listings
 Local LA
 
 ## Where to eat, drink and go in Cheviot Hills & Rancho Park
+
+See them on the map →
 
 Cheviot Hills is a quiet, green neighborhood of winding streets between Century City and Culver City, anchored by its big recreation center and the Rancho Park golf course, with neighborhood restaurants along Pico Boulevard nearby.
 
@@ -137,19 +141,19 @@ Chef Niki Nakayama's celebrated modern kaiseki tasting menu, one of the hardest 
 
 Date night Dinner
 
-### The Brothers Sushi
+### Lielle
 
-$$$
+$$$$
 
-Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.4 mi · 9240 Culver Blvd
+Next door in [Pico-Robertson & Beverlywood](https://www.nathanielgrivas.com/neighborhoods/pico-robertson) · 1.2 mi · 9575 W Pico Blvd
 
-The neighborhood's best sushi, with lunch specials and room for groups.
+A Michelin-recognized restaurant serving a seasonal four-course prix fixe.
 
-**Order:** The chirashi bowl.
+**Order:** Book well ahead for a special occasion.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Brothers+Sushi+9240+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lielle+9575+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Locale](https://localemagazine.com/hottest-new-restaurants-in-los-angeles/) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
 
-Sushi & Japanese Lunch
+Date night Dinner
 
 **Love Cheviot Hills & Rancho Park? Live here.** Get new Cheviot Hills & Rancho Park listings, including off-market ones, or a free value on your Cheviot Hills & Rancho Park home.
 
@@ -163,7 +167,7 @@ Drink
 
 $$
 
-Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.4 mi · 9400 Culver Blvd
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.3 mi · 9400 Culver Blvd
 
 A 1924 flatiron hotel with an old Hollywood lobby bar.
 
@@ -173,25 +177,11 @@ A 1924 flatiron hotel with an old Hollywood lobby bar.
 
 Cocktail bars & lounges Landmarks & sights
 
-### Polo Lounge at the Beverly Hills Hotel
-
-$$$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.4 mi · 9641 Sunset Blvd
-
-The pink hotel's famous lounge, worth a visit even if you aren't staying.
-
-**Order:** A drink or brunch on the patio.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
-
-Cocktail bars & lounges Brunch Landmarks & sights
-
 ### The Rooftop at the Waldorf Astoria
 
 $$$$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.4 mi · 9850 Wilshire Blvd
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.9 mi · 9850 Wilshire Blvd
 
 A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
 
@@ -200,6 +190,20 @@ A garden-style rooftop 12 floors above Beverly Hills with one of the widest view
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
 
 Rooftops & views Cocktail bars & lounges Date night
+
+### Lost and Found Cocktails
+
+$$
+
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 2.2 mi · 11700 National Blvd
+
+A classy cocktail lounge with a small dance floor and local DJs on weekends.
+
+**Order:** A smoked old fashioned. Open Wednesday through Saturday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+
+Cocktail bars & lounges Late night
 
 Do
 
@@ -223,7 +227,7 @@ Parks Fitness & outdoor sports Dog-friendly
 
 Free
 
-Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.4 mi · 6300 Hetzler Rd
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.9 mi · 6300 Hetzler Rd
 
 A steep 282-step staircase up to a 360-degree view from the ocean to downtown.
 
@@ -233,19 +237,19 @@ A steep 282-step staircase up to a 360-degree view from the ocean to downtown.
 
 Hikes & nature Fitness & outdoor sports Landmarks & sights
 
-### Kenneth Hahn State Recreation Area
+### Mar Vista Recreation Center
 
-$
+Free
 
-Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.4 mi · 4100 S La Cienega Blvd
+Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 2.0 mi · 11430 Woodbine St
 
-A large Baldwin Hills park with miles of trails, a fishing lake and big basin views.
+The neighborhood's big park, with a pool, tennis and basketball courts, a roller hockey rink, ball fields and shaded picnic areas.
 
-**Do:** A loop hike, then a picnic by the lake.
+**Do:** Swim in the warm months or play tennis.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kenneth+Hahn+State+Recreation+Area+4100+S+La+Cienega+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Recreation+Center+11430+Woodbine+St+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
-Parks Hikes & nature Kids & family
+Parks Kids & family Fitness & outdoor sports
 
 Sources
 

@@ -34,11 +34,13 @@ Playa Vista was built from scratch starting in the early 2000s on the former Hug
 
 Call Text
 
-From above
+The map
 
-## Playa Vista by satellite
+## Playa Vista, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Playa+Vista%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,9 +57,11 @@ Local LA
 
 ## Where to eat, drink and go in Playa Vista
 
+See them on the map →
+
 Playa Vista is a newer, walkable planned neighborhood built around the Runway shopping district, parks and tech offices, right next to the Ballona Wetlands. Everyday errands, dinner and a movie are all a short walk apart.
 
-18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+17 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -77,19 +81,19 @@ An excellent, cozy Ukrainian cafe on the border of Playa Vista and Marina del Re
 
 Brunch Breakfast
 
-### Tanner's Coffee Co.
+### Lodge Bread
 
-$
+$$
 
-Next door in [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · 1.6 mi · 200 Culver Blvd, Suite C
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.6 mi · 11918 W Washington Blvd
 
-A small neighborhood cafe with vintage photos of the area and solid breakfast sandwiches.
+An organic whole-grain bakery and cafe with sandwiches, salads and pizza.
 
-**Order:** A croissant breakfast sandwich and a latte.
+**Order:** The giant cinnamon roll.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tanner%27s+Coffee+Co.+200+Culver+Blvd%2C+Suite+C+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lodge+Bread+11918+W+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
 
-Coffee Breakfast
+Bakeries & dessert Lunch Pizza
 
 ### Petros Kafe
 
@@ -123,25 +127,11 @@ A fast, fresh counter-service spot with plates, salads and a wine list.
 
 Lunch Healthy & plant-based Dinner
 
-### Paco's Tacos
-
-$$
-
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · Centinela Ave
-
-A neighborhood staple for classic Mexican food in big portions.
-
-**Order:** A combination plate and a margarita.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Paco%27s+Tacos+Centinela+Ave+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
-
-Tacos & Mexican Cheap eats Dinner
-
 ### J. Nichols Kitchen
 
 $$
 
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · Marina del Rey
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.2 mi · Marina del Rey
 
 A good-at-everything neighborhood restaurant.
 
@@ -151,6 +141,20 @@ A good-at-everything neighborhood restaurant.
 
 Lunch Dinner
 
+### Paco's Tacos
+
+$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.5 mi · Centinela Ave
+
+A neighborhood staple for classic Mexican food in big portions.
+
+**Order:** A combination plate and a margarita.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Paco%27s+Tacos+Centinela+Ave+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Tacos & Mexican Cheap eats Dinner
+
 **Love Playa Vista? Live here.** Get new Playa Vista listings, including off-market ones, or a free value on your Playa Vista home.
 
 What's my home worth? Get Playa Vista listings
@@ -159,51 +163,79 @@ Eat
 
 ### Dinner
 
-### Playa Provisions
+### Irori Sushi
 
 $$$
 
-Next door in [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · 1.6 mi · 119 Culver Blvd
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.2 mi · 4371 Glencoe Ave
 
-Chef Brooke Williamson's beachside spot with a daytime counter, a seafood dining room, a whiskey bar and house-made ice cream.
+A hidden-gem sushi bar with one of the best omakase deals on the Westside.
 
-**Order:** Crab claws and the lobster roll, then ice cream.
+**Order:** The omakase.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Playa+Provisions+119+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Irori+Sushi+4371+Glencoe+Ave+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
 
-Seafood Dinner Brunch
+Sushi & Japanese Date night
 
-### Caffe Pinguini
-
-$$$
-
-Next door in [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · 1.6 mi · 6935 Pacific Ave
-
-A Roman-run Italian restaurant serving fresh pasta near the beach since 1997, with a heated back patio.
-
-**Order:** A pasta and a glass of Italian red.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Pinguini+6935+Pacific+Ave+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
-
-Date night Dinner
-
-### Locanda Positano
+### Hatchet Hall
 
 $$$
 
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · 4212 Lincoln Blvd
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.6 mi · 12517 W Washington Blvd
 
-A tiny Italian restaurant with excellent pasta in an unglamorous strip.
+Live-fire Southern cooking on a leafy patio.
 
-**Order:** Any of the fresh pastas.
+**Order:** Shishito cornbread and the pork chop.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Locanda+Positano+4212+Lincoln+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hatchet+Hall+12517+W+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/culver-city)
 
 Dinner Date night
 
-Drink
+### Sugarfish Marina del Rey
 
-### Nightlife
+$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.0 mi · 4722 Admiralty Way
+
+Reliable, well-priced sushi sets.
+
+**Order:** The Trust Me set.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sugarfish+Marina+del+Rey+4722+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Sushi & Japanese Lunch
+
+Go
+
+### Places to go
+
+### The Manchester
+
+$$
+
+Next door in [Westchester](https://www.nathanielgrivas.com/neighborhoods/westchester) · 1.0 mi · 8522 Lincoln Blvd
+
+A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy hour.
+
+**Order:** A whiskey sour and the Sichuan wings.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+
+Cocktail bars & lounges Dinner Date night
+
+### Whiskey Red's
+
+$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.4 mi · 13813 Fiji Way
+
+A touristy spot where the marina view is the reason to go.
+
+**Order:** A drink on the patio at sunset.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Whiskey+Red%27s+13813+Fiji+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Cocktail bars & lounges Rooftops & views
 
 ### Accomplice
 
@@ -219,38 +251,6 @@ A creative cocktail bar next to Little Fatty, with two back-to-back bars and a m
 
 Cocktail bars & lounges Date night
 
-### Whiskey Red's
-
-$$
-
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · 13813 Fiji Way
-
-A touristy spot where the marina view is the reason to go.
-
-**Order:** A drink on the patio at sunset.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Whiskey+Red%27s+13813+Fiji+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
-
-Cocktail bars & lounges Rooftops & views
-
-### The Warehouse Restaurant
-
-$$
-
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · 4499 Admiralty Way
-
-A quirky, rowdy nautical-themed classic on the water.
-
-**Order:** A tropical drink with friends.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Warehouse+Restaurant+4499+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
-
-Cocktail bars & lounges
-
-Do
-
-### Parks & outdoors
-
 ### Ballona Wetlands Ecological Reserve
 
 Free
@@ -265,25 +265,11 @@ A protected coastal wetland with birding and a walking and bike path that links 
 
 Hikes & nature Parks
 
-### Dockweiler State Beach
-
-$
-
-Next door in [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · 1.6 mi · 12000 Vista Del Mar
-
-A wide beach with fire pits, a bike path and jets taking off from LAX right overhead.
-
-**Do:** Arrive early on weekends to claim a fire pit.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach+12000+Vista+Del+Mar+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
-
-Beaches Landmarks & sights
-
 ### Mothers Beach
 
 $
 
-Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · 4101 Admiralty Way
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 2.2 mi · 4101 Admiralty Way
 
 A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and paddleboard launching.
 
@@ -311,20 +297,6 @@ The neighborhood's walkable center, with restaurants, a Whole Foods, a movie the
 
 Shopping Movies Kids & family
 
-### Mitsuwa Marketplace
-
-$
-
-Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 2.1 mi · 3760 S Centinela Ave
-
-A Japanese supermarket with a busy food court and a bookstore full of manga and stationery.
-
-**Do:** Ramen or tempura in the food court, then snacks and mochi from the market.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
-
-Markets Lunch Cheap eats
-
 ### Mar Vista Farmers Market
 
 Free
@@ -338,6 +310,20 @@ A Sunday morning market with produce, flowers, prepared food, music and kids' ac
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Farmers+Market+Grand+View+Blvd+and+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista)
 
 Markets Kids & family
+
+### Mitsuwa Marketplace
+
+$
+
+Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 2.2 mi · 3760 S Centinela Ave
+
+A Japanese supermarket with a busy food court and a bookstore full of manga and stationery.
+
+**Do:** Ramen or tempura in the food court, then snacks and mochi from the market.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Markets Lunch Cheap eats
 
 Sources
 

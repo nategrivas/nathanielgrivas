@@ -34,11 +34,13 @@ Valley Village is a small City of LA neighborhood between Studio City, Sherman O
 
 Call Text
 
-From above
+The map
 
-## Valley Village by satellite
+## Valley Village, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Valley+Village%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ Local LA
 
 ## Where to eat, drink and go in Valley Village
 
+See them on the map →
+
 Valley Village is a quiet residential pocket between North Hollywood and Studio City, with a small cluster of restaurants and bars along Magnolia Boulevard and Laurel Canyon Boulevard.
 
 12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -62,11 +66,25 @@ Eat
 
 ### Coffee & breakfast
 
+### Saint Coffee Shop
+
+$$
+
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 1.1 mi · 11706 Moorpark St
+
+A busy neighborhood coffee shop with well-balanced espresso drinks and good pastries.
+
+**Order:** An iced vanilla latte and a cinnamon roll.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Saint+Coffee+Shop+11706+Moorpark+St+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+
+Coffee Breakfast
+
 ### Moxie Coffee Bar
 
 $
 
-Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 1.1 mi · 5300 Lankershim Blvd, Suite 115
+Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 1.2 mi · 5300 Lankershim Blvd, Suite 115
 
 A bright Arts District coffee bar with creative lattes and plenty of dairy-free and sugar-free options.
 
@@ -76,33 +94,19 @@ A bright Arts District coffee bar with creative lattes and plenty of dairy-free 
 
 Coffee
 
-### La Rochelle Bakery & Cafe
-
-$
-
-Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 1.1 mi · 5050 Vineland Ave
-
-A bakery cafe with a hidden, plant-filled back patio and generous breakfast plates.
-
-**Order:** A pastry and a sandwich out on the patio.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Rochelle+Bakery+%26+Cafe+5050+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
-
-Bakeries & dessert Breakfast Coffee
-
-### The Front Yard
+### Aroma Cafe
 
 $$
 
-Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 1.1 mi · 4222 Vineland Ave
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 1.5 mi · Ventura Blvd
 
-The Garland hotel's restaurant, with a big courtyard patio and an easy weekend brunch.
+An all-day neighborhood cafe where the pastry case and sandwiches draw a steady line.
 
-**Order:** The short rib burger and a martini.
+**Order:** Coffee and something from the bakery case.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Front+Yard+4222+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Aroma+Cafe+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
 
-Brunch Dinner
+Breakfast Coffee Lunch
 
 Eat
 
@@ -122,25 +126,11 @@ A no-frills counter turning out some of the best smash burgers in the Valley.
 
 Cheap eats Lunch
 
-### Swinging Door BBQ
-
-$$
-
-Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 1.1 mi · 11018 Vanowen St
-
-Texas-style barbecue smoked in the alley out back, mostly for takeout.
-
-**Order:** Brisket, ribs and burnt ends with the baked beans.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Swinging+Door+BBQ+11018+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
-
-Lunch Dinner
-
 ### Hayat's Kitchen
 
 $$
 
-Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 1.1 mi · 11009 Burbank Blvd, #117
+Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 1.6 mi · 11009 Burbank Blvd, #117
 
 A Lebanese restaurant with a garden patio and bread baked fresh in an outdoor oven.
 
@@ -149,6 +139,20 @@ A Lebanese restaurant with a garden patio and bread baked fresh in an outdoor ov
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Hayat%27s+Kitchen+11009+Burbank+Blvd%2C+%23117+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Lunch Dinner
+
+### Avi Cue
+
+$$
+
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 2.1 mi · 11288 Ventura Blvd
+
+A quick counter built around spit-roasted shawarma.
+
+**Order:** The wagyu shawarma sandwich.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Avi+Cue+11288+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Lunch Cheap eats
 
 **Love Valley Village? Live here.** Get new Valley Village listings, including off-market ones, or a free value on your Valley Village home.
 
@@ -186,19 +190,19 @@ A cozy, old-school Italian spot with a record player spinning at the bar.
 
 Date night Dinner
 
-### Rosetta Osteria & Crudo Bar
+### Asanebo
 
-$$$
+$$$$
 
-Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 1.5 mi · 12345 Ventura Blvd
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 1.5 mi · 11941 Ventura Blvd
 
-An Italian dining room pairing raw seafood with pastas and a good wine list. Dinner only, closed Mondays.
+An old-school sushi bar on Ventura's sushi row, known for pristine nigiri.
 
-**Order:** Oysters and a couple of crudos to start.
+**Order:** The omakase if you want the full tour of their signatures.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Rosetta+Osteria+%26+Crudo+Bar+12345+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Asanebo+11941+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
 
-Date night Dinner Seafood
+Sushi & Japanese Date night Dinner
 
 Drink
 
@@ -208,7 +212,7 @@ Drink
 
 $$$
 
-Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 1.5 mi · 11720 Ventura Blvd
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 1.7 mi · 11720 Ventura Blvd
 
 A candlelit restaurant and lounge with a library bar and heated patios with fireplaces. The Valley's dress-up night out, busy until late.
 
@@ -217,20 +221,6 @@ A candlelit restaurant and lounge with a library bar and heated patios with fire
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Firefly+11720+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/firefly-studio-city)
 
 Cocktail bars & lounges Dinner Date night
-
-### Idle Hour
-
-$$
-
-Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 1.1 mi · 4824 Vineland Ave
-
-A restored 1940s bar in a building shaped like a giant barrel, with a big patio and solid bar food.
-
-**Order:** Happy hour out on the patio.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Idle+Hour+4824+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
-
-Cocktail bars & lounges Brunch
 
 ### Laurel Tavern
 
@@ -245,6 +235,20 @@ A friendly neighborhood bar with a solid happy hour.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Tavern+11938+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
 
 Cocktail bars & lounges Dinner
+
+### Idle Hour
+
+$$
+
+Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 1.6 mi · 4824 Vineland Ave
+
+A restored 1940s bar in a building shaped like a giant barrel, with a big patio and solid bar food.
+
+**Order:** Happy hour out on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Idle+Hour+4824+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Cocktail bars & lounges Brunch
 
 Sources
 

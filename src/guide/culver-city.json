@@ -36,6 +36,10 @@
    "o": "The toffee latte and a pastry. Weekdays only.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.02064,
+    -118.39953
    ]
   },
   {
@@ -49,6 +53,10 @@
    "o": "The snow matcha or an almond milk latte with avocado toast.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.01425,
+    -118.40187
    ]
   },
   {
@@ -64,6 +72,10 @@
    "o": "The all-day breakfast burrito.",
    "s": [
     "infl"
+   ],
+   "ll": [
+    34.02478,
+    -118.39474
    ]
   },
   {
@@ -80,6 +92,10 @@
    "s": [
     "to",
     "infl"
+   ],
+   "ll": [
+    34.0246,
+    -118.38136
    ]
   },
   {
@@ -94,6 +110,10 @@
    "o": "Biscuits and gravy or country fried steak.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.02203,
+    -118.39655
    ]
   },
   {
@@ -110,6 +130,10 @@
    "s": [
     "to",
     "infl"
+   ],
+   "ll": [
+    33.99771,
+    -118.42026
    ]
   },
   {
@@ -124,6 +148,10 @@
    "o": "A braided cinnamon roll or the almond kringle.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.00934,
+    -118.41188
    ]
   },
   {
@@ -138,6 +166,10 @@
    "s": [
     "to",
     "infl"
+   ],
+   "ll": [
+    34.01722,
+    -118.39716
    ]
   },
   {
@@ -153,6 +185,10 @@
    "s": [
     "to",
     "infl"
+   ],
+   "ll": [
+    34.02314,
+    -118.39482
    ]
   },
   {
@@ -169,6 +205,10 @@
    "s": [
     "to",
     "infl"
+   ],
+   "ll": [
+    34.00814,
+    -118.41447
    ]
   },
   {
@@ -184,6 +224,10 @@
    "s": [
     "to",
     "infl"
+   ],
+   "ll": [
+    34.02083,
+    -118.39726
    ]
   },
   {
@@ -199,6 +243,10 @@
    "s": [
     "to",
     "infl"
+   ],
+   "ll": [
+    34.02996,
+    -118.38387
    ]
   },
   {
@@ -213,6 +261,10 @@
    "o": "The chirashi bowl.",
    "s": [
     "infl"
+   ],
+   "ll": [
+    34.0256,
+    -118.39287
    ]
   },
   {
@@ -229,6 +281,10 @@
    "s": [
     "to",
     "infl"
+   ],
+   "ll": [
+    34.01988,
+    -118.40397
    ]
   },
   {
@@ -243,6 +299,10 @@
    "o": "Lomo saltado and a ceviche.",
    "s": [
     "infl"
+   ],
+   "ll": [
+    34.01509,
+    -118.40729
    ]
   },
   {
@@ -258,6 +318,10 @@
    "o": "The lamb chops and a mixed pastel.",
    "s": [
     "infl"
+   ],
+   "ll": [
+    33.99933,
+    -118.41831
    ]
   },
   {
@@ -272,6 +336,10 @@
    "o": "The ribs or the ribeye.",
    "s": [
     "infl"
+   ],
+   "ll": [
+    34.02445,
+    -118.39336
    ]
   },
   {
@@ -287,6 +355,10 @@
    "s": [
     "to",
     "infcc"
+   ],
+   "ll": [
+    33.99698,
+    -118.43156
    ]
   },
   {
@@ -302,6 +374,10 @@
    "o": "The cheese-stuffed chicken parm and a martini.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.00466,
+    -118.41039
    ]
   },
   {
@@ -316,6 +392,10 @@
    "o": "The Office burger with caramelized onions and a draft beer.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.03045,
+    -118.38474
    ]
   },
   {
@@ -330,6 +410,10 @@
    "o": "Brisket and spare ribs.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.00931,
+    -118.41445
    ]
   },
   {
@@ -345,6 +429,10 @@
    "o": "Fried chicken, then drinks on the roof.",
    "s": [
     "to"
+   ],
+   "ll": [
+    34.02506,
+    -118.39411
    ]
   },
   {
@@ -359,6 +447,10 @@
    "o": "A nightcap in the lobby.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.02378,
+    -118.3942
    ]
   },
   {
@@ -372,6 +464,10 @@
    "o": "Check the season calendar.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.0216,
+    -118.39699
    ]
   },
   {
@@ -386,6 +482,10 @@
    "o": "Book ahead.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.01989,
+    -118.40066
    ]
   },
   {
@@ -399,6 +499,10 @@
    "o": "Finish with tea in the rooftop garden.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.02587,
+    -118.39509
    ]
   },
   {
@@ -413,6 +517,10 @@
    "o": "Free admission; check for weekend events.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.01132,
+    -118.40413
    ]
   },
   {
@@ -426,6 +534,10 @@
    "o": "Shop, eat, and take the Expo Line home.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.02675,
+    -118.38816
    ]
   },
   {
@@ -441,6 +553,10 @@
    "o": "Climb the stairs at sunset.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.01962,
+    -118.38371
    ]
   },
   {
@@ -456,6 +572,10 @@
    "o": "A loop hike, then a picnic by the lake.",
    "s": [
     "todo"
+   ],
+   "ll": [
+    34.01224,
+    -118.37005
    ]
   }
  ]

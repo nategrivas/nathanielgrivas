@@ -34,11 +34,13 @@ Sherman Oaks is a City of LA neighborhood in the south Valley where the 405 meet
 
 Call Text
 
-From above
+The map
 
-## Sherman Oaks by satellite
+## Sherman Oaks, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get Sherman Oaks listings
 Local LA
 
 ## Where to eat, drink and go in Sherman Oaks
+
+See them on the map →
 
 Sherman Oaks has the Valley's busiest stretch of Ventura Boulevard, lined with restaurants, coffee shops and bars from the 405 east toward Studio City, plus easy access to the Santa Monica Mountains to the south.
 

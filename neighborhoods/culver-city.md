@@ -34,11 +34,13 @@ Culver City is an independent city of about five square miles surrounded by Los 
 
 Call Text
 
-From above
+The map
 
-## Culver City by satellite
+## Culver City, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Culver+City%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -56,9 +58,11 @@ Local LA
 
 ## Where to eat, drink and go in Culver City
 
+See them on the map →
+
 Culver City is the Westside's studio town, with a walkable downtown around the Culver Hotel and Culver Steps, the Helms and Platform districts for food and shopping, and the Baldwin Hills overlook for the best view on this side of town. It's one of the easiest places in LA to spend a whole day on foot.
 
-34 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+35 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -296,9 +300,9 @@ Lunch Markets Rooftops & views
 
 What's my home worth? Get Culver City listings
 
-Eat & drink
+Eat
 
-### Dinner & drinks
+### Dinner
 
 ### The Brothers Sushi
 
@@ -384,6 +388,10 @@ Westside barbecue smoked over peach wood.
 
 Dinner Lunch
 
+Drink
+
+### Nightlife
+
 ### Culver Hotel
 
 $$
@@ -411,6 +419,20 @@ A creative cocktail bar next to Little Fatty, with two back-to-back bars and a m
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
+
+### Lost and Found Cocktails
+
+$$
+
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 2.4 mi · 11700 National Blvd
+
+A classy cocktail lounge with a small dance floor and local DJs on weekends.
+
+**Order:** A smoked old fashioned. Open Wednesday through Saturday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+
+Cocktail bars & lounges Late night
 
 Do
 
@@ -508,7 +530,7 @@ Parks Hikes & nature Kids & family
 
 Free
 
-Next door in [Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills) · 1.4 mi · 2551 Motor Ave
+Next door in [Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills) · 1.9 mi · 2551 Motor Ave
 
 A big park with tennis courts, a pool, ball fields, basketball and an off-leash dog area.
 
@@ -536,20 +558,6 @@ An open-air design-forward shopping and dining center by the Metro station.
 
 Shopping
 
-### Mitsuwa Marketplace
-
-$
-
-Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 2.3 mi · 3760 S Centinela Ave
-
-A Japanese supermarket with a busy food court and a bookstore full of manga and stationery.
-
-**Do:** Ramen or tempura in the food court, then snacks and mochi from the market.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
-
-Markets Lunch Cheap eats
-
 ### Mar Vista Farmers Market
 
 Free
@@ -563,6 +571,20 @@ A Sunday morning market with produce, flowers, prepared food, music and kids' ac
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Farmers+Market+Grand+View+Blvd+and+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista)
 
 Markets Kids & family
+
+### Mitsuwa Marketplace
+
+$
+
+Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 2.4 mi · 3760 S Centinela Ave
+
+A Japanese supermarket with a busy food court and a bookstore full of manga and stationery.
+
+**Do:** Ramen or tempura in the food court, then snacks and mochi from the market.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Markets Lunch Cheap eats
 
 Sources
 

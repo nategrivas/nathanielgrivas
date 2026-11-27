@@ -33,6 +33,10 @@
    "s": [
     "tocof",
     "gm"
+   ],
+   "ll": [
+    34.08362,
+    -118.34898
    ]
   },
   {
@@ -46,6 +50,10 @@
    "o": "A cream-top latte and a croissant.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.08368,
+    -118.34643
    ]
   },
   {
@@ -63,6 +71,10 @@
    "s": [
     "inf",
     "infbg"
+   ],
+   "ll": [
+    34.07193,
+    -118.36027
    ]
   },
   {
@@ -77,6 +89,10 @@
    "o": "Laksa, beef rendang and roti paratha.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07193,
+    -118.36027
    ]
   },
   {
@@ -92,6 +108,10 @@
    "o": "Oysters, steak frites or quiche lorraine.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07193,
+    -118.36027
    ]
   },
   {
@@ -106,6 +126,10 @@
    "o": "Grilled meats and the catfish moqueca.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07193,
+    -118.36027
    ]
   },
   {
@@ -120,6 +144,10 @@
    "o": "Whatever noodles are being pulled that day.",
    "s": [
     "infbg"
+   ],
+   "ll": [
+    34.07193,
+    -118.36027
    ]
   },
   {
@@ -135,6 +163,10 @@
    "o": "Shop, catch a movie, then eat at the market.",
    "s": [
     "infbg"
+   ],
+   "ll": [
+    34.07308,
+    -118.35841
    ]
   },
   {
@@ -149,6 +181,10 @@
    "o": "Sea urchin linguine and the veal shank agnolotti.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07623,
+    -118.349
    ]
   },
   {
@@ -165,6 +201,10 @@
    "o": "A house margarita with a big group.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07593,
+    -118.34924
    ]
   },
   {
@@ -179,6 +219,10 @@
    "o": "Pastrami on rye and a black and white cookie.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07908,
+    -118.36171
    ]
   },
   {
@@ -193,6 +237,10 @@
    "o": "Kung pao shrimp and lo mein.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07918,
+    -118.36135
    ]
   },
   {
@@ -207,6 +255,10 @@
    "o": "Chicken tikka poutine and chili cheese naan.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07865,
+    -118.36134
    ]
   },
   {
@@ -222,6 +274,10 @@
    "o": "The breakfast BLT, meatballs or spicy fusilli.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07854,
+    -118.36134
    ]
   },
   {
@@ -236,6 +292,10 @@
    "o": "Wagyu patties and the Cuban-spiced strip with fufu.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.07717,
+    -118.36153
    ]
   },
   {
@@ -250,6 +310,10 @@
    "o": "Tell them a spirit and a flavor you like.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.0705,
+    -118.36151
    ]
   },
   {
@@ -265,6 +329,10 @@
    "s": [
     "infbg",
     "gm"
+   ],
+   "ll": [
+    34.07027,
+    -118.3615
    ]
   },
   {
@@ -281,6 +349,10 @@
    "o": "A sunset walk, then dinner at the Farmers Market.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.07605,
+    -118.35514
    ]
   }
  ]

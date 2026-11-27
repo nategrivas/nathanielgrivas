@@ -27,6 +27,10 @@
    "o": "A pastry and coffee, or a sandwich at lunch.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.06022,
+    -118.42086
    ]
   },
   {
@@ -41,6 +45,10 @@
    "o": "Crab enchiladas and a margarita.",
    "s": [
     "ot"
+   ],
+   "ll": [
+    34.05898,
+    -118.4208
    ]
   },
   {
@@ -55,6 +63,10 @@
    "o": "Fresh pasta and a glass of Italian red.",
    "s": [
     "ot"
+   ],
+   "ll": [
+    34.05906,
+    -118.42044
    ]
   },
   {
@@ -71,6 +83,10 @@
    "s": [
     "ot",
     "gm"
+   ],
+   "ll": [
+    34.05654,
+    -118.41517
    ]
   },
   {
@@ -84,6 +100,10 @@
    "o": "Lunch and a glass of wine mid-shopping.",
    "s": [
     "ot"
+   ],
+   "ll": [
+    34.0581,
+    -118.41785
    ]
   },
   {
@@ -99,6 +119,10 @@
    "o": "Go on a weekday; weekend parking gets slow.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.05858,
+    -118.41781
    ]
   }
  ]

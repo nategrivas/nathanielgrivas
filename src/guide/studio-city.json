@@ -29,6 +29,10 @@
    "o": "An iced vanilla latte and a cinnamon roll.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.15028,
+    -118.38803
    ]
   },
   {
@@ -45,6 +49,10 @@
    "o": "Coffee and something from the bakery case.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.14943,
+    -118.37884
    ]
   },
   {
@@ -60,6 +68,10 @@
    "o": "The thin-cut ribeye taco.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.13737,
+    -118.36362
    ]
   },
   {
@@ -74,6 +86,10 @@
    "o": "A falafel laffa or the beef kabob plate.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.13315,
+    -118.35715
    ]
   },
   {
@@ -88,6 +104,10 @@
    "o": "The wagyu shawarma sandwich.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.14022,
+    -118.37571
    ]
   },
   {
@@ -102,6 +122,10 @@
    "o": "The spicy Reddo, plus the brothless Orenji to share.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.14332,
+    -118.4004
    ]
   },
   {
@@ -116,6 +140,10 @@
    "o": "The original poke bowl.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.14022,
+    -118.37571
    ]
   },
   {
@@ -130,6 +158,10 @@
    "o": "Khao soi with crispy pork or soft-shell crab.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.12984,
+    -118.34909
    ]
   },
   {
@@ -144,6 +176,10 @@
    "o": "The mantee dumplings with yogurt, dolma and the sizzling feta.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.14001,
+    -118.36934
    ]
   },
   {
@@ -160,6 +196,10 @@
    "s": [
     "inf",
     "gm"
+   ],
+   "ll": [
+    34.14294,
+    -118.39114
    ]
   },
   {
@@ -174,6 +214,10 @@
    "o": "The burger and a beer.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.143,
+    -118.39211
    ]
   },
   {
@@ -203,6 +247,10 @@
    "o": "Oysters and a couple of crudos to start.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.14316,
+    -118.40276
    ]
   },
   {
@@ -217,6 +265,10 @@
    "o": "Piquillo peppers and the lamb saddle. It is a splurge.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.14559,
+    -118.41606
    ]
   },
   {
@@ -232,6 +284,10 @@
    "o": "The omakase if you want the full tour of their signatures.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.14316,
+    -118.39163
    ]
   },
   {
@@ -246,6 +302,10 @@
    "o": "Sit at the bar, order a la carte and get the hirame.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.13475,
+    -118.36088
    ]
   },
   {
@@ -260,6 +320,10 @@
    "o": "The Yume Box.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.14309,
+    -118.39963
    ]
   },
   {
@@ -274,6 +338,10 @@
    "o": "A house cocktail and a few shared plates.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.14003,
+    -118.36939
    ]
   },
   {
@@ -288,6 +356,10 @@
    "o": "Buy tickets online ahead of time, since shows sell out.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.13687,
+    -118.36311
    ]
   },
   {
@@ -303,6 +375,10 @@
    "o": "Go early; the lot fills fast on weekends.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.12265,
+    -118.39462
    ]
   },
   {
@@ -318,6 +394,10 @@
    "o": "Drinks in the library, then dinner on the patio. Book ahead on weekends.",
    "s": [
     "firefly"
+   ],
+   "ll": [
+    34.14139,
+    -118.38846
    ]
   }
  ]

@@ -34,11 +34,13 @@ Los Feliz is a City of LA neighborhood at the foot of Griffith Park, one of the 
 
 Call Text
 
-From above
+The map
 
-## Los Feliz by satellite
+## Los Feliz, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Los+Feliz%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -55,6 +57,8 @@ What's my home worth? Get Los Feliz listings
 Local LA
 
 ## Where to eat, drink and go in Los Feliz
+
+See them on the map →
 
 Los Feliz sits at the foot of Griffith Park, with two walkable village streets, Hillhurst and Vermont, lined with cafes, old-school Italian spots, bookstores and a century-old movie palace. It's also the easiest way up to the Observatory and the Greek Theatre.
 
@@ -540,7 +544,7 @@ Hikes & nature Fitness & outdoor sports
 
 Free
 
-Next door in [Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake) · 1.7 mi · Silver Lake Blvd
+Next door in [Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake) · 1.5 mi · Silver Lake Blvd
 
 The neighborhood's centerpiece: a loop for running, a meadow for picnics and room for dogs.
 

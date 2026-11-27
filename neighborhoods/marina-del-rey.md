@@ -34,11 +34,13 @@ Marina del Rey is unincorporated LA County, built around a small-craft harbor th
 
 Call Text
 
-From above
+The map
 
-## Marina del Rey by satellite
+## Marina del Rey, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get Marina del Rey listings
 Local LA
 
 ## Where to eat, drink and go in Marina del Rey
+
+See them on the map →
 
 Marina del Rey wraps around North America's largest man-made small-craft harbor, with waterfront restaurants, a calm swimming beach and a bike path that runs to Venice and Playa del Rey. The best food is often a block off the water, along Washington Boulevard and in the strip malls inland.
 
@@ -335,25 +339,11 @@ A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and
 
 Beaches Kids & family Fitness & outdoor sports
 
-### Muscle Beach
-
-$
-
-Next door in [Venice](https://www.nathanielgrivas.com/neighborhoods/venice) · 1.1 mi · 1800 Ocean Front Walk
-
-The outdoor bodybuilding gym where Arnold trained. Fun to watch, and you can train there yourself.
-
-**Do:** Day passes run about $10.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Muscle+Beach+1800+Ocean+Front+Walk+Venice+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-venice)
-
-Fitness & outdoor sports Landmarks & sights
-
 ### Venice Beach Boardwalk and the Strand
 
 Free
 
-Next door in [Venice](https://www.nathanielgrivas.com/neighborhoods/venice) · 1.1 mi · Ocean Front Walk
+Next door in [Venice](https://www.nathanielgrivas.com/neighborhoods/venice) · 1.0 mi · Ocean Front Walk
 
 LA's best people-watching, wide soft sand and the flat bike path that runs about 22 miles up and down the coast.
 
@@ -362,6 +352,20 @@ LA's best people-watching, wide soft sand and the flat bike path that runs about
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Venice+Beach+Boardwalk+and+the+Strand+Ocean+Front+Walk+Venice+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-venice) [Discover Los Angeles](https://www.discoverlosangeles.com/things-to-do/things-to-do-in-venice-california)
 
 Beaches Landmarks & sights Fitness & outdoor sports
+
+### Venice Beach basketball courts
+
+Free
+
+Next door in [Venice](https://www.nathanielgrivas.com/neighborhoods/venice) · 1.0 mi · Ocean Front Walk
+
+The legendary pickup courts by the boardwalk, where a lot of NBA careers got noticed.
+
+**Do:** Watch a run on a weekend afternoon.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Venice+Beach+basketball+courts+Ocean+Front+Walk+Venice+Los+Angeles+CA) Sources: [Discover Los Angeles](https://www.discoverlosangeles.com/things-to-do/things-to-do-in-venice-california)
+
+Fitness & outdoor sports Landmarks & sights
 
 Sources
 

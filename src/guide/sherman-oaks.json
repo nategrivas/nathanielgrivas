@@ -24,6 +24,10 @@
    "o": "A flat white or cortado with an almond croissant.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.15109,
+    -118.45192
    ]
   },
   {
@@ -39,6 +43,10 @@
    "o": "The breakfast sandwich, an omelet and croissants.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.1483,
+    -118.43149
    ]
   },
   {
@@ -54,6 +62,10 @@
    "o": "The cheese bourekas. Go early before they sell out.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.15265,
+    -118.46119
    ]
   },
   {
@@ -68,6 +80,10 @@
    "o": "The chicken shawarma wrap in thin, crisp pita.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.15095,
+    -118.4494
    ]
   },
   {
@@ -83,6 +99,10 @@
    "o": "Sumac fries, Moroccan chicken and a tahini shake.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.152,
+    -118.46705
    ]
   },
   {
@@ -98,6 +118,10 @@
    "o": "Southern Thai fried chicken, or Thai taco night on Tuesdays.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.15147,
+    -118.4534
    ]
   },
   {
@@ -112,6 +136,10 @@
    "o": "French onion soup and the garlic confit caesar.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.14703,
+    -118.42576
    ]
   },
   {
@@ -127,6 +155,10 @@
    "o": "The omakase.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.14729,
+    -118.42631
    ]
   },
   {
@@ -142,6 +174,10 @@
    "o": "A filet at the bar.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.1485,
+    -118.4336
    ]
   },
   {
@@ -156,6 +192,10 @@
    "o": "The salsa verde margarita.",
    "s": [
     "inf"
+   ],
+   "ll": [
+    34.15177,
+    -118.45214
    ]
   },
   {
@@ -170,6 +210,10 @@
    "o": "A round of mini golf at night.",
    "s": [
     "gm"
+   ],
+   "ll": [
+    34.16183,
+    -118.46817
    ]
   }
  ]

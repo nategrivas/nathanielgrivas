@@ -34,11 +34,13 @@ Pico-Robertson and Beverlywood sit just south and east of Beverly Hills in the C
 
 Call Text
 
-From above
+The map
 
-## Pico-Robertson & Beverlywood by satellite
+## Pico-Robertson & Beverlywood, mapped
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Pico-Robertson%2C+Los+Angeles%2C+CA)
+
+Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
 
 ### Spots to know
 
@@ -54,6 +56,8 @@ What's my home worth? Get Pico-Robertson & Beverlywood listings
 Local LA
 
 ## Where to eat, drink and go in Pico-Robertson & Beverlywood
+
+See them on the map →
 
 Pico-Robertson centers on the busy crossroads of Pico and Robertson Boulevards just south of Beverly Hills, with LA's biggest cluster of kosher restaurants, bakeries and markets plus a few destination dining rooms.
 
@@ -91,19 +95,19 @@ A kosher bakery and cafe with excellent croissants, sourdough and beautifully pl
 
 Breakfast Bakeries & dessert Lunch
 
-### Fountain Coffee Room at the Beverly Hills Hotel
+### THE Blvd at the Beverly Wilshire
 
-$$$
+$$$$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.7 mi · 9641 Sunset Blvd
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.3 mi · 9500 Wilshire Blvd
 
-A pink, 1949 soda-fountain counter inside the Beverly Hills Hotel with about 20 stools and breakfast served all day. It is walk-in only, so you sit at the counter and watch the room.
+The Beverly Wilshire's street-level dining room, looking straight down Rodeo Drive. A polished Four Seasons breakfast and a classic spot for a morning meeting.
 
-**Order:** Silver dollar pancakes and a milkshake. Daily, 7 a.m. to 4 p.m.
+**Order:** A window table at the start of the day, then a walk up Rodeo.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fountain+Coffee+Room+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Dorchester Collection](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/fountain-coffee-room) [Time Out](https://timeout.com/los-angeles/restaurants/fountain-coffee-room)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=THE+Blvd+at+the+Beverly+Wilshire+9500+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/cuisine/best-breakfast-restaurants-beverly-hills-ca)
 
-Breakfast Landmarks & sights
+Breakfast Brunch
 
 Eat
 
@@ -137,19 +141,19 @@ A kosher dairy spot for thin-crust sourdough pizza and house-made pasta.
 
 Pizza Dinner
 
-### The Grill on the Alley
+### Dr. Sandwich
 
-$$$
+$
 
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.7 mi · 9560 Dayton Way
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 0.6 mi · 9113 W Olympic Blvd
 
-A showbiz power-lunch classic known for polished, professional service.
+A kosher Israeli counter with big portions and real value for Beverly Hills.
 
-**Order:** Chicken piccata, the chopped salad and brownie à la mode.
+**Order:** A plate with shawarma, schnitzel or falafel.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Grill+on+the+Alley+9560+Dayton+Way+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dr.+Sandwich+9113+W+Olympic+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
 
-Lunch Dinner
+Lunch Cheap eats
 
 **Love Pico-Robertson & Beverlywood? Live here.** Get new Pico-Robertson & Beverlywood listings, including off-market ones, or a free value on your Pico-Robertson & Beverlywood home.
 
@@ -187,57 +191,29 @@ A Michelin-recognized restaurant serving a seasonal four-course prix fixe.
 
 Date night Dinner
 
-### A.O.C.
+### Lawry's The Prime Rib
 
 $$$
 
-Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 1.4 mi · 8700 W 3rd St
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.0 mi · 100 N La Cienega Blvd
 
-Suzanne Goin's small-plates restaurant with one of the best wine lists in LA and a beautiful courtyard.
+A Beverly Hills rite of passage since long before the chain spread.
 
-**Order:** Order a glass of wine and share several small plates.
+**Order:** Prime rib and the spinning salad.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=A.O.C.+8700+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lawry%27s+The+Prime+Rib+100+N+La+Cienega+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
 
-Dinner Wine bars Date night
+Dinner Kids & family
 
 Drink
 
 ### Nightlife
 
-### Polo Lounge at the Beverly Hills Hotel
-
-$$$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.7 mi · 9641 Sunset Blvd
-
-The pink hotel's famous lounge, worth a visit even if you aren't staying.
-
-**Order:** A drink or brunch on the patio.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
-
-Cocktail bars & lounges Brunch Landmarks & sights
-
-### The Rooftop at the Waldorf Astoria
-
-$$$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.7 mi · 9850 Wilshire Blvd
-
-A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
-
-**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
-
-Rooftops & views Cocktail bars & lounges Date night
-
 ### Cold Shoulder
 
 $$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.9 mi · 359 S Fairfax Ave
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.6 mi · 359 S Fairfax Ave
 
 A moody speakeasy across from The Grove with elaborate cocktails.
 
@@ -246,6 +222,34 @@ A moody speakeasy across from The Grove with elaborate cocktails.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
+
+### The Nice Guy
+
+$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 401 N La Cienega Blvd
+
+A dark, red-booth Italian lounge that has been the city's most reliable celebrity scene since 2014. Getting in without a reservation is hard on weekends.
+
+**Order:** Book a late table, order the chicken parm and a martini, and use the photo booth.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Nice+Guy+401+N+La+Cienega+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-sceniest-restaurants-in-west-hollywood-ranked)
+
+Cocktail bars & lounges Late night
+
+### The Rooftop at the Waldorf Astoria
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.9 mi · 9850 Wilshire Blvd
+
+A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
+
+**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+
+Rooftops & views Cocktail bars & lounges Date night
 
 Sources
 
