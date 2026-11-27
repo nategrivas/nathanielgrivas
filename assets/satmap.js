@@ -22,11 +22,10 @@
       markers[p.slug] = m;
     });
     map.attributionControl.setPrefix('<a href="https://leafletjs.com" target="_blank" rel="noopener">Leaflet</a>');
-    map.fitBounds(group.getBounds(), { padding: [24, 24] });
-    // Start one step closer than "fit everything" so the names are readable right away.
+    // Start one step closer than "fit everything" so the names are readable right away. One setView, so tiles load once.
     const med = (a) => { const v = a.slice().sort((x, y) => x - y); return v[Math.floor(v.length / 2)]; };
     home = [med(pts.map((p) => p.lat)), med(pts.map((p) => p.lng))];
-    map.setView(home, map.getZoom() + 1, { animate: false });
+    map.setView(home, map.getBoundsZoom(group.getBounds(), false, L.point(48, 48)) + 1, { animate: false });
     start = map.getZoom();
     const labels = () => el.classList.toggle('labels', map.getZoom() >= Math.min(11.5, start));
     map.on('zoomend', labels); labels();
