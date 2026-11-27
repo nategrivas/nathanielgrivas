@@ -47,14 +47,6 @@ RegionFor saleReducedShare reduced
 
 [Valley](https://www.nathanielgrivas.com/neighborhoods/#valley)1,331259 **19.5%**
 
-Week by week
-
-## The running record
-
-Week30-year rateFor saleShare reduced
-
-2026-11-277.28%4,34815.7%
-
 How it is measured
 
 ## Sources and method

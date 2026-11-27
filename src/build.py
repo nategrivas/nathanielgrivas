@@ -1586,7 +1586,10 @@ def page_market():
         pa = sum(r["active"] for r in prev["regions"])
         wow = f'<p class="mt-note">Week over week: homes for sale {"up" if tot_a >= pa else "down"} {abs(tot_a - pa):,} from {pa:,} on {e(prev["week"])}.</p>'
     take = "".join(f"<li>{e(x)}</li>" for x in M["take"])
-    hist = "".join(f'<tr><td>{e(h["week"])}</td><td>{h["rate"]:.2f}%</td><td>{sum(r["active"] for r in h["regions"]):,}</td><td>{100.0 * sum(r["cut"] for r in h["regions"]) / max(1, sum(r["active"] for r in h["regions"])):.1f}%</td></tr>' for h in reversed(H))
+    hist = "".join(f'<tr><td>{e(h["week"])}</td><td>{h["rate"]:.2f}%</td><td>{sum(r["active"] for r in h["regions"]):,}</td><td>{100.0 * sum(r["cut"] for r in h["regions"]) / max(1, sum(r["active"] for r in h["regions"])):.1f}%</td></tr>' for h in reversed(H[:-1]))
+    histbox = (f'<div><p class="kick">Week by week</p><h2>Earlier weeks</h2>'
+               f'<table class="mt-t mt-h"><thead><tr><th>Week</th><th>30-year rate</th><th>For sale</th><th>Share reduced</th></tr></thead><tbody>{hist}</tbody></table></div>') if hist else ""
+    howcls = "mt-two" if hist else "mt-one"
     body = f"""{nav(path, "market")}
 <main>
 <section class="band mt-hero"><div class="wrap">
@@ -1601,9 +1604,8 @@ def page_market():
 <p class="mt-sub">Active listings and the share showing a price reduction. A lower share means sellers are holding price; a higher share means more of them are adjusting.</p>
 <table class="mt-t"><thead><tr><th>Region</th><th>For sale</th><th>Reduced</th><th>Share reduced</th></tr></thead><tbody>{rows}</tbody></table></div>
 </div></section>
-<section class="band" style="padding-top:0"><div class="wrap mt-two">
-<div><p class="kick">Week by week</p><h2>The running record</h2>
-<table class="mt-t mt-h"><thead><tr><th>Week</th><th>30-year rate</th><th>For sale</th><th>Share reduced</th></tr></thead><tbody>{hist}</tbody></table></div>
+<section class="band" style="padding-top:0"><div class="wrap {"mt-two" if hist else "mt-one"}">
+{histbox}
 <div class="mt-how"><p class="kick">How it is measured</p><h2>Sources and method</h2>
 <p><b>Listings:</b> {e(M["listings_src"])}, counted by region across the 40 neighborhoods on this site. "Reduced" counts active listings Zillow flags as price reduced.</p>
 <p><b>Mortgage rates:</b> <a href="{R["url"]}" rel="noopener">{e(R["src"])}</a>, latest weekly survey as of {e(R["asof"])}.</p>

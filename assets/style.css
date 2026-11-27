@@ -2090,3 +2090,4 @@ textarea.lf-in{padding:14px 16px;min-height:110px;resize:vertical;line-height:1.
 .mt-how p{font:400 14.5px/1.65 var(--sans);color:var(--ink);margin:10px 0 0}
 .mt-how a{color:var(--cu-deep);text-decoration:underline}
 @media(max-width:1000px){.mt-cards{grid-template-columns:repeat(2,1fr)}.mt-two{grid-template-columns:1fr}}
+.mt-one{max-width:760px}
