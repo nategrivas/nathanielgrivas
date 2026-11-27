@@ -56,8 +56,6 @@ Local LA
 
 ## Where to eat, drink and go in West Hollywood
 
-See them on the map →
-
 West Hollywood packs the Sunset Strip's music clubs and comedy rooms, Santa Monica Boulevard's bars and the Melrose and Robertson restaurant row into under two square miles. It's one of the most walkable cities in LA, and brunch here is a weekend sport.
 
 62 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Playa Vista
 
-See them on the map →
-
 Playa Vista is a newer, walkable planned neighborhood built around the Runway shopping district, parks and tech offices, right next to the Ballona Wetlands. Everyday errands, dinner and a movie are all a short walk apart.
 
 18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -175,20 +173,6 @@ Chef Brooke Williamson's beachside spot with a daytime counter, a seafood dining
 
 Seafood Dinner Brunch
 
-### Bacari PDR
-
-$$
-
-Next door in [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · 1.6 mi · 6805 S Vista Del Mar Ln
-
-A Mediterranean small-plates restaurant and the neighborhood's go-to for a night out.
-
-**Order:** Share several small plates with a bottle of wine.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bacari+PDR+6805+S+Vista+Del+Mar+Ln+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
-
-Dinner Date night Wine bars
-
 ### Caffe Pinguini
 
 $$$
@@ -203,9 +187,37 @@ A Roman-run Italian restaurant serving fresh pasta near the beach since 1997, wi
 
 Date night Dinner
 
+### Locanda Positano
+
+$$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · 4212 Lincoln Blvd
+
+A tiny Italian restaurant with excellent pasta in an unglamorous strip.
+
+**Order:** Any of the fresh pastas.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Locanda+Positano+4212+Lincoln+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Dinner Date night
+
 Drink
 
 ### Nightlife
+
+### Accomplice
+
+$$$
+
+Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 2.1 mi · 3811 Grand View Blvd
+
+A creative cocktail bar next to Little Fatty, with two back-to-back bars and a menu of a dozen house drinks.
+
+**Order:** Sit at the bar and watch the torched cocktails get made. Weekday happy hour.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
 
 ### Whiskey Red's
 
@@ -234,20 +246,6 @@ A quirky, rowdy nautical-themed classic on the water.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Warehouse+Restaurant+4499+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
 
 Cocktail bars & lounges
-
-### The Manchester
-
-$$
-
-Next door in [Westchester](https://www.nathanielgrivas.com/neighborhoods/westchester) · 1.8 mi · 8522 Lincoln Blvd
-
-A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy hour.
-
-**Order:** A whiskey sour and the Sichuan wings.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
-
-Cocktail bars & lounges Dinner Date night
 
 Do
 

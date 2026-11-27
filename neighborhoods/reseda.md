@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Reseda
 
-See them on the map →
-
 Reseda sits in the heart of the west Valley along Sherman Way and Reseda Boulevard, with some of the Valley's best family-run Vietnamese and Lebanese cooking in its strip malls.
 
 3 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

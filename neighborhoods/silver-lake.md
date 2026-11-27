@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Silver Lake
 
-See them on the map →
-
 Silver Lake is the Eastside's living room: a reservoir to walk around, a long run of restaurants on Sunset, and some of the best bars in the city. The best stretches are Sunset Junction and the strip of Silver Lake Boulevard just south of the reservoir.
 
 30 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

@@ -15,7 +15,7 @@
     value: {
       kind: 'Home value request',
       steps: [
-        { k: 'address', t: 'text', q: "What's the address?", sub: 'Start typing and pick it from the list. I pull the county record so you barely have to type, then build your number by hand from the latest sales.', ph: 'Street address, city or ZIP', req: true, unit: true },
+        { k: 'address', t: 'text', q: "What's the address?", sub: "Start typing and pick it from the list. I'll pull the county record so you barely have to type.", ph: 'Street address, city or ZIP', req: true, unit: true },
         { k: 'record', t: 'record', q: "Here's what LA County has on file", sub: "Pulled from the public assessor record. Confirm it or fix what's off, and you only answer what the record can't tell me.", when: (A) => !!A._rec },
         { k: 'type', t: 'one', q: 'What kind of property is it?', sub: '', o: ['House', 'Condo or townhome', 'Duplex to fourplex', 'Apartment building (5+ units)', 'Land or a teardown'], when: (A) => A.recordOK !== 'Confirmed' },
         { k: 'size', t: 'size', q: 'How big is it?', sub: 'Close is fine. Skip anything you are not sure about.', when: (A) => A.recordOK !== 'Confirmed' },

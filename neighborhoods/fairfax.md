@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Fairfax District
 
-See them on the map →
-
 The Fairfax District runs from the Original Farmers Market and The Grove up Fairfax Avenue, LA's classic deli and streetwear strip, to Melrose. It's walkable, busy at all hours and home to some of the city's most famous food stalls.
 
 23 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -93,19 +91,19 @@ A calm Melrose cafe with plenty of seating and outlets, good for getting work do
 
 Coffee
 
-### Neighborhood
+### Cecconi's
 
-$
+$$$
 
-Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 0.9 mi · 8151 W 3rd St
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 8764 Melrose Ave
 
-A small specialty coffee shop with a walk-up window, outdoor seating and its own parking.
+A Melrose and Robertson corner classic for Italian. Nights are a scene, mornings are calmer.
 
-**Order:** An iced Americano or a seasonal latte with a cinnamon roll.
+**Order:** Steak and eggs at brunch on the patio.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Neighborhood+8151+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cecconi%27s+8764+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
 
-Coffee
+Brunch Dinner
 
 Eat
 
@@ -305,19 +303,19 @@ A moody speakeasy across from The Grove with elaborate cocktails.
 
 Cocktail bars & lounges Date night
 
-### The Abbey
+### The Lucky Tiki
 
-$$
+$$$
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 692 N Robertson Blvd
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 8512 Santa Monica Blvd
 
-West Hollywood's most famous bar, and one of the best known LGBTQ+ bars in the world. Several rooms, dancing at night and the neighborhood's best drag brunch.
+A hidden, reservation-only tiki bar behind Tail o' the Pup and one of the most theatrical drinks in town.
 
-**Order:** Weekend drag brunch. Expect lines on weekend nights.
+**Order:** Get on the reservation list early.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Abbey+692+N+Robertson+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/gay-la-best-gay-bars-and-clubs-in-los-angeles) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Lucky+Tiki+8512+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
 
-Cocktail bars & lounges Brunch Landmarks & sights
+Cocktail bars & lounges
 
 Do
 

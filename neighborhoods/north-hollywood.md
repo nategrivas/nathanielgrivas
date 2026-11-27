@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in North Hollywood
 
-See them on the map →
-
 North Hollywood centers on the NoHo Arts District around Lankershim and Magnolia, with small theaters and the B Line subway terminus, plus a deep bench of Thai, Middle Eastern, Latin and barbecue spots across the wider neighborhood.
 
 15 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -221,6 +219,20 @@ A restored 1940s bar in a building shaped like a giant barrel, with a big patio 
 
 Cocktail bars & lounges Brunch
 
+### Firefly
+
+$$$
+
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 2.1 mi · 11720 Ventura Blvd
+
+A candlelit restaurant and lounge with a library bar and heated patios with fireplaces. The Valley's dress-up night out, busy until late.
+
+**Order:** Drinks in the library, then dinner on the patio. Book ahead on weekends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Firefly+11720+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/firefly-studio-city)
+
+Cocktail bars & lounges Dinner Date night
+
 ### Laurel Tavern
 
 $$
@@ -232,20 +244,6 @@ A friendly neighborhood bar with a solid happy hour.
 **Order:** The burger and a beer.
 
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Tavern+11938+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
-
-Cocktail bars & lounges Dinner
-
-### The Last Canteen
-
-$$
-
-Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 2.1 mi · 10964 Ventura Blvd
-
-A post-apocalyptic themed cocktail bar with fully committed decor and a real kitchen.
-
-**Order:** A house cocktail and a few shared plates.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Last+Canteen+10964+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
 Cocktail bars & lounges Dinner
 

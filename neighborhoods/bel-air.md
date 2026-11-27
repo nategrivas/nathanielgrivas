@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Bel Air
 
-See them on the map →
-
 Bel Air is a quiet, gated hillside enclave of winding canyon roads north of Sunset, home to the storied Hotel Bel-Air, with a small village of shops at Beverly Glen Circle up the canyon.
 
 8 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -139,19 +137,19 @@ A warm Italian restaurant at the Beverly Glen Circle shopping center up the cany
 
 Dinner Date night
 
-### Shamshiri Grill
+### Hamasaku
 
-$$
+$$$$
 
-Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 1712 Westwood Blvd
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 11043 Santa Monica Blvd
 
-A Persian landmark on Westwood Boulevard since 1981.
+A strip-mall sushi bar with a traditional omakase that's fairly priced for its quality.
 
-**Order:** Tahchin and the tahdig with stew.
+**Order:** The omakase.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Shamshiri+Grill+1712+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hamasaku+11043+Santa+Monica+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
 
-Dinner
+Sushi & Japanese Date night
 
 ### Skirball Cultural Center
 

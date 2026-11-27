@@ -1762,3 +1762,4 @@ textarea.lf-in{padding:14px 16px;min-height:110px;resize:vertical;line-height:1.
 .nfine{margin:26px 0 10px}
 #today,#week,#month,#past{scroll-margin-top:calc(var(--hh) + 20px)}
 .lf-rec dl div:last-child:nth-child(odd){grid-column:1/-1}
+@media(max-width:600px){.nb-cta .btn.lux{white-space:normal;text-align:center;line-height:1.35;padding-top:13px;padding-bottom:13px;letter-spacing:.12em}}

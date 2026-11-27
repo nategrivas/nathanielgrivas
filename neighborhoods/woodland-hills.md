@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Woodland Hills
 
-See them on the map →
-
 Woodland Hills sits at the west end of the Valley, with Ventura Boulevard's restaurants along the south side, the Warner Center district's parks and shopping to the north, and the Santa Monica Mountains rising behind it.
 
 4 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

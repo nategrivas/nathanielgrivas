@@ -56,8 +56,6 @@ Local LA
 
 ## Where to eat, drink and go in Santa Monica
 
-See them on the map →
-
 Santa Monica is a beach city with its own rules and a deep bench of restaurants, from a 1950s seaside shack to tasting menus that book a month out. Main Street and Ocean Park are the relaxed half; downtown, Wilshire and Montana carry the rest.
 
 36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

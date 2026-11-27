@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Marina del Rey
 
-See them on the map →
-
 Marina del Rey wraps around North America's largest man-made small-craft harbor, with waterfront restaurants, a calm swimming beach and a bike path that runs to Venice and Playa del Rey. The best food is often a block off the water, along Washington Boulevard and in the strip malls inland.
 
 20 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -305,19 +303,19 @@ A quirky, rowdy nautical-themed classic on the water.
 
 Cocktail bars & lounges
 
-### Venice Whaler
+### Gran Blanco
 
-$$
+$$$
 
-Next door in [Venice](https://www.nathanielgrivas.com/neighborhoods/venice) · 1.1 mi · 10 W Washington Blvd
+Next door in [Venice](https://www.nathanielgrivas.com/neighborhoods/venice) · 1.1 mi · Washington Blvd
 
-A two-story bar steps from the sand with better bar food than it needs to have. Weekends are lively.
+A Tulum-style white room with a disco ball and genuinely good food at the bar. Walk-ins can usually grab a bar seat.
 
-**Order:** A pitcher upstairs at sunset.
+**Order:** The Nomalizo (mezcal, watermelon, jalapeño) or a reposado espresso martini.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Venice+Whaler+10+W+Washington+Blvd+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-bars-in-venice)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Gran+Blanco+Washington+Blvd+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-bars-in-venice)
 
-Rooftops & views Cocktail bars & lounges
+Cocktail bars & lounges Dinner
 
 Do
 

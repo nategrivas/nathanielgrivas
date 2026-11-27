@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Palms
 
-See them on the map →
-
 Palms sits between Culver City and West LA, a dense grid of apartments and strip malls along Venice, National and Motor, with some of the Westside's best casual cooking and the Expo Line close by.
 
 13 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -125,6 +123,20 @@ A busy little sandwich shop where the specialty is banh mi on fresh, soft bread.
 
 Lunch Breakfast Cheap eats
 
+### Laurel Grill
+
+$$$
+
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 9300 Culver Blvd
+
+A polished hearth-cooking restaurant downtown, good for a business lunch.
+
+**Order:** The ribs or the ribeye.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Grill+9300+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Lunch Dinner
+
 ### Jackson Market and Deli
 
 $$
@@ -138,20 +150,6 @@ A hidden neighborhood market with great sandwiches and a patio with a koi pond.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Jackson+Market+and+Deli+4065+Jackson+Ave+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
 
 Lunch
-
-### Honey's Kettle Fried Chicken
-
-$$
-
-Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 9537 Culver Blvd
-
-Soul food fried chicken cooked in kettles, with biscuits and honey.
-
-**Order:** The spicy wing basket with a biscuit.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Honey%27s+Kettle+Fried+Chicken+9537+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
-
-Lunch Cheap eats
 
 **Love Palms? Live here.** Get new Palms listings, including off-market ones, or a free value on your Palms home.
 

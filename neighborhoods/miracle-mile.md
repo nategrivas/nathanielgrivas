@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Miracle Mile
 
-See them on the map →
-
 Miracle Mile is the stretch of Wilshire Boulevard between La Brea and Fairfax known as Museum Row, home to LACMA, the Academy Museum, the Petersen and the La Brea Tar Pits, with Art Deco buildings along Wilshire and a strong run of restaurants on La Brea.
 
 18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -139,19 +137,19 @@ An order-at-the-counter Japanese rice bowl spot in a plant-filled space.
 
 Lunch Cheap eats
 
-### Singapore's Banana Leaf
+### Pizzeria Mozza
 
-$
+$$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 6333 W 3rd St
+Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.5 mi · 641 N Highland Ave
 
-A Farmers Market stall for Singaporean and Indonesian dishes.
+Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.
 
-**Order:** Laksa, beef rendang and roti paratha.
+**Order:** A seasonal pizza and the butterscotch budino.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Singapore%27s+Banana+Leaf+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pizzeria+Mozza+641+N+Highland+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
-Lunch Cheap eats
+Pizza Dinner
 
 **Love Miracle Mile? Live here.** Get new Miracle Mile listings, including off-market ones, or a free value on your Miracle Mile home.
 
@@ -175,51 +173,37 @@ A quarter-century-old Italian institution.
 
 Dinner Date night
 
-### El Coyote
+### Lucia
 
-$$
+$$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 7312 Beverly Blvd
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 351 N Fairfax Ave
 
-A huge, festive Mexican landmark where the margaritas are the main event.
+A clubby Afro-Caribbean restaurant.
 
-**Order:** A house margarita with a big group.
+**Order:** Wagyu patties and the Cuban-spiced strip with fufu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Coyote+7312+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lucia+351+N+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
 
-Dinner Tacos & Mexican Cocktail bars & lounges
+Dinner Date night
 
-### Genghis Cohen
+### Osteria Mozza
 
-$$
+$$$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 448 N Fairfax Ave
+Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.5 mi · 6602 Melrose Ave
 
-A kitschy Chinese-American spot made for groups, with a small music room.
+Nancy Silverton's sit-down Italian dining room, with a mozzarella bar.
 
-**Order:** Kung pao shrimp and lo mein.
+**Order:** Something from the mozzarella bar, then pasta.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Genghis+Cohen+448+N+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Osteria+Mozza+6602+Melrose+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood)
 
-Dinner Live music
+Date night Dinner
 
 Drink
 
 ### Nightlife
-
-### Blue Collar
-
-$$
-
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 361 S Fairfax Ave
-
-A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
-
-**Order:** Tell them a spirit and a flavor you like.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
-
-Cocktail bars & lounges Date night
 
 ### Cold Shoulder
 
@@ -235,19 +219,33 @@ A moody speakeasy across from The Grove with elaborate cocktails.
 
 Cocktail bars & lounges Date night
 
-### The Abbey
+### Blue Collar
 
 $$
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.9 mi · 692 N Robertson Blvd
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 361 S Fairfax Ave
 
-West Hollywood's most famous bar, and one of the best known LGBTQ+ bars in the world. Several rooms, dancing at night and the neighborhood's best drag brunch.
+A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
 
-**Order:** Weekend drag brunch. Expect lines on weekend nights.
+**Order:** Tell them a spirit and a flavor you like.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Abbey+692+N+Robertson+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/gay-la-best-gay-bars-and-clubs-in-los-angeles) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
-Cocktail bars & lounges Brunch Landmarks & sights
+Cocktail bars & lounges Date night
+
+### The Lucky Tiki
+
+$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.9 mi · 8512 Santa Monica Blvd
+
+A hidden, reservation-only tiki bar behind Tail o' the Pup and one of the most theatrical drinks in town.
+
+**Order:** Get on the reservation list early.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Lucky+Tiki+8512+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
+
+Cocktail bars & lounges
 
 Do
 

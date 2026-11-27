@@ -56,8 +56,6 @@ Local LA
 
 ## Where to eat, drink and go in Beverly Hills
 
-See them on the map →
-
 Beverly Hills does the classics well: power-lunch rooms, old Hollywood martinis, serious omakase and some of the best sandwiches in LA. Between meals there are mansions, gardens and galleries within a few blocks of Rodeo.
 
 33 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -390,17 +388,17 @@ A garden-style rooftop 12 floors above Beverly Hills with one of the widest view
 
 Rooftops & views Cocktail bars & lounges Date night
 
-### Blue Collar
+### Cold Shoulder
 
-$$
+$$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 2.3 mi · 361 S Fairfax Ave
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 2.3 mi · 359 S Fairfax Ave
 
-A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
+A moody speakeasy across from The Grove with elaborate cocktails.
 
-**Order:** Tell them a spirit and a flavor you like.
+**Order:** A cocktail from the spirits menu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 

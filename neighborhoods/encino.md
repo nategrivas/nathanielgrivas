@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Encino
 
-See them on the map →
-
 Encino stretches along Ventura Boulevard west of the 405, with leafy hillside streets to the south, a long run of restaurants and cafes on the boulevard, and the Sepulveda Basin's parks just to the north.
 
 5 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Tarzana
 
-See them on the map →
-
 Tarzana, named for Edgar Rice Burroughs' Tarzan after the author's ranch here, runs along Ventura Boulevard west of Encino, with a strong mix of Israeli, Persian, Eastern European, Japanese and French restaurants.
 
 6 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

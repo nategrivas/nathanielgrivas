@@ -56,8 +56,6 @@ Local LA
 
 ## Where to eat, drink and go in Culver City
 
-See them on the map →
-
 Culver City is the Westside's studio town, with a walkable downtown around the Culver Hotel and Culver Steps, the Helms and Platform districts for food and shopping, and the Baldwin Hills overlook for the best view on this side of town. It's one of the easiest places in LA to spend a whole day on foot.
 
 34 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

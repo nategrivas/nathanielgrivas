@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Sherman Oaks
 
-See them on the map →
-
 Sherman Oaks has the Valley's busiest stretch of Ventura Boulevard, lined with restaurants, coffee shops and bars from the 405 east toward Studio City, plus easy access to the Santa Monica Mountains to the south.
 
 11 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

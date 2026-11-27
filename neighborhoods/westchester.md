@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Westchester
 
-See them on the map →
-
 Westchester sits on the bluffs just north of LAX, home to Loyola Marymount University and a set of neighborhood restaurants and coffee shops along Manchester Avenue, La Tijera Boulevard and the Westchester Triangle.
 
 7 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

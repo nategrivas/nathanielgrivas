@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Cheviot Hills & Rancho Park
 
-See them on the map →
-
 Cheviot Hills is a quiet, green neighborhood of winding streets between Century City and Culver City, anchored by its big recreation center and the Rancho Park golf course, with neighborhood restaurants along Pico Boulevard nearby.
 
 12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -125,33 +123,33 @@ A casual Brazilian restaurant with a huge menu that stays open late.
 
 Dinner Late night
 
-### Kotoya Japanese Ramen
+### n/naka
 
-$$
+$$$$
 
-Next door in [Palms](https://www.nathanielgrivas.com/neighborhoods/palms) · 1.0 mi · 10422 National Blvd
+Next door in [Palms](https://www.nathanielgrivas.com/neighborhoods/palms) · 1.0 mi · 3455 S Overland Ave
 
-One of the best ramen shops on the Westside, known for a rich tonkotsu broth. You order on tablets.
+Chef Niki Nakayama's celebrated modern kaiseki tasting menu, one of the hardest reservations in LA.
 
-**Order:** Tonkotsu or the spicy miso ramen.
+**Order:** Watch the reservation page for new dates and book the moment they drop.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kotoya+Japanese+Ramen+10422+National+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=n%2Fnaka+3455+S+Overland+Ave+Palms+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-los-angeles)
 
-Dinner Lunch
+Date night Dinner
 
-### Versailles
+### The Brothers Sushi
 
-$$
+$$$
 
-Next door in [Palms](https://www.nathanielgrivas.com/neighborhoods/palms) · 1.0 mi · 10319 Venice Blvd
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.4 mi · 9240 Culver Blvd
 
-A longtime LA Cuban restaurant with big plates and a lively dining room.
+The neighborhood's best sushi, with lunch specials and room for groups.
 
-**Order:** The garlic chicken with plantains.
+**Order:** The chirashi bowl.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Versailles+10319+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Brothers+Sushi+9240+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
 
-Dinner Lunch
+Sushi & Japanese Lunch
 
 **Love Cheviot Hills & Rancho Park? Live here.** Get new Cheviot Hills & Rancho Park listings, including off-market ones, or a free value on your Cheviot Hills & Rancho Park home.
 
@@ -175,20 +173,6 @@ A 1924 flatiron hotel with an old Hollywood lobby bar.
 
 Cocktail bars & lounges Landmarks & sights
 
-### Lost and Found Cocktails
-
-$$
-
-Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 2.1 mi · 11700 National Blvd
-
-A classy cocktail lounge with a small dance floor and local DJs on weekends.
-
-**Order:** A smoked old fashioned. Open Wednesday through Saturday.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
-
-Cocktail bars & lounges Late night
-
 ### Polo Lounge at the Beverly Hills Hotel
 
 $$$$
@@ -202,6 +186,20 @@ The pink hotel's famous lounge, worth a visit even if you aren't staying.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
 
 Cocktail bars & lounges Brunch Landmarks & sights
+
+### The Rooftop at the Waldorf Astoria
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.4 mi · 9850 Wilshire Blvd
+
+A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
+
+**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+
+Rooftops & views Cocktail bars & lounges Date night
 
 Do
 

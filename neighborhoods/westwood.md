@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Westwood
 
-See them on the map →
-
 Westwood runs from the UCLA campus and Westwood Village south past Wilshire, where Westwood Boulevard turns into LA's best stretch of Persian food. The Village has historic movie palaces, late-night eats and the free Hammer Museum.
 
 24 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -343,20 +341,6 @@ A romantic French bistro with a patio in the Village.
 
 Dinner Date night
 
-### Lost and Found Cocktails
-
-$$
-
-Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 1.7 mi · 11700 National Blvd
-
-A classy cocktail lounge with a small dance floor and local DJs on weekends.
-
-**Order:** A smoked old fashioned. Open Wednesday through Saturday.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
-
-Cocktail bars & lounges Late night
-
 ### Bar Toscana
 
 $$$
@@ -370,6 +354,20 @@ An intimate, stylish cocktail bar next door to Toscana, the longtime Brentwood p
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Toscana+11633+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/bar-toscana)
 
 Cocktail bars & lounges Date night
+
+### Lost and Found Cocktails
+
+$$
+
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 1.7 mi · 11700 National Blvd
+
+A classy cocktail lounge with a small dance floor and local DJs on weekends.
+
+**Order:** A smoked old fashioned. Open Wednesday through Saturday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+
+Cocktail bars & lounges Late night
 
 Do
 

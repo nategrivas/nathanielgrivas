@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Century City
 
-See them on the map →
-
 Century City is the Westside's office and shopping district, built on former 20th Century Fox backlot land between Beverly Hills and West LA. Most of the eating and entertainment centers on Westfield Century City and the towers along Avenue of the Stars.
 
 15 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -79,33 +77,33 @@ A neighborhood bakery cafe with pastries, sandwiches and a small patio off Santa
 
 Breakfast Bakeries & dessert Lunch
 
-### John O' Groats
+### Fountain Coffee Room at the Beverly Hills Hotel
 
-$$
+$$$
 
-Next door in [Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills) · 1.4 mi · 10516 W Pico Blvd
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9641 Sunset Blvd
 
-A longtime neighborhood breakfast spot known for its biscuits and big pancakes.
+A pink, 1949 soda-fountain counter inside the Beverly Hills Hotel with about 20 stools and breakfast served all day. It is walk-in only, so you sit at the counter and watch the room.
 
-**Order:** Pancakes or eggs with a side of biscuits.
+**Order:** Silver dollar pancakes and a milkshake. Daily, 7 a.m. to 4 p.m.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=John+O%27+Groats+10516+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fountain+Coffee+Room+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Dorchester Collection](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/fountain-coffee-room) [Time Out](https://timeout.com/los-angeles/restaurants/fountain-coffee-room)
+
+Breakfast Landmarks & sights
+
+### THE Blvd at the Beverly Wilshire
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9500 Wilshire Blvd
+
+The Beverly Wilshire's street-level dining room, looking straight down Rodeo Drive. A polished Four Seasons breakfast and a classic spot for a morning meeting.
+
+**Order:** A window table at the start of the day, then a walk up Rodeo.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=THE+Blvd+at+the+Beverly+Wilshire+9500+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/cuisine/best-breakfast-restaurants-beverly-hills-ca)
 
 Breakfast Brunch
-
-### FOOD
-
-$$
-
-Next door in [Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills) · 1.4 mi · 10571 W Pico Blvd
-
-A friendly neighborhood cafe with an all-day menu and plenty of healthy options.
-
-**Order:** The pancakes, or the Thai steak salad at lunch.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=FOOD+10571+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
-
-Breakfast Lunch Healthy & plant-based
 
 Eat
 
@@ -125,6 +123,20 @@ Nordstrom's in-store restaurant and bar, an easy sit-down break while shopping.
 
 Lunch
 
+### The Grill on the Alley
+
+$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9560 Dayton Way
+
+A showbiz power-lunch classic known for polished, professional service.
+
+**Order:** Chicken piccata, the chopped salad and brownie à la mode.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Grill+on+the+Alley+9560+Dayton+Way+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Lunch Dinner
+
 ### The Cheese Store of Beverly Hills
 
 $$
@@ -138,20 +150,6 @@ A fromagerie open for more than 50 years that makes some of the best deli sandwi
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Cheese+Store+of+Beverly+Hills+9705+S+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
 
 Lunch Markets
-
-### Lorenzo California
-
-$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9529 Santa Monica Blvd
-
-Giant Italian focaccia sandwiches for a fast lunch. Seating is a small sidewalk area.
-
-**Order:** The prosciutto focaccia.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lorenzo+California+9529+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
-
-Lunch
 
 **Love Century City? Live here.** Get new Century City listings, including off-market ones, or a free value on your Century City home.
 

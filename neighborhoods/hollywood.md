@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Hollywood
 
-See them on the map →
-
 Hollywood is LA's entertainment district, with historic movie palaces, the Walk of Fame, the Bowl and the Pantages, plus serious restaurants on Melrose, Highland and Sunset. Runyon Canyon and the hills around the Hollywood Sign start just above the flats.
 
 36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -153,19 +151,19 @@ A wellness-minded rooftop restaurant known for its happy hour.
 
 Healthy & plant-based Rooftops & views Dinner
 
-### Larchmont Village Wine, Spirits & Cheese
+### Pizzeria Mozza
 
-$$
+$$$
 
-Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.7 mi · 223 N Larchmont Blvd
+Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.7 mi · 641 N Highland Ave
 
-A wine and cheese shop with a sandwich counter that draws a lunch line. Closed Sundays.
+Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.
 
-**Order:** A made-to-order Italian sandwich.
+**Order:** A seasonal pizza and the butterscotch budino.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Larchmont+Village+Wine%2C+Spirits+%26+Cheese+223+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/la-city-guide-a-tour-of-larchmont-boulevard-in-hancock-park) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pizzeria+Mozza+641+N+Highland+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
-Lunch Wine bars
+Pizza Dinner
 
 **Love Hollywood? Live here.** Get new Hollywood listings, including off-market ones, or a free value on your Hollywood home.
 

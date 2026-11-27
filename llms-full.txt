@@ -1317,8 +1317,6 @@ Local LA
 
 ## Where to eat, drink and go in Malibu
 
-See them on the map →
-
 Malibu is 21 miles of coastline along PCH, from Surfrider Beach and the pier to Zuma, Point Dume and the sea caves at El Matador. The restaurants lean on the views and the seafood, and the Santa Monica Mountains rise right behind the beach.
 
 24 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -1883,8 +1881,6 @@ Local LA
 
 ## Where to eat, drink and go in Marina del Rey
 
-See them on the map →
-
 Marina del Rey wraps around North America's largest man-made small-craft harbor, with waterfront restaurants, a calm swimming beach and a bike path that runs to Venice and Playa del Rey. The best food is often a block off the water, along Washington Boulevard and in the strip malls inland.
 
 20 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -2133,19 +2129,19 @@ A quirky, rowdy nautical-themed classic on the water.
 
 Cocktail bars & lounges
 
-### Venice Whaler
+### Gran Blanco
 
-$$
+$$$
 
-Next door in [Venice](https://www.nathanielgrivas.com/neighborhoods/venice) · 1.1 mi · 10 W Washington Blvd
+Next door in [Venice](https://www.nathanielgrivas.com/neighborhoods/venice) · 1.1 mi · Washington Blvd
 
-A two-story bar steps from the sand with better bar food than it needs to have. Weekends are lively.
+A Tulum-style white room with a disco ball and genuinely good food at the bar. Walk-ins can usually grab a bar seat.
 
-**Order:** A pitcher upstairs at sunset.
+**Order:** The Nomalizo (mezcal, watermelon, jalapeño) or a reposado espresso martini.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Venice+Whaler+10+W+Washington+Blvd+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-bars-in-venice)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Gran+Blanco+Washington+Blvd+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-bars-in-venice)
 
-Rooftops & views Cocktail bars & lounges
+Cocktail bars & lounges Dinner
 
 Do
 
@@ -2402,8 +2398,6 @@ What's my home worth? Get Pacific Palisades listings
 Local LA
 
 ## Where to eat, drink and go in Pacific Palisades
-
-See them on the map →
 
 Pacific Palisades is rebuilding after the January 2025 Palisades Fire. Palisades Village reopened in August 2026 after a $100 million restoration, and a growing list of local restaurants, shops and trails are open again. This guide lists only places confirmed open, and it grows as more return.
 
@@ -2813,8 +2807,6 @@ Local LA
 
 ## Where to eat, drink and go in Playa Vista
 
-See them on the map →
-
 Playa Vista is a newer, walkable planned neighborhood built around the Runway shopping district, parks and tech offices, right next to the Ballona Wetlands. Everyday errands, dinner and a movie are all a short walk apart.
 
 18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -2933,20 +2925,6 @@ Chef Brooke Williamson's beachside spot with a daytime counter, a seafood dining
 
 Seafood Dinner Brunch
 
-### Bacari PDR
-
-$$
-
-Next door in [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · 1.6 mi · 6805 S Vista Del Mar Ln
-
-A Mediterranean small-plates restaurant and the neighborhood's go-to for a night out.
-
-**Order:** Share several small plates with a bottle of wine.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bacari+PDR+6805+S+Vista+Del+Mar+Ln+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
-
-Dinner Date night Wine bars
-
 ### Caffe Pinguini
 
 $$$
@@ -2961,9 +2939,37 @@ A Roman-run Italian restaurant serving fresh pasta near the beach since 1997, wi
 
 Date night Dinner
 
+### Locanda Positano
+
+$$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · 4212 Lincoln Blvd
+
+A tiny Italian restaurant with excellent pasta in an unglamorous strip.
+
+**Order:** Any of the fresh pastas.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Locanda+Positano+4212+Lincoln+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Dinner Date night
+
 Drink
 
 ### Nightlife
+
+### Accomplice
+
+$$$
+
+Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 2.1 mi · 3811 Grand View Blvd
+
+A creative cocktail bar next to Little Fatty, with two back-to-back bars and a menu of a dozen house drinks.
+
+**Order:** Sit at the bar and watch the torched cocktails get made. Weekday happy hour.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
 
 ### Whiskey Red's
 
@@ -2992,20 +2998,6 @@ A quirky, rowdy nautical-themed classic on the water.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Warehouse+Restaurant+4499+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
 
 Cocktail bars & lounges
-
-### The Manchester
-
-$$
-
-Next door in [Westchester](https://www.nathanielgrivas.com/neighborhoods/westchester) · 1.8 mi · 8522 Lincoln Blvd
-
-A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy hour.
-
-**Order:** A whiskey sour and the Sichuan wings.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
-
-Cocktail bars & lounges Dinner Date night
 
 Do
 
@@ -3298,8 +3290,6 @@ What's my home worth? Get Playa del Rey listings
 Local LA
 
 ## Where to eat, drink and go in Playa del Rey
-
-See them on the map →
 
 Playa del Rey is a small beach town at the south end of the Ballona Wetlands, with a short, walkable strip of bars and restaurants on Culver Boulevard and wide beaches where you can watch jets leave LAX.
 
@@ -3685,8 +3675,6 @@ What's my home worth? Get Santa Monica listings
 Local LA
 
 ## Where to eat, drink and go in Santa Monica
-
-See them on the map →
 
 Santa Monica is a beach city with its own rules and a deep bench of restaurants, from a 1950s seaside shack to tasting menus that book a month out. Main Street and Ocean Park are the relaxed half; downtown, Wilshire and Montana carry the rest.
 
@@ -4437,8 +4425,6 @@ What's my home worth? Get Venice listings
 Local LA
 
 ## Where to eat, drink and go in Venice
-
-See them on the map →
 
 Venice packs a beach town, one of LA's best restaurant streets and a handful of genuinely odd landmarks into a couple of square miles. Abbot Kinney and Rose Avenue carry most of the eating and drinking; the boardwalk, canals and skatepark carry the rest.
 
@@ -5254,8 +5240,6 @@ Local LA
 
 ## Where to eat, drink and go in Brentwood
 
-See them on the map →
-
 Brentwood's center is San Vicente Boulevard, a coral-tree-lined median with a run of cafes and Italian restaurants, plus Barrington Court just off it. The Getty sits on the hill above, the Country Mart anchors the west end, and the trails up Mandeville Canyon start a few minutes away.
 
 21 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -5785,8 +5769,6 @@ Local LA
 
 ## Where to eat, drink and go in Century City
 
-See them on the map →
-
 Century City is the Westside's office and shopping district, built on former 20th Century Fox backlot land between Beverly Hills and West LA. Most of the eating and entertainment centers on Westfield Century City and the towers along Avenue of the Stars.
 
 15 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -5809,33 +5791,33 @@ A neighborhood bakery cafe with pastries, sandwiches and a small patio off Santa
 
 Breakfast Bakeries & dessert Lunch
 
-### John O' Groats
+### Fountain Coffee Room at the Beverly Hills Hotel
 
-$$
+$$$
 
-Next door in [Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills) · 1.4 mi · 10516 W Pico Blvd
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9641 Sunset Blvd
 
-A longtime neighborhood breakfast spot known for its biscuits and big pancakes.
+A pink, 1949 soda-fountain counter inside the Beverly Hills Hotel with about 20 stools and breakfast served all day. It is walk-in only, so you sit at the counter and watch the room.
 
-**Order:** Pancakes or eggs with a side of biscuits.
+**Order:** Silver dollar pancakes and a milkshake. Daily, 7 a.m. to 4 p.m.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=John+O%27+Groats+10516+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fountain+Coffee+Room+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Dorchester Collection](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/fountain-coffee-room) [Time Out](https://timeout.com/los-angeles/restaurants/fountain-coffee-room)
+
+Breakfast Landmarks & sights
+
+### THE Blvd at the Beverly Wilshire
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9500 Wilshire Blvd
+
+The Beverly Wilshire's street-level dining room, looking straight down Rodeo Drive. A polished Four Seasons breakfast and a classic spot for a morning meeting.
+
+**Order:** A window table at the start of the day, then a walk up Rodeo.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=THE+Blvd+at+the+Beverly+Wilshire+9500+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/cuisine/best-breakfast-restaurants-beverly-hills-ca)
 
 Breakfast Brunch
-
-### FOOD
-
-$$
-
-Next door in [Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills) · 1.4 mi · 10571 W Pico Blvd
-
-A friendly neighborhood cafe with an all-day menu and plenty of healthy options.
-
-**Order:** The pancakes, or the Thai steak salad at lunch.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=FOOD+10571+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
-
-Breakfast Lunch Healthy & plant-based
 
 Eat
 
@@ -5855,6 +5837,20 @@ Nordstrom's in-store restaurant and bar, an easy sit-down break while shopping.
 
 Lunch
 
+### The Grill on the Alley
+
+$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9560 Dayton Way
+
+A showbiz power-lunch classic known for polished, professional service.
+
+**Order:** Chicken piccata, the chopped salad and brownie à la mode.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Grill+on+the+Alley+9560+Dayton+Way+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Lunch Dinner
+
 ### The Cheese Store of Beverly Hills
 
 $$
@@ -5868,20 +5864,6 @@ A fromagerie open for more than 50 years that makes some of the best deli sandwi
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Cheese+Store+of+Beverly+Hills+9705+S+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
 
 Lunch Markets
-
-### Lorenzo California
-
-$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9529 Santa Monica Blvd
-
-Giant Italian focaccia sandwiches for a fast lunch. Seating is a small sidewalk area.
-
-**Order:** The prosciutto focaccia.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lorenzo+California+9529+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
-
-Lunch
 
 **Love Century City? Live here.** Get new Century City listings, including off-market ones, or a free value on your Century City home.
 
@@ -6229,8 +6211,6 @@ Local LA
 
 ## Where to eat, drink and go in Cheviot Hills & Rancho Park
 
-See them on the map →
-
 Cheviot Hills is a quiet, green neighborhood of winding streets between Century City and Culver City, anchored by its big recreation center and the Rancho Park golf course, with neighborhood restaurants along Pico Boulevard nearby.
 
 12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -6299,33 +6279,33 @@ A casual Brazilian restaurant with a huge menu that stays open late.
 
 Dinner Late night
 
-### Kotoya Japanese Ramen
+### n/naka
 
-$$
+$$$$
 
-Next door in [Palms](https://www.nathanielgrivas.com/neighborhoods/palms) · 1.0 mi · 10422 National Blvd
+Next door in [Palms](https://www.nathanielgrivas.com/neighborhoods/palms) · 1.0 mi · 3455 S Overland Ave
 
-One of the best ramen shops on the Westside, known for a rich tonkotsu broth. You order on tablets.
+Chef Niki Nakayama's celebrated modern kaiseki tasting menu, one of the hardest reservations in LA.
 
-**Order:** Tonkotsu or the spicy miso ramen.
+**Order:** Watch the reservation page for new dates and book the moment they drop.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kotoya+Japanese+Ramen+10422+National+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=n%2Fnaka+3455+S+Overland+Ave+Palms+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-los-angeles)
 
-Dinner Lunch
+Date night Dinner
 
-### Versailles
+### The Brothers Sushi
 
-$$
+$$$
 
-Next door in [Palms](https://www.nathanielgrivas.com/neighborhoods/palms) · 1.0 mi · 10319 Venice Blvd
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.4 mi · 9240 Culver Blvd
 
-A longtime LA Cuban restaurant with big plates and a lively dining room.
+The neighborhood's best sushi, with lunch specials and room for groups.
 
-**Order:** The garlic chicken with plantains.
+**Order:** The chirashi bowl.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Versailles+10319+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Brothers+Sushi+9240+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
 
-Dinner Lunch
+Sushi & Japanese Lunch
 
 **Love Cheviot Hills & Rancho Park? Live here.** Get new Cheviot Hills & Rancho Park listings, including off-market ones, or a free value on your Cheviot Hills & Rancho Park home.
 
@@ -6349,20 +6329,6 @@ A 1924 flatiron hotel with an old Hollywood lobby bar.
 
 Cocktail bars & lounges Landmarks & sights
 
-### Lost and Found Cocktails
-
-$$
-
-Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 2.1 mi · 11700 National Blvd
-
-A classy cocktail lounge with a small dance floor and local DJs on weekends.
-
-**Order:** A smoked old fashioned. Open Wednesday through Saturday.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
-
-Cocktail bars & lounges Late night
-
 ### Polo Lounge at the Beverly Hills Hotel
 
 $$$$
@@ -6376,6 +6342,20 @@ The pink hotel's famous lounge, worth a visit even if you aren't staying.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
 
 Cocktail bars & lounges Brunch Landmarks & sights
+
+### The Rooftop at the Waldorf Astoria
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.4 mi · 9850 Wilshire Blvd
+
+A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
+
+**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+
+Rooftops & views Cocktail bars & lounges Date night
 
 Do
 
@@ -6622,8 +6602,6 @@ What's my home worth? Get Culver City listings
 Local LA
 
 ## Where to eat, drink and go in Culver City
-
-See them on the map →
 
 Culver City is the Westside's studio town, with a walkable downtown around the Culver Hotel and Culver Steps, the Helms and Platform districts for food and shopping, and the Baldwin Hills overlook for the best view on this side of town. It's one of the easiest places in LA to spend a whole day on foot.
 
@@ -7331,8 +7309,6 @@ Local LA
 
 ## Where to eat, drink and go in Mar Vista
 
-See them on the map →
-
 Mar Vista is Venice's quieter neighbor, with a walkable stretch of Venice Boulevard around Grand View, a Sunday farmers market and one of the best Japanese markets on the Westside. Its restaurant scene has grown fast, from Taiwanese comfort food on Grand View to a French bistro on Centinela.
 
 23 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -7471,19 +7447,19 @@ A red taco truck in front of Mitsuwa known for loaded quesabirria with plenty of
 
 Tacos & Mexican Cheap eats
 
-### Lokal Sandwich Shop
+### Laurel Grill
 
-$
+$$$
 
-Next door in [Palms](https://www.nathanielgrivas.com/neighborhoods/palms) · 1.9 mi · 10433 National Blvd #1A
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 2.3 mi · 9300 Culver Blvd
 
-A busy little sandwich shop where the specialty is banh mi on fresh, soft bread.
+A polished hearth-cooking restaurant downtown, good for a business lunch.
 
-**Order:** A tofu or Korean BBQ banh mi.
+**Order:** The ribs or the ribeye.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lokal+Sandwich+Shop+10433+National+Blvd+%231A+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Grill+9300+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
 
-Lunch Breakfast Cheap eats
+Lunch Dinner
 
 **Love Mar Vista? Live here.** Get new Mar Vista listings, including off-market ones, or a free value on your Mar Vista home.
 
@@ -7894,8 +7870,6 @@ Local LA
 
 ## Where to eat, drink and go in Palms
 
-See them on the map →
-
 Palms sits between Culver City and West LA, a dense grid of apartments and strip malls along Venice, National and Motor, with some of the Westside's best casual cooking and the Expo Line close by.
 
 13 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -7964,6 +7938,20 @@ A busy little sandwich shop where the specialty is banh mi on fresh, soft bread.
 
 Lunch Breakfast Cheap eats
 
+### Laurel Grill
+
+$$$
+
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 9300 Culver Blvd
+
+A polished hearth-cooking restaurant downtown, good for a business lunch.
+
+**Order:** The ribs or the ribeye.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Grill+9300+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Lunch Dinner
+
 ### Jackson Market and Deli
 
 $$
@@ -7977,20 +7965,6 @@ A hidden neighborhood market with great sandwiches and a patio with a koi pond.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Jackson+Market+and+Deli+4065+Jackson+Ave+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
 
 Lunch
-
-### Honey's Kettle Fried Chicken
-
-$$
-
-Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 9537 Culver Blvd
-
-Soul food fried chicken cooked in kettles, with biscuits and honey.
-
-**Order:** The spicy wing basket with a biscuit.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Honey%27s+Kettle+Fried+Chicken+9537+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
-
-Lunch Cheap eats
 
 **Love Palms? Live here.** Get new Palms listings, including off-market ones, or a free value on your Palms home.
 
@@ -8303,8 +8277,6 @@ Local LA
 
 ## Where to eat, drink and go in Pico-Robertson & Beverlywood
 
-See them on the map →
-
 Pico-Robertson centers on the busy crossroads of Pico and Robertson Boulevards just south of Beverly Hills, with LA's biggest cluster of kosher restaurants, bakeries and markets plus a few destination dining rooms.
 
 12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -8341,19 +8313,19 @@ A kosher bakery and cafe with excellent croissants, sourdough and beautifully pl
 
 Breakfast Bakeries & dessert Lunch
 
-### Neighborhood
+### Fountain Coffee Room at the Beverly Hills Hotel
 
-$
+$$$
 
-Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 1.4 mi · 8151 W 3rd St
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.7 mi · 9641 Sunset Blvd
 
-A small specialty coffee shop with a walk-up window, outdoor seating and its own parking.
+A pink, 1949 soda-fountain counter inside the Beverly Hills Hotel with about 20 stools and breakfast served all day. It is walk-in only, so you sit at the counter and watch the room.
 
-**Order:** An iced Americano or a seasonal latte with a cinnamon roll.
+**Order:** Silver dollar pancakes and a milkshake. Daily, 7 a.m. to 4 p.m.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Neighborhood+8151+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fountain+Coffee+Room+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Dorchester Collection](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/fountain-coffee-room) [Time Out](https://timeout.com/los-angeles/restaurants/fountain-coffee-room)
 
-Coffee
+Breakfast Landmarks & sights
 
 Eat
 
@@ -8387,19 +8359,19 @@ A kosher dairy spot for thin-crust sourdough pizza and house-made pasta.
 
 Pizza Dinner
 
-### Byrdie's Rotisserie
+### The Grill on the Alley
 
-$
+$$$
 
-Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 1.4 mi · 8030 W 3rd St
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.7 mi · 9560 Dayton Way
 
-A counter-service rotisserie with great sauces.
+A showbiz power-lunch classic known for polished, professional service.
 
-**Order:** Chicken with the hot sauce, chimichurri and gochujang aioli.
+**Order:** Chicken piccata, the chopped salad and brownie à la mode.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Byrdie%27s+Rotisserie+8030+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Grill+on+the+Alley+9560+Dayton+Way+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
 
-Lunch Cheap eats
+Lunch Dinner
 
 **Love Pico-Robertson & Beverlywood? Live here.** Get new Pico-Robertson & Beverlywood listings, including off-market ones, or a free value on your Pico-Robertson & Beverlywood home.
 
@@ -8437,19 +8409,19 @@ A Michelin-recognized restaurant serving a seasonal four-course prix fixe.
 
 Date night Dinner
 
-### Regalade
+### A.O.C.
 
-$$
+$$$
 
-Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 1.4 mi · 8136 W 3rd St
+Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 1.4 mi · 8700 W 3rd St
 
-An affordable French neighborhood bistro that fits almost any occasion.
+Suzanne Goin's small-plates restaurant with one of the best wine lists in LA and a beautiful courtyard.
 
-**Order:** Steak frites and the green curry mussels.
+**Order:** Order a glass of wine and share several small plates.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Regalade+8136+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=A.O.C.+8700+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants)
 
-Dinner Date night
+Dinner Wine bars Date night
 
 Drink
 
@@ -8483,17 +8455,17 @@ A garden-style rooftop 12 floors above Beverly Hills with one of the widest view
 
 Rooftops & views Cocktail bars & lounges Date night
 
-### Blue Collar
+### Cold Shoulder
 
-$$
+$$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.9 mi · 361 S Fairfax Ave
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.9 mi · 359 S Fairfax Ave
 
-A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
+A moody speakeasy across from The Grove with elaborate cocktails.
 
-**Order:** Tell them a spirit and a flavor you like.
+**Order:** A cocktail from the spirits menu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -8705,8 +8677,6 @@ What's my home worth? Get West LA & Sawtelle listings
 Local LA
 
 ## Where to eat, drink and go in West LA & Sawtelle
-
-See them on the map →
 
 West LA's heart is Sawtelle Japantown, a few walkable blocks of ramen counters, izakayas, dessert shops and pop-culture stores between Santa Monica and Olympic Boulevards. Around it, Pico and National have some of the Westside's best neighborhood bars.
 
@@ -9288,8 +9258,6 @@ Local LA
 
 ## Where to eat, drink and go in Westchester
 
-See them on the map →
-
 Westchester sits on the bluffs just north of LAX, home to Loyola Marymount University and a set of neighborhood restaurants and coffee shops along Manchester Avenue, La Tijera Boulevard and the Westchester Triangle.
 
 7 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -9597,8 +9565,6 @@ Local LA
 
 ## Where to eat, drink and go in Westwood
 
-See them on the map →
-
 Westwood runs from the UCLA campus and Westwood Village south past Wilshire, where Westwood Boulevard turns into LA's best stretch of Persian food. The Village has historic movie palaces, late-night eats and the free Hammer Museum.
 
 24 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -9885,20 +9851,6 @@ A romantic French bistro with a patio in the Village.
 
 Dinner Date night
 
-### Lost and Found Cocktails
-
-$$
-
-Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 1.7 mi · 11700 National Blvd
-
-A classy cocktail lounge with a small dance floor and local DJs on weekends.
-
-**Order:** A smoked old fashioned. Open Wednesday through Saturday.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
-
-Cocktail bars & lounges Late night
-
 ### Bar Toscana
 
 $$$
@@ -9912,6 +9864,20 @@ An intimate, stylish cocktail bar next door to Toscana, the longtime Brentwood p
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Toscana+11633+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/bar-toscana)
 
 Cocktail bars & lounges Date night
+
+### Lost and Found Cocktails
+
+$$
+
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 1.7 mi · 11700 National Blvd
+
+A classy cocktail lounge with a small dance floor and local DJs on weekends.
+
+**Order:** A smoked old fashioned. Open Wednesday through Saturday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+
+Cocktail bars & lounges Late night
 
 Do
 
@@ -10164,8 +10130,6 @@ Local LA
 
 ## Where to eat, drink and go in Bel Air
 
-See them on the map →
-
 Bel Air is a quiet, gated hillside enclave of winding canyon roads north of Sunset, home to the storied Hotel Bel-Air, with a small village of shops at Beverly Glen Circle up the canyon.
 
 8 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -10248,19 +10212,19 @@ A warm Italian restaurant at the Beverly Glen Circle shopping center up the cany
 
 Dinner Date night
 
-### Shamshiri Grill
+### Hamasaku
 
-$$
+$$$$
 
-Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 1712 Westwood Blvd
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 11043 Santa Monica Blvd
 
-A Persian landmark on Westwood Boulevard since 1981.
+A strip-mall sushi bar with a traditional omakase that's fairly priced for its quality.
 
-**Order:** Tahchin and the tahdig with stew.
+**Order:** The omakase.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Shamshiri+Grill+1712+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hamasaku+11043+Santa+Monica+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
 
-Dinner
+Sushi & Japanese Date night
 
 ### Skirball Cultural Center
 
@@ -10501,8 +10465,6 @@ What's my home worth? Get Beverly Hills listings
 Local LA
 
 ## Where to eat, drink and go in Beverly Hills
-
-See them on the map →
 
 Beverly Hills does the classics well: power-lunch rooms, old Hollywood martinis, serious omakase and some of the best sandwiches in LA. Between meals there are mansions, gardens and galleries within a few blocks of Rodeo.
 
@@ -10836,17 +10798,17 @@ A garden-style rooftop 12 floors above Beverly Hills with one of the widest view
 
 Rooftops & views Cocktail bars & lounges Date night
 
-### Blue Collar
+### Cold Shoulder
 
-$$
+$$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 2.3 mi · 361 S Fairfax Ave
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 2.3 mi · 359 S Fairfax Ave
 
-A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
+A moody speakeasy across from The Grove with elaborate cocktails.
 
-**Order:** Tell them a spirit and a flavor you like.
+**Order:** A cocktail from the spirits menu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -11218,8 +11180,6 @@ Local LA
 
 ## Where to eat, drink and go in Beverly Hills Post Office
 
-See them on the map →
-
 Beverly Hills Post Office is the hillside area above the city of Beverly Hills, covering Benedict, Coldwater and Franklin canyons. It is mostly residential, with some of the best quick escapes into nature on the Westside.
 
 11 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -11227,34 +11187,6 @@ Beverly Hills Post Office is the hillside area above the city of Beverly Hills, 
 Eat
 
 ### Coffee & breakfast
-
-### Nate 'n Al Delicatessen
-
-$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 414 N Beverly Dr
-
-A classic deli with an eclectic, very Beverly Hills crowd.
-
-**Order:** Bagel and lox, stuffed cabbage and matzah ball soup.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nate+%27n+Al+Delicatessen+414+N+Beverly+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
-
-Breakfast Lunch
-
-### Faregrounds
-
-$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 459 N Roxbury Dr
-
-A bright corner cafe that has become the Beverly Hills breakfast burrito spot. The kitchen cooks without seed oils, and the matcha menu is as big a draw as the coffee.
-
-**Order:** The Faregrounds breakfast burrito with a strawberry matcha. Open weekdays from 7 a.m.; closed on weekends.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Faregrounds+459+N+Roxbury+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Love Beverly Hills](https://lovebeverlyhills.com/restaurants/view/faregrounds) [Atly](https://www.atly.com/united-states/california/beverly-hills/best-breakfast)
-
-Breakfast Coffee Healthy & plant-based
 
 ### Fountain Coffee Room at the Beverly Hills Hotel
 
@@ -11269,6 +11201,34 @@ A pink, 1949 soda-fountain counter inside the Beverly Hills Hotel with about 20 
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Fountain+Coffee+Room+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Dorchester Collection](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/fountain-coffee-room) [Time Out](https://timeout.com/los-angeles/restaurants/fountain-coffee-room)
 
 Breakfast Landmarks & sights
+
+### THE Blvd at the Beverly Wilshire
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9500 Wilshire Blvd
+
+The Beverly Wilshire's street-level dining room, looking straight down Rodeo Drive. A polished Four Seasons breakfast and a classic spot for a morning meeting.
+
+**Order:** A window table at the start of the day, then a walk up Rodeo.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=THE+Blvd+at+the+Beverly+Wilshire+9500+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/cuisine/best-breakfast-restaurants-beverly-hills-ca)
+
+Breakfast Brunch
+
+### Nate 'n Al Delicatessen
+
+$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 414 N Beverly Dr
+
+A classic deli with an eclectic, very Beverly Hills crowd.
+
+**Order:** Bagel and lox, stuffed cabbage and matzah ball soup.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nate+%27n+Al+Delicatessen+414+N+Beverly+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Breakfast Lunch
 
 Eat & drink
 
@@ -11598,8 +11558,6 @@ Local LA
 
 ## Where to eat, drink and go in Hollywood Hills
 
-See them on the map →
-
 The Hollywood Hills rise above Hollywood and West Hollywood along Mulholland Drive and the Laurel and Cahuenga canyons, with music history in Laurel Canyon, a hillside amphitheater and some of the best Hollywood Sign views in town.
 
 18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -11607,6 +11565,20 @@ The Hollywood Hills rise above Hollywood and West Hollywood along Mulholland Dri
 Eat
 
 ### Coffee & breakfast
+
+### Cecconi's
+
+$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 8764 Melrose Ave
+
+A Melrose and Robertson corner classic for Italian. Nights are a scene, mornings are calmer.
+
+**Order:** Steak and eggs at brunch on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cecconi%27s+8764+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+
+Brunch Dinner
 
 ### Dayglow
 
@@ -11635,20 +11607,6 @@ A big indoor-outdoor cafe from the Santa Cruz roaster, and one of the easiest pl
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Verve+Coffee+Roasters+8925+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood)
 
 Coffee
-
-### Strings of Life
-
-$$
-
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 510 N Robertson Blvd
-
-A plant-filled cafe on Robertson built for slow mornings. There's no Wi-Fi on purpose.
-
-**Order:** A flat white and one of the vegan bowls.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Strings+of+Life+510+N+Robertson+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood)
-
-Coffee Healthy & plant-based
 
 Eat
 
@@ -11750,20 +11708,6 @@ Drink
 
 ### Nightlife
 
-### The Abbey
-
-$$
-
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 692 N Robertson Blvd
-
-West Hollywood's most famous bar, and one of the best known LGBTQ+ bars in the world. Several rooms, dancing at night and the neighborhood's best drag brunch.
-
-**Order:** Weekend drag brunch. Expect lines on weekend nights.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Abbey+692+N+Robertson+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/gay-la-best-gay-bars-and-clubs-in-los-angeles) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
-
-Cocktail bars & lounges Brunch Landmarks & sights
-
 ### The Lucky Tiki
 
 $$$
@@ -11778,19 +11722,33 @@ A hidden, reservation-only tiki bar behind Tail o' the Pup and one of the most t
 
 Cocktail bars & lounges
 
-### The Roger Room
+### Employees Only
 
-$$
+$$$
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 370 N La Cienega Blvd
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 7953 Santa Monica Blvd
 
-A small, dark cocktail den behind a neon psychic sign. It fills up around 9pm.
+The New York cocktail bar's LA outpost, now a relaxed neighborhood spot for very good drinks.
 
-**Order:** Order by spirit and let the bartender build it.
+**Order:** Come for the early-evening happy hour.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Roger+Room+370+N+La+Cienega+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Employees+Only+7953+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
 
-Cocktail bars & lounges
+Cocktail bars & lounges Late night
+
+### Tower Bar
+
+$$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 8358 Sunset Blvd
+
+The Sunset Tower Hotel's old Hollywood bar and pool deck.
+
+**Order:** A martini by the pool in the afternoon.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tower+Bar+8358+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-west-hollywood) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood)
+
+Cocktail bars & lounges Date night
 
 Do
 
@@ -12091,8 +12049,6 @@ Local LA
 
 ## Where to eat, drink and go in Beverly Grove
 
-See them on the map →
-
 Beverly Grove is one of LA's most restaurant-dense neighborhoods, centered on West 3rd Street and Beverly Boulevard between La Cienega and Fairfax. It's an easy place to walk from coffee to lunch to a long dinner, with the Beverly Center at its west end.
 
 18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -12327,20 +12283,6 @@ Drink
 
 ### Nightlife
 
-### Blue Collar
-
-$$
-
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 0.9 mi · 361 S Fairfax Ave
-
-A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
-
-**Order:** Tell them a spirit and a flavor you like.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
-
-Cocktail bars & lounges Date night
-
 ### Cold Shoulder
 
 $$$
@@ -12368,6 +12310,20 @@ The pink hotel's famous lounge, worth a visit even if you aren't staying.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
 
 Cocktail bars & lounges Brunch Landmarks & sights
+
+### The Rooftop at the Waldorf Astoria
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.3 mi · 9850 Wilshire Blvd
+
+A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
+
+**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+
+Rooftops & views Cocktail bars & lounges Date night
 
 Sources
 
@@ -12573,8 +12529,6 @@ Local LA
 
 ## Where to eat, drink and go in Fairfax District
 
-See them on the map →
-
 The Fairfax District runs from the Original Farmers Market and The Grove up Fairfax Avenue, LA's classic deli and streetwear strip, to Melrose. It's walkable, busy at all hours and home to some of the city's most famous food stalls.
 
 23 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -12611,19 +12565,19 @@ A calm Melrose cafe with plenty of seating and outlets, good for getting work do
 
 Coffee
 
-### Neighborhood
+### Cecconi's
 
-$
+$$$
 
-Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 0.9 mi · 8151 W 3rd St
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 8764 Melrose Ave
 
-A small specialty coffee shop with a walk-up window, outdoor seating and its own parking.
+A Melrose and Robertson corner classic for Italian. Nights are a scene, mornings are calmer.
 
-**Order:** An iced Americano or a seasonal latte with a cinnamon roll.
+**Order:** Steak and eggs at brunch on the patio.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Neighborhood+8151+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cecconi%27s+8764+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
 
-Coffee
+Brunch Dinner
 
 Eat
 
@@ -12823,19 +12777,19 @@ A moody speakeasy across from The Grove with elaborate cocktails.
 
 Cocktail bars & lounges Date night
 
-### The Abbey
+### The Lucky Tiki
 
-$$
+$$$
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 692 N Robertson Blvd
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 8512 Santa Monica Blvd
 
-West Hollywood's most famous bar, and one of the best known LGBTQ+ bars in the world. Several rooms, dancing at night and the neighborhood's best drag brunch.
+A hidden, reservation-only tiki bar behind Tail o' the Pup and one of the most theatrical drinks in town.
 
-**Order:** Weekend drag brunch. Expect lines on weekend nights.
+**Order:** Get on the reservation list early.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Abbey+692+N+Robertson+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/gay-la-best-gay-bars-and-clubs-in-los-angeles) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Lucky+Tiki+8512+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
 
-Cocktail bars & lounges Brunch Landmarks & sights
+Cocktail bars & lounges
 
 Do
 
@@ -13139,8 +13093,6 @@ Local LA
 
 ## Where to eat, drink and go in Hancock Park & Larchmont
 
-See them on the map →
-
 Hancock Park is a historic neighborhood of 1920s homes and tree-lined streets. Larchmont Village, its small walkable main street, is where locals go for sandwiches, books and errands, and Melrose Avenue on the north edge adds some of the city's best Italian restaurants.
 
 16 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -13148,20 +13100,6 @@ Hancock Park is a historic neighborhood of 1920s homes and tree-lined streets. L
 Eat
 
 ### Coffee & breakfast
-
-### Savor
-
-$$
-
-Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 5657 Wilshire Blvd, Suite 150
-
-A family-owned cafe with good espresso drinks, sandwiches and a small sidewalk patio.
-
-**Order:** The house cold brew and the pesto turkey sandwich.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Savor+5657+Wilshire+Blvd%2C+Suite+150+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
-
-Coffee Lunch
 
 ### République
 
@@ -13176,6 +13114,20 @@ Walter and Margarita Manzke's French bakery and restaurant in a landmark 1920s b
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=R%C3%A9publique+624+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Brunch Breakfast Bakeries & dessert
+
+### Savor
+
+$$
+
+Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 5657 Wilshire Blvd, Suite 150
+
+A family-owned cafe with good espresso drinks, sandwiches and a small sidewalk patio.
+
+**Order:** The house cold brew and the pesto turkey sandwich.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Savor+5657+Wilshire+Blvd%2C+Suite+150+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Coffee Lunch
 
 ### Met Her At A Bar
 
@@ -13223,19 +13175,19 @@ Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.
 
 Pizza Dinner
 
-### Andre's
+### Mother Tongue
 
-$
+$$$
 
-Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 5400 Wilshire Blvd
+Next door in [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · 1.7 mi · Hollywood
 
-A cafeteria-style Italian spot that has fed LA since the 1960s, now in a new home on Wilshire.
+A wellness-minded rooftop restaurant known for its happy hour.
 
-**Order:** Spaghetti and meatballs; the large feeds two.
+**Order:** The shiitake larb at happy hour.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Andre%27s+5400+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mother+Tongue+Hollywood+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
 
-Lunch Cheap eats Dinner
+Healthy & plant-based Rooftops & views Dinner
 
 **Love Hancock Park & Larchmont? Live here.** Get new Hancock Park & Larchmont listings, including off-market ones, or a free value on your Hancock Park & Larchmont home.
 
@@ -13305,20 +13257,6 @@ Drink
 
 ### Nightlife
 
-### Blue Collar
-
-$$
-
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.7 mi · 361 S Fairfax Ave
-
-A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
-
-**Order:** Tell them a spirit and a flavor you like.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
-
-Cocktail bars & lounges Date night
-
 ### Cold Shoulder
 
 $$$
@@ -13346,6 +13284,20 @@ A cocktail lounge inside the Hollywood Roosevelt with two antique bowling lanes.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Spare+Room+7000+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
 
 Cocktail bars & lounges Date night
+
+### Bar Lis
+
+$$$
+
+Next door in [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · 1.7 mi · 1541 N Wilcox Ave
+
+A French Riviera-style lounge on the roof of the Thompson Hollywood, with a straight view of the Hollywood Sign. Jazz on Tuesdays, a packed dance floor on Saturdays.
+
+**Order:** Come early for sunset, or book ahead on weekends when table minimums kick in.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Lis+1541+N+Wilcox+Ave+Hollywood+Los+Angeles+CA) Sources: [Michelin Guide](https://guide.michelin.com/en/hotels-stays/los-angeles-area/thompson-hollywood-12410) [Time Out](https://www.timeout.com/los-angeles/bars/bar-lis)
+
+Rooftops & views Cocktail bars & lounges Date night
 
 Do
 
@@ -13586,8 +13538,6 @@ Local LA
 
 ## Where to eat, drink and go in Hollywood
 
-See them on the map →
-
 Hollywood is LA's entertainment district, with historic movie palaces, the Walk of Fame, the Bowl and the Pantages, plus serious restaurants on Melrose, Highland and Sunset. Runyon Canyon and the hills around the Hollywood Sign start just above the flats.
 
 36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -13684,19 +13634,19 @@ A wellness-minded rooftop restaurant known for its happy hour.
 
 Healthy & plant-based Rooftops & views Dinner
 
-### Larchmont Village Wine, Spirits & Cheese
+### Pizzeria Mozza
 
-$$
+$$$
 
-Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.7 mi · 223 N Larchmont Blvd
+Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.7 mi · 641 N Highland Ave
 
-A wine and cheese shop with a sandwich counter that draws a lunch line. Closed Sundays.
+Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.
 
-**Order:** A made-to-order Italian sandwich.
+**Order:** A seasonal pizza and the butterscotch budino.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Larchmont+Village+Wine%2C+Spirits+%26+Cheese+223+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/la-city-guide-a-tour-of-larchmont-boulevard-in-hancock-park) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pizzeria+Mozza+641+N+Highland+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
-Lunch Wine bars
+Pizza Dinner
 
 **Love Hollywood? Live here.** Get new Hollywood listings, including off-market ones, or a free value on your Hollywood home.
 
@@ -14349,8 +14299,6 @@ Local LA
 
 ## Where to eat, drink and go in Miracle Mile
 
-See them on the map →
-
 Miracle Mile is the stretch of Wilshire Boulevard between La Brea and Fairfax known as Museum Row, home to LACMA, the Academy Museum, the Petersen and the La Brea Tar Pits, with Art Deco buildings along Wilshire and a strong run of restaurants on La Brea.
 
 18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -14433,19 +14381,19 @@ An order-at-the-counter Japanese rice bowl spot in a plant-filled space.
 
 Lunch Cheap eats
 
-### Singapore's Banana Leaf
+### Pizzeria Mozza
 
-$
+$$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 6333 W 3rd St
+Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.5 mi · 641 N Highland Ave
 
-A Farmers Market stall for Singaporean and Indonesian dishes.
+Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.
 
-**Order:** Laksa, beef rendang and roti paratha.
+**Order:** A seasonal pizza and the butterscotch budino.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Singapore%27s+Banana+Leaf+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pizzeria+Mozza+641+N+Highland+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
-Lunch Cheap eats
+Pizza Dinner
 
 **Love Miracle Mile? Live here.** Get new Miracle Mile listings, including off-market ones, or a free value on your Miracle Mile home.
 
@@ -14469,51 +14417,37 @@ A quarter-century-old Italian institution.
 
 Dinner Date night
 
-### El Coyote
+### Lucia
 
-$$
+$$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 7312 Beverly Blvd
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 351 N Fairfax Ave
 
-A huge, festive Mexican landmark where the margaritas are the main event.
+A clubby Afro-Caribbean restaurant.
 
-**Order:** A house margarita with a big group.
+**Order:** Wagyu patties and the Cuban-spiced strip with fufu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Coyote+7312+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lucia+351+N+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
 
-Dinner Tacos & Mexican Cocktail bars & lounges
+Dinner Date night
 
-### Genghis Cohen
+### Osteria Mozza
 
-$$
+$$$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 448 N Fairfax Ave
+Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.5 mi · 6602 Melrose Ave
 
-A kitschy Chinese-American spot made for groups, with a small music room.
+Nancy Silverton's sit-down Italian dining room, with a mozzarella bar.
 
-**Order:** Kung pao shrimp and lo mein.
+**Order:** Something from the mozzarella bar, then pasta.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Genghis+Cohen+448+N+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Osteria+Mozza+6602+Melrose+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood)
 
-Dinner Live music
+Date night Dinner
 
 Drink
 
 ### Nightlife
-
-### Blue Collar
-
-$$
-
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 361 S Fairfax Ave
-
-A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
-
-**Order:** Tell them a spirit and a flavor you like.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
-
-Cocktail bars & lounges Date night
 
 ### Cold Shoulder
 
@@ -14529,19 +14463,33 @@ A moody speakeasy across from The Grove with elaborate cocktails.
 
 Cocktail bars & lounges Date night
 
-### The Abbey
+### Blue Collar
 
 $$
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.9 mi · 692 N Robertson Blvd
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 361 S Fairfax Ave
 
-West Hollywood's most famous bar, and one of the best known LGBTQ+ bars in the world. Several rooms, dancing at night and the neighborhood's best drag brunch.
+A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
 
-**Order:** Weekend drag brunch. Expect lines on weekend nights.
+**Order:** Tell them a spirit and a flavor you like.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Abbey+692+N+Robertson+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/gay-la-best-gay-bars-and-clubs-in-los-angeles) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
-Cocktail bars & lounges Brunch Landmarks & sights
+Cocktail bars & lounges Date night
+
+### The Lucky Tiki
+
+$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.9 mi · 8512 Santa Monica Blvd
+
+A hidden, reservation-only tiki bar behind Tail o' the Pup and one of the most theatrical drinks in town.
+
+**Order:** Get on the reservation list early.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Lucky+Tiki+8512+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
+
+Cocktail bars & lounges
 
 Do
 
@@ -14835,8 +14783,6 @@ What's my home worth? Get West Hollywood listings
 Local LA
 
 ## Where to eat, drink and go in West Hollywood
-
-See them on the map →
 
 West Hollywood packs the Sunset Strip's music clubs and comedy rooms, Santa Monica Boulevard's bars and the Melrose and Robertson restaurant row into under two square miles. It's one of the most walkable cities in LA, and brunch here is a weekend sport.
 
@@ -15957,8 +15903,6 @@ Local LA
 
 ## Where to eat, drink and go in East Hollywood
 
-See them on the map →
-
 East Hollywood takes in Thai Town, Little Armenia, Virgil Village and the Melrose Hill strip, between Hollywood and Los Feliz. It is one of the deepest eating neighborhoods in LA, with some of the city's best Thai cooking, a run of chef-driven spots on Melrose and a few great small bars.
 
 22 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -15995,19 +15939,19 @@ A roomy neighborhood cafe in a converted industrial space, with a calm back area
 
 Coffee
 
-### Maru Coffee
+### All Time
 
-$$
+$$$
 
-Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 1.2 mi · 1936 Hillhurst Ave
+Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 1.2 mi · 2040 Hillhurst Ave
 
-A minimalist espresso bar that many coffee people rank among the best in LA. The line moves faster than it looks.
+A mostly outdoor all-day spot built on seasonal produce. Breakfast is casual; dinner gets lively.
 
-**Order:** The cream top or a vanilla latte. It's small, so plan to take it to go.
+**Order:** A breakfast burrito by day, the dry-aged steak and a leafy salad at night.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Maru+Coffee+1936+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=All+Time+2040+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
 
-Coffee
+Brunch Dinner Lunch
 
 Eat
 
@@ -16486,8 +16430,6 @@ What's my home worth? Get Echo Park listings
 Local LA
 
 ## Where to eat, drink and go in Echo Park
-
-See them on the map →
 
 Echo Park wraps around its lake, with swan boats and a palm-lined loop, and Sunset Boulevard runs through it with some of the Eastside's best bars, taquerias and music rooms. Dodger Stadium sits right above it in Chavez Ravine.
 
@@ -17104,8 +17046,6 @@ What's my home worth? Get Los Feliz listings
 Local LA
 
 ## Where to eat, drink and go in Los Feliz
-
-See them on the map →
 
 Los Feliz sits at the foot of Griffith Park, with two walkable village streets, Hillhurst and Vermont, lined with cafes, old-school Italian spots, bookstores and a century-old movie palace. It's also the easiest way up to the Observatory and the Greek Theatre.
 
@@ -17867,8 +17807,6 @@ Local LA
 
 ## Where to eat, drink and go in Silver Lake
 
-See them on the map →
-
 Silver Lake is the Eastside's living room: a reservoir to walk around, a long run of restaurants on Sunset, and some of the best bars in the city. The best stretches are Sunset Junction and the strip of Silver Lake Boulevard just south of the reservoir.
 
 30 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -18530,8 +18468,6 @@ Local LA
 
 ## Where to eat, drink and go in Encino
 
-See them on the map →
-
 Encino stretches along Ventura Boulevard west of the 405, with leafy hillside streets to the south, a long run of restaurants and cafes on the boulevard, and the Sepulveda Basin's parks just to the north.
 
 5 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -18818,8 +18754,6 @@ Local LA
 
 ## Where to eat, drink and go in North Hollywood
 
-See them on the map →
-
 North Hollywood centers on the NoHo Arts District around Lankershim and Magnolia, with small theaters and the B Line subway terminus, plus a deep bench of Thai, Middle Eastern, Latin and barbecue spots across the wider neighborhood.
 
 15 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -18984,6 +18918,20 @@ A restored 1940s bar in a building shaped like a giant barrel, with a big patio 
 
 Cocktail bars & lounges Brunch
 
+### Firefly
+
+$$$
+
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 2.1 mi · 11720 Ventura Blvd
+
+A candlelit restaurant and lounge with a library bar and heated patios with fireplaces. The Valley's dress-up night out, busy until late.
+
+**Order:** Drinks in the library, then dinner on the patio. Book ahead on weekends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Firefly+11720+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/firefly-studio-city)
+
+Cocktail bars & lounges Dinner Date night
+
 ### Laurel Tavern
 
 $$
@@ -18995,20 +18943,6 @@ A friendly neighborhood bar with a solid happy hour.
 **Order:** The burger and a beer.
 
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Tavern+11938+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
-
-Cocktail bars & lounges Dinner
-
-### The Last Canteen
-
-$$
-
-Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 2.1 mi · 10964 Ventura Blvd
-
-A post-apocalyptic themed cocktail bar with fully committed decor and a real kitchen.
-
-**Order:** A house cocktail and a few shared plates.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Last+Canteen+10964+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
 Cocktail bars & lounges Dinner
 
@@ -19250,8 +19184,6 @@ What's my home worth? Get Reseda listings
 Local LA
 
 ## Where to eat, drink and go in Reseda
-
-See them on the map →
 
 Reseda sits in the heart of the west Valley along Sherman Way and Reseda Boulevard, with some of the Valley's best family-run Vietnamese and Lebanese cooking in its strip malls.
 
@@ -19506,8 +19438,6 @@ What's my home worth? Get Sherman Oaks listings
 Local LA
 
 ## Where to eat, drink and go in Sherman Oaks
-
-See them on the map →
 
 Sherman Oaks has the Valley's busiest stretch of Ventura Boulevard, lined with restaurants, coffee shops and bars from the 405 east toward Studio City, plus easy access to the Santa Monica Mountains to the south.
 
@@ -19882,8 +19812,6 @@ What's my home worth? Get Studio City listings
 Local LA
 
 ## Where to eat, drink and go in Studio City
-
-See them on the map →
 
 Studio City runs along Ventura Boulevard at the foot of the Santa Monica Mountains, with the CBS studio lot, a long strip of sushi bars and neighborhood restaurants, a classic jazz club on Cahuenga and trailheads like Fryman Canyon a few minutes up the hill.
 
@@ -20496,8 +20424,6 @@ Local LA
 
 ## Where to eat, drink and go in Tarzana
 
-See them on the map →
-
 Tarzana, named for Edgar Rice Burroughs' Tarzan after the author's ranch here, runs along Ventura Boulevard west of Encino, with a strong mix of Israeli, Persian, Eastern European, Japanese and French restaurants.
 
 6 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -20781,8 +20707,6 @@ Local LA
 
 ## Where to eat, drink and go in Valley Village
 
-See them on the map →
-
 Valley Village is a quiet residential pocket between North Hollywood and Studio City, with a small cluster of restaurants and bars along Magnolia Boulevard and Laurel Canyon Boulevard.
 
 12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -20915,23 +20839,37 @@ A cozy, old-school Italian spot with a record player spinning at the bar.
 
 Date night Dinner
 
-### Sri Siam Cafe
+### Rosetta Osteria & Crudo Bar
 
-$$
+$$$
 
-Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 1.1 mi · 12843 Vanowen St
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 1.5 mi · 12345 Ventura Blvd
 
-A small family-run Thai restaurant open since 1984 and one of the most important Thai spots in LA.
+An Italian dining room pairing raw seafood with pastas and a good wine list. Dinner only, closed Mondays.
 
-**Order:** Crispy rice salad and the panang curry.
+**Order:** Oysters and a couple of crudos to start.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sri+Siam+Cafe+12843+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Rosetta+Osteria+%26+Crudo+Bar+12345+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
-Dinner Lunch
+Date night Dinner Seafood
 
 Drink
 
 ### Nightlife
+
+### Firefly
+
+$$$
+
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 1.5 mi · 11720 Ventura Blvd
+
+A candlelit restaurant and lounge with a library bar and heated patios with fireplaces. The Valley's dress-up night out, busy until late.
+
+**Order:** Drinks in the library, then dinner on the patio. Book ahead on weekends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Firefly+11720+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/firefly-studio-city)
+
+Cocktail bars & lounges Dinner Date night
 
 ### Idle Hour
 
@@ -20958,20 +20896,6 @@ A friendly neighborhood bar with a solid happy hour.
 **Order:** The burger and a beer.
 
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Tavern+11938+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
-
-Cocktail bars & lounges Dinner
-
-### The Last Canteen
-
-$$
-
-Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 1.5 mi · 10964 Ventura Blvd
-
-A post-apocalyptic themed cocktail bar with fully committed decor and a real kitchen.
-
-**Order:** A house cocktail and a few shared plates.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Last+Canteen+10964+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
 Cocktail bars & lounges Dinner
 
@@ -21167,8 +21091,6 @@ What's my home worth? Get Van Nuys listings
 Local LA
 
 ## Where to eat, drink and go in Van Nuys
-
-See them on the map →
 
 Van Nuys is the Valley's civic center, home to the Van Nuys Airport and the Sepulveda Basin, with Lake Balboa and the Japanese Garden among the best outdoor spots in the Valley and a long run of family-run restaurants along Victory, Vanowen and Van Nuys Boulevard.
 
@@ -21451,8 +21373,6 @@ What's my home worth? Get Woodland Hills listings
 Local LA
 
 ## Where to eat, drink and go in Woodland Hills
-
-See them on the map →
 
 Woodland Hills sits at the west end of the Valley, with Ventura Boulevard's restaurants along the south side, the Warner Center district's parks and shopping to the north, and the Santa Monica Mountains rising behind it.
 

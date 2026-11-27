@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in East Hollywood
 
-See them on the map →
-
 East Hollywood takes in Thai Town, Little Armenia, Virgil Village and the Melrose Hill strip, between Hollywood and Los Feliz. It is one of the deepest eating neighborhoods in LA, with some of the city's best Thai cooking, a run of chef-driven spots on Melrose and a few great small bars.
 
 22 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -93,19 +91,19 @@ A roomy neighborhood cafe in a converted industrial space, with a calm back area
 
 Coffee
 
-### Maru Coffee
+### All Time
 
-$$
+$$$
 
-Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 1.2 mi · 1936 Hillhurst Ave
+Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 1.2 mi · 2040 Hillhurst Ave
 
-A minimalist espresso bar that many coffee people rank among the best in LA. The line moves faster than it looks.
+A mostly outdoor all-day spot built on seasonal produce. Breakfast is casual; dinner gets lively.
 
-**Order:** The cream top or a vanilla latte. It's small, so plan to take it to go.
+**Order:** A breakfast burrito by day, the dry-aged steak and a leafy salad at night.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Maru+Coffee+1936+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=All+Time+2040+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
 
-Coffee
+Brunch Dinner Lunch
 
 Eat
 

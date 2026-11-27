@@ -56,8 +56,6 @@ Local LA
 
 ## Where to eat, drink and go in Mar Vista
 
-See them on the map →
-
 Mar Vista is Venice's quieter neighbor, with a walkable stretch of Venice Boulevard around Grand View, a Sunday farmers market and one of the best Japanese markets on the Westside. Its restaurant scene has grown fast, from Taiwanese comfort food on Grand View to a French bistro on Centinela.
 
 23 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -196,19 +194,19 @@ A red taco truck in front of Mitsuwa known for loaded quesabirria with plenty of
 
 Tacos & Mexican Cheap eats
 
-### Lokal Sandwich Shop
+### Laurel Grill
 
-$
+$$$
 
-Next door in [Palms](https://www.nathanielgrivas.com/neighborhoods/palms) · 1.9 mi · 10433 National Blvd #1A
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 2.3 mi · 9300 Culver Blvd
 
-A busy little sandwich shop where the specialty is banh mi on fresh, soft bread.
+A polished hearth-cooking restaurant downtown, good for a business lunch.
 
-**Order:** A tofu or Korean BBQ banh mi.
+**Order:** The ribs or the ribeye.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lokal+Sandwich+Shop+10433+National+Blvd+%231A+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Grill+9300+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
 
-Lunch Breakfast Cheap eats
+Lunch Dinner
 
 **Love Mar Vista? Live here.** Get new Mar Vista listings, including off-market ones, or a free value on your Mar Vista home.
 

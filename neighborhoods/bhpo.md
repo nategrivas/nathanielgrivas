@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Beverly Hills Post Office
 
-See them on the map →
-
 Beverly Hills Post Office is the hillside area above the city of Beverly Hills, covering Benedict, Coldwater and Franklin canyons. It is mostly residential, with some of the best quick escapes into nature on the Westside.
 
 11 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -64,34 +62,6 @@ Beverly Hills Post Office is the hillside area above the city of Beverly Hills, 
 Eat
 
 ### Coffee & breakfast
-
-### Nate 'n Al Delicatessen
-
-$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 414 N Beverly Dr
-
-A classic deli with an eclectic, very Beverly Hills crowd.
-
-**Order:** Bagel and lox, stuffed cabbage and matzah ball soup.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nate+%27n+Al+Delicatessen+414+N+Beverly+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
-
-Breakfast Lunch
-
-### Faregrounds
-
-$$
-
-Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 459 N Roxbury Dr
-
-A bright corner cafe that has become the Beverly Hills breakfast burrito spot. The kitchen cooks without seed oils, and the matcha menu is as big a draw as the coffee.
-
-**Order:** The Faregrounds breakfast burrito with a strawberry matcha. Open weekdays from 7 a.m.; closed on weekends.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Faregrounds+459+N+Roxbury+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Love Beverly Hills](https://lovebeverlyhills.com/restaurants/view/faregrounds) [Atly](https://www.atly.com/united-states/california/beverly-hills/best-breakfast)
-
-Breakfast Coffee Healthy & plant-based
 
 ### Fountain Coffee Room at the Beverly Hills Hotel
 
@@ -106,6 +76,34 @@ A pink, 1949 soda-fountain counter inside the Beverly Hills Hotel with about 20 
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Fountain+Coffee+Room+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Dorchester Collection](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/fountain-coffee-room) [Time Out](https://timeout.com/los-angeles/restaurants/fountain-coffee-room)
 
 Breakfast Landmarks & sights
+
+### THE Blvd at the Beverly Wilshire
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9500 Wilshire Blvd
+
+The Beverly Wilshire's street-level dining room, looking straight down Rodeo Drive. A polished Four Seasons breakfast and a classic spot for a morning meeting.
+
+**Order:** A window table at the start of the day, then a walk up Rodeo.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=THE+Blvd+at+the+Beverly+Wilshire+9500+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/cuisine/best-breakfast-restaurants-beverly-hills-ca)
+
+Breakfast Brunch
+
+### Nate 'n Al Delicatessen
+
+$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 414 N Beverly Dr
+
+A classic deli with an eclectic, very Beverly Hills crowd.
+
+**Order:** Bagel and lox, stuffed cabbage and matzah ball soup.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nate+%27n+Al+Delicatessen+414+N+Beverly+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Breakfast Lunch
 
 Eat & drink
 

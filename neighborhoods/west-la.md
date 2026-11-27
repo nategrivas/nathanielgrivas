@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in West LA & Sawtelle
 
-See them on the map →
-
 West LA's heart is Sawtelle Japantown, a few walkable blocks of ramen counters, izakayas, dessert shops and pop-culture stores between Santa Monica and Olympic Boulevards. Around it, Pico and National have some of the Westside's best neighborhood bars.
 
 25 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

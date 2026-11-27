@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Van Nuys
 
-See them on the map →
-
 Van Nuys is the Valley's civic center, home to the Van Nuys Airport and the Sepulveda Basin, with Lake Balboa and the Japanese Garden among the best outdoor spots in the Valley and a long run of family-run restaurants along Victory, Vanowen and Van Nuys Boulevard.
 
 5 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

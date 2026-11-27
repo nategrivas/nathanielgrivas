@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Hancock Park & Larchmont
 
-See them on the map →
-
 Hancock Park is a historic neighborhood of 1920s homes and tree-lined streets. Larchmont Village, its small walkable main street, is where locals go for sandwiches, books and errands, and Melrose Avenue on the north edge adds some of the city's best Italian restaurants.
 
 16 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -64,20 +62,6 @@ Hancock Park is a historic neighborhood of 1920s homes and tree-lined streets. L
 Eat
 
 ### Coffee & breakfast
-
-### Savor
-
-$$
-
-Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 5657 Wilshire Blvd, Suite 150
-
-A family-owned cafe with good espresso drinks, sandwiches and a small sidewalk patio.
-
-**Order:** The house cold brew and the pesto turkey sandwich.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Savor+5657+Wilshire+Blvd%2C+Suite+150+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
-
-Coffee Lunch
 
 ### République
 
@@ -92,6 +76,20 @@ Walter and Margarita Manzke's French bakery and restaurant in a landmark 1920s b
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=R%C3%A9publique+624+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Brunch Breakfast Bakeries & dessert
+
+### Savor
+
+$$
+
+Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 5657 Wilshire Blvd, Suite 150
+
+A family-owned cafe with good espresso drinks, sandwiches and a small sidewalk patio.
+
+**Order:** The house cold brew and the pesto turkey sandwich.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Savor+5657+Wilshire+Blvd%2C+Suite+150+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Coffee Lunch
 
 ### Met Her At A Bar
 
@@ -139,19 +137,19 @@ Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.
 
 Pizza Dinner
 
-### Andre's
+### Mother Tongue
 
-$
+$$$
 
-Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 5400 Wilshire Blvd
+Next door in [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · 1.7 mi · Hollywood
 
-A cafeteria-style Italian spot that has fed LA since the 1960s, now in a new home on Wilshire.
+A wellness-minded rooftop restaurant known for its happy hour.
 
-**Order:** Spaghetti and meatballs; the large feeds two.
+**Order:** The shiitake larb at happy hour.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Andre%27s+5400+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mother+Tongue+Hollywood+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
 
-Lunch Cheap eats Dinner
+Healthy & plant-based Rooftops & views Dinner
 
 **Love Hancock Park & Larchmont? Live here.** Get new Hancock Park & Larchmont listings, including off-market ones, or a free value on your Hancock Park & Larchmont home.
 
@@ -221,20 +219,6 @@ Drink
 
 ### Nightlife
 
-### Blue Collar
-
-$$
-
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.7 mi · 361 S Fairfax Ave
-
-A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
-
-**Order:** Tell them a spirit and a flavor you like.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
-
-Cocktail bars & lounges Date night
-
 ### Cold Shoulder
 
 $$$
@@ -262,6 +246,20 @@ A cocktail lounge inside the Hollywood Roosevelt with two antique bowling lanes.
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Spare+Room+7000+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
 
 Cocktail bars & lounges Date night
+
+### Bar Lis
+
+$$$
+
+Next door in [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · 1.7 mi · 1541 N Wilcox Ave
+
+A French Riviera-style lounge on the roof of the Thompson Hollywood, with a straight view of the Hollywood Sign. Jazz on Tuesdays, a packed dance floor on Saturdays.
+
+**Order:** Come early for sunset, or book ahead on weekends when table minimums kick in.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Lis+1541+N+Wilcox+Ave+Hollywood+Los+Angeles+CA) Sources: [Michelin Guide](https://guide.michelin.com/en/hotels-stays/los-angeles-area/thompson-hollywood-12410) [Time Out](https://www.timeout.com/los-angeles/bars/bar-lis)
+
+Rooftops & views Cocktail bars & lounges Date night
 
 Do
 

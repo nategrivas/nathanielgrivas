@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Studio City
 
-See them on the map →
-
 Studio City runs along Ventura Boulevard at the foot of the Santa Monica Mountains, with the CBS studio lot, a long strip of sushi bars and neighborhood restaurants, a classic jazz club on Cahuenga and trailheads like Fryman Canyon a few minutes up the hill.
 
 26 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

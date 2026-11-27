@@ -56,8 +56,6 @@ Local LA
 
 ## Where to eat, drink and go in Pacific Palisades
 
-See them on the map →
-
 Pacific Palisades is rebuilding after the January 2025 Palisades Fire. Palisades Village reopened in August 2026 after a $100 million restoration, and a growing list of local restaurants, shops and trails are open again. This guide lists only places confirmed open, and it grows as more return.
 
 13 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

@@ -56,8 +56,6 @@ Local LA
 
 ## Where to eat, drink and go in Brentwood
 
-See them on the map →
-
 Brentwood's center is San Vicente Boulevard, a coral-tree-lined median with a run of cafes and Italian restaurants, plus Barrington Court just off it. The Getty sits on the hill above, the Country Mart anchors the west end, and the trails up Mandeville Canyon start a few minutes away.
 
 21 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

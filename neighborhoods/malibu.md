@@ -56,8 +56,6 @@ Local LA
 
 ## Where to eat, drink and go in Malibu
 
-See them on the map →
-
 Malibu is 21 miles of coastline along PCH, from Surfrider Beach and the pier to Zuma, Point Dume and the sea caves at El Matador. The restaurants lean on the views and the seafood, and the Santa Monica Mountains rise right behind the beach.
 
 24 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

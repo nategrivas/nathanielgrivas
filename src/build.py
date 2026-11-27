@@ -859,7 +859,8 @@ def hood_sections(slug_):
                 dist = miles(h["ll"], tuple(q["ll"]) if q.get("ll") else BY_SLUG[o]["ll"])
                 if dist <= 2.5:
                     cands.append((dist, q, od, o))
-        cands.sort(key=lambda x: x[0])
+        # closest first, with a nudge toward the upscale rooms (the crowd this site is for)
+        cands.sort(key=lambda x: x[0] - (0.6 if x[1].get("p") in ("$$$", "$$$$") else 0))
         for dist, q, od, o in cands[:3 - have]:
             secs[k].append((q, od, (o, dist)))
             names.add(q["n"])
@@ -934,7 +935,7 @@ def hood_local(h):
     srcs = "".join(f'<li><a href="{u}" rel="noopener">{e(t)}</a></li>' for t, u in (d["sources"].values() if d else []))
     upd = d["updated"] if d else ""
     guide_html = f"""<section class="band nb-guide" id="eat"><div class="wrap">
-<div class="sec-head"><div><p class="kick">Local LA</p><h2>Where to eat, drink and go in {e(n)}</h2></div><a href="#map">See them on the map &rarr;</a></div>
+<div class="sec-head"><div><p class="kick">Local LA</p><h2>Where to eat, drink and go in {e(n)}</h2></div>{'<a href="#map">See them on the map &rarr;</a>' if len(pts) >= 3 else ''}</div>
 <p class="nb-glede">{e(d["intro"]) if d else ""}</p>
 <p class="gh-meta">{total} hand-picked places &middot; Updated {e(upd)} &middot; Picked from critic reviews and real-people ratings, written in plain English</p>
 <nav class="gchips" aria-label="Sections">{chips}</nav>
@@ -1424,7 +1425,7 @@ def lp_shell(path, active, kick, h1, lede, checks, flow, proof_k, faq, faq_t, ti
     return head(title, desc, path, ld(svc) + ld(v8.faq_ld(faq)) + ld(crumbs_ld([("Home", "/"), (h1, path)]))) + body
 
 
-HOW_VALUE = [("Tell me about the home", "The address, a few taps on size and condition, and anything I should know."),
+HOW_VALUE = [("Confirm your home", "Type the address. I pull the county record for beds, baths, square feet and lot, and you just confirm it."),
              ("I pull the sales by hand", "Recent sales and pendings on your street, adjusted for your upgrades and lot."),
              ("You get your number and a plan", "A value range, your estimated net, and what to fix or skip. Within 24 hours.")]
 

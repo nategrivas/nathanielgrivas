@@ -56,8 +56,6 @@ Local LA
 
 ## Where to eat, drink and go in Hollywood Hills
 
-See them on the map →
-
 The Hollywood Hills rise above Hollywood and West Hollywood along Mulholland Drive and the Laurel and Cahuenga canyons, with music history in Laurel Canyon, a hillside amphitheater and some of the best Hollywood Sign views in town.
 
 18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -65,6 +63,20 @@ The Hollywood Hills rise above Hollywood and West Hollywood along Mulholland Dri
 Eat
 
 ### Coffee & breakfast
+
+### Cecconi's
+
+$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 8764 Melrose Ave
+
+A Melrose and Robertson corner classic for Italian. Nights are a scene, mornings are calmer.
+
+**Order:** Steak and eggs at brunch on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cecconi%27s+8764+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+
+Brunch Dinner
 
 ### Dayglow
 
@@ -93,20 +105,6 @@ A big indoor-outdoor cafe from the Santa Cruz roaster, and one of the easiest pl
 [Directions ↗](https://www.google.com/maps/search/?api=1&query=Verve+Coffee+Roasters+8925+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood)
 
 Coffee
-
-### Strings of Life
-
-$$
-
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 510 N Robertson Blvd
-
-A plant-filled cafe on Robertson built for slow mornings. There's no Wi-Fi on purpose.
-
-**Order:** A flat white and one of the vegan bowls.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Strings+of+Life+510+N+Robertson+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood)
-
-Coffee Healthy & plant-based
 
 Eat
 
@@ -208,20 +206,6 @@ Drink
 
 ### Nightlife
 
-### The Abbey
-
-$$
-
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 692 N Robertson Blvd
-
-West Hollywood's most famous bar, and one of the best known LGBTQ+ bars in the world. Several rooms, dancing at night and the neighborhood's best drag brunch.
-
-**Order:** Weekend drag brunch. Expect lines on weekend nights.
-
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Abbey+692+N+Robertson+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/gay-la-best-gay-bars-and-clubs-in-los-angeles) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
-
-Cocktail bars & lounges Brunch Landmarks & sights
-
 ### The Lucky Tiki
 
 $$$
@@ -236,19 +220,33 @@ A hidden, reservation-only tiki bar behind Tail o' the Pup and one of the most t
 
 Cocktail bars & lounges
 
-### The Roger Room
+### Employees Only
 
-$$
+$$$
 
-Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 370 N La Cienega Blvd
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 7953 Santa Monica Blvd
 
-A small, dark cocktail den behind a neon psychic sign. It fills up around 9pm.
+The New York cocktail bar's LA outpost, now a relaxed neighborhood spot for very good drinks.
 
-**Order:** Order by spirit and let the bartender build it.
+**Order:** Come for the early-evening happy hour.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Roger+Room+370+N+La+Cienega+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Employees+Only+7953+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
 
-Cocktail bars & lounges
+Cocktail bars & lounges Late night
+
+### Tower Bar
+
+$$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 8358 Sunset Blvd
+
+The Sunset Tower Hotel's old Hollywood bar and pool deck.
+
+**Order:** A martini by the pool in the afternoon.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tower+Bar+8358+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-west-hollywood) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood)
+
+Cocktail bars & lounges Date night
 
 Do
 

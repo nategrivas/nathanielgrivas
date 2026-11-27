@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Echo Park
 
-See them on the map →
-
 Echo Park wraps around its lake, with swan boats and a palm-lined loop, and Sunset Boulevard runs through it with some of the Eastside's best bars, taquerias and music rooms. Dodger Stadium sits right above it in Chavez Ravine.
 
 28 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

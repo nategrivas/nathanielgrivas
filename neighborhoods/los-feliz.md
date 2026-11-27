@@ -56,8 +56,6 @@ Local LA
 
 ## Where to eat, drink and go in Los Feliz
 
-See them on the map →
-
 Los Feliz sits at the foot of Griffith Park, with two walkable village streets, Hillhurst and Vermont, lined with cafes, old-school Italian spots, bookstores and a century-old movie palace. It's also the easiest way up to the Observatory and the Greek Theatre.
 
 36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

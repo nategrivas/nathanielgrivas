@@ -19,9 +19,9 @@ How it works
 
 ## Your number in three steps
 
-- 1 **Tell me about the home**
+- 1 **Confirm your home**
 
-The address, a few taps on size and condition, and anything I should know.
+Type the address. I pull the county record for beds, baths, square feet and lot, and you just confirm it.
 
 - 2 **I pull the sales by hand**
 

@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Playa del Rey
 
-See them on the map →
-
 Playa del Rey is a small beach town at the south end of the Ballona Wetlands, with a short, walkable strip of bars and restaurants on Culver Boulevard and wide beaches where you can watch jets leave LAX.
 
 11 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

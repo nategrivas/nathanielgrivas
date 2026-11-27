@@ -56,8 +56,6 @@ Local LA
 
 ## Where to eat, drink and go in Venice
 
-See them on the map →
-
 Venice packs a beach town, one of LA's best restaurant streets and a handful of genuinely odd landmarks into a couple of square miles. Abbot Kinney and Rose Avenue carry most of the eating and drinking; the boardwalk, canals and skatepark carry the rest.
 
 40 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English

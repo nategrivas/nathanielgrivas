@@ -55,8 +55,6 @@ Local LA
 
 ## Where to eat, drink and go in Pico-Robertson & Beverlywood
 
-See them on the map →
-
 Pico-Robertson centers on the busy crossroads of Pico and Robertson Boulevards just south of Beverly Hills, with LA's biggest cluster of kosher restaurants, bakeries and markets plus a few destination dining rooms.
 
 12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
@@ -93,19 +91,19 @@ A kosher bakery and cafe with excellent croissants, sourdough and beautifully pl
 
 Breakfast Bakeries & dessert Lunch
 
-### Neighborhood
+### Fountain Coffee Room at the Beverly Hills Hotel
 
-$
+$$$
 
-Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 1.4 mi · 8151 W 3rd St
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.7 mi · 9641 Sunset Blvd
 
-A small specialty coffee shop with a walk-up window, outdoor seating and its own parking.
+A pink, 1949 soda-fountain counter inside the Beverly Hills Hotel with about 20 stools and breakfast served all day. It is walk-in only, so you sit at the counter and watch the room.
 
-**Order:** An iced Americano or a seasonal latte with a cinnamon roll.
+**Order:** Silver dollar pancakes and a milkshake. Daily, 7 a.m. to 4 p.m.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Neighborhood+8151+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fountain+Coffee+Room+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Dorchester Collection](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/fountain-coffee-room) [Time Out](https://timeout.com/los-angeles/restaurants/fountain-coffee-room)
 
-Coffee
+Breakfast Landmarks & sights
 
 Eat
 
@@ -139,19 +137,19 @@ A kosher dairy spot for thin-crust sourdough pizza and house-made pasta.
 
 Pizza Dinner
 
-### Byrdie's Rotisserie
+### The Grill on the Alley
 
-$
+$$$
 
-Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 1.4 mi · 8030 W 3rd St
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.7 mi · 9560 Dayton Way
 
-A counter-service rotisserie with great sauces.
+A showbiz power-lunch classic known for polished, professional service.
 
-**Order:** Chicken with the hot sauce, chimichurri and gochujang aioli.
+**Order:** Chicken piccata, the chopped salad and brownie à la mode.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Byrdie%27s+Rotisserie+8030+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Grill+on+the+Alley+9560+Dayton+Way+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
 
-Lunch Cheap eats
+Lunch Dinner
 
 **Love Pico-Robertson & Beverlywood? Live here.** Get new Pico-Robertson & Beverlywood listings, including off-market ones, or a free value on your Pico-Robertson & Beverlywood home.
 
@@ -189,19 +187,19 @@ A Michelin-recognized restaurant serving a seasonal four-course prix fixe.
 
 Date night Dinner
 
-### Regalade
+### A.O.C.
 
-$$
+$$$
 
-Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 1.4 mi · 8136 W 3rd St
+Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 1.4 mi · 8700 W 3rd St
 
-An affordable French neighborhood bistro that fits almost any occasion.
+Suzanne Goin's small-plates restaurant with one of the best wine lists in LA and a beautiful courtyard.
 
-**Order:** Steak frites and the green curry mussels.
+**Order:** Order a glass of wine and share several small plates.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Regalade+8136+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=A.O.C.+8700+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants)
 
-Dinner Date night
+Dinner Wine bars Date night
 
 Drink
 
@@ -235,17 +233,17 @@ A garden-style rooftop 12 floors above Beverly Hills with one of the widest view
 
 Rooftops & views Cocktail bars & lounges Date night
 
-### Blue Collar
+### Cold Shoulder
 
-$$
+$$$
 
-Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.9 mi · 361 S Fairfax Ave
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.9 mi · 359 S Fairfax Ave
 
-A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
+A moody speakeasy across from The Grove with elaborate cocktails.
 
-**Order:** Tell them a spirit and a flavor you like.
+**Order:** A cocktail from the spirits menu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
