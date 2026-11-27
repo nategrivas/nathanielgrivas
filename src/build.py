@@ -159,6 +159,7 @@ def head(title, desc, path, extra="", og="hero.jpg"):
 <link rel="icon" href="{rel(path)}assets/favicon.svg" type="image/svg+xml">
 <script type="speculationrules">{{"prefetch":[{{"where":{{"and":[{{"href_matches":"/*"}},{{"not":{{"href_matches":"/*.md"}}}},{{"not":{{"href_matches":"/*.txt"}}}}]}},"eagerness":"moderate"}}]}}</script>
 <link rel="preconnect" href="https://images.unsplash.com">
+<link rel="preconnect" href="https://basemap.nationalmap.gov">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -760,7 +761,7 @@ def page_explore():
     body = f"""{nav(path, "explore")}
 <main class="wrap xp">
 <div class="xp-map">
-<div class="satmap" id="satmap" role="region" aria-label="Satellite map of Los Angeles neighborhoods"></div>
+<div class="satmap" id="satmap" role="region" aria-label="Satellite map of Los Angeles neighborhoods">{aerial(34.07, -118.42, z=11, cols=5, rows=4, ts=256, cls="sm-ph", eager=True)}</div>
 <script type="application/json" id="satmap-data">{json.dumps(pts)}</script>
 <div class="agentbar"><img src="/img/nate.jpg" alt="" width="42" height="42"><div><b>Not sure where to start?</b><span>Take the <a href="/tools/neighborhood-quiz/">6-question quiz</a> or ask Nathaniel directly.</span></div>
 <a class="btn small" href="sms:{TEL}">Text</a><a class="btn solid small" href="tel:{TEL}">Call</a></div>
