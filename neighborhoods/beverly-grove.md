@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Beverly Grove is really 5 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Beverly Grove is 5 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Melrose & Beverly Grove North
 
@@ -121,7 +121,7 @@ Local LA
 
 Beverly Grove is one of LA's most restaurant-dense neighborhoods, centered on West 3rd Street and Beverly Boulevard between La Cienega and Fairfax. It's an easy place to walk from coffee to lunch to a long dinner, with the Beverly Center at its west end.
 
-18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+18 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -250,7 +250,7 @@ A smashburger shop.
 
 Lunch Cheap eats
 
-**Love Beverly Grove? Live here.** Get new Beverly Grove listings, including off-market ones, or a free value on your Beverly Grove home.
+**Love Beverly Grove? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Beverly Grove listings
 
@@ -554,7 +554,7 @@ West Third Street for shops and restaurants, Melrose Place for boutiques, La Cie
 
 Is Beverly Grove its own city?
 
-Beverly Grove is in City of Los Angeles. City and county rules apply.
+Beverly Grove is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Beverly Grove?
 
@@ -584,12 +584,11 @@ Free, no obligation
 
 ## Buying or selling in Beverly Grove?
 
-Get new Beverly Grove listings as they hit, including ones that aren't public yet, or find out what your Beverly Grove home is worth.
+First look at new Beverly Grove listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

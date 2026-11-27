@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. West Hollywood is really 7 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. West Hollywood is 7 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### West Hollywood West
 
@@ -133,7 +133,7 @@ Local LA
 
 West Hollywood packs the Sunset Strip's music clubs and comedy rooms, Santa Monica Boulevard's bars and the Melrose and Robertson restaurant row into under two square miles. It's one of the most walkable cities in LA, and brunch here is a weekend sport.
 
-62 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+62 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -389,7 +389,7 @@ A dark, casual Italian spot that works for a date or a late martini.
 
 Pizza Dinner Late night
 
-**Love West Hollywood? Live here.** Get new West Hollywood listings, including off-market ones, or a free value on your West Hollywood home.
+**Love West Hollywood? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get West Hollywood listings
 
@@ -1214,7 +1214,7 @@ The Sunset Strip's music venues, the Rainbow District's nightlife on Santa Monic
 
 Is West Hollywood its own city?
 
-West Hollywood is in City of West Hollywood. It sets its own taxes, rules and services.
+West Hollywood is in the City of West Hollywood. It sets its own taxes, rules and services.
 
 What ZIP codes cover West Hollywood?
 
@@ -1244,12 +1244,11 @@ Free, no obligation
 
 ## Buying or selling in West Hollywood?
 
-Get new West Hollywood listings as they hit, including ones that aren't public yet, or find out what your West Hollywood home is worth.
+First look at new West Hollywood listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

@@ -6,7 +6,7 @@ Listings
 
 # For sale, for lease and recently closed
 
-Homes Nathaniel is representing now and deals he has closed for buyers, sellers, tenants and landlords.
+On the market now, and already closed.
 
 Watch the films
 
@@ -62,14 +62,13 @@ Reviews
 
 Free, no obligation
 
-## Get homes before they hit the market
+## Be first on the list
 
-Off-market and coming-soon homes go to Nathaniel's list first. Share what you want, or find out what yours is worth.
+Coming-soon and off-market homes reach his list first.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 

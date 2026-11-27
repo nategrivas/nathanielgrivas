@@ -6,12 +6,11 @@ Los Angeles
 
 # Free Home Valuation
 
-Find out what your home is worth from a data-driven pricing method, checked block by block by a local agent. Free, within 24 hours, no obligation.
+Your number within 24 hours, built from the sales on your street and this week's market.
 
-- Your value range from the most recent sales near you
-- What you'd walk away with after transfer taxes and costs
-- What to fix and what to skip before you sell
-- The option to sell quietly, off-market, through Compass
+- A value range, with the sales behind it
+- What you'd keep after taxes and costs
+- The option to sell quietly, off-market
 
 [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o) $100M+ in annual team sales Compass Beverly Hills
 
@@ -19,23 +18,23 @@ The method
 
 ## A data-driven price, checked by a local
 
-Your valuation combines current sales data with what only shows up on the street. Then it is read against today's market.
+The data does the heavy lifting. A local reads what the data misses.
 
-### Every recent sale, not an algorithm's guess
+### Every recent sale, adjusted by hand
 
-Nathaniel pulls every sale, pending and active listing around your home, then adjusts each one for size, lot, condition, upgrades and the exact block. Automated estimates skip that last mile.
+Each sale, pending and listing near you, adjusted for size, lot, condition, upgrades and the exact block.
 
-### Block by block, not ZIP by ZIP
+### Measured block by block
 
-Los Angeles prices change when you cross a street. Your home is measured against the pocket it actually sits in, using boundaries drawn from the street grid and sold prices.
+In LA, one street can change the price. Your home is compared to the pocket it sits in.
 
-### What the land is worth too
+### The land counts too
 
-Lot size, zoning, ADU room and what a builder would pay. On some lots the land is worth more than the house, and that changes the price and the buyer you market to.
+Lot size, zoning and ADU room. On some lots the land is the value, and that changes who you sell to.
 
 ### The market sets the strategy
 
-The same home sells differently when inventory is tight than when it is piling up. Days on market, sale-to-list ratios and new supply decide the list price and how to launch it.
+Days on market, sale-to-list and new supply decide the list price and how to launch.
 
 [See this week's Market Temperature →](https://www.nathanielgrivas.com/market-temperature)
 
@@ -109,7 +108,7 @@ West LA, Beverly Hills, the coast from Westchester to Malibu, Hollywood, Silver 
 
 ## Ready when you are
 
-It takes about a minute. Or call or text 310-269-5541 and talk to Nathaniel now.
+One minute here, or one call to 310-269-5541.
 
 Get my home value Call 310-269-5541
 

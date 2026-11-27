@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Woodland Hills is really 4 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Woodland Hills is 4 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Woodland Hills South
 
@@ -115,7 +115,7 @@ Local LA
 
 Woodland Hills sits at the west end of the Valley, with Ventura Boulevard's restaurants along the south side, the Warner Center district's parks and shopping to the north, and the Santa Monica Mountains rising behind it.
 
-4 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+4 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -318,7 +318,7 @@ Warner Center has Westfield Topanga and The Village for shopping and dinner. Top
 
 Is Woodland Hills its own city?
 
-Woodland Hills is in City of Los Angeles. City and county rules apply.
+Woodland Hills is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Woodland Hills?
 
@@ -348,12 +348,11 @@ Free, no obligation
 
 ## Buying or selling in Woodland Hills?
 
-Get new Woodland Hills listings as they hit, including ones that aren't public yet, or find out what your Woodland Hills home is worth.
+First look at new Woodland Hills listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

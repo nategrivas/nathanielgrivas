@@ -46,7 +46,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Fairfax District is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Fairfax District is 3 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Melrose Avenue North
 
@@ -110,7 +110,7 @@ Local LA
 
 The Fairfax District runs from the Original Farmers Market and The Grove up Fairfax Avenue, LA's classic deli and streetwear strip, to Melrose. It's walkable, busy at all hours and home to some of the city's most famous food stalls.
 
-23 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+23 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -253,7 +253,7 @@ The original all-day Italian American spot from the Animal team.
 
 Pizza Breakfast Dinner
 
-**Love Fairfax District? Live here.** Get new Fairfax District listings, including off-market ones, or a free value on your Fairfax District home.
+**Love Fairfax District? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Fairfax District listings
 
@@ -614,7 +614,7 @@ The Original Farmers Market has been at Third and Fairfax since 1934. The Grove 
 
 Is Fairfax District its own city?
 
-Fairfax District is in City of Los Angeles. City and county rules apply.
+Fairfax District is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Fairfax District?
 
@@ -644,12 +644,11 @@ Free, no obligation
 
 ## Buying or selling in Fairfax District?
 
-Get new Fairfax District listings as they hit, including ones that aren't public yet, or find out what your Fairfax District home is worth.
+First look at new Fairfax District listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

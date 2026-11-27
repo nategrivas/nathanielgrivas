@@ -6,11 +6,11 @@ Leasing in Los Angeles
 
 # Lease a home, or lease yours out
 
-Nathaniel represents tenants and owners on leases across Los Angeles. Tell him what you need and he will send homes that fit, or price and lease your property.
+Tell Nathaniel what you need. He'll send homes that fit, or price and lease yours.
 
-- New homes for lease that fit your budget and area, sent as they come up
-- Help with the application, the lease and the move-in
-- For owners: a lease price from recent leases nearby, marketing and tenant screening
+- New matches as they list
+- An application that stands out
+- For owners: the right price and the right tenant
 
 For lease now and recently leased
 
@@ -40,7 +40,7 @@ Yes. He prices the rent from recent leases nearby, markets the home, screens app
 
 ## Ready when you are
 
-It takes about a minute. Or call or text 310-269-5541 and talk to Nathaniel now.
+One minute here, or one call to 310-269-5541.
 
 Start my lease search Call 310-269-5541
 

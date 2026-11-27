@@ -48,7 +48,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Reseda is really 2 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Reseda is 2 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Reseda South
 
@@ -106,7 +106,7 @@ Local LA
 
 Reseda sits in the heart of the west Valley along Sherman Way and Reseda Boulevard, with some of the Valley's best family-run Vietnamese and Lebanese cooking in its strip malls.
 
-6 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+6 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -207,7 +207,7 @@ A father-and-son French restaurant open for more than 50 years, with a cozy lodg
 
 Date night Dinner
 
-**Love Reseda? Live here.** Get new Reseda listings, including off-market ones, or a free value on your Reseda home.
+**Love Reseda? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Reseda listings
 
@@ -344,7 +344,7 @@ Suburban and spread out. Reseda Park has a small lake and fields, Lake Balboa is
 
 Is Reseda its own city?
 
-Reseda is in City of Los Angeles. City and county rules apply.
+Reseda is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Reseda?
 
@@ -374,12 +374,11 @@ Free, no obligation
 
 ## Buying or selling in Reseda?
 
-Get new Reseda listings as they hit, including ones that aren't public yet, or find out what your Reseda home is worth.
+First look at new Reseda listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

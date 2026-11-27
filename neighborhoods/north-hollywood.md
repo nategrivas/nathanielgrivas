@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. North Hollywood is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. North Hollywood is 3 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Toluca Woods & South North Hollywood
 
@@ -109,7 +109,7 @@ Local LA
 
 North Hollywood centers on the NoHo Arts District around Lankershim and Magnolia, with small theaters and the B Line subway terminus, plus a deep bench of Thai, Middle Eastern, Latin and barbecue spots across the wider neighborhood.
 
-14 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+14 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -210,7 +210,7 @@ A no-frills counter turning out some of the best smash burgers in the Valley.
 
 Cheap eats Lunch
 
-**Love North Hollywood? Live here.** Get new North Hollywood listings, including off-market ones, or a free value on your North Hollywood home.
+**Love North Hollywood? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get North Hollywood listings
 
@@ -470,7 +470,7 @@ The NoHo Arts District's small theaters and bars, Lankershim Boulevard, and a qu
 
 Is North Hollywood its own city?
 
-North Hollywood is in City of Los Angeles. City and county rules apply.
+North Hollywood is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover North Hollywood?
 
@@ -500,12 +500,11 @@ Free, no obligation
 
 ## Buying or selling in North Hollywood?
 
-Get new North Hollywood listings as they hit, including ones that aren't public yet, or find out what your North Hollywood home is worth.
+First look at new North Hollywood listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

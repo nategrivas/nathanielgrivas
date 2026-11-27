@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Palms is really 2 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Palms is 2 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Palms North of Palms Boulevard
 
@@ -103,7 +103,7 @@ Down the hill
 
 Palms sits between Culver City and West LA, a dense grid of apartments and strip malls along Venice, National and Motor, with some of the Westside's best casual cooking and the Expo Line close by.
 
-13 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+13 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -204,7 +204,7 @@ A Peruvian bakery and cevicheria with a patio.
 
 Lunch Seafood
 
-**Love Palms? Live here.** Get new Palms listings, including off-market ones, or a free value on your Palms home.
+**Love Palms? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Palms listings
 
@@ -444,7 +444,7 @@ Two Metro E Line stations, a short drive to Culver City's restaurants, and a lot
 
 Is Palms its own city?
 
-Palms is in City of Los Angeles. City and county rules apply.
+Palms is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Palms?
 
@@ -474,12 +474,11 @@ Free, no obligation
 
 ## Buying or selling in Palms?
 
-Get new Palms listings as they hit, including ones that aren't public yet, or find out what your Palms home is worth.
+First look at new Palms listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

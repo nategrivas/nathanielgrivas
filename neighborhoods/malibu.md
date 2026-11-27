@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Malibu is really 14 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Malibu is 14 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Encinal Bluffs & Lechuza
 
@@ -175,7 +175,7 @@ Local LA
 
 Malibu is 21 miles of coastline along PCH, from Surfrider Beach and the pier to Zuma, Point Dume and the sea caves at El Matador. The restaurants lean on the views and the seafood, and the Santa Monica Mountains rise right behind the beach.
 
-24 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+24 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -319,7 +319,7 @@ The only Malibu restaurant actually on the sand. You come for the setting.
 
 Lunch Beaches Cocktail bars & lounges
 
-**Love Malibu? Live here.** Get new Malibu listings, including off-market ones, or a free value on your Malibu home.
+**Love Malibu? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Malibu listings
 
@@ -697,7 +697,7 @@ Life runs along PCH: Point Dume and Zuma in the west, the Malibu Country Mart an
 
 Is Malibu its own city?
 
-Malibu is in City of Malibu. It sets its own taxes, rules and services.
+Malibu is in the City of Malibu. It sets its own taxes, rules and services.
 
 What ZIP codes cover Malibu?
 
@@ -727,12 +727,11 @@ Free, no obligation
 
 ## Buying or selling in Malibu?
 
-Get new Malibu listings as they hit, including ones that aren't public yet, or find out what your Malibu home is worth.
+First look at new Malibu listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

@@ -48,7 +48,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Encino is really 5 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Encino is 5 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Encino Hills
 
@@ -124,7 +124,7 @@ Local LA
 
 Encino stretches along Ventura Boulevard west of the 405, with leafy hillside streets to the south, a long run of restaurants and cafes on the boulevard, and the Sepulveda Basin's parks just to the north.
 
-8 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+8 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -253,7 +253,7 @@ A peaceful formal garden with waterfalls, koi ponds and a teahouse in the Sepulv
 
 Parks Landmarks & sights
 
-**Love Encino? Live here.** Get new Encino listings, including off-market ones, or a free value on your Encino home.
+**Love Encino? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Encino listings
 
@@ -403,7 +403,7 @@ Quiet and residential. Ventura Boulevard has the restaurants and errands, Los En
 
 Is Encino its own city?
 
-Encino is in City of Los Angeles. City and county rules apply.
+Encino is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Encino?
 
@@ -433,12 +433,11 @@ Free, no obligation
 
 ## Buying or selling in Encino?
 
-Get new Encino listings as they hit, including ones that aren't public yet, or find out what your Encino home is worth.
+First look at new Encino listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

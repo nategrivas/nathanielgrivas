@@ -4,15 +4,13 @@ Source page: https://www.nathanielgrivas.com/buy
 
 Buying in Los Angeles
 
-# Find your home, including the ones that never hit Zillow
+# See it before it hits Zillow
 
-Share what you want. Nathaniel will send homes that fit from the MLS, Compass coming-soon listings and The Brodsky Group's off-market list, and line up the right lender for your situation.
+Tell Nathaniel what you want. He'll send what fits, including homes that never go public, and the lender who can get you there.
 
-- New listings that fit, the day they hit
-- Compass Private Exclusives and off-market homes
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
-- Offers that win, and negotiation that keeps going through escrow
+- New matches the day they list
+- Private and off-market homes
+- Lenders for every kind of income
 
 [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o) $100M+ in annual team sales Compass Beverly Hills
 
@@ -62,7 +60,7 @@ Today. Call or text 310-269-5541 if you want to talk now.
 
 ## Ready when you are
 
-It takes about a minute. Or call or text 310-269-5541 and talk to Nathaniel now.
+One minute here, or one call to 310-269-5541.
 
 Start my search Call 310-269-5541
 

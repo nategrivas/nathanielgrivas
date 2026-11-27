@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Playa del Rey is really 2 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Playa del Rey is 2 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Lower Playa del Rey
 
@@ -103,7 +103,7 @@ Local LA
 
 Playa del Rey is a small beach town at the south end of the Ballona Wetlands, with a short, walkable strip of bars and restaurants on Culver Boulevard and wide beaches where you can watch jets leave LAX.
 
-12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+12 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -204,7 +204,7 @@ A Roman-run Italian restaurant serving fresh pasta near the beach since 1997, wi
 
 Date night Dinner
 
-**Love Playa del Rey? Live here.** Get new Playa del Rey listings, including off-market ones, or a free value on your Playa del Rey home.
+**Love Playa del Rey? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Playa del Rey listings
 
@@ -443,7 +443,7 @@ It feels like a beach town from a few decades ago: a short strip of bars and res
 
 Is Playa del Rey its own city?
 
-Playa del Rey is in City of Los Angeles. City and county rules apply.
+Playa del Rey is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Playa del Rey?
 
@@ -473,12 +473,11 @@ Free, no obligation
 
 ## Buying or selling in Playa del Rey?
 
-Get new Playa del Rey listings as they hit, including ones that aren't public yet, or find out what your Playa del Rey home is worth.
+First look at new Playa del Rey listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

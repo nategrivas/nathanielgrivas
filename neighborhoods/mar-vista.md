@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Mar Vista is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Mar Vista is 3 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Mar Vista Hill
 
@@ -109,7 +109,7 @@ Local LA
 
 Mar Vista is Venice's quieter neighbor, with a walkable stretch of Venice Boulevard around Grand View, a Sunday farmers market and one of the best Japanese markets on the Westside. Its restaurant scene has grown fast, from Taiwanese comfort food on Grand View to a French bistro on Centinela.
 
-22 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+22 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -267,7 +267,7 @@ A neighborhood staple for classic Mexican food in big portions.
 
 Tacos & Mexican Cheap eats Dinner
 
-**Love Mar Vista? Live here.** Get new Mar Vista listings, including off-market ones, or a free value on your Mar Vista home.
+**Love Mar Vista? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Mar Vista listings
 
@@ -597,7 +597,7 @@ Sunday means the Mar Vista Farmers Market on Grand View Boulevard. Venice Boulev
 
 Is Mar Vista its own city?
 
-Mar Vista is in City of Los Angeles. City and county rules apply.
+Mar Vista is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Mar Vista?
 
@@ -627,12 +627,11 @@ Free, no obligation
 
 ## Buying or selling in Mar Vista?
 
-Get new Mar Vista listings as they hit, including ones that aren't public yet, or find out what your Mar Vista home is worth.
+First look at new Mar Vista listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

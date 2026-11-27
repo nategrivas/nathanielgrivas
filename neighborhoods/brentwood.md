@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Brentwood is really 12 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Brentwood is 12 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Brentwood Park
 
@@ -307,7 +307,7 @@ Local LA
 
 Brentwood's center is San Vicente Boulevard, a coral-tree-lined median with a run of cafes and Italian restaurants, plus Barrington Court just off it. The Getty sits on the hill above, the Country Mart anchors the west end, and the trails up Mandeville Canyon start a few minutes away.
 
-26 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+26 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -437,7 +437,7 @@ Italian American comfort food from the Animal team.
 
 Pizza Dinner
 
-**Love Brentwood? Live here.** Get new Brentwood listings, including off-market ones, or a free value on your Brentwood home.
+**Love Brentwood? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Brentwood listings
 
@@ -761,7 +761,7 @@ The Brentwood Country Mart and San Vicente's coral tree median set the tone. Bre
 
 Is Brentwood its own city?
 
-Brentwood is in City of Los Angeles. City and county rules apply.
+Brentwood is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Brentwood?
 
@@ -791,12 +791,11 @@ Free, no obligation
 
 ## Buying or selling in Brentwood?
 
-Get new Brentwood listings as they hit, including ones that aren't public yet, or find out what your Brentwood home is worth.
+First look at new Brentwood listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

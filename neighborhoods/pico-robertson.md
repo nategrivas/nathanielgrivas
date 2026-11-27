@@ -48,7 +48,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Pico-Robertson & Beverlywood is really 2 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Pico-Robertson & Beverlywood is 2 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Beverlywood
 
@@ -106,7 +106,7 @@ Local LA
 
 Pico-Robertson centers on the busy crossroads of Pico and Robertson Boulevards just south of Beverly Hills, with LA's biggest cluster of kosher restaurants, bakeries and markets plus a few destination dining rooms.
 
-12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+12 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -207,7 +207,7 @@ A kosher Israeli counter with big portions and real value for Beverly Hills.
 
 Lunch Cheap eats
 
-**Love Pico-Robertson & Beverlywood? Live here.** Get new Pico-Robertson & Beverlywood listings, including off-market ones, or a free value on your Pico-Robertson & Beverlywood home.
+**Love Pico-Robertson & Beverlywood? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Pico-Robertson & Beverlywood listings
 
@@ -421,7 +421,7 @@ Pico Boulevard is lined with kosher bakeries, restaurants and small shops, and t
 
 Is Pico-Robertson & Beverlywood its own city?
 
-Pico-Robertson & Beverlywood is in City of Los Angeles. City and county rules apply.
+Pico-Robertson & Beverlywood is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Pico-Robertson & Beverlywood?
 
@@ -451,12 +451,11 @@ Free, no obligation
 
 ## Buying or selling in Pico-Robertson & Beverlywood?
 
-Get new Pico-Robertson & Beverlywood listings as they hit, including ones that aren't public yet, or find out what your Pico-Robertson & Beverlywood home is worth.
+First look at new Pico-Robertson & Beverlywood listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

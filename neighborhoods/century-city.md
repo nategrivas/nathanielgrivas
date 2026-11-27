@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Century City is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Century City is 3 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Century City Core
 
@@ -109,7 +109,7 @@ Down the hill
 
 Century City is the Westside's office and shopping district, built on former 20th Century Fox backlot land between Beverly Hills and West LA. Most of the eating and entertainment centers on Westfield Century City and the towers along Avenue of the Stars.
 
-14 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+14 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -210,7 +210,7 @@ A fromagerie open for more than 50 years that makes some of the best deli sandwi
 
 Lunch Markets
 
-**Love Century City? Live here.** Get new Century City listings, including off-market ones, or a free value on your Century City home.
+**Love Century City? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Century City listings
 
@@ -472,7 +472,7 @@ Westfield Century City for shopping and dinner, wide sidewalks, and a straight s
 
 Is Century City its own city?
 
-Century City is in City of Los Angeles. City and county rules apply.
+Century City is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Century City?
 
@@ -502,12 +502,11 @@ Free, no obligation
 
 ## Buying or selling in Century City?
 
-Get new Century City listings as they hit, including ones that aren't public yet, or find out what your Century City home is worth.
+First look at new Century City listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

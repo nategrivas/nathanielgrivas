@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Beverly Hills Post Office is really 6 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Beverly Hills Post Office is 6 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Benedict Canyon
 
@@ -255,7 +255,7 @@ Down the hill
 
 Beverly Hills Post Office is the hillside area above the city of Beverly Hills, covering Benedict, Coldwater and Franklin canyons. It is mostly residential, with some of the best quick escapes into nature on the Westside.
 
-12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+12 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -356,7 +356,7 @@ Red-checked tablecloths, red sauce and decades of Hollywood regulars.
 
 Dinner Late night
 
-**Love Beverly Hills Post Office? Live here.** Get new Beverly Hills Post Office listings, including off-market ones, or a free value on your Beverly Hills Post Office home.
+**Love Beverly Hills Post Office? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Beverly Hills Post Office listings
 
@@ -496,7 +496,7 @@ Coldwater Canyon, Benedict Canyon and Franklin Canyon, with Mulholland on top. F
 
 Is Beverly Hills Post Office its own city?
 
-Beverly Hills Post Office is in City of Los Angeles. City and county rules apply.
+Beverly Hills Post Office is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Beverly Hills Post Office?
 
@@ -526,12 +526,11 @@ Free, no obligation
 
 ## Buying or selling in Beverly Hills Post Office?
 
-Get new Beverly Hills Post Office listings as they hit, including ones that aren't public yet, or find out what your Beverly Hills Post Office home is worth.
+First look at new Beverly Hills Post Office listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

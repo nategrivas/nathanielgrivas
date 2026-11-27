@@ -28,11 +28,7 @@ Get a result like this Call 310-269-5541
 
 The home
 
-A 2016 modern home on a 7,334 sq ft lot in the Fairfax District: seven bedrooms, eight baths and three levels, with a pool.
-
-Nathaniel structured the sale with seller financing: the sellers carried the loan, so his buyer closed without a bank. It took a creative structure, firm protections for the sellers and a lot of coordination, and it closed in October 2026.
-
-He represented both the sellers and the buyer. Deals like this are why he says complicated is fine. If the numbers only work with a creative structure, bring it to him and he'll figure it out.
+The sellers carried the loan, so the buyer closed without a bank. Nathaniel built the structure, protected the sellers and closed it in October 2026. Complicated is fine.
 
 Also featured
 
@@ -44,15 +40,15 @@ What you get
 
 ## Creative deals, real resources
 
-Seller financing, off-market buyers, lenders for every situation and a $100M+ team behind every deal.
+A $100M+ annual team behind every deal.
 
 ### Off-market and coming-soon homes
 
-Compass Private Exclusives and The Brodsky Group's off-market list. Many of the best homes trade before they ever reach Zillow.
+Compass Private Exclusives and The Brodsky Group's off-market list, where many of the best homes trade first.
 
 ### Lenders for every kind of buyer
 
-Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on.
+Jumbo, bank-statement and DSCR loans. Lenders who approve buyers the big banks pass on.
 
 ### Creative deal structures
 
@@ -60,15 +56,15 @@ Seller financing, leasebacks, assignments and 1031 exchanges, structured so ever
 
 ### Developers and builders
 
-Land plays, teardowns and ADUs, priced on what can be built, not only on what stands there now.
+Land plays, teardowns and ADUs, priced on what can be built.
 
 ### The right people for every step
 
-Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and Nathaniel brings in whoever you need.
+Inspectors, contractors, architects, escrow, title and tax pros, brought in with one call.
 
 ### Complicated is fine
 
-Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to Nathaniel and he'll figure it out.
+Trusts, estates, tenants, six owners on one title, additions without permits.
 
 [What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
 
@@ -86,12 +82,11 @@ Free, no obligation
 
 ## Want a result like this?
 
-Find out what your home is worth, or share what you're looking for. Creative deals welcome.
+Start with what your home is worth.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 

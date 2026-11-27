@@ -87,12 +87,11 @@ Free, no obligation
 
 ## Let's get you a number, or a home
 
-Pick one. It takes about a minute, and you'll hear back today.
+You'll hear back today.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 

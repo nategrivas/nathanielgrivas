@@ -8,7 +8,7 @@ About Nathaniel
 
 The agent who finds a way to get it done.
 
-Nathaniel Grivas is a REALTOR® with The Brodsky Group at Compass Beverly Hills. He represents buyers, sellers, landlords, investors and builders, and he takes on the deals other agents pass on: creative financing, development sites, off-market homes and anything complicated, from Malibu to Silver Lake and across the San Fernando Valley.
+Nathaniel Grivas is a REALTOR® with The Brodsky Group at Compass Beverly Hills. Clients call him when the deal is worth getting right.
 
 [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o) $100M+ in annual team sales Compass Beverly Hills
 
@@ -18,29 +18,29 @@ Why clients hire him
 
 ## What he brings to every deal
 
-### Deals that close, however they have to
+### Deals that close
 
-Seller financing, assignments, leasebacks and 1031 exchanges. When the numbers only work with a creative structure, he builds one that protects both sides.
+Seller financing, leasebacks, assignments and 1031s, built so both sides are protected.
 
-### Marketing that finds the buyer who pays the most
+### Listings launched like products
 
-A marketer before he was an agent, he launches a listing the way a brand launches a product and puts it in front of the buyers most likely to pay up.
+A marketer first. Your home goes in front of the buyers most likely to pay up.
 
-### Negotiation that keeps going after the offer
+### Negotiation to the close
 
-Inspection items get priced, credits get argued with data, and terms stay protected all the way through escrow.
+Inspection items priced, credits argued with data, terms held through escrow.
 
-### He reads a property like a developer
+### A developer's eye
 
-Zoning, lot size, ADU and lot-split potential and buildable square feet, so a home is priced on what it could become, not only on what it is.
+Zoning, lot size and ADU room, priced in from day one.
 
-### Access most agents don't have
+### First access
 
-Compass Private Exclusives, coming-soon homes, The Brodsky Group's off-market list, and lenders who approve self-employed and investor buyers.
+Compass Private Exclusives, coming-soon homes and The Brodsky Group's off-market list.
 
 ### He answers
 
-Same-day replies by call, text or email. Trusts, tenants, six owners on one title, unpermitted additions: complicated is fine.
+Same day. Trusts, tenants, six owners on one title: complicated is fine.
 
 Get my home value Start my home search Call 310-269-5541
 
@@ -94,12 +94,11 @@ Free, no obligation
 
 ## Work with Nathaniel
 
-Pick one. It takes about a minute, and you'll hear back today.
+You'll hear back today.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 

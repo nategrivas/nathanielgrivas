@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Culver City is really 10 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Culver City is 10 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Downtown Culver City
 
@@ -145,7 +145,7 @@ Local LA
 
 Culver City is the Westside's studio town, with a walkable downtown around the Culver Hotel and Culver Steps, the Helms and Platform districts for food and shopping, and the Baldwin Hills overlook for the best view on this side of town. It's one of the easiest places in LA to spend a whole day on foot.
 
-35 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+35 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -387,7 +387,7 @@ A downtown food hall with a laid-back rooftop bar.
 
 Lunch Markets Rooftops & views
 
-**Love Culver City? Live here.** Get new Culver City listings, including off-market ones, or a free value on your Culver City home.
+**Love Culver City? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Culver City listings
 
@@ -831,7 +831,7 @@ Downtown Culver City has the restaurants, theaters and the Metro E Line station.
 
 Is Culver City its own city?
 
-Culver City is in City of Culver City. It sets its own taxes, rules and services.
+Culver City is in the City of Culver City. It sets its own taxes, rules and services.
 
 What ZIP codes cover Culver City?
 
@@ -861,12 +861,11 @@ Free, no obligation
 
 ## Buying or selling in Culver City?
 
-Get new Culver City listings as they hit, including ones that aren't public yet, or find out what your Culver City home is worth.
+First look at new Culver City listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

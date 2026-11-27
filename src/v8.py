@@ -115,7 +115,7 @@ def hood_faq(h, c, phone, dre):
          f"Nathaniel Grivas, REALTOR® (DRE #{dre}) with The Brodsky Group at Compass Beverly Hills, helps people buy, sell, rent, invest and build "
          f"in {n} and across West LA, Beverly Hills and the San Fernando Valley. Call or text {phone}."),
         (f"What is {n} like?", h["feel"]),
-        (f"Is {n} its own city?", f"{n} is in {c['label']}. " + ("It sets its own taxes, rules and services." if h["city"] not in ("Los Angeles", "LA County") else "City and county rules apply.")),
+        (f"Is {n} its own city?", f"{n} is in {('the ' + c['label']) if c['label'].startswith(('City', 'Unincorporated')) else c['label']}. " + ("It sets its own taxes, rules and services." if h["city"] not in ("Los Angeles", "LA County") else "City and county rules apply.")),
         (f"What ZIP codes cover {n}?", f"{n} is mostly ZIP {h['zips']}."),
         (f"What kind of homes are in {n}?", h["housing"]),
         (f"What is the transfer tax when you sell in {n}?", c["transfer"]),

@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. West LA & Sawtelle is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. West LA & Sawtelle is 3 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Sawtelle
 
@@ -109,7 +109,7 @@ Local LA
 
 West LA's heart is Sawtelle Japantown, a few walkable blocks of ramen counters, izakayas, dessert shops and pop-culture stores between Santa Monica and Olympic Boulevards. Around it, Pico and National have some of the Westside's best neighborhood bars.
 
-27 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+27 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -308,7 +308,7 @@ Sawtelle's oldest boba shop.
 
 Cheap eats Late night
 
-**Love West LA & Sawtelle? Live here.** Get new West LA & Sawtelle listings, including off-market ones, or a free value on your West LA & Sawtelle home.
+**Love West LA & Sawtelle? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get West LA & Sawtelle listings
 
@@ -664,7 +664,7 @@ Ramen, boba, sushi and dessert lines on Sawtelle, the Nuart Theatre on Santa Mon
 
 Is West LA & Sawtelle its own city?
 
-West LA & Sawtelle is in City of Los Angeles. City and county rules apply.
+West LA & Sawtelle is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover West LA & Sawtelle?
 
@@ -694,12 +694,11 @@ Free, no obligation
 
 ## Buying or selling in West LA & Sawtelle?
 
-Get new West LA & Sawtelle listings as they hit, including ones that aren't public yet, or find out what your West LA & Sawtelle home is worth.
+First look at new West LA & Sawtelle listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

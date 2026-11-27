@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Hancock Park & Larchmont is really 4 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Hancock Park & Larchmont is 4 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### La Brea-Hancock
 
@@ -247,7 +247,7 @@ Down the hill
 
 Hancock Park is a historic neighborhood of 1920s homes and tree-lined streets. Larchmont Village, its small walkable main street, is where locals go for sandwiches, books and errands, and Melrose Avenue on the north edge adds some of the city's best Italian restaurants.
 
-16 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+16 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -348,7 +348,7 @@ Ludo Lefebvre's small, buzzy French bistro.
 
 Lunch Dinner
 
-**Love Hancock Park & Larchmont? Live here.** Get new Hancock Park & Larchmont listings, including off-market ones, or a free value on your Hancock Park & Larchmont home.
+**Love Hancock Park & Larchmont? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Hancock Park & Larchmont listings
 
@@ -542,7 +542,7 @@ Wide lawns, big trees and no sidewalk clutter. Larchmont Boulevard has the coffe
 
 Is Hancock Park & Larchmont its own city?
 
-Hancock Park & Larchmont is in City of Los Angeles. City and county rules apply.
+Hancock Park & Larchmont is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Hancock Park & Larchmont?
 
@@ -572,12 +572,11 @@ Free, no obligation
 
 ## Buying or selling in Hancock Park & Larchmont?
 
-Get new Hancock Park & Larchmont listings as they hit, including ones that aren't public yet, or find out what your Hancock Park & Larchmont home is worth.
+First look at new Hancock Park & Larchmont listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

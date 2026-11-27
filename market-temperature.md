@@ -6,7 +6,7 @@ Week of November 27, 2026 · Updated weekly
 
 # Market Temperature
 
-A weekly read on the Los Angeles housing market, built from live listing data and the latest public reports. The numbers first, no forecasts.
+The Los Angeles market, measured every week. Just the numbers.
 
 30-year fixed rate **7.28%** Up 0.17 pts on the week · 6.26% a year ago
 
@@ -63,7 +63,7 @@ What it means for you
 
 ## The market sets the strategy
 
-The same home prices and sells differently in a market like this one. Get a number built on this week's data.
+Get a number built on this week's data.
 
 [Get a free home valuation](https://www.nathanielgrivas.com/home-value) [Start a home search](https://www.nathanielgrivas.com/buy) Call 310-269-5541
 

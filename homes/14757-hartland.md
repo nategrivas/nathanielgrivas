@@ -55,15 +55,15 @@ What you get
 
 ## One call. The whole network.
 
-Buying, selling or investing, you get more than an agent. You get every resource it takes to close, on any deal, however complicated.
+Every resource it takes to close, behind one phone number.
 
 ### Off-market and coming-soon homes
 
-Compass Private Exclusives and The Brodsky Group's off-market list. Many of the best homes trade before they ever reach Zillow.
+Compass Private Exclusives and The Brodsky Group's off-market list, where many of the best homes trade first.
 
 ### Lenders for every kind of buyer
 
-Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on.
+Jumbo, bank-statement and DSCR loans. Lenders who approve buyers the big banks pass on.
 
 ### Creative deal structures
 
@@ -71,15 +71,15 @@ Seller financing, leasebacks, assignments and 1031 exchanges, structured so ever
 
 ### Developers and builders
 
-Land plays, teardowns and ADUs, priced on what can be built, not only on what stands there now.
+Land plays, teardowns and ADUs, priced on what can be built.
 
 ### The right people for every step
 
-Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and Nathaniel brings in whoever you need.
+Inspectors, contractors, architects, escrow, title and tax pros, brought in with one call.
 
 ### Complicated is fine
 
-Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to Nathaniel and he'll figure it out.
+Trusts, estates, tenants, six owners on one title, additions without permits.
 
 [What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
 
@@ -113,10 +113,9 @@ Free, no obligation
 
 Share the area, the budget and the plan. Nathaniel will send lots and fixers that pencil, including ones before they hit the market.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 

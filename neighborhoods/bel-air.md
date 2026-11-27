@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Bel Air is really 6 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Bel Air is 6 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### East Gate Old Bel Air
 
@@ -256,7 +256,7 @@ Down the hill
 
 Bel Air is a quiet, gated hillside enclave of winding canyon roads north of Sunset, home to the storied Hotel Bel-Air, with a small village of shops at Beverly Glen Circle up the canyon.
 
-9 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+9 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -357,7 +357,7 @@ A pricey, old-school red-sauce Italian institution.
 
 Dinner Date night
 
-**Love Bel Air? Live here.** Get new Bel Air listings, including off-market ones, or a free value on your Bel Air home.
+**Love Bel Air? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Bel Air listings
 
@@ -455,7 +455,7 @@ Private and green: the Hotel Bel-Air, Bel-Air Country Club, Stone Canyon Reservo
 
 Is Bel Air its own city?
 
-Bel Air is in City of Los Angeles. City and county rules apply.
+Bel Air is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Bel Air?
 
@@ -485,12 +485,11 @@ Free, no obligation
 
 ## Buying or selling in Bel Air?
 
-Get new Bel Air listings as they hit, including ones that aren't public yet, or find out what your Bel Air home is worth.
+First look at new Bel Air listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

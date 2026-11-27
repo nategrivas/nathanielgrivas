@@ -48,7 +48,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Van Nuys is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Van Nuys is 3 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Van Nuys South
 
@@ -112,7 +112,7 @@ Local LA
 
 Van Nuys is the Valley's civic center, home to the Van Nuys Airport and the Sepulveda Basin, with Lake Balboa and the Japanese Garden among the best outdoor spots in the Valley and a long run of family-run restaurants along Victory, Vanowen and Van Nuys Boulevard.
 
-6 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+6 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -352,7 +352,7 @@ Practical and central. Lake Balboa and the Sepulveda Basin are on the south side
 
 Is Van Nuys its own city?
 
-Van Nuys is in City of Los Angeles. City and county rules apply.
+Van Nuys is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Van Nuys?
 
@@ -382,12 +382,11 @@ Free, no obligation
 
 ## Buying or selling in Van Nuys?
 
-Get new Van Nuys listings as they hit, including ones that aren't public yet, or find out what your Van Nuys home is worth.
+First look at new Van Nuys listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

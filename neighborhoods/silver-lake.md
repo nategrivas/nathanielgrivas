@@ -46,7 +46,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Silver Lake is really 6 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Silver Lake is 6 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Moreno Highlands
 
@@ -128,7 +128,7 @@ Local LA
 
 Silver Lake is the Eastside's living room: a reservoir to walk around, a long run of restaurants on Sunset, and some of the best bars in the city. The best stretches are Sunset Junction and the strip of Silver Lake Boulevard just south of the reservoir.
 
-30 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+30 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -257,7 +257,7 @@ Chewy, bubbly brick-oven pizza from a takeout window.
 
 Pizza Cheap eats
 
-**Love Silver Lake? Live here.** Get new Silver Lake listings, including off-market ones, or a free value on your Silver Lake home.
+**Love Silver Lake? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Silver Lake listings
 
@@ -729,7 +729,7 @@ The reservoir walking path and the Meadow on weekends, Sunset Junction's coffee 
 
 Is Silver Lake its own city?
 
-Silver Lake is in City of Los Angeles. City and county rules apply.
+Silver Lake is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Silver Lake?
 
@@ -759,12 +759,11 @@ Free, no obligation
 
 ## Buying or selling in Silver Lake?
 
-Get new Silver Lake listings as they hit, including ones that aren't public yet, or find out what your Silver Lake home is worth.
+First look at new Silver Lake listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

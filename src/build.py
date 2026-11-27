@@ -304,9 +304,7 @@ FEATURED = {
         title="616 N Fuller Ave", where="Fairfax District, Los Angeles, CA 90036", status="Sold", price="$3,275,000",
         stats=[("7", "Bedrooms"), ("8", "Bathrooms"), ("5,257", "Sq ft"), ("7,334", "Sq ft lot"), ("2016", "Built")],
         line="A three-level modern home with a pool in the Fairfax District. Nathaniel sold it with seller financing, representing both the sellers and the buyer.",
-        body=["A 2016 modern home on a 7,334 sq ft lot in the Fairfax District: seven bedrooms, eight baths and three levels, with a pool.",
-              "Nathaniel structured the sale with seller financing: the sellers carried the loan, so his buyer closed without a bank. It took a creative structure, firm protections for the sellers and a lot of coordination, and it closed in October 2026.",
-              "He represented both the sellers and the buyer. Deals like this are why he says complicated is fine. If the numbers only work with a creative structure, bring it to him and he'll figure it out."],
+        body=["The sellers carried the loan, so the buyer closed without a bank. Nathaniel built the structure, protected the sellers and closed it in October 2026. Complicated is fine."],
         poster="/img/fuller.jpg", vimeo="1180538967", film_len="1:00",
         compass="https://www.compass.com/homedetails/616-N-Fuller-Ave-Los-Angeles-CA-90036/2072900371372293281_lid/",
         credit="Sold by Nathaniel Grivas of The Brodsky Group at Compass"),
@@ -679,10 +677,10 @@ HOME_HOODS = ["venice", "santa-monica", "beverly-hills", "malibu", "los-feliz", 
 
 HELP = [
     ("sell", "What's my home worth?", "A free valuation built by hand from the sales on your street."),
-    ("buy", "Find me a home", "New listings, coming-soon and off-market homes, sent as they come up."),
-    ("rent", "Rent a home", "Leases across the Westside and the Valley."),
-    ("invest", "Invest", "Income property, value-add, off-market deals and DSCR lenders."),
-    ("build", "Build", "Lots, teardowns, ADUs and the architects and builders to do it."),
+    ("buy", "Find me a home", "New, coming-soon and off-market homes, as they come up."),
+    ("rent", "Lease a home", "Homes for lease, or lease yours out."),
+    ("invest", "Invest", "Income property and off-market deals."),
+    ("build", "Build", "Lots, teardowns and ADUs."),
 ]
 
 AREAS_LINE = "From Westchester to Malibu, Hollywood to Silver Lake, and across the San Fernando Valley."
@@ -705,7 +703,7 @@ def page_home(posts):
     tiles = "".join(photo_tile(BY_SLUG[s_], "big" if i == 0 else "") for i, s_ in enumerate(HOME_HOODS))
     tiles += (f'<a class="tile maptile allmap" href="/neighborhoods/">{aerial(34.06, -118.39, z=12, cols=3, rows=3, ts=260)}'
               f'<div class="tile-txt"><span class="tile-k">The map</span><h3>Every neighborhood</h3></div></a>')
-    helps = "".join(f'<a href="{VALUE_URL if g == "sell" else BUY_URL if g == "buy" else intake_url(g)}"><b>{e(t)}</b><span>{e(d)}</span><i aria-hidden="true">&rarr;</i></a>' for g, t, d in HELP)
+    helps = "".join(f'<a href="{VALUE_URL if g == "sell" else BUY_URL if g == "buy" else RENT_URL if g == "rent" else intake_url(g)}"><b>{e(t)}</b><span>{e(d)}</span><i aria-hidden="true">&rarr;</i></a>' for g, t, d in HELP)
     body = f"""{nav(path, "home")}
 <main>
 <section class="face-hero" aria-label="Nathaniel Grivas, West Los Angeles REALTOR">
@@ -738,7 +736,7 @@ def page_home(posts):
 </div></section>
 
 {market_teaser()}
-{lead_band("Let's talk", "Pick one. It takes about a minute, and you'll hear back today.")}
+{lead_band("Let's talk", "You'll hear back today.")}
 </main>
 {foot(path, [])}"""
     desc = ("Nathaniel Grivas, West Los Angeles REALTOR® with The Brodsky Group at Compass Beverly Hills. Buy, sell, rent, invest or build across West LA, "
@@ -779,8 +777,8 @@ def page_explore():
 </main>
 {local_extras(r)}
 <section class="band" style="padding-top:10px"><div class="wrap"><div class="tools">{tool_card("neighborhood-quiz", r)}{tool_card("compare", r)}{tool_card("la-rules", r)}</div></div></section>
-{reviews_band(False, "Why people work with Nathaniel")}
-{lead_band("Not sure where to start?", "Share what you want and Nathaniel will send homes that fit, including off-market ones.", first="buy")}
+{reviews_band(False, "What clients say")}
+{lead_band("Not sure where to start?", "Tell Nathaniel what you want. He'll narrow it down.", first="buy")}
 {foot(path, ["vendor/leaflet.js", "satmap.js"], "explore")}"""
     desc = "Local LA: 40 Los Angeles neighborhoods on a satellite map, each with hand-picked restaurants, bars and things to do, from Santa Monica and Beverly Hills to Los Feliz and the Valley."
     ld_ = crumbs_ld([("Home", "/"), ("Local LA", path)])
@@ -920,7 +918,7 @@ def hood_local(h):
         chips += f'<a href="#{g["id"]}">{e(g["label"])} <i>{len(g["items"])}</i></a>'
         blocks += f'<section class="gsec" id="{g["id"]}"><p class="kick">{e(g["group"])}</p><h3 class="gsec-h">{e(g["label"])}</h3><div class="pcs">{cards}</div></section>'
         if gi == 1:
-            blocks += cta_strip(f"Love {n}? Live here.", f"Get new {n} listings, including off-market ones, or a free value on your {n} home.", buy_label=f"Get {n} listings")
+            blocks += cta_strip(f"Love {n}? Live here.", "New listings here, including off-market ones, or a free value on yours.", buy_label=f"Get {n} listings")
     total = idx
     borrowed = sum(1 for g in groups for it in g["items"] if it[2])
     nearby = total and borrowed * 2 > total
@@ -930,7 +928,7 @@ def hood_local(h):
     guide_html = f"""<section class="band nb-guide" id="eat"><div class="wrap">
 <div class="sec-head"><div><p class="kick">{gkick}</p><h2>{gh}</h2></div>{f'<a href="{v8.gmaps_link(h)}" rel="noopener">Open in Google Maps &#8599;</a>' if len(pts) >= 3 else ''}</div>
 <p class="nb-glede">{e(d["intro"]) if d else ""}</p>
-<p class="gh-meta">{total} hand-picked places &middot; Updated {e(upd)} &middot; Picked from critic reviews and real-people ratings, written in plain English</p>
+<p class="gh-meta">{total} hand-picked places &middot; Updated {e(upd)}</p>
 {{MAPSLOT}}
 <nav class="gchips" aria-label="Sections">{chips}</nav>
 <div class="gbody">{blocks}</div>
@@ -987,7 +985,7 @@ def pockets_section(h):
     data = {"pk": pk, "ctx": ctx}
     html = f"""<section class="band pk" id="pockets"><div class="wrap">
 <div class="sec-head"><div><p class="kick">Block by block</p><h2>The pockets of {e(n)}</h2></div><a href="/neighborhoods/map/">Every LA pocket on one map &rarr;</a></div>
-<p class="pk-sub">In Los Angeles a single street can change the price of a house. {e(n)} is really {len(pk)} smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.</p>
+<p class="pk-sub">One street can change the price. {e(n)} is {len(pk)} pockets, drawn street by street. Dashed lines are the pockets next door.</p>
 <div class="pk-grid">
 <div class="pkmap" id="pkmap" role="region" aria-label="Map of the pockets of {e(n)}"></div>
 <div class="pk-list">{cards}</div>
@@ -1169,7 +1167,7 @@ def page_hood(h, posts):
 </div></section>
 {journal_band(h['slug'], n)}
 {v8.faq_html(qa, f"{n}: common questions")}
-{lead_band(f"Buying or selling in {n}?", f"Get new {n} listings as they hit, including ones that aren't public yet, or find out what your {n} home is worth.", first="buy", area=n, addr_ph=f"Your {n} address", rating=True)}
+{lead_band(f"Buying or selling in {n}?", f"First look at new {n} listings, or a free number on yours.", first="buy", area=n, addr_ph=f"Your {n} address", rating=True)}
 <div class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Photo viewer"><button type="button" class="lb-x" aria-label="Close">&times;</button><button type="button" class="lb-p" aria-label="Previous photo">&lsaquo;</button><img alt=""><button type="button" class="lb-n" aria-label="Next photo">&rsaquo;</button><p class="lb-c"></p></div>
 </main>
 {foot(path, (["vendor/leaflet.js"] if len(mapdata["pts"]) >= 3 or pk_list else []) + (["hoodmap.js"] if len(mapdata["pts"]) >= 3 else []) + (["pockets.js"] if pk_list else []), "explore")}"""
@@ -1196,7 +1194,7 @@ def page_tools():
 <main>
 <section class="band tight"><div class="wrap">
 <p class="eyebrow">Free tools</p><h1 class="h1">Do the math before you call anyone</h1>
-<p class="lede" style="margin-top:14px">Calculators and guides built around how LA actually works: city-by-city transfer taxes, Measure ULA, rent control lines and real monthly costs.</p>
+<p class="lede" style="margin-top:14px">Transfer taxes, Measure ULA, rent control and real monthly costs, city by city.</p>
 </div></section>
 <section class="band" style="padding-top:0"><div class="wrap"><div class="tools">{"".join(tool_card(s, r) for s, *_ in TOOLS)}</div></div></section>
 {lead_band()}
@@ -1401,12 +1399,12 @@ BUY_URL = "/buy/"
 RENT_URL = "/lease/"
 
 RESOURCES = [
-    ("key", "Off-market and coming-soon homes", "Compass Private Exclusives and The Brodsky Group's off-market list. Many of the best homes trade before they ever reach Zillow."),
-    ("value", "Lenders for every kind of buyer", "Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on."),
+    ("key", "Off-market and coming-soon homes", "Compass Private Exclusives and The Brodsky Group's off-market list, where many of the best homes trade first."),
+    ("value", "Lenders for every kind of buyer", "Jumbo, bank-statement and DSCR loans. Lenders who approve buyers the big banks pass on."),
     ("split", "Creative deal structures", "Seller financing, leasebacks, assignments and 1031 exchanges, structured so every side is protected."),
-    ("build", "Developers and builders", "Land plays, teardowns and ADUs, priced on what can be built, not only on what stands there now."),
-    ("team", "The right people for every step", "Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and Nathaniel brings in whoever you need."),
-    ("sign", "Complicated is fine", "Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to Nathaniel and he'll figure it out."),
+    ("build", "Developers and builders", "Land plays, teardowns and ADUs, priced on what can be built."),
+    ("team", "The right people for every step", "Inspectors, contractors, architects, escrow, title and tax pros, brought in with one call."),
+    ("sign", "Complicated is fine", "Trusts, estates, tenants, six owners on one title, additions without permits."),
 ]
 
 PROOF = [
@@ -1416,7 +1414,7 @@ PROOF = [
 ]
 
 
-def resources_band(heading="One call. The whole network.", sub="Buying, selling or investing, you get more than an agent. You get every resource it takes to close, on any deal, however complicated."):
+def resources_band(heading="One call. The whole network.", sub="Every resource it takes to close, behind one phone number."):
     cards = "".join(f'<div class="res-c"><span class="res-i" aria-hidden="true">{ICONS[ic]}</span><h3>{e(t)}</h3><p>{e(d)}</p></div>' for ic, t, d in RESOURCES)
     return f"""<section class="band res-band"><div class="wrap">
 <div class="lux-head"><p class="kick">What you get</p><h2>{e(heading)}</h2><p class="res-sub">{e(sub)}</p></div>
@@ -1433,7 +1431,7 @@ def proof_band(heading="Recent results", kick="Track record", skip=()):
 <div class="pf-grid">{cards}</div></div></section>"""
 
 
-def lead_band(heading="Let's get you a number, or a home", sub="Pick one. It takes about a minute, and you'll hear back today.", first="value", area="", addr_ph="", kick="Free, no obligation", rating=False):
+def lead_band(heading="Let's get you a number, or a home", sub="You'll hear back today.", first="value", area="", addr_ph="", kick="Free, no obligation", rating=False):
     tabs = [("v", "What's my home worth?"), ("b", "Find me a home")]
     if first == "buy":
         tabs = tabs[::-1]
@@ -1444,10 +1442,9 @@ def lead_band(heading="Let's get you a number, or a home", sub="Pick one. It tak
     panels = (f'<div data-panel="v"{"" if sel == "v" else " hidden"}><div class="lflow" data-flow="value"{ph}></div></div>'
               f'<div data-panel="b"{"" if sel == "b" else " hidden"}><div class="lflow" data-flow="buy"{a_}></div></div>')
     gets = "".join(f"<li>{x}</li>" for x in (
-        "Your home's value from the latest sales near you, plus what you'd walk away with",
-        "Off-market and coming-soon homes before they hit Zillow",
-        "Lenders for self-employed, investor and non-traditional buyers",
-        "Creative structures like seller financing when the numbers need it"))
+        "What your home would sell for, and what you'd keep",
+        "Homes before they go public",
+        "Financing that fits how you earn"))
     return f"""<section class="band lead-band" id="contact"><div class="wrap lb-grid">
 <div class="lb-copy lb-head">
 <p class="kick">{e(kick)}</p><h2>{e(heading)}</h2><p class="lb-sub">{e(sub)}</p>
@@ -1508,7 +1505,7 @@ def lp_shell(path, active, kick, h1, lede, checks, flow, proof_k, faq, faq_t, ti
 {proof_band("Recent results", "Track record")}
 {reviews_band(True, "What clients say")}
 {v8.faq_html(faq, faq_t)}
-<section class="band lp-end"><div class="wrap lp-end-in"><h2>Ready when you are</h2><p>It takes about a minute. Or call or text {PHONE} and talk to Nathaniel now.</p>
+<section class="band lp-end"><div class="wrap lp-end-in"><h2>Ready when you are</h2><p>One minute here, or one call to {PHONE}.</p>
 <div class="lh-cta"><a class="btn lux solid" href="#lead">{"Get my home value" if flow == "value" else "Start my search"}</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div></div></section>
 </main>
 {foot(path)}"""
@@ -1523,17 +1520,17 @@ HOW_VALUE = [("Confirm your home", "Type the address. Nathaniel pulls the county
 
 
 def method_band():
-    pts = [("value", "Every recent sale, not an algorithm's guess",
-            "Nathaniel pulls every sale, pending and active listing around your home, then adjusts each one for size, lot, condition, upgrades and the exact block. Automated estimates skip that last mile."),
-           ("pin", "Block by block, not ZIP by ZIP",
-            "Los Angeles prices change when you cross a street. Your home is measured against the pocket it actually sits in, using boundaries drawn from the street grid and sold prices."),
-           ("build", "What the land is worth too",
-            "Lot size, zoning, ADU room and what a builder would pay. On some lots the land is worth more than the house, and that changes the price and the buyer you market to."),
+    pts = [("value", "Every recent sale, adjusted by hand",
+            "Each sale, pending and listing near you, adjusted for size, lot, condition, upgrades and the exact block."),
+           ("pin", "Measured block by block",
+            "In LA, one street can change the price. Your home is compared to the pocket it sits in."),
+           ("build", "The land counts too",
+            "Lot size, zoning and ADU room. On some lots the land is the value, and that changes who you sell to."),
            ("up", "The market sets the strategy",
-            "The same home sells differently when inventory is tight than when it is piling up. Days on market, sale-to-list ratios and new supply decide the list price and how to launch it.")]
+            "Days on market, sale-to-list and new supply decide the list price and how to launch.")]
     cards = "".join(f'<div class="mth-c"><span class="mth-i" aria-hidden="true">{ICONS.get(ic, ICONS["home"])}</span><h3>{e(t)}</h3><p>{e(d)}</p></div>' for ic, t, d in pts)
     return f"""<section class="band mth-band"><div class="wrap">
-<div class="lux-head"><p class="kick">The method</p><h2>A data-driven price, checked by a local</h2><p class="res-sub">Your valuation combines current sales data with what only shows up on the street. Then it is read against today's market.</p></div>
+<div class="lux-head"><p class="kick">The method</p><h2>A data-driven price, checked by a local</h2><p class="res-sub">The data does the heavy lifting. A local reads what the data misses.</p></div>
 <div class="mth-grid">{cards}</div>
 <p class="mth-mk"><a class="btn lux" href="/market-temperature/">See this week's Market Temperature &rarr;</a></p>
 </div></section>"""
@@ -1585,7 +1582,7 @@ def page_market():
 <section class="band mt-hero"><div class="wrap">
 <p class="eyebrow">Week of {e(wtxt)} &middot; Updated weekly</p>
 <h1 class="h1">Market Temperature</h1>
-<p class="lede">A weekly read on the Los Angeles housing market, built from live listing data and the latest public reports. The numbers first, no forecasts.</p>
+<p class="lede">The Los Angeles market, measured every week. Just the numbers.</p>
 <div class="mt-cards">{cards}</div>
 </div></section>
 <section class="band" style="padding-top:0"><div class="wrap mt-two">
@@ -1602,7 +1599,7 @@ def page_market():
 <p><b>County prices and sales:</b> <a href="{C["url"]}" rel="noopener">{e(C["src"])}</a>, {e(C["month"])}, existing single-family homes.</p>
 <p>Region counts use public listing data, so they can differ from MLS totals. Nathaniel can run any single neighborhood, pocket or price band from the MLS on request.</p></div>
 </div></section>
-<section class="band mt-cta"><div class="wrap"><div class="lux-head"><p class="kick">What it means for you</p><h2>The market sets the strategy</h2><p class="res-sub">The same home prices and sells differently in a market like this one. Get a number built on this week's data.</p></div>
+<section class="band mt-cta"><div class="wrap"><div class="lux-head"><p class="kick">What it means for you</p><h2>The market sets the strategy</h2><p class="res-sub">Get a number built on this week's data.</p></div>
 <div class="cta-row" style="justify-content:center"><a class="btn lux solid" href="{VALUE_URL}">Get a free home valuation</a><a class="btn lux" href="{BUY_URL}">Start a home search</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div></div></section>
 </main>
 {foot(path)}"""
@@ -1631,9 +1628,9 @@ def market_teaser():
 
 def page_value():
     return lp_shell(VALUE_URL, "value", "Los Angeles", "Free Home Valuation",
-                    "Find out what your home is worth from a data-driven pricing method, checked block by block by a local agent. Free, within 24 hours, no obligation.",
-                    ["Your value range from the most recent sales near you", "What you'd walk away with after transfer taxes and costs",
-                     "What to fix and what to skip before you sell", "The option to sell quietly, off-market, through Compass"],
+                    "Your number within 24 hours, built from the sales on your street and this week's market.",
+                    ["A value range, with the sales behind it", "What you'd keep after taxes and costs",
+                     "The option to sell quietly, off-market"],
                     "value", "lanark", VALUE_FAQ, "Home value questions",
                     "Free Home Valuation in Los Angeles: What's My Home Worth? | Nathaniel Grivas",
                     "Get a free, hand-built home valuation from Nathaniel Grivas, REALTOR® with The Brodsky Group at Compass: your value range from recent sales near you plus your estimated net. West LA, Beverly Hills and the Valley.",
@@ -1641,11 +1638,9 @@ def page_value():
 
 
 def page_buy():
-    return lp_shell(BUY_URL, "buy", "Buying in Los Angeles", "Find your home, including the ones that never hit Zillow",
-                    "Share what you want. Nathaniel will send homes that fit from the MLS, Compass coming-soon listings and The Brodsky Group's off-market list, and line up the right lender for your situation.",
-                    ["New listings that fit, the day they hit", "Compass Private Exclusives and off-market homes",
-                     "Lenders for self-employed, investor and non-traditional buyers", "Creative structures like seller financing when the numbers need it",
-                     "Offers that win, and negotiation that keeps going through escrow"],
+    return lp_shell(BUY_URL, "buy", "Buying in Los Angeles", "See it before it hits Zillow",
+                    "Tell Nathaniel what you want. He'll send what fits, including homes that never go public, and the lender who can get you there.",
+                    ["New matches the day they list", "Private and off-market homes", "Lenders for every kind of income"],
                     "buy", "hartland", BUY_FAQ, "Buying questions",
                     "Buy a Home in Los Angeles: Off-Market Homes, Lenders & Creative Financing | Nathaniel Grivas",
                     "Find a home in West LA, Beverly Hills or the Valley with Nathaniel Grivas, REALTOR® at Compass: off-market and coming-soon homes, lenders for self-employed and investor buyers, and creative financing like seller carry.")
@@ -1665,9 +1660,9 @@ def page_rent():
             f'<div data-panel="r"><div class="lflow" data-flow="rent"></div></div><div data-panel="l" hidden><div class="lflow" data-flow="lease"></div></div>'
             f'<noscript><p>Call or text {PHONE}, or email {EMAIL}.</p></noscript>')
     checks = "".join(f"<li>{e(c)}</li>" for c in (
-        "New homes for lease that fit your budget and area, sent as they come up",
-        "Help with the application, the lease and the move-in",
-        "For owners: a lease price from recent leases nearby, marketing and tenant screening"))
+        "New matches as they list",
+        "An application that stands out",
+        "For owners: the right price and the right tenant"))
     cards = "".join(prop_card(k, "/") for k in ("edgecliffe", "glenville"))
     title = "Homes for Lease in Los Angeles: Leasing for Tenants and Owners | Nathaniel Grivas"
     desc = "Homes for lease in Los Angeles with Nathaniel Grivas, REALTOR® at Compass: 1436 Edgecliffe Dr #103 in Silver Lake is available now. Start a lease search, or get a free lease estimate for your property."
@@ -1677,7 +1672,7 @@ def page_rent():
 <div class="lp-head">
 <p class="kick">Leasing in Los Angeles</p>
 <h1>Lease a home, or lease yours out</h1>
-<p class="lp-lede">Nathaniel represents tenants and owners on leases across Los Angeles. Tell him what you need and he will send homes that fit, or price and lease your property.</p>
+<p class="lp-lede">Tell Nathaniel what you need. He'll send homes that fit, or price and lease yours.</p>
 </div>
 <div class="lp-card" id="lead" data-tabs>{tabs}</div>
 <div class="lp-more">
@@ -1689,7 +1684,7 @@ def page_rent():
 <div class="grid g2">{cards}</div>
 </div></section>
 {v8.faq_html(RENT_FAQ, "Leasing questions")}
-<section class="band lp-end"><div class="wrap lp-end-in"><h2>Ready when you are</h2><p>It takes about a minute. Or call or text {PHONE} and talk to Nathaniel now.</p>
+<section class="band lp-end"><div class="wrap lp-end-in"><h2>Ready when you are</h2><p>One minute here, or one call to {PHONE}.</p>
 <div class="lh-cta"><a class="btn lux solid" href="#lead">Start my lease search</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div></div></section>
 </main>
 {foot(path)}"""
@@ -1742,9 +1737,9 @@ def page_featured(k):
 {gal}
 <section class="band lux-band"><div class="wrap"><div class="lux-head"><p class="kick">Also featured</p><h2><a class="plain" href="{PROPS[other]["page"]}">{e(o["title"])}</a></h2></div>
 <a class="also" href="{PROPS[other]["page"]}"><img src="{o["poster"]}" alt="{e(o["title"])}" loading="lazy"><span><small>{e(o["status"])} &middot; {e(o["price"])}</small><b>{e(o["title"])}</b>{e(o["line"])} <i>Watch the film &rarr;</i></span></a></div></section>
-{resources_band("Creative deals, real resources", "Seller financing, off-market buyers, lenders for every situation and a $100M+ team behind every deal.")}
+{resources_band("Creative deals, real resources", "A $100M+ annual team behind every deal.")}
 {sale_review(1) if k == "fuller" else reviews_band(False, "What clients say")}
-{lead_band("Want a result like this?", "Find out what your home is worth, or share what you're looking for. Creative deals welcome.", first="value") if f["status"] == "Sold" else lead_band("Want a home like this?", "Share what you're looking for and Nathaniel will send homes that fit, including off-market ones. Or ask him about this one.", first="buy")}
+{lead_band("Want a result like this?", "Start with what your home is worth.", first="value") if f["status"] == "Sold" else lead_band("Want a home like this?", "Ask about this one, or see what else fits before it goes public.", first="buy")}
 {'<div class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Photo viewer"><button type="button" class="lb-x" aria-label="Close">&times;</button><button type="button" class="lb-p" aria-label="Previous photo">&lsaquo;</button><img alt=""><button type="button" class="lb-n" aria-label="Next photo">&rsaquo;</button><p class="lb-c"></p></div>' if gal else ''}
 </main>
 {foot(path)}"""
@@ -1773,7 +1768,7 @@ DEAL_PAGES = {
                   ("Aug 27", "Appraisal at $1,108,300"), ("Sep 8", "Price held above the appraisal"), ("Sep 25", "Closed")],
         ai="Nathaniel Grivas marketed this half-acre Reseda lot to developers as a land play. It drew multiple offers in the first week and seven by day nine, went into escrow on day nine, and sold for $1,155,000, $156,000 over the $999,000 asking price and $46,700 above the appraisal. Closed September 25, 2026.",
         review=0,
-        cta=("Own a lot builders would want?", "Send the address. Nathaniel will pull the zoning and the land comps and show what a developer would pay.", "sell"),
+        cta=("Own a lot builders would want?", "Send the address. See what a builder would pay.", "sell"),
         credit="Sold by Nathaniel Grivas of The Brodsky Group at Compass"),
     "hartland": dict(
         title="14757 Hartland St", where="Van Nuys, Los Angeles, CA 91405", zip="91405", status="Sold", price="$825,000",
@@ -1876,7 +1871,7 @@ def page_listings():
 <main>
 <section class="band tight"><div class="wrap">
 <p class="eyebrow">Listings</p><h1 class="h1">For sale, for lease and recently closed</h1>
-<p class="lede" style="margin-top:14px">Homes Nathaniel is representing now and deals he has closed for buyers, sellers, tenants and landlords.</p>
+<p class="lede" style="margin-top:14px">On the market now, and already closed.</p>
 </div></section>
 {featured_section("Featured homes", "Watch the films")}
 <section class="band" style="padding-top:0"><div class="wrap">
@@ -1886,25 +1881,19 @@ def page_listings():
 <div class="head"><div><p class="eyebrow">Track record</p><h2 class="h2">Closed</h2></div></div>
 <div class="grid">{"".join(prop_card(k, r) for k in SOLD if k not in FEATURED)}</div></div></section>
 {reviews_band(False, "What sellers say")}
-{lead_band("Get homes before they hit the market", "Off-market and coming-soon homes go to Nathaniel's list first. Share what you want, or find out what yours is worth.", first="buy")}
+{lead_band("Be first on the list", "Coming-soon and off-market homes reach his list first.", first="buy")}
 </main>
 {foot(path)}"""
     return head("Listings | Nathaniel Grivas, Compass", "Active listings and recent transactions by Nathaniel Grivas, REALTOR® at Compass.", path) + body
 
 
 WHY = [
-    ("split", "Deals that close, however they have to",
-     "Seller financing, assignments, leasebacks and 1031 exchanges. When the numbers only work with a creative structure, he builds one that protects both sides."),
-    ("up", "Marketing that finds the buyer who pays the most",
-     "A marketer before he was an agent, he launches a listing the way a brand launches a product and puts it in front of the buyers most likely to pay up."),
-    ("scale", "Negotiation that keeps going after the offer",
-     "Inspection items get priced, credits get argued with data, and terms stay protected all the way through escrow."),
-    ("build", "He reads a property like a developer",
-     "Zoning, lot size, ADU and lot-split potential and buildable square feet, so a home is priced on what it could become, not only on what it is."),
-    ("key", "Access most agents don't have",
-     "Compass Private Exclusives, coming-soon homes, The Brodsky Group's off-market list, and lenders who approve self-employed and investor buyers."),
-    ("call", "He answers",
-     "Same-day replies by call, text or email. Trusts, tenants, six owners on one title, unpermitted additions: complicated is fine."),
+    ("split", "Deals that close", "Seller financing, leasebacks, assignments and 1031s, built so both sides are protected."),
+    ("up", "Listings launched like products", "A marketer first. Your home goes in front of the buyers most likely to pay up."),
+    ("scale", "Negotiation to the close", "Inspection items priced, credits argued with data, terms held through escrow."),
+    ("build", "A developer's eye", "Zoning, lot size and ADU room, priced in from day one."),
+    ("key", "First access", "Compass Private Exclusives, coming-soon homes and The Brodsky Group's off-market list."),
+    ("call", "He answers", "Same day. Trusts, tenants, six owners on one title: complicated is fine."),
 ]
 
 
@@ -1918,7 +1907,7 @@ def page_about():
 <div class="portrait"><img src="{r}img/nate-about.jpg" alt="Nathaniel Grivas, REALTOR at Compass" width="900" height="990"></div>
 <div><p class="eyebrow">About Nathaniel</p><h1 class="h1">Nathaniel Grivas</h1>
 <p class="ab-tag">The agent who finds a way to get it done.</p>
-<p class="lede" style="margin-top:14px">Nathaniel Grivas is a REALTOR&reg; with The Brodsky Group at Compass Beverly Hills. He represents buyers, sellers, landlords, investors and builders, and he takes on the deals other agents pass on: creative financing, development sites, off-market homes and anything complicated, from Malibu to Silver Lake and across the San Fernando Valley.</p>
+<p class="lede" style="margin-top:14px">Nathaniel Grivas is a REALTOR&reg; with The Brodsky Group at Compass Beverly Hills. Clients call him when the deal is worth getting right.</p>
 {trust_row()}
 <div class="cta-row"><a class="btn solid" href="tel:{TEL}">Call {PHONE}</a><a class="btn" href="{VALUE_URL}">What's my home worth?</a><a class="btn" href="{BUY_URL}">Find me a home</a></div>
 </div></div></section>
@@ -1940,7 +1929,7 @@ def page_about():
 </div></section>
 {reviews_band(True, "What clients say")}
 {team_section("team-2.jpg", "Nathaniel works on The Brodsky Group, led by Or Brodsky at Compass Beverly Hills, on everything from new construction to off-market sales.")}
-{lead_band("Work with Nathaniel", "Pick one. It takes about a minute, and you'll hear back today.", rating=False)}
+{lead_band("Work with Nathaniel", "You'll hear back today.", rating=False)}
 </main>
 {foot(path)}"""
     desc = ("Nathaniel Grivas, REALTOR® with The Brodsky Group at Compass Beverly Hills ($100M+ annual team sales). Seller financing, development sites, "

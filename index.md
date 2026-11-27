@@ -14,10 +14,10 @@ From Westchester to Malibu, Hollywood to Silver Lake, and across the San Fernand
 ## How he helps
 
 - What's my home worth?: A free valuation built by hand from the sales on your street.
-- Find me a home: New listings, coming-soon and off-market homes, sent as they come up.
-- Rent a home: Leases across the Westside and the Valley.
-- Invest: Income property, value-add, off-market deals and DSCR lenders.
-- Build: Lots, teardowns, ADUs and the architects and builders to do it.
+- Find me a home: New, coming-soon and off-market homes, as they come up.
+- Lease a home: Homes for lease, or lease yours out.
+- Invest: Income property and off-market deals.
+- Build: Lots, teardowns and ADUs.
 
 ## Featured homes (with video tours)
 

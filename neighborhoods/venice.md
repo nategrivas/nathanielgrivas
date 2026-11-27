@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Venice is really 8 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Venice is 8 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Ocean Front Walk
 
@@ -139,7 +139,7 @@ Local LA
 
 Venice packs a beach town, one of LA's best restaurant streets and a handful of genuinely odd landmarks into a couple of square miles. Abbot Kinney and Rose Avenue carry most of the eating and drinking; the boardwalk, canals and skatepark carry the rest.
 
-41 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+41 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -297,7 +297,7 @@ A good-at-everything neighborhood restaurant.
 
 Lunch Dinner
 
-**Love Venice? Live here.** Get new Venice listings, including off-market ones, or a free value on your Venice home.
+**Love Venice? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Venice listings
 
@@ -924,7 +924,7 @@ Abbot Kinney Boulevard is the dinner-and-shopping strip. Ocean Front Walk, the s
 
 Is Venice its own city?
 
-Venice is in City of Los Angeles. City and county rules apply.
+Venice is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Venice?
 
@@ -954,12 +954,11 @@ Free, no obligation
 
 ## Buying or selling in Venice?
 
-Get new Venice listings as they hit, including ones that aren't public yet, or find out what your Venice home is worth.
+First look at new Venice listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

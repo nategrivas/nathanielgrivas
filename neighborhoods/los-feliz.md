@@ -46,7 +46,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Los Feliz is really 6 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Los Feliz is 6 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Los Feliz Flats
 
@@ -128,7 +128,7 @@ Local LA
 
 Los Feliz sits at the foot of Griffith Park, with two walkable village streets, Hillhurst and Vermont, lined with cafes, old-school Italian spots, bookstores and a century-old movie palace. It's also the easiest way up to the Observatory and the Greek Theatre.
 
-36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+36 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -356,7 +356,7 @@ Thick, square slices for about five dollars.
 
 Pizza Cheap eats
 
-**Love Los Feliz? Live here.** Get new Los Feliz listings, including off-market ones, or a free value on your Los Feliz home.
+**Love Los Feliz? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Los Feliz listings
 
@@ -838,7 +838,7 @@ Los Feliz Village on Vermont and Hillhurst has the restaurants, bars and booksto
 
 Is Los Feliz its own city?
 
-Los Feliz is in City of Los Angeles. City and county rules apply.
+Los Feliz is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Los Feliz?
 
@@ -868,12 +868,11 @@ Free, no obligation
 
 ## Buying or selling in Los Feliz?
 
-Get new Los Feliz listings as they hit, including ones that aren't public yet, or find out what your Los Feliz home is worth.
+First look at new Los Feliz listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

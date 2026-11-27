@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Hollywood Hills is really 15 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Hollywood Hills is 15 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Bird Streets
 
@@ -332,7 +332,7 @@ Down the hill
 
 The Hollywood Hills rise above Hollywood and West Hollywood along Mulholland Drive and the Laurel and Cahuenga canyons, with music history in Laurel Canyon, a hillside amphitheater and some of the best Hollywood Sign views in town.
 
-18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+18 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -434,7 +434,7 @@ Sonoran-style tacos on fresh flour tortillas, with meats cooked over mesquite.
 
 Tacos & Mexican Cheap eats Lunch
 
-**Love Hollywood Hills? Live here.** Get new Hollywood Hills listings, including off-market ones, or a free value on your Hollywood Hills home.
+**Love Hollywood Hills? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Hollywood Hills listings
 
@@ -670,7 +670,7 @@ Runyon Canyon for the crowded hike, Lake Hollywood for the quiet loop, the Holly
 
 Is Hollywood Hills its own city?
 
-Hollywood Hills is in City of Los Angeles. City and county rules apply.
+Hollywood Hills is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Hollywood Hills?
 
@@ -700,12 +700,11 @@ Free, no obligation
 
 ## Buying or selling in Hollywood Hills?
 
-Get new Hollywood Hills listings as they hit, including ones that aren't public yet, or find out what your Hollywood Hills home is worth.
+First look at new Hollywood Hills listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

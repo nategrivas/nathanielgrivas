@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Marina del Rey is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Marina del Rey is 3 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Marina Peninsula
 
@@ -103,7 +103,7 @@ Local LA
 
 Marina del Rey wraps around North America's largest man-made small-craft harbor, with waterfront restaurants, a calm swimming beach and a bike path that runs to Venice and Playa del Rey. The best food is often a block off the water, along Washington Boulevard and in the strip malls inland.
 
-20 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+20 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -218,7 +218,7 @@ A mariscos truck where lunch for one is cheap and the ceviche and cocteles are t
 
 Lunch Tacos & Mexican Seafood
 
-**Love Marina del Rey? Live here.** Get new Marina del Rey listings, including off-market ones, or a free value on your Marina del Rey home.
+**Love Marina del Rey? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Marina del Rey listings
 
@@ -574,7 +574,7 @@ Life here runs around the water: paddleboarding in the harbor, calm water at Mot
 
 Is Marina del Rey its own city?
 
-Marina del Rey is in Unincorporated LA County. City and county rules apply.
+Marina del Rey is in the Unincorporated LA County. City and county rules apply.
 
 What ZIP codes cover Marina del Rey?
 
@@ -604,12 +604,11 @@ Free, no obligation
 
 ## Buying or selling in Marina del Rey?
 
-Get new Marina del Rey listings as they hit, including ones that aren't public yet, or find out what your Marina del Rey home is worth.
+First look at new Marina del Rey listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 

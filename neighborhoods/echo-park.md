@@ -45,7 +45,7 @@ Block by block
 
 [Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
 
-In Los Angeles a single street can change the price of a house. Echo Park is really 5 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+One street can change the price. Echo Park is 5 pockets, drawn street by street. Dashed lines are the pockets next door.
 
 ### Elysian Heights
 
@@ -121,7 +121,7 @@ Local LA
 
 Echo Park wraps around its lake, with swan boats and a palm-lined loop, and Sunset Boulevard runs through it with some of the Eastside's best bars, taquerias and music rooms. Dodger Stadium sits right above it in Chavez Ravine.
 
-29 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+29 hand-picked places · Updated 2026-11-26
 
 ### Spots to know
 
@@ -306,7 +306,7 @@ Filipino flavors meet Southern barbecue.
 
 Lunch Dinner
 
-**Love Echo Park? Live here.** Get new Echo Park listings, including off-market ones, or a free value on your Echo Park home.
+**Love Echo Park? Live here.** New listings here, including off-market ones, or a free value on yours.
 
 What's my home worth? Get Echo Park listings
 
@@ -707,7 +707,7 @@ Echo Park Lake with the paddle boats and lotus beds, Dodger Stadium up the hill,
 
 Is Echo Park its own city?
 
-Echo Park is in City of Los Angeles. City and county rules apply.
+Echo Park is in the City of Los Angeles. City and county rules apply.
 
 What ZIP codes cover Echo Park?
 
@@ -737,12 +737,11 @@ Free, no obligation
 
 ## Buying or selling in Echo Park?
 
-Get new Echo Park listings as they hit, including ones that aren't public yet, or find out what your Echo Park home is worth.
+First look at new Echo Park listings, or a free number on yours.
 
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
+- What your home would sell for, and what you'd keep
+- Homes before they go public
+- Financing that fits how you earn
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
