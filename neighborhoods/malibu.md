@@ -8,7 +8,7 @@ Twenty-one miles of coast, its own city, and septic tanks.
 
 Malibu ZIP 90265 $$$$ · Top of market
 
-[See Malibu homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=malibu) Text Nathaniel
+Get Malibu listings What's my Malibu home worth?
 
 What it’s like
 
@@ -47,6 +47,10 @@ From above
 - 3 **Malibu Country Mart** Shops and restaurants around Cross Creek Road.
 - 4 **Septic and insurance** Two costs to check on every Malibu home.
 - 5 **Pepperdine** The university on the hill above Malibu Canyon Road.
+
+**Thinking about Malibu?** New Malibu listings, off-market homes and lenders for any situation. Or a free value on your Malibu home.
+
+What's my home worth? Get Malibu listings
 
 Photos
 
@@ -108,11 +112,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -178,19 +182,20 @@ Who is Malibu a good fit for?
 
 You want privacy, ocean and space, and the drive into town doesn't bother you.
 
-Contact
+Free, no obligation
 
-## Looking in Malibu?
+## Buying or selling in Malibu?
 
-Tell me what you want and your budget. I'll set up your search and send new Malibu listings as they hit, including ones that aren't public yet.
+Get new Malibu listings as they hit, including ones that aren't public yet, or find out what your Malibu home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

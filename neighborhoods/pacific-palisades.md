@@ -8,7 +8,7 @@ A beach town in the hills, rebuilding after the January 2025 fire.
 
 City of LA ZIP 90272 $$$$ · Top of market
 
-[See Pacific Palisades homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=pacific-palisades) Text Nathaniel
+Get Pacific Palisades listings What's my Pacific Palisades home worth?
 
 What it’s like
 
@@ -47,6 +47,10 @@ From above
 - 3 **Will Rogers State Beach** Long beach below the bluffs along PCH.
 - 4 **Proposition TE** The 2026 ULA exemption for fire-damaged homes. Rules on the transfer tax page.
 - 5 **Rebuild permits** Check a lot's permit status before you price it.
+
+**Thinking about Pacific Palisades?** New Pacific Palisades listings, off-market homes and lenders for any situation. Or a free value on your Pacific Palisades home.
+
+What's my home worth? Get Pacific Palisades listings
 
 Photos
 
@@ -116,11 +120,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -180,19 +184,20 @@ Who is Pacific Palisades a good fit for?
 
 You want space, the coast and a long-term hold, and you're comfortable buying into a rebuild.
 
-Contact
+Free, no obligation
 
-## Looking in Pacific Palisades?
+## Buying or selling in Pacific Palisades?
 
-Tell me what you want and your budget. I'll set up your search and send new Pacific Palisades listings as they hit, including ones that aren't public yet.
+Get new Pacific Palisades listings as they hit, including ones that aren't public yet, or find out what your Pacific Palisades home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

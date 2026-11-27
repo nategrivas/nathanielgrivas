@@ -8,7 +8,7 @@ Boats, high-rises and the bike path, run by the county.
 
 LA County ZIP 90292 $$$ · Upper
 
-[See Marina del Rey homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=marina-del-rey) Text Nathaniel
+Get Marina del Rey listings What's my Marina del Rey home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **The main channel** Walk or bike out to the jetty at the harbor mouth.
 - 3 **Fisherman's Village** Harbor-front shops and boat tours.
 - 4 **Ground leases** Most land is county-owned. Check the lease term on any condo.
+
+**Thinking about Marina del Rey?** New Marina del Rey listings, off-market homes and lenders for any situation. Or a free value on your Marina del Rey home.
+
+What's my home worth? Get Marina del Rey listings
 
 Photos
 
@@ -105,11 +109,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -187,19 +191,20 @@ Who is Marina del Rey a good fit for?
 
 You want water views, the bike path and an easy condo lifestyle.
 
-Contact
+Free, no obligation
 
-## Looking in Marina del Rey?
+## Buying or selling in Marina del Rey?
 
-Tell me what you want and your budget. I'll set up your search and send new Marina del Rey listings as they hit, including ones that aren't public yet.
+Get new Marina del Rey listings as they hit, including ones that aren't public yet, or find out what your Marina del Rey home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

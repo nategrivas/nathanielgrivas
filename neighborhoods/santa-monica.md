@@ -8,7 +8,7 @@ The beach city with its own rules, its own schools and a train to Downtown.
 
 Santa Monica ZIP 90401, 90402, 90403, 90404, 90405 $$$$ · Top of market
 
-[See Santa Monica homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=santa-monica) Text Nathaniel
+Get Santa Monica listings What's my Santa Monica home worth?
 
 What it’s like
 
@@ -47,6 +47,10 @@ From above
 - 3 **Main Street** Ocean Park's stretch of restaurants and shops, a few blocks from the sand.
 - 4 **Metro E Line** Downtown Santa Monica station connects to Culver City and Downtown LA.
 - 5 **The beach bike path** The Marvin Braude trail runs south through Venice and beyond.
+
+**Thinking about Santa Monica?** New Santa Monica listings, off-market homes and lenders for any situation. Or a free value on your Santa Monica home.
+
+What's my home worth? Get Santa Monica listings
 
 Photos
 
@@ -106,11 +110,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -192,19 +196,20 @@ Who is Santa Monica a good fit for?
 
 You want the beach, walkability and a train line, and you're fine paying for all three.
 
-Contact
+Free, no obligation
 
-## Looking in Santa Monica?
+## Buying or selling in Santa Monica?
 
-Tell me what you want and your budget. I'll set up your search and send new Santa Monica listings as they hit, including ones that aren't public yet.
+Get new Santa Monica listings as they hit, including ones that aren't public yet, or find out what your Santa Monica home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

@@ -8,7 +8,7 @@ Third Street, the Beverly Center and Spanish duplexes on every block.
 
 City of LA ZIP 90048 $$$ · Upper
 
-[See Beverly Grove homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=beverly-grove) Text Nathaniel
+Get Beverly Grove listings What's my Beverly Grove home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **Melrose Place** Short, quiet street of boutiques.
 - 3 **Cedars-Sinai** The medical center and one of the area's biggest employers.
 - 4 **Spanish duplexes** Two units, one lot, and rent that helps pay the mortgage.
+
+**Thinking about Beverly Grove?** New Beverly Grove listings, off-market homes and lenders for any situation. Or a free value on your Beverly Grove home.
+
+What's my home worth? Get Beverly Grove listings
 
 ## Around Beverly Grove
 
@@ -107,11 +111,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -179,19 +183,20 @@ Who is Beverly Grove a good fit for?
 
 You want a central, walkable spot, or a duplex to live in and rent out.
 
-Contact
+Free, no obligation
 
-## Looking in Beverly Grove?
+## Buying or selling in Beverly Grove?
 
-Tell me what you want and your budget. I'll set up your search and send new Beverly Grove listings as they hit, including ones that aren't public yet.
+Get new Beverly Grove listings as they hit, including ones that aren't public yet, or find out what your Beverly Grove home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

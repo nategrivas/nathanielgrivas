@@ -8,7 +8,7 @@ Museum Row on Wilshire and the subway underneath it.
 
 City of LA ZIP 90036 $$$ · Upper
 
-[See Miracle Mile homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=miracle-mile) Text Nathaniel
+Get Miracle Mile listings What's my Miracle Mile home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **La Brea Tar Pits** Ice-age fossils in a public park.
 - 3 **Academy Museum** The film museum at Wilshire and Fairfax.
 - 4 **Miracle Mile HPOZ** Historic rules on exterior changes. Check before you remodel.
+
+**Thinking about Miracle Mile?** New Miracle Mile listings, off-market homes and lenders for any situation. Or a free value on your Miracle Mile home.
+
+What's my home worth? Get Miracle Mile listings
 
 Photos
 
@@ -111,11 +115,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -179,19 +183,20 @@ Who is Miracle Mile a good fit for?
 
 You want culture and a subway stop in walking distance.
 
-Contact
+Free, no obligation
 
-## Looking in Miracle Mile?
+## Buying or selling in Miracle Mile?
 
-Tell me what you want and your budget. I'll set up your search and send new Miracle Mile listings as they hit, including ones that aren't public yet.
+Get new Miracle Mile listings as they hit, including ones that aren't public yet, or find out what your Miracle Mile home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

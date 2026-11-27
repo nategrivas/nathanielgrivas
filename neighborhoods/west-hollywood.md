@@ -8,7 +8,7 @@ The Sunset Strip, Santa Monica Boulevard and the Design District in under two sq
 
 West Hollywood ZIP 90069, 90046, 90048 $$$ · Upper
 
-[See West Hollywood homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=west-hollywood) Text Nathaniel
+Get West Hollywood listings What's my West Hollywood home worth?
 
 What it’s like
 
@@ -47,6 +47,10 @@ From above
 - 3 **Design District** Furniture showrooms and galleries around Melrose and Robertson.
 - 4 **Pacific Design Center** The blue and green buildings on Melrose.
 - 5 **Kings Road Park** Small park in the middle of the east side.
+
+**Thinking about West Hollywood?** New West Hollywood listings, off-market homes and lenders for any situation. Or a free value on your West Hollywood home.
+
+What's my home worth? Get West Hollywood listings
 
 ## Around West Hollywood
 
@@ -108,11 +112,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -180,19 +184,20 @@ Who is West Hollywood a good fit for?
 
 You want to walk to dinner and stay out late.
 
-Contact
+Free, no obligation
 
-## Looking in West Hollywood?
+## Buying or selling in West Hollywood?
 
-Tell me what you want and your budget. I'll set up your search and send new West Hollywood listings as they hit, including ones that aren't public yet.
+Get new West Hollywood listings as they hit, including ones that aren't public yet, or find out what your West Hollywood home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

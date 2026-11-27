@@ -8,7 +8,7 @@ Thai Town, Little Armenia and Barnsdall Park, right on the B Line.
 
 City of LA ZIP 90029 $$ · Moderate
 
-[See East Hollywood homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=east-hollywood) Text Nathaniel
+Get East Hollywood listings What's my East Hollywood home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **Thai Town** Restaurants along Hollywood Blvd.
 - 3 **Little Armenia** Bakeries and markets along Hollywood Boulevard.
 - 4 **Metro B Line** Vermont/Sunset and Vermont/Santa Monica stations.
+
+**Thinking about East Hollywood?** New East Hollywood listings, off-market homes and lenders for any situation. Or a free value on your East Hollywood home.
+
+What's my home worth? Get East Hollywood listings
 
 ## Around East Hollywood
 
@@ -107,11 +111,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -175,19 +179,20 @@ Who is East Hollywood a good fit for?
 
 You want value next to the Eastside's best neighborhoods.
 
-Contact
+Free, no obligation
 
-## Looking in East Hollywood?
+## Buying or selling in East Hollywood?
 
-Tell me what you want and your budget. I'll set up your search and send new East Hollywood listings as they hit, including ones that aren't public yet.
+Get new East Hollywood listings as they hit, including ones that aren't public yet, or find out what your East Hollywood home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

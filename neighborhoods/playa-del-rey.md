@@ -8,7 +8,7 @@ The quiet beach town most of LA forgets about.
 
 City of LA ZIP 90293 $$$ · Upper
 
-[See Playa del Rey homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=playa-del-rey) Text Nathaniel
+Get Playa del Rey listings What's my Playa del Rey home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **Del Rey Lagoon** Small park and lagoon a block from the sand.
 - 3 **Culver Blvd strip** The neighborhood's few bars and restaurants.
 - 4 **The bluffs** Hillside streets above Vista del Mar with the views.
+
+**Thinking about Playa del Rey?** New Playa del Rey listings, off-market homes and lenders for any situation. Or a free value on your Playa del Rey home.
+
+What's my home worth? Get Playa del Rey listings
 
 Photos
 
@@ -111,11 +115,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -189,19 +193,20 @@ Who is Playa del Rey a good fit for?
 
 You want the beach without the crowds and don't mind plane noise near the south end.
 
-Contact
+Free, no obligation
 
-## Looking in Playa del Rey?
+## Buying or selling in Playa del Rey?
 
-Tell me what you want and your budget. I'll set up your search and send new Playa del Rey listings as they hit, including ones that aren't public yet.
+Get new Playa del Rey listings as they hit, including ones that aren't public yet, or find out what your Playa del Rey home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

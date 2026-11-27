@@ -8,7 +8,7 @@ High-rise living on the old 20th Century Fox backlot.
 
 City of LA ZIP 90067 $$$ · Upper
 
-[See Century City homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=century-city) Text Nathaniel
+Get Century City listings What's my Century City home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **Fox Studios** The working studio lot on Pico.
 - 3 **Avenue of the Stars** The main boulevard through the towers.
 - 4 **Roxbury Park** Beverly Hills park just across the border.
+
+**Thinking about Century City?** New Century City listings, off-market homes and lenders for any situation. Or a free value on your Century City home.
+
+What's my home worth? Get Century City listings
 
 Photos
 
@@ -111,11 +115,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -183,19 +187,20 @@ Who is Century City a good fit for?
 
 You want a doorman building in the middle of the Westside.
 
-Contact
+Free, no obligation
 
-## Looking in Century City?
+## Buying or selling in Century City?
 
-Tell me what you want and your budget. I'll set up your search and send new Century City listings as they hit, including ones that aren't public yet.
+Get new Century City listings as they hit, including ones that aren't public yet, or find out what your Century City home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

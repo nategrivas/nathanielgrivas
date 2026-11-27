@@ -8,7 +8,7 @@ Curving streets next to the best public park on the Westside.
 
 City of LA ZIP 90064 $$$$ · Top of market
 
-[See Cheviot Hills & Rancho Park homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=cheviot-hills) Text Nathaniel
+Get Cheviot Hills & Rancho Park listings What's my Cheviot Hills & Rancho Park home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **Rancho Park Golf Course** Municipal course that once hosted the LA Open.
 - 3 **Motor Avenue** The main street through the neighborhood.
 - 4 **Westwood/Rancho Park station** Metro E Line on the north edge.
+
+**Thinking about Cheviot Hills & Rancho Park?** New Cheviot Hills & Rancho Park listings, off-market homes and lenders for any situation. Or a free value on your Cheviot Hills & Rancho Park home.
+
+What's my home worth? Get Cheviot Hills & Rancho Park listings
 
 ## Around Cheviot Hills & Rancho Park
 
@@ -107,11 +111,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -179,19 +183,20 @@ Who is Cheviot Hills & Rancho Park a good fit for?
 
 You want a quiet residential street with a big public park in walking distance.
 
-Contact
+Free, no obligation
 
-## Looking in Cheviot Hills & Rancho Park?
+## Buying or selling in Cheviot Hills & Rancho Park?
 
-Tell me what you want and your budget. I'll set up your search and send new Cheviot Hills & Rancho Park listings as they hit, including ones that aren't public yet.
+Get new Cheviot Hills & Rancho Park listings as they hit, including ones that aren't public yet, or find out what your Cheviot Hills & Rancho Park home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

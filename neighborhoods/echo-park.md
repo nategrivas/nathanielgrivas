@@ -8,7 +8,7 @@ The lake, Dodger Stadium and hillside homes close to Downtown.
 
 City of LA ZIP 90026 $$ · Moderate
 
-[See Echo Park homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=echo-park) Text Nathaniel
+Get Echo Park listings What's my Echo Park home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **Dodger Stadium** Walkable on game nights.
 - 3 **Elysian Park** LA's second-largest city park.
 - 4 **Angelino Heights** Victorian homes on Carroll Avenue.
+
+**Thinking about Echo Park?** New Echo Park listings, off-market homes and lenders for any situation. Or a free value on your Echo Park home.
+
+What's my home worth? Get Echo Park listings
 
 ## Around Echo Park
 
@@ -107,11 +111,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -171,19 +175,20 @@ Who is Echo Park a good fit for?
 
 You want character close to Downtown.
 
-Contact
+Free, no obligation
 
-## Looking in Echo Park?
+## Buying or selling in Echo Park?
 
-Tell me what you want and your budget. I'll set up your search and send new Echo Park listings as they hit, including ones that aren't public yet.
+Get new Echo Park listings as they hit, including ones that aren't public yet, or find out what your Echo Park home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

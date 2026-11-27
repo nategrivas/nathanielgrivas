@@ -8,7 +8,7 @@ UCLA, Westwood Village and the Wilshire Corridor towers.
 
 City of LA ZIP 90024 $$$$ · Top of market
 
-[See Westwood homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=westwood) Text Nathaniel
+Get Westwood listings What's my Westwood home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **The Wilshire Corridor** LA's strip of luxury condo towers.
 - 3 **UCLA** Campus, Pauley Pavilion and the Botanical Garden.
 - 4 **Holmby Westwood** Single-family streets north of Wilshire.
+
+**Thinking about Westwood?** New Westwood listings, off-market homes and lenders for any situation. Or a free value on your Westwood home.
+
+What's my home worth? Get Westwood listings
 
 Photos
 
@@ -111,11 +115,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -183,19 +187,20 @@ Who is Westwood a good fit for?
 
 You want a condo with service, or a classic house close to UCLA.
 
-Contact
+Free, no obligation
 
-## Looking in Westwood?
+## Buying or selling in Westwood?
 
-Tell me what you want and your budget. I'll set up your search and send new Westwood listings as they hit, including ones that aren't public yet.
+Get new Westwood listings as they hit, including ones that aren't public yet, or find out what your Westwood home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

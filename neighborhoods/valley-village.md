@@ -8,7 +8,7 @@ Quiet streets between Studio City and NoHo.
 
 City of LA ZIP 91607 $$$ · Upper
 
-[See Valley Village homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=valley-village) Text Nathaniel
+Get Valley Village listings What's my Valley Village home worth?
 
 What it’s like
 
@@ -45,6 +45,10 @@ From above
 - 1 **Valley Village Park** The neighborhood park and playground.
 - 2 **Laurel Canyon Blvd** The route south toward Studio City and the hills.
 - 3 **Close to NoHo** The arts district and the B Line are minutes away.
+
+**Thinking about Valley Village?** New Valley Village listings, off-market homes and lenders for any situation. Or a free value on your Valley Village home.
+
+What's my home worth? Get Valley Village listings
 
 ## Around Valley Village
 
@@ -106,11 +110,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -170,19 +174,20 @@ Who is Valley Village a good fit for?
 
 You want Studio City access at a lower price.
 
-Contact
+Free, no obligation
 
-## Looking in Valley Village?
+## Buying or selling in Valley Village?
 
-Tell me what you want and your budget. I'll set up your search and send new Valley Village listings as they hit, including ones that aren't public yet.
+Get new Valley Village listings as they hit, including ones that aren't public yet, or find out what your Valley Village home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

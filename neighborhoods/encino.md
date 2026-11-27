@@ -8,7 +8,7 @@ Big lots south of Ventura, condos north of it, and the Sepulveda Basin.
 
 City of LA ZIP 91316, 91436 $$$$ · Top of market
 
-[See Encino homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=encino) Text Nathaniel
+Get Encino listings What's my Encino home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **Sepulveda Basin** Golf, fields, bike paths and Lake Balboa.
 - 3 **Los Encinos State Historic Park** The 1800s ranch site and pond.
 - 4 **Condo pockets** Townhome-style condos north of Ventura.
+
+**Thinking about Encino?** New Encino listings, off-market homes and lenders for any situation. Or a free value on your Encino home.
+
+What's my home worth? Get Encino listings
 
 ## Around Encino
 
@@ -113,11 +117,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -185,19 +189,20 @@ Who is Encino a good fit for?
 
 You want land and privacy in the Valley, or an easy condo near Ventura.
 
-Contact
+Free, no obligation
 
-## Looking in Encino?
+## Buying or selling in Encino?
 
-Tell me what you want and your budget. I'll set up your search and send new Encino listings as they hit, including ones that aren't public yet.
+Get new Encino listings as they hit, including ones that aren't public yet, or find out what your Encino home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

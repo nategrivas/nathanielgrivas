@@ -8,7 +8,7 @@ Named for Tarzan, with hillside homes and room to spread out.
 
 City of LA ZIP 91356 $$$ · Upper
 
-[See Tarzana homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=tarzana) Text Nathaniel
+Get Tarzana listings What's my Tarzana home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **Tarzana Recreation Center** Fields, courts and community classes.
 - 3 **Providence Tarzana** The neighborhood's medical center.
 - 4 **Mulholland** The ridge road on the south edge.
+
+**Thinking about Tarzana?** New Tarzana listings, off-market homes and lenders for any situation. Or a free value on your Tarzana home.
+
+What's my home worth? Get Tarzana listings
 
 ## Around Tarzana
 
@@ -105,11 +109,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -169,19 +173,20 @@ Who is Tarzana a good fit for?
 
 You want more house and yard for the money than Encino.
 
-Contact
+Free, no obligation
 
-## Looking in Tarzana?
+## Buying or selling in Tarzana?
 
-Tell me what you want and your budget. I'll set up your search and send new Tarzana listings as they hit, including ones that aren't public yet.
+Get new Tarzana listings as they hit, including ones that aren't public yet, or find out what your Tarzana home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

@@ -8,7 +8,7 @@ Old LA mansions, Larchmont Village and the Wilshire Country Club.
 
 City of LA ZIP 90004, 90020 $$$$ · Top of market
 
-[See Hancock Park & Larchmont homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=hancock-park) Text Nathaniel
+Get Hancock Park & Larchmont listings What's my Hancock Park & Larchmont home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **Wilshire Country Club** Private club and golf course in the middle of the neighborhood.
 - 3 **Windsor Square** The neighboring area east of Larchmont.
 - 4 **HPOZ review** Plan for historic review on exterior work.
+
+**Thinking about Hancock Park & Larchmont?** New Hancock Park & Larchmont listings, off-market homes and lenders for any situation. Or a free value on your Hancock Park & Larchmont home.
+
+What's my home worth? Get Hancock Park & Larchmont listings
 
 ## Around Hancock Park & Larchmont
 
@@ -107,11 +111,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -171,19 +175,20 @@ Who is Hancock Park & Larchmont a good fit for?
 
 You want an old-LA house on a quiet, walkable street.
 
-Contact
+Free, no obligation
 
-## Looking in Hancock Park & Larchmont?
+## Buying or selling in Hancock Park & Larchmont?
 
-Tell me what you want and your budget. I'll set up your search and send new Hancock Park & Larchmont listings as they hit, including ones that aren't public yet.
+Get new Hancock Park & Larchmont listings as they hit, including ones that aren't public yet, or find out what your Hancock Park & Larchmont home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

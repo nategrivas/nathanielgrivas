@@ -8,7 +8,7 @@ Its own city, its own schools, its own police, and the Flats.
 
 Beverly Hills ZIP 90210, 90211, 90212 $$$$ · Top of market
 
-[See Beverly Hills homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=beverly-hills) Text Nathaniel
+Get Beverly Hills listings What's my Beverly Hills home worth?
 
 What it’s like
 
@@ -47,6 +47,10 @@ From above
 - 3 **Greystone Mansion** Historic estate and public gardens.
 - 4 **Trousdale Estates** Mid-century hillside homes with city views.
 - 5 **Beverly Hills Unified** The city's own school district.
+
+**Thinking about Beverly Hills?** New Beverly Hills listings, off-market homes and lenders for any situation. Or a free value on your Beverly Hills home.
+
+What's my home worth? Get Beverly Hills listings
 
 Photos
 
@@ -112,11 +116,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -188,19 +192,20 @@ Who is Beverly Hills a good fit for?
 
 You want city services, walkable shopping and a famous address.
 
-Contact
+Free, no obligation
 
-## Looking in Beverly Hills?
+## Buying or selling in Beverly Hills?
 
-Tell me what you want and your budget. I'll set up your search and send new Beverly Hills listings as they hit, including ones that aren't public yet.
+Get new Beverly Hills listings as they hit, including ones that aren't public yet, or find out what your Beverly Hills home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

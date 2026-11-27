@@ -8,7 +8,7 @@ A planned neighborhood with a park every few blocks.
 
 City of LA ZIP 90094 $$$ · Upper
 
-[See Playa Vista homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=playa-vista) Text Nathaniel
+Get Playa Vista listings What's my Playa Vista home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **Central Park** Pool, courts, playgrounds and the summer concert lawn.
 - 3 **Ballona Wetlands** Protected wetlands and the Ballona Creek bike path.
 - 4 **Silicon Beach offices** Big tech campuses within walking distance.
+
+**Thinking about Playa Vista?** New Playa Vista listings, off-market homes and lenders for any situation. Or a free value on your Playa Vista home.
+
+What's my home worth? Get Playa Vista listings
 
 ## Around Playa Vista
 
@@ -107,11 +111,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -179,19 +183,20 @@ Who is Playa Vista a good fit for?
 
 You want new construction, parks and a short walk to work.
 
-Contact
+Free, no obligation
 
-## Looking in Playa Vista?
+## Buying or selling in Playa Vista?
 
-Tell me what you want and your budget. I'll set up your search and send new Playa Vista listings as they hit, including ones that aren't public yet.
+Get new Playa Vista listings as they hit, including ones that aren't public yet, or find out what your Playa Vista home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

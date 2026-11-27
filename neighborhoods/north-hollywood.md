@@ -8,7 +8,7 @@ The NoHo Arts District and the end of the B Line.
 
 City of LA ZIP 91601, 91602, 91605, 91606 $$ · Moderate
 
-[See North Hollywood homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=north-hollywood) Text Nathaniel
+Get North Hollywood listings What's my North Hollywood home worth?
 
 What it’s like
 
@@ -46,6 +46,10 @@ From above
 - 2 **North Hollywood station** B Line subway and G Line busway.
 - 3 **Lankershim Blvd** Main street through the arts district.
 - 4 **Universal City** One stop south on the B Line.
+
+**Thinking about North Hollywood?** New North Hollywood listings, off-market homes and lenders for any situation. Or a free value on your North Hollywood home.
+
+What's my home worth? Get North Hollywood listings
 
 ## Around North Hollywood
 
@@ -107,11 +111,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -171,19 +175,20 @@ Who is North Hollywood a good fit for?
 
 You want a train, a scene and Valley prices.
 
-Contact
+Free, no obligation
 
-## Looking in North Hollywood?
+## Buying or selling in North Hollywood?
 
-Tell me what you want and your budget. I'll set up your search and send new North Hollywood listings as they hit, including ones that aren't public yet.
+Get new North Hollywood listings as they hit, including ones that aren't public yet, or find out what your North Hollywood home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

@@ -8,7 +8,7 @@ Griffith Park as a backyard and Vermont Avenue for dinner.
 
 City of LA ZIP 90027 $$$$ · Top of market
 
-[See Los Feliz homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=los-feliz) Text Nathaniel
+Get Los Feliz listings What's my Los Feliz home worth?
 
 What it’s like
 
@@ -47,6 +47,10 @@ From above
 - 3 **The Greek Theatre** Outdoor concert venue in the park.
 - 4 **Ennis House** Frank Lloyd Wright's textile-block house on Glendower.
 - 5 **Los Feliz Estates** The hillside streets above Los Feliz Blvd.
+
+**Thinking about Los Feliz?** New Los Feliz listings, off-market homes and lenders for any situation. Or a free value on your Los Feliz home.
+
+What's my home worth? Get Los Feliz listings
 
 Photos
 
@@ -120,11 +124,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -192,19 +196,20 @@ Who is Los Feliz a good fit for?
 
 You want a walkable village and a huge park at your door.
 
-Contact
+Free, no obligation
 
-## Looking in Los Feliz?
+## Buying or selling in Los Feliz?
 
-Tell me what you want and your budget. I'll set up your search and send new Los Feliz listings as they hit, including ones that aren't public yet.
+Get new Los Feliz listings as they hit, including ones that aren't public yet, or find out what your Los Feliz home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
