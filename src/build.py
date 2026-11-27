@@ -51,9 +51,9 @@ PROPS = {
     "fuller": dict(tag="Sold", price="$3.275M", addr="616 N Fuller Ave", area="Fairfax District", rep="Buyer & seller", sold=True,
                    img="fuller.jpg", url="https://www.compass.com/homedetails/616-N-Fuller-Ave-Los-Angeles-CA-90036/2072900371372293281_lid/", page="/homes/616-fuller/"),
     "lanark": dict(tag="Sold", price="$1.155M", addr="18748 Lanark St", area="Reseda", rep="Seller", sold=True,
-                   img="lanark.jpg", url="https://www.compass.com/homedetails/18748-Lanark-St-Los-Angeles-CA-91335/2169982850442083505_lid/"),
+                   img="lanark.jpg", url="https://www.compass.com/homedetails/18748-Lanark-St-Los-Angeles-CA-91335/2169982850442083505_lid/", page="/homes/18748-lanark/"),
     "hartland": dict(tag="Sold", price="$825K", addr="14757 Hartland St", area="Van Nuys", rep="Buyer", sold=True,
-                     img="hartland.jpg", url="https://www.compass.com/homedetails/14757-Hartland-St-Van-Nuys-CA-91405/2115491441809620633_lid/"),
+                     img="hartland.jpg", url="https://www.compass.com/homedetails/14757-Hartland-St-Van-Nuys-CA-91405/2115491441809620633_lid/", page="/homes/14757-hartland/"),
     "glenville": dict(tag="Leased", price="$3,400", per="/mo", addr="1127 Glenville Dr #2", area="Pico-Robertson", rep="Tenant & landlord", sold=True,
                       img="glenville.jpg", url="https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/"),
 }
@@ -1183,6 +1183,114 @@ def page_featured(k):
     return head(title, f["line"], path, ld(ld_) + ld(crumbs_ld([("Home", "/"), ("Listings", "/listings/"), (f["title"], path)])), og=f["poster"].replace("/img/", "")) + body
 
 
+DEAL_PAGES = {
+    "lanark": dict(
+        title="18748 Lanark St", where="Reseda, Los Angeles, CA 91335", zip="91335", status="Sold", price="$1,155,000",
+        kick="Sold &middot; Land play", side="Represented the sellers", img="lanark.jpg", alt="18748 Lanark St in Reseda from the street",
+        aerial="lanark-aerial.jpg", aerial_alt="Drone view of 18748 Lanark St showing the open land behind the house",
+        q="18748 Lanark St, Reseda, CA 91335", ll=(34.217395, -118.541811),
+        stats=[("21,758", "Sq ft lot"), ("300 ft", "Lot depth"), ("7", "Offers"), ("9", "Days to escrow"), ("+15.6%", "Over asking")],
+        line="A half-acre lot in Reseda that I marketed to developers as a land play. Multiple offers came in the first week, and I sold it for $1,155,000, $156,000 over asking.",
+        h2="The play: market the land to builders",
+        body=["18748 Lanark is a 21,758 sq ft lot, 72 feet wide and 300 feet deep, zoned RA-1. A 1928 house sits near the street, and about 150 feet of open land runs behind it. The family had owned it since 1994.",
+              "The value was in the land, so I marketed it as a land play for builders and developers. I flew drone aerials to show the full depth of the lot, pulled the zoning, and put it in front of investors and the agents who work with them.",
+              "It hit the MLS on August 11, 2026 at $999,000. Multiple offers came in the first week, seven by day nine, six of them all cash. On August 20 it went into escrow at $1,200,000.",
+              "The buyer's appraisal came back at $1,108,300. I held the price at $1,155,000, $46,700 above the appraisal, and got my sellers a 29-day stay after closing for $1 in rent. It closed on September 25, 2026."],
+        timeline=[("Aug 11", "Listed at $999,000"), ("First week", "Multiple offers in"), ("Aug 20", "In escrow at $1,200,000 with 7 offers"),
+                  ("Aug 27", "Appraisal at $1,108,300"), ("Sep 8", "Price held at $1,155,000"), ("Sep 25", "Closed at $1,155,000")],
+        ai="Nathaniel Grivas marketed this half-acre Reseda lot to developers as a land play. It drew multiple offers in the first week and seven by day nine, went into escrow on day nine, and sold for $1,155,000, $156,000 over the $999,000 asking price and $46,700 above the appraisal. Closed September 25, 2026.",
+        review=0,
+        cta=("Own a lot builders would want?", "Send me the address. I'll pull the zoning and the land comps and tell you what a developer would pay.", "sell"),
+        credit="Sold by Nathaniel Grivas of The Brodsky Group at Compass"),
+    "hartland": dict(
+        title="14757 Hartland St", where="Van Nuys, Los Angeles, CA 91405", zip="91405", status="Sold", price="$825,000",
+        kick="Bought &middot; Development play", side="Represented the buyer", img="hartland.jpg", alt="14757 Hartland St in Van Nuys from the street",
+        q="14757 Hartland St, Van Nuys, CA 91405", ll=(34.195057, -118.455056), sqft="1591",
+        stats=[("7,119", "Sq ft corner lot"), ("1,591", "Sq ft house"), ("5", "Days to contract"), ("$31K", "Cut in escrow"), ("2", "ADUs planned")],
+        line="A corner-lot development play in Van Nuys for my buyer: remodel the house, add two ADUs in the back and rent them out. I won it in multiple offers, then cut $31,000 off the price in escrow.",
+        h2="The play: remodel, add two ADUs, rent",
+        body=["My buyer wanted a Valley corner lot with room to build. 14757 Hartland hit the MLS on May 28, 2026 at $825,000: a 1954 three-bedroom, two-bath house with 1,591 sq ft on a 7,119 sq ft corner lot at the start of a cul-de-sac.",
+              "The plan is to remodel the front house, add two ADUs in the back and rent them out. The corner lot and the position of the garage leave room behind the house for both units.",
+              "The seller had multiple offers. We came in all cash and went into contract on June 2, five days after it listed, at $856,000.",
+              "The seller's terms said no repairs and no credits. Our inspections found sewer, foundation, termite and chimney work, so I priced every item from the reports and took it back to the seller. A week into escrow the price came down to $825,000, $31,000 less. It closed on July 13, 2026."],
+        timeline=[("May 28", "Listed at $825,000"), ("Jun 2", "In contract at $856,000 after multiple offers"),
+                  ("Jun 9", "Price cut to $825,000 in escrow"), ("Jul 13", "Closed at $825,000")],
+        ai="Nathaniel Grivas represented an investor buyer on this Van Nuys corner lot, bought to remodel the house and add two ADUs in the back to rent out. He won it in a multiple-offer situation five days after it listed, then negotiated the price from $856,000 down to $825,000 in escrow using the inspection reports. Closed July 13, 2026.",
+        review=None,
+        cta=("Looking for a deal like this?", "Tell me the area, the budget and the plan. I'll send you lots and fixers that pencil, including ones before they hit the market.", "buy"),
+        credit="Buyer represented by Nathaniel Grivas of The Brodsky Group at Compass"),
+}
+
+
+def deal_sat(d):
+    src = f"https://www.google.com/maps/embed?origin=mfe&pb=!1m4!2m1!1s{quote_plus(d['q'])}!5e1!6i18"
+    return (f'<div class="sat deal-sat" data-sat="{e(src)}">{aerial(*d["ll"], z=16, cols=5, rows=4, ts=256, label="Aerial view of " + d["title"])}'
+            f'<noscript><iframe src="{e(src)}" title="Satellite map of {e(d["title"])}" loading="lazy"></iframe></noscript></div>')
+
+
+def page_deal(k):
+    d = DEAL_PAGES[k]
+    path = PROPS[k]["page"]
+    stats = "".join(f'<div><b>{e(v)}</b><span>{e(l)}</span></div>' for v, l in d["stats"])
+    body_p = "".join(f"<p>{e(x)}</p>" for x in d["body"])
+    tl = "".join(f'<li><b>{e(a)}</b><span>{e(b)}</span></li>' for a, b in d["timeline"])
+    gmaps = f"https://www.google.com/maps/search/?api=1&query={quote_plus(d['q'])}"
+    photo2 = ""
+    if d.get("aerial"):
+        photo2 = f'<figure class="deal-fig"><img src="/img/{d["aerial"]}" alt="{e(d["aerial_alt"])}" loading="lazy" width="1400" height="788"><figcaption>{e(d["aerial_alt"])}. Drone photo from the listing.</figcaption></figure>'
+    rv = ""
+    if d.get("review") is not None:
+        r_ = v8.REVIEWS[d["review"]]
+        rv = (f'<section class="band rv"><div class="wrap narrow"><div class="rv-head"><div><p class="kick">From this sale</p><h2>What my sellers said</h2></div>'
+              f'<a class="rv-score" href="{GBP_URL}" target="_blank" rel="noopener"><b>{v8.RATING}</b><span>{stars()}<small>Read it on Google &#8599;</small></span></a></div>'
+              f'<div class="rv-grid one">{v8.review_card(r_, True)}</div></div></section>')
+    else:
+        rv = reviews_band(False, "What clients say")
+    more = "".join(prop_card(x, "/") for x in SOLD if x != k)
+    h_, s_, pre = d["cta"]
+    body = f"""{nav(path, "listings")}
+<main>
+<section class="home-top"><div class="wrap">
+<nav class="crumbs" aria-label="Breadcrumb"><a href="/listings/">Listings</a> / <span>{e(d["title"])}</span></nav>
+<div class="ht-grid">
+<div class="ht-film deal-hero"><img src="/img/{d["img"]}" alt="{e(d["alt"])}" width="960" height="720" fetchpriority="high"></div>
+<div class="ht-copy">
+<p class="kick">{d["kick"]} &middot; {e(d["where"].split(",")[0])}</p>
+<h1>{e(d["title"])}</h1>
+<p class="ht-where">{e(d["where"])} &middot; {e(d["side"])}</p>
+<p class="ht-price">Sold for {e(d["price"])}</p>
+<div class="ht-stats">{stats}</div>
+<p class="ht-line">{e(d["line"])}</p>
+<div class="lh-cta"><button type="button" class="btn lux solid" data-msg>Ask about this deal</button><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div>
+<div class="lh-cta"><a class="btn lux" href="{PROPS[k]["url"]}" rel="noopener">View on Compass &#8599;</a></div>
+<p class="ht-credit">{e(d["credit"])}</p>
+</div></div></div></section>
+<section class="band lux-band"><div class="wrap deal-grid">
+<div class="ht-body"><p class="kick">How it went</p><h2 class="deal-h">{e(d["h2"])}</h2>{body_p}</div>
+<aside class="deal-tl"><p class="kick">Timeline</p><ol>{tl}</ol></aside>
+</div></section>
+<section class="band lux-band"><div class="wrap">
+<div class="lux-head"><p class="kick">From above</p><h2>The lot</h2></div>
+<div class="deal-media{" two" if photo2 else ""}">{photo2}<div>{deal_sat(d)}<p class="deal-cap">Satellite view. <a href="{gmaps}" target="_blank" rel="noopener">Open in Google Maps &#8599;</a></p></div></div>
+</div></section>
+{rv}
+<section class="band"><div class="wrap"><div class="head"><div><p class="eyebrow">Track record</p><h2 class="h2">More closed deals</h2></div></div>
+<div class="grid">{more}</div></div></section>
+{contact_band("/", h_, s_, pre, "", "Website lead: " + d["title"] + " (sold)", form=True)}
+</main>
+{foot(path)}"""
+    ld_ = {"@context": "https://schema.org", "@type": "SingleFamilyResidence", "name": d["title"], "url": SITE + path,
+           "address": {"@type": "PostalAddress", "streetAddress": d["title"], "addressLocality": d["where"].split(",")[0],
+                       "addressRegion": "CA", "postalCode": d["zip"], "addressCountry": "US"},
+           "image": SITE + "/img/" + d["img"], "description": d["line"]}
+    if d.get("ll"):
+        ld_["geo"] = {"@type": "GeoCoordinates", "latitude": d["ll"][0], "longitude": d["ll"][1]}
+    if d.get("sqft"):
+        ld_["floorSize"] = {"@type": "QuantitativeValue", "value": d["sqft"], "unitCode": "FTK"}
+    title = f'{d["title"]}, {d["where"].split(",")[0]} | Sold {d["price"]} | Nathaniel Grivas'
+    return head(title, d["line"], path, ld(ld_) + ld(crumbs_ld([("Home", "/"), ("Listings", "/listings/"), (d["title"], path)])), og=d["img"]) + body
+
+
 def page_listings():
     path = "/listings/"
     r = rel(path)
@@ -1583,7 +1691,7 @@ def page_journal_day(j, newer, older):
 <section class="band lux-band"><div class="wrap"><div class="gend">
 <div><p class="kick">Where to go</p><h2>The LA Guide</h2><p>The best restaurants, coffee, bars and things to do in {len(GUIDES)} neighborhoods, updated as places open and close.</p>
 <div class="lh-cta"><a class="btn lux solid" href="/guide/">Browse the guide</a><a class="btn lux" href="/journal/">All journal entries</a></div></div>
-<div><p class="kick">Buying or selling?</p><h2>Talk to Nate</h2><p>West LA, Beverly Hills and the Valley. Call or text {PHONE}.</p>
+<div><p class="kick">Buying or selling?</p><h2>Talk to Nathaniel</h2><p>West LA, Beverly Hills and the Valley. Call or text {PHONE}.</p>
 <div class="lh-cta"><a class="btn lux solid" href="tel:{TEL}">Call {PHONE}</a><a class="btn lux" href="/neighborhoods/">Explore neighborhoods</a></div></div>
 </div></div></section>
 </main>
@@ -1633,6 +1741,7 @@ def main():
         "/tools/rent-vs-buy/": page_rvb(), "/tools/compare/": page_compare(), "/tools/la-rules/": page_rules(),
         "/listings/": page_listings(), "/about/": page_about(), "/guide/": page_guide(posts), "/privacy/": page_privacy(),
         "/homes/3721-evans/": page_featured("evans"), "/homes/616-fuller/": page_featured("fuller"),
+        "/homes/18748-lanark/": page_deal("lanark"), "/homes/14757-hartland/": page_deal("hartland"),
     }
     for h in HOODS:
         pages[f"/neighborhoods/{h['slug']}/"] = page_hood(h, posts)
@@ -1755,7 +1864,7 @@ def text_twins(pages, posts):
 
 
 def llms_full(posts, mds):
-    keep = ["/", "/about/", "/listings/", "/homes/3721-evans/", "/homes/616-fuller/", "/neighborhoods/"] + \
+    keep = ["/", "/about/", "/listings/", "/homes/3721-evans/", "/homes/616-fuller/", "/homes/18748-lanark/", "/homes/14757-hartland/", "/neighborhoods/"] + \
            [f"/neighborhoods/{h['slug']}/" for h in ORDER] + [f"/guide/{p['slug']}/" for p in posts]
     parts = [llms_txt(posts), "\n\n# Full text of the main pages\n"]
     for u in keep:
@@ -1830,7 +1939,7 @@ def llms_txt(posts):
     for k in ACTIVE + SOLD:
         p_ = PROPS[k]
         rep_ = f", represented the {p_['rep'].lower()}" if p_.get("rep") else ""
-        lines.append(f"- [{p_['addr']}, {p_['area']}]({SITE + p_['page'] if p_.get('page') else p_.get('site') or p_['url']}): {p_['tag']}, {p_['price']}{p_.get('per', '')}{rep_}" + (" (video tour on the page)" if p_.get("page") else ""))
+        lines.append(f"- [{p_['addr']}, {p_['area']}]({SITE + p_['page'] if p_.get('page') else p_.get('site') or p_['url']}): {p_['tag']}, {p_['price']}{p_.get('per', '')}{rep_}" + (" (video tour on the page)" if k in FEATURED else (f". {DEAL_PAGES[k]['ai']}" if k in DEAL_PAGES else "")))
     lines += ["", "## Neighborhoods he works in (each page: satellite map, photos, places, rules, FAQ)", ""]
     lines += [f"- [{h['name']}]({SITE}/neighborhoods/{h['slug']}/): {h['line']} {CITIES[h['city']]['label']}, ZIP {h['zips']}." for h in ORDER]
     lines += ["", "## The LA Guide: where to eat, drink and go (by neighborhood)", ""]

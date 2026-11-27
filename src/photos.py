@@ -43,7 +43,7 @@ PHOTOS = {
     "silver-lake": [
         ("1742397391825-fc342c6b2bc1", "Silver Lake Reservoir with the hills behind"),
         ("1573241817627-51baa196a50d", "Welcome to Silverlake Sunset Junction sign"),
-        ("/img/edgecliffe.jpg", "1436 Edgecliffe Dr in Silver Lake, Nate's lease listing"),
+        ("/img/edgecliffe.jpg", "1436 Edgecliffe Dr in Silver Lake, Nathaniel's lease listing"),
     ],
     "los-feliz": [
         ("1572975165658-8fba2f1b0b37", "Griffith Observatory above Los Feliz"),
@@ -54,7 +54,7 @@ PHOTOS = {
     ],
     "fairfax": [
         ("1771294225103-6320f1b36231", "The Grove sign on Fairfax"),
-        ("/img/fuller.jpg", "616 N Fuller Ave in the Fairfax District, sold by Nate"),
+        ("/img/fuller.jpg", "616 N Fuller Ave in the Fairfax District, sold by Nathaniel Grivas"),
     ],
     "echo-park": [
         ("1581876842641-2a25722f9fd9", "Echo Park Lake fountain with the downtown skyline"),
@@ -113,16 +113,16 @@ PHOTOS = {
         ("1761010785765-7c9ccb8a44b7", "Vista del Mar above Dockweiler Beach"),
     ],
     "pico-robertson": [
-        ("/img/glenville.jpg", "1127 Glenville Dr in Pico-Robertson, a lease Nate closed"),
+        ("/img/glenville.jpg", "1127 Glenville Dr in Pico-Robertson, a lease Nathaniel closed"),
     ],
     "reseda": [
-        ("/img/lanark.jpg", "18748 Lanark St in Reseda, a home Nate sold"),
+        ("/img/lanark.jpg", "18748 Lanark St in Reseda, sold by Nathaniel Grivas"),
     ],
     "van-nuys": [
-        ("/img/hartland.jpg", "14757 Hartland St in Van Nuys, a home Nate sold"),
+        ("/img/hartland.jpg", "14757 Hartland St in Van Nuys, bought by Nathaniel Grivas's client"),
     ],
     "encino": [
-        ("/img/zelzah.jpg", "5142 Zelzah Ave #26 in Encino, Nate's listing"),
+        ("/img/zelzah.jpg", "5142 Zelzah Ave #26 in Encino, Nathaniel's listing"),
     ],
 }
 
