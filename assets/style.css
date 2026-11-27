@@ -2104,6 +2104,12 @@ textarea.lf-in{padding:14px 16px;min-height:110px;resize:vertical;line-height:1.
 .nb-map.nb-map-in{background:none;border:0;margin:6px 0 22px}
 @media(max-width:700px){.nb-hdeal{right:12px;left:12px;bottom:12px;font-size:12px}}
 /* v15 rent page */
-.grid.g2{grid-template-columns:repeat(2,minmax(0,1fr));max-width:820px}
+.grid.g2{grid-template-columns:repeat(2,minmax(0,1fr))}
 @media(max-width:600px){.grid.g2{grid-template-columns:minmax(0,1fr)}}
 .ngd-paths a:nth-child(3){grid-column:1/-1}
+/* v15 header fit with 8 nav items */
+.top .btn{flex:none}
+@media(max-width:1400px) and (min-width:941px){.top .btn.ghost{display:none}}
+@media(max-width:1300px) and (min-width:941px){.nav a{padding:10px 6px;letter-spacing:.07em}.top .searchbtn{display:none}}
+@media(max-width:1120px) and (min-width:941px){.nav a{font-size:10.5px;letter-spacing:.04em;padding:10px 5px}.brand .wm{font-size:17px;letter-spacing:.12em}}
+@media(max-width:1060px) and (min-width:941px){.nav a[href^="/news"]{display:none}}
