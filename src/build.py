@@ -297,7 +297,7 @@ FEATURED = {
         body=["Architectural sophistication meets warm, organic design in this brand-new modern compound in the heart of Los Feliz. A five-bedroom main residence pairs with a fully independent three-bedroom ADU, and each home is crowned by its own rooftop lounge with panoramic hillside and mountain views.",
               "The great room opens to a view balcony and a chef's kitchen built around a fluted-wood island with Thermador appliances. Upstairs, the primary suite has its own balcony, a sitting area, a custom walk-in closet and a spa-style bath with a freestanding soaking tub. Downstairs, a game room with a wet bar, a theatre and a second primary suite open to a private, hedge-lined backyard.",
               "The rooftop over the main house has a covered outdoor kitchen, a stone fire pit, built-in lounge seating and room to add a spa. The ADU has its own entrance, full kitchen, two balconies and a rooftop deck, so it works for guests, family, an office or rental income. Minutes from Los Feliz Village, Griffith Park, Sunset Junction and Silver Lake."],
-        poster="/img/evans/p01.jpg", loop="/img/evans/loop.mp4", loop_poster="/img/evans/loop.jpg",
+        poster="/img/evans/p01.jpg", loop="/img/evans/loop.mp4", loop_poster="/img/evans/loop-800.jpg",
         film="https://3721evans.com/media/film.mp4", film_len="1:22",
         site="https://3721evans.com/", compass="https://www.compass.com/homedetails/3721-Evans-St-W-Los-Angeles-CA-90027/1K38M8_pid/",
         credit="Listed by The Brodsky Group at Compass"),
@@ -716,7 +716,7 @@ def page_home(posts):
 <form class="fh-addr" action="/home-value/" method="get" role="search" aria-label="Get your home value"><label class="sr" for="fh-a">Your home address</label><input id="fh-a" name="addr" autocomplete="street-address" placeholder="Enter your address" required><button class="btn lux solid" type="submit">What's it worth?</button></form>
 <div class="lh-cta fh-alt"><a class="btn lux" href="/buy/">Find me a home</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div>
 {trust_row("fh-trust")}
-<figure class="fh-team"><img src="/img/team-1200.jpg" srcset="/img/team-1200.jpg 1200w, /img/team.jpg 2000w" sizes="(max-width:860px) 92vw, 46vw" alt="The Brodsky Group team at Compass Beverly Hills" width="1200" height="800" loading="lazy" decoding="async">
+<figure class="fh-team"><img src="/img/team-1200.jpg" srcset="/img/team-800.jpg 800w, /img/team-1200.jpg 1200w, /img/team.jpg 2000w" sizes="(max-width:860px) 92vw, 46vw" alt="The Brodsky Group team at Compass Beverly Hills" width="1200" height="800" loading="lazy" decoding="async">
 <figcaption><span><b>The Brodsky Group</b> &middot; Compass Beverly Hills</span><a href="/about/">Meet the team &rarr;</a></figcaption></figure>
 </div>
 </section>

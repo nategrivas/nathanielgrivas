@@ -1,5 +1,6 @@
 /img/edgecliffe.jpg
 /img/evans.jpg
+/img/evans/loop-800.jpg
 /img/evans/loop.jpg
 /img/evans/p01.jpg
 /img/evans/p02.jpg
@@ -27,5 +28,6 @@
 /img/nate.jpg
 /img/team-1200.jpg
 /img/team-2.jpg
+/img/team-800.jpg
 /img/team.jpg
 /img/zelzah.jpg
