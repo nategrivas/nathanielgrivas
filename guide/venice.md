@@ -318,6 +318,10 @@ A candlelit bungalow on Main Street. Critics recommend it more for the romance a
 
 Wine bars Dinner
 
+**Love Venice? Live here.** Get new Venice listings, including off-market ones, or a free value on your Venice home.
+
+What's my home worth? Get Venice listings
+
 Drink
 
 ### Cocktail bars
@@ -632,7 +636,7 @@ Thinking about living here?
 
 Tell me what you're after and I'll send new Venice listings as they hit the market.
 
-[Get Venice listings](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=venice) [The Venice neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/venice)
+Get Venice listings [The Venice neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/venice)
 
 More guides
 
@@ -649,6 +653,21 @@ Sources
 - [Foursquare: Venice tips and ratings](https://foursquare.com/top-places/venice-los-angeles/best-places-trendy)
 - [Hotel Erwin: Venice coffee guide](https://www.hotelerwin.com/venice-beach-coffee-shops/)
 - [Secret LA: Best breakfasts in LA](https://secretlosangeles.com/best-breakfasts-los-angeles/)
+
+Free, no obligation
+
+## Living in Venice?
+
+Get new Venice listings as they hit, including off-market ones, or find out what your home is worth.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

@@ -276,6 +276,10 @@ A playful omakase with excellent nigiri. Plan on about $295 a person.
 
 Date night
 
+**Love Santa Monica? Live here.** Get new Santa Monica listings, including off-market ones, or a free value on your Santa Monica home.
+
+What's my home worth? Get Santa Monica listings
+
 Drink
 
 ### Cocktail bars
@@ -626,7 +630,7 @@ Thinking about living here?
 
 Tell me what you're after and I'll send new Santa Monica listings as they hit the market.
 
-[Get Santa Monica listings](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=santa-monica) [The Santa Monica neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/santa-monica)
+Get Santa Monica listings [The Santa Monica neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/santa-monica)
 
 More guides
 
@@ -639,6 +643,21 @@ Sources
 - [Time Out: Things to do in Santa Monica](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
 - [Santa Monica Travel & Tourism: Bars](https://www.santamonica.com/nightlife/guide-to-santa-monica-bars/)
 - [Fodor's: Santa Monica restaurants](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/santa-monica-and-the-beaches/santa-monica/restaurants)
+
+Free, no obligation
+
+## Living in Santa Monica?
+
+Get new Santa Monica listings as they hit, including off-market ones, or find out what your home is worth.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

@@ -260,6 +260,10 @@ The glamorous oceanfront flagship.
 
 Dinner Date night
 
+**Love Malibu? Live here.** Get new Malibu listings, including off-market ones, or a free value on your Malibu home.
+
+What's my home worth? Get Malibu listings
+
 Drink
 
 ### Wine bars
@@ -388,7 +392,7 @@ Thinking about living here?
 
 Tell me what you're after and I'll send new Malibu listings as they hit the market.
 
-[Get Malibu listings](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=malibu) [The Malibu neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/malibu)
+Get Malibu listings [The Malibu neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/malibu)
 
 More guides
 
@@ -400,6 +404,21 @@ Sources
 - [LAist: Fire-affected restaurants open and closed in Malibu and the Palisades](https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
 - [Getty: Building Getty's Future](https://www.getty.edu/about/building-gettys-future/)
+
+Free, no obligation
+
+## Living in Malibu?
+
+Get new Malibu listings as they hit, including off-market ones, or find out what your home is worth.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

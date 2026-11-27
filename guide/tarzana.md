@@ -108,13 +108,17 @@ A busy neighborhood sushi bar with an all-you-can-eat option.
 
 Dinner
 
+**Love Tarzana? Live here.** Get new Tarzana listings, including off-market ones, or a free value on your Tarzana home.
+
+What's my home worth? Get Tarzana listings
+
 Thinking about living here?
 
 ## Homes in Tarzana
 
 Tell me what you're after and I'll send new Tarzana listings as they hit the market.
 
-[Get Tarzana listings](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=tarzana) [The Tarzana neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/tarzana)
+Get Tarzana listings [The Tarzana neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/tarzana)
 
 More guides
 
@@ -124,6 +128,21 @@ Sources
 
 - [OpenTable diner reviews: Tarzana](https://opentable.co.uk/phrase/1366781)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+
+Free, no obligation
+
+## Living in Tarzana?
+
+Get new Tarzana listings as they hit, including off-market ones, or find out what your home is worth.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

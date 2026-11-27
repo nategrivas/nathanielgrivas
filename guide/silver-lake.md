@@ -244,6 +244,10 @@ Polished nigiri next to crowd-pleasing rolls, which makes it work for couples an
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Kenbey+Sushi+4331+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
 
+**Love Silver Lake? Live here.** Get new Silver Lake listings, including off-market ones, or a free value on your Silver Lake home.
+
+What's my home worth? Get Silver Lake listings
+
 Drink
 
 ### Cocktail bars
@@ -448,7 +452,7 @@ Thinking about living here?
 
 Tell me what you're after and I'll send new Silver Lake listings as they hit the market.
 
-[Get Silver Lake listings](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=silver-lake) [The Silver Lake neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/silver-lake)
+Get Silver Lake listings [The Silver Lake neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/silver-lake)
 
 More guides
 
@@ -463,6 +467,21 @@ Sources
 - [Time Out: Silver Lake guide](https://www.timeout.com/los-angeles/silver-lake-guide)
 - [Fodor's: Los Feliz and Eastside bars](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/los-feliz-and-the-eastside/things-to-do/nightlife)
 - [Roadbook: Cocktail bars locals love](https://roadbook.com/los-angeles/city-guide/best-cocktail-bars-los-angeles)
+
+Free, no obligation
+
+## Living in Silver Lake?
+
+Get new Silver Lake listings as they hit, including off-market ones, or find out what your home is worth.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

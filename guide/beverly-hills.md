@@ -254,6 +254,10 @@ An omakase room tucked behind Sugarfish, with two 10-person seatings a night.
 
 Date night
 
+**Love Beverly Hills? Live here.** Get new Beverly Hills listings, including off-market ones, or a free value on your Beverly Hills home.
+
+What's my home worth? Get Beverly Hills listings
+
 Drink
 
 ### Cocktail bars
@@ -396,7 +400,7 @@ Thinking about living here?
 
 Tell me what you're after and I'll send new Beverly Hills listings as they hit the market.
 
-[Get Beverly Hills listings](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=beverly-hills) [The Beverly Hills neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/beverly-hills)
+Get Beverly Hills listings [The Beverly Hills neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/beverly-hills)
 
 More guides
 
@@ -407,6 +411,21 @@ Sources
 - [The Infatuation: Best restaurants in Beverly Hills](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
 - [Time Out: Things to do in Beverly Hills](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
 - [Time Out: Restaurants near Rodeo Drive](https://www.timeout.com/los-angeles/restaurants/rodeo-drive-restaurants)
+
+Free, no obligation
+
+## Living in Beverly Hills?
+
+Get new Beverly Hills listings as they hit, including off-market ones, or find out what your home is worth.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

@@ -316,6 +316,10 @@ A traditional Danish bakery.
 
 Cheap eats
 
+**Love Culver City? Live here.** Get new Culver City listings, including off-market ones, or a free value on your Culver City home.
+
+What's my home worth? Get Culver City listings
+
 Drink
 
 ### Cocktail bars
@@ -518,7 +522,7 @@ Thinking about living here?
 
 Tell me what you're after and I'll send new Culver City listings as they hit the market.
 
-[Get Culver City listings](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=culver-city) [The Culver City neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/culver-city)
+Get Culver City listings [The Culver City neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/culver-city)
 
 More guides
 
@@ -531,6 +535,21 @@ Sources
 - [The Infatuation: Culver City](https://theinfatuation.com/los-angeles/neighborhoods/culver-city)
 - [Time Out: Things to do in Culver City](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
+
+Free, no obligation
+
+## Living in Culver City?
+
+Get new Culver City listings as they hit, including off-market ones, or find out what your home is worth.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

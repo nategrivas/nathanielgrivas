@@ -109,11 +109,20 @@ Mentioned in this post
 
 [Laws & MoneyThe 90210 homes that pay LA's mansion taxBeverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax. November 25, 2026](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la)
 
-## Tell me what you're after
+Free, no obligation
 
-Buying, selling, renting, investing or building. Start here.
+## Let's get you a number, or a home
 
-[Get my home's value](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=sell) Text Call
+Pick one. It takes about a minute, and you'll hear from me today.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

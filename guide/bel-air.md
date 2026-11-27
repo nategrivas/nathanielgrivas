@@ -46,6 +46,10 @@ A garden dining room at the famous hotel, next to the swan pond, with live jazz 
 
 Dinner Brunch Cocktail bars
 
+**Love Bel Air? Live here.** Get new Bel Air listings, including off-market ones, or a free value on your Bel Air home.
+
+What's my home worth? Get Bel Air listings
+
 Do
 
 ### Museums
@@ -70,7 +74,7 @@ Thinking about living here?
 
 Tell me what you're after and I'll send new Bel Air listings as they hit the market.
 
-[Get Bel Air listings](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=bel-air) [The Bel Air neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/bel-air)
+Get Bel Air listings [The Bel Air neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/bel-air)
 
 More guides
 
@@ -79,6 +83,21 @@ More guides
 Sources
 
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
+
+Free, no obligation
+
+## Living in Bel Air?
+
+Get new Bel Air listings as they hit, including off-market ones, or find out what your home is worth.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

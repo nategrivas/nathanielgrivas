@@ -46,6 +46,10 @@ A fast, fresh counter-service spot with plates, salads and a wine list.
 
 Healthy & plant-based Dinner
 
+**Love Playa Vista? Live here.** Get new Playa Vista listings, including off-market ones, or a free value on your Playa Vista home.
+
+What's my home worth? Get Playa Vista listings
+
 Drink
 
 ### Sports bars
@@ -104,7 +108,7 @@ Thinking about living here?
 
 Tell me what you're after and I'll send new Playa Vista listings as they hit the market.
 
-[Get Playa Vista listings](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=playa-vista) [The Playa Vista neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/playa-vista)
+Get Playa Vista listings [The Playa Vista neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/playa-vista)
 
 More guides
 
@@ -114,6 +118,21 @@ Sources
 
 - [The Infatuation: Marina del Rey](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+
+Free, no obligation
+
+## Living in Playa Vista?
+
+Get new Playa Vista listings as they hit, including off-market ones, or find out what your home is worth.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

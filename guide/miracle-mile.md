@@ -90,6 +90,10 @@ An order-at-the-counter Japanese rice bowl spot in a plant-filled space.
 
 Cheap eats
 
+**Love Miracle Mile? Live here.** Get new Miracle Mile listings, including off-market ones, or a free value on your Miracle Mile home.
+
+What's my home worth? Get Miracle Mile listings
+
 Do
 
 ### Museums
@@ -158,7 +162,7 @@ Thinking about living here?
 
 Tell me what you're after and I'll send new Miracle Mile listings as they hit the market.
 
-[Get Miracle Mile listings](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=miracle-mile) [The Miracle Mile neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/miracle-mile)
+Get Miracle Mile listings [The Miracle Mile neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/miracle-mile)
 
 More guides
 
@@ -168,6 +172,21 @@ Sources
 
 - [La Brea Tar Pits](https://tarpits.org/last-chance)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Free, no obligation
+
+## Living in Miracle Mile?
+
+Get new Miracle Mile listings as they hit, including off-market ones, or find out what your home is worth.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

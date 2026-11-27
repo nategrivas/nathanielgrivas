@@ -296,6 +296,10 @@ Sawtelle's oldest boba shop.
 
 Late night
 
+**Love West LA & Sawtelle? Live here.** Get new West LA & Sawtelle listings, including off-market ones, or a free value on your West LA & Sawtelle home.
+
+What's my home worth? Get West LA & Sawtelle listings
+
 Drink
 
 ### Cocktail bars
@@ -398,7 +402,7 @@ Thinking about living here?
 
 Tell me what you're after and I'll send new West LA & Sawtelle listings as they hit the market.
 
-[Get West LA & Sawtelle listings](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=west-la) [The West LA & Sawtelle neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/west-la)
+Get West LA & Sawtelle listings [The West LA & Sawtelle neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/west-la)
 
 More guides
 
@@ -410,6 +414,21 @@ Sources
 - [Discover Los Angeles: A walking tour of Sawtelle Japantown](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
 - [The Infatuation: Sawtelle Japantown](https://theinfatuation.com/los-angeles/neighborhoods/sawtelle-japantown)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+
+Free, no obligation
+
+## Living in West LA & Sawtelle?
+
+Get new West LA & Sawtelle listings as they hit, including off-market ones, or find out what your home is worth.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

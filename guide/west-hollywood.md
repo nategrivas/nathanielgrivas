@@ -508,6 +508,10 @@ Excellent sushi for about half what its famous neighbors charge.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Jinpachi+8711+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-west-hollywood)
 
+**Love West Hollywood? Live here.** Get new West Hollywood listings, including off-market ones, or a free value on your West Hollywood home.
+
+What's my home worth? Get West Hollywood listings
+
 Drink
 
 ### Cocktail bars
@@ -868,7 +872,7 @@ Thinking about living here?
 
 Tell me what you're after and I'll send new West Hollywood listings as they hit the market.
 
-[Get West Hollywood listings](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=west-hollywood) [The West Hollywood neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/west-hollywood)
+Get West Hollywood listings [The West Hollywood neighborhood guide](https://www.nathanielgrivas.com/neighborhoods/west-hollywood)
 
 More guides
 
@@ -888,6 +892,21 @@ Sources
 - [LAist: Nine West Hollywood bars in one night](https://laist.com/news/food/how-to-hit-nine-bars-in-west-hollywood-in-one-night)
 - [The Infatuation: West Hollywood](https://theinfatuation.com/los-angeles/neighborhoods/west-hollywood)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+
+Free, no obligation
+
+## Living in West Hollywood?
+
+Get new West Hollywood listings as they hit, including off-market ones, or find out what your home is worth.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 
