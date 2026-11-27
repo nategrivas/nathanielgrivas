@@ -118,6 +118,18 @@
       return { zone: (n && n.length < 24 && /[A-Z]/.test(n) ? n : a.ZN24_CITY) || '', city: a.CITY || '' };
     } catch (e) { return null; }
   };
+  const useLabel = (r) => {
+    const u = r.use || '';
+    if (/^single/i.test(u)) return 'Single-family home';
+    if (/condo/i.test(u)) return 'Condo';
+    if (/planned unit|townhouse/i.test(u)) return 'Townhome';
+    if (/two units|duplex|double/i.test(u)) return 'Duplex';
+    if (/three units/i.test(u)) return 'Triplex';
+    if (/four units/i.test(u)) return 'Fourplex';
+    if (/five or more|apartment/i.test(u)) return 'Apartment building';
+    if (/vacant/i.test(u)) return 'Vacant land';
+    return u;
+  };
   const typeOf = (r) => {
     const u = (r.use + ' ' + r.useType).toLowerCase();
     if (/vacant/.test(u)) return 'Land or a teardown';
@@ -221,7 +233,7 @@
         const num = (v, u) => (v ? Number(v).toLocaleString() + (u || '') : '');
         body = `<div class="lf-rec"><p class="lf-rec-tag">Auto-filled from public records</p>
 <p class="lf-rec-a"><b>${esc(R.line)}${R.unit ? ' #' + esc(R.unit) : ''}</b><span>${esc(R.city)} ${esc(R.zip)} &middot; APN ${esc(R.ain)}</span></p>
-<dl>${cell('Property', esc(R.use))}${cell('Bedrooms', R.beds)}${cell('Bathrooms', R.baths)}${cell('Living area', num(R.sqft, ' sq ft'))}${cell('Lot', num(R.lot, ' sq ft'))}${cell('Year built', R.year)}${(R.units || 0) > 1 ? cell('Units', R.units) : ''}<div><dt>Zoning</dt><dd data-zone>${z ? esc(z.zone || 'Not listed') : 'Checking&hellip;'}</dd></div></dl>
+<dl>${cell('Property', esc(useLabel(R)))}${cell('Bedrooms', R.beds)}${cell('Bathrooms', R.baths)}${cell('Living area', num(R.sqft, ' sq ft'))}${cell('Lot', num(R.lot, ' sq ft'))}${cell('Year built', R.year)}${(R.units || 0) > 1 ? cell('Units', R.units) : ''}<div><dt>Zoning</dt><dd data-zone>${z ? esc(z.zone || 'Not listed') : 'Checking&hellip;'}</dd></div></dl>
 <p class="lf-rec-i" data-ins>${esc(insight(R))}</p>
 <p class="lf-rec-l"><a href="https://portal.assessor.lacounty.gov/parceldetail/${esc(R.ain)}" target="_blank" rel="noopener">County record &#8599;</a>${/los angeles/i.test(R.city) ? '<a href="https://zimas.lacity.org/" target="_blank" rel="noopener">ZIMAS &#8599;</a>' : ''}</p></div>
 <div class="lf-rec-act"><button type="button" class="btn solid big lf-ok">Yes, that's right</button><button type="button" class="btn big lf-fix">Some of it's off</button></div>`;
