@@ -44,9 +44,9 @@ Track record
 
 [Sold $3.275M616 N Fuller Ave Fairfax DistrictRepresented buyer & seller](https://www.nathanielgrivas.com/homes/616-fuller)
 
-[Sold $1.155M18748 Lanark St ResedaRepresented seller](https://www.compass.com/homedetails/18748-Lanark-St-Los-Angeles-CA-91335/2169982850442083505_lid/)
+[Sold $1.155M18748 Lanark St ResedaRepresented seller](https://www.nathanielgrivas.com/homes/18748-lanark)
 
-[Sold $825K14757 Hartland St Van NuysRepresented buyer](https://www.compass.com/homedetails/14757-Hartland-St-Van-Nuys-CA-91405/2115491441809620633_lid/)
+[Sold $825K14757 Hartland St Van NuysRepresented buyer](https://www.nathanielgrivas.com/homes/14757-hartland)
 
 [Leased $3,400 /mo1127 Glenville Dr #2 Pico-RobertsonRepresented tenant & landlord](https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/)
 
