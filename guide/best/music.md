@@ -1,8 +1,8 @@
-# Best Live music in Los Angeles by Neighborhood | The LA Guide
+# Best Live music in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/music
 
-The LA Guide
+Local LA
 
 # The best live music in Los Angeles
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 1415 Ocean Ave
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 1415 Ocean Ave
 
 A moody basement piano lounge under the Georgian Hotel with a hidden entrance and live singing. Reservations required.
 
@@ -22,27 +22,13 @@ A moody basement piano lounge under the Georgian Hotel with a hidden entrance an
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=The+Georgian+Room+1415+Ocean+Ave+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
 
-Cocktail bars Date night
-
-### The Gaslite
-
-$
-
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 2030 Wilshire Blvd
-
-A loud karaoke dive with a dance floor and free popcorn.
-
-**Order:** Sign up for a song and stay to dance.
-
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Gaslite+2030+Wilshire+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
-
-Late night Dive bars
+Cocktail bars & lounges Date night
 
 ### Townhouse & Del Monte Speakeasy
 
 $$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · 52 Windward Ave
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · 52 Windward Ave
 
 A bar that's more than 100 years old, with a Prohibition-era speakeasy downstairs that books live acts. It gets very loud.
 
@@ -50,7 +36,7 @@ A bar that's more than 100 years old, with a Prohibition-era speakeasy downstair
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Townhouse+%26+Del+Monte+Speakeasy+52+Windward+Ave+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-bars-in-venice)
 
-Cocktail bars Late night
+Cocktail bars & lounges Late night
 
 ### Beverly Hills & the Hills
 
@@ -58,7 +44,7 @@ Cocktail bars Late night
 
 $$
 
-[Bel Air](https://www.nathanielgrivas.com/guide/bel-air) · 2701 N Sepulveda Blvd
+[Bel Air](https://www.nathanielgrivas.com/neighborhoods/bel-air/#eat) · 2701 N Sepulveda Blvd
 
 A cultural center and museum with rotating exhibits, a famous Noah's Ark play space for kids and summer concerts.
 
@@ -72,7 +58,7 @@ Museums Kids & family
 
 $$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 9390 N Santa Monica Blvd
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 9390 N Santa Monica Blvd
 
 A performing arts center in a converted 1933 post office, booking everything from jazz to comedy.
 
@@ -86,7 +72,7 @@ Comedy & theater
 
 $$
 
-[Hollywood Hills](https://www.nathanielgrivas.com/guide/hollywood-hills) · 2580 Cahuenga Blvd E
+[Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills/#eat) · 2580 Cahuenga Blvd E
 
 An intimate 1,200-seat outdoor amphitheater built into the hillside, across the freeway from the Hollywood Bowl.
 
@@ -106,7 +92,7 @@ What's my home worth? Find me a home
 
 $$
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 448 N Fairfax Ave
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 448 N Fairfax Ave
 
 A kitschy Chinese-American spot made for groups, with a small music room.
 
@@ -120,7 +106,7 @@ Dinner
 
 $$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 2301 N Highland Ave
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 2301 N Highland Ave
 
 LA's legendary outdoor amphitheater, where a summer picnic and concert is a rite of passage.
 
@@ -134,7 +120,7 @@ Landmarks & sights
 
 $
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 6000 Santa Monica Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 6000 Santa Monica Blvd
 
 A historic cemetery that hosts summer movie screenings, concerts and morning yoga.
 
@@ -148,7 +134,7 @@ Landmarks & sights Movies
 
 $$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 6126 Hollywood Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 6126 Hollywood Blvd
 
 A great mid-size music hall with a rooftop bar over Hollywood Boulevard.
 
@@ -162,7 +148,7 @@ Rooftops & views
 
 $$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 6215 Sunset Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 6215 Sunset Blvd
 
 A big Art Deco ballroom for touring acts.
 
@@ -174,7 +160,7 @@ A big Art Deco ballroom for touring acts.
 
 $
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 1623 N Cahuenga Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 1623 N Cahuenga Blvd
 
 An intimate room for singer-songwriters.
 
@@ -188,7 +174,7 @@ Date night
 
 Free
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 6200 Hollywood Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 6200 Hollywood Blvd
 
 A huge independent record store with vinyl, CDs and movies, plus free in-store shows.
 
@@ -202,7 +188,7 @@ Shopping
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 9081 Santa Monica Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 9081 Santa Monica Blvd
 
 A small, legendary music room with great sound.
 
@@ -214,7 +200,7 @@ A small, legendary music room with great sound.
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 9009 Sunset Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 9009 Sunset Blvd
 
 A Sunset Strip original with a strong booking calendar. The Rainbow Bar and Grill is next door.
 
@@ -226,7 +212,7 @@ A Sunset Strip original with a strong booking calendar. The Rainbow Bar and Gril
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8901 Sunset Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8901 Sunset Blvd
 
 The club where the Doors were the house band. These days it books rock, punk and metal.
 
@@ -236,13 +222,27 @@ The club where the Doors were the house band. These days it books rock, punk and
 
 Landmarks & sights
 
+### Delilah
+
+$$$$
+
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 7969 Santa Monica Blvd
+
+A Roaring Twenties supper club from the h.wood group, with live music, a grand bar and one of the hardest reservations in LA. Dress up; this is the room people book for the big night.
+
+**Order:** Book weeks out, arrive for dinner and stay for the late set.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Delilah+7969+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [CBS LA](https://www.cbsnews.com/losangeles/news/best-bars-in-west-hollywood) [Visit West Hollywood](https://www.visitwesthollywood.com/nightlife/)
+
+Cocktail bars & lounges Date night
+
 ### Eastside
 
 ### The Echo
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1822 Sunset Blvd
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1822 Sunset Blvd
 
 A small, dark music room where you can get right up to the band.
 
@@ -254,7 +254,7 @@ A small, dark music room where you can get right up to the band.
 
 $$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1760 N Vermont Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 1760 N Vermont Ave
 
 A classic lounge and steakhouse with old-school cocktails and live music.
 
@@ -262,13 +262,13 @@ A classic lounge and steakhouse with old-school cocktails and live music.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=The+Dresden+1760+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
 
-Cocktail bars Dinner
+Cocktail bars & lounges Dinner
 
 ### Greek Theatre
 
 $$$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 2700 N Vermont Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 2700 N Vermont Ave
 
 A 1929 open-air amphitheater in a canyon, and one of the best places in LA to see a summer show.
 
@@ -280,7 +280,7 @@ A 1929 open-air amphitheater in a canyon, and one of the best places in LA to se
 
 $$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 240 Virgil Ave
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 240 Virgil Ave
 
 Fun, inventive takes on Filipino classics, with big portions and live music on weekends.
 
@@ -294,7 +294,7 @@ Dinner
 
 $$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 4212 W Sunset Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 4212 W Sunset Blvd
 
 A doorway on Sunset that opens onto a hidden patio bar, with a little theater for live music and flamenco.
 
@@ -302,7 +302,7 @@ A doorway on Sunset that opens onto a hidden patio bar, with a little theater fo
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=El+Cid+4212+W+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/reviews/el-cid)
 
-Cocktail bars
+Cocktail bars & lounges
 
 ### Valley
 
@@ -310,7 +310,7 @@ Cocktail bars
 
 $$
 
-[North Hollywood](https://www.nathanielgrivas.com/guide/north-hollywood) · 5269 Lankershim Blvd
+[North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood/#eat) · 5269 Lankershim Blvd
 
 A restored 1920s theater in the Arts District hosting plays, musicals and concerts.
 
@@ -324,7 +324,7 @@ Movies
 
 $$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 3787 Cahuenga Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 3787 Cahuenga Blvd
 
 A small, long-running jazz club where the menu is giant stuffed baked potatoes.
 
@@ -338,7 +338,7 @@ Late night
 
 Free
 
-[Woodland Hills](https://www.nathanielgrivas.com/guide/woodland-hills) · 5800 Topanga Canyon Blvd
+[Woodland Hills](https://www.nathanielgrivas.com/neighborhoods/woodland-hills/#eat) · 5800 Topanga Canyon Blvd
 
 A big, shady lawn that hosts free concerts in the summer.
 
@@ -352,7 +352,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

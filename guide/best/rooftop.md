@@ -1,12 +1,12 @@
-# Best Rooftops & views in Los Angeles by Neighborhood | The LA Guide
+# Best Rooftops & views in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/rooftop
 
-The LA Guide
+Local LA
 
 # The best rooftop bars in Los Angeles
 
-14 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+17 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · 13813 Fiji Way
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · 13813 Fiji Way
 
 A touristy spot where the marina view is the reason to go.
 
@@ -22,13 +22,13 @@ A touristy spot where the marina view is the reason to go.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Whiskey+Red%27s+13813+Fiji+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
 
-Cocktail bars
+Cocktail bars & lounges
 
 ### Calabra at Santa Monica Proper
 
 $$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 700 Wilshire Blvd
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 700 Wilshire Blvd
 
 A rooftop with an indoor lounge, a pool patio and private couches. Weekends get loud and dressy.
 
@@ -36,13 +36,13 @@ A rooftop with an indoor lounge, a pool patio and private couches. Weekends get 
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Calabra+at+Santa+Monica+Proper+700+Wilshire+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
 
-Cocktail bars
+Cocktail bars & lounges
 
 ### Élephante
 
 $$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 1332 2nd St
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 1332 2nd St
 
 A buzzy rooftop restaurant and bar with a beach-house look, one of the busiest scenes downtown.
 
@@ -56,7 +56,7 @@ Dinner
 
 $$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · 10 W Washington Blvd
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · 10 W Washington Blvd
 
 A two-story bar steps from the sand with better bar food than it needs to have. Weekends are lively.
 
@@ -64,13 +64,13 @@ A two-story bar steps from the sand with better bar food than it needs to have. 
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Venice+Whaler+10+W+Washington+Blvd+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-bars-in-venice)
 
-Sports bars Dive bars
+Cocktail bars & lounges
 
 ### Kassi at Hotel Erwin
 
 $$$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · 1697 Pacific Ave
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · 1697 Pacific Ave
 
 The rooftop bar a block from the beach, one of the few on this stretch of coast. Reserve for sunset, even as a hotel guest.
 
@@ -78,7 +78,7 @@ The rooftop bar a block from the beach, one of the few on this stretch of coast.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Kassi+at+Hotel+Erwin+1697+Pacific+Ave+Venice+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-venice)
 
-Cocktail bars
+Cocktail bars & lounges
 
 ### Westside
 
@@ -86,7 +86,7 @@ Cocktail bars
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 9355 Culver Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 9355 Culver Blvd
 
 A downtown food hall with a laid-back rooftop bar.
 
@@ -106,7 +106,7 @@ What's my home worth? Find me a home
 
 $$$$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 9388 S Santa Monica Blvd
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 9388 S Santa Monica Blvd
 
 A three-level pasta palace with reliably excellent handmade pasta. The rooftop bar is walk-in only.
 
@@ -116,13 +116,27 @@ A three-level pasta palace with reliably excellent handmade pasta. The rooftop b
 
 Dinner Date night
 
+### The Rooftop at the Waldorf Astoria
+
+$$$$
+
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 9850 Wilshire Blvd
+
+A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
+
+**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+
+Cocktail bars & lounges Date night
+
 ### Central
 
 ### Mother Tongue
 
 $$$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · Hollywood
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · Hollywood
 
 A wellness-minded rooftop restaurant known for its happy hour.
 
@@ -136,7 +150,7 @@ Healthy & plant-based Dinner
 
 $$$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 1999 N Sycamore Ave
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 1999 N Sycamore Ave
 
 A hillside Japanese palace with one of the best views over Hollywood.
 
@@ -150,7 +164,7 @@ Dinner Landmarks & sights
 
 $$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 6126 Hollywood Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 6126 Hollywood Blvd
 
 A great mid-size music hall with a rooftop bar over Hollywood Boulevard.
 
@@ -160,11 +174,25 @@ A great mid-size music hall with a rooftop bar over Hollywood Boulevard.
 
 Live music
 
+### Bar Lis
+
+$$$
+
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 1541 N Wilcox Ave
+
+A French Riviera-style lounge on the roof of the Thompson Hollywood, with a straight view of the Hollywood Sign. Jazz on Tuesdays, a packed dance floor on Saturdays.
+
+**Order:** Come early for sunset, or book ahead on weekends when table minimums kick in.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bar+Lis+1541+N+Wilcox+Ave+Hollywood+Los+Angeles+CA) Sources: [Michelin Guide](https://guide.michelin.com/en/hotels-stays/los-angeles-area/thompson-hollywood-12410) [Time Out](https://www.timeout.com/los-angeles/bars/bar-lis)
+
+Cocktail bars & lounges Date night
+
 ### Merois
 
 $$$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8430 Sunset Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8430 Sunset Blvd
 
 A rooftop Art Deco room with one of the best skyline views on the Strip.
 
@@ -178,7 +206,7 @@ Dinner Date night
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 603 N La Cienega Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 603 N La Cienega Blvd
 
 A rooftop bar with big Hollywood Hills views.
 
@@ -186,21 +214,35 @@ A rooftop bar with big Hollywood Hills views.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=E.P.+%26+L.P.+603+N+La+Cienega+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
 
-Cocktail bars
+Cocktail bars & lounges
 
 ### RH West Hollywood rooftop
 
 Free
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8564 Melrose Ave
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8564 Melrose Ave
 
 A furniture showroom with a rooftop garden and Hollywood Hills views that feels like a secret.
 
-**Order:** Head straight up for the view.
+**Do:** Head straight up for the view.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=RH+West+Hollywood+rooftop+8564+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
 
 Shopping
+
+### White Rabbit Sky Lounge at the Valorian
+
+$$$
+
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8440 Sunset Blvd
+
+The rooftop pool lounge that used to be Skybar, renamed in 2026 when the Mondrian became the Valorian. Day-to-night parties with a view over the whole city.
+
+**Order:** Go for sunset on a Thursday or Friday and dress for it.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=White+Rabbit+Sky+Lounge+at+the+Valorian+8440+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Rooftop Guide](https://www.therooftopguide.com/rooftop-bars-in-los-angeles/white-rabbit-sky-lounge.html) [Visit West Hollywood](https://www.visitwesthollywood.com/nightlife/)
+
+Cocktail bars & lounges
 
 ### Eastside
 
@@ -208,7 +250,7 @@ Shopping
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1542 Sunset Blvd
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1542 Sunset Blvd
 
 An upstairs bar with a lovely patio and some of the best margaritas on the Eastside.
 
@@ -216,13 +258,13 @@ An upstairs bar with a lovely patio and some of the best margaritas on the Easts
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Bar+Flores+1542+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
-Cocktail bars
+Cocktail bars & lounges
 
 Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

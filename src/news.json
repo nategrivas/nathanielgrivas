@@ -1,0 +1,142 @@
+{
+ "updated": "2026-11-26",
+ "week": {
+  "label": "Nov. 20 to 26, 2026",
+  "items": [
+   {
+    "tag": "Courts",
+    "date": "2026-11-20",
+    "h": "Jury convicts Jonathan Rinderknecht of starting the fire that became the Palisades Fire",
+    "t": "A federal jury in Los Angeles found Rinderknecht guilty on two arson counts on Friday, Nov. 20, after a two-week retrial. His first trial ended in a mistrial in June with jurors split 10 to 2 for acquittal. Prosecutors say the New Year's Day 2025 Lachman Fire smoldered underground and reignited as the Palisades Fire on Jan. 7, 2025, which killed 12 people and destroyed thousands of homes.",
+    "hoods": [
+     "pacific-palisades"
+    ],
+    "src": [
+     [
+      "NBC Los Angeles",
+      "https://www.nbclosangeles.com/news/local/palisades-arson-trial-jonathan-rinderknecht/3972494/"
+     ],
+     [
+      "ABC News",
+      "https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631"
+     ],
+     [
+      "KTVU",
+      "https://www.ktvu.com/news/palisade-fire-retrial-jonathan-rinderknecht-guilty"
+     ]
+    ]
+   },
+   {
+    "tag": "Real estate",
+    "date": "2026-11-24",
+    "h": "Netflix buys the Radford Studio Center lot in Studio City for $380 million",
+    "t": "The 55-acre lot drew no bids at a foreclosure auction on Nov. 24 and went back to its Goldman Sachs-led lenders, and Netflix announced its purchase shortly after. The price is about a fifth of the $1.85 billion Hackman Capital paid in 2021. The lot will keep operating as a working studio.",
+    "hoods": [
+     "studio-city"
+    ],
+    "src": [
+     [
+      "ABC7",
+      "https://abc7.com/post/netflix-buys-storied-radford-studio-center-city-380-million-variety-reports/20079872/"
+     ],
+     [
+      "The Real Deal",
+      "https://therealdeal.com/la/2026/11/24/goldman-sachs-officially-takes-over-radford-studio/"
+     ]
+    ]
+   },
+   {
+    "tag": "City Hall",
+    "date": "2026-11-25",
+    "h": "LAPD Chief Jim McDonnell says the mayor-elect hasn't decided whether he stays through the Olympics",
+    "t": "Speaking on Nov. 25, McDonnell said Mayor-elect Nithya Raman has not yet decided whether he will remain chief through the 2028 Olympic and Paralympic Games. Raman takes office on Dec. 14.",
+    "hoods": [],
+    "src": [
+     [
+      "LAist",
+      "https://laist.com/brief/news/politics/lapd-chief-jim-mcdonnell-says-nithya-raman-hasnt-decided-if-shell-replace-him-before-the-olympics"
+     ]
+    ]
+   }
+  ]
+ },
+ "month": {
+  "label": "November 2026",
+  "lead": {
+   "tag": "Election",
+   "date": "2026-11-05",
+   "h": "Nithya Raman is elected mayor of Los Angeles",
+   "t": "City Councilmember Nithya Raman defeated incumbent Mayor Karen Bass in the Nov. 3 runoff. The Associated Press had Raman at 52.1% to Bass's 47.9% as of Nov. 5, when NBC News projected the win. Bass is the first incumbent LA mayor to lose a re-election bid since 2005. Raman takes office on Dec. 14, 2026.",
+   "hoods": [],
+   "src": [
+    [
+     "NBC Los Angeles",
+     "https://www.nbclosangeles.com/elections/los-angeles-mayor-election-results-bass-raman/3965846/"
+    ],
+    [
+     "Daily Bruin",
+     "https://dailybruin.com/2026/11/05/nithya-raman-wins-la-mayoral-race-ousts-incumbent-karen-bass/"
+    ],
+    [
+     "Ballotpedia",
+     "https://news.ballotpedia.org/?p=52526"
+    ]
+   ]
+  },
+  "items": [
+   {
+    "tag": "Election",
+    "date": "2026-11-03",
+    "h": "Xavier Becerra is elected governor of California",
+    "t": "Democrat Xavier Becerra defeated Republican Steve Hilton on Nov. 3 to succeed term-limited Gov. Gavin Newsom. The AP called the race shortly after polls closed. Becerra will be the first Latino elected governor of California.",
+    "hoods": [],
+    "src": [
+     [
+      "KQED",
+      "https://kqed.org/news/12107022/xavier-becerra-wins-california-governors-race"
+     ],
+     [
+      "OPB / Associated Press",
+      "https://www.opb.org/article/2026/11/03/democrat-xavier-becerra-wins-california-governors-race-defeating-republican-steve-hilton/"
+     ]
+    ]
+   },
+   {
+    "tag": "Election",
+    "date": "2026-11-03",
+    "h": "Sheriff Robert Luna wins a second term over Alex Villanueva",
+    "t": "LA County Sheriff Robert Luna defeated his predecessor Alex Villanueva in the Nov. 3 runoff, a rematch of their 2022 race.",
+    "hoods": [],
+    "src": [
+     [
+      "FOX 11",
+      "https://foxla.com/news/robert-luna-la-county-sheriff-re-elected"
+     ],
+     [
+      "Los Angeles Magazine",
+      "https://lamag.com/politics/here-are-the-state-and-local-races-that-have-been-called-so-far/"
+     ]
+    ]
+   },
+   {
+    "tag": "Real estate",
+    "date": "2026-11-15",
+    "h": "Measure TE, a Measure ULA break for Palisades Fire homes, is on track to pass",
+    "t": "Mid-November counts had every Los Angeles city measure on the ballot passing, including Measure TE. It gives a one-time exemption from the Measure ULA transfer tax to homes damaged or destroyed in the Palisades Fire, if the owner of record on Jan. 7, 2025 sells by Jan. 6, 2030. Results become official when the county certifies them.",
+    "hoods": [
+     "pacific-palisades"
+    ],
+    "src": [
+     [
+      "Daily Bruin",
+      "https://dailybruin.com/2026/11/15/la-voters-set-to-approve-all-local-measures-bringing-infrastructure-tax-changes/"
+     ],
+     [
+      "LAist voter guide",
+      "https://laist.com/news/politics/voter-guides/laist-los-angeles-city-voter-game-plan-proposition-te-november-2026-election-guide"
+     ]
+    ]
+   }
+  ]
+ }
+}

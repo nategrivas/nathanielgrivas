@@ -1,4 +1,4 @@
-# Living in Pico-Robertson & Beverlywood, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Pico-Robertson & Beverlywood, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/pico-robertson
 
@@ -51,21 +51,209 @@ From above
 
 What's my home worth? Get Pico-Robertson & Beverlywood listings
 
-## Around Pico-Robertson & Beverlywood
+Local LA
 
-[The full Pico-Robertson & Beverlywood guide: 6 places →](https://www.nathanielgrivas.com/guide/pico-robertson)
+## Where to eat, drink and go in Pico-Robertson & Beverlywood
 
-[Matsuhisa Beverly Hills · 1 mi Nobu Matsuhisa's original on La Cienega.](https://www.google.com/maps/search/?api=1&query=Matsuhisa+Beverly+Hills+CA) [Spago Beverly Hills · 1.5 mi Wolfgang Puck's flagship on Canon Drive.](https://www.google.com/maps/search/?api=1&query=Spago+Beverly+Hills+CA) [Joan's on Third Beverly Grove · 1.5 mi Market and cafe on Third Street.](https://www.google.com/maps/search/?api=1&query=Joan%27s+on+Third+Beverly+Grove+CA) [The Ivy Beverly Grove · 1.5 mi The white picket patio on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Ivy+Beverly+Grove+CA) [Nate 'n Al Beverly Hills · 1.5 mi Deli on Beverly Drive since 1945.](https://www.google.com/maps/search/?api=1&query=Nate+%27n+Al+Beverly+Hills+CA) [Original Farmers Market Fairfax · 2 mi Food stalls at Third and Fairfax since 1934.](https://www.google.com/maps/search/?api=1&query=Original+Farmers+Market+Fairfax+CA)
+See them on the map →
 
-[Tom Bergin's Miracle Mile · 1.5 mi Irish pub on Fairfax since 1936.](https://www.google.com/maps/search/?api=1&query=Tom+Bergin%27s+Miracle+Mile+CA) [The Abbey West Hollywood · 2 mi The anchor of the Rainbow District on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Abbey+West+Hollywood+CA) [The Culver Hotel Culver City · 2.5 mi Lobby bar with live jazz in the 1924 flatiron.](https://www.google.com/maps/search/?api=1&query=The+Culver+Hotel+Culver+City+CA)
+Pico-Robertson centers on the busy crossroads of Pico and Robertson Boulevards just south of Beverly Hills, with LA's biggest cluster of kosher restaurants, bakeries and markets plus a few destination dining rooms.
 
-[Hillcrest Country Club Cheviot Hills · 1.5 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Rancho Park Golf Course Cheviot Hills · 2 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Los Angeles Country Club Holmby Hills · 2 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Wilshire Country Club Hancock Park · 3.5 mi Private club in Hancock Park.](https://www.google.com/maps/search/?api=1&query=Wilshire+Country+Club+Hancock+Park+CA) [Bel-Air Country Club Bel Air · 4 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA)
+12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Academy Museum theaters Miracle Mile · 1.5 mi Film series inside the Academy Museum.](https://www.google.com/maps/search/?api=1&query=Academy+Museum+theaters+Miracle+Mile+CA) [AMC Century City 15 Century City · 2 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA) [Brain Dead Studios Fairfax · 2 mi Indie screenings in the old Silent Movie Theatre.](https://www.google.com/maps/search/?api=1&query=Brain+Dead+Studios+Fairfax+CA) [New Beverly Cinema Beverly Grove · 2.5 mi Quentin Tarantino's repertory house on Beverly.](https://www.google.com/maps/search/?api=1&query=New+Beverly+Cinema+Beverly+Grove+CA) [Laemmle Royal West LA · 3.5 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA) [Regency Village Theatre Westwood · 3.5 mi The 1931 tower theatre and its premieres.](https://www.google.com/maps/search/?api=1&query=Regency+Village+Theatre+Westwood+CA)
+Eat
 
-[Saban Theatre Beverly Hills · under 1 mi Art deco theater on Wilshire.](https://www.google.com/maps/search/?api=1&query=Saban+Theatre+Beverly+Hills+CA) [Petersen Automotive Museum Miracle Mile · 1.5 mi Car museum at Wilshire and Fairfax.](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum+Miracle+Mile+CA) [The Wallis Beverly Hills · 1.5 mi Theater and dance in the old post office.](https://www.google.com/maps/search/?api=1&query=The+Wallis+Beverly+Hills+CA) [LACMA Miracle Mile · 1.5 mi Art museum and Urban Light on Wilshire.](https://www.google.com/maps/search/?api=1&query=LACMA+Miracle+Mile+CA) [La Brea Tar Pits Miracle Mile · 1.5 mi Ice Age fossils still being dug up.](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+Miracle+Mile+CA) [Largo at the Coronet Beverly Grove · 2 mi Comedy and music on La Cienega.](https://www.google.com/maps/search/?api=1&query=Largo+at+the+Coronet+Beverly+Grove+CA)
+### Coffee & breakfast
 
-[Roxbury Park Beverly Hills · 1 mi Playgrounds, courts and lawn.](https://www.google.com/maps/search/?api=1&query=Roxbury+Park+Beverly+Hills+CA) [Cheviot Hills Recreation Center Cheviot Hills · 1.5 mi Pool, tennis and fields.](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+Cheviot+Hills+CA) [Beverly Gardens Park Beverly Hills · 1.5 mi Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA) [Pan Pacific Park Fairfax · 2 mi Park and playground by The Grove.](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+Fairfax+CA) [Baldwin Hills Scenic Overlook Culver City · 2.5 mi Stair climb with a view to the ocean.](https://www.google.com/maps/search/?api=1&query=Baldwin+Hills+Scenic+Overlook+Culver+City+CA) [Greystone Mansion & Gardens Beverly Hills · 3 mi Estate gardens open to the public.](https://www.google.com/maps/search/?api=1&query=Greystone+Mansion+%26+Gardens+Beverly+Hills+CA)
+### Supa Coffee
+
+$
+
+1173 S Robertson Blvd
+
+A small, friendly coffee and boba shop with house-made syrups.
+
+**Order:** A caramel latte or one of the seasonal specials.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Supa+Coffee+1173+S+Robertson+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+
+Coffee
+
+### Lamalo Cafe
+
+$$
+
+8837 W Pico Blvd
+
+A kosher bakery and cafe with excellent croissants, sourdough and beautifully plated breakfasts. Closed Saturdays.
+
+**Order:** The chocolate chip miso cookie and an egg breakfast.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lamalo+Cafe+8837+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+
+Breakfast Bakeries & dessert Lunch
+
+### Neighborhood
+
+$
+
+Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 1.4 mi · 8151 W 3rd St
+
+A small specialty coffee shop with a walk-up window, outdoor seating and its own parking.
+
+**Order:** An iced Americano or a seasonal latte with a cinnamon roll.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Neighborhood+8151+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+
+Coffee
+
+Eat
+
+### Lunch & casual
+
+### Sei Pizza Bar
+
+$$
+
+8781 W Pico Blvd
+
+A small pizza bar with an open kitchen, soft and airy crust, and creative toppings. Tables are hard to get.
+
+**Order:** The funghi or diavola, and save room for the tiramisu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sei+Pizza+Bar+8781+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+
+Pizza Dinner
+
+### Formaggi
+
+$$
+
+8832 W Pico Blvd
+
+A kosher dairy spot for thin-crust sourdough pizza and house-made pasta.
+
+**Order:** A margherita and the arancini.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Formaggi+8832+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+
+Pizza Dinner
+
+### Byrdie's Rotisserie
+
+$
+
+Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 1.4 mi · 8030 W 3rd St
+
+A counter-service rotisserie with great sauces.
+
+**Order:** Chicken with the hot sauce, chimichurri and gochujang aioli.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Byrdie%27s+Rotisserie+8030+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Lunch Cheap eats
+
+**Love Pico-Robertson & Beverlywood? Live here.** Get new Pico-Robertson & Beverlywood listings, including off-market ones, or a free value on your Pico-Robertson & Beverlywood home.
+
+What's my home worth? Get Pico-Robertson & Beverlywood listings
+
+Eat
+
+### Dinner
+
+### Lenny's Casita
+
+$$
+
+8823 W Pico Blvd
+
+A lively kosher Mexican restaurant with inventive cocktails and mocktails.
+
+**Order:** Tacos, the taquitos and a margarita.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lenny%27s+Casita+8823+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+
+Dinner Tacos & Mexican Cocktail bars & lounges
+
+### Lielle
+
+$$$$
+
+9575 W Pico Blvd
+
+A Michelin-recognized restaurant serving a seasonal four-course prix fixe.
+
+**Order:** Book well ahead for a special occasion.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lielle+9575+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Locale](https://localemagazine.com/hottest-new-restaurants-in-los-angeles/) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+
+Date night Dinner
+
+### Regalade
+
+$$
+
+Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 1.4 mi · 8136 W 3rd St
+
+An affordable French neighborhood bistro that fits almost any occasion.
+
+**Order:** Steak frites and the green curry mussels.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Regalade+8136+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Dinner Date night
+
+Drink
+
+### Nightlife
+
+### Polo Lounge at the Beverly Hills Hotel
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.7 mi · 9641 Sunset Blvd
+
+The pink hotel's famous lounge, worth a visit even if you aren't staying.
+
+**Order:** A drink or brunch on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Cocktail bars & lounges Brunch Landmarks & sights
+
+### The Rooftop at the Waldorf Astoria
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.7 mi · 9850 Wilshire Blvd
+
+A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
+
+**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+
+Rooftops & views Cocktail bars & lounges Date night
+
+### Blue Collar
+
+$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.9 mi · 361 S Fairfax Ave
+
+A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
+
+**Order:** Tell them a spirit and a flavor you like.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+Sources
+
+- [Time Out: The best restaurants on the Westside](https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside)
+- [Locale: The hottest new restaurants in LA](https://localemagazine.com/hottest-new-restaurants-in-los-angeles/)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
 
 Track record
 

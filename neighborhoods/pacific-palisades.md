@@ -1,4 +1,4 @@
-# Living in Pacific Palisades, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Pacific Palisades, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/pacific-palisades
 
@@ -52,25 +52,228 @@ From above
 
 What's my home worth? Get Pacific Palisades listings
 
+Local LA
+
+## Where to eat, drink and go in Pacific Palisades
+
+See them on the map →
+
+Pacific Palisades is rebuilding after the January 2025 Palisades Fire. Palisades Village reopened in August 2026 after a $100 million restoration, and a growing list of local restaurants, shops and trails are open again. This guide lists only places confirmed open, and it grows as more return.
+
+13 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Breakfast & lunch
+
+### Palisades Garden Cafe
+
+$
+
+15231 La Cruz Dr
+
+A decades-old breakfast and burger cafe that reopened with a new roof and opens at 6:30 every morning.
+
+**Order:** Breakfast at the counter.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Palisades+Garden+Cafe+15231+La+Cruz+Dr+Pacific+Palisades+Los+Angeles+CA) Sources: [Los Angeles Magazine](https://lamag.com/style/pacific-palisades-small-business-reopenings-august-2026/)
+
+Breakfast Cheap eats
+
+### Porta Via
+
+$$$
+
+1063 N Swarthmore Ave
+
+A polished California restaurant on Swarthmore, freshly reopened with a patio.
+
+**Order:** The tuna tower and the sea bass.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Porta+Via+1063+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+
+Lunch Dinner
+
+### Alphabet Bar and Grill
+
+$$
+
+1033 N Swarthmore Ave
+
+A new neighborhood grill from the h.wood Group that opened with the Village.
+
+**Order:** The burger and the olive cake.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Alphabet+Bar+and+Grill+1033+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Santa Monica Daily Press](https://www.smdp.com/new-neighborhood-grill-to-open-aug-15-in-rebuilding-pacific-palisades.md) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+
+Lunch Dinner Cocktail bars & lounges
+
+Go
+
+### Restaurants & cafes
+
+### Spacca Tutto
+
+$$$$
+
+15255 Palisades Village Ln
+
+Nancy Silverton's new Italian steak and seafood restaurant in Palisades Village.
+
+**Order:** Focaccia di Recco, the branzino and the chocolate chip cookie with soft serve.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Spacca+Tutto+15255+Palisades+Village+Ln+Pacific+Palisades+Los+Angeles+CA) Sources: [Nancy Silverton to open Spacca Tutto at Palisades Village](https://www.yahoo.com/news/articles/la-chef-nancy-silverton-open-195941103.html) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+
+Dinner Date night
+
+### Angelini Ristorante and Bar
+
+$$$
+
+1038 N Swarthmore Ave
+
+An Italian restaurant and bar with indoor and outdoor seating in the Village.
+
+**Order:** The octopus salad and the filet.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Angelini+Ristorante+and+Bar+1038+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+
+Dinner Lunch Date night
+
+### Gladstones
+
+$$$
+
+17300 Pacific Coast Hwy
+
+The classic oceanfront seafood restaurant at Sunset and PCH, open again after the fire.
+
+**Order:** Check current hours, then lunch with an ocean view.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Gladstones+17300+Pacific+Coast+Hwy+Pacific+Palisades+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary)
+
+Seafood Lunch
+
+### Gerry Blanck's Martial Arts Center
+
+$$
+
+542 Palisades Dr
+
+A karate dojo that has taught in the Palisades for more than 40 years and reopened in June 2026.
+
+**Do:** Kids' classes.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Gerry+Blanck%27s+Martial+Arts+Center+542+Palisades+Dr+Pacific+Palisades+Los+Angeles+CA) Sources: [Los Angeles Magazine](https://lamag.com/style/pacific-palisades-small-business-reopenings-august-2026/)
+
+Fitness & outdoor sports Kids & family
+
+### Will Rogers State Historic Park
+
+$
+
+1501 Will Rogers State Park Rd
+
+Will Rogers' old ranch, with a polo field, horses and the Inspiration Point trail's big ocean and city views. Some areas are still being repaired.
+
+**Do:** Hike the loop to Inspiration Point.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Historic+Park+1501+Will+Rogers+State+Park+Rd+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+
+Hikes & nature Parks Landmarks & sights
+
+**Love Pacific Palisades? Live here.** Get new Pacific Palisades listings, including off-market ones, or a free value on your Pacific Palisades home.
+
+What's my home worth? Get Pacific Palisades listings
+
+Do
+
+### Shops, markets & spas
+
+### Palisades Village
+
+$$
+
+15225 Palisades Village Ln
+
+The neighborhood's walkable town square of shops, restaurants and lawns, reopened in August 2026 after a full restoration.
+
+**Do:** Walk the lawns, shop, then lunch on Swarthmore.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Palisades+Village+15225+Palisades+Village+Ln+Pacific+Palisades+Los+Angeles+CA) Sources: [ABC7](https://abc7.com/story/hundreds-gather-grand-reopening-palisades-village-year-half-fire-damage-renovations/19685457/) [Los Angeles Magazine](https://lamag.com/news/palisades-village-re-opens-celebrating-a-sense-of-normalcy-and-resilience/) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+
+Shopping Landmarks & sights Kids & family
+
+### Erewhon Palisades
+
+$$$
+
+Palisades Village
+
+The luxury grocer, back in the Village with its smoothie and hot bars.
+
+**Do:** A smoothie and lunch from the hot bar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Erewhon+Palisades+Palisades+Village+Pacific+Palisades+Los+Angeles+CA) Sources: [Los Angeles Magazine](https://lamag.com/news/palisades-village-re-opens-celebrating-a-sense-of-normalcy-and-resilience/)
+
+Markets Healthy & plant-based
+
+### Loomey's Toys
+
+$$
+
+Palisades Village
+
+A local toy shop that lost its home in the fire and reopened inside Palisades Village.
+
+**Do:** Pick up a gift and support a returning local business.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Loomey%27s+Toys+Palisades+Village+Pacific+Palisades+Los+Angeles+CA) Sources: [ABC7](https://abc7.com/post/rick-carusos-palisades-village-reopen-saturday-more-100-million-renovations/19677362/)
+
+Kids & family Shopping
+
+### Pali Trading Post
+
+$$
+
+15248 Sunset Blvd
+
+An upscale general store with gourmet treats, jewelry and home goods, and a neighborhood hub again.
+
+**Do:** Browse for gifts.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pali+Trading+Post+15248+Sunset+Blvd+Pacific+Palisades+Los+Angeles+CA) Sources: [Los Angeles Magazine](https://lamag.com/style/pacific-palisades-small-business-reopenings-august-2026/)
+
+Shopping
+
+### BOCA
+
+$$
+
+970 Monument St
+
+A longtime beachy clothing boutique with aloha shirts and accessories, saved from the fire and reopened.
+
+**Do:** Shop the aloha shirts.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=BOCA+970+Monument+St+Pacific+Palisades+Los+Angeles+CA) Sources: [Los Angeles Magazine](https://lamag.com/style/pacific-palisades-small-business-reopenings-august-2026/)
+
+Shopping
+
+Sources
+
+- [ABC7: Palisades Village grand reopening](https://abc7.com/story/hundreds-gather-grand-reopening-palisades-village-year-half-fire-damage-renovations/19685457/)
+- [ABC7: Palisades Village reopens this weekend](https://abc7.com/post/rick-carusos-palisades-village-reopen-saturday-more-100-million-renovations/19677362/)
+- [Los Angeles Magazine: Palisades small businesses reopen](https://lamag.com/style/pacific-palisades-small-business-reopenings-august-2026/)
+- [Los Angeles Magazine: Palisades Village reopens](https://lamag.com/news/palisades-village-re-opens-celebrating-a-sense-of-normalcy-and-resilience/)
+- [Santa Monica Daily Press: New neighborhood grill opens in the Palisades](https://www.smdp.com/new-neighborhood-grill-to-open-aug-15-in-rebuilding-pacific-palisades.md)
+- [Nancy Silverton to open Spacca Tutto at Palisades Village](https://www.yahoo.com/news/articles/la-chef-nancy-silverton-open-195941103.html)
+- [LAist: Fire-affected restaurants open and closed in Malibu and the Palisades](https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+
 Photos
 
 ## Pacific Palisades in pictures
-
-## Around Pacific Palisades
-
-[The full Pacific Palisades guide: 13 places →](https://www.nathanielgrivas.com/guide/pacific-palisades)
-
-[Father's Office Santa Monica · 1.5 mi The burger bar on Montana Avenue. No substitutions.](https://www.google.com/maps/search/?api=1&query=Father%27s+Office+Santa+Monica+CA) [Brentwood Country Mart Brentwood · 2.5 mi Red-barn courtyard of cafes and shops on 26th Street.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Mart+Brentwood+CA) [Rustic Canyon Santa Monica · 2.5 mi Farmers market cooking on Wilshire.](https://www.google.com/maps/search/?api=1&query=Rustic+Canyon+Santa+Monica+CA) [Huckleberry Cafe Santa Monica · 2.5 mi Breakfast and pastries on Wilshire.](https://www.google.com/maps/search/?api=1&query=Huckleberry+Cafe+Santa+Monica+CA)
-
-[Chez Jay Santa Monica · 3 mi Peanut-shell steakhouse bar on Ocean Avenue since 1959.](https://www.google.com/maps/search/?api=1&query=Chez+Jay+Santa+Monica+CA) [The Galley Santa Monica · 4 mi Nautical bar on Main Street since 1934.](https://www.google.com/maps/search/?api=1&query=The+Galley+Santa+Monica+CA) [Townhouse & Del Monte Speakeasy Venice · 5 mi Bar upstairs, jazz in the basement, since 1915.](https://www.google.com/maps/search/?api=1&query=Townhouse+%26+Del+Monte+Speakeasy+Venice+CA)
-
-[Riviera Country Club In Pacific Palisades Private. Home of the PGA Tour's Genesis Invitational.](https://www.google.com/maps/search/?api=1&query=Riviera+Country+Club+Pacific+Palisades+CA) [Brentwood Country Club Brentwood · 3 mi Private club in Brentwood.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Club+Brentwood+CA) [Mountaingate Country Club Brentwood · 4 mi Private club above the 405.](https://www.google.com/maps/search/?api=1&query=Mountaingate+Country+Club+Brentwood+CA)
-
-[Aero Theatre Santa Monica · 2 mi American Cinematheque's single screen on Montana.](https://www.google.com/maps/search/?api=1&query=Aero+Theatre+Santa+Monica+CA) [Laemmle Monica Film Center Santa Monica · 3 mi Indie and foreign films downtown.](https://www.google.com/maps/search/?api=1&query=Laemmle+Monica+Film+Center+Santa+Monica+CA)
-
-[Getty Villa In Pacific Palisades Roman villa museum above PCH. Free timed tickets.](https://www.google.com/maps/search/?api=1&query=Getty+Villa+Pacific+Palisades+CA) [Santa Monica Pier Santa Monica · 3 mi Pacific Park rides and summer concerts.](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Pier+Santa+Monica+CA) [Getty Center Brentwood · 3.5 mi Art, gardens and the view. Free entry, paid parking.](https://www.google.com/maps/search/?api=1&query=Getty+Center+Brentwood+CA)
-
-[Will Rogers State Beach In Pacific Palisades Long beach and volleyball off PCH.](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Beach+Pacific+Palisades+CA) [Palisades Park Santa Monica · 2.5 mi Bluff-top park on Ocean Avenue.](https://www.google.com/maps/search/?api=1&query=Palisades+Park+Santa+Monica+CA) [San Vicente Boulevard path Brentwood · 2.5 mi The coral tree median runners use.](https://www.google.com/maps/search/?api=1&query=San+Vicente+Boulevard+path+Brentwood+CA) [Santa Monica State Beach Santa Monica · 3 mi Wide sand on both sides of the pier.](https://www.google.com/maps/search/?api=1&query=Santa+Monica+State+Beach+Santa+Monica+CA)
 
 Living here
 

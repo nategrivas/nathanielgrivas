@@ -10,6 +10,10 @@
   "gm": [
    "Google Maps reviews (local favorites we checked)",
    "https://www.google.com/maps/search/?api=1&query=Studio+City+CA"
+  ],
+  "firefly": [
+   "OpenTable: Firefly Studio City",
+   "https://www.opentable.com/firefly-studio-city"
   ]
  },
  "places": [
@@ -162,8 +166,7 @@
    "n": "Laurel Tavern",
    "c": [
     "bars",
-    "dinner",
-    "sports"
+    "dinner"
    ],
    "a": "11938 Ventura Blvd",
    "p": "$$",
@@ -260,21 +263,6 @@
    ]
   },
   {
-   "n": "Oy Bar",
-   "c": [
-    "dive",
-    "bars",
-    "latenight"
-   ],
-   "a": "12446 Moorpark St",
-   "p": "$$",
-   "w": "A dim neighborhood dive with better food than it needs to have.",
-   "o": "The cheesy burger, or the pastrami quesadilla when it is on.",
-   "s": [
-    "inf"
-   ]
-  },
-  {
    "n": "The Last Canteen",
    "c": [
     "bars",
@@ -315,6 +303,21 @@
    "o": "Go early; the lot fills fast on weekends.",
    "s": [
     "gm"
+   ]
+  },
+  {
+   "n": "Firefly",
+   "c": [
+    "bars",
+    "dinner",
+    "date"
+   ],
+   "a": "11720 Ventura Blvd",
+   "p": "$$$",
+   "w": "A candlelit restaurant and lounge with a library bar and heated patios with fireplaces. The Valley's dress-up night out, busy until late.",
+   "o": "Drinks in the library, then dinner on the patio. Book ahead on weekends.",
+   "s": [
+    "firefly"
    ]
   }
  ]

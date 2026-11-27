@@ -1,4 +1,4 @@
-# Living in Malibu, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Malibu, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/malibu
 
@@ -52,21 +52,382 @@ From above
 
 What's my home worth? Get Malibu listings
 
+Local LA
+
+## Where to eat, drink and go in Malibu
+
+See them on the map →
+
+Malibu is 21 miles of coastline along PCH, from Surfrider Beach and the pier to Zuma, Point Dume and the sea caves at El Matador. The restaurants lean on the views and the seafood, and the Santa Monica Mountains rise right behind the beach.
+
+24 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### Caffe Luxxe Malibu
+
+$$
+
+22333 Pacific Coast Hwy
+
+A well-run espresso bar with a garden patio out back.
+
+**Order:** A latte and an almond croissant in the garden.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Luxxe+Malibu+22333+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+
+Coffee
+
+### Le Cafe Plage
+
+$$
+
+29169 Heathercliff Rd
+
+A busy French-style cafe near Point Dume, popular after a morning hike.
+
+**Order:** A vanilla cold foam latte and the lobster burrito.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Le+Cafe+Plage+29169+Heathercliff+Rd+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+
+Coffee Breakfast Bakeries & dessert
+
+### Lily's Malibu
+
+$
+
+29211 Heathercliff Rd
+
+Oversized breakfast burritos and long lines.
+
+**Order:** Call your order in ahead.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lily%27s+Malibu+29211+Heathercliff+Rd+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Breakfast Tacos & Mexican Cheap eats
+
+### The Country Kitchen
+
+$
+
+21239 Pacific Coast Hwy
+
+A walk-up PCH stand where surfers grab breakfast burritos.
+
+**Order:** The breakfast burrito with bacon.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Country+Kitchen+21239+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Breakfast Cheap eats
+
+### Malibu Farm Pier Cafe
+
+$$
+
+23000 Pacific Coast Hwy
+
+A breezy all-day restaurant at the end of the Malibu Pier.
+
+**Order:** Light salads or fish tacos with the view.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Malibu+Farm+Pier+Cafe+23000+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Brunch Lunch Healthy & plant-based
+
+Eat
+
+### Lunch & casual
+
+### Pita Bu
+
+$
+
+22935 Pacific Coast Hwy
+
+A casual Israeli patio across from Surfrider Beach.
+
+**Order:** The salmon kofta plate.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pita+Bu+22935+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Lunch Cheap eats Healthy & plant-based
+
+### Casita Basqueria
+
+$$
+
+3730 Cross Creek Rd
+
+A tiny Spanish market making sandwiches on imported bread.
+
+**Order:** Go early; the daily sandwiches sell out.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Casita+Basqueria+3730+Cross+Creek+Rd+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Lunch Markets
+
+### Duke's Malibu
+
+$$
+
+21150 Pacific Coast Hwy
+
+A surf-themed oceanfront restaurant with strong margaritas, reopening in stages after fire damage.
+
+**Order:** A mai tai at the window. Check hours before you go.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Duke%27s+Malibu+21150+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants) [LAist](https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary)
+
+Lunch Cocktail bars & lounges
+
+### Paradise Cove Beach Cafe
+
+$$
+
+28128 Pacific Coast Hwy
+
+The only Malibu restaurant actually on the sand. You come for the setting.
+
+**Order:** A cocktail with your feet in the sand.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Paradise+Cove+Beach+Cafe+28128+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Lunch Beaches Cocktail bars & lounges
+
+**Love Malibu? Live here.** Get new Malibu listings, including off-market ones, or a free value on your Malibu home.
+
+What's my home worth? Get Malibu listings
+
+Eat & drink
+
+### Dinner & drinks
+
+### Malibu Seafood
+
+$$
+
+25653 Pacific Coast Hwy
+
+A tiny roadside shack with fresh fish and chips.
+
+**Order:** Fish and chips and a shrimp cocktail on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Malibu+Seafood+25653+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Seafood Lunch Cheap eats
+
+### Broad Street Oyster Company
+
+$$
+
+23359 Pacific Coast Hwy
+
+Counter-service seafood with one of LA's best lobster rolls.
+
+**Order:** The hot buttered lobster roll.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Broad+Street+Oyster+Company+23359+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Seafood Lunch
+
+### Neptune's Net
+
+$$
+
+42505 Pacific Coast Hwy
+
+A retro 1960s-style seafood stop at the far end of Malibu, famous with motorcyclists.
+
+**Order:** Clam chowder or anything fried.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Neptune%27s+Net+42505+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Seafood Cheap eats Landmarks & sights
+
+### Clark's Oyster Bar
+
+$$$
+
+23465 Civic Center Way
+
+An upscale raw bar with martinis.
+
+**Order:** Rockfish ceviche and a martini.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Clark%27s+Oyster+Bar+23465+Civic+Center+Way+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Seafood Dinner Cocktail bars & lounges
+
+### Nobu Malibu
+
+$$$$
+
+22706 Pacific Coast Hwy
+
+The glamorous oceanfront flagship.
+
+**Order:** Rock shrimp tempura and a sunset table.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nobu+Malibu+22706+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Sushi & Japanese Dinner Date night
+
+### Taverna Tony
+
+$$$
+
+23410 Civic Center Way
+
+A lively indoor-outdoor Greek restaurant in the Country Mart.
+
+**Order:** Grilled octopus and a whole branzino.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Taverna+Tony+23410+Civic+Center+Way+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Dinner
+
+### Tra Di Noi
+
+$$$
+
+3835 Cross Creek Rd
+
+A classic white-tablecloth Italian spot since the early 1990s.
+
+**Order:** Jumbo gnocchi with veal ragu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tra+Di+Noi+3835+Cross+Creek+Rd+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Dinner Date night
+
+### Lucky's Malibu
+
+$$$$
+
+3835 Cross Creek Rd
+
+A steakhouse with a lively room and solid food.
+
+**Order:** Start with the shrimp cocktail.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lucky%27s+Malibu+3835+Cross+Creek+Rd+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Dinner
+
+### Rosenthal Wine Bar and Patio
+
+$$
+
+Kanan Dume Rd and W Newton Canyon Rd
+
+A local winery's tasting patio, reopened at a new canyon location after the fire.
+
+**Order:** Weekend afternoons only.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Rosenthal+Wine+Bar+and+Patio+Kanan+Dume+Rd+and+W+Newton+Canyon+Rd+Malibu+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary)
+
+Wine bars
+
+Do
+
+### Things to do
+
+### Getty Villa
+
+Free
+
+17985 Pacific Coast Hwy
+
+The Getty's re-created Roman villa, with Greek and Roman antiquities and gardens above the ocean. Free with a timed reservation.
+
+**Do:** Reserve online and pay for parking; pair it with lunch on PCH. It stays open while the Getty Center closes for renovation in 2027, with some Center paintings on view here.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Getty+Villa+17985+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA) [Getty](https://www.getty.edu/about/building-gettys-future/)
+
+Museums Art & galleries Landmarks & sights
+
+### Malibu Pier and Surfrider Beach
+
+Free
+
+23000 Pacific Coast Hwy
+
+Malibu's historic pier next to the famous point break.
+
+**Do:** Watch the surfers from the pier in the morning.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Malibu+Pier+and+Surfrider+Beach+23000+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+
+Beaches Landmarks & sights Fitness & outdoor sports
+
+### Zuma Beach
+
+$
+
+Zuma Beach
+
+A huge, clean stretch of sand with lifeguards, showers and easy parking right next to the water.
+
+**Do:** A full beach day with kids.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Zuma+Beach+Zuma+Beach+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+
+Beaches Kids & family Fitness & outdoor sports
+
+### Point Dume State Beach
+
+$
+
+6800 Westward Beach Rd
+
+A beach and a short bluff hike with sweeping views, wildflowers in spring and whales in season.
+
+**Do:** Hike the headland at sunset.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Point+Dume+State+Beach+6800+Westward+Beach+Rd+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+
+Beaches Hikes & nature
+
+### El Matador State Beach
+
+$
+
+32350 Pacific Coast Hwy
+
+A dramatic cove of sea stacks, arches and small caves at the bottom of a steep path.
+
+**Do:** Go for sunset, but leave before the lot closes.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Matador+State+Beach+32350+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+
+Beaches Landmarks & sights
+
+### Malibu Creek State Park
+
+$
+
+1925 Las Virgenes Rd
+
+Canyon trails, a rock pool for swimming and the old M*A*S*H filming site.
+
+**Do:** Hike to the M*A*S*H site, about 2.5 miles each way.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Malibu+Creek+State+Park+1925+Las+Virgenes+Rd+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+
+Hikes & nature Parks Kids & family
+
+Sources
+
+- [The Infatuation: Best Malibu restaurants](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
+- [LAist: Fire-affected restaurants open and closed in Malibu and the Palisades](https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+- [Getty: Building Getty's Future](https://www.getty.edu/about/building-gettys-future/)
+
 Photos
 
 ## Malibu in pictures
-
-## Around Malibu
-
-[The full Malibu guide: 24 places →](https://www.nathanielgrivas.com/guide/malibu)
-
-[Geoffrey's Malibu In Malibu Cliffside terrace over the Pacific.](https://www.google.com/maps/search/?api=1&query=Geoffrey%27s+Malibu+Malibu+CA) [Malibu Seafood In Malibu Fish and chips on the patio across from the ocean.](https://www.google.com/maps/search/?api=1&query=Malibu+Seafood+Malibu+CA) [Nobu Malibu In Malibu Sushi on the sand off PCH.](https://www.google.com/maps/search/?api=1&query=Nobu+Malibu+Malibu+CA) [Malibu Farm Pier Cafe In Malibu Breakfast at the end of the Malibu Pier.](https://www.google.com/maps/search/?api=1&query=Malibu+Farm+Pier+Cafe+Malibu+CA) [Neptune's Net In Malibu Seafood shack at the county line. Bikers on weekends.](https://www.google.com/maps/search/?api=1&query=Neptune%27s+Net+Malibu+CA)
-
-[Malibu Golf Club In Malibu Public 18 holes in the mountains above Malibu.](https://www.google.com/maps/search/?api=1&query=Malibu+Golf+Club+Malibu+CA)
-
-[Adamson House In Malibu Tiled 1930 house museum by Surfrider Beach.](https://www.google.com/maps/search/?api=1&query=Adamson+House+Malibu+CA)
-
-[Point Dume In Malibu Headland walk with whale views in winter.](https://www.google.com/maps/search/?api=1&query=Point+Dume+Malibu+CA) [Zuma Beach In Malibu Big, wide Malibu beach with parking.](https://www.google.com/maps/search/?api=1&query=Zuma+Beach+Malibu+CA) [El Matador State Beach In Malibu Sea caves and rock arches down the bluff stairs.](https://www.google.com/maps/search/?api=1&query=El+Matador+State+Beach+Malibu+CA) [Surfrider Beach In Malibu The Malibu point break by the pier.](https://www.google.com/maps/search/?api=1&query=Surfrider+Beach+Malibu+CA)
 
 Living here
 
@@ -128,11 +489,11 @@ Next door
 
 [Coast · $$$$Pacific PalisadesA beach town in the hills, rebuilding after the January 2025 fire.](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades)
 
-The LA Journal
+LA News
 
 ## Malibu in the news
 
-[All journal entries →](https://www.nathanielgrivas.com/journal)
+[All LA news →](https://www.nathanielgrivas.com/news)
 
 Weather
 
@@ -140,7 +501,7 @@ Weather
 
 An extreme high tide of about 8 feet arrived Thursday morning, with a coastal flood advisory for the Malibu coast and LA County beaches through noon and a high surf warning until 9 p.m. Forecasters expect waves of roughly 6 to 11 feet with strong rip currents, and the LA Harbor tied its all-time high-water mark. If you're heading to the beach this weekend, check tide times before parking in beach lots and stay off the rocks and jetties.
 
-[November 26, 2026](https://www.nathanielgrivas.com/journal/2026-11-26) · Neighborhoods: [Malibu](https://www.nathanielgrivas.com/guide/malibu), [Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica), [Venice](https://www.nathanielgrivas.com/guide/venice), [Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey), [Playa del Rey](https://www.nathanielgrivas.com/guide/playa-del-rey) · Sources: [ABC7 live updates](https://abc7.com/live-updates/king-tides-live-updates-socal-coastal-communities-brace-possible-record-breaking-high-surf-flooding-heres-timeline/20070299/), [Yahoo News / ABC7](https://www.yahoo.com/news/weather-news/articles/amtrak-pacific-surfliner-train-suspended-191750201.html)
+[November 26, 2026](https://www.nathanielgrivas.com/journal/2026-11-26) · Neighborhoods: [Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu), [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica), [Venice](https://www.nathanielgrivas.com/neighborhoods/venice), [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey), [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · Sources: [ABC7 live updates](https://abc7.com/live-updates/king-tides-live-updates-socal-coastal-communities-brace-possible-record-breaking-high-surf-flooding-heres-timeline/20070299/), [Yahoo News / ABC7](https://www.yahoo.com/news/weather-news/articles/amtrak-pacific-surfliner-train-suspended-191750201.html)
 
 Questions
 

@@ -1,12 +1,12 @@
-# Best Lunch in Los Angeles by Neighborhood | The LA Guide
+# Best Lunch in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/lunch
 
-The LA Guide
+Local LA
 
 # The best lunch in Los Angeles
 
-141 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+140 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 23000 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 23000 Pacific Coast Hwy
 
 A breezy all-day restaurant at the end of the Malibu Pier.
 
@@ -28,7 +28,7 @@ Brunch Healthy & plant-based
 
 $
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 22935 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 22935 Pacific Coast Hwy
 
 A casual Israeli patio across from Surfrider Beach.
 
@@ -42,7 +42,7 @@ Cheap eats Healthy & plant-based
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 3730 Cross Creek Rd
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 3730 Cross Creek Rd
 
 A tiny Spanish market making sandwiches on imported bread.
 
@@ -56,7 +56,7 @@ Markets
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 25653 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 25653 Pacific Coast Hwy
 
 A tiny roadside shack with fresh fish and chips.
 
@@ -70,7 +70,7 @@ Seafood Cheap eats
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 23359 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 23359 Pacific Coast Hwy
 
 Counter-service seafood with one of LA's best lobster rolls.
 
@@ -84,7 +84,7 @@ Seafood
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 21150 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 21150 Pacific Coast Hwy
 
 A surf-themed oceanfront restaurant with strong margaritas, reopening in stages after fire damage.
 
@@ -92,13 +92,13 @@ A surf-themed oceanfront restaurant with strong margaritas, reopening in stages 
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Duke%27s+Malibu+21150+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants) [LAist](https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary)
 
-Cocktail bars
+Cocktail bars & lounges
 
 ### Paradise Cove Beach Cafe
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 28128 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 28128 Pacific Coast Hwy
 
 The only Malibu restaurant actually on the sand. You come for the setting.
 
@@ -106,13 +106,13 @@ The only Malibu restaurant actually on the sand. You come for the setting.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Paradise+Cove+Beach+Cafe+28128+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
 
-Beaches Cocktail bars
+Beaches Cocktail bars & lounges
 
 ### Sugarfish Marina del Rey
 
 $$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · 4722 Admiralty Way
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · 4722 Admiralty Way
 
 Reliable, well-priced sushi sets.
 
@@ -126,7 +126,7 @@ Sushi & Japanese
 
 $$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · Marina del Rey
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · Marina del Rey
 
 A good-at-everything neighborhood restaurant.
 
@@ -140,7 +140,7 @@ Dinner
 
 $$$
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · 1063 N Swarthmore Ave
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · 1063 N Swarthmore Ave
 
 A polished California restaurant on Swarthmore, freshly reopened with a patio.
 
@@ -154,7 +154,7 @@ Dinner
 
 $$$
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · 1038 N Swarthmore Ave
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · 1038 N Swarthmore Ave
 
 An Italian restaurant and bar with indoor and outdoor seating in the Village.
 
@@ -168,7 +168,7 @@ Dinner Date night
 
 $$
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · 1033 N Swarthmore Ave
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · 1033 N Swarthmore Ave
 
 A new neighborhood grill from the h.wood Group that opened with the Village.
 
@@ -176,13 +176,13 @@ A new neighborhood grill from the h.wood Group that opened with the Village.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Alphabet+Bar+and+Grill+1033+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Santa Monica Daily Press](https://www.smdp.com/new-neighborhood-grill-to-open-aug-15-in-rebuilding-pacific-palisades.md) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
-Dinner Cocktail bars
+Dinner Cocktail bars & lounges
 
 ### Gladstones
 
 $$$
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · 17300 Pacific Coast Hwy
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · 17300 Pacific Coast Hwy
 
 The classic oceanfront seafood restaurant at Sunset and PCH, open again after the fire.
 
@@ -196,7 +196,7 @@ Seafood
 
 $$
 
-[Playa del Rey](https://www.nathanielgrivas.com/guide/playa-del-rey) · 333 Culver Blvd
+[Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey/#eat) · 333 Culver Blvd
 
 A family-run Mexican restaurant cooking everything from scratch.
 
@@ -210,7 +210,7 @@ Breakfast Tacos & Mexican
 
 $$
 
-[Playa Vista](https://www.nathanielgrivas.com/guide/playa-vista) · 12746 W Jefferson Blvd
+[Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista/#eat) · 12746 W Jefferson Blvd
 
 A fast, fresh counter-service spot with plates, salads and a wine list.
 
@@ -224,7 +224,7 @@ Healthy & plant-based Dinner
 
 $
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 1517 Lincoln Blvd
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 1517 Lincoln Blvd
 
 Santa Monica's sandwich institution. Critics, guidebooks and locals all say the same thing: get the Godmother.
 
@@ -238,7 +238,7 @@ Cheap eats
 
 $$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 1518 Montana Ave
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 1518 Montana Ave
 
 Sandwiches on loaves baked fresh every day, somewhere between focaccia and ciabatta.
 
@@ -250,7 +250,7 @@ Sandwiches on loaves baked fresh every day, somewhere between focaccia and ciaba
 
 $$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 395 Santa Monica Pl
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 395 Santa Monica Pl
 
 The soup dumpling chain, but this one has an ocean view from the third floor of the mall.
 
@@ -264,7 +264,7 @@ Dinner
 
 $$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · 320 Sunset Ave
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · 320 Sunset Ave
 
 A bakery and deli with a big canopied courtyard that critics and locals both treat as a Venice essential. Expect a line and a hunt for a seat.
 
@@ -278,7 +278,7 @@ Breakfast Bakeries & dessert
 
 $
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Rose Ave
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Rose Ave
 
 A mariscos truck where lunch for one is cheap and the ceviche and cocteles are the reason people line up.
 
@@ -292,7 +292,7 @@ Tacos & Mexican Seafood
 
 $
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Rose Ave, next to American Beauty
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Rose Ave, next to American Beauty
 
 A roadside-style burger window that's quick, cheap and reliable.
 
@@ -300,27 +300,13 @@ A roadside-style burger window that's quick, cheap and reliable.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=The+Win-Dow+Rose+Ave%2C+next+to+American+Beauty+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-venice-restaurants)
 
-### Hinano Cafe
-
-$
-
-[Venice](https://www.nathanielgrivas.com/guide/venice) · 15 Washington Blvd
-
-An unpretentious beach dive open since the 1960s, with pool tables and a burger people swear by. Cash only.
-
-**Order:** A burger and a cold beer after the beach.
-
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Hinano+Cafe+15+Washington+Blvd+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-bars-in-venice) [Time Out](https://www.timeout.com/los-angeles/bars/best-venice-bars) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-venice-restaurants)
-
-Dive bars
-
 ### Westside
 
 ### Coral Tree Cafe
 
 $$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 11645 San Vicente Blvd
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 11645 San Vicente Blvd
 
 A big, airy order-at-the-counter cafe with generous portions.
 
@@ -334,7 +320,7 @@ Breakfast Brunch
 
 $$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 11702 Barrington Ct
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 11702 Barrington Ct
 
 The famous LA bakery's Brentwood cafe, good any weekday.
 
@@ -348,7 +334,7 @@ Bakeries & dessert
 
 $$$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 225 26th St
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 225 26th St
 
 The all-day hangout of the Brentwood Country Mart, with a market for picnic supplies.
 
@@ -362,7 +348,7 @@ Brunch Markets
 
 $$
 
-[Century City](https://www.nathanielgrivas.com/guide/century-city) · 1751 Ensley Ave
+[Century City](https://www.nathanielgrivas.com/neighborhoods/century-city/#eat) · 1751 Ensley Ave
 
 A neighborhood bakery cafe with pastries, sandwiches and a small patio off Santa Monica Boulevard.
 
@@ -376,7 +362,7 @@ Breakfast Bakeries & dessert Coffee
 
 $$$
 
-[Century City](https://www.nathanielgrivas.com/guide/century-city) · 10250 Santa Monica Blvd (Westfield Century City)
+[Century City](https://www.nathanielgrivas.com/neighborhoods/century-city/#eat) · 10250 Santa Monica Blvd (Westfield Century City)
 
 A Tuscan trattoria from chef Agostino Sciandri.
 
@@ -390,7 +376,7 @@ Dinner
 
 $$$
 
-[Century City](https://www.nathanielgrivas.com/guide/century-city) · 10 W Century Dr
+[Century City](https://www.nathanielgrivas.com/neighborhoods/century-city/#eat) · 10 W Century Dr
 
 A Japanese-influenced California restaurant tucked under a residential tower, with a leafy patio.
 
@@ -404,7 +390,7 @@ Date night Dinner
 
 $$
 
-[Century City](https://www.nathanielgrivas.com/guide/century-city) · Nordstrom, Westfield Century City
+[Century City](https://www.nathanielgrivas.com/neighborhoods/century-city/#eat) · Nordstrom, Westfield Century City
 
 Nordstrom's in-store restaurant and bar, an easy sit-down break while shopping.
 
@@ -416,7 +402,7 @@ Nordstrom's in-store restaurant and bar, an easy sit-down break while shopping.
 
 $$
 
-[Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/guide/cheviot-hills) · 10571 W Pico Blvd
+[Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills/#eat) · 10571 W Pico Blvd
 
 A friendly neighborhood cafe with an all-day menu and plenty of healthy options.
 
@@ -430,7 +416,7 @@ Breakfast Healthy & plant-based
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 3578 Hayden Ave
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 3578 Hayden Ave
 
 A striking, minimal breakfast and lunch spot in the Hayden Tract with some of the most inventive plates on the Westside.
 
@@ -444,7 +430,7 @@ Breakfast Brunch
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 11918 W Washington Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 11918 W Washington Blvd
 
 An organic whole-grain bakery and cafe with sandwiches, salads and pizza.
 
@@ -458,7 +444,7 @@ Bakeries & dessert Pizza
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 4065 Jackson Ave
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 4065 Jackson Ave
 
 A hidden neighborhood market with great sandwiches and a patio with a koi pond.
 
@@ -470,7 +456,7 @@ A hidden neighborhood market with great sandwiches and a patio with a koi pond.
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 9537 Culver Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 9537 Culver Blvd
 
 Soul food fried chicken cooked in kettles, with biscuits and honey.
 
@@ -484,7 +470,7 @@ Cheap eats
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 10000 Washington Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 10000 Washington Blvd
 
 Fast-casual Mediterranean roast chicken with plenty of vegetarian options.
 
@@ -498,7 +484,7 @@ Healthy & plant-based
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 3280 Helms Ave
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 3280 Helms Ave
 
 Fresh pasta with your choice of sauce, plus wine on the patio.
 
@@ -512,7 +498,7 @@ Dinner
 
 $$$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 9240 Culver Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 9240 Culver Blvd
 
 The neighborhood's best sushi, with lunch specials and room for groups.
 
@@ -526,7 +512,7 @@ Sushi & Japanese
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 10406 Venice Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 10406 Venice Blvd
 
 A strip-mall Kerala restaurant that's one of the Westside's best Indian meals.
 
@@ -540,7 +526,7 @@ Dinner Cheap eats
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 10804 Washington Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 10804 Washington Blvd
 
 A Peruvian bakery and cevicheria with a patio.
 
@@ -554,7 +540,7 @@ Seafood
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 11740 W Washington Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 11740 W Washington Blvd
 
 A decades-old Brazilian institution.
 
@@ -568,7 +554,7 @@ Dinner Cheap eats
 
 $$$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 9300 Culver Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 9300 Culver Blvd
 
 A polished hearth-cooking restaurant downtown, good for a business lunch.
 
@@ -582,7 +568,7 @@ Dinner
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 3973 Sepulveda Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 3973 Sepulveda Blvd
 
 Westside barbecue smoked over peach wood.
 
@@ -596,7 +582,7 @@ Dinner
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 9355 Culver Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 9355 Culver Blvd
 
 A downtown food hall with a laid-back rooftop bar.
 
@@ -610,7 +596,7 @@ Markets Rooftops & views
 
 $$
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 12825 Venice Blvd
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 12825 Venice Blvd
 
 An airy, open-air cafe named after an Australian surf break. Easy lunches by day and a laid-back dinner with happy hour.
 
@@ -624,7 +610,7 @@ Brunch Dinner
 
 $$
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 4532 S Centinela Ave
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 4532 S Centinela Ave
 
 Nayarit-style Mexican seafood that people drive across town for.
 
@@ -638,7 +624,7 @@ Seafood Tacos & Mexican
 
 $
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 3760 S Centinela Ave
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 3760 S Centinela Ave
 
 A Japanese supermarket with a busy food court and a bookstore full of manga and stationery.
 
@@ -652,7 +638,7 @@ Markets Cheap eats
 
 $
 
-[Palms](https://www.nathanielgrivas.com/guide/palms) · 10433 National Blvd #1A
+[Palms](https://www.nathanielgrivas.com/neighborhoods/palms/#eat) · 10433 National Blvd #1A
 
 A busy little sandwich shop where the specialty is banh mi on fresh, soft bread.
 
@@ -666,7 +652,7 @@ Breakfast Cheap eats
 
 $$
 
-[Palms](https://www.nathanielgrivas.com/guide/palms) · 10422 National Blvd
+[Palms](https://www.nathanielgrivas.com/neighborhoods/palms/#eat) · 10422 National Blvd
 
 One of the best ramen shops on the Westside, known for a rich tonkotsu broth. You order on tablets.
 
@@ -680,7 +666,7 @@ Dinner
 
 $$
 
-[Palms](https://www.nathanielgrivas.com/guide/palms) · 10319 Venice Blvd
+[Palms](https://www.nathanielgrivas.com/neighborhoods/palms/#eat) · 10319 Venice Blvd
 
 A longtime LA Cuban restaurant with big plates and a lively dining room.
 
@@ -694,7 +680,7 @@ Dinner
 
 $$
 
-[Pico-Robertson & Beverlywood](https://www.nathanielgrivas.com/guide/pico-robertson) · 8837 W Pico Blvd
+[Pico-Robertson & Beverlywood](https://www.nathanielgrivas.com/neighborhoods/pico-robertson/#eat) · 8837 W Pico Blvd
 
 A kosher bakery and cafe with excellent croissants, sourdough and beautifully plated breakfasts. Closed Saturdays.
 
@@ -708,7 +694,7 @@ Breakfast Bakeries & dessert
 
 $$
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 2057 Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 2057 Sawtelle Blvd
 
 The ramen shop that put Sawtelle on the map, famous for tsukemen dipping noodles in a long-simmered pork broth.
 
@@ -722,7 +708,7 @@ Dinner
 
 $
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 2030 Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 2030 Sawtelle Blvd
 
 Customizable tantanmen noodles with spice levels from zero to six.
 
@@ -736,7 +722,7 @@ Dinner Cheap eats
 
 $
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · Sawtelle Blvd
 
 Cafeteria-style fresh udon with a line of just-fried tempura.
 
@@ -750,7 +736,7 @@ Cheap eats
 
 $$
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 2047 Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 2047 Sawtelle Blvd
 
 Organic buckwheat soba made in many styles, with tempura fried to order.
 
@@ -764,7 +750,7 @@ Healthy & plant-based
 
 $
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 2055 Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 2055 Sawtelle Blvd
 
 Family-run Vietnamese comfort food and a smart backup when Tsujita's line is long.
 
@@ -778,7 +764,7 @@ Cheap eats
 
 $$
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 2049 Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 2049 Sawtelle Blvd
 
 Consistent modern Chinese with excellent soup dumplings.
 
@@ -792,7 +778,7 @@ Dinner
 
 $$
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 1638 Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 1638 Sawtelle Blvd
 
 Stylish Thai street food from a sister-led kitchen, with a Bangkok-inspired mural.
 
@@ -806,7 +792,7 @@ Dinner
 
 $
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · Sawtelle Blvd
 
 Filipino rice and pancit combos, each with pandesal. Open Friday through Sunday.
 
@@ -820,7 +806,7 @@ Cheap eats
 
 $$
 
-[Westchester](https://www.nathanielgrivas.com/guide/westchester) · 6245 W 87th St
+[Westchester](https://www.nathanielgrivas.com/neighborhoods/westchester/#eat) · 6245 W 87th St
 
 A family-owned Thai restaurant that has been a Westside favorite since 2004.
 
@@ -834,7 +820,7 @@ Dinner
 
 $$
 
-[Westchester](https://www.nathanielgrivas.com/guide/westchester) · 6224 W Manchester Ave
+[Westchester](https://www.nathanielgrivas.com/neighborhoods/westchester/#eat) · 6224 W Manchester Ave
 
 A newer Japanese restaurant known for handmade udon and katsu sets.
 
@@ -848,7 +834,7 @@ Dinner
 
 $
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 1388 Westwood Blvd
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 1388 Westwood Blvd
 
 A daytime Persian sandwich classic with a courtyard.
 
@@ -862,7 +848,7 @@ Cheap eats
 
 $
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 1915 Westwood Blvd
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 1915 Westwood Blvd
 
 A counter-service kabob shop with some of the juiciest meat in town.
 
@@ -876,7 +862,7 @@ Cheap eats
 
 $$
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 10861 Lindbrook Dr
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 10861 Lindbrook Dr
 
 A Persian spot in the Village with a sidewalk patio.
 
@@ -890,7 +876,7 @@ Dinner
 
 $
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 1776 Westwood Blvd
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 1776 Westwood Blvd
 
 Quick counter service and some of the best shawarma in LA.
 
@@ -904,7 +890,7 @@ Cheap eats
 
 $$
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 10899 Wilshire Blvd
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 10899 Wilshire Blvd
 
 The Hammer Museum's patio restaurant, with a daily prix-fixe and seasonal plates.
 
@@ -918,7 +904,7 @@ Brunch
 
 $
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 978 Gayley Ave
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 978 Gayley Ave
 
 A Korean walk-up window and one of the best values in the Village.
 
@@ -938,7 +924,7 @@ What's my home worth? Find me a home
 
 $$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 414 N Beverly Dr
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 414 N Beverly Dr
 
 A classic deli with an eclectic, very Beverly Hills crowd.
 
@@ -952,7 +938,7 @@ Breakfast
 
 $$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 9705 S Santa Monica Blvd
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 9705 S Santa Monica Blvd
 
 A fromagerie open for more than 50 years that makes some of the best deli sandwiches in LA.
 
@@ -966,7 +952,7 @@ Markets
 
 $$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 9529 Santa Monica Blvd
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 9529 Santa Monica Blvd
 
 Giant Italian focaccia sandwiches for a fast lunch. Seating is a small sidewalk area.
 
@@ -978,7 +964,7 @@ Giant Italian focaccia sandwiches for a fast lunch. Seating is a small sidewalk 
 
 $
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 9113 W Olympic Blvd
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 9113 W Olympic Blvd
 
 A kosher Israeli counter with big portions and real value for Beverly Hills.
 
@@ -992,7 +978,7 @@ Cheap eats
 
 $$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 111 N La Cienega Blvd
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 111 N La Cienega Blvd
 
 An upscale soba shop with chewy house-made noodles and a rich broth.
 
@@ -1006,7 +992,7 @@ Sushi & Japanese
 
 $$$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 9560 Dayton Way
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 9560 Dayton Way
 
 A showbiz power-lunch classic known for polished, professional service.
 
@@ -1020,7 +1006,7 @@ Dinner
 
 $
 
-[Hollywood Hills](https://www.nathanielgrivas.com/guide/hollywood-hills) · 2108 Laurel Canyon Blvd
+[Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills/#eat) · 2108 Laurel Canyon Blvd
 
 The 1929 Laurel Canyon market linked to the area's 1960s music scene, with a deli counter and a small terrace.
 
@@ -1036,7 +1022,7 @@ Landmarks & sights Shopping
 
 $$
 
-[Beverly Grove](https://www.nathanielgrivas.com/guide/beverly-grove) · 8350 W 3rd St
+[Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#eat) · 8350 W 3rd St
 
 One of LA's original market cafes, with excellent pastries and a deli counter.
 
@@ -1050,7 +1036,7 @@ Breakfast Bakeries & dessert Markets
 
 $
 
-[Beverly Grove](https://www.nathanielgrivas.com/guide/beverly-grove) · 8030 W 3rd St
+[Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#eat) · 8030 W 3rd St
 
 A counter-service rotisserie with great sauces.
 
@@ -1064,7 +1050,7 @@ Cheap eats
 
 $
 
-[Beverly Grove](https://www.nathanielgrivas.com/guide/beverly-grove) · Beverly Grove
+[Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#eat) · Beverly Grove
 
 A small counter with a big menu of excellent Greek staples.
 
@@ -1078,7 +1064,7 @@ Cheap eats
 
 $
 
-[Beverly Grove](https://www.nathanielgrivas.com/guide/beverly-grove) · Beverly Grove
+[Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#eat) · Beverly Grove
 
 A smashburger shop.
 
@@ -1092,7 +1078,7 @@ Cheap eats
 
 $
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 6333 W 3rd St
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 6333 W 3rd St
 
 LA's historic open-air market of food stalls and grocers, open since 1934.
 
@@ -1106,7 +1092,7 @@ Markets Landmarks & sights Kids & family
 
 $
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 6333 W 3rd St
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 6333 W 3rd St
 
 A Farmers Market stall for Singaporean and Indonesian dishes.
 
@@ -1120,7 +1106,7 @@ Cheap eats
 
 $$
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 6333 W 3rd St
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 6333 W 3rd St
 
 A French bistro and gourmet market inside the Farmers Market.
 
@@ -1134,7 +1120,7 @@ Seafood Wine bars
 
 $
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 6333 W 3rd St
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 6333 W 3rd St
 
 A pay-by-weight Brazilian buffet with weekend lines.
 
@@ -1148,7 +1134,7 @@ Cheap eats
 
 $
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 6333 W 3rd St
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 6333 W 3rd St
 
 A tiny Farmers Market counter for very good hand-pulled noodles.
 
@@ -1158,11 +1144,25 @@ A tiny Farmers Market counter for very good hand-pulled noodles.
 
 Cheap eats
 
+### Canter's Deli
+
+$$
+
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 419 N Fairfax Ave
+
+The classic Fairfax deli, open late with great people-watching.
+
+**Order:** Pastrami on rye and a black and white cookie.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Canter%27s+Deli+419+N+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Late night
+
 ### Badmaash
 
 $$
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 418 N Fairfax Ave
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 418 N Fairfax Ave
 
 Fun, untraditional Indian food.
 
@@ -1176,7 +1176,7 @@ Dinner
 
 $$
 
-[Hancock Park & Larchmont](https://www.nathanielgrivas.com/guide/hancock-park) · 223 N Larchmont Blvd
+[Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park/#eat) · 223 N Larchmont Blvd
 
 A wine and cheese shop with a sandwich counter that draws a lunch line. Closed Sundays.
 
@@ -1190,7 +1190,7 @@ Wine bars
 
 $$
 
-[Hancock Park & Larchmont](https://www.nathanielgrivas.com/guide/hancock-park) · 232 N Larchmont Blvd
+[Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park/#eat) · 232 N Larchmont Blvd
 
 A long-running neighborhood Italian restaurant on Larchmont.
 
@@ -1204,7 +1204,7 @@ Dinner
 
 $$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 718 N Highland Ave
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 718 N Highland Ave
 
 Ludo Lefebvre's small, buzzy French bistro.
 
@@ -1218,7 +1218,7 @@ Dinner
 
 $$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 6660 Sunset Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 6660 Sunset Blvd
 
 Southern Thai home cooking from family recipes, with real heat.
 
@@ -1232,7 +1232,7 @@ Dinner Cheap eats
 
 $$
 
-[Miracle Mile](https://www.nathanielgrivas.com/guide/miracle-mile) · 5657 Wilshire Blvd, Suite 150
+[Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile/#eat) · 5657 Wilshire Blvd, Suite 150
 
 A family-owned cafe with good espresso drinks, sandwiches and a small sidewalk patio.
 
@@ -1246,7 +1246,7 @@ Coffee
 
 $
 
-[Miracle Mile](https://www.nathanielgrivas.com/guide/miracle-mile) · 5400 Wilshire Blvd
+[Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile/#eat) · 5400 Wilshire Blvd
 
 A cafeteria-style Italian spot that has fed LA since the 1960s, now in a new home on Wilshire.
 
@@ -1260,7 +1260,7 @@ Cheap eats Dinner
 
 $$
 
-[Miracle Mile](https://www.nathanielgrivas.com/guide/miracle-mile) · 5484 Wilshire Blvd
+[Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile/#eat) · 5484 Wilshire Blvd
 
 An order-at-the-counter Japanese rice bowl spot in a plant-filled space.
 
@@ -1274,7 +1274,7 @@ Cheap eats
 
 $
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8512 Santa Monica Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8512 Santa Monica Blvd
 
 The restored 1946 hot-dog-shaped stand, now with a big mid-century patio. A hidden tiki bar sits behind it.
 
@@ -1288,7 +1288,7 @@ Cheap eats Landmarks & sights
 
 $
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8935 Santa Monica Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8935 Santa Monica Blvd
 
 The Boyle Heights taqueria's WeHo branch, known for slow-cooked braises on fresh handmade tortillas.
 
@@ -1302,7 +1302,7 @@ Tacos & Mexican Cheap eats
 
 $$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8615 Sunset Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8615 Sunset Blvd
 
 A Boston seafood bar on the Strip with a huge tinned-fish menu.
 
@@ -1318,7 +1318,7 @@ Seafood Dinner
 
 $
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 5183 Hollywood Blvd
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 5183 Hollywood Blvd
 
 Despite the name, a no-frills Thai noodle shop that ranks among the best Thai restaurants in LA.
 
@@ -1332,7 +1332,7 @@ Cheap eats
 
 $
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 5136 Hollywood Blvd
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 5136 Hollywood Blvd
 
 A Thai noodle shop built around glazed roast duck.
 
@@ -1346,7 +1346,7 @@ Cheap eats
 
 $
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 5420 Hollywood Blvd
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 5420 Hollywood Blvd
 
 A focused Thai counter for Hainan-style chicken rice.
 
@@ -1360,7 +1360,7 @@ Cheap eats
 
 $
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 5301 Sunset Blvd #11
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 5301 Sunset Blvd #11
 
 A tiny Northern Thai spot in a strip mall, great for a solo lunch.
 
@@ -1374,7 +1374,7 @@ Cheap eats
 
 $$
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 5009 Melrose Ave
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 5009 Melrose Ave
 
 Big Italian-American subs and breakfast sandwiches.
 
@@ -1386,7 +1386,7 @@ Big Italian-American subs and breakfast sandwiches.
 
 $$
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 5003 Melrose Ave
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 5003 Melrose Ave
 
 A Filipino grill whose big trays are built for sharing with a group.
 
@@ -1400,7 +1400,7 @@ Dinner
 
 $
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 850 N Vermont Ave
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 850 N Vermont Ave
 
 A fast-casual Caribbean counter with big flavors.
 
@@ -1414,7 +1414,7 @@ Cheap eats
 
 $$
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 5035 Melrose Ave
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 5035 Melrose Ave
 
 A small seafood cafe: sandwiches by day, a more ambitious menu at night.
 
@@ -1428,7 +1428,7 @@ Seafood Dinner
 
 $
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1665 Echo Park Ave
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1665 Echo Park Ave
 
 A tiny bakery and sandwich shop with a tree-shaded patio, famous for its pies and petit fours.
 
@@ -1442,7 +1442,7 @@ Bakeries & dessert Breakfast
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 343 Glendale Blvd
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 343 Glendale Blvd
 
 A neighborhood American spot that works for a sandwich lunch or a full dinner.
 
@@ -1456,7 +1456,7 @@ Dinner
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1267 W Temple St
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1267 W Temple St
 
 Filipino flavors meet Southern barbecue.
 
@@ -1466,25 +1466,11 @@ Filipino flavors meet Southern barbecue.
 
 Dinner
 
-### Bia Ôm
-
-$$
-
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1250 W Sunset Blvd
-
-A weekends-only German beer garden.
-
-**Order:** A pretzel, sausages and the giant schnitzel.
-
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Bia+%C3%94m+1250+W+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-Echo-Park)
-
-Beer & breweries
-
 ### All Time
 
 $$$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 2040 Hillhurst Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 2040 Hillhurst Ave
 
 A mostly outdoor all-day spot built on seasonal produce. Breakfast is casual; dinner gets lively.
 
@@ -1498,7 +1484,7 @@ Brunch Dinner
 
 $$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1726 N Vermont Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 1726 N Vermont Ave
 
 A charming French sidewalk cafe on Vermont.
 
@@ -1512,7 +1498,7 @@ Brunch
 
 $$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1802 N Vermont Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 1802 N Vermont Ave
 
 A bustling Paris-style bistro with a huge brunch menu and a sidewalk made for lingering.
 
@@ -1526,7 +1512,7 @@ Brunch Bakeries & dessert
 
 $
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1820 N Vermont Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 1820 N Vermont Ave
 
 One of LA's best smashburgers, right next to the Los Feliz 3 for a post-movie bite.
 
@@ -1540,7 +1526,7 @@ Cheap eats
 
 $
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 2056 Hillhurst Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 2056 Hillhurst Ave
 
 A tiny roadside stand that's been feeding the neighborhood for about 50 years and won a James Beard award.
 
@@ -1554,7 +1540,7 @@ Tacos & Mexican Cheap eats
 
 $$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 4634 Hollywood Blvd
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 4634 Hollywood Blvd
 
 A hand roll counter for a quick, creative sushi lunch.
 
@@ -1568,7 +1554,7 @@ Sushi & Japanese
 
 $$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 654 N Hoover St
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 654 N Hoover St
 
 An all-day spot with strong coffee and a relaxed hillside patio out back.
 
@@ -1582,7 +1568,7 @@ Breakfast Coffee
 
 $$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 2943 W Sunset Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 2943 W Sunset Blvd
 
 A leafy, light-filled Persian daytime cafe with homey cooking. Portions are small, so order several.
 
@@ -1596,7 +1582,7 @@ Brunch
 
 $$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 2813 W Sunset Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 2813 W Sunset Blvd
 
 A picnic-style Italian cafe with standout focaccia sandwiches.
 
@@ -1608,7 +1594,7 @@ A picnic-style Italian cafe with standout focaccia sandwiches.
 
 $
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 1521 Griffith Park Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 1521 Griffith Park Blvd
 
 Fast, reliable Taiwanese with a line out the door for years, and almost nothing over $16.
 
@@ -1624,7 +1610,7 @@ Dinner Cheap eats
 
 $
 
-[North Hollywood](https://www.nathanielgrivas.com/guide/north-hollywood) · 5050 Vineland Ave
+[North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood/#eat) · 5050 Vineland Ave
 
 A bakery cafe with a hidden, plant-filled back patio and generous breakfast plates.
 
@@ -1638,7 +1624,7 @@ Bakeries & dessert Breakfast Coffee
 
 $$
 
-[North Hollywood](https://www.nathanielgrivas.com/guide/north-hollywood) · 12843 Vanowen St
+[North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood/#eat) · 12843 Vanowen St
 
 A small family-run Thai restaurant open since 1984 and one of the most important Thai spots in LA.
 
@@ -1652,7 +1638,7 @@ Dinner
 
 $
 
-[North Hollywood](https://www.nathanielgrivas.com/guide/north-hollywood) · 8225 Coldwater Canyon Ave
+[North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood/#eat) · 8225 Coldwater Canyon Ave
 
 Weekend-only Thai street food stalls on the grounds of a Buddhist temple. You trade cash for tokens to pay.
 
@@ -1666,7 +1652,7 @@ Markets Cheap eats
 
 $$
 
-[North Hollywood](https://www.nathanielgrivas.com/guide/north-hollywood) · 11018 Vanowen St
+[North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood/#eat) · 11018 Vanowen St
 
 Texas-style barbecue smoked in the alley out back, mostly for takeout.
 
@@ -1680,7 +1666,7 @@ Dinner
 
 $$
 
-[North Hollywood](https://www.nathanielgrivas.com/guide/north-hollywood) · 11009 Burbank Blvd, #117
+[North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood/#eat) · 11009 Burbank Blvd, #117
 
 A Lebanese restaurant with a garden patio and bread baked fresh in an outdoor oven.
 
@@ -1694,7 +1680,7 @@ Dinner
 
 $$
 
-[North Hollywood](https://www.nathanielgrivas.com/guide/north-hollywood) · 5757 Lankershim Blvd
+[North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood/#eat) · 5757 Lankershim Blvd
 
 One of LA's few Puerto Rican restaurants, with friendly servers who walk first-timers through the menu.
 
@@ -1708,7 +1694,7 @@ Dinner
 
 $$
 
-[Reseda](https://www.nathanielgrivas.com/guide/reseda) · 18625 Sherman Way, #101
+[Reseda](https://www.nathanielgrivas.com/neighborhoods/reseda/#eat) · 18625 Sherman Way, #101
 
 A beloved vegan Vietnamese restaurant with bold flavors and owners who will happily order for you.
 
@@ -1722,7 +1708,7 @@ Dinner Healthy & plant-based
 
 $
 
-[Reseda](https://www.nathanielgrivas.com/guide/reseda) · 18845 Sherman Way
+[Reseda](https://www.nathanielgrivas.com/neighborhoods/reseda/#eat) · 18845 Sherman Way
 
 A tiny spot serving Northern and Southern Vietnamese specialties you rarely see in the Valley.
 
@@ -1736,7 +1722,7 @@ Dinner Cheap eats
 
 $$
 
-[Reseda](https://www.nathanielgrivas.com/guide/reseda) · 19642 Sherman Way
+[Reseda](https://www.nathanielgrivas.com/neighborhoods/reseda/#eat) · 19642 Sherman Way
 
 A warm, family-run Lebanese restaurant with generous portions and very fresh food.
 
@@ -1750,7 +1736,7 @@ Dinner
 
 $
 
-[Sherman Oaks](https://www.nathanielgrivas.com/guide/sherman-oaks) · 14518 Ventura Blvd
+[Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks/#eat) · 14518 Ventura Blvd
 
 A counter-service shawarma spot.
 
@@ -1764,7 +1750,7 @@ Cheap eats
 
 $$
 
-[Sherman Oaks](https://www.nathanielgrivas.com/guide/sherman-oaks) · 4515 Sepulveda Blvd
+[Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks/#eat) · 4515 Sepulveda Blvd
 
 A bright, casual Mediterranean restaurant.
 
@@ -1778,7 +1764,7 @@ Healthy & plant-based Dinner
 
 $$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · Ventura Blvd
 
 An all-day neighborhood cafe where the pastry case and sandwiches draw a steady line.
 
@@ -1792,7 +1778,7 @@ Breakfast Coffee Bakeries & dessert
 
 $
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 10624 Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 10624 Ventura Blvd
 
 Sonoran-style tacos on fresh flour tortillas, with meats cooked over mesquite.
 
@@ -1806,7 +1792,7 @@ Tacos & Mexican Cheap eats
 
 $
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 3535 Cahuenga Blvd W
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 3535 Cahuenga Blvd W
 
 A tiny counter near the studios turning out kabobs, shawarma and falafel wraps.
 
@@ -1820,7 +1806,7 @@ Cheap eats
 
 $$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 11288 Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 11288 Ventura Blvd
 
 A quick counter built around spit-roasted shawarma.
 
@@ -1834,7 +1820,7 @@ Cheap eats
 
 $$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 12265 Ventura Blvd, Unit 102
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 12265 Ventura Blvd, Unit 102
 
 One of the strongest ramen shops in the Valley, with big bowls worth taking home.
 
@@ -1848,7 +1834,7 @@ Dinner
 
 $$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 11288 Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 11288 Ventura Blvd
 
 A cluttered, homey Japanese comfort food spot tucked into a strip mall.
 
@@ -1862,7 +1848,7 @@ Dinner
 
 $$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 3250 Cahuenga Blvd W
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 3250 Cahuenga Blvd W
 
 A Northern Thai specialist known for its rich curry noodle soup.
 
@@ -1876,7 +1862,7 @@ Dinner
 
 $$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 10962 Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 10962 Ventura Blvd
 
 A family-run Armenian restaurant with generous plates and a warm room.
 
@@ -1890,7 +1876,7 @@ Dinner
 
 $$
 
-[Tarzana](https://www.nathanielgrivas.com/guide/tarzana) · 18743 Ventura Blvd
+[Tarzana](https://www.nathanielgrivas.com/neighborhoods/tarzana/#eat) · 18743 Ventura Blvd
 
 An Israeli grill known for fresh hummus, hot bread and an endless spread of small salads.
 
@@ -1904,7 +1890,7 @@ Dinner
 
 $
 
-[Valley Village](https://www.nathanielgrivas.com/guide/valley-village) · 5206 Laurel Canyon Blvd
+[Valley Village](https://www.nathanielgrivas.com/neighborhoods/valley-village/#eat) · 5206 Laurel Canyon Blvd
 
 A no-frills counter turning out some of the best smash burgers in the Valley.
 
@@ -1918,7 +1904,7 @@ Cheap eats
 
 $$
 
-[Valley Village](https://www.nathanielgrivas.com/guide/valley-village) · 12500 Magnolia Blvd
+[Valley Village](https://www.nathanielgrivas.com/neighborhoods/valley-village/#eat) · 12500 Magnolia Blvd
 
 A warmly decorated Thai restaurant that critics call one of the Valley's most overlooked.
 
@@ -1932,7 +1918,7 @@ Dinner
 
 $
 
-[Van Nuys](https://www.nathanielgrivas.com/guide/van-nuys) · 14902 Victory Blvd
+[Van Nuys](https://www.nathanielgrivas.com/neighborhoods/van-nuys/#eat) · 14902 Victory Blvd
 
 A long-running Puebla-style torta shop in a small strip mall.
 
@@ -1946,7 +1932,7 @@ Cheap eats
 
 $$
 
-[Van Nuys](https://www.nathanielgrivas.com/guide/van-nuys) · 7456 Van Nuys Blvd
+[Van Nuys](https://www.nathanielgrivas.com/neighborhoods/van-nuys/#eat) · 7456 Van Nuys Blvd
 
 A Cuban-inspired spot built around charcoal-grilled chicken, with a pastry case and plenty of seating.
 
@@ -1960,7 +1946,7 @@ Dinner Cheap eats
 
 $
 
-[Van Nuys](https://www.nathanielgrivas.com/guide/van-nuys) · 16435 Vanowen St
+[Van Nuys](https://www.nathanielgrivas.com/neighborhoods/van-nuys/#eat) · 16435 Vanowen St
 
 A tiny burger counter tucked beside a liquor store, turning out excellent smash burgers.
 
@@ -1974,7 +1960,7 @@ Cheap eats
 
 $$$$
 
-[Woodland Hills](https://www.nathanielgrivas.com/guide/woodland-hills) · 21418 Ventura Blvd
+[Woodland Hills](https://www.nathanielgrivas.com/neighborhoods/woodland-hills/#eat) · 21418 Ventura Blvd
 
 A lively, high-end sushi restaurant with fish sourced from Japan, in an unassuming building.
 
@@ -1988,7 +1974,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

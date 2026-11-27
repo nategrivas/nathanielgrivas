@@ -1,8 +1,8 @@
-# Best Museums in Los Angeles by Neighborhood | The LA Guide
+# Best Museums in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/museum
 
-The LA Guide
+Local LA
 
 # The best museums in Los Angeles
 
@@ -14,7 +14,7 @@ The LA Guide
 
 Free
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 17985 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 17985 Pacific Coast Hwy
 
 The Getty's re-created Roman villa, with Greek and Roman antiquities and gardens above the ocean. Free with a timed reservation.
 
@@ -28,7 +28,7 @@ Art & galleries Landmarks & sights
 
 Free
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 1450 Ocean Ave
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 1450 Ocean Ave
 
 A historic optical room that projects the street and ocean onto a table. Offbeat and very Santa Monica.
 
@@ -44,7 +44,7 @@ Landmarks & sights
 
 Free
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 1200 Getty Center Dr
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 1200 Getty Center Dr
 
 The hilltop museum with world-class art, gardens and views from downtown to the ocean. Admission is free; parking is paid.
 
@@ -58,7 +58,7 @@ Art & galleries Landmarks & sights
 
 $
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 9341 Venice Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 9341 Venice Blvd
 
 One of the strangest and most memorable museums in America.
 
@@ -70,7 +70,7 @@ One of the strangest and most memorable museums in America.
 
 Free
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 10808 Culver Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 10808 Culver Blvd
 
 A Cold War museum with Berlin Wall pieces and a sculpture garden.
 
@@ -84,7 +84,7 @@ Art & galleries
 
 Free
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 10899 Wilshire Blvd
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 10899 Wilshire Blvd
 
 UCLA's free contemporary art museum with a courtyard, a strong shop and free screenings and talks.
 
@@ -104,7 +104,7 @@ What's my home worth? Find me a home
 
 $$
 
-[Bel Air](https://www.nathanielgrivas.com/guide/bel-air) · 2701 N Sepulveda Blvd
+[Bel Air](https://www.nathanielgrivas.com/neighborhoods/bel-air/#eat) · 2701 N Sepulveda Blvd
 
 A cultural center and museum with rotating exhibits, a famous Noah's Ark play space for kids and summer concerts.
 
@@ -120,7 +120,7 @@ Kids & family Live music
 
 $$
 
-[Miracle Mile](https://www.nathanielgrivas.com/guide/miracle-mile) · 5905 Wilshire Blvd
+[Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile/#eat) · 5905 Wilshire Blvd
 
 LA's biggest art museum, with the new David Geffen Galleries inside and Chris Burden's Urban Light lampposts out front.
 
@@ -134,7 +134,7 @@ Art & galleries Landmarks & sights
 
 $$
 
-[Miracle Mile](https://www.nathanielgrivas.com/guide/miracle-mile) · 6067 Wilshire Blvd
+[Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile/#eat) · 6067 Wilshire Blvd
 
 Floors of film history and rotating exhibits, plus screenings and a terrace that looks toward the Hollywood Hills.
 
@@ -148,7 +148,7 @@ Movies
 
 $$
 
-[Miracle Mile](https://www.nathanielgrivas.com/guide/miracle-mile) · 6060 Wilshire Blvd
+[Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile/#eat) · 6060 Wilshire Blvd
 
 One of the world's great car museums, behind its famous ribbon-wrapped facade.
 
@@ -162,7 +162,7 @@ Kids & family
 
 Free
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 626 N Robertson Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 626 N Robertson Blvd
 
 A gallery of LGBTQ+ history exhibits on Robertson.
 
@@ -178,7 +178,7 @@ Art & galleries
 
 Free
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 2800 E Observatory Rd
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 2800 E Observatory Rd
 
 LA's Art Deco hilltop observatory, with free astronomy exhibits, a planetarium and the city's best sunset view.
 
@@ -192,7 +192,7 @@ Landmarks & sights Hikes & nature
 
 $$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 4700 Western Heritage Way
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 4700 Western Heritage Way
 
 A big museum of the American West inside Griffith Park.
 
@@ -206,7 +206,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

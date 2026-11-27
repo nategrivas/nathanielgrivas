@@ -1,4 +1,4 @@
-# Living in North Hollywood, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# North Hollywood, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/north-hollywood
 
@@ -51,21 +51,255 @@ From above
 
 What's my home worth? Get North Hollywood listings
 
-## Around North Hollywood
+Local LA
 
-[The full North Hollywood guide: 11 places →](https://www.nathanielgrivas.com/guide/north-hollywood)
+## Where to eat, drink and go in North Hollywood
 
-[Republic of Pie In North Hollywood Pie and coffee in the NoHo Arts District.](https://www.google.com/maps/search/?api=1&query=Republic+of+Pie+North+Hollywood+CA) [Asanebo Studio City · 2 mi Sushi on Ventura Boulevard's sushi row.](https://www.google.com/maps/search/?api=1&query=Asanebo+Studio+City+CA) [Art's Delicatessen Studio City · 2.5 mi Valley deli on Ventura Boulevard since 1957.](https://www.google.com/maps/search/?api=1&query=Art%27s+Delicatessen+Studio+City+CA)
+See them on the map →
 
-[The Federal Bar In North Hollywood Bar in an old bank on Lankershim.](https://www.google.com/maps/search/?api=1&query=The+Federal+Bar+North+Hollywood+CA) [Tiki No In North Hollywood Tiki bar on Lankershim.](https://www.google.com/maps/search/?api=1&query=Tiki+No+North+Hollywood+CA) [Laurel Tavern Studio City · 2 mi Craft beer bar on Ventura Boulevard.](https://www.google.com/maps/search/?api=1&query=Laurel+Tavern+Studio+City+CA)
+North Hollywood centers on the NoHo Arts District around Lankershim and Magnolia, with small theaters and the B Line subway terminus, plus a deep bench of Thai, Middle Eastern, Latin and barbecue spots across the wider neighborhood.
 
-[Studio City Golf & Tennis Studio City · 2.5 mi Public par-3, range and tennis on Whitsett.](https://www.google.com/maps/search/?api=1&query=Studio+City+Golf+%26+Tennis+Studio+City+CA) [Lakeside Golf Club Toluca Lake · 2.5 mi Private club by the studios.](https://www.google.com/maps/search/?api=1&query=Lakeside+Golf+Club+Toluca+Lake+CA)
+15 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Laemmle NoHo 7 In North Hollywood Seven screens in the Arts District.](https://www.google.com/maps/search/?api=1&query=Laemmle+NoHo+7+North+Hollywood+CA) [Regal Sherman Oaks Galleria Sherman Oaks · 5 mi IMAX and 4DX at the Galleria.](https://www.google.com/maps/search/?api=1&query=Regal+Sherman+Oaks+Galleria+Sherman+Oaks+CA) [TCL Chinese Theatre Hollywood · 5.5 mi IMAX premieres and the handprints out front.](https://www.google.com/maps/search/?api=1&query=TCL+Chinese+Theatre+Hollywood+CA)
+Eat
 
-[El Portal Theatre In North Hollywood Live theater on Lankershim.](https://www.google.com/maps/search/?api=1&query=El+Portal+Theatre+North+Hollywood+CA) [The Baked Potato Studio City · 2.5 mi Jazz club on Cahuenga since 1970.](https://www.google.com/maps/search/?api=1&query=The+Baked+Potato+Studio+City+CA) [Universal Studios Hollywood Universal City · 3 mi Theme park, studio tour and CityWalk.](https://www.google.com/maps/search/?api=1&query=Universal+Studios+Hollywood+Universal+City+CA)
+### Coffee & breakfast
 
-[North Hollywood Park In North Hollywood Big park, pool and library.](https://www.google.com/maps/search/?api=1&query=North+Hollywood+Park+North+Hollywood+CA) [Wilacre Park Studio City · 2.5 mi Shaded climb from Laurel Canyon.](https://www.google.com/maps/search/?api=1&query=Wilacre+Park+Studio+City+CA) [Fryman Canyon Studio City · 2.5 mi Loop trail up to Mulholland.](https://www.google.com/maps/search/?api=1&query=Fryman+Canyon+Studio+City+CA) [Coldwater Canyon Park Beverly Hills Post Office · 3 mi TreePeople trails on Mulholland.](https://www.google.com/maps/search/?api=1&query=Coldwater+Canyon+Park+Beverly+Hills+Post+Office+CA)
+### Moxie Coffee Bar
+
+$
+
+5300 Lankershim Blvd, Suite 115
+
+A bright Arts District coffee bar with creative lattes and plenty of dairy-free and sugar-free options.
+
+**Order:** The panela canela latte.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Moxie+Coffee+Bar+5300+Lankershim+Blvd%2C+Suite+115+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Coffee
+
+### La Rochelle Bakery & Cafe
+
+$
+
+5050 Vineland Ave
+
+A bakery cafe with a hidden, plant-filled back patio and generous breakfast plates.
+
+**Order:** A pastry and a sandwich out on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Rochelle+Bakery+%26+Cafe+5050+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Bakeries & dessert Breakfast Coffee
+
+### The Front Yard
+
+$$
+
+4222 Vineland Ave
+
+The Garland hotel's restaurant, with a big courtyard patio and an easy weekend brunch.
+
+**Order:** The short rib burger and a martini.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Front+Yard+4222+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Brunch Dinner
+
+Eat
+
+### Lunch & casual
+
+### Swinging Door BBQ
+
+$$
+
+11018 Vanowen St
+
+Texas-style barbecue smoked in the alley out back, mostly for takeout.
+
+**Order:** Brisket, ribs and burnt ends with the baked beans.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Swinging+Door+BBQ+11018+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Lunch Dinner
+
+### Hayat's Kitchen
+
+$$
+
+11009 Burbank Blvd, #117
+
+A Lebanese restaurant with a garden patio and bread baked fresh in an outdoor oven.
+
+**Order:** Kebab platters and the hot mezze.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hayat%27s+Kitchen+11009+Burbank+Blvd%2C+%23117+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Lunch Dinner
+
+### Valley Smash Burgers
+
+$
+
+Next door in [Valley Village](https://www.nathanielgrivas.com/neighborhoods/valley-village) · 1.1 mi · 5206 Laurel Canyon Blvd
+
+A no-frills counter turning out some of the best smash burgers in the Valley.
+
+**Order:** A double with the loaded fries.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Valley+Smash+Burgers+5206+Laurel+Canyon+Blvd+Valley+Village+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
+
+Cheap eats Lunch
+
+**Love North Hollywood? Live here.** Get new North Hollywood listings, including off-market ones, or a free value on your North Hollywood home.
+
+What's my home worth? Get North Hollywood listings
+
+Eat
+
+### Dinner
+
+### Sri Siam Cafe
+
+$$
+
+12843 Vanowen St
+
+A small family-run Thai restaurant open since 1984 and one of the most important Thai spots in LA.
+
+**Order:** Crispy rice salad and the panang curry.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sri+Siam+Cafe+12843+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Dinner Lunch
+
+### Chiba
+
+$$
+
+7515 Lankershim Blvd
+
+A busy, multi-room sushi restaurant where the bar is the place to sit.
+
+**Order:** Nigiri at the bar, plus the spicy tuna crispy rice.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Chiba+7515+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Sushi & Japanese Dinner
+
+### Mofongos
+
+$$
+
+5757 Lankershim Blvd
+
+One of LA's few Puerto Rican restaurants, with friendly servers who walk first-timers through the menu.
+
+**Order:** The appetizer platter, then a carne guisada mofongo.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mofongos+5757+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Dinner Lunch
+
+Drink
+
+### Nightlife
+
+### Idle Hour
+
+$$
+
+4824 Vineland Ave
+
+A restored 1940s bar in a building shaped like a giant barrel, with a big patio and solid bar food.
+
+**Order:** Happy hour out on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Idle+Hour+4824+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Cocktail bars & lounges Brunch
+
+### Laurel Tavern
+
+$$
+
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 2.1 mi · 11938 Ventura Blvd
+
+A friendly neighborhood bar with a solid happy hour.
+
+**Order:** The burger and a beer.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Tavern+11938+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Cocktail bars & lounges Dinner
+
+### The Last Canteen
+
+$$
+
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 2.1 mi · 10964 Ventura Blvd
+
+A post-apocalyptic themed cocktail bar with fully committed decor and a real kitchen.
+
+**Order:** A house cocktail and a few shared plates.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Last+Canteen+10964+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+
+Cocktail bars & lounges Dinner
+
+Do
+
+### Things to do
+
+### El Portal Theatre
+
+$$
+
+5269 Lankershim Blvd
+
+A restored 1920s theater in the Arts District hosting plays, musicals and concerts.
+
+**Do:** Grab a drink at the theater's bar before the show.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Portal+Theatre+5269+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Movies Live music
+
+### The Baked Potato
+
+$$
+
+Next door in [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · 2.1 mi · 3787 Cahuenga Blvd
+
+A small, long-running jazz club where the menu is giant stuffed baked potatoes.
+
+**Do:** Buy tickets online ahead of time, since shows sell out.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Baked+Potato+3787+Cahuenga+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Live music Late night
+
+### Wat Thai Food Court
+
+$
+
+8225 Coldwater Canyon Ave
+
+Weekend-only Thai street food stalls on the grounds of a Buddhist temple. You trade cash for tokens to pay.
+
+**Do:** Arrive before noon, when the popular stalls start to sell out.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Wat+Thai+Food+Court+8225+Coldwater+Canyon+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Markets Cheap eats Lunch
+
+Sources
+
+- [The Infatuation: North Hollywood](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood)
+- [The Infatuation: Studio City](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Living here
 

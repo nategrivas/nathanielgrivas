@@ -1,4 +1,4 @@
-# Living in Hancock Park & Larchmont, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Hancock Park & Larchmont, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/hancock-park
 
@@ -51,21 +51,269 @@ From above
 
 What's my home worth? Get Hancock Park & Larchmont listings
 
-## Around Hancock Park & Larchmont
+Local LA
 
-[The full Hancock Park & Larchmont guide: 7 places →](https://www.nathanielgrivas.com/guide/hancock-park)
+## Where to eat, drink and go in Hancock Park & Larchmont
 
-[Larchmont Village Hancock Park · under 1 mi Walkable block of cafes and shops on Larchmont.](https://www.google.com/maps/search/?api=1&query=Larchmont+Village+Hancock+Park+CA) [Pizzeria Mozza Hancock Park · under 1 mi Nancy Silverton's pizzeria at Melrose and Highland.](https://www.google.com/maps/search/?api=1&query=Pizzeria+Mozza+Hancock+Park+CA) [Republique Miracle Mile · under 1 mi Bakery by day, French dinner by night on La Brea.](https://www.google.com/maps/search/?api=1&query=Republique+Miracle+Mile+CA) [Pink's Hot Dogs Hollywood · 1 mi Chili dogs on La Brea since 1939.](https://www.google.com/maps/search/?api=1&query=Pink%27s+Hot+Dogs+Hollywood+CA) [Jones West Hollywood · 1.5 mi Late-night Italian on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Jones+West+Hollywood+CA) [Original Farmers Market Fairfax · 1.5 mi Food stalls at Third and Fairfax since 1934.](https://www.google.com/maps/search/?api=1&query=Original+Farmers+Market+Fairfax+CA)
+See them on the map →
 
-[Good Times at Davey Wayne's Hollywood · 2 mi 1970s backyard party through a fridge door.](https://www.google.com/maps/search/?api=1&query=Good+Times+at+Davey+Wayne%27s+Hollywood+CA) [Tom Bergin's Miracle Mile · 2 mi Irish pub on Fairfax since 1936.](https://www.google.com/maps/search/?api=1&query=Tom+Bergin%27s+Miracle+Mile+CA) [The Frolic Room Hollywood · 2 mi Dive bar next to the Pantages since the 1930s.](https://www.google.com/maps/search/?api=1&query=The+Frolic+Room+Hollywood+CA) [No Vacancy Hollywood · 2 mi Victorian house bar off Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=No+Vacancy+Hollywood+CA) [Delilah West Hollywood · 2 mi Supper club with live music.](https://www.google.com/maps/search/?api=1&query=Delilah+West+Hollywood+CA)
+Hancock Park is a historic neighborhood of 1920s homes and tree-lined streets. Larchmont Village, its small walkable main street, is where locals go for sandwiches, books and errands, and Melrose Avenue on the north edge adds some of the city's best Italian restaurants.
 
-[Wilshire Country Club Hancock Park · under 1 mi Private club in Hancock Park.](https://www.google.com/maps/search/?api=1&query=Wilshire+Country+Club+Hancock+Park+CA) [Roosevelt Golf Course Griffith Park · 4 mi Public nine holes below the Greek Theatre.](https://www.google.com/maps/search/?api=1&query=Roosevelt+Golf+Course+Griffith+Park+CA) [Los Feliz Golf Course Los Feliz · 4.5 mi Public par-3 on Los Feliz Boulevard.](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Golf+Course+Los+Feliz+CA) [Hillcrest Country Club Cheviot Hills · 4.5 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Los Angeles Country Club Holmby Hills · 5 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA)
+16 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[New Beverly Cinema Beverly Grove · under 1 mi Quentin Tarantino's repertory house on Beverly.](https://www.google.com/maps/search/?api=1&query=New+Beverly+Cinema+Beverly+Grove+CA) [Hollywood Forever Cemetery Hollywood · 1.5 mi Cinespia's summer movies on the lawn.](https://www.google.com/maps/search/?api=1&query=Hollywood+Forever+Cemetery+Hollywood+CA) [Brain Dead Studios Fairfax · 2 mi Indie screenings in the old Silent Movie Theatre.](https://www.google.com/maps/search/?api=1&query=Brain+Dead+Studios+Fairfax+CA) [Academy Museum theaters Miracle Mile · 2 mi Film series inside the Academy Museum.](https://www.google.com/maps/search/?api=1&query=Academy+Museum+theaters+Miracle+Mile+CA) [Egyptian Theatre Hollywood · 2 mi 1922 movie palace for classics and premieres.](https://www.google.com/maps/search/?api=1&query=Egyptian+Theatre+Hollywood+CA) [El Capitan Theatre Hollywood · 2 mi Restored 1926 movie palace on Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=El+Capitan+Theatre+Hollywood+CA)
+Eat
 
-[El Rey Theatre Miracle Mile · 1.5 mi Art deco concert hall on Wilshire.](https://www.google.com/maps/search/?api=1&query=El+Rey+Theatre+Miracle+Mile+CA) [La Brea Tar Pits Miracle Mile · 1.5 mi Ice Age fossils still being dug up.](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+Miracle+Mile+CA) [Hollywood Palladium Hollywood · 1.5 mi Concert hall on Sunset.](https://www.google.com/maps/search/?api=1&query=Hollywood+Palladium+Hollywood+CA) [LACMA Miracle Mile · 1.5 mi Art museum and Urban Light on Wilshire.](https://www.google.com/maps/search/?api=1&query=LACMA+Miracle+Mile+CA) [Hotel Cafe Hollywood · 2 mi Singer-songwriter room off Cahuenga.](https://www.google.com/maps/search/?api=1&query=Hotel+Cafe+Hollywood+CA) [Petersen Automotive Museum Miracle Mile · 2 mi Car museum at Wilshire and Fairfax.](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum+Miracle+Mile+CA)
+### Coffee & breakfast
 
-[Pan Pacific Park Fairfax · 1.5 mi Park and playground by The Grove.](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+Fairfax+CA) [Runyon Canyon Park Hollywood Hills · 2.5 mi Short steep hike with a Hollywood view.](https://www.google.com/maps/search/?api=1&query=Runyon+Canyon+Park+Hollywood+Hills+CA) [Fern Dell Griffith Park · 3 mi Shady creek trail up to the Observatory.](https://www.google.com/maps/search/?api=1&query=Fern+Dell+Griffith+Park+CA) [Bronson Caves Griffith Park · 3.5 mi The Batcave from the 1960s TV show.](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+Griffith+Park+CA) [Hollywood Reservoir loop Hollywood Hills · 3.5 mi Flat paved loop around the reservoir.](https://www.google.com/maps/search/?api=1&query=Hollywood+Reservoir+loop+Hollywood+Hills+CA) [Lake Hollywood Park Hollywood Hills · 4 mi Lawn below the Hollywood sign.](https://www.google.com/maps/search/?api=1&query=Lake+Hollywood+Park+Hollywood+Hills+CA)
+### Savor
+
+$$
+
+Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 5657 Wilshire Blvd, Suite 150
+
+A family-owned cafe with good espresso drinks, sandwiches and a small sidewalk patio.
+
+**Order:** The house cold brew and the pesto turkey sandwich.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Savor+5657+Wilshire+Blvd%2C+Suite+150+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Coffee Lunch
+
+### République
+
+$$$
+
+Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 624 S La Brea Ave
+
+Walter and Margarita Manzke's French bakery and restaurant in a landmark 1920s building, packed for brunch and a dressier room at dinner.
+
+**Order:** Pastries from the case at brunch. Go early on weekends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=R%C3%A9publique+624+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Brunch Breakfast Bakeries & dessert
+
+### Met Her At A Bar
+
+$$
+
+Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 759 S La Brea Ave
+
+A small, busy brunch cafe best known for its waffles.
+
+**Order:** Chilaquiles or a loaded waffle.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Met+Her+At+A+Bar+759+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Brunch Breakfast
+
+Eat
+
+### Lunch & casual
+
+### Larchmont Village Wine, Spirits & Cheese
+
+$$
+
+223 N Larchmont Blvd
+
+A wine and cheese shop with a sandwich counter that draws a lunch line. Closed Sundays.
+
+**Order:** A made-to-order Italian sandwich.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Larchmont+Village+Wine%2C+Spirits+%26+Cheese+223+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/la-city-guide-a-tour-of-larchmont-boulevard-in-hancock-park) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+
+Lunch Wine bars
+
+### Pizzeria Mozza
+
+$$$
+
+641 N Highland Ave
+
+Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.
+
+**Order:** A seasonal pizza and the butterscotch budino.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pizzeria+Mozza+641+N+Highland+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+
+Pizza Dinner
+
+### Andre's
+
+$
+
+Next door in [Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile) · 1.5 mi · 5400 Wilshire Blvd
+
+A cafeteria-style Italian spot that has fed LA since the 1960s, now in a new home on Wilshire.
+
+**Order:** Spaghetti and meatballs; the large feeds two.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Andre%27s+5400+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Lunch Cheap eats Dinner
+
+**Love Hancock Park & Larchmont? Live here.** Get new Hancock Park & Larchmont listings, including off-market ones, or a free value on your Hancock Park & Larchmont home.
+
+What's my home worth? Get Hancock Park & Larchmont listings
+
+Eat
+
+### Dinner
+
+### Louise's Trattoria
+
+$$
+
+232 N Larchmont Blvd
+
+A long-running neighborhood Italian restaurant on Larchmont.
+
+**Order:** A pasta and the tiramisu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Louise%27s+Trattoria+232+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+
+Dinner Lunch
+
+### Osteria Mamma
+
+$$
+
+5732 Melrose Ave
+
+A warm, family-run Italian osteria with house-made pasta.
+
+**Order:** Squid ink pasta and tiramisu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Osteria+Mamma+5732+Melrose+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+
+Dinner Date night
+
+### Osteria Mozza
+
+$$$$
+
+6602 Melrose Ave
+
+Nancy Silverton's sit-down Italian dining room, with a mozzarella bar.
+
+**Order:** Something from the mozzarella bar, then pasta.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Osteria+Mozza+6602+Melrose+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood)
+
+Date night Dinner
+
+### Chi Spacca
+
+$$$$
+
+6610 Melrose Ave
+
+The meat-focused member of the Mozza group, built around big cuts and house charcuterie.
+
+**Order:** A large-format steak to share.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Chi+Spacca+6610+Melrose+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood)
+
+Date night Dinner
+
+Drink
+
+### Nightlife
+
+### Blue Collar
+
+$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.7 mi · 361 S Fairfax Ave
+
+A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
+
+**Order:** Tell them a spirit and a flavor you like.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+### Cold Shoulder
+
+$$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.7 mi · 359 S Fairfax Ave
+
+A moody speakeasy across from The Grove with elaborate cocktails.
+
+**Order:** A cocktail from the spirits menu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+### The Spare Room
+
+$$$
+
+Next door in [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · 1.7 mi · 7000 Hollywood Blvd
+
+A cocktail lounge inside the Hollywood Roosevelt with two antique bowling lanes.
+
+**Order:** A classic cocktail and a frame of bowling.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Spare+Room+7000+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Cocktail bars & lounges Date night
+
+Do
+
+### Shops, markets & spas
+
+### Chevalier's Books
+
+$$
+
+133 N Larchmont Blvd
+
+A well-curated independent bookstore on Larchmont with a cozy kids' section.
+
+**Do:** Browse the staff picks.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Chevalier%27s+Books+133+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+
+Shopping Kids & family
+
+### Original Farmers Market
+
+$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.7 mi · 6333 W 3rd St
+
+LA's historic open-air market of food stalls and grocers, open since 1934.
+
+**Do:** Graze: laksa, Brazilian barbecue, oysters and a pie.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Original+Farmers+Market+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Markets Landmarks & sights Lunch
+
+### The Grove
+
+$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.7 mi · 189 The Grove Dr
+
+An outdoor shopping village with a trolley, a fountain show and a movie theater, next to the Farmers Market.
+
+**Do:** Shop, catch a movie, then eat at the market.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Grove+189+The+Grove+Dr+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Shopping Kids & family Movies
+
+Sources
+
+- [The Infatuation: Hollywood](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood)
+- [Time Out: Larchmont Boulevard](https://www.timeout.com/los-angeles/things-to-do/la-city-guide-a-tour-of-larchmont-boulevard-in-hancock-park)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
 Living here
 

@@ -1,4 +1,4 @@
-# Living in Hollywood, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Hollywood, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/hollywood
 
@@ -51,25 +51,563 @@ From above
 
 What's my home worth? Get Hollywood listings
 
+Local LA
+
+## Where to eat, drink and go in Hollywood
+
+See them on the map →
+
+Hollywood is LA's entertainment district, with historic movie palaces, the Walk of Fame, the Bowl and the Pantages, plus serious restaurants on Melrose, Highland and Sunset. Runyon Canyon and the hills around the Hollywood Sign start just above the flats.
+
+36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### Louis Coffee Bar
+
+$
+
+6115 Sunset Blvd
+
+A bright new coffee bar with house-made syrups, plenty of seating, Wi-Fi and outlets.
+
+**Order:** A matcha with the pistachio blossom syrup or the apple pie latte.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Louis+Coffee+Bar+6115+Sunset+Blvd+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Los+Angeles+CA)
+
+Coffee
+
+### Sana'a Cafe Hollywood
+
+$$
+
+6290 Hollywood Blvd
+
+A Yemeni coffeehouse near the Pantages, open late, with spiced lattes and rich desserts.
+
+**Order:** A Spanish latte and the Biscoff tres leches before a show.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+Hollywood+6290+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Los+Angeles+CA)
+
+Coffee Bakeries & dessert Late night
+
+### Clark Street Diner
+
+$$
+
+6145 Franklin Ave
+
+The old 101 Coffee Shop space, revived by Clark Street Bread.
+
+**Order:** Blueberry pancakes or a hot sandwich. Open Wednesday through Sunday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Clark+Street+Diner+6145+Franklin+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
+
+Breakfast Cheap eats
+
+### Salt's Cure
+
+$$
+
+1155 N Highland Ave
+
+California-sourced cooking with a build-your-own breakfast.
+
+**Order:** The oatmeal griddle cakes.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Salt%27s+Cure+1155+N+Highland+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
+
+Breakfast Brunch
+
+Eat
+
+### Lunch & casual
+
+### Petit Trois
+
+$$
+
+718 N Highland Ave
+
+Ludo Lefebvre's small, buzzy French bistro.
+
+**Order:** The Boursin omelet, steak frites or the Big Mec burger.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Petit+Trois+718+N+Highland+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
+
+Lunch Dinner
+
+### Mother Tongue
+
+$$$
+
+Hollywood
+
+A wellness-minded rooftop restaurant known for its happy hour.
+
+**Order:** The shiitake larb at happy hour.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mother+Tongue+Hollywood+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
+
+Healthy & plant-based Rooftops & views Dinner
+
+### Larchmont Village Wine, Spirits & Cheese
+
+$$
+
+Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.7 mi · 223 N Larchmont Blvd
+
+A wine and cheese shop with a sandwich counter that draws a lunch line. Closed Sundays.
+
+**Order:** A made-to-order Italian sandwich.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Larchmont+Village+Wine%2C+Spirits+%26+Cheese+223+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/la-city-guide-a-tour-of-larchmont-boulevard-in-hancock-park) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+
+Lunch Wine bars
+
+**Love Hollywood? Live here.** Get new Hollywood listings, including off-market ones, or a free value on your Hollywood home.
+
+What's my home worth? Get Hollywood listings
+
+Eat
+
+### Dinner
+
+### Musso and Frank Grill
+
+$$$
+
+6667 Hollywood Blvd
+
+Hollywood's oldest restaurant, open since 1919, with red-jacketed waiters and a legendary martini.
+
+**Order:** A dry martini, a grilled steak and the flannel cakes.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Musso+and+Frank+Grill+6667+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Dinner Cocktail bars & lounges Landmarks & sights
+
+### Providence
+
+$$$$
+
+5955 Melrose Ave
+
+Two-Michelin-star seafood tasting menus in a hushed room. One of LA's great splurges.
+
+**Order:** The full tasting menu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Providence+5955+Melrose+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
+
+Seafood Dinner Date night
+
+### Gwen
+
+$$$$
+
+6600 Sunset Blvd
+
+Curtis Stone's Michelin-starred butcher shop and steakhouse with a fire-pit dining room.
+
+**Order:** A dry-aged steak and something from the butcher case to take home.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Gwen+6600+Sunset+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
+
+Dinner Date night
+
+### Horses
+
+$$$
+
+7617 Sunset Blvd
+
+A European-style bistro in an old Hollywood haunt with an anything-goes energy.
+
+**Order:** Whatever's seasonal, and the dark chocolate tart.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Horses+7617+Sunset+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
+
+Dinner Date night Late night
+
+### Luv2eat Thai Bistro
+
+$$
+
+6660 Sunset Blvd
+
+Southern Thai home cooking from family recipes, with real heat.
+
+**Order:** The Phuket-style crab curry with rice noodles.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Luv2eat+Thai+Bistro+6660+Sunset+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
+
+Dinner Lunch Cheap eats
+
+### Ka'Teen
+
+$$$
+
+6516 Selma Ave
+
+A Yucatán-inspired restaurant inside the Tommie hotel that feels like a resort.
+
+**Order:** Lamb neck barbacoa and a whole grilled fish.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ka%27Teen+6516+Selma+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
+
+Dinner Tacos & Mexican Date night
+
+### Yamashiro
+
+$$$
+
+1999 N Sycamore Ave
+
+A hillside Japanese palace with one of the best views over Hollywood.
+
+**Order:** Book a window table at sunset.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Yamashiro+1999+N+Sycamore+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Dinner Rooftops & views Landmarks & sights
+
+Drink
+
+### Nightlife
+
+### The Spare Room
+
+$$$
+
+7000 Hollywood Blvd
+
+A cocktail lounge inside the Hollywood Roosevelt with two antique bowling lanes.
+
+**Order:** A classic cocktail and a frame of bowling.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Spare+Room+7000+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Cocktail bars & lounges Date night
+
+### Good Times at Davey Wayne's
+
+$$
+
+1611 N El Centro Ave
+
+A 1970s house party of a bar, entered through a refrigerator door.
+
+**Order:** Head to the back patio for a boozy snow cone.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Good+Times+at+Davey+Wayne%27s+1611+N+El+Centro+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Cocktail bars & lounges Late night
+
+### Bar Lis
+
+$$$
+
+1541 N Wilcox Ave
+
+A French Riviera-style lounge on the roof of the Thompson Hollywood, with a straight view of the Hollywood Sign. Jazz on Tuesdays, a packed dance floor on Saturdays.
+
+**Order:** Come early for sunset, or book ahead on weekends when table minimums kick in.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Lis+1541+N+Wilcox+Ave+Hollywood+Los+Angeles+CA) Sources: [Michelin Guide](https://guide.michelin.com/en/hotels-stays/los-angeles-area/thompson-hollywood-12410) [Time Out](https://www.timeout.com/los-angeles/bars/bar-lis)
+
+Rooftops & views Cocktail bars & lounges Date night
+
+Do
+
+### Culture & shows
+
+### Hollywood Bowl
+
+$$
+
+2301 N Highland Ave
+
+LA's legendary outdoor amphitheater, where a summer picnic and concert is a rite of passage.
+
+**Do:** Bring a picnic and take the Bowl shuttle; parking is limited.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Bowl+2301+N+Highland+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Live music Landmarks & sights
+
+### Pantages Theatre
+
+$$$
+
+6233 Hollywood Blvd
+
+An Art Deco palace for touring Broadway musicals.
+
+**Do:** Front rows of the mezzanine are the best seats.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pantages+Theatre+6233+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Comedy & theater Landmarks & sights
+
+### TCL Chinese Theatre
+
+$$
+
+6925 Hollywood Blvd
+
+The historic movie palace with handprints in the forecourt and a giant IMAX screen.
+
+**Do:** Skip the crowded courtyard and see a movie in the main house.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=TCL+Chinese+Theatre+6925+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Movies Landmarks & sights
+
+### Egyptian Theatre
+
+$$
+
+6712 Hollywood Blvd
+
+A beautifully restored 1922 cinema for classics, cult films and festivals.
+
+**Do:** Catch a nitrate or 70mm screening.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Egyptian+Theatre+6712+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Movies Landmarks & sights
+
+### El Capitan Theatre
+
+$$
+
+6838 Hollywood Blvd
+
+Disney's movie palace with a live organ, a soda fountain and costume displays downstairs.
+
+**Do:** A Disney premiere with the kids.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Capitan+Theatre+6838+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Movies Kids & family
+
+### Hollywood Forever Cemetery
+
+$
+
+6000 Santa Monica Blvd
+
+A historic cemetery that hosts summer movie screenings, concerts and morning yoga.
+
+**Do:** Bring a blanket for a summer screening.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Forever+Cemetery+6000+Santa+Monica+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Landmarks & sights Movies Live music
+
+### The Fonda Theatre
+
+$$
+
+6126 Hollywood Blvd
+
+A great mid-size music hall with a rooftop bar over Hollywood Boulevard.
+
+**Do:** Get there early for the rooftop.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Fonda+Theatre+6126+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Live music Rooftops & views
+
+### Hollywood Palladium
+
+$$
+
+6215 Sunset Blvd
+
+A big Art Deco ballroom for touring acts.
+
+**Do:** Check the calendar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Palladium+6215+Sunset+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Live music
+
+### Hotel Café
+
+$
+
+1623 N Cahuenga Blvd
+
+An intimate room for singer-songwriters.
+
+**Do:** A weeknight show in the main room.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hotel+Caf%C3%A9+1623+N+Cahuenga+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Live music Date night
+
+### Magic Castle
+
+$$$
+
+7001 Franklin Ave
+
+A private club for magicians in a Victorian mansion, with nightly shows.
+
+**Do:** Get in with a member, a hotel stay or show tickets.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Magic+Castle+7001+Franklin+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Comedy & theater Landmarks & sights
+
+### Paramount Pictures Studio Tour
+
+$$$
+
+5515 Melrose Ave
+
+A guided tram tour of the last major studio still in Hollywood.
+
+**Do:** Book ahead and download the tour app.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Paramount+Pictures+Studio+Tour+5515+Melrose+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Landmarks & sights Movies
+
+### Hollywood Walk of Fame
+
+Free
+
+Hollywood Blvd and Vine St
+
+The famous sidewalk of stars. Expect crowds and souvenir shops.
+
+**Do:** Walk it early in the morning.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Walk+of+Fame+Hollywood+Blvd+and+Vine+St+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Landmarks & sights
+
+### Hollywood Bowl Overlook
+
+Free
+
+Mulholland Dr
+
+A roadside lookout with wide views of the sign and the city.
+
+**Do:** Arrive early; it closes in the evening.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Bowl+Overlook+Mulholland+Dr+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Landmarks & sights Hikes & nature
+
+Do
+
+### Parks & outdoors
+
+### Runyon Canyon
+
+Free
+
+2000 N Fuller Ave
+
+LA's most famous city hike, with dirt trails and big views right above Hollywood.
+
+**Do:** Go early; use the Mulholland entrance for an easier walk.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Runyon+Canyon+2000+N+Fuller+Ave+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Hikes & nature Dog-friendly Fitness & outdoor sports
+
+### Lake Hollywood Park
+
+Free
+
+3160 Canyon Lake Dr
+
+A grassy park with one of the closest, clearest views of the Hollywood Sign.
+
+**Do:** Photos of the sign, then a picnic.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lake+Hollywood+Park+3160+Canyon+Lake+Dr+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Parks Dog-friendly Kids & family
+
+### Sunset Ranch Hollywood
+
+$$$
+
+3400 N Beachwood Dr
+
+Guided horseback rides in Griffith Park with close views of the sign.
+
+**Do:** Book the sunset ride.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sunset+Ranch+Hollywood+3400+N+Beachwood+Dr+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Hikes & nature Kids & family Fitness & outdoor sports
+
+Do
+
+### Shops, markets & spas
+
+### Amoeba Music
+
+Free
+
+6200 Hollywood Blvd
+
+A huge independent record store with vinyl, CDs and movies, plus free in-store shows.
+
+**Do:** Check the in-store calendar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Amoeba+Music+6200+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Shopping Live music
+
+### Sycamore Avenue
+
+$$
+
+Sycamore Ave south of Romaine St
+
+A small strip of restaurants, cafes and boutiques with galleries nearby.
+
+**Do:** Coffee, shopping, then the gallery on Orange Drive.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sycamore+Avenue+Sycamore+Ave+south+of+Romaine+St+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+
+Shopping Art & galleries
+
+### Chevalier's Books
+
+$$
+
+Next door in [Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park) · 1.7 mi · 133 N Larchmont Blvd
+
+A well-curated independent bookstore on Larchmont with a cozy kids' section.
+
+**Do:** Browse the staff picks.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Chevalier%27s+Books+133+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+
+Shopping Kids & family
+
+Sources
+
+- [Time Out: Best restaurants in Hollywood](https://www.timeout.com/los-angeles/restaurants/best-hollywood-restaurants)
+- [Time Out: Best things to do in Hollywood](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Los+Angeles+CA)
+- [Michelin Guide: Thompson Hollywood and Bar Lis](https://guide.michelin.com/en/hotels-stays/los-angeles-area/thompson-hollywood-12410)
+- [Time Out: Bar Lis](https://www.timeout.com/los-angeles/bars/bar-lis)
+
 Photos
 
 ## Hollywood in pictures
-
-## Around Hollywood
-
-[The full Hollywood guide: 33 places →](https://www.nathanielgrivas.com/guide/hollywood)
-
-[Roscoe's Chicken and Waffles In Hollywood The original on Gower.](https://www.google.com/maps/search/?api=1&query=Roscoe%27s+Chicken+and+Waffles+Hollywood+CA) [Musso & Frank Grill In Hollywood Hollywood Boulevard's oldest restaurant, since 1919.](https://www.google.com/maps/search/?api=1&query=Musso+%26+Frank+Grill+Hollywood+CA) [Pink's Hot Dogs In Hollywood Chili dogs on La Brea since 1939.](https://www.google.com/maps/search/?api=1&query=Pink%27s+Hot+Dogs+Hollywood+CA) [Yamashiro Hollywood Hills · under 1 mi Hilltop Japanese palace with a view over Hollywood.](https://www.google.com/maps/search/?api=1&query=Yamashiro+Hollywood+Hills+CA) [Jones West Hollywood · 1 mi Late-night Italian on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Jones+West+Hollywood+CA) [Pizzeria Mozza Hancock Park · 1.5 mi Nancy Silverton's pizzeria at Melrose and Highland.](https://www.google.com/maps/search/?api=1&query=Pizzeria+Mozza+Hancock+Park+CA)
-
-[The Frolic Room In Hollywood Dive bar next to the Pantages since the 1930s.](https://www.google.com/maps/search/?api=1&query=The+Frolic+Room+Hollywood+CA) [No Vacancy In Hollywood Victorian house bar off Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=No+Vacancy+Hollywood+CA) [Good Times at Davey Wayne's In Hollywood 1970s backyard party through a fridge door.](https://www.google.com/maps/search/?api=1&query=Good+Times+at+Davey+Wayne%27s+Hollywood+CA) [Delilah West Hollywood · 2 mi Supper club with live music.](https://www.google.com/maps/search/?api=1&query=Delilah+West+Hollywood+CA) [Ye Rustic Inn Los Feliz · 2.5 mi Neighborhood dive with wings on Hillhurst.](https://www.google.com/maps/search/?api=1&query=Ye+Rustic+Inn+Los+Feliz+CA) [Tiki-Ti Los Feliz · 2.5 mi Twelve-stool tiki bar on Sunset since 1961.](https://www.google.com/maps/search/?api=1&query=Tiki-Ti+Los+Feliz+CA)
-
-[Wilshire Country Club Hancock Park · 1.5 mi Private club in Hancock Park.](https://www.google.com/maps/search/?api=1&query=Wilshire+Country+Club+Hancock+Park+CA) [Roosevelt Golf Course Griffith Park · 2.5 mi Public nine holes below the Greek Theatre.](https://www.google.com/maps/search/?api=1&query=Roosevelt+Golf+Course+Griffith+Park+CA) [Los Feliz Golf Course Los Feliz · 3.5 mi Public par-3 on Los Feliz Boulevard.](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Golf+Course+Los+Feliz+CA) [Lakeside Golf Club Toluca Lake · 3.5 mi Private club by the studios.](https://www.google.com/maps/search/?api=1&query=Lakeside+Golf+Club+Toluca+Lake+CA) [Griffith Park: Wilson & Harding Griffith Park · 4 mi Two public 18-hole courses.](https://www.google.com/maps/search/?api=1&query=Griffith+Park%3A+Wilson+%26+Harding+Griffith+Park+CA)
-
-[Egyptian Theatre In Hollywood 1922 movie palace for classics and premieres.](https://www.google.com/maps/search/?api=1&query=Egyptian+Theatre+Hollywood+CA) [El Capitan Theatre In Hollywood Restored 1926 movie palace on Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=El+Capitan+Theatre+Hollywood+CA) [Hollywood Forever Cemetery In Hollywood Cinespia's summer movies on the lawn.](https://www.google.com/maps/search/?api=1&query=Hollywood+Forever+Cemetery+Hollywood+CA) [TCL Chinese Theatre In Hollywood IMAX premieres and the handprints out front.](https://www.google.com/maps/search/?api=1&query=TCL+Chinese+Theatre+Hollywood+CA) [New Beverly Cinema Beverly Grove · 2 mi Quentin Tarantino's repertory house on Beverly.](https://www.google.com/maps/search/?api=1&query=New+Beverly+Cinema+Beverly+Grove+CA) [Brain Dead Studios Fairfax · 2.5 mi Indie screenings in the old Silent Movie Theatre.](https://www.google.com/maps/search/?api=1&query=Brain+Dead+Studios+Fairfax+CA)
-
-[Hollywood Palladium In Hollywood Concert hall on Sunset.](https://www.google.com/maps/search/?api=1&query=Hollywood+Palladium+Hollywood+CA) [Hotel Cafe In Hollywood Singer-songwriter room off Cahuenga.](https://www.google.com/maps/search/?api=1&query=Hotel+Cafe+Hollywood+CA) [The Fonda Theatre In Hollywood Mid-size concerts and a rooftop bar.](https://www.google.com/maps/search/?api=1&query=The+Fonda+Theatre+Hollywood+CA) [Hollywood Pantages Theatre In Hollywood Broadway tours in a 1930 art deco palace.](https://www.google.com/maps/search/?api=1&query=Hollywood+Pantages+Theatre+Hollywood+CA) [Hollywood Bowl Hollywood Hills · 1 mi Summer concerts under the shell. Bring a picnic.](https://www.google.com/maps/search/?api=1&query=Hollywood+Bowl+Hollywood+Hills+CA) [Hollyhock House East Hollywood · 2 mi Frank Lloyd Wright house in Barnsdall Art Park.](https://www.google.com/maps/search/?api=1&query=Hollyhock+House+East+Hollywood+CA)
-
-[Runyon Canyon Park Hollywood Hills · 1.5 mi Short steep hike with a Hollywood view.](https://www.google.com/maps/search/?api=1&query=Runyon+Canyon+Park+Hollywood+Hills+CA) [Fern Dell Griffith Park · 1.5 mi Shady creek trail up to the Observatory.](https://www.google.com/maps/search/?api=1&query=Fern+Dell+Griffith+Park+CA) [Bronson Caves Griffith Park · 2 mi The Batcave from the 1960s TV show.](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+Griffith+Park+CA) [Hollywood Reservoir loop Hollywood Hills · 2 mi Flat paved loop around the reservoir.](https://www.google.com/maps/search/?api=1&query=Hollywood+Reservoir+loop+Hollywood+Hills+CA) [Pan Pacific Park Fairfax · 2 mi Park and playground by The Grove.](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+Fairfax+CA) [Lake Hollywood Park Hollywood Hills · 2.5 mi Lawn below the Hollywood sign.](https://www.google.com/maps/search/?api=1&query=Lake+Hollywood+Park+Hollywood+Hills+CA)
 
 Living here
 
@@ -147,11 +685,11 @@ Next door
 
 [Central · $$$$Hancock Park & LarchmontOld LA mansions, Larchmont Village and the Wilshire Country Club.](https://www.nathanielgrivas.com/neighborhoods/hancock-park)
 
-The LA Journal
+LA News
 
 ## Hollywood in the news
 
-[All journal entries →](https://www.nathanielgrivas.com/journal)
+[All LA news →](https://www.nathanielgrivas.com/news)
 
 Things to do
 
@@ -159,7 +697,7 @@ Things to do
 
 The Hollywood Christmas Parade returns Sunday, Nov. 29, and the LA Auto Show runs downtown through the same day. Walt Disney Concert Hall kicks off its holiday series this weekend with Home Alone and Elf screened with a live orchestra, and the Smorgasburg holiday market is on the calendar too.
 
-[November 26, 2026](https://www.nathanielgrivas.com/journal/2026-11-26) · Neighborhoods: [Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · Sources: [Resident](https://resident.com/los-angeles/2026/11/03/las-holiday-season-begins-with-these-15-things-to-do-in-november-2026), [We Like LA](https://www.welikela.com/things-to-do-this-thanksgiving-weekend-in-los-angeles-11-26-2026-to-11-29-2026/)
+[November 26, 2026](https://www.nathanielgrivas.com/journal/2026-11-26) · Neighborhoods: [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · Sources: [Resident](https://resident.com/los-angeles/2026/11/03/las-holiday-season-begins-with-these-15-things-to-do-in-november-2026), [We Like LA](https://www.welikela.com/things-to-do-this-thanksgiving-weekend-in-los-angeles-11-26-2026-to-11-29-2026/)
 
 Questions
 

@@ -1,4 +1,4 @@
-# Living in Brentwood, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Brentwood, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/brentwood
 
@@ -52,25 +52,341 @@ From above
 
 What's my home worth? Get Brentwood listings
 
+Local LA
+
+## Where to eat, drink and go in Brentwood
+
+See them on the map →
+
+Brentwood's center is San Vicente Boulevard, a coral-tree-lined median with a run of cafes and Italian restaurants, plus Barrington Court just off it. The Getty sits on the hill above, the Country Mart anchors the west end, and the trails up Mandeville Canyon start a few minutes away.
+
+21 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### Caffe Luxxe
+
+$$
+
+11640 San Vicente Blvd
+
+A small European-style espresso bar that's been Brentwood's neighborhood coffee stop for years.
+
+**Order:** A cappuccino. Park in the lot; it's validated.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Luxxe+11640+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+
+Coffee
+
+### Parakeet Cafe
+
+$$
+
+13050 San Vicente Blvd
+
+A bright, friendly cafe at the west end of San Vicente with protein-forward breakfasts and creative lattes.
+
+**Order:** The breakfast croissant sandwich and an iced mint latte.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Parakeet+Cafe+13050+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+
+Breakfast Coffee Healthy & plant-based
+
+### Coral Tree Cafe
+
+$$
+
+11645 San Vicente Blvd
+
+A big, airy order-at-the-counter cafe with generous portions.
+
+**Order:** Lox benedict or the blueberry pancakes.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Coral+Tree+Cafe+11645+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+
+Breakfast Brunch Lunch
+
+### Clark Street Brentwood
+
+$$
+
+11702 Barrington Ct
+
+The famous LA bakery's Brentwood cafe, good any weekday.
+
+**Order:** Go before 11am for the Caesar wrap or the tuna melt.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Clark+Street+Brentwood+11702+Barrington+Ct+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Bakeries & dessert Lunch
+
+### Farmshop
+
+$$$
+
+225 26th St
+
+The all-day hangout of the Brentwood Country Mart, with a market for picnic supplies.
+
+**Order:** The poached chicken salad.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Farmshop+225+26th+St+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Brunch Lunch Markets
+
+Eat
+
+### Lunch & casual
+
+### Pizzana
+
+$$
+
+11712 San Vicente Blvd
+
+Neapolitan pizza in a sleek room, and a Fodor's pick for the neighborhood.
+
+**Order:** The Diavola and the panna cotta.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pizzana+11712+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood) [Fodor's](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/santa-monica-and-the-beaches/brentwood/restaurants)
+
+Pizza Dinner
+
+### All Roads
+
+$$
+
+145 S Barrington Ave
+
+A casual walk-in Roman pizzeria and wine bar where everything is under $30.
+
+**Order:** Crispy oval pizzas and antipasti.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=All+Roads+145+S+Barrington+Ave+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Pizza Wine bars Cheap eats
+
+### Jon and Vinny's
+
+$$
+
+11938 San Vicente Blvd
+
+Italian American comfort food from the Animal team.
+
+**Order:** A thin-crust pizza right out of the oven.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Jon+and+Vinny%27s+11938+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Pizza Dinner
+
+**Love Brentwood? Live here.** Get new Brentwood listings, including off-market ones, or a free value on your Brentwood home.
+
+What's my home worth? Get Brentwood listings
+
+Eat & drink
+
+### Dinner & drinks
+
+### The Wilkes
+
+$$$
+
+148 S Barrington Ave
+
+A charming old-school steakhouse.
+
+**Order:** The latke-crusted schnitzel, the pork chop and a wedge salad.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Wilkes+148+S+Barrington+Ave+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Dinner Date night
+
+### Matū Kai
+
+$$$$
+
+11777 San Vicente Blvd
+
+A modern, dim steakhouse built around wagyu.
+
+**Order:** The five-course tasting for two, or the cheesesteak at the bar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mat%C5%AB+Kai+11777+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Dinner Date night
+
+### Osteria Vera
+
+$$$
+
+11640 San Vicente Blvd
+
+A warm brick-walled Italian room.
+
+**Order:** Lobster and tomato paccheri, and ask about the off-menu duck.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Osteria+Vera+11640+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Dinner Date night
+
+### Divino
+
+$$$
+
+11714 Barrington Ct
+
+A lively, dark Italian spot that regulars love.
+
+**Order:** Tagliatelle with tomato and monkfish.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Divino+11714+Barrington+Ct+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Dinner
+
+### Peppone
+
+$$$$
+
+11628 Barrington Ct
+
+A pricey, old-school red-sauce Italian institution.
+
+**Order:** Dover sole and the Chicago rigatoni.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Peppone+11628+Barrington+Ct+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Dinner Date night
+
+### Palmeri Ristorante
+
+$$$
+
+11650 San Vicente Blvd
+
+A quiet Italian room that works for a calm date night.
+
+**Order:** Bolognese tagliatelle and the veal chop.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Palmeri+Ristorante+11650+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Dinner Date night
+
+### Sushi Sasabune
+
+$$$$
+
+11917 Wilshire Blvd
+
+A classic sushi counter known for trust-the-chef omakase.
+
+**Order:** Sit at the bar for omakase.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sushi+Sasabune+11917+Wilshire+Blvd+Brentwood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+
+Sushi & Japanese Dinner
+
+### Bar Toscana
+
+$$$
+
+11633 San Vicente Blvd
+
+An intimate, stylish cocktail bar next door to Toscana, the longtime Brentwood power-dinner spot. Italian aperitivo drinks and small plates in a room that stays lively late.
+
+**Order:** A Negroni riff and a few small plates before or after dinner on San Vicente.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Toscana+11633+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/bar-toscana)
+
+Cocktail bars & lounges Date night
+
+Do
+
+### Things to do
+
+### The Getty
+
+Free
+
+1200 Getty Center Dr
+
+The hilltop museum with world-class art, gardens and views from downtown to the ocean. Admission is free; parking is paid.
+
+**Do:** Reserve a time online, ride the tram up and finish in the Central Garden. Go before March 15, 2027, when it closes for about a year of renovation.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Getty+1200+Getty+Center+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA) [Getty](https://www.getty.edu/about/building-gettys-future/)
+
+Museums Art & galleries Landmarks & sights
+
+### Hammer Museum
+
+Free
+
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.0 mi · 10899 Wilshire Blvd
+
+UCLA's free contemporary art museum with a courtyard, a strong shop and free screenings and talks.
+
+**Do:** Check the events calendar, then lunch at Lulu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+
+Museums Art & galleries
+
+### Westridge Trailhead and Mandeville Canyon
+
+Free
+
+2660 Westridge Rd
+
+A dog-friendly ridge hike with an easy fire road and a steeper parallel trail, and views from downtown to the ocean.
+
+**Do:** Go early or at sunset. There's no shade and little parking.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Westridge+Trailhead+and+Mandeville+Canyon+2660+Westridge+Rd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+
+Hikes & nature Dog-friendly Fitness & outdoor sports
+
+### San Vicente Mountain Park
+
+Free
+
+17500 Mulholland Dr
+
+A ridgetop park at an old Cold War Nike missile site with a lookout tower and huge views.
+
+**Do:** Hike in from the Westridge trail, about four miles each way.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=San+Vicente+Mountain+Park+17500+Mulholland+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+
+Hikes & nature Parks Landmarks & sights
+
+### Brentwood Country Mart
+
+$$
+
+225 26th St
+
+A red barn-style courtyard of boutiques, a bookstore, a toy store and cafes.
+
+**Do:** Coffee, then a wander through the shops. The first hour of parking is free.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Mart+225+26th+St+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+
+Shopping Kids & family
+
+Sources
+
+- [The Infatuation: Best restaurants in Brentwood](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
+- [Fodor's: Best restaurants in Brentwood](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/santa-monica-and-the-beaches/brentwood/restaurants)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+- [Getty: Building Getty's Future](https://www.getty.edu/about/building-gettys-future/)
+- [Time Out: Bar Toscana](https://www.timeout.com/los-angeles/restaurants/bar-toscana)
+
 Photos
 
 ## Brentwood in pictures
-
-## Around Brentwood
-
-[The full Brentwood guide: 20 places →](https://www.nathanielgrivas.com/guide/brentwood)
-
-[Brentwood Country Mart In Brentwood Red-barn courtyard of cafes and shops on 26th Street.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Mart+Brentwood+CA) [Pizzana In Brentwood Neapolitan pizza on San Vicente.](https://www.google.com/maps/search/?api=1&query=Pizzana+Brentwood+CA) [Toscana In Brentwood The Brentwood Italian standby.](https://www.google.com/maps/search/?api=1&query=Toscana+Brentwood+CA) [Father's Office Santa Monica · 2 mi The burger bar on Montana Avenue. No substitutions.](https://www.google.com/maps/search/?api=1&query=Father%27s+Office+Santa+Monica+CA) [Diddy Riese Westwood · 2 mi Ice cream cookie sandwiches near UCLA.](https://www.google.com/maps/search/?api=1&query=Diddy+Riese+Westwood+CA) [Rustic Canyon Santa Monica · 2.5 mi Farmers market cooking on Wilshire.](https://www.google.com/maps/search/?api=1&query=Rustic+Canyon+Santa+Monica+CA)
-
-[Chez Jay Santa Monica · 3.5 mi Peanut-shell steakhouse bar on Ocean Avenue since 1959.](https://www.google.com/maps/search/?api=1&query=Chez+Jay+Santa+Monica+CA) [The Galley Santa Monica · 4 mi Nautical bar on Main Street since 1934.](https://www.google.com/maps/search/?api=1&query=The+Galley+Santa+Monica+CA) [The Brig Venice · 5 mi Abbot Kinney bar with the neon boxer sign.](https://www.google.com/maps/search/?api=1&query=The+Brig+Venice+CA)
-
-[Brentwood Country Club In Brentwood Private club in Brentwood.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Club+Brentwood+CA) [Mountaingate Country Club In Brentwood Private club above the 405.](https://www.google.com/maps/search/?api=1&query=Mountaingate+Country+Club+Brentwood+CA) [Riviera Country Club Pacific Palisades · 1.5 mi Private. Home of the PGA Tour's Genesis Invitational.](https://www.google.com/maps/search/?api=1&query=Riviera+Country+Club+Pacific+Palisades+CA) [Bel-Air Country Club Bel Air · 2.5 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA) [Los Angeles Country Club Holmby Hills · 3.5 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Rancho Park Golf Course Cheviot Hills · 4 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA)
-
-[Aero Theatre Santa Monica · 1.5 mi American Cinematheque's single screen on Montana.](https://www.google.com/maps/search/?api=1&query=Aero+Theatre+Santa+Monica+CA) [Regency Village Theatre Westwood · 2 mi The 1931 tower theatre and its premieres.](https://www.google.com/maps/search/?api=1&query=Regency+Village+Theatre+Westwood+CA) [Laemmle Royal West LA · 2.5 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA) [Laemmle Monica Film Center Santa Monica · 3 mi Indie and foreign films downtown.](https://www.google.com/maps/search/?api=1&query=Laemmle+Monica+Film+Center+Santa+Monica+CA) [AMC Century City 15 Century City · 3.5 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA)
-
-[Getty Center In Brentwood Art, gardens and the view. Free entry, paid parking.](https://www.google.com/maps/search/?api=1&query=Getty+Center+Brentwood+CA) [Skirball Cultural Center In Brentwood Museum and hands-on exhibits off the 405.](https://www.google.com/maps/search/?api=1&query=Skirball+Cultural+Center+Brentwood+CA) [Geffen Playhouse Westwood · 2 mi Plays in Westwood Village.](https://www.google.com/maps/search/?api=1&query=Geffen+Playhouse+Westwood+CA) [Hammer Museum Westwood · 2 mi Free art museum on Wilshire.](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+Westwood+CA) [Royce Hall Westwood · 2.5 mi Concerts and talks at UCLA.](https://www.google.com/maps/search/?api=1&query=Royce+Hall+Westwood+CA) [Santa Monica Pier Santa Monica · 3.5 mi Pacific Park rides and summer concerts.](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Pier+Santa+Monica+CA)
-
-[San Vicente Boulevard path In Brentwood The coral tree median runners use.](https://www.google.com/maps/search/?api=1&query=San+Vicente+Boulevard+path+Brentwood+CA) [Mathias Botanical Garden Westwood · 2.5 mi UCLA's free botanical garden.](https://www.google.com/maps/search/?api=1&query=Mathias+Botanical+Garden+Westwood+CA) [Palisades Park Santa Monica · 3 mi Bluff-top park on Ocean Avenue.](https://www.google.com/maps/search/?api=1&query=Palisades+Park+Santa+Monica+CA) [Holmby Park Holmby Hills · 3 mi Lawn bowling and a pitch-and-putt.](https://www.google.com/maps/search/?api=1&query=Holmby+Park+Holmby+Hills+CA) [Will Rogers State Beach Pacific Palisades · 3.5 mi Long beach and volleyball off PCH.](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Beach+Pacific+Palisades+CA) [Santa Monica State Beach Santa Monica · 3.5 mi Wide sand on both sides of the pier.](https://www.google.com/maps/search/?api=1&query=Santa+Monica+State+Beach+Santa+Monica+CA)
 
 Living here
 

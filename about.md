@@ -1,4 +1,4 @@
-# About Nathaniel Grivas | REALTOR® at Compass
+# About Nathaniel Grivas | REALTOR® at Compass Beverly Hills | The Brodsky Group
 
 Source page: https://www.nathanielgrivas.com/about
 
@@ -6,33 +6,87 @@ About Nathaniel
 
 # Nathaniel Grivas
 
-Raised between New York and Seattle before relocating to Los Angeles, Nathaniel Grivas is a REALTOR® with The Brodsky Group at Compass Beverly Hills, a team with over $100M in annual sales. He represents buyers, sellers, landlords and developers across West Los Angeles, Beverly Hills and the San Fernando Valley.
+The agent who finds a way to get it done.
+
+Nathaniel Grivas is a REALTOR® with The Brodsky Group at Compass Beverly Hills, a team that closes over $100M in sales every year. He represents buyers, sellers, investors, landlords and developers from Malibu to Silver Lake and across the San Fernando Valley, and he takes on the deals other agents pass on: creative financing, development sites, off-market homes and anything complicated.
 
 [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o) $100M+ in annual team sales Compass Beverly Hills
 
 **$100M+** annual team sales
 
-**DRE** #02410660
+**$3.275M** seller-financed sale he structured
 
-**LMU** Marketing & Business Law
+**$156K** over asking at 18748 Lanark
 
-Call 310-269-5541 Send a message [The Brodsky Group](https://orbrodskygroup.com/)
+Call 310-269-5541 [What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy)
 
-## How I work
+Why clients hire him
 
-I earned my degree in Marketing and Business Law from Loyola Marymount University, and that shapes how I approach outreach, positioning and negotiation. My work covers listing preparation and pricing strategy, buyer representation in competitive offers, leasing, new construction and development deals, including teardown and lot value analysis, ADU feasibility and off-market sourcing.
+## Nine reasons, with the receipts
 
-## Where I work
+### Deals that close, however they have to
 
-From Malibu and the Palisades to Los Feliz and Silver Lake, and across the Valley. Every area I cover has a guide on the [Explore LA map](https://www.nathanielgrivas.com/neighborhoods).
+At 616 N Fuller Ave, Nathaniel structured a $3,275,000 sale with seller financing. The sellers carried the loan, the buyer closed without a bank, and he represented both sides.
+
+### Marketing that finds the buyer who pays the most
+
+He marketed 18748 Lanark St in Reseda to developers as a land play. Seven offers in nine days, into escrow on day nine, and closed at $1,155,000: $156,000 over asking.
+
+### Negotiation that keeps going after the offer
+
+At 14757 Hartland St he won his buyer the house in multiple offers, then priced every item in the inspections and took $31,000 off in escrow, on a contract that said no credits.
+
+### He reads a property like a developer
+
+Zoning, lot size, ADU and lot-split potential, buildable square feet. Hartland was bought as a remodel plus two rentable ADUs. Lanark sold on what could be built on it.
+
+### Access most agents don't have
+
+Compass Private Exclusives and coming-soon homes, The Brodsky Group's off-market list, and lenders who approve the self-employed, investors and buyers the big banks pass on.
+
+### A $100M+ team behind every client
+
+The Brodsky Group, led by Or Brodsky at Compass Beverly Hills, closes over $100M every year. Clients get that pricing data, marketing and negotiating depth on every deal.
+
+### Every side of the deal
+
+Buyers, sellers, landlords, tenants, investors and builders. He leased 1127 Glenville Dr representing both the owner and the tenant, and lists homes up to $4.8M with his team.
+
+### A marketer first
+
+Loyola Marymount, Marketing with a Business Law minor, cum laude, and a marketing background at Compass before he sold his first home. Listings get the launch a brand would get.
+
+### He answers
+
+Call, text or email and you hear back the same day. Trusts, tenants, six owners on one title, unpermitted additions: complicated is fine. Bring it to him.
+
+Get my home value Start my home search Call 310-269-5541
+
+Track record
+
+## The results behind it
+
+[18748 Lanark St, Reseda $156K over asking 7 offers in 9 days. Marketed to builders as a land play. See how →](https://www.nathanielgrivas.com/homes/18748-lanark) [616 N Fuller Ave, Fairfax $3,275,000, seller financed Structured with the sellers carrying the loan. I represented both sides. See how →](https://www.nathanielgrivas.com/homes/616-fuller) [14757 Hartland St, Van Nuys $31,000 off in escrow Won in multiple offers, then renegotiated after inspections. A two-ADU play. See how →](https://www.nathanielgrivas.com/homes/14757-hartland)
+
+## Background
+
+Nathaniel was raised between New York and Seattle and moved to Los Angeles for Loyola Marymount University, where he graduated cum laude in Marketing with a minor in Business Law. He worked in marketing at Compass before becoming an agent on The Brodsky Group, and he brings both to every deal: a marketer's eye for how a home is presented and found, and a contract-minded approach to terms, timelines and risk.
+
+## What he does
+
+Pricing and listing preparation, marketing and launch, buyer representation in competitive offers, negotiation through escrow, leasing, and development work: teardown and lot value analysis, zoning and ADU feasibility, and off-market sourcing for builders and investors. When a deal needs a lender, a contractor, an architect, a 1031 intermediary or a tax professional, he brings in the right one.
+
+## Where he works
+
+West Los Angeles, Beverly Hills and the Hills, the beach cities from Malibu to Playa del Rey, Hollywood to Silver Lake, and the San Fernando Valley. Every neighborhood he covers has its own page in [Local LA](https://www.nathanielgrivas.com/neighborhoods), with a map of the places locals go.
 
 ## Outside of real estate
 
-Basketball, golf and tennis, and time with friends and family. I write about the parts of LA that are actually worth your time in the [LA Guide](https://www.nathanielgrivas.com/guide).
+Basketball, golf and tennis, and time with friends and family.
 
 Reviews
 
-## What my clients say
+## What clients say
 
 [5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
@@ -43,12 +97,6 @@ Reviews
 “My team and I had the opportunity to work with Nate representing us in a sale of a property in Los Angeles. He was professional, timely, persistent and patient in helping get the sale closed. We look forward to working with him again on other transactions.”
 
 **Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
-Track record
-
-## Recent results
-
-[18748 Lanark St, Reseda $156K over asking 7 offers in 9 days. Marketed to builders as a land play. See how →](https://www.nathanielgrivas.com/homes/18748-lanark) [616 N Fuller Ave, Fairfax $3,275,000, seller financed Structured with the sellers carrying the loan. I represented both sides. See how →](https://www.nathanielgrivas.com/homes/616-fuller) [14757 Hartland St, Van Nuys $31,000 off in escrow Won in multiple offers, then renegotiated after inspections. A two-ADU play. See how →](https://www.nathanielgrivas.com/homes/14757-hartland)
 
 What you get
 
@@ -130,9 +178,9 @@ I work on The Brodsky Group, led by Or Brodsky at Compass Beverly Hills. Over $1
 
 Free, no obligation
 
-## Let's get you a number, or a home
+## Work with Nathaniel
 
-Pick one. It takes about a minute, and you'll hear from me today.
+Pick one. It takes about a minute, and you'll hear back today.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow

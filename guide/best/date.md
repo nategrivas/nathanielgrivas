@@ -1,12 +1,12 @@
-# Best Date night in Los Angeles by Neighborhood | The LA Guide
+# Best Date night in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/date
 
-The LA Guide
+Local LA
 
 # The best date night restaurants in Los Angeles
 
-109 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+113 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $$$$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 22706 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 22706 Pacific Coast Hwy
 
 The glamorous oceanfront flagship.
 
@@ -28,7 +28,7 @@ Sushi & Japanese Dinner
 
 $$$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 3835 Cross Creek Rd
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 3835 Cross Creek Rd
 
 A classic white-tablecloth Italian spot since the early 1990s.
 
@@ -42,7 +42,7 @@ Dinner
 
 $$$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · 4212 Lincoln Blvd
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · 4212 Lincoln Blvd
 
 A tiny Italian restaurant with excellent pasta in an unglamorous strip.
 
@@ -56,7 +56,7 @@ Dinner
 
 $$$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · 4371 Glencoe Ave
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · 4371 Glencoe Ave
 
 A hidden-gem sushi bar with one of the best omakase deals on the Westside.
 
@@ -70,7 +70,7 @@ Sushi & Japanese
 
 $$$$
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · 15255 Palisades Village Ln
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · 15255 Palisades Village Ln
 
 Nancy Silverton's new Italian steak and seafood restaurant in Palisades Village.
 
@@ -84,7 +84,7 @@ Dinner
 
 $$$
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · 1038 N Swarthmore Ave
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · 1038 N Swarthmore Ave
 
 An Italian restaurant and bar with indoor and outdoor seating in the Village.
 
@@ -98,7 +98,7 @@ Dinner Lunch
 
 $$
 
-[Playa del Rey](https://www.nathanielgrivas.com/guide/playa-del-rey) · 6805 S Vista Del Mar Ln
+[Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey/#eat) · 6805 S Vista Del Mar Ln
 
 A Mediterranean small-plates restaurant and the neighborhood's go-to for a night out.
 
@@ -112,7 +112,7 @@ Dinner Wine bars
 
 $$$
 
-[Playa del Rey](https://www.nathanielgrivas.com/guide/playa-del-rey) · 6935 Pacific Ave
+[Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey/#eat) · 6935 Pacific Ave
 
 A Roman-run Italian restaurant serving fresh pasta near the beach since 1997, with a heated back patio.
 
@@ -126,7 +126,7 @@ Dinner
 
 $$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 2723 Wilshire Blvd
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 2723 Wilshire Blvd
 
 Strong wood-fired pizza in a small room that still works for a date. The lines are shorter than they used to be.
 
@@ -140,7 +140,7 @@ Pizza
 
 $$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 1119 Wilshire Blvd
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 1119 Wilshire Blvd
 
 A seasonal menu built from the farmers market, and a Westside standard for years. Book ahead.
 
@@ -154,7 +154,7 @@ Dinner
 
 $$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 2732 Main St
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 2732 Main St
 
 A French restaurant reworked into a more relaxed bar menu. The famous pressed duck dinner is still there for a splurge.
 
@@ -168,7 +168,7 @@ Dinner
 
 $$$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 3003 Ocean Park Blvd
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 3003 Ocean Park Blvd
 
 A playful omakase with excellent nigiri. Plan on about $295 a person.
 
@@ -182,7 +182,7 @@ Sushi & Japanese
 
 $$$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 3110 Main St
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 3110 Main St
 
 Inventive, seasonal fine dining that still feels fun. The tasting menu runs about $295.
 
@@ -196,7 +196,7 @@ Dinner
 
 $$$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 1104 Wilshire Blvd
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 1104 Wilshire Blvd
 
 Long-running, very special-occasion tasting menu. There's an $800 minimum for two and a strict cancellation policy.
 
@@ -208,7 +208,7 @@ Long-running, very special-occasion tasting menu. There's an $800 minimum for tw
 
 $$$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 108 W Channel Rd
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 108 W Channel Rd
 
 An intimate Art Deco room in Santa Monica Canyon with ambitious French cooking.
 
@@ -222,7 +222,7 @@ Dinner
 
 $$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 1415 Ocean Ave
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 1415 Ocean Ave
 
 A moody basement piano lounge under the Georgian Hotel with a hidden entrance and live singing. Reservations required.
 
@@ -230,13 +230,13 @@ A moody basement piano lounge under the Georgian Hotel with a hidden entrance an
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=The+Georgian+Room+1415+Ocean+Ave+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
 
-Cocktail bars Live music
+Cocktail bars & lounges Live music
 
 ### Offhand Wine Bar
 
 $$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 3008 Santa Monica Blvd
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 3008 Santa Monica Blvd
 
 A casual natural wine bar where the staff actually explain the bottles.
 
@@ -250,7 +250,7 @@ Wine bars
 
 $$$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · 1023 Abbot Kinney Blvd
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · 1023 Abbot Kinney Blvd
 
 A handmade-pasta house at the beach end of Abbot Kinney and one of the hardest reservations on the Westside. Reviewers single out the pastas and the focaccia.
 
@@ -264,7 +264,7 @@ Dinner
 
 $$$$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Venice
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Venice
 
 A dim, lively izakaya that mixes traditional Japanese small plates with California produce.
 
@@ -278,7 +278,7 @@ Dinner Sushi & Japanese
 
 $$$$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Venice
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Venice
 
 Upscale Panamanian cooking that stands apart from the usual Venice menus, with a leafy patio and good cocktails.
 
@@ -292,7 +292,7 @@ Dinner
 
 $$$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Main St
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Main St
 
 A candlelit bungalow on Main Street. Critics recommend it more for the romance and the wine list than for the pasta.
 
@@ -306,7 +306,7 @@ Wine bars Dinner
 
 $$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Venice
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Venice
 
 A small dance bar with 80s hits, a disco ball, inventive cocktails and natural wine.
 
@@ -314,7 +314,7 @@ A small dance bar with 80s hits, a disco ball, inventive cocktails and natural w
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=The+Little+Friend+Venice+Venice+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-bars-in-venice) [Time Out](https://www.timeout.com/los-angeles/bars/best-venice-bars)
 
-Late night Cocktail bars
+Late night Cocktail bars & lounges
 
 ### Westside
 
@@ -322,7 +322,7 @@ Late night Cocktail bars
 
 $$$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 148 S Barrington Ave
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 148 S Barrington Ave
 
 A charming old-school steakhouse.
 
@@ -336,7 +336,7 @@ Dinner
 
 $$$$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 11777 San Vicente Blvd
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 11777 San Vicente Blvd
 
 A modern, dim steakhouse built around wagyu.
 
@@ -350,7 +350,7 @@ Dinner
 
 $$$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 11640 San Vicente Blvd
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 11640 San Vicente Blvd
 
 A warm brick-walled Italian room.
 
@@ -364,7 +364,7 @@ Dinner
 
 $$$$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 11628 Barrington Ct
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 11628 Barrington Ct
 
 A pricey, old-school red-sauce Italian institution.
 
@@ -378,7 +378,7 @@ Dinner
 
 $$$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 11650 San Vicente Blvd
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 11650 San Vicente Blvd
 
 A quiet Italian room that works for a calm date night.
 
@@ -388,11 +388,25 @@ A quiet Italian room that works for a calm date night.
 
 Dinner
 
+### Bar Toscana
+
+$$$
+
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 11633 San Vicente Blvd
+
+An intimate, stylish cocktail bar next door to Toscana, the longtime Brentwood power-dinner spot. Italian aperitivo drinks and small plates in a room that stays lively late.
+
+**Order:** A Negroni riff and a few small plates before or after dinner on San Vicente.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bar+Toscana+11633+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/bar-toscana)
+
+Cocktail bars & lounges
+
 ### Hinoki & the Bird
 
 $$$
 
-[Century City](https://www.nathanielgrivas.com/guide/century-city) · 10 W Century Dr
+[Century City](https://www.nathanielgrivas.com/neighborhoods/century-city/#eat) · 10 W Century Dr
 
 A Japanese-influenced California restaurant tucked under a residential tower, with a leafy patio.
 
@@ -406,7 +420,7 @@ Dinner Lunch
 
 $$$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 12517 W Washington Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 12517 W Washington Blvd
 
 Live-fire Southern cooking on a leafy patio.
 
@@ -420,7 +434,7 @@ Dinner
 
 $$$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 11208 Culver Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 11208 Culver Blvd
 
 A dark, old-school steakhouse and lounge that Frank Sinatra used to frequent.
 
@@ -428,13 +442,13 @@ A dark, old-school steakhouse and lounge that Frank Sinatra used to frequent.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Dear+John%27s+11208+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants)
 
-Dinner Cocktail bars
+Dinner Cocktail bars & lounges
 
 ### Beethoven Market
 
 $$
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 12904 Palms Blvd
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 12904 Palms Blvd
 
 Mar Vista's 75-year-old corner grocery, rebuilt into a rustic Italian restaurant with a patio. One of the restaurants that defined LA in 2025.
 
@@ -448,7 +462,7 @@ Brunch Dinner
 
 $$$
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 3811 Grand View Blvd
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 3811 Grand View Blvd
 
 A creative cocktail bar next to Little Fatty, with two back-to-back bars and a menu of a dozen house drinks.
 
@@ -456,13 +470,13 @@ A creative cocktail bar next to Little Fatty, with two back-to-back bars and a m
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
-Cocktail bars
+Cocktail bars & lounges
 
 ### Chez Mar
 
 $$$
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 12222 Venice Blvd
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 12222 Venice Blvd
 
 A small raw bar and Southern California bistro from the former chef at Dudley Market, and one of the Westside's best new spots.
 
@@ -476,7 +490,7 @@ Seafood Dinner
 
 $$$
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 3523 S Centinela Ave
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 3523 S Centinela Ave
 
 A neighborhood French bistro with an open kitchen counter and a reasonably priced tasting menu.
 
@@ -490,7 +504,7 @@ Dinner Wine bars
 
 $$
 
-[Palms](https://www.nathanielgrivas.com/guide/palms) · 10835 Venice Blvd
+[Palms](https://www.nathanielgrivas.com/neighborhoods/palms/#eat) · 10835 Venice Blvd
 
 A warm Latin-Caribbean dining room and bar whose cocktails use fresh-pressed sugar cane.
 
@@ -498,13 +512,13 @@ A warm Latin-Caribbean dining room and bar whose cocktails use fresh-pressed sug
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Bamboo+Restaurant+10835+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
-Dinner Cocktail bars
+Dinner Cocktail bars & lounges
 
 ### n/naka
 
 $$$$
 
-[Palms](https://www.nathanielgrivas.com/guide/palms) · 3455 S Overland Ave
+[Palms](https://www.nathanielgrivas.com/neighborhoods/palms/#eat) · 3455 S Overland Ave
 
 Chef Niki Nakayama's celebrated modern kaiseki tasting menu, one of the hardest reservations in LA.
 
@@ -518,7 +532,7 @@ Dinner
 
 $$$$
 
-[Pico-Robertson & Beverlywood](https://www.nathanielgrivas.com/guide/pico-robertson) · 9575 W Pico Blvd
+[Pico-Robertson & Beverlywood](https://www.nathanielgrivas.com/neighborhoods/pico-robertson/#eat) · 9575 W Pico Blvd
 
 A Michelin-recognized restaurant serving a seasonal four-course prix fixe.
 
@@ -532,7 +546,7 @@ Dinner
 
 $$$
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · Sawtelle Blvd
 
 A refined yakiniku grill.
 
@@ -546,7 +560,7 @@ Dinner
 
 $$$
 
-[Westchester](https://www.nathanielgrivas.com/guide/westchester) · 6261 W 87th St
+[Westchester](https://www.nathanielgrivas.com/neighborhoods/westchester/#eat) · 6261 W 87th St
 
 A seasonal, garden-to-table restaurant and bakery with a rooftop patio that looks out on planes landing at LAX.
 
@@ -560,7 +574,7 @@ Dinner Brunch Bakeries & dessert
 
 $$
 
-[Westchester](https://www.nathanielgrivas.com/guide/westchester) · 8522 Lincoln Blvd
+[Westchester](https://www.nathanielgrivas.com/neighborhoods/westchester/#eat) · 8522 Lincoln Blvd
 
 A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy hour.
 
@@ -568,13 +582,13 @@ A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
-Cocktail bars Dinner
+Cocktail bars & lounges Dinner
 
 ### Hamasaku
 
 $$$$
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 11043 Santa Monica Blvd
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 11043 Santa Monica Blvd
 
 A strip-mall sushi bar with a traditional omakase that's fairly priced for its quality.
 
@@ -588,7 +602,7 @@ Sushi & Japanese
 
 $$$
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 1121 Glendon Ave
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 1121 Glendon Ave
 
 A romantic French bistro with a patio in the Village.
 
@@ -608,7 +622,7 @@ What's my home worth? Find me a home
 
 $$$$
 
-[Bel Air](https://www.nathanielgrivas.com/guide/bel-air) · 701 Stone Canyon Rd
+[Bel Air](https://www.nathanielgrivas.com/neighborhoods/bel-air/#eat) · 701 Stone Canyon Rd
 
 A garden dining room at the famous hotel, next to the swan pond, with live jazz at the bar some nights.
 
@@ -616,13 +630,13 @@ A garden dining room at the famous hotel, next to the swan pond, with live jazz 
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=The+Restaurant+at+Hotel+Bel-Air+701+Stone+Canyon+Rd+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
 
-Dinner Brunch Cocktail bars
+Dinner Brunch Cocktail bars & lounges
 
 ### Il Segreto
 
 $$$
 
-[Bel Air](https://www.nathanielgrivas.com/guide/bel-air) · 2932 Beverly Glen Cir
+[Bel Air](https://www.nathanielgrivas.com/neighborhoods/bel-air/#eat) · 2932 Beverly Glen Cir
 
 A warm Italian restaurant at the Beverly Glen Circle shopping center up the canyon.
 
@@ -636,7 +650,7 @@ Dinner
 
 $$$$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 176 N Canon Dr
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 176 N Canon Dr
 
 The iconic LA dining room, with attentive service and a big-night feel.
 
@@ -650,7 +664,7 @@ Dinner
 
 $$$$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 9388 S Santa Monica Blvd
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 9388 S Santa Monica Blvd
 
 A three-level pasta palace with reliably excellent handmade pasta. The rooftop bar is walk-in only.
 
@@ -664,7 +678,7 @@ Dinner Rooftops & views
 
 $$$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 9785 S Santa Monica Blvd
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 9785 S Santa Monica Blvd
 
 An old Hollywood red-sauce room with strong martinis and real glamour.
 
@@ -672,13 +686,13 @@ An old Hollywood red-sauce room with strong martinis and real glamour.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=La+Dolce+Vita+9785+S+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
 
-Dinner Cocktail bars
+Dinner Cocktail bars & lounges
 
 ### Sushi Note Omakase
 
 $$$$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 421 N Rodeo Dr
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 421 N Rodeo Dr
 
 A hidden four-seat counter that critics say makes the best nigiri in Beverly Hills.
 
@@ -692,7 +706,7 @@ Sushi & Japanese
 
 $$$$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 212 N Canon Dr
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 212 N Canon Dr
 
 An omakase room tucked behind Sugarfish, with two 10-person seatings a night.
 
@@ -702,11 +716,25 @@ An omakase room tucked behind Sugarfish, with two 10-person seatings a night.
 
 Sushi & Japanese
 
+### The Rooftop at the Waldorf Astoria
+
+$$$$
+
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 9850 Wilshire Blvd
+
+A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
+
+**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+
+Rooftops & views Cocktail bars & lounges
+
 ### Pace
 
 $$$
 
-[Hollywood Hills](https://www.nathanielgrivas.com/guide/hollywood-hills) · 2100 Laurel Canyon Blvd
+[Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills/#eat) · 2100 Laurel Canyon Blvd
 
 A cozy, romantic Italian restaurant tucked below the Canyon Country Store.
 
@@ -722,7 +750,7 @@ Dinner
 
 $$
 
-[Beverly Grove](https://www.nathanielgrivas.com/guide/beverly-grove) · 8136 W 3rd St
+[Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#eat) · 8136 W 3rd St
 
 An affordable French neighborhood bistro that fits almost any occasion.
 
@@ -736,7 +764,7 @@ Dinner
 
 $$
 
-[Beverly Grove](https://www.nathanielgrivas.com/guide/beverly-grove) · 8142 W 3rd St
+[Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#eat) · 8142 W 3rd St
 
 A colorful Roman-leaning Italian spot with pinsa, a burrata bar and lush outdoor seating.
 
@@ -750,7 +778,7 @@ Dinner Pizza
 
 $$$
 
-[Beverly Grove](https://www.nathanielgrivas.com/guide/beverly-grove) · 8700 W 3rd St
+[Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#eat) · 8700 W 3rd St
 
 Suzanne Goin's small-plates restaurant with one of the best wine lists in LA and a beautiful courtyard.
 
@@ -764,7 +792,7 @@ Dinner Wine bars
 
 $$$
 
-[Beverly Grove](https://www.nathanielgrivas.com/guide/beverly-grove) · 7963 Melrose Ave
+[Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#eat) · 7963 Melrose Ave
 
 An old-school Argentinian steakhouse and one of the true neighborhood restaurants left in the area.
 
@@ -778,7 +806,7 @@ Dinner
 
 $$$
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 7313 Beverly Blvd
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 7313 Beverly Blvd
 
 A quarter-century-old Italian institution.
 
@@ -792,7 +820,7 @@ Dinner
 
 $$$
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 351 N Fairfax Ave
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 351 N Fairfax Ave
 
 A clubby Afro-Caribbean restaurant.
 
@@ -806,7 +834,7 @@ Dinner
 
 $$
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 361 S Fairfax Ave
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 361 S Fairfax Ave
 
 A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
 
@@ -814,13 +842,13 @@ A dim, no-menu cocktail bar where the bartenders build a drink around your taste
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
-Cocktail bars
+Cocktail bars & lounges
 
 ### Cold Shoulder
 
 $$$
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 359 S Fairfax Ave
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 359 S Fairfax Ave
 
 A moody speakeasy across from The Grove with elaborate cocktails.
 
@@ -828,13 +856,13 @@ A moody speakeasy across from The Grove with elaborate cocktails.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
-Cocktail bars
+Cocktail bars & lounges
 
 ### Osteria Mamma
 
 $$
 
-[Hancock Park & Larchmont](https://www.nathanielgrivas.com/guide/hancock-park) · 5732 Melrose Ave
+[Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park/#eat) · 5732 Melrose Ave
 
 A warm, family-run Italian osteria with house-made pasta.
 
@@ -848,7 +876,7 @@ Dinner
 
 $$$$
 
-[Hancock Park & Larchmont](https://www.nathanielgrivas.com/guide/hancock-park) · 6602 Melrose Ave
+[Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park/#eat) · 6602 Melrose Ave
 
 Nancy Silverton's sit-down Italian dining room, with a mozzarella bar.
 
@@ -862,7 +890,7 @@ Dinner
 
 $$$$
 
-[Hancock Park & Larchmont](https://www.nathanielgrivas.com/guide/hancock-park) · 6610 Melrose Ave
+[Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park/#eat) · 6610 Melrose Ave
 
 The meat-focused member of the Mozza group, built around big cuts and house charcuterie.
 
@@ -876,7 +904,7 @@ Dinner
 
 $$$$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 5955 Melrose Ave
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 5955 Melrose Ave
 
 Two-Michelin-star seafood tasting menus in a hushed room. One of LA's great splurges.
 
@@ -890,7 +918,7 @@ Seafood Dinner
 
 $$$$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 6600 Sunset Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 6600 Sunset Blvd
 
 Curtis Stone's Michelin-starred butcher shop and steakhouse with a fire-pit dining room.
 
@@ -904,7 +932,7 @@ Dinner
 
 $$$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 7617 Sunset Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 7617 Sunset Blvd
 
 A European-style bistro in an old Hollywood haunt with an anything-goes energy.
 
@@ -918,7 +946,7 @@ Dinner Late night
 
 $$$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 6516 Selma Ave
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 6516 Selma Ave
 
 A Yucatán-inspired restaurant inside the Tommie hotel that feels like a resort.
 
@@ -932,7 +960,7 @@ Dinner Tacos & Mexican
 
 $$$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 7000 Hollywood Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 7000 Hollywood Blvd
 
 A cocktail lounge inside the Hollywood Roosevelt with two antique bowling lanes.
 
@@ -940,13 +968,13 @@ A cocktail lounge inside the Hollywood Roosevelt with two antique bowling lanes.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=The+Spare+Room+7000+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-hollywood)
 
-Cocktail bars
+Cocktail bars & lounges
 
 ### Hotel Café
 
 $
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 1623 N Cahuenga Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 1623 N Cahuenga Blvd
 
 An intimate room for singer-songwriters.
 
@@ -956,11 +984,25 @@ An intimate room for singer-songwriters.
 
 Live music
 
+### Bar Lis
+
+$$$
+
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 1541 N Wilcox Ave
+
+A French Riviera-style lounge on the roof of the Thompson Hollywood, with a straight view of the Hollywood Sign. Jazz on Tuesdays, a packed dance floor on Saturdays.
+
+**Order:** Come early for sunset, or book ahead on weekends when table minimums kick in.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bar+Lis+1541+N+Wilcox+Ave+Hollywood+Los+Angeles+CA) Sources: [Michelin Guide](https://guide.michelin.com/en/hotels-stays/los-angeles-area/thompson-hollywood-12410) [Time Out](https://www.timeout.com/los-angeles/bars/bar-lis)
+
+Rooftops & views Cocktail bars & lounges
+
 ### République
 
 $$$
 
-[Miracle Mile](https://www.nathanielgrivas.com/guide/miracle-mile) · 624 S La Brea Ave
+[Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile/#eat) · 624 S La Brea Ave
 
 Walter and Margarita Manzke's French bakery and restaurant in a landmark 1920s building, packed for brunch and a dressier room at dinner.
 
@@ -974,7 +1016,7 @@ Brunch Breakfast Bakeries & dessert
 
 $$$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 9045 Nemo St
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 9045 Nemo St
 
 A Michelin-level tasting counter with a long, theatrical, seafood-heavy menu. One of the most expensive meals in LA.
 
@@ -988,7 +1030,7 @@ Dinner
 
 $$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 623 N La Peer Dr
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 623 N La Peer Dr
 
 A striking Art Deco room serving Lebanese food built for sharing.
 
@@ -1002,7 +1044,7 @@ Dinner
 
 $$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 631 N Robertson Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 631 N Robertson Blvd
 
 Sean Brock's hearth-cooking restaurant in a room built around a vinyl sound system.
 
@@ -1016,7 +1058,7 @@ Dinner
 
 $$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8451 Melrose Ave
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8451 Melrose Ave
 
 A lush courtyard Italian spot that's one of the liveliest scenes in WeHo.
 
@@ -1030,7 +1072,7 @@ Dinner
 
 $$$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8430 Sunset Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8430 Sunset Blvd
 
 A rooftop Art Deco room with one of the best skyline views on the Strip.
 
@@ -1044,7 +1086,7 @@ Dinner Rooftops & views
 
 $$$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8358 Sunset Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8358 Sunset Blvd
 
 The Sunset Tower Hotel's old Hollywood bar and pool deck.
 
@@ -1052,7 +1094,21 @@ The Sunset Tower Hotel's old Hollywood bar and pool deck.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Tower+Bar+8358+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-west-hollywood) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood)
 
-Cocktail bars
+Cocktail bars & lounges
+
+### Delilah
+
+$$$$
+
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 7969 Santa Monica Blvd
+
+A Roaring Twenties supper club from the h.wood group, with live music, a grand bar and one of the hardest reservations in LA. Dress up; this is the room people book for the big night.
+
+**Order:** Book weeks out, arrive for dinner and stay for the late set.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Delilah+7969+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [CBS LA](https://www.cbsnews.com/losangeles/news/best-bars-in-west-hollywood) [Visit West Hollywood](https://www.visitwesthollywood.com/nightlife/)
+
+Cocktail bars & lounges Live music
 
 ### Eastside
 
@@ -1060,7 +1116,7 @@ Cocktail bars
 
 $$$
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 4845 Fountain Ave
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 4845 Fountain Ave
 
 A wood-fired Middle Eastern kebab house from the team behind Bavel and Bestia.
 
@@ -1074,7 +1130,7 @@ Dinner
 
 $$$
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 4880 Fountain Ave
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 4880 Fountain Ave
 
 A small, buzzing raw bar with excellent oysters.
 
@@ -1088,7 +1144,7 @@ Seafood Dinner
 
 $$$
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 737 N Western Ave
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 737 N Western Ave
 
 A candlelit Italian room with a focus on grilled meats.
 
@@ -1102,7 +1158,7 @@ Dinner
 
 $$
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 632 N Western Ave
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 632 N Western Ave
 
 A cozy French wine bar with a short, satisfying menu.
 
@@ -1110,13 +1166,13 @@ A cozy French wine bar with a short, satisfying menu.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Bar+Etoile+632+N+Western+Ave+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
 
-Wine bars Cocktail bars
+Wine bars Cocktail bars & lounges
 
 ### A Tí
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1498 W Sunset Blvd
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1498 W Sunset Blvd
 
 Modern Mexican cooking with a patio built for cocktails.
 
@@ -1130,7 +1186,7 @@ Dinner Tacos & Mexican
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1538 W Sunset Blvd
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1538 W Sunset Blvd
 
 A red-sauce Italian room with icy martinis.
 
@@ -1144,7 +1200,7 @@ Dinner
 
 $$$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1356 Allison Ave
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1356 Allison Ave
 
 A cozy Japanese izakaya known for yakitori and sake.
 
@@ -1158,7 +1214,7 @@ Sushi & Japanese Dinner
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · Echo Park
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · Echo Park
 
 A Roman-inspired Italian restaurant with a big wood-framed dining room and patio, and one of the best Italian meals in LA.
 
@@ -1172,7 +1228,7 @@ Dinner Brunch
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1228 Sunset Blvd
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1228 Sunset Blvd
 
 A moody, velvet-lined cocktail bar with deep whiskey and agave lists, near Dodger Stadium.
 
@@ -1180,13 +1236,13 @@ A moody, velvet-lined cocktail bar with deep whiskey and agave lists, near Dodge
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Bar+Henry+1228+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
-Cocktail bars
+Cocktail bars & lounges
 
 ### Little Dom's
 
 $$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 2128 Hillhurst Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 2128 Hillhurst Ave
 
 A time-capsule Italian room that works from breakfast to a late dinner.
 
@@ -1200,7 +1256,7 @@ Dinner Brunch
 
 $$$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1850 Hillhurst Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 1850 Hillhurst Ave
 
 A candlelit British restaurant that's become the hardest table in the neighborhood.
 
@@ -1214,7 +1270,7 @@ Dinner
 
 $$$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1712 N Vermont Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 1712 N Vermont Ave
 
 A stunning multi-level Mexican courtyard where the cocktails are the main event.
 
@@ -1222,13 +1278,13 @@ A stunning multi-level Mexican courtyard where the cocktails are the main event.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=M%C3%ADrate+1712+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
 
-Dinner Cocktail bars
+Dinner Cocktail bars & lounges
 
 ### Briciola
 
 $$$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 3131 Sunset Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 3131 Sunset Blvd
 
 Candlelit Italian with clever Brazilian twists. The room is tight, which is part of the charm.
 
@@ -1242,7 +1298,7 @@ Dinner
 
 $$$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 4156 Santa Monica Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 4156 Santa Monica Blvd
 
 An indulgent French-Italian bistro in a playful yellow bungalow. The menu changes monthly.
 
@@ -1256,7 +1312,7 @@ Dinner
 
 $$$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 3932 W Sunset Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 3932 W Sunset Blvd
 
 Classic bistro food in a lively, slightly grungy courtyard. Book ahead.
 
@@ -1266,27 +1322,13 @@ Classic bistro food in a lively, slightly grungy courtyard. Book ahead.
 
 Dinner
 
-### 4100 Bar
-
-$
-
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 1087 Manzanita St
-
-A low-lit, bohemian dive with fabric draped from the ceiling. Cash only.
-
-**Order:** A Moscow mule on a Friday or Saturday.
-
-[Map ↗](https://www.google.com/maps/search/?api=1&query=4100+Bar+1087+Manzanita+St+Silver+Lake+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/bars/the-best-silver-lake-bars) [Fodor's](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/los-feliz-and-the-eastside/things-to-do/nightlife)
-
-Dive bars
-
 ### Valley
 
 ### Shin Sushi
 
 $$$$
 
-[Encino](https://www.nathanielgrivas.com/guide/encino) · 16573 Ventura Blvd
+[Encino](https://www.nathanielgrivas.com/neighborhoods/encino/#eat) · 16573 Ventura Blvd
 
 An intimate omakase counter where the chef talks you through every piece. A special-occasion splurge.
 
@@ -1300,7 +1342,7 @@ Sushi & Japanese
 
 $$$
 
-[Encino](https://www.nathanielgrivas.com/guide/encino) · 16120 Ventura Blvd
+[Encino](https://www.nathanielgrivas.com/neighborhoods/encino/#eat) · 16120 Ventura Blvd
 
 A classic steak and seafood house, known for prime rib and its holiday decorations.
 
@@ -1314,7 +1356,7 @@ Dinner
 
 $$$
 
-[Encino](https://www.nathanielgrivas.com/guide/encino) · 18047 Ventura Blvd
+[Encino](https://www.nathanielgrivas.com/neighborhoods/encino/#eat) · 18047 Ventura Blvd
 
 An upscale kosher dairy restaurant serving fish, Mediterranean plates and sushi.
 
@@ -1328,7 +1370,7 @@ Dinner Seafood
 
 $$$
 
-[Sherman Oaks](https://www.nathanielgrivas.com/guide/sherman-oaks) · 13705 Ventura Blvd
+[Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks/#eat) · 13705 Ventura Blvd
 
 Ludo Lefebvre's French brasserie, at its best in the morning.
 
@@ -1342,7 +1384,7 @@ Breakfast Brunch
 
 $$
 
-[Sherman Oaks](https://www.nathanielgrivas.com/guide/sherman-oaks) · 14704 Ventura Blvd
+[Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks/#eat) · 14704 Ventura Blvd
 
 A family-run Thai restaurant that ranks among the best in LA, with a big natural wine list.
 
@@ -1356,7 +1398,7 @@ Dinner Wine bars
 
 $$$
 
-[Sherman Oaks](https://www.nathanielgrivas.com/guide/sherman-oaks) · 13422 Ventura Blvd
+[Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks/#eat) · 13422 Ventura Blvd
 
 A decades-old French bistro, recently reopened.
 
@@ -1370,7 +1412,7 @@ Dinner
 
 $$$$
 
-[Sherman Oaks](https://www.nathanielgrivas.com/guide/sherman-oaks) · 13447 Ventura Blvd
+[Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks/#eat) · 13447 Ventura Blvd
 
 A sushi bar with a serious wine program.
 
@@ -1384,7 +1426,7 @@ Sushi & Japanese Wine bars
 
 $$$$
 
-[Sherman Oaks](https://www.nathanielgrivas.com/guide/sherman-oaks) · 13817 Ventura Blvd
+[Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks/#eat) · 13817 Ventura Blvd
 
 A classic steakhouse with ice-cold martinis.
 
@@ -1392,13 +1434,13 @@ A classic steakhouse with ice-cold martinis.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=BLVD+Steak+13817+Ventura+Blvd+Sherman+Oaks+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-sherman-oaks)
 
-Dinner Cocktail bars
+Dinner Cocktail bars & lounges
 
 ### Black Market Liquor Bar
 
 $$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 11915 Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 11915 Ventura Blvd
 
 A long-running gastropub under a brick barrel ceiling with a big shareable menu that works for groups.
 
@@ -1406,13 +1448,13 @@ A long-running gastropub under a brick barrel ceiling with a big shareable menu 
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Black+Market+Liquor+Bar+11915+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
-Dinner Cocktail bars
+Dinner Cocktail bars & lounges
 
 ### Uovo
 
 $$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · Ventura Blvd
 
 A casual pasta bar making fresh pasta in a relaxed setting.
 
@@ -1426,7 +1468,7 @@ Dinner
 
 $$$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 12345 Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 12345 Ventura Blvd
 
 An Italian dining room pairing raw seafood with pastas and a good wine list. Dinner only, closed Mondays.
 
@@ -1440,7 +1482,7 @@ Dinner Seafood
 
 $$$$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 12969 Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 12969 Ventura Blvd
 
 A dark, moody Argentine steakhouse built around an open fire grill.
 
@@ -1454,7 +1496,7 @@ Dinner
 
 $$$$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 11941 Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 11941 Ventura Blvd
 
 An old-school sushi bar on Ventura's sushi row, known for pristine nigiri.
 
@@ -1464,11 +1506,25 @@ An old-school sushi bar on Ventura's sushi row, known for pristine nigiri.
 
 Sushi & Japanese Dinner
 
+### Firefly
+
+$$$
+
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 11720 Ventura Blvd
+
+A candlelit restaurant and lounge with a library bar and heated patios with fireplaces. The Valley's dress-up night out, busy until late.
+
+**Order:** Drinks in the library, then dinner on the patio. Book ahead on weekends.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Firefly+11720+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/firefly-studio-city)
+
+Cocktail bars & lounges Dinner
+
 ### Traktir
 
 $$$
 
-[Tarzana](https://www.nathanielgrivas.com/guide/tarzana) · 18588 Ventura Blvd
+[Tarzana](https://www.nathanielgrivas.com/neighborhoods/tarzana/#eat) · 18588 Ventura Blvd
 
 A white-tablecloth Eastern European restaurant with house-infused vodka flights.
 
@@ -1482,7 +1538,7 @@ Dinner
 
 $$$$
 
-[Tarzana](https://www.nathanielgrivas.com/guide/tarzana) · 5442 Yolanda Ave
+[Tarzana](https://www.nathanielgrivas.com/neighborhoods/tarzana/#eat) · 5442 Yolanda Ave
 
 An upscale kosher Mediterranean tapas restaurant that turns into a party with a DJ later at night.
 
@@ -1490,13 +1546,13 @@ An upscale kosher Mediterranean tapas restaurant that turns into a party with a 
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=TLV+Tapas+Bar+5442+Yolanda+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
-Cocktail bars Late night
+Cocktail bars & lounges Late night
 
 ### Le Sanglier
 
 $$$
 
-[Tarzana](https://www.nathanielgrivas.com/guide/tarzana) · 5522 Crebs Ave
+[Tarzana](https://www.nathanielgrivas.com/neighborhoods/tarzana/#eat) · 5522 Crebs Ave
 
 A father-and-son French restaurant open for more than 50 years, with a cozy lodge-style dining room. Dinner Wednesday through Saturday.
 
@@ -1510,7 +1566,7 @@ Dinner
 
 $$
 
-[Valley Village](https://www.nathanielgrivas.com/guide/valley-village) · 5424 Laurel Canyon Blvd
+[Valley Village](https://www.nathanielgrivas.com/neighborhoods/valley-village/#eat) · 5424 Laurel Canyon Blvd
 
 A cozy, old-school Italian spot with a record player spinning at the bar.
 
@@ -1524,7 +1580,7 @@ Dinner
 
 $$$
 
-[Woodland Hills](https://www.nathanielgrivas.com/guide/woodland-hills) · 21150 Ventura Blvd
+[Woodland Hills](https://www.nathanielgrivas.com/neighborhoods/woodland-hills/#eat) · 21150 Ventura Blvd
 
 A small, ambitious neighborhood restaurant with a seasonal menu, a tasting menu option and weekend brunch.
 
@@ -1538,7 +1594,7 @@ Dinner Brunch
 
 $$$$
 
-[Woodland Hills](https://www.nathanielgrivas.com/guide/woodland-hills) · 21418 Ventura Blvd
+[Woodland Hills](https://www.nathanielgrivas.com/neighborhoods/woodland-hills/#eat) · 21418 Ventura Blvd
 
 A lively, high-end sushi restaurant with fish sourced from Japan, in an unassuming building.
 
@@ -1552,7 +1608,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

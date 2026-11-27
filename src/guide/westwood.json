@@ -1,30 +1,301 @@
-{"slug": "westwood", "updated": "2026-11-26",
+{
+ "slug": "westwood",
+ "updated": "2026-11-26",
  "intro": "Westwood runs from the UCLA campus and Westwood Village south past Wilshire, where Westwood Boulevard turns into LA's best stretch of Persian food. The Village has historic movie palaces, late-night eats and the free Hammer Museum.",
  "sources": {
-  "inf": ["The Infatuation: Where to eat in Westwood", "https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood"],
-  "infww": ["The Infatuation: Westwood", "https://theinfatuation.com/los-angeles/neighborhoods/westwood"],
-  "gm": ["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA"]
+  "inf": [
+   "The Infatuation: Where to eat in Westwood",
+   "https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood"
+  ],
+  "infww": [
+   "The Infatuation: Westwood",
+   "https://theinfatuation.com/los-angeles/neighborhoods/westwood"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA"
+  ]
  },
  "places": [
-  {"n": "Sana'a Cafe", "c": ["coffee", "latenight"], "a": "939 Broxton Ave", "p": "$", "w": "A Yemeni coffeehouse with comfortable seating upstairs, board games and late hours. A favorite study spot.", "o": "The pumpkin chai or a Yemeni coffee.", "s": ["gm"]},
-  {"n": "Sipp Coffee House", "c": ["coffee"], "a": "1427 Westwood Blvd", "p": "$", "w": "A cozy local coffee shop with good music and Wi-Fi.", "o": "The iced vanilla latte with house-made syrup.", "s": ["gm"]},
-  {"n": "Pera LA", "c": ["breakfast", "brunch"], "a": "1942 Westwood Blvd", "p": "$$", "w": "A casual Turkish spot built around a big shared breakfast.", "o": "The Turkish breakfast for two and menemen.", "s": ["inf"]},
-  {"n": "Attari Sandwich Shop", "c": ["lunch", "cheap"], "a": "1388 Westwood Blvd", "p": "$", "w": "A daytime Persian sandwich classic with a courtyard.", "o": "The beef tongue sandwich and kuku sabzi.", "s": ["inf"]},
-  {"n": "Shamshiri Grill", "c": ["dinner"], "a": "1712 Westwood Blvd", "p": "$$", "w": "A Persian landmark on Westwood Boulevard since 1981.", "o": "Tahchin and the tahdig with stew.", "s": ["inf"]},
-  {"n": "Taste of Tehran", "c": ["lunch", "cheap"], "a": "1915 Westwood Blvd", "p": "$", "w": "A counter-service kabob shop with some of the juiciest meat in town.", "o": "A kabob plate with mast-o-musir.", "s": ["inf", "infww"]},
-  {"n": "Toranj", "c": ["dinner", "lunch"], "a": "10861 Lindbrook Dr", "p": "$$", "w": "A Persian spot in the Village with a sidewalk patio.", "o": "The Juicy Chicken kabob.", "s": ["inf", "infww"]},
-  {"n": "Sunnin Lebanese Cafe", "c": ["lunch", "cheap"], "a": "1776 Westwood Blvd", "p": "$", "w": "Quick counter service and some of the best shawarma in LA.", "o": "Shawarma, fried cauliflower and falafel.", "s": ["inf", "infww"]},
-  {"n": "Café Glacé", "c": ["pizza", "latenight"], "a": "1441 Westwood Blvd", "p": "$$", "w": "Thin, crunchy Persian-style pizza, open late on weekends.", "o": "The Mix pie.", "s": ["inf"]},
-  {"n": "Mandi House", "c": ["dinner", "latenight"], "a": "1083 Gayley Ave", "p": "$$", "w": "A roomy Yemeni restaurant built for big groups, serving until 1am.", "o": "A mandi spread for the table.", "s": ["inf"]},
-  {"n": "Sichuan Impression", "c": ["dinner"], "a": "11057 Santa Monica Blvd", "p": "$$", "w": "Big, bold Sichuan cooking in a second-floor room good for groups.", "o": "Tea-smoked ribs and mapo tofu.", "s": ["inf"]},
-  {"n": "Hakata Izakaya Hero", "c": ["dinner", "sushi"], "a": "1929 Westwood Blvd", "p": "$$", "w": "A tiny izakaya of shareable plates made for beer and sake.", "o": "Several small plates. Expect a wait.", "s": ["inf"]},
-  {"n": "Hamasaku", "c": ["sushi", "date"], "a": "11043 Santa Monica Blvd", "p": "$$$$", "w": "A strip-mall sushi bar with a traditional omakase that's fairly priced for its quality.", "o": "The omakase.", "s": ["inf"]},
-  {"n": "Emporium Thai", "c": ["dinner"], "a": "1275 Westwood Blvd", "p": "$$", "w": "A family-run Southern Thai restaurant that's great for groups.", "o": "Southern seafood curry and the Phuket wings.", "s": ["inf"]},
-  {"n": "Lulu", "c": ["lunch", "brunch"], "a": "10899 Wilshire Blvd", "p": "$$", "w": "The Hammer Museum's patio restaurant, with a daily prix-fixe and seasonal plates.", "o": "A focaccia sandwich or the prix-fixe.", "s": ["inf"]},
-  {"n": "Violet Bistro", "c": ["dinner", "date"], "a": "1121 Glendon Ave", "p": "$$$", "w": "A romantic French bistro with a patio in the Village.", "o": "Steak au poivre with a baguette.", "s": ["inf"]},
-  {"n": "Gushi", "c": ["lunch", "cheap"], "a": "978 Gayley Ave", "p": "$", "w": "A Korean walk-up window and one of the best values in the Village.", "o": "The lunch combo meat plate.", "s": ["inf"]},
-  {"n": "Diddy Riese", "c": ["bakery", "cheap", "kids"], "a": "926 Broxton Ave", "p": "$", "w": "The ice cream cookie sandwich institution. The line is long and worth it.", "o": "Two fresh cookies with a scoop in the middle.", "s": ["inf"]},
-  {"n": "Saffron and Rose", "c": ["bakery", "kids"], "a": "1385 Westwood Blvd", "p": "$", "w": "Persian ice cream with shorter lines than Diddy Riese.", "o": "Saffron pistachio.", "s": ["inf"]},
-  {"n": "Barney's Beanery", "c": ["sports", "bars", "latenight"], "a": "1037 Broxton Ave", "p": "$$", "w": "A friendly Village sports bar with TVs in every direction and big portions.", "o": "The house IPA and onion rings on game day.", "s": ["gm"]},
-  {"n": "Hammer Museum", "c": ["museum", "art"], "a": "10899 Wilshire Blvd", "p": "Free", "w": "UCLA's free contemporary art museum with a courtyard, a strong shop and free screenings and talks.", "o": "Check the events calendar, then lunch at Lulu.", "s": ["gm"]}
- ]}
+  {
+   "n": "Sana'a Cafe",
+   "c": [
+    "coffee",
+    "latenight"
+   ],
+   "a": "939 Broxton Ave",
+   "p": "$",
+   "w": "A Yemeni coffeehouse with comfortable seating upstairs, board games and late hours. A favorite study spot.",
+   "o": "The pumpkin chai or a Yemeni coffee.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Sipp Coffee House",
+   "c": [
+    "coffee"
+   ],
+   "a": "1427 Westwood Blvd",
+   "p": "$",
+   "w": "A cozy local coffee shop with good music and Wi-Fi.",
+   "o": "The iced vanilla latte with house-made syrup.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Pera LA",
+   "c": [
+    "breakfast",
+    "brunch"
+   ],
+   "a": "1942 Westwood Blvd",
+   "p": "$$",
+   "w": "A casual Turkish spot built around a big shared breakfast.",
+   "o": "The Turkish breakfast for two and menemen.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Attari Sandwich Shop",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "1388 Westwood Blvd",
+   "p": "$",
+   "w": "A daytime Persian sandwich classic with a courtyard.",
+   "o": "The beef tongue sandwich and kuku sabzi.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Shamshiri Grill",
+   "c": [
+    "dinner"
+   ],
+   "a": "1712 Westwood Blvd",
+   "p": "$$",
+   "w": "A Persian landmark on Westwood Boulevard since 1981.",
+   "o": "Tahchin and the tahdig with stew.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Taste of Tehran",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "1915 Westwood Blvd",
+   "p": "$",
+   "w": "A counter-service kabob shop with some of the juiciest meat in town.",
+   "o": "A kabob plate with mast-o-musir.",
+   "s": [
+    "inf",
+    "infww"
+   ]
+  },
+  {
+   "n": "Toranj",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "10861 Lindbrook Dr",
+   "p": "$$",
+   "w": "A Persian spot in the Village with a sidewalk patio.",
+   "o": "The Juicy Chicken kabob.",
+   "s": [
+    "inf",
+    "infww"
+   ]
+  },
+  {
+   "n": "Sunnin Lebanese Cafe",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "1776 Westwood Blvd",
+   "p": "$",
+   "w": "Quick counter service and some of the best shawarma in LA.",
+   "o": "Shawarma, fried cauliflower and falafel.",
+   "s": [
+    "inf",
+    "infww"
+   ]
+  },
+  {
+   "n": "Café Glacé",
+   "c": [
+    "pizza",
+    "latenight"
+   ],
+   "a": "1441 Westwood Blvd",
+   "p": "$$",
+   "w": "Thin, crunchy Persian-style pizza, open late on weekends.",
+   "o": "The Mix pie.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Mandi House",
+   "c": [
+    "dinner",
+    "latenight"
+   ],
+   "a": "1083 Gayley Ave",
+   "p": "$$",
+   "w": "A roomy Yemeni restaurant built for big groups, serving until 1am.",
+   "o": "A mandi spread for the table.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Sichuan Impression",
+   "c": [
+    "dinner"
+   ],
+   "a": "11057 Santa Monica Blvd",
+   "p": "$$",
+   "w": "Big, bold Sichuan cooking in a second-floor room good for groups.",
+   "o": "Tea-smoked ribs and mapo tofu.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Hakata Izakaya Hero",
+   "c": [
+    "dinner",
+    "sushi"
+   ],
+   "a": "1929 Westwood Blvd",
+   "p": "$$",
+   "w": "A tiny izakaya of shareable plates made for beer and sake.",
+   "o": "Several small plates. Expect a wait.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Hamasaku",
+   "c": [
+    "sushi",
+    "date"
+   ],
+   "a": "11043 Santa Monica Blvd",
+   "p": "$$$$",
+   "w": "A strip-mall sushi bar with a traditional omakase that's fairly priced for its quality.",
+   "o": "The omakase.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Emporium Thai",
+   "c": [
+    "dinner"
+   ],
+   "a": "1275 Westwood Blvd",
+   "p": "$$",
+   "w": "A family-run Southern Thai restaurant that's great for groups.",
+   "o": "Southern seafood curry and the Phuket wings.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Lulu",
+   "c": [
+    "lunch",
+    "brunch"
+   ],
+   "a": "10899 Wilshire Blvd",
+   "p": "$$",
+   "w": "The Hammer Museum's patio restaurant, with a daily prix-fixe and seasonal plates.",
+   "o": "A focaccia sandwich or the prix-fixe.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Violet Bistro",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "1121 Glendon Ave",
+   "p": "$$$",
+   "w": "A romantic French bistro with a patio in the Village.",
+   "o": "Steak au poivre with a baguette.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Gushi",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "978 Gayley Ave",
+   "p": "$",
+   "w": "A Korean walk-up window and one of the best values in the Village.",
+   "o": "The lunch combo meat plate.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Diddy Riese",
+   "c": [
+    "bakery",
+    "cheap",
+    "kids"
+   ],
+   "a": "926 Broxton Ave",
+   "p": "$",
+   "w": "The ice cream cookie sandwich institution. The line is long and worth it.",
+   "o": "Two fresh cookies with a scoop in the middle.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Saffron and Rose",
+   "c": [
+    "bakery",
+    "kids"
+   ],
+   "a": "1385 Westwood Blvd",
+   "p": "$",
+   "w": "Persian ice cream with shorter lines than Diddy Riese.",
+   "o": "Saffron pistachio.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Hammer Museum",
+   "c": [
+    "museum",
+    "art"
+   ],
+   "a": "10899 Wilshire Blvd",
+   "p": "Free",
+   "w": "UCLA's free contemporary art museum with a courtyard, a strong shop and free screenings and talks.",
+   "o": "Check the events calendar, then lunch at Lulu.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

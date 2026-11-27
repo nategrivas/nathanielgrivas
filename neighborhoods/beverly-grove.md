@@ -1,4 +1,4 @@
-# Living in Beverly Grove, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Beverly Grove, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/beverly-grove
 
@@ -51,21 +51,296 @@ From above
 
 What's my home worth? Get Beverly Grove listings
 
-## Around Beverly Grove
+Local LA
 
-[The full Beverly Grove guide: 15 places →](https://www.nathanielgrivas.com/guide/beverly-grove)
+## Where to eat, drink and go in Beverly Grove
 
-[Joan's on Third In Beverly Grove Market and cafe on Third Street.](https://www.google.com/maps/search/?api=1&query=Joan%27s+on+Third+Beverly+Grove+CA) [The Ivy In Beverly Grove The white picket patio on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Ivy+Beverly+Grove+CA) [Matsuhisa Beverly Hills · under 1 mi Nobu Matsuhisa's original on La Cienega.](https://www.google.com/maps/search/?api=1&query=Matsuhisa+Beverly+Hills+CA) [Catch LA West Hollywood · under 1 mi Rooftop seafood on Melrose.](https://www.google.com/maps/search/?api=1&query=Catch+LA+West+Hollywood+CA) [Craig's West Hollywood · under 1 mi Melrose dining room with famous regulars.](https://www.google.com/maps/search/?api=1&query=Craig%27s+West+Hollywood+CA) [Dan Tana's West Hollywood · under 1 mi Red-sauce Italian next to the Troubadour since 1964.](https://www.google.com/maps/search/?api=1&query=Dan+Tana%27s+West+Hollywood+CA)
+See them on the map →
 
-[The Abbey West Hollywood · under 1 mi The anchor of the Rainbow District on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Abbey+West+Hollywood+CA) [Delilah West Hollywood · 1.5 mi Supper club with live music.](https://www.google.com/maps/search/?api=1&query=Delilah+West+Hollywood+CA) [Tom Bergin's Miracle Mile · 1.5 mi Irish pub on Fairfax since 1936.](https://www.google.com/maps/search/?api=1&query=Tom+Bergin%27s+Miracle+Mile+CA) [Chateau Marmont West Hollywood · 1.5 mi The hotel bar on the Sunset Strip.](https://www.google.com/maps/search/?api=1&query=Chateau+Marmont+West+Hollywood+CA)
+Beverly Grove is one of LA's most restaurant-dense neighborhoods, centered on West 3rd Street and Beverly Boulevard between La Cienega and Fairfax. It's an easy place to walk from coffee to lunch to a long dinner, with the Beverly Center at its west end.
 
-[Los Angeles Country Club Holmby Hills · 2.5 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Hillcrest Country Club Cheviot Hills · 2.5 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Wilshire Country Club Hancock Park · 3 mi Private club in Hancock Park.](https://www.google.com/maps/search/?api=1&query=Wilshire+Country+Club+Hancock+Park+CA) [Rancho Park Golf Course Cheviot Hills · 3 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Bel-Air Country Club Bel Air · 4 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA)
+18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[New Beverly Cinema In Beverly Grove Quentin Tarantino's repertory house on Beverly.](https://www.google.com/maps/search/?api=1&query=New+Beverly+Cinema+Beverly+Grove+CA) [Brain Dead Studios Fairfax · 1 mi Indie screenings in the old Silent Movie Theatre.](https://www.google.com/maps/search/?api=1&query=Brain+Dead+Studios+Fairfax+CA) [Academy Museum theaters Miracle Mile · 1 mi Film series inside the Academy Museum.](https://www.google.com/maps/search/?api=1&query=Academy+Museum+theaters+Miracle+Mile+CA) [AMC Century City 15 Century City · 2.5 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA) [TCL Chinese Theatre Hollywood · 3 mi IMAX premieres and the handprints out front.](https://www.google.com/maps/search/?api=1&query=TCL+Chinese+Theatre+Hollywood+CA) [El Capitan Theatre Hollywood · 3 mi Restored 1926 movie palace on Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=El+Capitan+Theatre+Hollywood+CA)
+Eat
 
-[Largo at the Coronet In Beverly Grove Comedy and music on La Cienega.](https://www.google.com/maps/search/?api=1&query=Largo+at+the+Coronet+Beverly+Grove+CA) [Saban Theatre Beverly Hills · under 1 mi Art deco theater on Wilshire.](https://www.google.com/maps/search/?api=1&query=Saban+Theatre+Beverly+Hills+CA) [The Troubadour West Hollywood · under 1 mi Club where Elton John made his U.S. debut.](https://www.google.com/maps/search/?api=1&query=The+Troubadour+West+Hollywood+CA) [Whisky a Go Go West Hollywood · 1 mi Sunset Strip rock club since 1964.](https://www.google.com/maps/search/?api=1&query=Whisky+a+Go+Go+West+Hollywood+CA) [The Roxy West Hollywood · 1.5 mi Sunset Strip club since 1973.](https://www.google.com/maps/search/?api=1&query=The+Roxy+West+Hollywood+CA) [Petersen Automotive Museum Miracle Mile · 1.5 mi Car museum at Wilshire and Fairfax.](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum+Miracle+Mile+CA)
+### Coffee & breakfast
 
-[Pan Pacific Park Fairfax · 1.5 mi Park and playground by The Grove.](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+Fairfax+CA) [Beverly Gardens Park Beverly Hills · 1.5 mi Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA) [Greystone Mansion & Gardens Beverly Hills · 2 mi Estate gardens open to the public.](https://www.google.com/maps/search/?api=1&query=Greystone+Mansion+%26+Gardens+Beverly+Hills+CA) [Roxbury Park Beverly Hills · 2 mi Playgrounds, courts and lawn.](https://www.google.com/maps/search/?api=1&query=Roxbury+Park+Beverly+Hills+CA) [Runyon Canyon Park Hollywood Hills · 2.5 mi Short steep hike with a Hollywood view.](https://www.google.com/maps/search/?api=1&query=Runyon+Canyon+Park+Hollywood+Hills+CA) [Cheviot Hills Recreation Center Cheviot Hills · 2.5 mi Pool, tennis and fields.](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+Cheviot+Hills+CA)
+### Neighborhood
+
+$
+
+8151 W 3rd St
+
+A small specialty coffee shop with a walk-up window, outdoor seating and its own parking.
+
+**Order:** An iced Americano or a seasonal latte with a cinnamon roll.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Neighborhood+8151+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+
+Coffee
+
+### Takagi Coffee
+
+$$
+
+8048 W 3rd St
+
+A Japanese cafe known for tall souffle pancakes and omurice. Expect a short wait.
+
+**Order:** Souffle pancakes and the omurice with karaage.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Takagi+Coffee+8048+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+
+Breakfast Brunch Coffee
+
+### Joan's on Third
+
+$$
+
+8350 W 3rd St
+
+One of LA's original market cafes, with excellent pastries and a deli counter.
+
+**Order:** A pastry and coffee, or a sandwich from the case.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Joan%27s+on+Third+8350+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Lonely Planet](https://www.lonelyplanet.com/usa/los-angeles/west-hollywood/restaurants)
+
+Breakfast Lunch Bakeries & dessert
+
+### Kings Road Cafe
+
+$$
+
+8361 Beverly Blvd
+
+A longtime brunch spot with strong coffee and a busy sidewalk patio.
+
+**Order:** The veggie garden scramble.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kings+Road+Cafe+8361+Beverly+Blvd+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+
+Brunch Coffee
+
+### MOOD
+
+$$
+
+8201 W 3rd St
+
+A stylish two-level breakfast spot with an Eastern European twist.
+
+**Order:** Syrniki and the mushroom truffle toast. Reserve on weekends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=MOOD+8201+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+
+Breakfast Brunch
+
+Eat
+
+### Lunch & casual
+
+### Byrdie's Rotisserie
+
+$
+
+8030 W 3rd St
+
+A counter-service rotisserie with great sauces.
+
+**Order:** Chicken with the hot sauce, chimichurri and gochujang aioli.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Byrdie%27s+Rotisserie+8030+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Lunch Cheap eats
+
+### Greek Eats
+
+$
+
+Beverly Grove
+
+A small counter with a big menu of excellent Greek staples.
+
+**Order:** A gyro plate.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Greek+Eats+Beverly+Grove+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Lunch Cheap eats
+
+### Burger She Wrote
+
+$
+
+Beverly Grove
+
+A smashburger shop.
+
+**Order:** A double smash.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Burger+She+Wrote+Beverly+Grove+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Lunch Cheap eats
+
+**Love Beverly Grove? Live here.** Get new Beverly Grove listings, including off-market ones, or a free value on your Beverly Grove home.
+
+What's my home worth? Get Beverly Grove listings
+
+Eat
+
+### Dinner
+
+### Regalade
+
+$$
+
+8136 W 3rd St
+
+An affordable French neighborhood bistro that fits almost any occasion.
+
+**Order:** Steak frites and the green curry mussels.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Regalade+8136+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Dinner Date night
+
+### Oste
+
+$$
+
+8142 W 3rd St
+
+A colorful Roman-leaning Italian spot with pinsa, a burrata bar and lush outdoor seating.
+
+**Order:** A pinsa and something from the burrata bar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Oste+8142+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Dinner Pizza Date night
+
+### A.O.C.
+
+$$$
+
+8700 W 3rd St
+
+Suzanne Goin's small-plates restaurant with one of the best wine lists in LA and a beautiful courtyard.
+
+**Order:** Order a glass of wine and share several small plates.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=A.O.C.+8700+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants)
+
+Dinner Wine bars Date night
+
+### Marvin
+
+$$
+
+8114 Beverly Blvd
+
+A cozy French bistro built for snacking and wine.
+
+**Order:** Stick to the toasts and a bottle.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Marvin+8114+Beverly+Blvd+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Dinner Wine bars
+
+### La Paella
+
+$$
+
+476 S San Vicente Blvd
+
+A family-run Spanish restaurant that feels like an old tavern.
+
+**Order:** Tapas, the paella valenciana mixta and sangria.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Paella+476+S+San+Vicente+Blvd+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Dinner Seafood
+
+### Carlitos Gardel
+
+$$$
+
+7963 Melrose Ave
+
+An old-school Argentinian steakhouse and one of the true neighborhood restaurants left in the area.
+
+**Order:** The prime ribeye with chimichurri, then something with dulce de leche.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Carlitos+Gardel+7963+Melrose+Ave+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Dinner Date night
+
+### Sticky Rice
+
+$
+
+Beverly Grove
+
+A casual Thai spot made for walk-ins, curry and beer.
+
+**Order:** A curry and a cold beer.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sticky+Rice+Beverly+Grove+Beverly+Grove+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Dinner Cheap eats
+
+Drink
+
+### Nightlife
+
+### Blue Collar
+
+$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 0.9 mi · 361 S Fairfax Ave
+
+A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
+
+**Order:** Tell them a spirit and a flavor you like.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+### Cold Shoulder
+
+$$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 0.9 mi · 359 S Fairfax Ave
+
+A moody speakeasy across from The Grove with elaborate cocktails.
+
+**Order:** A cocktail from the spirits menu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+### Polo Lounge at the Beverly Hills Hotel
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.3 mi · 9641 Sunset Blvd
+
+The pink hotel's famous lounge, worth a visit even if you aren't staying.
+
+**Order:** A drink or brunch on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Cocktail bars & lounges Brunch Landmarks & sights
+
+Sources
+
+- [The Infatuation: Best restaurants in Beverly Grove](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+- [The Infatuation: Beverly Grove](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+- [The Infatuation: Where to brunch in West Hollywood](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+- [Time Out: Best West Hollywood restaurants](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants)
+- [Lonely Planet: West Hollywood and Mid-City restaurants](https://www.lonelyplanet.com/usa/los-angeles/west-hollywood/restaurants)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
 
 Living here
 

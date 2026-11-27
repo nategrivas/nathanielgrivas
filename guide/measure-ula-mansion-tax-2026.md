@@ -2,7 +2,7 @@
 
 Source page: https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026
 
-[LA Guide](https://www.nathanielgrivas.com/guide) / Laws & Money
+[Local LA](https://www.nathanielgrivas.com/neighborhoods) / [Articles](https://www.nathanielgrivas.com/neighborhoods/#articles) / Laws & Money
 
 # Measure ULA in 2026: what LA's mansion tax actually costs a seller
 

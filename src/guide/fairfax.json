@@ -1,28 +1,287 @@
-{"slug": "fairfax", "updated": "2026-11-26",
+{
+ "slug": "fairfax",
+ "updated": "2026-11-26",
  "intro": "The Fairfax District runs from the Original Farmers Market and The Grove up Fairfax Avenue, LA's classic deli and streetwear strip, to Melrose. It's walkable, busy at all hours and home to some of the city's most famous food stalls.",
  "sources": {
-  "inf": ["The Infatuation: Best restaurants in Beverly Grove", "https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove"],
-  "infbg": ["The Infatuation: Beverly Grove", "https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove"],
-  "tocof": ["Time Out: Best coffee shops in West Hollywood", "https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood"],
-  "gm": ["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA"]
+  "inf": [
+   "The Infatuation: Best restaurants in Beverly Grove",
+   "https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove"
+  ],
+  "infbg": [
+   "The Infatuation: Beverly Grove",
+   "https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove"
+  ],
+  "tocof": [
+   "Time Out: Best coffee shops in West Hollywood",
+   "https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA"
+  ]
  },
  "places": [
-  {"n": "Be Bright Coffee", "c": ["coffee"], "a": "7311 Melrose Ave", "p": "$$", "w": "A competition-level specialty roaster with single-origin pour-overs and tasting flights.", "o": "A fruity pour-over or the espresso and cortado flight.", "s": ["tocof", "gm"]},
-  {"n": "Flowin Cafe", "c": ["coffee"], "a": "7201 Melrose Ave", "p": "$", "w": "A calm Melrose cafe with plenty of seating and outlets, good for getting work done.", "o": "A cream-top latte and a croissant.", "s": ["gm"]},
-  {"n": "Original Farmers Market", "c": ["market", "landmark", "lunch", "kids"], "a": "6333 W 3rd St", "p": "$", "w": "LA's historic open-air market of food stalls and grocers, open since 1934.", "o": "Graze: laksa, Brazilian barbecue, oysters and a pie.", "s": ["inf", "infbg"]},
-  {"n": "Singapore's Banana Leaf", "c": ["lunch", "cheap"], "a": "6333 W 3rd St", "p": "$", "w": "A Farmers Market stall for Singaporean and Indonesian dishes.", "o": "Laksa, beef rendang and roti paratha.", "s": ["inf"]},
-  {"n": "Monsieur Marcel Bistro", "c": ["lunch", "seafood", "wine"], "a": "6333 W 3rd St", "p": "$$", "w": "A French bistro and gourmet market inside the Farmers Market.", "o": "Oysters, steak frites or quiche lorraine.", "s": ["inf"]},
-  {"n": "Pampas Grill", "c": ["lunch", "cheap"], "a": "6333 W 3rd St", "p": "$", "w": "A pay-by-weight Brazilian buffet with weekend lines.", "o": "Grilled meats and the catfish moqueca.", "s": ["inf"]},
-  {"n": "Noodle Art", "c": ["lunch", "cheap"], "a": "6333 W 3rd St", "p": "$", "w": "A tiny Farmers Market counter for very good hand-pulled noodles.", "o": "Whatever noodles are being pulled that day.", "s": ["infbg"]},
-  {"n": "The Grove", "c": ["shop", "kids", "film"], "a": "189 The Grove Dr", "p": "$$", "w": "An outdoor shopping village with a trolley, a fountain show and a movie theater, next to the Farmers Market.", "o": "Shop, catch a movie, then eat at the market.", "s": ["infbg"]},
-  {"n": "Angelini Osteria", "c": ["dinner", "date"], "a": "7313 Beverly Blvd", "p": "$$$", "w": "A quarter-century-old Italian institution.", "o": "Sea urchin linguine and the veal shank agnolotti.", "s": ["inf"]},
-  {"n": "El Coyote", "c": ["dinner", "tacos", "bars", "landmark"], "a": "7312 Beverly Blvd", "p": "$$", "w": "A huge, festive Mexican landmark where the margaritas are the main event.", "o": "A house margarita with a big group.", "s": ["inf"]},
-  {"n": "Canter's Deli", "c": ["latenight", "breakfast", "landmark"], "a": "419 N Fairfax Ave", "p": "$$", "w": "The classic Fairfax deli, open late with great people-watching.", "o": "Pastrami on rye and a black and white cookie.", "s": ["inf"]},
-  {"n": "Genghis Cohen", "c": ["dinner", "music"], "a": "448 N Fairfax Ave", "p": "$$", "w": "A kitschy Chinese-American spot made for groups, with a small music room.", "o": "Kung pao shrimp and lo mein.", "s": ["inf"]},
-  {"n": "Badmaash", "c": ["dinner", "lunch"], "a": "418 N Fairfax Ave", "p": "$$", "w": "Fun, untraditional Indian food.", "o": "Chicken tikka poutine and chili cheese naan.", "s": ["inf"]},
-  {"n": "Jon and Vinny's Fairfax", "c": ["pizza", "breakfast", "dinner"], "a": "412 N Fairfax Ave", "p": "$$", "w": "The original all-day Italian American spot from the Animal team.", "o": "The breakfast BLT, meatballs or spicy fusilli.", "s": ["inf"]},
-  {"n": "Lucia", "c": ["dinner", "date"], "a": "351 N Fairfax Ave", "p": "$$$", "w": "A clubby Afro-Caribbean restaurant.", "o": "Wagyu patties and the Cuban-spiced strip with fufu.", "s": ["inf"]},
-  {"n": "Blue Collar", "c": ["bars", "date"], "a": "361 S Fairfax Ave", "p": "$$", "w": "A dim, no-menu cocktail bar where the bartenders build a drink around your taste.", "o": "Tell them a spirit and a flavor you like.", "s": ["gm"]},
-  {"n": "Cold Shoulder", "c": ["bars", "date"], "a": "359 S Fairfax Ave", "p": "$$$", "w": "A moody speakeasy across from The Grove with elaborate cocktails.", "o": "A cocktail from the spirits menu.", "s": ["infbg", "gm"]},
-  {"n": "Pan Pacific Park", "c": ["park", "dogs", "kids", "fitness"], "a": "7600 Beverly Blvd", "p": "Free", "w": "A big, shady park next to The Grove with lawns, walking paths and sports facilities.", "o": "A sunset walk, then dinner at the Farmers Market.", "s": ["gm"]}
- ]}
+  {
+   "n": "Be Bright Coffee",
+   "c": [
+    "coffee"
+   ],
+   "a": "7311 Melrose Ave",
+   "p": "$$",
+   "w": "A competition-level specialty roaster with single-origin pour-overs and tasting flights.",
+   "o": "A fruity pour-over or the espresso and cortado flight.",
+   "s": [
+    "tocof",
+    "gm"
+   ]
+  },
+  {
+   "n": "Flowin Cafe",
+   "c": [
+    "coffee"
+   ],
+   "a": "7201 Melrose Ave",
+   "p": "$",
+   "w": "A calm Melrose cafe with plenty of seating and outlets, good for getting work done.",
+   "o": "A cream-top latte and a croissant.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Original Farmers Market",
+   "c": [
+    "market",
+    "landmark",
+    "lunch",
+    "kids"
+   ],
+   "a": "6333 W 3rd St",
+   "p": "$",
+   "w": "LA's historic open-air market of food stalls and grocers, open since 1934.",
+   "o": "Graze: laksa, Brazilian barbecue, oysters and a pie.",
+   "s": [
+    "inf",
+    "infbg"
+   ]
+  },
+  {
+   "n": "Singapore's Banana Leaf",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "6333 W 3rd St",
+   "p": "$",
+   "w": "A Farmers Market stall for Singaporean and Indonesian dishes.",
+   "o": "Laksa, beef rendang and roti paratha.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Monsieur Marcel Bistro",
+   "c": [
+    "lunch",
+    "seafood",
+    "wine"
+   ],
+   "a": "6333 W 3rd St",
+   "p": "$$",
+   "w": "A French bistro and gourmet market inside the Farmers Market.",
+   "o": "Oysters, steak frites or quiche lorraine.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Pampas Grill",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "6333 W 3rd St",
+   "p": "$",
+   "w": "A pay-by-weight Brazilian buffet with weekend lines.",
+   "o": "Grilled meats and the catfish moqueca.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Noodle Art",
+   "c": [
+    "lunch",
+    "cheap"
+   ],
+   "a": "6333 W 3rd St",
+   "p": "$",
+   "w": "A tiny Farmers Market counter for very good hand-pulled noodles.",
+   "o": "Whatever noodles are being pulled that day.",
+   "s": [
+    "infbg"
+   ]
+  },
+  {
+   "n": "The Grove",
+   "c": [
+    "shop",
+    "kids",
+    "film"
+   ],
+   "a": "189 The Grove Dr",
+   "p": "$$",
+   "w": "An outdoor shopping village with a trolley, a fountain show and a movie theater, next to the Farmers Market.",
+   "o": "Shop, catch a movie, then eat at the market.",
+   "s": [
+    "infbg"
+   ]
+  },
+  {
+   "n": "Angelini Osteria",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "7313 Beverly Blvd",
+   "p": "$$$",
+   "w": "A quarter-century-old Italian institution.",
+   "o": "Sea urchin linguine and the veal shank agnolotti.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "El Coyote",
+   "c": [
+    "dinner",
+    "tacos",
+    "bars",
+    "landmark"
+   ],
+   "a": "7312 Beverly Blvd",
+   "p": "$$",
+   "w": "A huge, festive Mexican landmark where the margaritas are the main event.",
+   "o": "A house margarita with a big group.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Canter's Deli",
+   "c": [
+    "lunch",
+    "latenight"
+   ],
+   "a": "419 N Fairfax Ave",
+   "p": "$$",
+   "w": "The classic Fairfax deli, open late with great people-watching.",
+   "o": "Pastrami on rye and a black and white cookie.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Genghis Cohen",
+   "c": [
+    "dinner",
+    "music"
+   ],
+   "a": "448 N Fairfax Ave",
+   "p": "$$",
+   "w": "A kitschy Chinese-American spot made for groups, with a small music room.",
+   "o": "Kung pao shrimp and lo mein.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Badmaash",
+   "c": [
+    "dinner",
+    "lunch"
+   ],
+   "a": "418 N Fairfax Ave",
+   "p": "$$",
+   "w": "Fun, untraditional Indian food.",
+   "o": "Chicken tikka poutine and chili cheese naan.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Jon and Vinny's Fairfax",
+   "c": [
+    "pizza",
+    "breakfast",
+    "dinner"
+   ],
+   "a": "412 N Fairfax Ave",
+   "p": "$$",
+   "w": "The original all-day Italian American spot from the Animal team.",
+   "o": "The breakfast BLT, meatballs or spicy fusilli.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Lucia",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "351 N Fairfax Ave",
+   "p": "$$$",
+   "w": "A clubby Afro-Caribbean restaurant.",
+   "o": "Wagyu patties and the Cuban-spiced strip with fufu.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Blue Collar",
+   "c": [
+    "bars",
+    "date"
+   ],
+   "a": "361 S Fairfax Ave",
+   "p": "$$",
+   "w": "A dim, no-menu cocktail bar where the bartenders build a drink around your taste.",
+   "o": "Tell them a spirit and a flavor you like.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Cold Shoulder",
+   "c": [
+    "bars",
+    "date"
+   ],
+   "a": "359 S Fairfax Ave",
+   "p": "$$$",
+   "w": "A moody speakeasy across from The Grove with elaborate cocktails.",
+   "o": "A cocktail from the spirits menu.",
+   "s": [
+    "infbg",
+    "gm"
+   ]
+  },
+  {
+   "n": "Pan Pacific Park",
+   "c": [
+    "park",
+    "dogs",
+    "kids",
+    "fitness"
+   ],
+   "a": "7600 Beverly Blvd",
+   "p": "Free",
+   "w": "A big, shady park next to The Grove with lawns, walking paths and sports facilities.",
+   "o": "A sunset walk, then dinner at the Farmers Market.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

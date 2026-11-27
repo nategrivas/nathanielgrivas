@@ -1,4 +1,4 @@
-# Living in Bel Air, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Bel Air, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/bel-air
 
@@ -51,21 +51,143 @@ From above
 
 What's my home worth? Get Bel Air listings
 
-## Around Bel Air
+Local LA
 
-[The full Bel Air guide: 3 places →](https://www.nathanielgrivas.com/guide/bel-air)
+## Where to eat, drink and go in Bel Air
 
-[Diddy Riese Westwood · 2 mi Ice cream cookie sandwiches near UCLA.](https://www.google.com/maps/search/?api=1&query=Diddy+Riese+Westwood+CA) [The Polo Lounge Beverly Hills · 2.5 mi Inside the Beverly Hills Hotel.](https://www.google.com/maps/search/?api=1&query=The+Polo+Lounge+Beverly+Hills+CA) [Pizzana Brentwood · 3 mi Neapolitan pizza on San Vicente.](https://www.google.com/maps/search/?api=1&query=Pizzana+Brentwood+CA)
+See them on the map →
 
-[The Abbey West Hollywood · 4 mi The anchor of the Rainbow District on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Abbey+West+Hollywood+CA) [Laurel Tavern Studio City · 5 mi Craft beer bar on Ventura Boulevard.](https://www.google.com/maps/search/?api=1&query=Laurel+Tavern+Studio+City+CA) [Chateau Marmont West Hollywood · 5 mi The hotel bar on the Sunset Strip.](https://www.google.com/maps/search/?api=1&query=Chateau+Marmont+West+Hollywood+CA)
+Bel Air is a quiet, gated hillside enclave of winding canyon roads north of Sunset, home to the storied Hotel Bel-Air, with a small village of shops at Beverly Glen Circle up the canyon.
 
-[Bel-Air Country Club In Bel Air Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA) [Mountaingate Country Club Brentwood · 1.5 mi Private club above the 405.](https://www.google.com/maps/search/?api=1&query=Mountaingate+Country+Club+Brentwood+CA) [Los Angeles Country Club Holmby Hills · 3 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Brentwood Country Club Brentwood · 3 mi Private club in Brentwood.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Club+Brentwood+CA) [Riviera Country Club Pacific Palisades · 4 mi Private. Home of the PGA Tour's Genesis Invitational.](https://www.google.com/maps/search/?api=1&query=Riviera+Country+Club+Pacific+Palisades+CA) [Hillcrest Country Club Cheviot Hills · 4 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA)
+8 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Regency Village Theatre Westwood · 2 mi The 1931 tower theatre and its premieres.](https://www.google.com/maps/search/?api=1&query=Regency+Village+Theatre+Westwood+CA) [AMC Century City 15 Century City · 3.5 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA) [Laemmle Royal West LA · 3.5 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA)
+Eat
 
-[Getty Center Brentwood · 1.5 mi Art, gardens and the view. Free entry, paid parking.](https://www.google.com/maps/search/?api=1&query=Getty+Center+Brentwood+CA) [Royce Hall Westwood · 1.5 mi Concerts and talks at UCLA.](https://www.google.com/maps/search/?api=1&query=Royce+Hall+Westwood+CA) [Skirball Cultural Center Brentwood · 2 mi Museum and hands-on exhibits off the 405.](https://www.google.com/maps/search/?api=1&query=Skirball+Cultural+Center+Brentwood+CA) [Geffen Playhouse Westwood · 2 mi Plays in Westwood Village.](https://www.google.com/maps/search/?api=1&query=Geffen+Playhouse+Westwood+CA) [Hammer Museum Westwood · 2.5 mi Free art museum on Wilshire.](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+Westwood+CA) [The Wallis Beverly Hills · 3.5 mi Theater and dance in the old post office.](https://www.google.com/maps/search/?api=1&query=The+Wallis+Beverly+Hills+CA)
+### Coffee & breakfast
 
-[Mathias Botanical Garden Westwood · 2 mi UCLA's free botanical garden.](https://www.google.com/maps/search/?api=1&query=Mathias+Botanical+Garden+Westwood+CA) [Holmby Park Holmby Hills · 2 mi Lawn bowling and a pitch-and-putt.](https://www.google.com/maps/search/?api=1&query=Holmby+Park+Holmby+Hills+CA) [Franklin Canyon Park Beverly Hills Post Office · 3 mi Lake and trails above Beverly Hills.](https://www.google.com/maps/search/?api=1&query=Franklin+Canyon+Park+Beverly+Hills+Post+Office+CA) [Greystone Mansion & Gardens Beverly Hills · 3 mi Estate gardens open to the public.](https://www.google.com/maps/search/?api=1&query=Greystone+Mansion+%26+Gardens+Beverly+Hills+CA) [San Vicente Boulevard path Brentwood · 3 mi The coral tree median runners use.](https://www.google.com/maps/search/?api=1&query=San+Vicente+Boulevard+path+Brentwood+CA) [Beverly Gardens Park Beverly Hills · 3.5 mi Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA)
+### Sana'a Cafe
+
+$
+
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 939 Broxton Ave
+
+A Yemeni coffeehouse with comfortable seating upstairs, board games and late hours. A favorite study spot.
+
+**Order:** The pumpkin chai or a Yemeni coffee.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+939+Broxton+Ave+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+
+Coffee Late night
+
+### Sipp Coffee House
+
+$
+
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 1427 Westwood Blvd
+
+A cozy local coffee shop with good music and Wi-Fi.
+
+**Order:** The iced vanilla latte with house-made syrup.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sipp+Coffee+House+1427+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+
+Coffee
+
+### Pera LA
+
+$$
+
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 1942 Westwood Blvd
+
+A casual Turkish spot built around a big shared breakfast.
+
+**Order:** The Turkish breakfast for two and menemen.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pera+LA+1942+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Breakfast Brunch
+
+Go
+
+### Restaurants & cafes
+
+### The Restaurant at Hotel Bel-Air
+
+$$$$
+
+701 Stone Canyon Rd
+
+A garden dining room at the famous hotel, next to the swan pond, with live jazz at the bar some nights.
+
+**Order:** Brunch on the patio, then walk the grounds to see the swans.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Restaurant+at+Hotel+Bel-Air+701+Stone+Canyon+Rd+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
+
+Date night Dinner Brunch
+
+### Il Segreto
+
+$$$
+
+2932 Beverly Glen Cir
+
+A warm Italian restaurant at the Beverly Glen Circle shopping center up the canyon.
+
+**Order:** The zucchini souffle and the truffle pizza.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Il+Segreto+2932+Beverly+Glen+Cir+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
+
+Dinner Date night
+
+### Shamshiri Grill
+
+$$
+
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 1712 Westwood Blvd
+
+A Persian landmark on Westwood Boulevard since 1981.
+
+**Order:** Tahchin and the tahdig with stew.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Shamshiri+Grill+1712+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Dinner
+
+### Skirball Cultural Center
+
+$$
+
+2701 N Sepulveda Blvd
+
+A cultural center and museum with rotating exhibits, a famous Noah's Ark play space for kids and summer concerts.
+
+**Do:** Bring kids to Noah's Ark; parking is free.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Skirball+Cultural+Center+2701+N+Sepulveda+Blvd+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
+
+Museums Kids & family Live music
+
+### Hammer Museum
+
+Free
+
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 2.1 mi · 10899 Wilshire Blvd
+
+UCLA's free contemporary art museum with a courtyard, a strong shop and free screenings and talks.
+
+**Do:** Check the events calendar, then lunch at Lulu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+
+Museums Art & galleries
+
+**Love Bel Air? Live here.** Get new Bel Air listings, including off-market ones, or a free value on your Bel Air home.
+
+What's my home worth? Get Bel Air listings
+
+Sources
+
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
 
 Living here
 

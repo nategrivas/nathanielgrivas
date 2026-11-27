@@ -1,4 +1,4 @@
-# Living in Culver City, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Culver City, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/culver-city
 
@@ -52,21 +52,527 @@ From above
 
 What's my home worth? Get Culver City listings
 
-## Around Culver City
+Local LA
 
-[The full Culver City guide: 34 places →](https://www.nathanielgrivas.com/guide/culver-city)
+## Where to eat, drink and go in Culver City
 
-[Helms Bakery District In Culver City Father's Office, shops and the old bakery building.](https://www.google.com/maps/search/?api=1&query=Helms+Bakery+District+Culver+City+CA) [Tito's Tacos In Culver City Hard-shell tacos and a line out the door since 1959.](https://www.google.com/maps/search/?api=1&query=Tito%27s+Tacos+Culver+City+CA) [Versailles Palms · under 1 mi Cuban garlic chicken on Venice Boulevard.](https://www.google.com/maps/search/?api=1&query=Versailles+Palms+CA) [The Apple Pan Rancho Park · 2 mi Counter-only burgers and pie on Pico since 1947.](https://www.google.com/maps/search/?api=1&query=The+Apple+Pan+Rancho+Park+CA) [Mitsuwa Marketplace Mar Vista · 2 mi Japanese market and food court on Venice Boulevard.](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+Mar+Vista+CA)
+See them on the map →
 
-[The Culver Hotel In Culver City Lobby bar with live jazz in the 1924 flatiron.](https://www.google.com/maps/search/?api=1&query=The+Culver+Hotel+Culver+City+CA) [Tom Bergin's Miracle Mile · 3.5 mi Irish pub on Fairfax since 1936.](https://www.google.com/maps/search/?api=1&query=Tom+Bergin%27s+Miracle+Mile+CA) [The Abbey West Hollywood · 4.5 mi The anchor of the Rainbow District on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Abbey+West+Hollywood+CA)
+Culver City is the Westside's studio town, with a walkable downtown around the Culver Hotel and Culver Steps, the Helms and Platform districts for food and shopping, and the Baldwin Hills overlook for the best view on this side of town. It's one of the easiest places in LA to spend a whole day on foot.
 
-[Rancho Park Golf Course Cheviot Hills · 2 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Hillcrest Country Club Cheviot Hills · 2 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Los Angeles Country Club Holmby Hills · 3.5 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Penmar Golf Course Venice · 4 mi Public nine-hole course on Rose Avenue.](https://www.google.com/maps/search/?api=1&query=Penmar+Golf+Course+Venice+CA) [Westchester Golf Course Westchester · 4.5 mi Public 18 holes next to LAX.](https://www.google.com/maps/search/?api=1&query=Westchester+Golf+Course+Westchester+CA) [Bel-Air Country Club Bel Air · 5 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA)
+34 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[AMC Century City 15 Century City · 3 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA) [Cinemark Playa Vista Playa Vista · 3 mi Recliners at the Runway.](https://www.google.com/maps/search/?api=1&query=Cinemark+Playa+Vista+Playa+Vista+CA) [Laemmle Royal West LA · 3 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA) [Academy Museum theaters Miracle Mile · 3.5 mi Film series inside the Academy Museum.](https://www.google.com/maps/search/?api=1&query=Academy+Museum+theaters+Miracle+Mile+CA)
+Eat
 
-[Kirk Douglas Theatre In Culver City Center Theatre Group plays downtown.](https://www.google.com/maps/search/?api=1&query=Kirk+Douglas+Theatre+Culver+City+CA) [The Wallis Beverly Hills · 3 mi Theater and dance in the old post office.](https://www.google.com/maps/search/?api=1&query=The+Wallis+Beverly+Hills+CA) [Saban Theatre Beverly Hills · 3.5 mi Art deco theater on Wilshire.](https://www.google.com/maps/search/?api=1&query=Saban+Theatre+Beverly+Hills+CA) [Petersen Automotive Museum Miracle Mile · 3.5 mi Car museum at Wilshire and Fairfax.](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum+Miracle+Mile+CA) [LACMA Miracle Mile · 3.5 mi Art museum and Urban Light on Wilshire.](https://www.google.com/maps/search/?api=1&query=LACMA+Miracle+Mile+CA) [La Brea Tar Pits Miracle Mile · 4 mi Ice Age fossils still being dug up.](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+Miracle+Mile+CA)
+### Coffee & breakfast
 
-[Baldwin Hills Scenic Overlook In Culver City Stair climb with a view to the ocean.](https://www.google.com/maps/search/?api=1&query=Baldwin+Hills+Scenic+Overlook+Culver+City+CA) [Cheviot Hills Recreation Center Cheviot Hills · 2 mi Pool, tennis and fields.](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+Cheviot+Hills+CA) [Kenneth Hahn Recreation Area Baldwin Hills · 2 mi Lakes and trails in the Baldwin Hills.](https://www.google.com/maps/search/?api=1&query=Kenneth+Hahn+Recreation+Area+Baldwin+Hills+CA) [Roxbury Park Beverly Hills · 2.5 mi Playgrounds, courts and lawn.](https://www.google.com/maps/search/?api=1&query=Roxbury+Park+Beverly+Hills+CA) [Beverly Gardens Park Beverly Hills · 3.5 mi Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA) [Holmby Park Holmby Hills · 4 mi Lawn bowling and a pitch-and-putt.](https://www.google.com/maps/search/?api=1&query=Holmby+Park+Holmby+Hills+CA)
+### The Conservatory for Coffee, Tea and Cocoa
+
+$
+
+10117 Washington Blvd
+
+A decades-old roaster with a cult following, an eclectic room full of tins and instruments, and a line out the door.
+
+**Order:** The toffee latte and a pastry. Weekdays only.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Conservatory+for+Coffee%2C+Tea+and+Cocoa+10117+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
+
+Coffee
+
+### Leilo Coffee
+
+$
+
+10606 Culver Blvd
+
+A calm, minimal new cafe with carefully made espresso and creative matcha.
+
+**Order:** The snow matcha or an almond milk latte with avocado toast.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Leilo+Coffee+10606+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
+
+Coffee
+
+### Culver and Main
+
+$
+
+3829 Main St
+
+A quiet retro cafe downtown that works for a solo lunch.
+
+**Order:** The all-day breakfast burrito.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Culver+and+Main+3829+Main+St+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Coffee Breakfast Bakeries & dessert
+
+### Destroyer
+
+$$
+
+3578 Hayden Ave
+
+A striking, minimal breakfast and lunch spot in the Hayden Tract with some of the most inventive plates on the Westside.
+
+**Order:** Beef tartare and the avocado confit. Expect a weekend wait.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Destroyer+3578+Hayden+Ave+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Breakfast Brunch Lunch
+
+### S&W Country Diner
+
+$
+
+9748 Washington Blvd
+
+A cash-only greasy spoon with platter-sized pancakes.
+
+**Order:** Biscuits and gravy or country fried steak.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=S%26W+Country+Diner+9748+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants)
+
+Breakfast Cheap eats
+
+### Lodge Bread
+
+$$
+
+11918 W Washington Blvd
+
+An organic whole-grain bakery and cafe with sandwiches, salads and pizza.
+
+**Order:** The giant cinnamon roll.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lodge+Bread+11918+W+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Bakeries & dessert Lunch Pizza
+
+### Copenhagen Pastry
+
+$
+
+11113 Washington Blvd
+
+A traditional Danish bakery.
+
+**Order:** A braided cinnamon roll or the almond kringle.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Copenhagen+Pastry+11113+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants)
+
+Bakeries & dessert Cheap eats
+
+Eat
+
+### Lunch & casual
+
+### Jackson Market and Deli
+
+$$
+
+4065 Jackson Ave
+
+A hidden neighborhood market with great sandwiches and a patio with a koi pond.
+
+**Order:** A deli sandwich on the pond patio. Wood-fired pizza Thursday through Sunday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Jackson+Market+and+Deli+4065+Jackson+Ave+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Lunch
+
+### Honey's Kettle Fried Chicken
+
+$$
+
+9537 Culver Blvd
+
+Soul food fried chicken cooked in kettles, with biscuits and honey.
+
+**Order:** The spicy wing basket with a biscuit.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Honey%27s+Kettle+Fried+Chicken+9537+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Lunch Cheap eats
+
+### Tito's Tacos
+
+$
+
+11222 Washington Pl
+
+A walk-up taco stand open since 1959 and a true LA institution.
+
+**Order:** Cheese-crusted hard-shell tacos and the beef and bean burrito.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tito%27s+Tacos+11222+Washington+Pl+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Tacos & Mexican Cheap eats Landmarks & sights
+
+### Kismet Rotisserie
+
+$$
+
+10000 Washington Blvd
+
+Fast-casual Mediterranean roast chicken with plenty of vegetarian options.
+
+**Order:** The quarter chicken plate with schmaltz potatoes.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kismet+Rotisserie+10000+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Lunch Healthy & plant-based
+
+### Pasta Sisters
+
+$$
+
+3280 Helms Ave
+
+Fresh pasta with your choice of sauce, plus wine on the patio.
+
+**Order:** Tagliatelle with tomato and burrata, or the bolognese pappardelle.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pasta+Sisters+3280+Helms+Ave+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Lunch Dinner
+
+### Lonzo's
+
+$$
+
+10804 Washington Blvd
+
+A Peruvian bakery and cevicheria with a patio.
+
+**Order:** Lomo saltado and a ceviche.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lonzo%27s+10804+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Lunch Seafood
+
+### Café Brasil
+
+$$
+
+11740 W Washington Blvd
+
+A decades-old Brazilian institution.
+
+**Order:** The lamb chops and a mixed pastel.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Brasil+11740+W+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Lunch Dinner Cheap eats
+
+### Laurel Grill
+
+$$$
+
+9300 Culver Blvd
+
+A polished hearth-cooking restaurant downtown, good for a business lunch.
+
+**Order:** The ribs or the ribeye.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Grill+9300+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Lunch Dinner
+
+### Citizen Public Market
+
+$$
+
+9355 Culver Blvd
+
+A downtown food hall with a laid-back rooftop bar.
+
+**Order:** Fried chicken, then drinks on the roof.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Citizen+Public+Market+9355+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants)
+
+Lunch Markets Rooftops & views
+
+**Love Culver City? Live here.** Get new Culver City listings, including off-market ones, or a free value on your Culver City home.
+
+What's my home worth? Get Culver City listings
+
+Eat & drink
+
+### Dinner & drinks
+
+### The Brothers Sushi
+
+$$$
+
+9240 Culver Blvd
+
+The neighborhood's best sushi, with lunch specials and room for groups.
+
+**Order:** The chirashi bowl.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Brothers+Sushi+9240+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Sushi & Japanese Lunch
+
+### Mayura
+
+$$
+
+10406 Venice Blvd
+
+A strip-mall Kerala restaurant that's one of the Westside's best Indian meals.
+
+**Order:** The giant ghee roast dosa and the fish curry.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mayura+10406+Venice+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Dinner Lunch Cheap eats
+
+### Hatchet Hall
+
+$$$
+
+12517 W Washington Blvd
+
+Live-fire Southern cooking on a leafy patio.
+
+**Order:** Shishito cornbread and the pork chop.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hatchet+Hall+12517+W+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/culver-city)
+
+Dinner Date night
+
+### Dear John's
+
+$$$
+
+11208 Culver Blvd
+
+A dark, old-school steakhouse and lounge that Frank Sinatra used to frequent.
+
+**Order:** The cheese-stuffed chicken parm and a martini.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dear+John%27s+11208+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants)
+
+Dinner Date night Cocktail bars & lounges
+
+### Father's Office
+
+$$
+
+3229 Helms Ave
+
+The famous no-substitutions burger and a big craft beer list. This location is 21 and over.
+
+**Order:** The Office burger with caramelized onions and a draft beer.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Father%27s+Office+3229+Helms+Ave+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants)
+
+Dinner Cocktail bars & lounges
+
+### Maple Block Meat Co.
+
+$$
+
+3973 Sepulveda Blvd
+
+Westside barbecue smoked over peach wood.
+
+**Order:** Brisket and spare ribs.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Maple+Block+Meat+Co.+3973+Sepulveda+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants)
+
+Dinner Lunch
+
+### Culver Hotel
+
+$$
+
+9400 Culver Blvd
+
+A 1924 flatiron hotel with an old Hollywood lobby bar.
+
+**Order:** A nightcap in the lobby.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Culver+Hotel+9400+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+
+Cocktail bars & lounges Landmarks & sights
+
+### Accomplice
+
+$$$
+
+Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 2.3 mi · 3811 Grand View Blvd
+
+A creative cocktail bar next to Little Fatty, with two back-to-back bars and a menu of a dozen house drinks.
+
+**Order:** Sit at the bar and watch the torched cocktails get made. Weekday happy hour.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+Do
+
+### Culture & shows
+
+### Kirk Douglas Theatre
+
+$$
+
+9820 Washington Blvd
+
+A former movie house with its neon sign intact, now staging adventurous theater.
+
+**Do:** Check the season calendar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kirk+Douglas+Theatre+9820+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+
+Comedy & theater
+
+### Sony Pictures Studios Tour
+
+$$
+
+10202 W Washington Blvd
+
+A walking tour of a working studio lot with Art Deco buildings and Wizard of Oz history.
+
+**Do:** Book ahead.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sony+Pictures+Studios+Tour+10202+W+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+
+Landmarks & sights Movies
+
+### Museum of Jurassic Technology
+
+$
+
+9341 Venice Blvd
+
+One of the strangest and most memorable museums in America.
+
+**Do:** Finish with tea in the rooftop garden.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Museum+of+Jurassic+Technology+9341+Venice+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+
+Museums
+
+### Wende Museum
+
+Free
+
+10808 Culver Blvd
+
+A Cold War museum with Berlin Wall pieces and a sculpture garden.
+
+**Do:** Free admission; check for weekend events.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Wende+Museum+10808+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+
+Museums Art & galleries
+
+Do
+
+### Parks & outdoors
+
+### Baldwin Hills Scenic Overlook
+
+Free
+
+6300 Hetzler Rd
+
+A steep 282-step staircase up to a 360-degree view from the ocean to downtown.
+
+**Do:** Climb the stairs at sunset.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Baldwin+Hills+Scenic+Overlook+6300+Hetzler+Rd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+
+Hikes & nature Fitness & outdoor sports Landmarks & sights
+
+### Kenneth Hahn State Recreation Area
+
+$
+
+4100 S La Cienega Blvd
+
+A large Baldwin Hills park with miles of trails, a fishing lake and big basin views.
+
+**Do:** A loop hike, then a picnic by the lake.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kenneth+Hahn+State+Recreation+Area+4100+S+La+Cienega+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+
+Parks Hikes & nature Kids & family
+
+### Cheviot Hills Recreation Center
+
+Free
+
+Next door in [Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills) · 1.4 mi · 2551 Motor Ave
+
+A big park with tennis courts, a pool, ball fields, basketball and an off-leash dog area.
+
+**Do:** Book a tennis court early on weekends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+2551+Motor+Ave+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+
+Parks Fitness & outdoor sports Dog-friendly
+
+Do
+
+### Shops, markets & spas
+
+### Platform
+
+$$
+
+8850 Washington Blvd
+
+An open-air design-forward shopping and dining center by the Metro station.
+
+**Do:** Shop, eat, and take the Expo Line home.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Platform+8850+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+
+Shopping
+
+### Mitsuwa Marketplace
+
+$
+
+Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 2.3 mi · 3760 S Centinela Ave
+
+A Japanese supermarket with a busy food court and a bookstore full of manga and stationery.
+
+**Do:** Ramen or tempura in the food court, then snacks and mochi from the market.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Markets Lunch Cheap eats
+
+### Mar Vista Farmers Market
+
+Free
+
+Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 2.3 mi · Grand View Blvd and Venice Blvd
+
+A Sunday morning market with produce, flowers, prepared food, music and kids' activities.
+
+**Do:** Go early for produce and stay for empanadas.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Farmers+Market+Grand+View+Blvd+and+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista)
+
+Markets Kids & family
+
+Sources
+
+- [Time Out: Best restaurants in Culver City](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants)
+- [The Infatuation: Best lunch spots in Culver City](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+- [The Infatuation: Culver City](https://theinfatuation.com/los-angeles/neighborhoods/culver-city)
+- [Time Out: Things to do in Culver City](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
 
 Living here
 

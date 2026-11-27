@@ -15,9 +15,10 @@
     value: {
       kind: 'Home value request',
       steps: [
-        { k: 'address', t: 'text', q: "What's the address?", sub: 'I pull the latest sales around it and build your number by hand.', ph: 'Street address, city or ZIP', req: true, unit: true },
-        { k: 'type', t: 'one', q: 'What kind of property is it?', o: ['House', 'Condo or townhome', 'Duplex to fourplex', 'Apartment building (5+ units)', 'Land or a teardown'] },
-        { k: 'size', t: 'size', q: 'How big is it?', sub: 'Close is fine. Skip anything you are not sure about.' },
+        { k: 'address', t: 'text', q: "What's the address?", sub: 'Start typing and pick it from the list. I pull the county record so you barely have to type, then build your number by hand from the latest sales.', ph: 'Street address, city or ZIP', req: true, unit: true },
+        { k: 'record', t: 'record', q: "Here's what LA County has on file", sub: "Pulled from the public assessor record. Confirm it or fix what's off, and you only answer what the record can't tell me.", when: (A) => !!A._rec },
+        { k: 'type', t: 'one', q: 'What kind of property is it?', sub: '', o: ['House', 'Condo or townhome', 'Duplex to fourplex', 'Apartment building (5+ units)', 'Land or a teardown'], when: (A) => A.recordOK !== 'Confirmed' },
+        { k: 'size', t: 'size', q: 'How big is it?', sub: 'Close is fine. Skip anything you are not sure about.', when: (A) => A.recordOK !== 'Confirmed' },
         { k: 'condition', t: 'one', q: 'What shape is it in?', o: ['Needs major work', 'Original but well kept', 'Partly updated', 'Fully remodeled', 'Built in the last 5 years'] },
         { k: 'timing', t: 'one', q: 'When might you sell?', o: WHEN.map((w) => w[1]) },
         { k: 'contact', t: 'contact', q: 'Where should I send your valuation?', sub: 'You get a value range from the most recent sales near you, plus what you would walk away with after costs. Free, within 24 hours.', btn: 'Get my home value' },
@@ -59,13 +60,81 @@
   };
 
   const label = (k) => ({ address: 'Address', unit: 'Unit', type: 'Property type', beds: 'Bedrooms', baths: 'Bathrooms', sqft: 'Interior sq ft', lot: 'Lot sq ft', condition: 'Condition', timing: 'Timing',
-    updates: 'Updated', features: 'Features', occupancy: 'Occupied by', lease: 'Lease', reason: 'Reason', next: 'Buying after', mortgage: 'Loan on it', guess: 'Owner thinks it is worth', notes: 'Notes',
+    updates: 'Updated', features: 'Features', occupancy: 'Occupied by', lease: 'Lease', reason: 'Reason', next: 'Buying after', mortgage: 'Loan on it', guess: 'Owner thinks it is worth', notes: 'Notes', ain: 'APN', year: 'Year built', zoning: 'Zoning', recordOK: 'County record', units: 'Units on record', county: 'Record link',
     areas: 'Areas', home: 'Home type', budget: 'Budget', pay: 'Paying with', must: 'Must-haves', sell_first: 'Needs to sell first', now: 'Living now', prefer: 'Best way to reach' }[k] || k);
 
   const post = (payload) => {
     if (!TO) return Promise.reject(new Error('no endpoint'));
     return fetch('https://formsubmit.co/ajax/' + TO, { method: 'POST', keepalive: true, headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(payload) })
       .then((r) => r.json().catch(() => ({})).then((j) => { if (!r.ok || j.success === 'false' || j.success === false) throw new Error(j.message || 'not sent'); return j; }));
+  };
+
+
+  // ---- Public record lookup: LA County parcels (beds, baths, sq ft, lot, year built) and SCAG zoning. Free, public, no key.
+  const DPW = 'https://dpw.gis.lacounty.gov/dpw/rest/services/GIS_Web_Services/MapServer/2/query';
+  const ZON = 'https://maps.scag.ca.gov/scaggis/rest/services/LDX/Zoning_poly_LA/MapServer/0/query';
+  const OUT = 'AIN,SitusAddress,SitusCity,SitusZIP,SitusUnit,UseType,UseDescription,YearBuilt1,Units1,Bedrooms1,Bathrooms1,SQFTmain1,Shape.STArea()';
+  const DIR = /^(N|S|E|W|NORTH|SOUTH|EAST|WEST)\.?$/;
+  const tc = (t) => String(t || '').toLowerCase().replace(/\b([a-z])/g, (m) => m.toUpperCase()).replace(/\b(N|S|E|W)\b/gi, (m) => m.toUpperCase()).replace(/\b(\d+)(St|Nd|Rd|Th)\b/g, (m, a, b) => a + b.toLowerCase());
+  const timed = (url, ms) => { const c = new AbortController(); const t = setTimeout(() => c.abort(), ms || 6000); return fetch(url, { signal: c.signal }).then((r) => r.json()).finally(() => clearTimeout(t)); };
+  const parse = (txt) => {
+    const w = String(txt || '').toUpperCase().replace(/[.,#]/g, ' ').split(/\s+/).filter(Boolean);
+    if (!w.length || !/^\d+[A-Z]?$/.test(w[0])) return null;
+    let j = 1; if (w[j] && DIR.test(w[j]) && w[j + 1]) j++;
+    const st = (w[j] || '').replace(/[^A-Z0-9]/g, '');
+    if (st.length < 2) return null;
+    const zip = (String(txt).match(/\b(9\d{4})\b/) || [])[1];
+    return { num: w[0], st, zip };
+  };
+  const recOf = (a) => ({
+    ain: a.AIN, line: tc(a.SitusAddress), city: tc(String(a.SitusCity || '').replace(/\s+CA$/i, '')), zip: String(a.SitusZIP || '').slice(0, 5),
+    unit: String(a.SitusUnit || '').trim(), use: a.UseDescription || a.UseType || '', useType: a.UseType || '',
+    year: +a.YearBuilt1 || null, units: +a.Units1 || null, beds: +a.Bedrooms1 || null, baths: +a.Bathrooms1 || null,
+    sqft: +a.SQFTmain1 || null, lot: Math.round(+a['Shape.STArea()'] || 0) || null,
+  });
+  const label1 = (r) => r.line + (r.unit ? ' #' + r.unit : '') + ', ' + r.city + ' ' + r.zip;
+  const search = async (txt, unit) => {
+    const p = parse(txt);
+    if (!p) return [];
+    let where = `SitusAddress LIKE '${p.num} %${p.st}%'`;
+    if (p.zip) where += ` AND SitusZIP LIKE '${p.zip}%'`;
+    if (unit) where += ` AND SitusUnit LIKE '%${String(unit).toUpperCase().replace(/[^A-Z0-9]/g, '')}%'`;
+    const j = await timed(DPW + '?' + new URLSearchParams({ where, outFields: OUT, returnGeometry: 'false', f: 'json', resultRecordCount: '12' }));
+    const seen = new Set();
+    return (j.features || []).map((f) => recOf(f.attributes)).filter((r) => { const k = label1(r); if (seen.has(k)) return false; seen.add(k); return true; });
+  };
+  const best = (list, txt) => {
+    if (!list.length) return null;
+    const t = String(txt || '').toUpperCase();
+    const score = (r) => (t.includes(r.zip) ? 3 : 0) + (t.includes(r.city.toUpperCase()) ? 2 : 0) + (r.line.toUpperCase().split(' ').filter((w) => t.includes(w)).length);
+    return list.slice().sort((a, b) => score(b) - score(a))[0];
+  };
+  const zoning = async (r) => {
+    try {
+      const j = await timed(ZON + '?' + new URLSearchParams({ where: `APN24='${r.ain}'`, outFields: 'ZN24_CITY,NOTES,CITY', returnGeometry: 'false', f: 'json' }), 5000);
+      const a = j.features && j.features[0] && j.features[0].attributes;
+      if (!a) return null;
+      const n = String(a.NOTES || '').trim();
+      return { zone: (n && n.length < 24 && /[A-Z]/.test(n) ? n : a.ZN24_CITY) || '', city: a.CITY || '' };
+    } catch (e) { return null; }
+  };
+  const typeOf = (r) => {
+    const u = (r.use + ' ' + r.useType).toLowerCase();
+    if (/vacant/.test(u)) return 'Land or a teardown';
+    if (/condo|planned unit|townhouse/.test(u)) return 'Condo or townhome';
+    if (/five or more|apartment/.test(u) || (r.units || 0) >= 5) return 'Apartment building (5+ units)';
+    if (/two units|duplex|three units|four units/.test(u) || (r.units || 0) >= 2) return 'Duplex to fourplex';
+    if (/single/.test(u)) return 'House';
+    return '';
+  };
+  const insight = (r) => {
+    const z = (r.z && r.z.zone) || '';
+    const out = [];
+    if ((r.units || 0) >= 2) out.push(`${r.units} units on record, so I'll value it as income property as well as by comparable sales.`);
+    else if (/^R1|^RS|^RE|^RA/.test(z) && (r.lot || 0) >= 5000) out.push(`Zoned ${z} on a ${r.lot.toLocaleString()} sq ft lot. Lots like this often have room for an ADU, and buyers pay for that potential.`);
+    if (/^(R2|RD|R3|R4|R5)/.test(z) && (r.units || 1) < 2) out.push(`Zoned ${z}, which allows more than one unit. That can mean more value as a development site than as a house.`);
+    if (/vacant/i.test(r.use)) out.push('Listed as vacant land. I will value it on what can be built there.');
+    return out.slice(0, 1).join(' ');
   };
 
   roots.forEach((root) => {
@@ -86,6 +155,33 @@
     if (A._sent) i = pre().length + Math.min(A._pi || 0, pst().length);
     else if (q.get('addr') && root.dataset.flow === 'value') i = 1;
 
+    const key = () => (A.address || '') + '|' + (A.unit || '');
+    const zoneFor = (r) => zoning(r).then((z) => {
+      if (!A._rec || A._rec.ain !== r.ain) return;
+      A._rec.z = z || { zone: '' }; save();
+      const el = root.querySelector('[data-zone]'); if (el) el.textContent = A._rec.z.zone || 'Not listed';
+      const ins = root.querySelector('[data-ins]'); if (ins) ins.textContent = insight(A._rec);
+    });
+    const clearRec = () => { ['_rec', 'ain', 'year', 'zoning', 'units', 'county', 'recordOK'].forEach((k) => delete A[k]); A._recFor = key(); };
+    const setRec = (r, exact) => {
+      clearRec();
+      if (exact) { A.address = r.line + ', ' + r.city + ' ' + r.zip; if (r.unit) A.unit = r.unit; }
+      A._rec = r; A._recFor = key(); zoneFor(r);
+    };
+    const autoRec = async () => {
+      try { const r = best(await search(A.address, A.unit), A.address); if (r) setRec(r, false); else clearRec(); } catch (e) { clearRec(); }
+      save();
+    };
+    const prefill = () => {
+      const R = A._rec; if (!R) return;
+      const T = typeOf(R); if (T) A.type = T;
+      if (R.beds) A.beds = Math.min(8, R.beds); if (R.baths) A.baths = Math.min(8, R.baths);
+      if (R.sqft) A.sqft = String(R.sqft); if (R.lot) A.lot = String(R.lot);
+      if (R.year) A.year = R.year; if ((R.units || 0) > 1) A.units = R.units;
+      A.ain = R.ain; if (R.z && R.z.zone) A.zoning = R.z.zone;
+      A.county = 'https://portal.assessor.lacounty.gov/parceldetail/' + R.ain;
+    };
+    const loading = () => { root.innerHTML = `<div class="lf-load"><i></i><p>Pulling the LA County record for <b>${esc(A.address)}</b>&hellip;</p></div>`; };
     const rows = (keys) => keys.filter((k) => A[k] != null && A[k] !== '' && !(Array.isArray(A[k]) && !A[k].length))
       .map((k) => [label(k), Array.isArray(A[k]) ? A[k].join(', ') : A[k]]);
     const fields = () => {
@@ -111,27 +207,40 @@
           + (s.type ? `<input class="lf-in" name="typed" placeholder="${esc(s.type)}" value="${esc(A.typed || '')}">` : '');
       }
       if (s.t === 'text') body = `<input class="lf-in" name="${s.k}" placeholder="${esc(s.ph || '')}" value="${esc(A[s.k] || '')}"${s.k === 'address' ? ' autocomplete="street-address"' : ''}>`
-        + (s.unit ? `<input class="lf-in lf-unit" name="unit" placeholder="Unit (optional)" value="${esc(A.unit || '')}">` : '');
+        + (s.unit ? `<input class="lf-in lf-unit" name="unit" placeholder="Unit (optional)" value="${esc(A.unit || '')}">` : '')
+        + (s.k === 'address' ? '<div class="lf-sug" role="listbox" aria-label="Matching addresses" hidden></div>' : '');
       if (s.t === 'area') body = `<textarea class="lf-in" name="${s.k}" rows="3" placeholder="${esc(s.ph || '')}">${esc(A[s.k] || '')}</textarea>`;
       if (s.t === 'size' || s.t === 'rooms') {
         const step = (k, lab, min, max, inc) => `<div class="lf-step"><span>${lab}</span><div><button type="button" data-inc="${k}" data-d="-${inc}" aria-label="Fewer ${lab.toLowerCase()}">&minus;</button><b data-show="${k}">${A[k] != null ? A[k] + (A[k] >= max ? '+' : '') : (s.t === 'rooms' ? 'Any' : 'Skip')}</b><button type="button" data-inc="${k}" data-d="${inc}" data-min="${min}" data-max="${max}" aria-label="More ${lab.toLowerCase()}">+</button></div></div>`;
         body = step('beds', 'Bedrooms', s.t === 'rooms' ? 1 : 0, 8, 1) + step('baths', 'Bathrooms', 1, 8, 0.5);
         if (s.t === 'size') body += `<div class="lf-two"><input class="lf-in" name="sqft" inputmode="numeric" placeholder="Interior sq ft" value="${esc(A.sqft || '')}"><input class="lf-in" name="lot" inputmode="numeric" placeholder="Lot size, sq ft" value="${esc(A.lot || '')}"></div>`;
       }
+      if (s.t === 'record') {
+        const R = A._rec, z = R.z;
+        const cell = (k, v) => (v ? `<div><dt>${k}</dt><dd>${v}</dd></div>` : '');
+        const num = (v, u) => (v ? Number(v).toLocaleString() + (u || '') : '');
+        body = `<div class="lf-rec"><p class="lf-rec-tag">Auto-filled from public records</p>
+<p class="lf-rec-a"><b>${esc(R.line)}${R.unit ? ' #' + esc(R.unit) : ''}</b><span>${esc(R.city)} ${esc(R.zip)} &middot; APN ${esc(R.ain)}</span></p>
+<dl>${cell('Property', esc(R.use))}${cell('Bedrooms', R.beds)}${cell('Bathrooms', R.baths)}${cell('Living area', num(R.sqft, ' sq ft'))}${cell('Lot', num(R.lot, ' sq ft'))}${cell('Year built', R.year)}${(R.units || 0) > 1 ? cell('Units', R.units) : ''}<div><dt>Zoning</dt><dd data-zone>${z ? esc(z.zone || 'Not listed') : 'Checking&hellip;'}</dd></div></dl>
+<p class="lf-rec-i" data-ins>${esc(insight(R))}</p>
+<p class="lf-rec-l"><a href="https://portal.assessor.lacounty.gov/parceldetail/${esc(R.ain)}" target="_blank" rel="noopener">County record &#8599;</a>${/los angeles/i.test(R.city) ? '<a href="https://zimas.lacity.org/" target="_blank" rel="noopener">ZIMAS &#8599;</a>' : ''}</p></div>
+<div class="lf-rec-act"><button type="button" class="btn solid big lf-ok">Yes, that's right</button><button type="button" class="btn big lf-fix">Some of it's off</button></div>`;
+      }
       if (s.t === 'contact') body = `<div class="lf-two"><input class="lf-in" name="name" autocomplete="name" placeholder="Your name" value="${esc(A.name || '')}"><input class="lf-in" name="phone" type="tel" autocomplete="tel" placeholder="Mobile number" value="${esc(A.phone || '')}"></div>
 <input class="lf-in" name="email" type="email" autocomplete="email" placeholder="Email" value="${esc(A.email || '')}">
 <div class="lf-pref"><span>Best way to reach you</span>${['Text', 'Call', 'Email'].map((p) => `<button type="button" class="lf-chip${(A.prefer || 'Text') === p ? ' on' : ''}" data-pref="${p}">${p}</button>`).join('')}</div>`;
-      const needsBtn = s.t !== 'one';
+      const needsBtn = s.t !== 'one' && s.t !== 'record';
       const intro = inPost && i === P && A._sent ? `<div class="lf-done lf-mini">${F.done(A, (A.name || '').split(' ')[0])}</div><p class="lf-after">${esc(F.after)}</p>` : '';
       root.innerHTML = `${intro}<div class="lf-top"><button type="button" class="lf-back"${i === 0 || (inPost && i === P) ? ' hidden' : ''}>&larr; Back</button><span class="lf-n">${inPost ? 'Optional' : 'Step'} ${n} of ${of}</span></div>
 <div class="lf-bar"><i style="width:${Math.max(6, pct)}%"></i></div>
 <h3 class="lf-q">${esc(s.q)}</h3>${s.sub ? `<p class="lf-sub">${esc(s.sub)}</p>` : ''}
 <div class="lf-body">${body}</div>
 <p class="lf-err" role="alert"></p>
-<div class="lf-nav">${needsBtn ? `<button type="button" class="btn solid big lf-go">${esc(s.btn || (inPost ? 'Next' : 'Continue'))}</button>` : ''}${(inPost || (!s.req && s.t !== 'contact')) ? '<button type="button" class="lf-skip">Skip</button>' : ''}</div>
+<div class="lf-nav">${needsBtn ? `<button type="button" class="btn solid big lf-go">${esc(s.btn || (inPost ? 'Next' : 'Continue'))}</button>` : ''}${(inPost || (!s.req && s.t !== 'contact' && s.t !== 'record')) ? '<button type="button" class="lf-skip">Skip</button>' : ''}</div>
 ${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you agree I can contact you by call, text or email about real estate. Reply STOP to opt out. <a href="/privacy/">Privacy</a></p>` : ''}`;
       const first = root.querySelector('input.lf-in, textarea.lf-in');
       if (first && root.dataset.started) first.focus({ preventScroll: true });
+      if (s.t === 'record' && !A._rec.z) zoneFor(A._rec);
     };
 
     const reach = () => `<div class="lf-reach"><a class="btn solid" href="tel:${TEL}">Call ${PHONE}</a><a class="btn" href="sms:${TEL}">Text me</a></div>`;
@@ -176,6 +285,9 @@ ${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you 
       const t = ev.target.closest('button');
       if (!t || !root.contains(t)) return;
       const s = live()[i];
+      if (t.dataset.sg != null) { const r = (root._sug || [])[+t.dataset.sg]; if (r) { setRec(r, true); go(1); } return; }
+      if (t.classList.contains('lf-ok')) { prefill(); A.recordOK = 'Confirmed'; go(1); return; }
+      if (t.classList.contains('lf-fix')) { prefill(); A.recordOK = 'Owner corrected'; go(1); return; }
       if (t.classList.contains('lf-back')) { grab(); go(-1); return; }
       if (t.classList.contains('lf-skip')) { grab(); if (!pst()[i - pre().length + 1] && s && s.post) { i = live().length; sendDetails(); A._done = 1; save(); render(); return; } go(1); return; }
       if (t.dataset.pref) { A.prefer = t.dataset.pref; root.querySelectorAll('[data-pref]').forEach((b) => b.classList.toggle('on', b === t)); return; }
@@ -201,6 +313,10 @@ ${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you 
         grab();
         if (s.req && !A[s.k]) { err(s.k === 'address' ? 'Add the address so I can pull the sales around it.' : 'This one is needed.'); return; }
         if (s.t === 'many' && !s.post && !(A[s.k] || []).length && !A.typed) { err('Pick at least one, or type it.'); return; }
+        if (s.k === 'address' && A._recFor !== key()) {
+          t.disabled = true; t.textContent = 'Checking county records...';
+          await autoRec(); go(1); return;
+        }
         if (s.t === 'contact') {
           if (!A.name) { err('Add your name.'); return; }
           if (!/\d{3}.*\d{4}/.test(A.phone || '')) { err('Add a mobile number so I can reach you.'); return; }
@@ -216,6 +332,24 @@ ${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you 
         go(1);
       }
     });
+    let sugT, sugN = 0;
+    root.addEventListener('input', (ev) => {
+      if (!ev.target.matches('input[name=address], input[name=unit]')) return;
+      const box = root.querySelector('.lf-sug'); if (!box) return;
+      const txt = root.querySelector('input[name=address]').value, unit = (root.querySelector('input[name=unit]') || {}).value || '';
+      clearTimeout(sugT);
+      if (!parse(txt)) { box.hidden = true; return; }
+      sugT = setTimeout(async () => {
+        const my = ++sugN; let list = [];
+        try { list = await search(txt, unit); } catch (e) { list = []; }
+        if (my !== sugN) return;
+        root._sug = list;
+        if (!list.length) { box.hidden = true; return; }
+        box.innerHTML = list.slice(0, 6).map((r, k) => `<button type="button" class="lf-sg" data-sg="${k}" role="option"><b>${esc(r.line)}${r.unit ? ' #' + esc(r.unit) : ''}</b><span>${esc(r.city)} ${esc(r.zip)}</span></button>`).join('')
+          + (list.length > 6 ? '<p>More units at this address. Add your unit number to narrow it.</p>' : '');
+        box.hidden = false;
+      }, 260);
+    });
     root.addEventListener('keydown', (ev) => {
       if (ev.key === 'Enter' && ev.target.matches('input.lf-in')) { ev.preventDefault(); const b = root.querySelector('.lf-go'); if (b) b.click(); }
     });
@@ -224,8 +358,10 @@ ${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you 
       ev.preventDefault();
       const v = (f.querySelector('input') || {}).value || '';
       if (v.trim()) A.address = v.trim();
-      i = A.address ? 1 : 0; save(); root.dataset.started = '1'; render(); root.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      root.dataset.started = '1'; root.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      if (!A.address) { i = 0; save(); render(); return; }
+      loading(); autoRec().then(() => { i = 1; render(); });
     }));
-    render();
+    if (root.dataset.flow === 'value' && !A._sent && A.address && i === 1 && A._recFor !== key()) { loading(); autoRec().then(render); } else render();
   });
 })();

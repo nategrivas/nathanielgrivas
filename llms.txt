@@ -35,8 +35,8 @@ Every page on this site has a plain-text twin: add .md to the address (for examp
 - [About Nathaniel Grivas](https://www.nathanielgrivas.com/about): background, quick facts, team, reviews
 - [Listings](https://www.nathanielgrivas.com/listings): active listings and closed deals
 - [All 40 neighborhoods on a satellite map](https://www.nathanielgrivas.com/neighborhoods)
-- [The LA Guide](https://www.nathanielgrivas.com/guide): where to eat, drink and go, neighborhood by neighborhood
-- [The LA Journal](https://www.nathanielgrivas.com/journal): daily Los Angeles news and new openings
+- [Local LA](https://www.nathanielgrivas.com/neighborhoods): where to eat, drink and go in each neighborhood, every pick pinned on a map
+- [LA News](https://www.nathanielgrivas.com/news): today's Los Angeles news, the week's biggest stories and the month's headline, facts only
 
 ## Listings and closed deals
 
@@ -91,50 +91,50 @@ Every page on this site has a plain-text twin: add .md to the address (for examp
 - [Van Nuys](https://www.nathanielgrivas.com/neighborhoods/van-nuys): Entry-level houses, real lots and room for an ADU. City of Los Angeles, ZIP 91401, 91405, 91406, 91411.
 - [Woodland Hills](https://www.nathanielgrivas.com/neighborhoods/woodland-hills): Warner Center, Topanga trails and the Valley's west end. City of Los Angeles, ZIP 91364, 91367.
 
-## The LA Guide: where to eat, drink and go (by neighborhood)
+## Local LA: where to eat, drink and go (on each neighborhood page, with a map of every pick)
 
-- [Bel Air guide](https://www.nathanielgrivas.com/guide/bel-air): 3 restaurants, coffee shops, bars and things to do
-- [Beverly Grove guide](https://www.nathanielgrivas.com/guide/beverly-grove): 15 restaurants, coffee shops, bars and things to do
-- [Beverly Hills guide](https://www.nathanielgrivas.com/guide/beverly-hills): 26 restaurants, coffee shops, bars and things to do
-- [Beverly Hills Post Office guide](https://www.nathanielgrivas.com/guide/bhpo): 2 restaurants, coffee shops, bars and things to do
-- [Brentwood guide](https://www.nathanielgrivas.com/guide/brentwood): 20 restaurants, coffee shops, bars and things to do
-- [Century City guide](https://www.nathanielgrivas.com/guide/century-city): 6 restaurants, coffee shops, bars and things to do
-- [Cheviot Hills & Rancho Park guide](https://www.nathanielgrivas.com/guide/cheviot-hills): 4 restaurants, coffee shops, bars and things to do
-- [Culver City guide](https://www.nathanielgrivas.com/guide/culver-city): 34 restaurants, coffee shops, bars and things to do
-- [East Hollywood guide](https://www.nathanielgrivas.com/guide/east-hollywood): 21 restaurants, coffee shops, bars and things to do
-- [Echo Park guide](https://www.nathanielgrivas.com/guide/echo-park): 28 restaurants, coffee shops, bars and things to do
-- [Encino guide](https://www.nathanielgrivas.com/guide/encino): 5 restaurants, coffee shops, bars and things to do
-- [Fairfax District guide](https://www.nathanielgrivas.com/guide/fairfax): 18 restaurants, coffee shops, bars and things to do
-- [Hancock Park & Larchmont guide](https://www.nathanielgrivas.com/guide/hancock-park): 7 restaurants, coffee shops, bars and things to do
-- [Hollywood Hills guide](https://www.nathanielgrivas.com/guide/hollywood-hills): 5 restaurants, coffee shops, bars and things to do
-- [Hollywood guide](https://www.nathanielgrivas.com/guide/hollywood): 33 restaurants, coffee shops, bars and things to do
-- [Los Feliz guide](https://www.nathanielgrivas.com/guide/los-feliz): 36 restaurants, coffee shops, bars and things to do
-- [Malibu guide](https://www.nathanielgrivas.com/guide/malibu): 24 restaurants, coffee shops, bars and things to do
-- [Mar Vista guide](https://www.nathanielgrivas.com/guide/mar-vista): 17 restaurants, coffee shops, bars and things to do
-- [Marina del Rey guide](https://www.nathanielgrivas.com/guide/marina-del-rey): 17 restaurants, coffee shops, bars and things to do
-- [Miracle Mile guide](https://www.nathanielgrivas.com/guide/miracle-mile): 9 restaurants, coffee shops, bars and things to do
-- [North Hollywood guide](https://www.nathanielgrivas.com/guide/north-hollywood): 11 restaurants, coffee shops, bars and things to do
-- [Pacific Palisades guide](https://www.nathanielgrivas.com/guide/pacific-palisades): 13 restaurants, coffee shops, bars and things to do
-- [Palms guide](https://www.nathanielgrivas.com/guide/palms): 6 restaurants, coffee shops, bars and things to do
-- [Pico-Robertson & Beverlywood guide](https://www.nathanielgrivas.com/guide/pico-robertson): 6 restaurants, coffee shops, bars and things to do
-- [Playa del Rey guide](https://www.nathanielgrivas.com/guide/playa-del-rey): 9 restaurants, coffee shops, bars and things to do
-- [Playa Vista guide](https://www.nathanielgrivas.com/guide/playa-vista): 5 restaurants, coffee shops, bars and things to do
-- [Reseda guide](https://www.nathanielgrivas.com/guide/reseda): 3 restaurants, coffee shops, bars and things to do
-- [Santa Monica guide](https://www.nathanielgrivas.com/guide/santa-monica): 40 restaurants, coffee shops, bars and things to do
-- [Sherman Oaks guide](https://www.nathanielgrivas.com/guide/sherman-oaks): 12 restaurants, coffee shops, bars and things to do
-- [Silver Lake guide](https://www.nathanielgrivas.com/guide/silver-lake): 29 restaurants, coffee shops, bars and things to do
-- [Studio City guide](https://www.nathanielgrivas.com/guide/studio-city): 21 restaurants, coffee shops, bars and things to do
-- [Tarzana guide](https://www.nathanielgrivas.com/guide/tarzana): 6 restaurants, coffee shops, bars and things to do
-- [Valley Village guide](https://www.nathanielgrivas.com/guide/valley-village): 4 restaurants, coffee shops, bars and things to do
-- [Van Nuys guide](https://www.nathanielgrivas.com/guide/van-nuys): 5 restaurants, coffee shops, bars and things to do
-- [Venice guide](https://www.nathanielgrivas.com/guide/venice): 42 restaurants, coffee shops, bars and things to do
-- [West Hollywood guide](https://www.nathanielgrivas.com/guide/west-hollywood): 60 restaurants, coffee shops, bars and things to do
-- [West LA & Sawtelle guide](https://www.nathanielgrivas.com/guide/west-la): 25 restaurants, coffee shops, bars and things to do
-- [Westchester guide](https://www.nathanielgrivas.com/guide/westchester): 6 restaurants, coffee shops, bars and things to do
-- [Westwood guide](https://www.nathanielgrivas.com/guide/westwood): 21 restaurants, coffee shops, bars and things to do
-- [Woodland Hills guide](https://www.nathanielgrivas.com/guide/woodland-hills): 5 restaurants, coffee shops, bars and things to do
+- [Bel Air: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/bel-air): 3 hand-picked places
+- [Beverly Grove: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/beverly-grove): 15 hand-picked places
+- [Beverly Hills: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/beverly-hills): 30 hand-picked places
+- [Beverly Hills Post Office: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/bhpo): 2 hand-picked places
+- [Brentwood: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/brentwood): 20 hand-picked places
+- [Century City: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/century-city): 6 hand-picked places
+- [Cheviot Hills & Rancho Park: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills): 4 hand-picked places
+- [Culver City: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/culver-city): 30 hand-picked places
+- [East Hollywood: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/east-hollywood): 21 hand-picked places
+- [Echo Park: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/echo-park): 26 hand-picked places
+- [Encino: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/encino): 5 hand-picked places
+- [Fairfax District: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/fairfax): 18 hand-picked places
+- [Hancock Park & Larchmont: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/hancock-park): 7 hand-picked places
+- [Hollywood Hills: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills): 5 hand-picked places
+- [Hollywood: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/hollywood): 34 hand-picked places
+- [Los Feliz: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/los-feliz): 35 hand-picked places
+- [Malibu: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/malibu): 24 hand-picked places
+- [Mar Vista: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/mar-vista): 17 hand-picked places
+- [Marina del Rey: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey): 16 hand-picked places
+- [Miracle Mile: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/miracle-mile): 9 hand-picked places
+- [North Hollywood: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/north-hollywood): 11 hand-picked places
+- [Pacific Palisades: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades): 13 hand-picked places
+- [Palms: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/palms): 6 hand-picked places
+- [Pico-Robertson & Beverlywood: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/pico-robertson): 6 hand-picked places
+- [Playa del Rey: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey): 7 hand-picked places
+- [Playa Vista: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/playa-vista): 4 hand-picked places
+- [Reseda: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/reseda): 3 hand-picked places
+- [Santa Monica: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/santa-monica): 36 hand-picked places
+- [Sherman Oaks: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks): 11 hand-picked places
+- [Silver Lake: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/silver-lake): 27 hand-picked places
+- [Studio City: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/studio-city): 21 hand-picked places
+- [Tarzana: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/tarzana): 6 hand-picked places
+- [Valley Village: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/valley-village): 3 hand-picked places
+- [Van Nuys: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/van-nuys): 5 hand-picked places
+- [Venice: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/venice): 39 hand-picked places
+- [West Hollywood: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/west-hollywood): 61 hand-picked places
+- [West LA & Sawtelle: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/west-la): 23 hand-picked places
+- [Westchester: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/westchester): 6 hand-picked places
+- [Westwood: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/westwood): 20 hand-picked places
+- [Woodland Hills: restaurants, bars and things to do](https://www.nathanielgrivas.com/neighborhoods/woodland-hills): 4 hand-picked places
 
-## The LA Guide: best of LA by category
+## Local LA: best of LA by category
 
 - [Best coffee shops in LA](https://www.nathanielgrivas.com/guide/best/coffee)
 - [Best breakfast in LA](https://www.nathanielgrivas.com/guide/best/breakfast)
@@ -149,12 +149,9 @@ Every page on this site has a plain-text twin: add .md to the address (for examp
 - [Best bakeries and dessert in LA](https://www.nathanielgrivas.com/guide/best/bakery)
 - [Best healthy and plant-based food in LA](https://www.nathanielgrivas.com/guide/best/healthy)
 - [Best cheap eats in LA](https://www.nathanielgrivas.com/guide/best/cheap)
-- [Best cocktail bars in LA](https://www.nathanielgrivas.com/guide/best/bars)
-- [Best dive bars in LA](https://www.nathanielgrivas.com/guide/best/dive)
+- [Best cocktail bars and lounges in LA](https://www.nathanielgrivas.com/guide/best/bars)
 - [Best wine bars in LA](https://www.nathanielgrivas.com/guide/best/wine)
-- [Best beer bars and breweries in LA](https://www.nathanielgrivas.com/guide/best/beer)
 - [Best rooftop bars in LA](https://www.nathanielgrivas.com/guide/best/rooftop)
-- [Best sports bars in LA](https://www.nathanielgrivas.com/guide/best/sports)
 - [Best late-night spots in LA](https://www.nathanielgrivas.com/guide/best/latenight)
 - [Best live music in LA](https://www.nathanielgrivas.com/guide/best/music)
 - [Best comedy and theater in LA](https://www.nathanielgrivas.com/guide/best/comedy)
@@ -168,13 +165,16 @@ Every page on this site has a plain-text twin: add .md to the address (for examp
 - [Best shopping in LA](https://www.nathanielgrivas.com/guide/best/shop)
 - [Best markets and farmers markets in LA](https://www.nathanielgrivas.com/guide/best/market)
 - [Best fitness and outdoor sports in LA](https://www.nathanielgrivas.com/guide/best/fitness)
-- [Best golf in LA](https://www.nathanielgrivas.com/guide/best/golf)
 - [Best family outings in LA](https://www.nathanielgrivas.com/guide/best/kids)
 - [Best dog-friendly spots in LA](https://www.nathanielgrivas.com/guide/best/dogs)
 
-## The LA Journal: daily Los Angeles news and openings
+## LA News: the headline for November 2026
 
-- [All entries](https://www.nathanielgrivas.com/journal)
+- Nithya Raman is elected mayor of Los Angeles: City Councilmember Nithya Raman defeated incumbent Mayor Karen Bass in the Nov. 3 runoff. The Associated Press had Raman at 52.1% to Bass's 47.9% as of Nov. 5, when NBC News projected the win. Bass is the first incumbent LA mayor to lose a re-election bid since 2005. Raman takes office on Dec. 14, 2026.
+
+## LA News: daily Los Angeles news and openings
+
+- [Today, this week and this month](https://www.nathanielgrivas.com/news)
 - [King tides, the Netflix lot deal and a busy holiday weekend](https://www.nathanielgrivas.com/journal/2026-11-26) (2026-11-26): Thanksgiving in LA: record high tides along the coast, trains halted south of Irvine, Netflix buys a historic Studio City lot, and what's on this weekend.
 
 ## Tools

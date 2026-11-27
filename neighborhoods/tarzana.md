@@ -1,4 +1,4 @@
-# Living in Tarzana, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Tarzana, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/tarzana
 
@@ -51,19 +51,108 @@ From above
 
 What's my home worth? Get Tarzana listings
 
-## Around Tarzana
+Local LA
 
-[The full Tarzana guide: 6 places →](https://www.nathanielgrivas.com/guide/tarzana)
+## Where to eat, drink and go in Tarzana
 
-[The Village at Westfield Topanga Woodland Hills · 3 mi Outdoor dining and shops in Warner Center.](https://www.google.com/maps/search/?api=1&query=The+Village+at+Westfield+Topanga+Woodland+Hills+CA)
+See them on the map →
 
-[El Caballero Country Club In Tarzana Private club in Tarzana.](https://www.google.com/maps/search/?api=1&query=El+Caballero+Country+Club+Tarzana+CA) [Braemar Country Club In Tarzana Private club in the Tarzana hills.](https://www.google.com/maps/search/?api=1&query=Braemar+Country+Club+Tarzana+CA) [Woodland Hills Country Club Woodland Hills · 2.5 mi Private club in Woodland Hills.](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+Country+Club+Woodland+Hills+CA) [Encino & Balboa Golf Courses Encino · 3.5 mi Two public 18-hole courses in the Sepulveda Basin.](https://www.google.com/maps/search/?api=1&query=Encino+%26+Balboa+Golf+Courses+Encino+CA) [Woodley Lakes Golf Course Van Nuys · 4.5 mi Public 18 holes in the Sepulveda Basin.](https://www.google.com/maps/search/?api=1&query=Woodley+Lakes+Golf+Course+Van+Nuys+CA)
+Tarzana, named for Edgar Rice Burroughs' Tarzan after the author's ranch here, runs along Ventura Boulevard west of Encino, with a strong mix of Israeli, Persian, Eastern European, Japanese and French restaurants.
 
-[Regal Sherman Oaks Galleria Sherman Oaks · 5 mi IMAX and 4DX at the Galleria.](https://www.google.com/maps/search/?api=1&query=Regal+Sherman+Oaks+Galleria+Sherman+Oaks+CA) [Aero Theatre Santa Monica · 9.5 mi American Cinematheque's single screen on Montana.](https://www.google.com/maps/search/?api=1&query=Aero+Theatre+Santa+Monica+CA) [Regency Village Theatre Westwood · 9.5 mi The 1931 tower theatre and its premieres.](https://www.google.com/maps/search/?api=1&query=Regency+Village+Theatre+Westwood+CA)
+6 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Skirball Cultural Center Brentwood · 5.5 mi Museum and hands-on exhibits off the 405.](https://www.google.com/maps/search/?api=1&query=Skirball+Cultural+Center+Brentwood+CA) [Getty Center Brentwood · 7.5 mi Art, gardens and the view. Free entry, paid parking.](https://www.google.com/maps/search/?api=1&query=Getty+Center+Brentwood+CA) [Getty Villa Pacific Palisades · 8.5 mi Roman villa museum above PCH. Free timed tickets.](https://www.google.com/maps/search/?api=1&query=Getty+Villa+Pacific+Palisades+CA)
+Eat
 
-[Reseda Park Reseda · 2 mi Lake, fields and the rec center.](https://www.google.com/maps/search/?api=1&query=Reseda+Park+Reseda+CA) [Warner Center Park Woodland Hills · 2.5 mi Summer concerts on the lawn.](https://www.google.com/maps/search/?api=1&query=Warner+Center+Park+Woodland+Hills+CA) [Los Encinos State Historic Park Encino · 3 mi Spring-fed pond and 1800s buildings.](https://www.google.com/maps/search/?api=1&query=Los+Encinos+State+Historic+Park+Encino+CA) [Lake Balboa Van Nuys · 3.5 mi Lake loop and cherry blossoms in spring.](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Van+Nuys+CA)
+### Restaurants & cafes
+
+### Cafe Aftab
+
+$$
+
+19239 Ventura Blvd
+
+A newer Persian cafe with a calm, sunny room, creative drinks and good breakfast toasts.
+
+**Order:** A cappuccino and the salmon toast.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Aftab+19239+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+
+Coffee Breakfast
+
+### Hummus Bar & Grill
+
+$$
+
+18743 Ventura Blvd
+
+An Israeli grill known for fresh hummus, hot bread and an endless spread of small salads.
+
+**Order:** Hummus topped with meat, plus the salads.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hummus+Bar+%26+Grill+18743+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+
+Lunch Dinner
+
+### Traktir
+
+$$$
+
+18588 Ventura Blvd
+
+A white-tablecloth Eastern European restaurant with house-infused vodka flights.
+
+**Order:** Borscht, potato vareniki and the chicken Kyiv.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Traktir+18588+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+
+Dinner Date night
+
+### So Sushi
+
+$$
+
+19522 Ventura Blvd
+
+A busy neighborhood sushi bar with an all-you-can-eat option.
+
+**Order:** Sit at the sushi bar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=So+Sushi+19522+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+
+Sushi & Japanese Dinner
+
+### TLV Tapas Bar
+
+$$$$
+
+5442 Yolanda Ave
+
+An upscale kosher Mediterranean tapas restaurant that turns into a party with a DJ later at night.
+
+**Order:** Bluefin crispy rice and the market salad.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=TLV+Tapas+Bar+5442+Yolanda+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+
+Date night Cocktail bars & lounges Late night
+
+### Le Sanglier
+
+$$$
+
+5522 Crebs Ave
+
+A father-and-son French restaurant open for more than 50 years, with a cozy lodge-style dining room. Dinner Wednesday through Saturday.
+
+**Order:** Duck a l'orange and the creme brulee.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Le+Sanglier+5522+Crebs+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+
+Date night Dinner
+
+Sources
+
+- [OpenTable diner reviews: Tarzana](https://opentable.co.uk/phrase/1366781)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Living here
 

@@ -1,8 +1,8 @@
-# Best Tacos & Mexican in Los Angeles by Neighborhood | The LA Guide
+# Best Tacos & Mexican in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/tacos
 
-The LA Guide
+Local LA
 
 # The best tacos and Mexican food in Los Angeles
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 29211 Heathercliff Rd
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 29211 Heathercliff Rd
 
 Oversized breakfast burritos and long lines.
 
@@ -28,7 +28,7 @@ Breakfast Cheap eats
 
 $$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · Marina del Rey
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · Marina del Rey
 
 The second location of one of LA's best Nayarit-style Mexican seafood restaurants.
 
@@ -42,7 +42,7 @@ Seafood
 
 $$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · Centinela Ave
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · Centinela Ave
 
 A neighborhood staple for classic Mexican food in big portions.
 
@@ -56,7 +56,7 @@ Cheap eats Dinner
 
 $$
 
-[Playa del Rey](https://www.nathanielgrivas.com/guide/playa-del-rey) · 333 Culver Blvd
+[Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey/#eat) · 333 Culver Blvd
 
 A family-run Mexican restaurant cooking everything from scratch.
 
@@ -70,7 +70,7 @@ Breakfast Lunch
 
 $$$$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Venice
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Venice
 
 An upscale Baja-style marisquería with bright, citrusy plates and tequila cocktails.
 
@@ -84,7 +84,7 @@ Dinner Seafood
 
 $
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Rose Ave
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Rose Ave
 
 A mariscos truck where lunch for one is cheap and the ceviche and cocteles are the reason people line up.
 
@@ -98,7 +98,7 @@ Lunch Seafood
 
 $$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · 220 Lincoln Blvd
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · 220 Lincoln Blvd
 
 A long-running, dependable Mexican restaurant with a tableside tortilla station and a tequila cart.
 
@@ -114,7 +114,7 @@ Dinner
 
 $
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 11222 Washington Pl
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 11222 Washington Pl
 
 A walk-up taco stand open since 1959 and a true LA institution.
 
@@ -128,7 +128,7 @@ Cheap eats Landmarks & sights
 
 $$
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 4532 S Centinela Ave
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 4532 S Centinela Ave
 
 Nayarit-style Mexican seafood that people drive across town for.
 
@@ -142,7 +142,7 @@ Seafood Lunch
 
 $
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 3760 S Centinela Ave
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 3760 S Centinela Ave
 
 A red taco truck in front of Mitsuwa known for loaded quesabirria with plenty of consommé.
 
@@ -156,7 +156,7 @@ Cheap eats
 
 $$
 
-[Pico-Robertson & Beverlywood](https://www.nathanielgrivas.com/guide/pico-robertson) · 8823 W Pico Blvd
+[Pico-Robertson & Beverlywood](https://www.nathanielgrivas.com/neighborhoods/pico-robertson/#eat) · 8823 W Pico Blvd
 
 A lively kosher Mexican restaurant with inventive cocktails and mocktails.
 
@@ -164,13 +164,13 @@ A lively kosher Mexican restaurant with inventive cocktails and mocktails.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Lenny%27s+Casita+8823+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
 
-Dinner Cocktail bars
+Dinner Cocktail bars & lounges
 
 ### Hermanito
 
 $$
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 2024 Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 2024 Sawtelle Blvd
 
 A Mexican bar with a great patio and inventive cocktails.
 
@@ -178,7 +178,7 @@ A Mexican bar with a great patio and inventive cocktails.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Hermanito+2024+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
 
-Cocktail bars Dinner
+Cocktail bars & lounges Dinner
 
 **Want to live near spots like these?** Get homes that fit, including off-market ones, or a free value on your home.
 
@@ -190,7 +190,7 @@ What's my home worth? Find me a home
 
 $$
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 7312 Beverly Blvd
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 7312 Beverly Blvd
 
 A huge, festive Mexican landmark where the margaritas are the main event.
 
@@ -198,13 +198,13 @@ A huge, festive Mexican landmark where the margaritas are the main event.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=El+Coyote+7312+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
 
-Dinner Cocktail bars Landmarks & sights
+Dinner Cocktail bars & lounges Landmarks & sights
 
 ### Ka'Teen
 
 $$$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 6516 Selma Ave
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 6516 Selma Ave
 
 A Yucatán-inspired restaurant inside the Tommie hotel that feels like a resort.
 
@@ -218,7 +218,7 @@ Dinner Date night
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8200 Santa Monica Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8200 Santa Monica Blvd
 
 A modern Mexican cafe that does breakfast through dinner, with an easygoing room and friendly service.
 
@@ -232,7 +232,7 @@ Brunch
 
 $
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8935 Santa Monica Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8935 Santa Monica Blvd
 
 The Boyle Heights taqueria's WeHo branch, known for slow-cooked braises on fresh handmade tortillas.
 
@@ -246,7 +246,7 @@ Lunch Cheap eats
 
 $$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 1113 N Harper Ave
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 1113 N Harper Ave
 
 A retro Tex-Mex roadhouse where nights run late on mezcal and crispy tacos.
 
@@ -260,7 +260,7 @@ Dinner Late night
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8905 Melrose Ave
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8905 Melrose Ave
 
 Plant-based Mexican under shade trees, and one of the busiest patios in the city.
 
@@ -276,7 +276,7 @@ Dinner Healthy & plant-based
 
 $$
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 5520 Santa Monica Blvd
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 5520 Santa Monica Blvd
 
 Oaxacan cooking anchored by a smoky goat birria.
 
@@ -290,7 +290,7 @@ Dinner
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1498 W Sunset Blvd
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1498 W Sunset Blvd
 
 Modern Mexican cooking with a patio built for cocktails.
 
@@ -304,7 +304,7 @@ Dinner Date night
 
 $
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1185 W Sunset Blvd
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1185 W Sunset Blvd
 
 Tijuana-style tacos off the trompo, worth the long line.
 
@@ -318,7 +318,7 @@ Cheap eats Late night
 
 $
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1246 Echo Park Ave
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1246 Echo Park Ave
 
 A street cart making handmade Oaxacan quesadillas with creative fillings.
 
@@ -332,7 +332,7 @@ Cheap eats
 
 $
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 2056 Hillhurst Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 2056 Hillhurst Ave
 
 A tiny roadside stand that's been feeding the neighborhood for about 50 years and won a James Beard award.
 
@@ -346,7 +346,7 @@ Cheap eats Lunch
 
 $
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1650 Hillhurst Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 1650 Hillhurst Ave
 
 A short menu of fish, shrimp and potato tacos on a thatched patio. Fast, cheap and reliable.
 
@@ -360,7 +360,7 @@ Seafood Cheap eats
 
 $
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 4624 Hollywood Blvd
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 4624 Hollywood Blvd
 
 A Texas-style taco counter known for breakfast tacos on fresh flour tortillas.
 
@@ -374,7 +374,7 @@ Breakfast Cheap eats
 
 $$$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 2524 Hyperion Ave
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 2524 Hyperion Ave
 
 A tropical, club-like cevicheria with bright, vibrant seafood.
 
@@ -390,7 +390,7 @@ Seafood Dinner
 
 $
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 10624 Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 10624 Ventura Blvd
 
 Sonoran-style tacos on fresh flour tortillas, with meats cooked over mesquite.
 
@@ -404,7 +404,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

@@ -1,8 +1,8 @@
-# Best Parks in Los Angeles by Neighborhood | The LA Guide
+# Best Parks in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/park
 
-The LA Guide
+Local LA
 
 # The best parks in Los Angeles
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 1925 Las Virgenes Rd
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 1925 Las Virgenes Rd
 
 Canyon trails, a rock pool for swimming and the old M*A*S*H filming site.
 
@@ -28,7 +28,7 @@ Hikes & nature Kids & family
 
 $
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · 1501 Will Rogers State Park Rd
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · 1501 Will Rogers State Park Rd
 
 Will Rogers' old ranch, with a polo field, horses and the Inspiration Point trail's big ocean and city views. Some areas are still being repaired.
 
@@ -42,7 +42,7 @@ Hikes & nature Landmarks & sights Dog-friendly
 
 Free
 
-[Playa Vista](https://www.nathanielgrivas.com/guide/playa-vista) · Ballona Wetlands
+[Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista/#eat) · Ballona Wetlands
 
 A protected coastal wetland with birding and a walking and bike path that links Marina del Rey and Playa del Rey.
 
@@ -56,7 +56,7 @@ Hikes & nature
 
 Free
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · Ocean Ave
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · Ocean Ave
 
 The bluff-top park with views down the coast and across to the Santa Monica Mountains.
 
@@ -70,7 +70,7 @@ Landmarks & sights
 
 Free
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Off Dell Ave
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Off Dell Ave
 
 Four blocks of canal houses and arched footbridges, and the calm counterpoint to the boardwalk.
 
@@ -86,7 +86,7 @@ Landmarks & sights
 
 Free
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 17500 Mulholland Dr
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 17500 Mulholland Dr
 
 A ridgetop park at an old Cold War Nike missile site with a lookout tower and huge views.
 
@@ -100,7 +100,7 @@ Hikes & nature Landmarks & sights
 
 Free
 
-[Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/guide/cheviot-hills) · 2551 Motor Ave
+[Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills/#eat) · 2551 Motor Ave
 
 A big park with tennis courts, a pool, ball fields, basketball and an off-leash dog area.
 
@@ -114,7 +114,7 @@ Fitness & outdoor sports Dog-friendly Kids & family
 
 $
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 4100 S La Cienega Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 4100 S La Cienega Blvd
 
 A large Baldwin Hills park with miles of trails, a fishing lake and big basin views.
 
@@ -128,7 +128,7 @@ Hikes & nature Kids & family
 
 Free
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 11430 Woodbine St
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 11430 Woodbine St
 
 The neighborhood's big park, with a pool, tennis and basketball courts, a roller hockey rink, ball fields and shaded picnic areas.
 
@@ -148,7 +148,7 @@ What's my home worth? Find me a home
 
 Free
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · Santa Monica Blvd near Canon Dr
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · Santa Monica Blvd near Canon Dr
 
 A long, tree-lined park with the Beverly Hills sign everyone photographs.
 
@@ -162,7 +162,7 @@ Landmarks & sights
 
 Free
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 905 Loma Vista Dr
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 905 Loma Vista Dr
 
 A 55-room Tudor estate whose gardens and grounds are free to walk.
 
@@ -176,7 +176,7 @@ Landmarks & sights
 
 $$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 1008 Elden Way
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 1008 Elden Way
 
 A lavish 1911 estate with formal gardens and a mansion.
 
@@ -190,7 +190,7 @@ Landmarks & sights
 
 Free
 
-[Beverly Hills Post Office](https://www.nathanielgrivas.com/guide/bhpo) · 2600 Franklin Canyon Dr
+[Beverly Hills Post Office](https://www.nathanielgrivas.com/neighborhoods/bhpo/#eat) · 2600 Franklin Canyon Dr
 
 A quiet canyon park with a lake and duck pond, shady trails and old-growth trees, minutes from Beverly Hills.
 
@@ -204,7 +204,7 @@ Hikes & nature Kids & family Dog-friendly
 
 Free
 
-[Beverly Hills Post Office](https://www.nathanielgrivas.com/guide/bhpo) · 12601 Mulholland Dr
+[Beverly Hills Post Office](https://www.nathanielgrivas.com/neighborhoods/bhpo/#eat) · 12601 Mulholland Dr
 
 A well-kept forested park with wide trails and city and Valley views, run by a nonprofit.
 
@@ -218,7 +218,7 @@ Hikes & nature
 
 Free
 
-[Hollywood Hills](https://www.nathanielgrivas.com/guide/hollywood-hills) · 8260 Mulholland Dr
+[Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills/#eat) · 8260 Mulholland Dr
 
 A big off-leash dog park in a wooded hollow, with a separate area for small dogs.
 
@@ -234,7 +234,7 @@ Dog-friendly
 
 Free
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 7600 Beverly Blvd
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 7600 Beverly Blvd
 
 A big, shady park next to The Grove with lawns, walking paths and sports facilities.
 
@@ -248,7 +248,7 @@ Dog-friendly Kids & family Fitness & outdoor sports
 
 Free
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 3160 Canyon Lake Dr
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 3160 Canyon Lake Dr
 
 A grassy park with one of the closest, clearest views of the Hollywood Sign.
 
@@ -262,7 +262,7 @@ Dog-friendly Kids & family
 
 Free
 
-[Miracle Mile](https://www.nathanielgrivas.com/guide/miracle-mile) · 5801 Wilshire Blvd
+[Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile/#eat) · 5801 Wilshire Blvd
 
 Ice Age asphalt seeps and active excavation sites in the park. The museum building is closed for renovation until about 2028, but much of the park stays open.
 
@@ -276,7 +276,7 @@ Landmarks & sights Kids & family
 
 Free
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 647 N San Vicente Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 647 N San Vicente Blvd
 
 The city's main park, with a modern playground, courts, a dog park and the library next door.
 
@@ -290,7 +290,7 @@ Kids & family Dog-friendly Fitness & outdoor sports
 
 Free
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 7377 Santa Monica Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 7377 Santa Monica Blvd
 
 A busy neighborhood park with tennis and pickleball courts, a playground and free summer concerts.
 
@@ -304,7 +304,7 @@ Kids & family Fitness & outdoor sports
 
 Free
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 1000 Kings Rd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 1000 Kings Rd
 
 A small, shady pocket park with water features and a toddler playground.
 
@@ -320,7 +320,7 @@ Kids & family
 
 Free
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 751 Echo Park Ave
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 751 Echo Park Ave
 
 A palm-ringed lake with swan pedal boats, a fountain and a walking loop. The lotus bed blooms each summer.
 
@@ -334,7 +334,7 @@ Landmarks & sights Kids & family
 
 Free
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · Vermont Ave entrance
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · Vermont Ave entrance
 
 More than 4,000 acres of trails, canyons and picnic lawns right behind the neighborhood.
 
@@ -348,7 +348,7 @@ Hikes & nature Kids & family Dog-friendly
 
 $
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 4800 Hollywood Blvd
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 4800 Hollywood Blvd
 
 A hilltop park around Frank Lloyd Wright's Hollyhock House, with summer wine tastings and outdoor movies.
 
@@ -362,7 +362,7 @@ Landmarks & sights Art & galleries
 
 Free
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 5200 Zoo Dr
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 5200 Zoo Dr
 
 A free outdoor railroad museum in Griffith Park where kids can climb on real trains.
 
@@ -376,7 +376,7 @@ Kids & family
 
 Free
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · Silver Lake Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · Silver Lake Blvd
 
 The neighborhood's centerpiece: a loop for running, a meadow for picnics and room for dogs.
 
@@ -392,7 +392,7 @@ Fitness & outdoor sports Dog-friendly
 
 Free
 
-[Encino](https://www.nathanielgrivas.com/guide/encino) · 16756 Moorpark St
+[Encino](https://www.nathanielgrivas.com/neighborhoods/encino/#eat) · 16756 Moorpark St
 
 A small historic park with an 1800s adobe, a spring-fed duck pond and citrus trees.
 
@@ -406,7 +406,7 @@ Landmarks & sights Kids & family
 
 Free
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 3493 Laurel Canyon Blvd (trailhead)
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 3493 Laurel Canyon Blvd (trailhead)
 
 A shady canyon loop with a steady climb and Valley views, popular with dog walkers.
 
@@ -420,7 +420,7 @@ Hikes & nature Dog-friendly
 
 Free
 
-[Van Nuys](https://www.nathanielgrivas.com/guide/van-nuys) · 6300 Balboa Blvd
+[Van Nuys](https://www.nathanielgrivas.com/neighborhoods/van-nuys/#eat) · 6300 Balboa Blvd
 
 A big park around a lake with a 1.3-mile loop path, paddle boats and plenty of birds.
 
@@ -434,7 +434,7 @@ Kids & family Dog-friendly
 
 $
 
-[Van Nuys](https://www.nathanielgrivas.com/guide/van-nuys) · 6100 Woodley Ave
+[Van Nuys](https://www.nathanielgrivas.com/neighborhoods/van-nuys/#eat) · 6100 Woodley Ave
 
 A peaceful formal garden with waterfalls, koi ponds and a teahouse in the Sepulveda Basin. Entry is a few dollars.
 
@@ -448,7 +448,7 @@ Landmarks & sights
 
 Free
 
-[Woodland Hills](https://www.nathanielgrivas.com/guide/woodland-hills) · 5800 Topanga Canyon Blvd
+[Woodland Hills](https://www.nathanielgrivas.com/neighborhoods/woodland-hills/#eat) · 5800 Topanga Canyon Blvd
 
 A big, shady lawn that hosts free concerts in the summer.
 
@@ -462,7 +462,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

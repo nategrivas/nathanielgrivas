@@ -1,8 +1,8 @@
-# Best Bakeries & dessert in Los Angeles by Neighborhood | The LA Guide
+# Best Bakeries & dessert in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/bakery
 
-The LA Guide
+Local LA
 
 # The best bakeries and dessert in Los Angeles
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 29169 Heathercliff Rd
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 29169 Heathercliff Rd
 
 A busy French-style cafe near Point Dume, popular after a morning hike.
 
@@ -28,7 +28,7 @@ Coffee Breakfast
 
 $
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · Marina del Rey
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · Marina del Rey
 
 A coffee bar and gelato shop with classic and creative flavors.
 
@@ -42,7 +42,7 @@ Coffee Kids & family
 
 $$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · 320 Sunset Ave
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · 320 Sunset Ave
 
 A bakery and deli with a big canopied courtyard that critics and locals both treat as a Venice essential. Expect a line and a hunt for a seat.
 
@@ -58,7 +58,7 @@ Breakfast Lunch
 
 $$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 11702 Barrington Ct
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 11702 Barrington Ct
 
 The famous LA bakery's Brentwood cafe, good any weekday.
 
@@ -72,7 +72,7 @@ Lunch
 
 $$
 
-[Century City](https://www.nathanielgrivas.com/guide/century-city) · 1751 Ensley Ave
+[Century City](https://www.nathanielgrivas.com/neighborhoods/century-city/#eat) · 1751 Ensley Ave
 
 A neighborhood bakery cafe with pastries, sandwiches and a small patio off Santa Monica Boulevard.
 
@@ -86,7 +86,7 @@ Breakfast Lunch Coffee
 
 $
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 3829 Main St
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 3829 Main St
 
 A quiet retro cafe downtown that works for a solo lunch.
 
@@ -100,7 +100,7 @@ Coffee Breakfast
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 11918 W Washington Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 11918 W Washington Blvd
 
 An organic whole-grain bakery and cafe with sandwiches, salads and pizza.
 
@@ -114,7 +114,7 @@ Lunch Pizza
 
 $
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 11113 Washington Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 11113 Washington Blvd
 
 A traditional Danish bakery.
 
@@ -128,7 +128,7 @@ Cheap eats
 
 $$
 
-[Pico-Robertson & Beverlywood](https://www.nathanielgrivas.com/guide/pico-robertson) · 8837 W Pico Blvd
+[Pico-Robertson & Beverlywood](https://www.nathanielgrivas.com/neighborhoods/pico-robertson/#eat) · 8837 W Pico Blvd
 
 A kosher bakery and cafe with excellent croissants, sourdough and beautifully plated breakfasts. Closed Saturdays.
 
@@ -142,7 +142,7 @@ Breakfast Lunch
 
 $
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 11309 Mississippi Ave
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 11309 Mississippi Ave
 
 A Korean-Japanese cafe with house-roasted coffee and fresh-baked specialty pretzels.
 
@@ -156,7 +156,7 @@ Coffee
 
 $
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 2105 Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 2105 Sawtelle Blvd
 
 Travel-inspired ice cream flavors and house-made cones.
 
@@ -170,7 +170,7 @@ Kids & family
 
 $
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 11311 Mississippi Ave
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 11311 Mississippi Ave
 
 Fish-shaped taiyaki cones filled with soft serve.
 
@@ -184,7 +184,7 @@ Kids & family Cheap eats
 
 $$$
 
-[Westchester](https://www.nathanielgrivas.com/guide/westchester) · 6261 W 87th St
+[Westchester](https://www.nathanielgrivas.com/neighborhoods/westchester/#eat) · 6261 W 87th St
 
 A seasonal, garden-to-table restaurant and bakery with a rooftop patio that looks out on planes landing at LAX.
 
@@ -198,7 +198,7 @@ Date night Dinner Brunch
 
 $
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 926 Broxton Ave
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 926 Broxton Ave
 
 The ice cream cookie sandwich institution. The line is long and worth it.
 
@@ -212,7 +212,7 @@ Cheap eats Kids & family
 
 $
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 1385 Westwood Blvd
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 1385 Westwood Blvd
 
 Persian ice cream with shorter lines than Diddy Riese.
 
@@ -232,7 +232,7 @@ What's my home worth? Find me a home
 
 $$
 
-[Beverly Grove](https://www.nathanielgrivas.com/guide/beverly-grove) · 8350 W 3rd St
+[Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#eat) · 8350 W 3rd St
 
 One of LA's original market cafes, with excellent pastries and a deli counter.
 
@@ -246,7 +246,7 @@ Breakfast Lunch Markets
 
 $$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 6290 Hollywood Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 6290 Hollywood Blvd
 
 A Yemeni coffeehouse near the Pantages, open late, with spiced lattes and rich desserts.
 
@@ -260,7 +260,7 @@ Coffee Late night
 
 $$$
 
-[Miracle Mile](https://www.nathanielgrivas.com/guide/miracle-mile) · 624 S La Brea Ave
+[Miracle Mile](https://www.nathanielgrivas.com/neighborhoods/miracle-mile/#eat) · 624 S La Brea Ave
 
 Walter and Margarita Manzke's French bakery and restaurant in a landmark 1920s building, packed for brunch and a dressier room at dinner.
 
@@ -274,7 +274,7 @@ Brunch Breakfast Date night
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8653 Sunset Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8653 Sunset Blvd
 
 The Strip's busiest breakfast, with a garden patio in back. It takes reservations, which is rare for brunch in WeHo.
 
@@ -290,7 +290,7 @@ Breakfast Brunch
 
 $
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 777 N Virgil Ave
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 777 N Virgil Ave
 
 Crackly, deeply browned bagels that draw a morning line and can sell out.
 
@@ -304,7 +304,7 @@ Breakfast
 
 $
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1665 Echo Park Ave
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1665 Echo Park Ave
 
 A tiny bakery and sandwich shop with a tree-shaded patio, famous for its pies and petit fours.
 
@@ -318,7 +318,7 @@ Breakfast Lunch
 
 $
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1814 W Sunset Blvd
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1814 W Sunset Blvd
 
 A retro soda fountain for ice cream.
 
@@ -332,7 +332,7 @@ Kids & family
 
 $$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1929 Hillhurst Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 1929 Hillhurst Ave
 
 A pair of historic bungalows with a big shaded patio, and Los Feliz's go-to brunch for decades. Breakfast runs until 5pm.
 
@@ -346,7 +346,7 @@ Breakfast Brunch
 
 $
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 2118 Hillhurst Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 2118 Hillhurst Ave
 
 A neighborhood cafe and bakery with one of the most talked-about breakfast burritos on the Eastside.
 
@@ -360,7 +360,7 @@ Breakfast Cheap eats
 
 $$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1802 N Vermont Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 1802 N Vermont Ave
 
 A bustling Paris-style bistro with a huge brunch menu and a sidewalk made for lingering.
 
@@ -374,7 +374,7 @@ Brunch Lunch
 
 $
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1869 N Vermont Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 1869 N Vermont Ave
 
 An old-school Vermont Avenue diner with pie all day.
 
@@ -388,7 +388,7 @@ Breakfast Cheap eats
 
 $
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 2900 W Sunset Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 2900 W Sunset Blvd
 
 A 50-year-old Cuban bakery that still gets the classics right. It's small, so get there early.
 
@@ -404,7 +404,7 @@ Breakfast Coffee Cheap eats
 
 $
 
-[North Hollywood](https://www.nathanielgrivas.com/guide/north-hollywood) · 5050 Vineland Ave
+[North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood/#eat) · 5050 Vineland Ave
 
 A bakery cafe with a hidden, plant-filled back patio and generous breakfast plates.
 
@@ -418,7 +418,7 @@ Breakfast Coffee Lunch
 
 $
 
-[Sherman Oaks](https://www.nathanielgrivas.com/guide/sherman-oaks) · 15030 Ventura Blvd, Suite 25
+[Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks/#eat) · 15030 Ventura Blvd, Suite 25
 
 A tiny takeout window for flaky stuffed bourekas.
 
@@ -432,7 +432,7 @@ Breakfast Cheap eats
 
 $$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · Ventura Blvd
 
 An all-day neighborhood cafe where the pastry case and sandwiches draw a steady line.
 
@@ -446,7 +446,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

@@ -2,7 +2,7 @@
 
 Source page: https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la
 
-[LA Guide](https://www.nathanielgrivas.com/guide) / Laws & Money
+[Local LA](https://www.nathanielgrivas.com/neighborhoods) / [Articles](https://www.nathanielgrivas.com/neighborhoods/#articles) / Laws & Money
 
 # The 90210 homes that pay LA's mansion tax
 

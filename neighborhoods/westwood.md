@@ -1,4 +1,4 @@
-# Living in Westwood, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Westwood, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/westwood
 
@@ -51,25 +51,381 @@ From above
 
 What's my home worth? Get Westwood listings
 
+Local LA
+
+## Where to eat, drink and go in Westwood
+
+See them on the map →
+
+Westwood runs from the UCLA campus and Westwood Village south past Wilshire, where Westwood Boulevard turns into LA's best stretch of Persian food. The Village has historic movie palaces, late-night eats and the free Hammer Museum.
+
+24 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### Sana'a Cafe
+
+$
+
+939 Broxton Ave
+
+A Yemeni coffeehouse with comfortable seating upstairs, board games and late hours. A favorite study spot.
+
+**Order:** The pumpkin chai or a Yemeni coffee.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+939+Broxton+Ave+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+
+Coffee Late night
+
+### Sipp Coffee House
+
+$
+
+1427 Westwood Blvd
+
+A cozy local coffee shop with good music and Wi-Fi.
+
+**Order:** The iced vanilla latte with house-made syrup.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sipp+Coffee+House+1427+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+
+Coffee
+
+### Pera LA
+
+$$
+
+1942 Westwood Blvd
+
+A casual Turkish spot built around a big shared breakfast.
+
+**Order:** The Turkish breakfast for two and menemen.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pera+LA+1942+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Breakfast Brunch
+
+### Diddy Riese
+
+$
+
+926 Broxton Ave
+
+The ice cream cookie sandwich institution. The line is long and worth it.
+
+**Order:** Two fresh cookies with a scoop in the middle.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Diddy+Riese+926+Broxton+Ave+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Bakeries & dessert Cheap eats Kids & family
+
+### Saffron and Rose
+
+$
+
+1385 Westwood Blvd
+
+Persian ice cream with shorter lines than Diddy Riese.
+
+**Order:** Saffron pistachio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Saffron+and+Rose+1385+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Bakeries & dessert Kids & family
+
+Eat
+
+### Lunch & casual
+
+### Attari Sandwich Shop
+
+$
+
+1388 Westwood Blvd
+
+A daytime Persian sandwich classic with a courtyard.
+
+**Order:** The beef tongue sandwich and kuku sabzi.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Attari+Sandwich+Shop+1388+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Lunch Cheap eats
+
+### Taste of Tehran
+
+$
+
+1915 Westwood Blvd
+
+A counter-service kabob shop with some of the juiciest meat in town.
+
+**Order:** A kabob plate with mast-o-musir.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Taste+of+Tehran+1915+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/westwood)
+
+Lunch Cheap eats
+
+### Sunnin Lebanese Cafe
+
+$
+
+1776 Westwood Blvd
+
+Quick counter service and some of the best shawarma in LA.
+
+**Order:** Shawarma, fried cauliflower and falafel.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sunnin+Lebanese+Cafe+1776+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/westwood)
+
+Lunch Cheap eats
+
+### Café Glacé
+
+$$
+
+1441 Westwood Blvd
+
+Thin, crunchy Persian-style pizza, open late on weekends.
+
+**Order:** The Mix pie.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Glac%C3%A9+1441+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Pizza Late night
+
+### Lulu
+
+$$
+
+10899 Wilshire Blvd
+
+The Hammer Museum's patio restaurant, with a daily prix-fixe and seasonal plates.
+
+**Order:** A focaccia sandwich or the prix-fixe.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lulu+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Lunch Brunch
+
+### Gushi
+
+$
+
+978 Gayley Ave
+
+A Korean walk-up window and one of the best values in the Village.
+
+**Order:** The lunch combo meat plate.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Gushi+978+Gayley+Ave+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Lunch Cheap eats
+
+**Love Westwood? Live here.** Get new Westwood listings, including off-market ones, or a free value on your Westwood home.
+
+What's my home worth? Get Westwood listings
+
+Eat & drink
+
+### Dinner & drinks
+
+### Shamshiri Grill
+
+$$
+
+1712 Westwood Blvd
+
+A Persian landmark on Westwood Boulevard since 1981.
+
+**Order:** Tahchin and the tahdig with stew.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Shamshiri+Grill+1712+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Dinner
+
+### Toranj
+
+$$
+
+10861 Lindbrook Dr
+
+A Persian spot in the Village with a sidewalk patio.
+
+**Order:** The Juicy Chicken kabob.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Toranj+10861+Lindbrook+Dr+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/westwood)
+
+Dinner Lunch
+
+### Mandi House
+
+$$
+
+1083 Gayley Ave
+
+A roomy Yemeni restaurant built for big groups, serving until 1am.
+
+**Order:** A mandi spread for the table.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mandi+House+1083+Gayley+Ave+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Dinner Late night
+
+### Sichuan Impression
+
+$$
+
+11057 Santa Monica Blvd
+
+Big, bold Sichuan cooking in a second-floor room good for groups.
+
+**Order:** Tea-smoked ribs and mapo tofu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sichuan+Impression+11057+Santa+Monica+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Dinner
+
+### Hakata Izakaya Hero
+
+$$
+
+1929 Westwood Blvd
+
+A tiny izakaya of shareable plates made for beer and sake.
+
+**Order:** Several small plates. Expect a wait.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hakata+Izakaya+Hero+1929+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Dinner Sushi & Japanese
+
+### Hamasaku
+
+$$$$
+
+11043 Santa Monica Blvd
+
+A strip-mall sushi bar with a traditional omakase that's fairly priced for its quality.
+
+**Order:** The omakase.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hamasaku+11043+Santa+Monica+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Sushi & Japanese Date night
+
+### Emporium Thai
+
+$$
+
+1275 Westwood Blvd
+
+A family-run Southern Thai restaurant that's great for groups.
+
+**Order:** Southern seafood curry and the Phuket wings.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Emporium+Thai+1275+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Dinner
+
+### Violet Bistro
+
+$$$
+
+1121 Glendon Ave
+
+A romantic French bistro with a patio in the Village.
+
+**Order:** Steak au poivre with a baguette.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Violet+Bistro+1121+Glendon+Ave+Westwood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+
+Dinner Date night
+
+### Lost and Found Cocktails
+
+$$
+
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 1.7 mi · 11700 National Blvd
+
+A classy cocktail lounge with a small dance floor and local DJs on weekends.
+
+**Order:** A smoked old fashioned. Open Wednesday through Saturday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+
+Cocktail bars & lounges Late night
+
+### Bar Toscana
+
+$$$
+
+Next door in [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood) · 2.0 mi · 11633 San Vicente Blvd
+
+An intimate, stylish cocktail bar next door to Toscana, the longtime Brentwood power-dinner spot. Italian aperitivo drinks and small plates in a room that stays lively late.
+
+**Order:** A Negroni riff and a few small plates before or after dinner on San Vicente.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Toscana+11633+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/bar-toscana)
+
+Cocktail bars & lounges Date night
+
+Do
+
+### Culture & shows
+
+### Hammer Museum
+
+Free
+
+10899 Wilshire Blvd
+
+UCLA's free contemporary art museum with a courtyard, a strong shop and free screenings and talks.
+
+**Do:** Check the events calendar, then lunch at Lulu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+
+Museums Art & galleries
+
+### Janss Family House
+
+Free
+
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 1.7 mi · 1945 Purdue Ave
+
+Frank Gehry's first house design, built to show a Pop Art collection. View it from the street.
+
+**Do:** A quick stop on a Sawtelle walk.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Janss+Family+House+1945+Purdue+Ave+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Landmarks & sights
+
+### The Getty
+
+Free
+
+Next door in [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood) · 2.0 mi · 1200 Getty Center Dr
+
+The hilltop museum with world-class art, gardens and views from downtown to the ocean. Admission is free; parking is paid.
+
+**Do:** Reserve a time online, ride the tram up and finish in the Central Garden. Go before March 15, 2027, when it closes for about a year of renovation.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Getty+1200+Getty+Center+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA) [Getty](https://www.getty.edu/about/building-gettys-future/)
+
+Museums Art & galleries Landmarks & sights
+
+Sources
+
+- [The Infatuation: Where to eat in Westwood](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
+- [The Infatuation: Westwood](https://theinfatuation.com/los-angeles/neighborhoods/westwood)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+
 Photos
 
 ## Westwood in pictures
-
-## Around Westwood
-
-[The full Westwood guide: 21 places →](https://www.nathanielgrivas.com/guide/westwood)
-
-[Diddy Riese In Westwood Ice cream cookie sandwiches near UCLA.](https://www.google.com/maps/search/?api=1&query=Diddy+Riese+Westwood+CA) [Shamshiri Grill In Westwood Persian kebabs in Persian Square.](https://www.google.com/maps/search/?api=1&query=Shamshiri+Grill+Westwood+CA) [Toscana Brentwood · 1.5 mi The Brentwood Italian standby.](https://www.google.com/maps/search/?api=1&query=Toscana+Brentwood+CA) [Pizzana Brentwood · 1.5 mi Neapolitan pizza on San Vicente.](https://www.google.com/maps/search/?api=1&query=Pizzana+Brentwood+CA) [Eataly LA Century City · 1.5 mi Italian market and restaurants at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=Eataly+LA+Century+City+CA) [Tsujita LA West LA · 1.5 mi Tsukemen dipping ramen on Sawtelle.](https://www.google.com/maps/search/?api=1&query=Tsujita+LA+West+LA+CA)
-
-[The Abbey West Hollywood · 3.5 mi The anchor of the Rainbow District on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Abbey+West+Hollywood+CA) [The Culver Hotel Culver City · 4 mi Lobby bar with live jazz in the 1924 flatiron.](https://www.google.com/maps/search/?api=1&query=The+Culver+Hotel+Culver+City+CA) [Chez Jay Santa Monica · 4.5 mi Peanut-shell steakhouse bar on Ocean Avenue since 1959.](https://www.google.com/maps/search/?api=1&query=Chez+Jay+Santa+Monica+CA)
-
-[Bel-Air Country Club Bel Air · 1 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA) [Los Angeles Country Club Holmby Hills · 1.5 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Brentwood Country Club Brentwood · 2 mi Private club in Brentwood.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Club+Brentwood+CA) [Rancho Park Golf Course Cheviot Hills · 2 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Hillcrest Country Club Cheviot Hills · 2.5 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Mountaingate Country Club Brentwood · 3 mi Private club above the 405.](https://www.google.com/maps/search/?api=1&query=Mountaingate+Country+Club+Brentwood+CA)
-
-[Regency Village Theatre In Westwood The 1931 tower theatre and its premieres.](https://www.google.com/maps/search/?api=1&query=Regency+Village+Theatre+Westwood+CA) [Laemmle Royal West LA · 1.5 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA) [AMC Century City 15 Century City · 1.5 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA) [Aero Theatre Santa Monica · 3.5 mi American Cinematheque's single screen on Montana.](https://www.google.com/maps/search/?api=1&query=Aero+Theatre+Santa+Monica+CA)
-
-[Geffen Playhouse In Westwood Plays in Westwood Village.](https://www.google.com/maps/search/?api=1&query=Geffen+Playhouse+Westwood+CA) [Hammer Museum In Westwood Free art museum on Wilshire.](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+Westwood+CA) [Royce Hall In Westwood Concerts and talks at UCLA.](https://www.google.com/maps/search/?api=1&query=Royce+Hall+Westwood+CA) [Getty Center Brentwood · 2 mi Art, gardens and the view. Free entry, paid parking.](https://www.google.com/maps/search/?api=1&query=Getty+Center+Brentwood+CA) [The Wallis Beverly Hills · 2.5 mi Theater and dance in the old post office.](https://www.google.com/maps/search/?api=1&query=The+Wallis+Beverly+Hills+CA) [The Troubadour West Hollywood · 3.5 mi Club where Elton John made his U.S. debut.](https://www.google.com/maps/search/?api=1&query=The+Troubadour+West+Hollywood+CA)
-
-[Mathias Botanical Garden In Westwood UCLA's free botanical garden.](https://www.google.com/maps/search/?api=1&query=Mathias+Botanical+Garden+Westwood+CA) [Holmby Park Holmby Hills · 1 mi Lawn bowling and a pitch-and-putt.](https://www.google.com/maps/search/?api=1&query=Holmby+Park+Holmby+Hills+CA) [San Vicente Boulevard path Brentwood · 2 mi The coral tree median runners use.](https://www.google.com/maps/search/?api=1&query=San+Vicente+Boulevard+path+Brentwood+CA) [Beverly Gardens Park Beverly Hills · 2.5 mi Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA) [Cheviot Hills Recreation Center Cheviot Hills · 2.5 mi Pool, tennis and fields.](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+Cheviot+Hills+CA) [Roxbury Park Beverly Hills · 2.5 mi Playgrounds, courts and lawn.](https://www.google.com/maps/search/?api=1&query=Roxbury+Park+Beverly+Hills+CA)
 
 Living here
 

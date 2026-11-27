@@ -1,4 +1,4 @@
-# Living in Cheviot Hills & Rancho Park, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Cheviot Hills & Rancho Park, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/cheviot-hills
 
@@ -51,21 +51,207 @@ From above
 
 What's my home worth? Get Cheviot Hills & Rancho Park listings
 
-## Around Cheviot Hills & Rancho Park
+Local LA
 
-[The full Cheviot Hills & Rancho Park guide: 4 places →](https://www.nathanielgrivas.com/guide/cheviot-hills)
+## Where to eat, drink and go in Cheviot Hills & Rancho Park
 
-[The Apple Pan Rancho Park · under 1 mi Counter-only burgers and pie on Pico since 1947.](https://www.google.com/maps/search/?api=1&query=The+Apple+Pan+Rancho+Park+CA) [Helms Bakery District Culver City · 1.5 mi Father's Office, shops and the old bakery building.](https://www.google.com/maps/search/?api=1&query=Helms+Bakery+District+Culver+City+CA) [Versailles Palms · 1.5 mi Cuban garlic chicken on Venice Boulevard.](https://www.google.com/maps/search/?api=1&query=Versailles+Palms+CA) [Eataly LA Century City · 1.5 mi Italian market and restaurants at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=Eataly+LA+Century+City+CA) [Shamshiri Grill Westwood · 2 mi Persian kebabs in Persian Square.](https://www.google.com/maps/search/?api=1&query=Shamshiri+Grill+Westwood+CA) [Spago Beverly Hills · 2 mi Wolfgang Puck's flagship on Canon Drive.](https://www.google.com/maps/search/?api=1&query=Spago+Beverly+Hills+CA)
+See them on the map →
 
-[The Culver Hotel Culver City · 1.5 mi Lobby bar with live jazz in the 1924 flatiron.](https://www.google.com/maps/search/?api=1&query=The+Culver+Hotel+Culver+City+CA) [Tom Bergin's Miracle Mile · 3 mi Irish pub on Fairfax since 1936.](https://www.google.com/maps/search/?api=1&query=Tom+Bergin%27s+Miracle+Mile+CA) [The Abbey West Hollywood · 3.5 mi The anchor of the Rainbow District on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Abbey+West+Hollywood+CA)
+Cheviot Hills is a quiet, green neighborhood of winding streets between Century City and Culver City, anchored by its big recreation center and the Rancho Park golf course, with neighborhood restaurants along Pico Boulevard nearby.
 
-[Rancho Park Golf Course Cheviot Hills · under 1 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Hillcrest Country Club Cheviot Hills · under 1 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Los Angeles Country Club Holmby Hills · 2 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Bel-Air Country Club Bel Air · 3.5 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA) [Penmar Golf Course Venice · 4 mi Public nine-hole course on Rose Avenue.](https://www.google.com/maps/search/?api=1&query=Penmar+Golf+Course+Venice+CA) [Brentwood Country Club Brentwood · 4 mi Private club in Brentwood.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Club+Brentwood+CA)
+12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[AMC Century City 15 Century City · 1.5 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA) [Laemmle Royal West LA · 2 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA) [Regency Village Theatre Westwood · 3 mi The 1931 tower theatre and its premieres.](https://www.google.com/maps/search/?api=1&query=Regency+Village+Theatre+Westwood+CA) [Academy Museum theaters Miracle Mile · 3 mi Film series inside the Academy Museum.](https://www.google.com/maps/search/?api=1&query=Academy+Museum+theaters+Miracle+Mile+CA) [Brain Dead Studios Fairfax · 4 mi Indie screenings in the old Silent Movie Theatre.](https://www.google.com/maps/search/?api=1&query=Brain+Dead+Studios+Fairfax+CA)
+Eat
 
-[Kirk Douglas Theatre Culver City · 1.5 mi Center Theatre Group plays downtown.](https://www.google.com/maps/search/?api=1&query=Kirk+Douglas+Theatre+Culver+City+CA) [The Wallis Beverly Hills · 2 mi Theater and dance in the old post office.](https://www.google.com/maps/search/?api=1&query=The+Wallis+Beverly+Hills+CA) [Hammer Museum Westwood · 2.5 mi Free art museum on Wilshire.](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+Westwood+CA) [Saban Theatre Beverly Hills · 2.5 mi Art deco theater on Wilshire.](https://www.google.com/maps/search/?api=1&query=Saban+Theatre+Beverly+Hills+CA) [Geffen Playhouse Westwood · 2.5 mi Plays in Westwood Village.](https://www.google.com/maps/search/?api=1&query=Geffen+Playhouse+Westwood+CA) [Petersen Automotive Museum Miracle Mile · 3 mi Car museum at Wilshire and Fairfax.](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum+Miracle+Mile+CA)
+### Coffee & breakfast
 
-[Cheviot Hills Recreation Center Cheviot Hills · under 1 mi Pool, tennis and fields.](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+Cheviot+Hills+CA) [Roxbury Park Beverly Hills · 1 mi Playgrounds, courts and lawn.](https://www.google.com/maps/search/?api=1&query=Roxbury+Park+Beverly+Hills+CA) [Baldwin Hills Scenic Overlook Culver City · 2 mi Stair climb with a view to the ocean.](https://www.google.com/maps/search/?api=1&query=Baldwin+Hills+Scenic+Overlook+Culver+City+CA) [Beverly Gardens Park Beverly Hills · 2 mi Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA) [Holmby Park Holmby Hills · 2.5 mi Lawn bowling and a pitch-and-putt.](https://www.google.com/maps/search/?api=1&query=Holmby+Park+Holmby+Hills+CA) [Mathias Botanical Garden Westwood · 2.5 mi UCLA's free botanical garden.](https://www.google.com/maps/search/?api=1&query=Mathias+Botanical+Garden+Westwood+CA)
+### John O' Groats
+
+$$
+
+10516 W Pico Blvd
+
+A longtime neighborhood breakfast spot known for its biscuits and big pancakes.
+
+**Order:** Pancakes or eggs with a side of biscuits.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=John+O%27+Groats+10516+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+
+Breakfast Brunch
+
+### FOOD
+
+$$
+
+10571 W Pico Blvd
+
+A friendly neighborhood cafe with an all-day menu and plenty of healthy options.
+
+**Order:** The pancakes, or the Thai steak salad at lunch.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=FOOD+10571+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+
+Breakfast Lunch Healthy & plant-based
+
+### The Little Marionette
+
+$
+
+Next door in [Palms](https://www.nathanielgrivas.com/neighborhoods/palms) · 1.0 mi · 3570 Motor Ave
+
+A small, friendly espresso bar on Motor known for Australian-style coffee and a well-made matcha.
+
+**Order:** A flat white or the matcha.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Little+Marionette+3570+Motor+Ave+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+
+Coffee
+
+Eat
+
+### Dinner
+
+### Bossa Nova
+
+$$
+
+10982 W Pico Blvd
+
+A casual Brazilian restaurant with a huge menu that stays open late.
+
+**Order:** Brazilian cheese bread and the salmon.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bossa+Nova+10982+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+
+Dinner Late night
+
+### Kotoya Japanese Ramen
+
+$$
+
+Next door in [Palms](https://www.nathanielgrivas.com/neighborhoods/palms) · 1.0 mi · 10422 National Blvd
+
+One of the best ramen shops on the Westside, known for a rich tonkotsu broth. You order on tablets.
+
+**Order:** Tonkotsu or the spicy miso ramen.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kotoya+Japanese+Ramen+10422+National+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+
+Dinner Lunch
+
+### Versailles
+
+$$
+
+Next door in [Palms](https://www.nathanielgrivas.com/neighborhoods/palms) · 1.0 mi · 10319 Venice Blvd
+
+A longtime LA Cuban restaurant with big plates and a lively dining room.
+
+**Order:** The garlic chicken with plantains.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Versailles+10319+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+
+Dinner Lunch
+
+**Love Cheviot Hills & Rancho Park? Live here.** Get new Cheviot Hills & Rancho Park listings, including off-market ones, or a free value on your Cheviot Hills & Rancho Park home.
+
+What's my home worth? Get Cheviot Hills & Rancho Park listings
+
+Drink
+
+### Nightlife
+
+### Culver Hotel
+
+$$
+
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.4 mi · 9400 Culver Blvd
+
+A 1924 flatiron hotel with an old Hollywood lobby bar.
+
+**Order:** A nightcap in the lobby.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Culver+Hotel+9400+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+
+Cocktail bars & lounges Landmarks & sights
+
+### Lost and Found Cocktails
+
+$$
+
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 2.1 mi · 11700 National Blvd
+
+A classy cocktail lounge with a small dance floor and local DJs on weekends.
+
+**Order:** A smoked old fashioned. Open Wednesday through Saturday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+
+Cocktail bars & lounges Late night
+
+### Polo Lounge at the Beverly Hills Hotel
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.4 mi · 9641 Sunset Blvd
+
+The pink hotel's famous lounge, worth a visit even if you aren't staying.
+
+**Order:** A drink or brunch on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Cocktail bars & lounges Brunch Landmarks & sights
+
+Do
+
+### Parks & outdoors
+
+### Cheviot Hills Recreation Center
+
+Free
+
+2551 Motor Ave
+
+A big park with tennis courts, a pool, ball fields, basketball and an off-leash dog area.
+
+**Do:** Book a tennis court early on weekends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+2551+Motor+Ave+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+
+Parks Fitness & outdoor sports Dog-friendly
+
+### Baldwin Hills Scenic Overlook
+
+Free
+
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.4 mi · 6300 Hetzler Rd
+
+A steep 282-step staircase up to a 360-degree view from the ocean to downtown.
+
+**Do:** Climb the stairs at sunset.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Baldwin+Hills+Scenic+Overlook+6300+Hetzler+Rd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+
+Hikes & nature Fitness & outdoor sports Landmarks & sights
+
+### Kenneth Hahn State Recreation Area
+
+$
+
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 1.4 mi · 4100 S La Cienega Blvd
+
+A large Baldwin Hills park with miles of trails, a fishing lake and big basin views.
+
+**Do:** A loop hike, then a picnic by the lake.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kenneth+Hahn+State+Recreation+Area+4100+S+La+Cienega+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+
+Parks Hikes & nature Kids & family
+
+Sources
+
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Living here
 

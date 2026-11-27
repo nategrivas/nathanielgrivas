@@ -1,4 +1,4 @@
-# Living in Palms, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Palms, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/palms
 
@@ -51,25 +51,227 @@ From above
 
 What's my home worth? Get Palms listings
 
+Local LA
+
+## Where to eat, drink and go in Palms
+
+See them on the map →
+
+Palms sits between Culver City and West LA, a dense grid of apartments and strip malls along Venice, National and Motor, with some of the Westside's best casual cooking and the Expo Line close by.
+
+13 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### The Little Marionette
+
+$
+
+3570 Motor Ave
+
+A small, friendly espresso bar on Motor known for Australian-style coffee and a well-made matcha.
+
+**Order:** A flat white or the matcha.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Little+Marionette+3570+Motor+Ave+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+
+Coffee
+
+### The Conservatory for Coffee, Tea and Cocoa
+
+$
+
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 10117 Washington Blvd
+
+A decades-old roaster with a cult following, an eclectic room full of tins and instruments, and a line out the door.
+
+**Order:** The toffee latte and a pastry. Weekdays only.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Conservatory+for+Coffee%2C+Tea+and+Cocoa+10117+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
+
+Coffee
+
+### Leilo Coffee
+
+$
+
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 10606 Culver Blvd
+
+A calm, minimal new cafe with carefully made espresso and creative matcha.
+
+**Order:** The snow matcha or an almond milk latte with avocado toast.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Leilo+Coffee+10606+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
+
+Coffee
+
+Eat
+
+### Lunch & casual
+
+### Lokal Sandwich Shop
+
+$
+
+10433 National Blvd #1A
+
+A busy little sandwich shop where the specialty is banh mi on fresh, soft bread.
+
+**Order:** A tofu or Korean BBQ banh mi.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lokal+Sandwich+Shop+10433+National+Blvd+%231A+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+
+Lunch Breakfast Cheap eats
+
+### Jackson Market and Deli
+
+$$
+
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 4065 Jackson Ave
+
+A hidden neighborhood market with great sandwiches and a patio with a koi pond.
+
+**Order:** A deli sandwich on the pond patio. Wood-fired pizza Thursday through Sunday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Jackson+Market+and+Deli+4065+Jackson+Ave+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Lunch
+
+### Honey's Kettle Fried Chicken
+
+$$
+
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 9537 Culver Blvd
+
+Soul food fried chicken cooked in kettles, with biscuits and honey.
+
+**Order:** The spicy wing basket with a biscuit.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Honey%27s+Kettle+Fried+Chicken+9537+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-culver-city-restaurants) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
+
+Lunch Cheap eats
+
+**Love Palms? Live here.** Get new Palms listings, including off-market ones, or a free value on your Palms home.
+
+What's my home worth? Get Palms listings
+
+Eat
+
+### Dinner
+
+### Kotoya Japanese Ramen
+
+$$
+
+10422 National Blvd
+
+One of the best ramen shops on the Westside, known for a rich tonkotsu broth. You order on tablets.
+
+**Order:** Tonkotsu or the spicy miso ramen.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kotoya+Japanese+Ramen+10422+National+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+
+Dinner Lunch
+
+### Versailles
+
+$$
+
+10319 Venice Blvd
+
+A longtime LA Cuban restaurant with big plates and a lively dining room.
+
+**Order:** The garlic chicken with plantains.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Versailles+10319+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+
+Dinner Lunch
+
+### Bamboo Restaurant
+
+$$
+
+10835 Venice Blvd
+
+A warm Latin-Caribbean dining room and bar whose cocktails use fresh-pressed sugar cane.
+
+**Order:** Mango curry chicken and a mojito.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bamboo+Restaurant+10835+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+
+Dinner Date night Cocktail bars & lounges
+
+### n/naka
+
+$$$$
+
+3455 S Overland Ave
+
+Chef Niki Nakayama's celebrated modern kaiseki tasting menu, one of the hardest reservations in LA.
+
+**Order:** Watch the reservation page for new dates and book the moment they drop.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=n%2Fnaka+3455+S+Overland+Ave+Palms+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-los-angeles)
+
+Date night Dinner
+
+Drink
+
+### Nightlife
+
+### Culver Hotel
+
+$$
+
+Next door in [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · 0.9 mi · 9400 Culver Blvd
+
+A 1924 flatiron hotel with an old Hollywood lobby bar.
+
+**Order:** A nightcap in the lobby.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Culver+Hotel+9400+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
+
+Cocktail bars & lounges Landmarks & sights
+
+### Accomplice
+
+$$$
+
+Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 1.9 mi · 3811 Grand View Blvd
+
+A creative cocktail bar next to Little Fatty, with two back-to-back bars and a menu of a dozen house drinks.
+
+**Order:** Sit at the bar and watch the torched cocktails get made. Weekday happy hour.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+### Lost and Found Cocktails
+
+$$
+
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 2.1 mi · 11700 National Blvd
+
+A classy cocktail lounge with a small dance floor and local DJs on weekends.
+
+**Order:** A smoked old fashioned. Open Wednesday through Saturday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+
+Cocktail bars & lounges Late night
+
+Sources
+
+- [The Infatuation: Palms](https://www.theinfatuation.com/los-angeles/neighborhoods/palms)
+- [Time Out: The best restaurants in LA](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-los-angeles)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+
 Photos
 
 ## Palms in pictures
-
-## Around Palms
-
-[The full Palms guide: 6 places →](https://www.nathanielgrivas.com/guide/palms)
-
-[Versailles In Palms Cuban garlic chicken on Venice Boulevard.](https://www.google.com/maps/search/?api=1&query=Versailles+Palms+CA) [Helms Bakery District Culver City · 1.5 mi Father's Office, shops and the old bakery building.](https://www.google.com/maps/search/?api=1&query=Helms+Bakery+District+Culver+City+CA) [The Apple Pan Rancho Park · 1.5 mi Counter-only burgers and pie on Pico since 1947.](https://www.google.com/maps/search/?api=1&query=The+Apple+Pan+Rancho+Park+CA) [Tito's Tacos Culver City · 1.5 mi Hard-shell tacos and a line out the door since 1959.](https://www.google.com/maps/search/?api=1&query=Tito%27s+Tacos+Culver+City+CA) [Mitsuwa Marketplace Mar Vista · 2 mi Japanese market and food court on Venice Boulevard.](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+Mar+Vista+CA) [Sawtelle Japantown West LA · 2 mi Ramen, boba and izakayas on Sawtelle Boulevard.](https://www.google.com/maps/search/?api=1&query=Sawtelle+Japantown+West+LA+CA)
-
-[The Culver Hotel Culver City · under 1 mi Lobby bar with live jazz in the 1924 flatiron.](https://www.google.com/maps/search/?api=1&query=The+Culver+Hotel+Culver+City+CA) [Tom Bergin's Miracle Mile · 3.5 mi Irish pub on Fairfax since 1936.](https://www.google.com/maps/search/?api=1&query=Tom+Bergin%27s+Miracle+Mile+CA) [The Brig Venice · 4 mi Abbot Kinney bar with the neon boxer sign.](https://www.google.com/maps/search/?api=1&query=The+Brig+Venice+CA)
-
-[Rancho Park Golf Course Cheviot Hills · 1.5 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Hillcrest Country Club Cheviot Hills · 2 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Los Angeles Country Club Holmby Hills · 3 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Penmar Golf Course Venice · 3 mi Public nine-hole course on Rose Avenue.](https://www.google.com/maps/search/?api=1&query=Penmar+Golf+Course+Venice+CA) [Bel-Air Country Club Bel Air · 4 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA) [Brentwood Country Club Brentwood · 4.5 mi Private club in Brentwood.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Club+Brentwood+CA)
-
-[AMC Century City 15 Century City · 2.5 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA) [Laemmle Royal West LA · 2.5 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA) [Regency Village Theatre Westwood · 3.5 mi The 1931 tower theatre and its premieres.](https://www.google.com/maps/search/?api=1&query=Regency+Village+Theatre+Westwood+CA) [Cinemark Playa Vista Playa Vista · 3.5 mi Recliners at the Runway.](https://www.google.com/maps/search/?api=1&query=Cinemark+Playa+Vista+Playa+Vista+CA) [Academy Museum theaters Miracle Mile · 4 mi Film series inside the Academy Museum.](https://www.google.com/maps/search/?api=1&query=Academy+Museum+theaters+Miracle+Mile+CA)
-
-[Kirk Douglas Theatre Culver City · under 1 mi Center Theatre Group plays downtown.](https://www.google.com/maps/search/?api=1&query=Kirk+Douglas+Theatre+Culver+City+CA) [The Wallis Beverly Hills · 3 mi Theater and dance in the old post office.](https://www.google.com/maps/search/?api=1&query=The+Wallis+Beverly+Hills+CA) [Hammer Museum Westwood · 3 mi Free art museum on Wilshire.](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+Westwood+CA) [Geffen Playhouse Westwood · 3 mi Plays in Westwood Village.](https://www.google.com/maps/search/?api=1&query=Geffen+Playhouse+Westwood+CA) [Saban Theatre Beverly Hills · 3.5 mi Art deco theater on Wilshire.](https://www.google.com/maps/search/?api=1&query=Saban+Theatre+Beverly+Hills+CA) [Royce Hall Westwood · 3.5 mi Concerts and talks at UCLA.](https://www.google.com/maps/search/?api=1&query=Royce+Hall+Westwood+CA)
-
-[Cheviot Hills Recreation Center Cheviot Hills · 1.5 mi Pool, tennis and fields.](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+Cheviot+Hills+CA) [Baldwin Hills Scenic Overlook Culver City · 1.5 mi Stair climb with a view to the ocean.](https://www.google.com/maps/search/?api=1&query=Baldwin+Hills+Scenic+Overlook+Culver+City+CA) [Roxbury Park Beverly Hills · 2 mi Playgrounds, courts and lawn.](https://www.google.com/maps/search/?api=1&query=Roxbury+Park+Beverly+Hills+CA) [Kenneth Hahn Recreation Area Baldwin Hills · 3 mi Lakes and trails in the Baldwin Hills.](https://www.google.com/maps/search/?api=1&query=Kenneth+Hahn+Recreation+Area+Baldwin+Hills+CA) [Beverly Gardens Park Beverly Hills · 3 mi Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA) [Mathias Botanical Garden Westwood · 3.5 mi UCLA's free botanical garden.](https://www.google.com/maps/search/?api=1&query=Mathias+Botanical+Garden+Westwood+CA)
 
 Living here
 

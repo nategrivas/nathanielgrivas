@@ -1,8 +1,8 @@
-# Best Seafood in Los Angeles by Neighborhood | The LA Guide
+# Best Seafood in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/seafood
 
-The LA Guide
+Local LA
 
 # The best seafood in Los Angeles
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 25653 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 25653 Pacific Coast Hwy
 
 A tiny roadside shack with fresh fish and chips.
 
@@ -28,7 +28,7 @@ Lunch Cheap eats
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 23359 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 23359 Pacific Coast Hwy
 
 Counter-service seafood with one of LA's best lobster rolls.
 
@@ -42,7 +42,7 @@ Lunch
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 42505 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 42505 Pacific Coast Hwy
 
 A retro 1960s-style seafood stop at the far end of Malibu, famous with motorcyclists.
 
@@ -56,7 +56,7 @@ Cheap eats Landmarks & sights
 
 $$$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 23465 Civic Center Way
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 23465 Civic Center Way
 
 An upscale raw bar with martinis.
 
@@ -64,13 +64,13 @@ An upscale raw bar with martinis.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Clark%27s+Oyster+Bar+23465+Civic+Center+Way+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
 
-Dinner Cocktail bars
+Dinner Cocktail bars & lounges
 
 ### Dear Jane's
 
 $$$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · Panay Way
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · Panay Way
 
 A waterfront seafood restaurant from the team behind Dear John's.
 
@@ -84,7 +84,7 @@ Dinner
 
 $$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · Marina del Rey
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · Marina del Rey
 
 The second location of one of LA's best Nayarit-style Mexican seafood restaurants.
 
@@ -98,7 +98,7 @@ Tacos & Mexican
 
 $$$
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · 17300 Pacific Coast Hwy
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · 17300 Pacific Coast Hwy
 
 The classic oceanfront seafood restaurant at Sunset and PCH, open again after the fire.
 
@@ -112,7 +112,7 @@ Lunch
 
 $$$
 
-[Playa del Rey](https://www.nathanielgrivas.com/guide/playa-del-rey) · 119 Culver Blvd
+[Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey/#eat) · 119 Culver Blvd
 
 Chef Brooke Williamson's beachside spot with a daytime counter, a seafood dining room, a whiskey bar and house-made ice cream.
 
@@ -120,13 +120,13 @@ Chef Brooke Williamson's beachside spot with a daytime counter, a seafood dining
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Playa+Provisions+119+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
-Dinner Brunch Cocktail bars
+Dinner Brunch Cocktail bars & lounges
 
 ### Crudo e Nudo
 
 $$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 2724 Main St
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 2724 Main St
 
 Sustainable seafood, a full raw bar and a patio on Main Street.
 
@@ -140,7 +140,7 @@ Dinner
 
 $$$$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Venice
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Venice
 
 An upscale Baja-style marisquería with bright, citrusy plates and tequila cocktails.
 
@@ -154,7 +154,7 @@ Dinner Tacos & Mexican
 
 $$$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · 9 Dudley Ave
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · 9 Dudley Ave
 
 A fun, casual seafood spot by the boardwalk, run by a team with its own fishing boat.
 
@@ -168,7 +168,7 @@ Dinner
 
 $
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Rose Ave
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Rose Ave
 
 A mariscos truck where lunch for one is cheap and the ceviche and cocteles are the reason people line up.
 
@@ -184,7 +184,7 @@ Lunch Tacos & Mexican
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 10804 Washington Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 10804 Washington Blvd
 
 A Peruvian bakery and cevicheria with a patio.
 
@@ -198,7 +198,7 @@ Lunch
 
 $$$
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 12222 Venice Blvd
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 12222 Venice Blvd
 
 A small raw bar and Southern California bistro from the former chef at Dudley Market, and one of the Westside's best new spots.
 
@@ -212,7 +212,7 @@ Dinner Date night
 
 $$
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 4532 S Centinela Ave
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 4532 S Centinela Ave
 
 Nayarit-style Mexican seafood that people drive across town for.
 
@@ -232,7 +232,7 @@ What's my home worth? Find me a home
 
 $$$$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 430 N Camden Dr
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 430 N Camden Dr
 
 Seafood-focused Italian that's consistently good and sometimes great, in a big room full of business dinners.
 
@@ -248,7 +248,7 @@ Dinner
 
 $$
 
-[Beverly Grove](https://www.nathanielgrivas.com/guide/beverly-grove) · 476 S San Vicente Blvd
+[Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#eat) · 476 S San Vicente Blvd
 
 A family-run Spanish restaurant that feels like an old tavern.
 
@@ -262,7 +262,7 @@ Dinner
 
 $$
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 6333 W 3rd St
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 6333 W 3rd St
 
 A French bistro and gourmet market inside the Farmers Market.
 
@@ -276,7 +276,7 @@ Lunch Wine bars
 
 $$$$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 5955 Melrose Ave
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 5955 Melrose Ave
 
 Two-Michelin-star seafood tasting menus in a hushed room. One of LA's great splurges.
 
@@ -290,7 +290,7 @@ Dinner Date night
 
 $$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8615 Sunset Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8615 Sunset Blvd
 
 A Boston seafood bar on the Strip with a huge tinned-fish menu.
 
@@ -306,7 +306,7 @@ Lunch Dinner
 
 $$
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 5035 Melrose Ave
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 5035 Melrose Ave
 
 A small seafood cafe: sandwiches by day, a more ambitious menu at night.
 
@@ -320,7 +320,7 @@ Lunch Dinner
 
 $$$
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 4880 Fountain Ave
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 4880 Fountain Ave
 
 A small, buzzing raw bar with excellent oysters.
 
@@ -334,7 +334,7 @@ Date night Dinner
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1600 N Alvarado St
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1600 N Alvarado St
 
 A Peruvian-Japanese ceviche bar where most dishes are under $20.
 
@@ -348,7 +348,7 @@ Dinner
 
 $
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1650 Hillhurst Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 1650 Hillhurst Ave
 
 A short menu of fish, shrimp and potato tacos on a thatched patio. Fast, cheap and reliable.
 
@@ -362,7 +362,7 @@ Tacos & Mexican Cheap eats
 
 $$$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 2524 Hyperion Ave
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 2524 Hyperion Ave
 
 A tropical, club-like cevicheria with bright, vibrant seafood.
 
@@ -376,7 +376,7 @@ Dinner Tacos & Mexican
 
 $$$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 1637 Silver Lake Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 1637 Silver Lake Blvd
 
 A neighborhood oyster bar with excellent oysters and an easy, solid menu. Walk-ins welcome.
 
@@ -392,7 +392,7 @@ Dinner
 
 $$$
 
-[Encino](https://www.nathanielgrivas.com/guide/encino) · 18047 Ventura Blvd
+[Encino](https://www.nathanielgrivas.com/neighborhoods/encino/#eat) · 18047 Ventura Blvd
 
 An upscale kosher dairy restaurant serving fish, Mediterranean plates and sushi.
 
@@ -406,7 +406,7 @@ Dinner Date night
 
 $$$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 12345 Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 12345 Ventura Blvd
 
 An Italian dining room pairing raw seafood with pastas and a good wine list. Dinner only, closed Mondays.
 
@@ -420,7 +420,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

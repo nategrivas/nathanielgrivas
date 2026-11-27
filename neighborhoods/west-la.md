@@ -1,4 +1,4 @@
-# Living in West LA & Sawtelle, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# West LA & Sawtelle, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/west-la
 
@@ -51,21 +51,392 @@ From above
 
 What's my home worth? Get West LA & Sawtelle listings
 
-## Around West LA & Sawtelle
+Local LA
 
-[The full West LA & Sawtelle guide: 25 places →](https://www.nathanielgrivas.com/guide/west-la)
+## Where to eat, drink and go in West LA & Sawtelle
 
-[Tsujita LA West LA · under 1 mi Tsukemen dipping ramen on Sawtelle.](https://www.google.com/maps/search/?api=1&query=Tsujita+LA+West+LA+CA) [Sawtelle Japantown West LA · under 1 mi Ramen, boba and izakayas on Sawtelle Boulevard.](https://www.google.com/maps/search/?api=1&query=Sawtelle+Japantown+West+LA+CA) [Shamshiri Grill Westwood · under 1 mi Persian kebabs in Persian Square.](https://www.google.com/maps/search/?api=1&query=Shamshiri+Grill+Westwood+CA) [The Apple Pan Rancho Park · 1.5 mi Counter-only burgers and pie on Pico since 1947.](https://www.google.com/maps/search/?api=1&query=The+Apple+Pan+Rancho+Park+CA) [Toscana Brentwood · 1.5 mi The Brentwood Italian standby.](https://www.google.com/maps/search/?api=1&query=Toscana+Brentwood+CA) [Pizzana Brentwood · 1.5 mi Neapolitan pizza on San Vicente.](https://www.google.com/maps/search/?api=1&query=Pizzana+Brentwood+CA)
+See them on the map →
 
-[The Culver Hotel Culver City · 3 mi Lobby bar with live jazz in the 1924 flatiron.](https://www.google.com/maps/search/?api=1&query=The+Culver+Hotel+Culver+City+CA) [The Galley Santa Monica · 3.5 mi Nautical bar on Main Street since 1934.](https://www.google.com/maps/search/?api=1&query=The+Galley+Santa+Monica+CA) [Chez Jay Santa Monica · 3.5 mi Peanut-shell steakhouse bar on Ocean Avenue since 1959.](https://www.google.com/maps/search/?api=1&query=Chez+Jay+Santa+Monica+CA)
+West LA's heart is Sawtelle Japantown, a few walkable blocks of ramen counters, izakayas, dessert shops and pop-culture stores between Santa Monica and Olympic Boulevards. Around it, Pico and National have some of the Westside's best neighborhood bars.
 
-[Rancho Park Golf Course Cheviot Hills · 1.5 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Hillcrest Country Club Cheviot Hills · 2 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Brentwood Country Club Brentwood · 2 mi Private club in Brentwood.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Club+Brentwood+CA) [Los Angeles Country Club Holmby Hills · 2.5 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Penmar Golf Course Venice · 2.5 mi Public nine-hole course on Rose Avenue.](https://www.google.com/maps/search/?api=1&query=Penmar+Golf+Course+Venice+CA) [Bel-Air Country Club Bel Air · 3 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA)
+25 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Laemmle Royal West LA · under 1 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA) [Regency Village Theatre Westwood · 1.5 mi The 1931 tower theatre and its premieres.](https://www.google.com/maps/search/?api=1&query=Regency+Village+Theatre+Westwood+CA) [AMC Century City 15 Century City · 2 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA) [Aero Theatre Santa Monica · 3 mi American Cinematheque's single screen on Montana.](https://www.google.com/maps/search/?api=1&query=Aero+Theatre+Santa+Monica+CA) [Laemmle Monica Film Center Santa Monica · 3.5 mi Indie and foreign films downtown.](https://www.google.com/maps/search/?api=1&query=Laemmle+Monica+Film+Center+Santa+Monica+CA)
+Eat
 
-[Hammer Museum Westwood · 1.5 mi Free art museum on Wilshire.](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+Westwood+CA) [Geffen Playhouse Westwood · 1.5 mi Plays in Westwood Village.](https://www.google.com/maps/search/?api=1&query=Geffen+Playhouse+Westwood+CA) [Royce Hall Westwood · 2.5 mi Concerts and talks at UCLA.](https://www.google.com/maps/search/?api=1&query=Royce+Hall+Westwood+CA) [Kirk Douglas Theatre Culver City · 3 mi Center Theatre Group plays downtown.](https://www.google.com/maps/search/?api=1&query=Kirk+Douglas+Theatre+Culver+City+CA) [The Wallis Beverly Hills · 3 mi Theater and dance in the old post office.](https://www.google.com/maps/search/?api=1&query=The+Wallis+Beverly+Hills+CA) [Getty Center Brentwood · 3 mi Art, gardens and the view. Free entry, paid parking.](https://www.google.com/maps/search/?api=1&query=Getty+Center+Brentwood+CA)
+### Coffee & breakfast
 
-[Mathias Botanical Garden Westwood · 2 mi UCLA's free botanical garden.](https://www.google.com/maps/search/?api=1&query=Mathias+Botanical+Garden+Westwood+CA) [Cheviot Hills Recreation Center Cheviot Hills · 2 mi Pool, tennis and fields.](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+Cheviot+Hills+CA) [San Vicente Boulevard path Brentwood · 2 mi The coral tree median runners use.](https://www.google.com/maps/search/?api=1&query=San+Vicente+Boulevard+path+Brentwood+CA) [Holmby Park Holmby Hills · 2.5 mi Lawn bowling and a pitch-and-putt.](https://www.google.com/maps/search/?api=1&query=Holmby+Park+Holmby+Hills+CA) [Roxbury Park Beverly Hills · 2.5 mi Playgrounds, courts and lawn.](https://www.google.com/maps/search/?api=1&query=Roxbury+Park+Beverly+Hills+CA) [Beverly Gardens Park Beverly Hills · 3 mi Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA)
+### Coffee Tomo
+
+$
+
+11309 Mississippi Ave
+
+A Korean-Japanese cafe with house-roasted coffee and fresh-baked specialty pretzels.
+
+**Order:** A latte and the honey butter bread or a pretzel.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Coffee+Tomo+11309+Mississippi+Ave+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Coffee Bakeries & dessert
+
+### The Hive
+
+$
+
+11705 National Blvd
+
+A cheerful all-day cafe with lots of vegan, vegetarian and high-protein options and plenty of seating.
+
+**Order:** A breakfast bowl and the beekeeper latte.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Hive+11705+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+
+Breakfast Healthy & plant-based Coffee
+
+### Wanderlust Creamery
+
+$
+
+2105 Sawtelle Blvd
+
+Travel-inspired ice cream flavors and house-made cones.
+
+**Order:** Ube malted crunch.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Wanderlust+Creamery+2105+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants) [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Bakeries & dessert Kids & family
+
+### SomiSomi
+
+$
+
+11311 Mississippi Ave
+
+Fish-shaped taiyaki cones filled with soft serve.
+
+**Order:** Ube soft serve in a custard-filled taiyaki.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=SomiSomi+11311+Mississippi+Ave+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Bakeries & dessert Kids & family Cheap eats
+
+Eat
+
+### Lunch & casual
+
+### Tsujita LA Artisan Noodle
+
+$$
+
+2057 Sawtelle Blvd
+
+The ramen shop that put Sawtelle on the map, famous for tsukemen dipping noodles in a long-simmered pork broth.
+
+**Order:** Tsukemen, then try the even richer Annex across the street another day.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tsujita+LA+Artisan+Noodle+2057+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants) [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Lunch Dinner
+
+### Killer Noodle Tsujita
+
+$
+
+2030 Sawtelle Blvd
+
+Customizable tantanmen noodles with spice levels from zero to six.
+
+**Order:** Start at level two.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Killer+Noodle+Tsujita+2030+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Lunch Dinner Cheap eats
+
+### Marugame Udon
+
+$
+
+Sawtelle Blvd
+
+Cafeteria-style fresh udon with a line of just-fried tempura.
+
+**Order:** Pork udon and too much tempura.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Marugame+Udon+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants)
+
+Lunch Cheap eats
+
+### Kaz the Soba Place
+
+$$
+
+2047 Sawtelle Blvd
+
+Organic buckwheat soba made in many styles, with tempura fried to order.
+
+**Order:** Cold soba with a side of tempura.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kaz+the+Soba+Place+2047+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants)
+
+Lunch Healthy & plant-based
+
+### Nong Lá
+
+$
+
+2055 Sawtelle Blvd
+
+Family-run Vietnamese comfort food and a smart backup when Tsujita's line is long.
+
+**Order:** Pho or a rice plate.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nong+L%C3%A1+2055+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/sawtelle-japantown)
+
+Lunch Cheap eats
+
+### Dan Modern Chinese
+
+$$
+
+2049 Sawtelle Blvd
+
+Consistent modern Chinese with excellent soup dumplings.
+
+**Order:** Xiao long bao and dan dan noodles.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dan+Modern+Chinese+2049+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants) [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Lunch Dinner
+
+### Hermanito
+
+$$
+
+2024 Sawtelle Blvd
+
+A Mexican bar with a great patio and inventive cocktails.
+
+**Order:** Birria tacos and a margarita.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hermanito+2024+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Tacos & Mexican Cocktail bars & lounges Dinner
+
+### Big Boi
+
+$
+
+Sawtelle Blvd
+
+Filipino rice and pancit combos, each with pandesal. Open Friday through Sunday.
+
+**Order:** A combo plate with Filipino spaghetti.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Big+Boi+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants)
+
+Lunch Cheap eats
+
+### Volcano Tea House
+
+$
+
+2111 Sawtelle Blvd
+
+Sawtelle's oldest boba shop.
+
+**Order:** Classic milk tea and popcorn chicken.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Volcano+Tea+House+2111+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants)
+
+Cheap eats Late night
+
+**Love West LA & Sawtelle? Live here.** Get new West LA & Sawtelle listings, including off-market ones, or a free value on your West LA & Sawtelle home.
+
+What's my home worth? Get West LA & Sawtelle listings
+
+Go
+
+### Places to go
+
+### Daikokuya
+
+$
+
+2208 Sawtelle Blvd
+
+Rich tonkotsu ramen with late hours and cheap rice bowls.
+
+**Order:** The kotteri ramen.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Daikokuya+2208+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants)
+
+Dinner Late night Cheap eats
+
+### Chinchikurin
+
+$$
+
+2119 Sawtelle Blvd
+
+A rare spot for Hiroshima-style okonomiyaki layered with yakisoba and a fried egg.
+
+**Order:** The classic okonomiyaki.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Chinchikurin+2119+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/sawtelle-japantown)
+
+Dinner Cheap eats
+
+### Manpuku Japanese BBQ
+
+$$$
+
+Sawtelle Blvd
+
+A refined yakiniku grill.
+
+**Order:** Beef tongue and a tasting set.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Manpuku+Japanese+BBQ+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants)
+
+Dinner Date night
+
+### Furaibo
+
+$$
+
+2068 Sawtelle Blvd
+
+A lively izakaya known for Nagoya-style chicken wings and a big beer and sake list.
+
+**Order:** Tebasaki wings and a beer.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Furaibo+2068+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants)
+
+Dinner Cocktail bars & lounges
+
+### Sushi Tsujita
+
+$$$
+
+Sawtelle Blvd
+
+Edomae sushi sets at gentler prices than most omakase counters.
+
+**Order:** A nigiri set.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sushi+Tsujita+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants)
+
+Sushi & Japanese Dinner
+
+### Tuk Tuk Thai
+
+$$
+
+1638 Sawtelle Blvd
+
+Stylish Thai street food from a sister-led kitchen, with a Bangkok-inspired mural.
+
+**Order:** Street noodles and the barbecue squid.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tuk+Tuk+Thai+1638+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants) [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Dinner Lunch
+
+### Lost and Found Cocktails
+
+$$
+
+11700 National Blvd
+
+A classy cocktail lounge with a small dance floor and local DJs on weekends.
+
+**Order:** A smoked old fashioned. Open Wednesday through Saturday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+
+Cocktail bars & lounges Late night
+
+### Janss Family House
+
+Free
+
+1945 Purdue Ave
+
+Frank Gehry's first house design, built to show a Pop Art collection. View it from the street.
+
+**Do:** A quick stop on a Sawtelle walk.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Janss+Family+House+1945+Purdue+Ave+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Landmarks & sights
+
+### Hammer Museum
+
+Free
+
+Next door in [Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood) · 1.7 mi · 10899 Wilshire Blvd
+
+UCLA's free contemporary art museum with a courtyard, a strong shop and free screenings and talks.
+
+**Do:** Check the events calendar, then lunch at Lulu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+
+Museums Art & galleries
+
+Do
+
+### Shops, markets & spas
+
+### Nijiya Market and Daiso
+
+$
+
+2130 Sawtelle Blvd
+
+A Japanese grocery with good bento and sushi, next to the Daiso housewares store.
+
+**Do:** A bento and a can of royal milk tea.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nijiya+Market+and+Daiso+2130+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants) [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Markets Shopping
+
+### Giant Robot
+
+Free
+
+2015 Sawtelle Blvd
+
+The pop-culture shop that helped start the modern Sawtelle scene, with a gallery for emerging artists.
+
+**Do:** Browse the toys and graphic novels, then the GR2 gallery.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Giant+Robot+2015+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Shopping Art & galleries
+
+### Westfield Century City
+
+$$
+
+Next door in [Century City](https://www.nathanielgrivas.com/neighborhoods/century-city) · 2.0 mi · 10250 Santa Monica Blvd
+
+A big open-air mall with a movie theater, a food hall and Eataly's multi-level Italian market.
+
+**Do:** Go on a weekday; weekend parking gets slow.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Westfield+Century+City+10250+Santa+Monica+Blvd+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+
+Shopping Movies Markets
+
+Sources
+
+- [Time Out: Best restaurants in Sawtelle Japantown](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants)
+- [Discover Los Angeles: A walking tour of Sawtelle Japantown](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+- [The Infatuation: Sawtelle Japantown](https://theinfatuation.com/los-angeles/neighborhoods/sawtelle-japantown)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 Living here
 

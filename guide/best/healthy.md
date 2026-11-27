@@ -1,12 +1,12 @@
-# Best Healthy & plant-based in Los Angeles by Neighborhood | The LA Guide
+# Best Healthy & plant-based in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/healthy
 
-The LA Guide
+Local LA
 
 # The best healthy and plant-based food in Los Angeles
 
-22 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+23 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 23000 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 23000 Pacific Coast Hwy
 
 A breezy all-day restaurant at the end of the Malibu Pier.
 
@@ -28,7 +28,7 @@ Brunch Lunch
 
 $
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 22935 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 22935 Pacific Coast Hwy
 
 A casual Israeli patio across from Surfrider Beach.
 
@@ -42,7 +42,7 @@ Lunch Cheap eats
 
 $$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · 34 Washington Blvd
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · 34 Washington Blvd
 
 A two-story beach cafe by the Venice Pier that regulars hit every morning, with fresh juices and sandwiches.
 
@@ -56,7 +56,7 @@ Coffee Breakfast
 
 $$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · 4625 Admiralty Way
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · 4625 Admiralty Way
 
 The Westside's best upscale vegan dinner, on the marina.
 
@@ -70,7 +70,7 @@ Dinner
 
 $$$
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · Palisades Village
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · Palisades Village
 
 The luxury grocer, back in the Village with its smoothie and hot bars.
 
@@ -84,7 +84,7 @@ Markets
 
 $$
 
-[Playa Vista](https://www.nathanielgrivas.com/guide/playa-vista) · 12746 W Jefferson Blvd
+[Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista/#eat) · 12746 W Jefferson Blvd
 
 A fast, fresh counter-service spot with plates, salads and a wine list.
 
@@ -100,7 +100,7 @@ Lunch Dinner
 
 $$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 13050 San Vicente Blvd
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 13050 San Vicente Blvd
 
 A bright, friendly cafe at the west end of San Vicente with protein-forward breakfasts and creative lattes.
 
@@ -114,7 +114,7 @@ Breakfast Coffee
 
 $$
 
-[Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/guide/cheviot-hills) · 10571 W Pico Blvd
+[Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills/#eat) · 10571 W Pico Blvd
 
 A friendly neighborhood cafe with an all-day menu and plenty of healthy options.
 
@@ -128,7 +128,7 @@ Breakfast Lunch
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 10000 Washington Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 10000 Washington Blvd
 
 Fast-casual Mediterranean roast chicken with plenty of vegetarian options.
 
@@ -142,7 +142,7 @@ Lunch
 
 $
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 11705 National Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 11705 National Blvd
 
 A cheerful all-day cafe with lots of vegan, vegetarian and high-protein options and plenty of seating.
 
@@ -156,7 +156,7 @@ Breakfast Coffee
 
 $$
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 2047 Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 2047 Sawtelle Blvd
 
 Organic buckwheat soba made in many styles, with tempura fried to order.
 
@@ -170,13 +170,29 @@ Lunch
 
 What's my home worth? Find me a home
 
+### Beverly Hills & the Hills
+
+### Faregrounds
+
+$$
+
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 459 N Roxbury Dr
+
+A bright corner cafe that has become the Beverly Hills breakfast burrito spot. The kitchen cooks without seed oils, and the matcha menu is as big a draw as the coffee.
+
+**Order:** The Faregrounds breakfast burrito with a strawberry matcha. Open weekdays from 7 a.m.; closed on weekends.
+
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Faregrounds+459+N+Roxbury+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Love Beverly Hills](https://lovebeverlyhills.com/restaurants/view/faregrounds) [Atly](https://www.atly.com/united-states/california/beverly-hills/best-breakfast)
+
+Breakfast Coffee
+
 ### Central
 
 ### Mother Tongue
 
 $$$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · Hollywood
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · Hollywood
 
 A wellness-minded rooftop restaurant known for its happy hour.
 
@@ -190,7 +206,7 @@ Rooftops & views Dinner
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 510 N Robertson Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 510 N Robertson Blvd
 
 A plant-filled cafe on Robertson built for slow mornings. There's no Wi-Fi on purpose.
 
@@ -204,7 +220,7 @@ Coffee
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8401 Santa Monica Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8401 Santa Monica Blvd
 
 A WeHo breakfast staple for decades, with as many vegan and gluten-free options as regular ones.
 
@@ -218,7 +234,7 @@ Breakfast
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8755 Melrose Ave
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8755 Melrose Ave
 
 A bright, all-vegetarian cafe on Melrose that draws a crowd for brunch every day of the week.
 
@@ -232,7 +248,7 @@ Brunch
 
 $$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 9040 Sunset Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 9040 Sunset Blvd
 
 A moody, vegetable-forward restaurant inside the Edition hotel.
 
@@ -246,7 +262,7 @@ Dinner Brunch
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8905 Melrose Ave
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8905 Melrose Ave
 
 Plant-based Mexican under shade trees, and one of the busiest patios in the city.
 
@@ -260,7 +276,7 @@ Dinner Tacos & Mexican
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8274 Santa Monica Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8274 Santa Monica Blvd
 
 An all-vegan Italian restaurant and wine bar that doesn't feel like a compromise.
 
@@ -276,7 +292,7 @@ Dinner Pizza
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 2135 Sunset Blvd
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 2135 Sunset Blvd
 
 A small, dependable Mediterranean restaurant where vegetables are the stars.
 
@@ -290,7 +306,7 @@ Dinner
 
 $$$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 4648 Hollywood Blvd
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 4648 Hollywood Blvd
 
 Bright Middle Eastern cooking that still sets the bar for dinner in Los Feliz.
 
@@ -306,7 +322,7 @@ Dinner
 
 $$
 
-[Reseda](https://www.nathanielgrivas.com/guide/reseda) · 18625 Sherman Way, #101
+[Reseda](https://www.nathanielgrivas.com/neighborhoods/reseda/#eat) · 18625 Sherman Way, #101
 
 A beloved vegan Vietnamese restaurant with bold flavors and owners who will happily order for you.
 
@@ -320,7 +336,7 @@ Dinner Lunch
 
 $$
 
-[Sherman Oaks](https://www.nathanielgrivas.com/guide/sherman-oaks) · 4515 Sepulveda Blvd
+[Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks/#eat) · 4515 Sepulveda Blvd
 
 A bright, casual Mediterranean restaurant.
 
@@ -334,7 +350,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

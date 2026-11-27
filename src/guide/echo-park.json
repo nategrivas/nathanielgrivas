@@ -1,39 +1,396 @@
-{"slug": "echo-park", "updated": "2026-11-26",
+{
+ "slug": "echo-park",
+ "updated": "2026-11-26",
  "intro": "Echo Park wraps around its lake, with swan boats and a palm-lined loop, and Sunset Boulevard runs through it with some of the Eastside's best bars, taquerias and music rooms. Dodger Stadium sits right above it in Chavez Ravine.",
  "sources": {
-  "inf": ["The Infatuation: Best restaurants and bars in Echo Park", "https://www.theinfatuation.com/los-angeles/guides/best-restaurants-Echo-Park"],
-  "infep": ["The Infatuation: Echo Park", "https://theinfatuation.com/los-angeles/neighborhoods/echo-park"],
-  "to": ["Time Out: Best restaurants in Echo Park", "https://www.timeout.com/los-angeles/restaurants/the-best-restaurants-in-echo-park"],
-  "fod": ["Fodor's: Best restaurants in Echo Park", "https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/los-feliz-and-the-eastside/echo-park/restaurants"],
-  "gm": ["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA"]
+  "inf": [
+   "The Infatuation: Best restaurants and bars in Echo Park",
+   "https://www.theinfatuation.com/los-angeles/guides/best-restaurants-Echo-Park"
+  ],
+  "infep": [
+   "The Infatuation: Echo Park",
+   "https://theinfatuation.com/los-angeles/neighborhoods/echo-park"
+  ],
+  "to": [
+   "Time Out: Best restaurants in Echo Park",
+   "https://www.timeout.com/los-angeles/restaurants/the-best-restaurants-in-echo-park"
+  ],
+  "fod": [
+   "Fodor's: Best restaurants in Echo Park",
+   "https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/los-feliz-and-the-eastside/echo-park/restaurants"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA"
+  ]
  },
  "places": [
-  {"n": "Eightfold Coffee", "c": ["coffee"], "a": "1294 Sunset Blvd", "p": "$", "w": "A bright, roomy cafe with free Wi-Fi, great croissants and no charge for alternative milks.", "o": "A lavender latte and a savory pastry. Park up on Kensington and take the stairs down.", "s": ["gm"]},
-  {"n": "Canyon Coffee", "c": ["coffee"], "a": "1559 Echo Park Ave", "p": "$", "w": "A small, sunny roaster's cafe with a long bar and very fresh beans to take home.", "o": "A cappuccino or the fig leaf latte. There's no Wi-Fi.", "s": ["gm"]},
-  {"n": "Woodcat Coffee", "c": ["coffee"], "a": "1532 Sunset Blvd", "p": "$$", "w": "A relaxed neighborhood coffee bar that's been on Sunset for more than a decade.", "o": "An iced matcha on the patio.", "s": ["gm"]},
-  {"n": "Valerie Echo Park", "c": ["bakery", "breakfast", "lunch"], "a": "1665 Echo Park Ave", "p": "$", "w": "A tiny bakery and sandwich shop with a tree-shaded patio, famous for its pies and petit fours.", "o": "A hand pie or the Basque cheesecake, plus the prosciutto sandwich.", "s": ["gm"]},
-  {"n": "Henrietta", "c": ["lunch", "dinner"], "a": "343 Glendale Blvd", "p": "$$", "w": "A neighborhood American spot that works for a sandwich lunch or a full dinner.", "o": "The mushroom dip at lunch; beef tartare toast and roast chicken at dinner.", "s": ["inf"]},
-  {"n": "A Tí", "c": ["dinner", "tacos", "date"], "a": "1498 W Sunset Blvd", "p": "$$", "w": "Modern Mexican cooking with a patio built for cocktails.", "o": "Blue corn tacos and the duck confit with date mole.", "s": ["inf"]},
-  {"n": "The Hummingbird", "c": ["seafood", "dinner"], "a": "1600 N Alvarado St", "p": "$$", "w": "A Peruvian-Japanese ceviche bar where most dishes are under $20.", "o": "Nikkei sashimi, a scallop hand roll and the shrimp dumplings.", "s": ["inf"]},
-  {"n": "Donna's", "c": ["dinner", "date"], "a": "1538 W Sunset Blvd", "p": "$$", "w": "A red-sauce Italian room with icy martinis.", "o": "Chicken parm and the lasagna bolognese.", "s": ["inf"]},
-  {"n": "Tsubaki", "c": ["sushi", "dinner", "date"], "a": "1356 Allison Ave", "p": "$$$", "w": "A cozy Japanese izakaya known for yakitori and sake.", "o": "Chicken oyster skewers and the garlic fried rice with Dungeness crab.", "s": ["inf"]},
-  {"n": "Ototo", "c": ["sushi", "wine"], "a": "1360 Allison Ave", "p": "$$", "w": "Tsubaki's casual sake bar next door, made for sharing plates.", "o": "The Osaka-style okonomiyaki and a sake flight.", "s": ["inf"]},
-  {"n": "Dada Echo Park", "c": ["dinner", "bars"], "a": "1606 W Sunset Blvd", "p": "$$", "w": "A Mediterranean bar and restaurant with a hidden alley entrance and an easy weeknight feel.", "o": "Small plates and the branzino.", "s": ["inf"]},
-  {"n": "Bacetti", "c": ["dinner", "date", "brunch"], "a": "Echo Park", "p": "$$", "w": "A Roman-inspired Italian restaurant with a big wood-framed dining room and patio, and one of the best Italian meals in LA.", "o": "Pasta at dinner, cottage cheese pancakes at brunch. Closed Monday and Tuesday.", "s": ["fod"]},
-  {"n": "Cosa Buona", "c": ["pizza", "dinner"], "a": "2100 Sunset Blvd", "p": "$$", "w": "A true neighborhood pizzeria, with blistered pies and a lively room.", "o": "A pizza and the fried mozzarella.", "s": ["infep"]},
-  {"n": "Masa of Echo Park", "c": ["pizza", "dinner"], "a": "1800 W Sunset Blvd", "p": "$$", "w": "A long-running spot famous for Chicago-style deep-dish pizza.", "o": "Order the deep dish when you sit down; it takes a while.", "s": ["fod"]},
-  {"n": "Quarter Sheets Pizza Club", "c": ["pizza"], "a": "1305 Portia St", "p": "$$", "w": "Buttery pan pizza in a retro dining room.", "o": "The pepperoni pan pie, eaten in.", "s": ["inf"]},
-  {"n": "Elf Cafe", "c": ["dinner", "healthy"], "a": "2135 Sunset Blvd", "p": "$$", "w": "A small, dependable Mediterranean restaurant where vegetables are the stars.", "o": "The vegetable plates and the lamb kebab.", "s": ["infep"]},
-  {"n": "Angel's Tijuana Tacos", "c": ["tacos", "cheap", "latenight"], "a": "1185 W Sunset Blvd", "p": "$", "w": "Tijuana-style tacos off the trompo, worth the long line.", "o": "Al pastor and the crispy fried cheese taco.", "s": ["inf"]},
-  {"n": "Alejandra's Quesadilla Cart", "c": ["tacos", "cheap"], "a": "1246 Echo Park Ave", "p": "$", "w": "A street cart making handmade Oaxacan quesadillas with creative fillings.", "o": "A huitlacoche quesadilla. Open Friday through Monday.", "s": ["inf"]},
-  {"n": "The Park's Finest", "c": ["lunch", "dinner"], "a": "1267 W Temple St", "p": "$$", "w": "Filipino flavors meet Southern barbecue.", "o": "Coconut beef adobo, tri-tip and bibingka for dessert.", "s": ["inf", "fod"]},
-  {"n": "Bia Ôm", "c": ["beer", "lunch"], "a": "1250 W Sunset Blvd", "p": "$$", "w": "A weekends-only German beer garden.", "o": "A pretzel, sausages and the giant schnitzel.", "s": ["inf"]},
-  {"n": "Fluffy McCloud's", "c": ["bakery", "kids"], "a": "1814 W Sunset Blvd", "p": "$", "w": "A retro soda fountain for ice cream.", "o": "The banana split or pistachio.", "s": ["inf"]},
-  {"n": "The Semi-Tropic", "c": ["bars", "dinner"], "a": "1412 Glendale Blvd", "p": "$$", "w": "A warm, wood-paneled cocktail bar with Mediterranean food, a vintage sound system and a leafy patio.", "o": "The lavender cocktail with the watermelon salad.", "s": ["gm"]},
-  {"n": "Bar Henry", "c": ["bars", "date"], "a": "1228 Sunset Blvd", "p": "$$", "w": "A moody, velvet-lined cocktail bar with deep whiskey and agave lists, near Dodger Stadium.", "o": "Go on a weeknight for an easy conversation.", "s": ["gm"]},
-  {"n": "Bar Flores", "c": ["bars", "rooftop"], "a": "1542 Sunset Blvd", "p": "$$", "w": "An upstairs bar with a lovely patio and some of the best margaritas on the Eastside.", "o": "The tequila sour before a Dodgers game.", "s": ["gm"]},
-  {"n": "The Short Stop", "c": ["dive", "latenight", "sports"], "a": "1455 Sunset Blvd", "p": "$", "w": "Echo Park's longtime bar and dance floor, with DJ nights all week and a packed room after Dodgers wins.", "o": "Dance night on Monday, or the Dodgers drink specials.", "s": ["gm"]},
-  {"n": "Echo Park Lake", "c": ["park", "landmark", "kids"], "a": "751 Echo Park Ave", "p": "Free", "w": "A palm-ringed lake with swan pedal boats, a fountain and a walking loop. The lotus bed blooms each summer.", "o": "Rent a swan boat at sunset.", "s": ["to", "gm"]},
-  {"n": "The Echo", "c": ["music"], "a": "1822 Sunset Blvd", "p": "$$", "w": "A small, dark music room where you can get right up to the band.", "o": "Check the calendar for local and touring acts.", "s": ["gm"]},
-  {"n": "Dodger Stadium", "c": ["sports", "landmark"], "a": "1000 Vin Scully Ave", "p": "$$", "w": "The Dodgers' hilltop home in Chavez Ravine, right above the neighborhood.", "o": "Eat and drink on Sunset before the game and walk up.", "s": ["infep"]}
- ]}
+  {
+   "n": "Eightfold Coffee",
+   "c": [
+    "coffee"
+   ],
+   "a": "1294 Sunset Blvd",
+   "p": "$",
+   "w": "A bright, roomy cafe with free Wi-Fi, great croissants and no charge for alternative milks.",
+   "o": "A lavender latte and a savory pastry. Park up on Kensington and take the stairs down.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Canyon Coffee",
+   "c": [
+    "coffee"
+   ],
+   "a": "1559 Echo Park Ave",
+   "p": "$",
+   "w": "A small, sunny roaster's cafe with a long bar and very fresh beans to take home.",
+   "o": "A cappuccino or the fig leaf latte. There's no Wi-Fi.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Woodcat Coffee",
+   "c": [
+    "coffee"
+   ],
+   "a": "1532 Sunset Blvd",
+   "p": "$$",
+   "w": "A relaxed neighborhood coffee bar that's been on Sunset for more than a decade.",
+   "o": "An iced matcha on the patio.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Valerie Echo Park",
+   "c": [
+    "bakery",
+    "breakfast",
+    "lunch"
+   ],
+   "a": "1665 Echo Park Ave",
+   "p": "$",
+   "w": "A tiny bakery and sandwich shop with a tree-shaded patio, famous for its pies and petit fours.",
+   "o": "A hand pie or the Basque cheesecake, plus the prosciutto sandwich.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Henrietta",
+   "c": [
+    "lunch",
+    "dinner"
+   ],
+   "a": "343 Glendale Blvd",
+   "p": "$$",
+   "w": "A neighborhood American spot that works for a sandwich lunch or a full dinner.",
+   "o": "The mushroom dip at lunch; beef tartare toast and roast chicken at dinner.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "A Tí",
+   "c": [
+    "dinner",
+    "tacos",
+    "date"
+   ],
+   "a": "1498 W Sunset Blvd",
+   "p": "$$",
+   "w": "Modern Mexican cooking with a patio built for cocktails.",
+   "o": "Blue corn tacos and the duck confit with date mole.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "The Hummingbird",
+   "c": [
+    "seafood",
+    "dinner"
+   ],
+   "a": "1600 N Alvarado St",
+   "p": "$$",
+   "w": "A Peruvian-Japanese ceviche bar where most dishes are under $20.",
+   "o": "Nikkei sashimi, a scallop hand roll and the shrimp dumplings.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Donna's",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "1538 W Sunset Blvd",
+   "p": "$$",
+   "w": "A red-sauce Italian room with icy martinis.",
+   "o": "Chicken parm and the lasagna bolognese.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Tsubaki",
+   "c": [
+    "sushi",
+    "dinner",
+    "date"
+   ],
+   "a": "1356 Allison Ave",
+   "p": "$$$",
+   "w": "A cozy Japanese izakaya known for yakitori and sake.",
+   "o": "Chicken oyster skewers and the garlic fried rice with Dungeness crab.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Ototo",
+   "c": [
+    "sushi",
+    "wine"
+   ],
+   "a": "1360 Allison Ave",
+   "p": "$$",
+   "w": "Tsubaki's casual sake bar next door, made for sharing plates.",
+   "o": "The Osaka-style okonomiyaki and a sake flight.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Dada Echo Park",
+   "c": [
+    "dinner",
+    "bars"
+   ],
+   "a": "1606 W Sunset Blvd",
+   "p": "$$",
+   "w": "A Mediterranean bar and restaurant with a hidden alley entrance and an easy weeknight feel.",
+   "o": "Small plates and the branzino.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Bacetti",
+   "c": [
+    "dinner",
+    "date",
+    "brunch"
+   ],
+   "a": "Echo Park",
+   "p": "$$",
+   "w": "A Roman-inspired Italian restaurant with a big wood-framed dining room and patio, and one of the best Italian meals in LA.",
+   "o": "Pasta at dinner, cottage cheese pancakes at brunch. Closed Monday and Tuesday.",
+   "s": [
+    "fod"
+   ]
+  },
+  {
+   "n": "Cosa Buona",
+   "c": [
+    "pizza",
+    "dinner"
+   ],
+   "a": "2100 Sunset Blvd",
+   "p": "$$",
+   "w": "A true neighborhood pizzeria, with blistered pies and a lively room.",
+   "o": "A pizza and the fried mozzarella.",
+   "s": [
+    "infep"
+   ]
+  },
+  {
+   "n": "Masa of Echo Park",
+   "c": [
+    "pizza",
+    "dinner"
+   ],
+   "a": "1800 W Sunset Blvd",
+   "p": "$$",
+   "w": "A long-running spot famous for Chicago-style deep-dish pizza.",
+   "o": "Order the deep dish when you sit down; it takes a while.",
+   "s": [
+    "fod"
+   ]
+  },
+  {
+   "n": "Quarter Sheets Pizza Club",
+   "c": [
+    "pizza"
+   ],
+   "a": "1305 Portia St",
+   "p": "$$",
+   "w": "Buttery pan pizza in a retro dining room.",
+   "o": "The pepperoni pan pie, eaten in.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Elf Cafe",
+   "c": [
+    "dinner",
+    "healthy"
+   ],
+   "a": "2135 Sunset Blvd",
+   "p": "$$",
+   "w": "A small, dependable Mediterranean restaurant where vegetables are the stars.",
+   "o": "The vegetable plates and the lamb kebab.",
+   "s": [
+    "infep"
+   ]
+  },
+  {
+   "n": "Angel's Tijuana Tacos",
+   "c": [
+    "tacos",
+    "cheap",
+    "latenight"
+   ],
+   "a": "1185 W Sunset Blvd",
+   "p": "$",
+   "w": "Tijuana-style tacos off the trompo, worth the long line.",
+   "o": "Al pastor and the crispy fried cheese taco.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Alejandra's Quesadilla Cart",
+   "c": [
+    "tacos",
+    "cheap"
+   ],
+   "a": "1246 Echo Park Ave",
+   "p": "$",
+   "w": "A street cart making handmade Oaxacan quesadillas with creative fillings.",
+   "o": "A huitlacoche quesadilla. Open Friday through Monday.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "The Park's Finest",
+   "c": [
+    "lunch",
+    "dinner"
+   ],
+   "a": "1267 W Temple St",
+   "p": "$$",
+   "w": "Filipino flavors meet Southern barbecue.",
+   "o": "Coconut beef adobo, tri-tip and bibingka for dessert.",
+   "s": [
+    "inf",
+    "fod"
+   ]
+  },
+  {
+   "n": "Fluffy McCloud's",
+   "c": [
+    "bakery",
+    "kids"
+   ],
+   "a": "1814 W Sunset Blvd",
+   "p": "$",
+   "w": "A retro soda fountain for ice cream.",
+   "o": "The banana split or pistachio.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "The Semi-Tropic",
+   "c": [
+    "bars",
+    "dinner"
+   ],
+   "a": "1412 Glendale Blvd",
+   "p": "$$",
+   "w": "A warm, wood-paneled cocktail bar with Mediterranean food, a vintage sound system and a leafy patio.",
+   "o": "The lavender cocktail with the watermelon salad.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Bar Henry",
+   "c": [
+    "bars",
+    "date"
+   ],
+   "a": "1228 Sunset Blvd",
+   "p": "$$",
+   "w": "A moody, velvet-lined cocktail bar with deep whiskey and agave lists, near Dodger Stadium.",
+   "o": "Go on a weeknight for an easy conversation.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Bar Flores",
+   "c": [
+    "bars",
+    "rooftop"
+   ],
+   "a": "1542 Sunset Blvd",
+   "p": "$$",
+   "w": "An upstairs bar with a lovely patio and some of the best margaritas on the Eastside.",
+   "o": "The tequila sour before a Dodgers game.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Echo Park Lake",
+   "c": [
+    "park",
+    "landmark",
+    "kids"
+   ],
+   "a": "751 Echo Park Ave",
+   "p": "Free",
+   "w": "A palm-ringed lake with swan pedal boats, a fountain and a walking loop. The lotus bed blooms each summer.",
+   "o": "Rent a swan boat at sunset.",
+   "s": [
+    "to",
+    "gm"
+   ]
+  },
+  {
+   "n": "The Echo",
+   "c": [
+    "music"
+   ],
+   "a": "1822 Sunset Blvd",
+   "p": "$$",
+   "w": "A small, dark music room where you can get right up to the band.",
+   "o": "Check the calendar for local and touring acts.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Dodger Stadium",
+   "c": [
+    "landmark",
+    "kids"
+   ],
+   "a": "1000 Vin Scully Ave",
+   "p": "$$",
+   "w": "The Dodgers' hilltop home in Chavez Ravine, right above the neighborhood.",
+   "o": "Eat and drink on Sunset before the game and walk up.",
+   "s": [
+    "infep"
+   ]
+  }
+ ]
+}

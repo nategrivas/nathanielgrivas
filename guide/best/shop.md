@@ -1,8 +1,8 @@
-# Best Shopping in Los Angeles by Neighborhood | The LA Guide
+# Best Shopping in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/shop
 
-The LA Guide
+Local LA
 
 # The best shopping in Los Angeles
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $$
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · 15225 Palisades Village Ln
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · 15225 Palisades Village Ln
 
 The neighborhood's walkable town square of shops, restaurants and lawns, reopened in August 2026 after a full restoration.
 
@@ -28,7 +28,7 @@ Landmarks & sights Kids & family
 
 $$
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · Palisades Village
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · Palisades Village
 
 A local toy shop that lost its home in the fire and reopened inside Palisades Village.
 
@@ -42,7 +42,7 @@ Kids & family
 
 $$
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · 15248 Sunset Blvd
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · 15248 Sunset Blvd
 
 An upscale general store with gourmet treats, jewelry and home goods, and a neighborhood hub again.
 
@@ -54,7 +54,7 @@ An upscale general store with gourmet treats, jewelry and home goods, and a neig
 
 $$
 
-[Pacific Palisades](https://www.nathanielgrivas.com/guide/pacific-palisades) · 970 Monument St
+[Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#eat) · 970 Monument St
 
 A longtime beachy clothing boutique with aloha shirts and accessories, saved from the fire and reopened.
 
@@ -66,7 +66,7 @@ A longtime beachy clothing boutique with aloha shirts and accessories, saved fro
 
 $$
 
-[Playa Vista](https://www.nathanielgrivas.com/guide/playa-vista) · 12775 W Millennium
+[Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista/#eat) · 12775 W Millennium
 
 The neighborhood's walkable center, with restaurants, a Whole Foods, a movie theater, fire pits and play areas.
 
@@ -80,7 +80,7 @@ Movies Kids & family
 
 $$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · Main St
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · Main St
 
 The lower-key, hipper shopping street that runs toward Venice.
 
@@ -92,7 +92,7 @@ The lower-key, hipper shopping street that runs toward Venice.
 
 $$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · Montana Ave
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · Montana Ave
 
 Santa Monica's upscale shopping street, with boutiques and cafes for blocks.
 
@@ -104,7 +104,7 @@ Santa Monica's upscale shopping street, with boutiques and cafes for blocks.
 
 $$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 3rd St
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 3rd St
 
 The pedestrian shopping street downtown, busy with street performers.
 
@@ -116,7 +116,7 @@ The pedestrian shopping street downtown, busy with street performers.
 
 $
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · 1001 Venice Blvd
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · 1001 Venice Blvd
 
 An espresso bar inside a custom motorcycle and surf shop. Visitors like browsing the bikes and boards while they wait.
 
@@ -130,7 +130,7 @@ Coffee
 
 $$$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Abbot Kinney Blvd
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Abbot Kinney Blvd
 
 Venice's most stylish street: boutiques, galleries, restaurants and bars along a walkable mile.
 
@@ -144,7 +144,7 @@ Markets
 
 $
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · 1407 Ocean Front Walk
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · 1407 Ocean Front Walk
 
 A family-owned bookstore that's been on the boardwalk for more than 50 years, strong on local authors. There's a resident cat.
 
@@ -158,7 +158,7 @@ A family-owned bookstore that's been on the boardwalk for more than 50 years, st
 
 $$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 225 26th St
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 225 26th St
 
 A red barn-style courtyard of boutiques, a bookstore, a toy store and cafes.
 
@@ -172,7 +172,7 @@ Kids & family
 
 $$
 
-[Century City](https://www.nathanielgrivas.com/guide/century-city) · 10250 Santa Monica Blvd
+[Century City](https://www.nathanielgrivas.com/neighborhoods/century-city/#eat) · 10250 Santa Monica Blvd
 
 A big open-air mall with a movie theater, a food hall and Eataly's multi-level Italian market.
 
@@ -186,7 +186,7 @@ Movies Markets
 
 $$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 8850 Washington Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 8850 Washington Blvd
 
 An open-air design-forward shopping and dining center by the Metro station.
 
@@ -198,7 +198,7 @@ An open-air design-forward shopping and dining center by the Metro station.
 
 $
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 2130 Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 2130 Sawtelle Blvd
 
 A Japanese grocery with good bento and sushi, next to the Daiso housewares store.
 
@@ -212,7 +212,7 @@ Markets
 
 Free
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · 2015 Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · 2015 Sawtelle Blvd
 
 The pop-culture shop that helped start the modern Sawtelle scene, with a gallery for emerging artists.
 
@@ -232,7 +232,7 @@ What's my home worth? Find me a home
 
 $$$$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · Rodeo Dr
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · Rodeo Dr
 
 The luxury shopping street, including Two Rodeo and Anderson Court.
 
@@ -246,7 +246,7 @@ Landmarks & sights
 
 $
 
-[Hollywood Hills](https://www.nathanielgrivas.com/guide/hollywood-hills) · 2108 Laurel Canyon Blvd
+[Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills/#eat) · 2108 Laurel Canyon Blvd
 
 The 1929 Laurel Canyon market linked to the area's 1960s music scene, with a deli counter and a small terrace.
 
@@ -262,7 +262,7 @@ Lunch Landmarks & sights
 
 $$
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 189 The Grove Dr
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 189 The Grove Dr
 
 An outdoor shopping village with a trolley, a fountain show and a movie theater, next to the Farmers Market.
 
@@ -276,7 +276,7 @@ Kids & family Movies
 
 $$
 
-[Hancock Park & Larchmont](https://www.nathanielgrivas.com/guide/hancock-park) · 133 N Larchmont Blvd
+[Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park/#eat) · 133 N Larchmont Blvd
 
 A well-curated independent bookstore on Larchmont with a cozy kids' section.
 
@@ -290,7 +290,7 @@ Kids & family
 
 Free
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · 6200 Hollywood Blvd
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · 6200 Hollywood Blvd
 
 A huge independent record store with vinyl, CDs and movies, plus free in-store shows.
 
@@ -304,7 +304,7 @@ Live music
 
 $$
 
-[Hollywood](https://www.nathanielgrivas.com/guide/hollywood) · Sycamore Ave south of Romaine St
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood/#eat) · Sycamore Ave south of Romaine St
 
 A small strip of restaurants, cafes and boutiques with galleries nearby.
 
@@ -318,7 +318,7 @@ Art & galleries
 
 Free
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8818 Sunset Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8818 Sunset Blvd
 
 An independent bookstore on the Strip with more than 60,000 titles.
 
@@ -330,11 +330,11 @@ An independent bookstore on the Strip with more than 60,000 titles.
 
 Free
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8564 Melrose Ave
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8564 Melrose Ave
 
 A furniture showroom with a rooftop garden and Hollywood Hills views that feels like a secret.
 
-**Order:** Head straight up for the view.
+**Do:** Head straight up for the view.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=RH+West+Hollywood+rooftop+8564+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
 
@@ -346,7 +346,7 @@ Rooftops & views
 
 Free
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 1818 N Vermont Ave
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 1818 N Vermont Ave
 
 A beloved independent bookstore with great staff picks, author readings and an art book annex next door.
 
@@ -358,7 +358,7 @@ A beloved independent bookstore with great staff picks, author readings and an a
 
 Free
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 4633 Hollywood Blvd
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 4633 Hollywood Blvd
 
 A pop-culture oddities shop that gets stranger the deeper you go, with a lowbrow art gallery in back.
 
@@ -372,7 +372,7 @@ Art & galleries
 
 $$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · Sunset Blvd at Santa Monica Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · Sunset Blvd at Santa Monica Blvd
 
 Where Santa Monica Boulevard ends and the closest thing Silver Lake has to a walkable center.
 
@@ -388,7 +388,7 @@ Landmarks & sights
 
 $$
 
-[Woodland Hills](https://www.nathanielgrivas.com/guide/woodland-hills) · 6256 Topanga Canyon Blvd
+[Woodland Hills](https://www.nathanielgrivas.com/neighborhoods/woodland-hills/#eat) · 6256 Topanga Canyon Blvd
 
 An open-air shopping village with restaurants, a bookstore and plenty of outdoor seating.
 
@@ -400,7 +400,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

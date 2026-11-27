@@ -1,4 +1,4 @@
-# Living in Playa Vista, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Playa Vista, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/playa-vista
 
@@ -51,21 +51,300 @@ From above
 
 What's my home worth? Get Playa Vista listings
 
-## Around Playa Vista
+Local LA
 
-[The full Playa Vista guide: 5 places →](https://www.nathanielgrivas.com/guide/playa-vista)
+## Where to eat, drink and go in Playa Vista
 
-[The Shack Playa del Rey · 1.5 mi Beach-town burgers on Culver Boulevard.](https://www.google.com/maps/search/?api=1&query=The+Shack+Playa+del+Rey+CA) [Cantalini's Salerno Beach Playa del Rey · 1.5 mi Old-school Italian in Playa del Rey.](https://www.google.com/maps/search/?api=1&query=Cantalini%27s+Salerno+Beach+Playa+del+Rey+CA) [Truxton's Westchester · 2 mi Neighborhood American bistro in Westchester.](https://www.google.com/maps/search/?api=1&query=Truxton%27s+Westchester+CA) [Mar Vista Farmers Market Mar Vista · 2 mi Sundays on Grand View Boulevard.](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Farmers+Market+Mar+Vista+CA) [Mitsuwa Marketplace Mar Vista · 2 mi Japanese market and food court on Venice Boulevard.](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+Mar+Vista+CA) [Tito's Tacos Culver City · 2.5 mi Hard-shell tacos and a line out the door since 1959.](https://www.google.com/maps/search/?api=1&query=Tito%27s+Tacos+Culver+City+CA)
+See them on the map →
 
-[Hinano Cafe Venice · 2.5 mi Beer and burgers by the Venice Pier.](https://www.google.com/maps/search/?api=1&query=Hinano+Cafe+Venice+CA) [The Brig Venice · 2.5 mi Abbot Kinney bar with the neon boxer sign.](https://www.google.com/maps/search/?api=1&query=The+Brig+Venice+CA) [Townhouse & Del Monte Speakeasy Venice · 3 mi Bar upstairs, jazz in the basement, since 1915.](https://www.google.com/maps/search/?api=1&query=Townhouse+%26+Del+Monte+Speakeasy+Venice+CA)
+Playa Vista is a newer, walkable planned neighborhood built around the Runway shopping district, parks and tech offices, right next to the Ballona Wetlands. Everyday errands, dinner and a movie are all a short walk apart.
 
-[Westchester Golf Course Westchester · 1.5 mi Public 18 holes next to LAX.](https://www.google.com/maps/search/?api=1&query=Westchester+Golf+Course+Westchester+CA) [Penmar Golf Course Venice · 3 mi Public nine-hole course on Rose Avenue.](https://www.google.com/maps/search/?api=1&query=Penmar+Golf+Course+Venice+CA) [Rancho Park Golf Course Cheviot Hills · 5 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA)
+18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Cinemark Playa Vista In Playa Vista Recliners at the Runway.](https://www.google.com/maps/search/?api=1&query=Cinemark+Playa+Vista+Playa+Vista+CA) [Laemmle Royal West LA · 5 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA) [Laemmle Monica Film Center Santa Monica · 5 mi Indie and foreign films downtown.](https://www.google.com/maps/search/?api=1&query=Laemmle+Monica+Film+Center+Santa+Monica+CA)
+Eat
 
-[Kirk Douglas Theatre Culver City · 3.5 mi Center Theatre Group plays downtown.](https://www.google.com/maps/search/?api=1&query=Kirk+Douglas+Theatre+Culver+City+CA) [Kia Forum Inglewood · 4.5 mi Arena concerts.](https://www.google.com/maps/search/?api=1&query=Kia+Forum+Inglewood+CA) [Santa Monica Pier Santa Monica · 5 mi Pacific Park rides and summer concerts.](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Pier+Santa+Monica+CA)
+### Coffee & breakfast
 
-[Ballona Wetlands Playa del Rey · 1 mi Marsh trails and birding.](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Playa+del+Rey+CA) [Mother's Beach Marina del Rey · 2 mi Calm harbor beach for swimming and paddleboards.](https://www.google.com/maps/search/?api=1&query=Mother%27s+Beach+Marina+del+Rey+CA) [Dockweiler State Beach Playa del Rey · 2.5 mi Fire rings on the sand.](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach+Playa+del+Rey+CA) [Venice Canals Venice · 2.5 mi Walk the footbridges and canal paths.](https://www.google.com/maps/search/?api=1&query=Venice+Canals+Venice+CA) [Venice Beach Boardwalk Venice · 3 mi Skate park, Muscle Beach and the courts.](https://www.google.com/maps/search/?api=1&query=Venice+Beach+Boardwalk+Venice+CA) [Baldwin Hills Scenic Overlook Culver City · 4 mi Stair climb with a view to the ocean.](https://www.google.com/maps/search/?api=1&query=Baldwin+Hills+Scenic+Overlook+Culver+City+CA)
+### Mom, Please
+
+$$
+
+Playa Vista
+
+An excellent, cozy Ukrainian cafe on the border of Playa Vista and Marina del Rey.
+
+**Order:** Syrniki and a brunch plate.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mom%2C+Please+Playa+Vista+Playa+Vista+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Brunch Breakfast
+
+### Tanner's Coffee Co.
+
+$
+
+Next door in [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · 1.6 mi · 200 Culver Blvd, Suite C
+
+A small neighborhood cafe with vintage photos of the area and solid breakfast sandwiches.
+
+**Order:** A croissant breakfast sandwich and a latte.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tanner%27s+Coffee+Co.+200+Culver+Blvd%2C+Suite+C+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Coffee Breakfast
+
+### Petros Kafe
+
+$
+
+Next door in [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · 1.6 mi · 427 Culver Blvd
+
+A tiny coffee bar with a patio over the wetlands and a Greek food truck out back. Open Wednesday through Sunday.
+
+**Order:** An iced latte and a Greek omelette from the truck.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Petros+Kafe+427+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Coffee Breakfast
+
+Eat
+
+### Lunch & casual
+
+### Urban Plates
+
+$$
+
+12746 W Jefferson Blvd
+
+A fast, fresh counter-service spot with plates, salads and a wine list.
+
+**Order:** Steak frites or the ahi salad.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Urban+Plates+12746+W+Jefferson+Blvd+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+
+Lunch Healthy & plant-based Dinner
+
+### Paco's Tacos
+
+$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · Centinela Ave
+
+A neighborhood staple for classic Mexican food in big portions.
+
+**Order:** A combination plate and a margarita.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Paco%27s+Tacos+Centinela+Ave+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Tacos & Mexican Cheap eats Dinner
+
+### J. Nichols Kitchen
+
+$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · Marina del Rey
+
+A good-at-everything neighborhood restaurant.
+
+**Order:** Whatever the special is.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=J.+Nichols+Kitchen+Marina+del+Rey+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Lunch Dinner
+
+**Love Playa Vista? Live here.** Get new Playa Vista listings, including off-market ones, or a free value on your Playa Vista home.
+
+What's my home worth? Get Playa Vista listings
+
+Eat
+
+### Dinner
+
+### Playa Provisions
+
+$$$
+
+Next door in [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · 1.6 mi · 119 Culver Blvd
+
+Chef Brooke Williamson's beachside spot with a daytime counter, a seafood dining room, a whiskey bar and house-made ice cream.
+
+**Order:** Crab claws and the lobster roll, then ice cream.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Playa+Provisions+119+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Seafood Dinner Brunch
+
+### Bacari PDR
+
+$$
+
+Next door in [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · 1.6 mi · 6805 S Vista Del Mar Ln
+
+A Mediterranean small-plates restaurant and the neighborhood's go-to for a night out.
+
+**Order:** Share several small plates with a bottle of wine.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bacari+PDR+6805+S+Vista+Del+Mar+Ln+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Dinner Date night Wine bars
+
+### Caffe Pinguini
+
+$$$
+
+Next door in [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · 1.6 mi · 6935 Pacific Ave
+
+A Roman-run Italian restaurant serving fresh pasta near the beach since 1997, with a heated back patio.
+
+**Order:** A pasta and a glass of Italian red.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Pinguini+6935+Pacific+Ave+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Date night Dinner
+
+Drink
+
+### Nightlife
+
+### Whiskey Red's
+
+$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · 13813 Fiji Way
+
+A touristy spot where the marina view is the reason to go.
+
+**Order:** A drink on the patio at sunset.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Whiskey+Red%27s+13813+Fiji+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Cocktail bars & lounges Rooftops & views
+
+### The Warehouse Restaurant
+
+$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · 4499 Admiralty Way
+
+A quirky, rowdy nautical-themed classic on the water.
+
+**Order:** A tropical drink with friends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Warehouse+Restaurant+4499+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Cocktail bars & lounges
+
+### The Manchester
+
+$$
+
+Next door in [Westchester](https://www.nathanielgrivas.com/neighborhoods/westchester) · 1.8 mi · 8522 Lincoln Blvd
+
+A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy hour.
+
+**Order:** A whiskey sour and the Sichuan wings.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+
+Cocktail bars & lounges Dinner Date night
+
+Do
+
+### Parks & outdoors
+
+### Ballona Wetlands Ecological Reserve
+
+Free
+
+Ballona Wetlands
+
+A protected coastal wetland with birding and a walking and bike path that links Marina del Rey and Playa del Rey.
+
+**Do:** An early walk or bike ride along the path. Parts may be closed for restoration.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Ecological+Reserve+Ballona+Wetlands+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+
+Hikes & nature Parks
+
+### Dockweiler State Beach
+
+$
+
+Next door in [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · 1.6 mi · 12000 Vista Del Mar
+
+A wide beach with fire pits, a bike path and jets taking off from LAX right overhead.
+
+**Do:** Arrive early on weekends to claim a fire pit.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach+12000+Vista+Del+Mar+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Beaches Landmarks & sights
+
+### Mothers Beach
+
+$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.7 mi · 4101 Admiralty Way
+
+A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and paddleboard launching.
+
+**Do:** Bring little kids, or launch a paddleboard.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+
+Beaches Kids & family Fitness & outdoor sports
+
+Do
+
+### Shops, markets & spas
+
+### Runway Playa Vista
+
+$$
+
+12775 W Millennium
+
+The neighborhood's walkable center, with restaurants, a Whole Foods, a movie theater, fire pits and play areas.
+
+**Do:** Dinner and a movie; the theater validates parking.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Runway+Playa+Vista+12775+W+Millennium+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+
+Shopping Movies Kids & family
+
+### Mitsuwa Marketplace
+
+$
+
+Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 2.1 mi · 3760 S Centinela Ave
+
+A Japanese supermarket with a busy food court and a bookstore full of manga and stationery.
+
+**Do:** Ramen or tempura in the food court, then snacks and mochi from the market.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Markets Lunch Cheap eats
+
+### Mar Vista Farmers Market
+
+Free
+
+Next door in [Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista) · 2.1 mi · Grand View Blvd and Venice Blvd
+
+A Sunday morning market with produce, flowers, prepared food, music and kids' activities.
+
+**Do:** Go early for produce and stay for empanadas.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Farmers+Market+Grand+View+Blvd+and+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista)
+
+Markets Kids & family
+
+Sources
+
+- [The Infatuation: Marina del Rey](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
 
 Living here
 

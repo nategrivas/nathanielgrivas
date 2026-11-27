@@ -1,4 +1,4 @@
-# Living in Santa Monica, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Santa Monica, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/santa-monica
 
@@ -52,25 +52,557 @@ From above
 
 What's my home worth? Get Santa Monica listings
 
+Local LA
+
+## Where to eat, drink and go in Santa Monica
+
+See them on the map →
+
+Santa Monica is a beach city with its own rules and a deep bench of restaurants, from a 1950s seaside shack to tasting menus that book a month out. Main Street and Ocean Park are the relaxed half; downtown, Wilshire and Montana carry the rest.
+
+36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Breakfast & lunch
+
+### Layla Bagels
+
+$
+
+1614 Ocean Park Blvd
+
+A counter-service bagel shop with good coffee and fresh, seasonal toppings. It's become the Ocean Park morning stop.
+
+**Order:** The open-face bagel with seasonal fruit, cream cheese and honey.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Layla+Bagels+1614+Ocean+Park+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Breakfast Coffee Cheap eats
+
+### Cobi's
+
+$$$
+
+Main St area
+
+Bold, Indonesian-leaning cooking in a cheerful room. Weekend brunch doesn't need a reservation.
+
+**Order:** Kanpachi crudo, pork dumplings and a curry.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cobi%27s+Main+St+area+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Brunch Dinner
+
+### Bay Cities Italian Deli
+
+$
+
+1517 Lincoln Blvd
+
+Santa Monica's sandwich institution. Critics, guidebooks and locals all say the same thing: get the Godmother.
+
+**Order:** The Godmother, or the chicken parm sub. Order ahead online to skip the line.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bay+Cities+Italian+Deli+1517+Lincoln+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica) [Fodor's](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/santa-monica-and-the-beaches/santa-monica/restaurants)
+
+Lunch Cheap eats
+
+### Bread Head
+
+$$
+
+1518 Montana Ave
+
+Sandwiches on loaves baked fresh every day, somewhere between focaccia and ciabatta.
+
+**Order:** The muffuletta, or mozzarella and avocado.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bread+Head+1518+Montana+Ave+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Lunch
+
+### Din Tai Fung
+
+$$
+
+395 Santa Monica Pl
+
+The soup dumpling chain, but this one has an ocean view from the third floor of the mall.
+
+**Order:** Xiao long bao, garlicky string beans and spicy wontons.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Din+Tai+Fung+395+Santa+Monica+Pl+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Lunch Dinner
+
+### Ghisallo
+
+$$
+
+1622 Ocean Park Blvd
+
+Lively pizza spot with a semi-hidden back patio that's made for a casual night out.
+
+**Order:** Squash blossom pizza, arancini and the radicchio salad.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ghisallo+1622+Ocean+Park+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Pizza Dinner
+
+### Milo & Olive
+
+$$
+
+2723 Wilshire Blvd
+
+Strong wood-fired pizza in a small room that still works for a date. The lines are shorter than they used to be.
+
+**Order:** Mushroom pizza and garlic knots.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Milo+%26+Olive+2723+Wilshire+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Pizza Date night
+
+Eat
+
+### Dinner
+
+### Holy Basil
+
+$$
+
+2828 Santa Monica Blvd
+
+Original Thai dishes you won't find on other menus. The room is cramped and chaotic, and nobody minds.
+
+**Order:** Crispy calamari with salted egg yolk, green curry risotto with mussels and pad kee mao.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Holy+Basil+2828+Santa+Monica+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Dinner Cheap eats
+
+### Xuntos
+
+$$$
+
+516 Santa Monica Blvd
+
+Lively, hyper-regional northern Spanish tapas and wine.
+
+**Order:** Octopus with chorizo, scallops with saffron butter and garlicky gambas.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Xuntos+516+Santa+Monica+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Dinner Wine bars
+
+### Rustic Canyon
+
+$$$
+
+1119 Wilshire Blvd
+
+A seasonal menu built from the farmers market, and a Westside standard for years. Book ahead.
+
+**Order:** Grilled artichokes, steak tartare and the thick pork chop.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Rustic+Canyon+1119+Wilshire+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Dinner Date night
+
+### Crudo e Nudo
+
+$$$
+
+2724 Main St
+
+Sustainable seafood, a full raw bar and a patio on Main Street.
+
+**Order:** The daily crudo, tuna tartare and oysters.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Crudo+e+Nudo+2724+Main+St+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Seafood Dinner
+
+### Pasjoli
+
+$$$
+
+2732 Main St
+
+A French restaurant reworked into a more relaxed bar menu. The famous pressed duck dinner is still there for a splurge.
+
+**Order:** Cordon bleu chicken wings, mini French onion soup and the burger.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pasjoli+2732+Main+St+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Dinner Date night
+
+### Shirube
+
+$$$
+
+424 Wilshire Blvd
+
+An izakaya that works for a drink and a snack or a full dinner, often for under $100 a person.
+
+**Order:** Fried corn ribs, grilled duck breast and udon with cod roe butter.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Shirube+424+Wilshire+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Sushi & Japanese Dinner
+
+### Shunji
+
+$$$$
+
+3003 Ocean Park Blvd
+
+A playful omakase with excellent nigiri. Plan on about $295 a person.
+
+**Order:** The omakase.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Shunji+3003+Ocean+Park+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Sushi & Japanese Date night
+
+### Le Great Outdoor
+
+$$
+
+2525 Michigan Ave
+
+Everything is cooked on an outdoor grill at Bergamot, with picnic tables and a block-party feel.
+
+**Order:** Blistered lamb chops, goat cheese tartines and chilled wine.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Le+Great+Outdoor+2525+Michigan+Ave+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Dinner
+
+### Seline
+
+$$$$
+
+3110 Main St
+
+Inventive, seasonal fine dining that still feels fun. The tasting menu runs about $295.
+
+**Order:** The tasting menu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Seline+3110+Main+St+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Date night Dinner
+
+### Melisse
+
+$$$$
+
+1104 Wilshire Blvd
+
+Long-running, very special-occasion tasting menu. There's an $800 minimum for two and a strict cancellation policy.
+
+**Order:** About ten courses. Reservations open a month ahead.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Melisse+1104+Wilshire+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Date night
+
+### Father's Office
+
+$$
+
+1018 Montana Ave
+
+The original gastropub, with a burger critics put near the top of LA's list and a rotating craft beer wall. It gets cramped at peak hours.
+
+**Order:** The burger and a rotating draft. Saturday afternoon is the easy time.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Father%27s+Office+1018+Montana+Ave+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica) [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
+
+Dinner Cocktail bars & lounges
+
+### Muse
+
+$$$$
+
+108 W Channel Rd
+
+An intimate Art Deco room in Santa Monica Canyon with ambitious French cooking.
+
+**Order:** Braided brioche, veal bonbons and the herb-crusted rack of lamb.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Muse+108+W+Channel+Rd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Date night Dinner
+
+### Chez Jay
+
+$$
+
+1657 Ocean Ave
+
+A quirky nautical shack by the pier that's been the classic Santa Monica bar for decades.
+
+**Order:** A strong drink and the butter steak.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Chez+Jay+1657+Ocean+Ave+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica) [Santa Monica Travel & Tourism](https://www.santamonica.com/nightlife/guide-to-santa-monica-bars/)
+
+Dinner Landmarks & sights
+
+**Love Santa Monica? Live here.** Get new Santa Monica listings, including off-market ones, or a free value on your Santa Monica home.
+
+What's my home worth? Get Santa Monica listings
+
+Drink
+
+### Nightlife
+
+### Not No Bar
+
+$$
+
+2424 Main St
+
+A loud, fun cocktail bar that also happens to make very good bubbly-crusted pizza.
+
+**Order:** A cocktail and a pizza for the table.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Not+No+Bar+2424+Main+St+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+
+Cocktail bars & lounges Pizza Late night
+
+### The Georgian Room
+
+$$$
+
+1415 Ocean Ave
+
+A moody basement piano lounge under the Georgian Hotel with a hidden entrance and live singing. Reservations required.
+
+**Order:** A house martini for a special occasion.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Georgian+Room+1415+Ocean+Ave+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
+
+Cocktail bars & lounges Live music Date night
+
+### Calabra at Santa Monica Proper
+
+$$$
+
+700 Wilshire Blvd
+
+A rooftop with an indoor lounge, a pool patio and private couches. Weekends get loud and dressy.
+
+**Order:** A gin and tonic at sunset on a weekday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Calabra+at+Santa+Monica+Proper+700+Wilshire+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
+
+Rooftops & views Cocktail bars & lounges
+
+### Élephante
+
+$$$
+
+1332 2nd St
+
+A buzzy rooftop restaurant and bar with a beach-house look, one of the busiest scenes downtown.
+
+**Order:** Pizza and cocktails on the roof.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=%C3%89lephante+1332+2nd+St+Santa+Monica+Los+Angeles+CA) Sources: [Santa Monica Travel & Tourism](https://www.santamonica.com/nightlife/guide-to-santa-monica-bars/)
+
+Rooftops & views Dinner
+
+### Offhand Wine Bar
+
+$$
+
+3008 Santa Monica Blvd
+
+A casual natural wine bar where the staff actually explain the bottles.
+
+**Order:** A chilled red or a dry riesling.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Offhand+Wine+Bar+3008+Santa+Monica+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
+
+Wine bars Date night
+
+### The Chestnut Club
+
+$$
+
+1348 14th St
+
+Well-made cocktails in a rowdy room. Weekend lines run long.
+
+**Order:** Go early or on a weeknight.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Chestnut+Club+1348+14th+St+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
+
+Cocktail bars & lounges
+
+### The Bungalow
+
+$$
+
+101 Wilshire Blvd
+
+A Baja beach house of a bar on the Fairmont Miramar grounds, with fire pits, living rooms and a crowd that fills it on weekends. Santa Monica's go-to night out.
+
+**Order:** A mezcal cocktail by the fire pit on a Friday or Saturday night.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Bungalow+101+Wilshire+Blvd+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/bars/the-bungalow) [Fairmont Miramar](https://www.fairmont.com/en/hotels/santa-monica/fairmont-miramar-hotel-bungalows/dining/the-bungalow.html)
+
+Cocktail bars & lounges Late night
+
+Do
+
+### Things to do
+
+### Santa Monica Pier
+
+Free
+
+Colorado Ave at Ocean Ave
+
+The waterfront icon, with the Ferris wheel, arcade and the end of Route 66.
+
+**Do:** Go at sunset, then walk north along the sand.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Pier+Colorado+Ave+at+Ocean+Ave+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
+
+Landmarks & sights Kids & family Beaches
+
+### Camera Obscura
+
+Free
+
+1450 Ocean Ave
+
+A historic optical room that projects the street and ocean onto a table. Offbeat and very Santa Monica.
+
+**Do:** Pop in during a walk through Palisades Park.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Camera+Obscura+1450+Ocean+Ave+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
+
+Museums Landmarks & sights
+
+### Palisades Park
+
+Free
+
+Ocean Ave
+
+The bluff-top park with views down the coast and across to the Santa Monica Mountains.
+
+**Do:** Walk the north end to skip the pier crowds.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Palisades+Park+Ocean+Ave+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
+
+Parks Landmarks & sights
+
+### Santa Monica Beach and the Strand
+
+Free
+
+Ocean Front Walk
+
+Wide, sandy beach with the bike path running south to Venice and beyond.
+
+**Do:** Rent a bike and ride to Venice in about 15 minutes.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Beach+and+the+Strand+Ocean+Front+Walk+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
+
+Beaches Fitness & outdoor sports
+
+Do
+
+### Shops, markets & spas
+
+### Santa Monica Farmers Market
+
+Free
+
+Arizona Ave at 2nd St
+
+The Wednesday downtown market where LA chefs shop. Guidebooks single it out as one of the city's best.
+
+**Do:** Go Wednesday morning for the full market.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Farmers+Market+Arizona+Ave+at+2nd+St+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica) [Fodor's](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/santa-monica-and-the-beaches/santa-monica/restaurants)
+
+Markets
+
+### Main Street, Ocean Park
+
+$$
+
+Main St
+
+The lower-key, hipper shopping street that runs toward Venice.
+
+**Do:** Browse, then lunch on the street.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Main+Street%2C+Ocean+Park+Main+St+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
+
+Shopping
+
+### Montana Avenue
+
+$$$
+
+Montana Ave
+
+Santa Monica's upscale shopping street, with boutiques and cafes for blocks.
+
+**Do:** Pair it with lunch at Bread Head or a burger at Father's Office.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Montana+Avenue+Montana+Ave+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
+
+Shopping
+
+### Third Street Promenade
+
+$$
+
+3rd St
+
+The pedestrian shopping street downtown, busy with street performers.
+
+**Do:** Go on a weekend afternoon for the buskers.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Third+Street+Promenade+3rd+St+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
+
+Shopping
+
+### Santa Monica Airport observation deck
+
+Free
+
+Santa Monica Airport
+
+A public deck right beside an active runway where you can hear the jets up close.
+
+**Do:** Bring the kids for takeoffs.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Airport+observation+deck+Santa+Monica+Airport+Santa+Monica+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
+
+Kids & family Landmarks & sights
+
+Sources
+
+- [The Infatuation: Best restaurants in Santa Monica](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-in-santa-monica)
+- [The Infatuation: Best bars in Santa Monica](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
+- [Time Out: Things to do in Santa Monica](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-santa-monica)
+- [Santa Monica Travel & Tourism: Bars](https://www.santamonica.com/nightlife/guide-to-santa-monica-bars/)
+- [Fodor's: Santa Monica restaurants](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/santa-monica-and-the-beaches/santa-monica/restaurants)
+- [Time Out: The Bungalow](https://www.timeout.com/los-angeles/bars/the-bungalow)
+- [Fairmont Miramar: The Bungalow](https://www.fairmont.com/en/hotels/santa-monica/fairmont-miramar-hotel-bungalows/dining/the-bungalow.html)
+
 Photos
 
 ## Santa Monica in pictures
-
-## Around Santa Monica
-
-[The full Santa Monica guide: 40 places →](https://www.nathanielgrivas.com/guide/santa-monica)
-
-[Bay Cities Italian Deli In Santa Monica Order the Godmother ahead online.](https://www.google.com/maps/search/?api=1&query=Bay+Cities+Italian+Deli+Santa+Monica+CA) [Huckleberry Cafe In Santa Monica Breakfast and pastries on Wilshire.](https://www.google.com/maps/search/?api=1&query=Huckleberry+Cafe+Santa+Monica+CA) [Rustic Canyon In Santa Monica Farmers market cooking on Wilshire.](https://www.google.com/maps/search/?api=1&query=Rustic+Canyon+Santa+Monica+CA) [Father's Office In Santa Monica The burger bar on Montana Avenue. No substitutions.](https://www.google.com/maps/search/?api=1&query=Father%27s+Office+Santa+Monica+CA) [The Rose Venice Venice · 1.5 mi All-day restaurant on Rose Avenue with a big patio.](https://www.google.com/maps/search/?api=1&query=The+Rose+Venice+Venice+CA) [Gjusta Venice · 2 mi Bakery and deli counter. Get there before the lunch line.](https://www.google.com/maps/search/?api=1&query=Gjusta+Venice+CA)
-
-[Chez Jay In Santa Monica Peanut-shell steakhouse bar on Ocean Avenue since 1959.](https://www.google.com/maps/search/?api=1&query=Chez+Jay+Santa+Monica+CA) [The Galley In Santa Monica Nautical bar on Main Street since 1934.](https://www.google.com/maps/search/?api=1&query=The+Galley+Santa+Monica+CA) [Townhouse & Del Monte Speakeasy Venice · 2.5 mi Bar upstairs, jazz in the basement, since 1915.](https://www.google.com/maps/search/?api=1&query=Townhouse+%26+Del+Monte+Speakeasy+Venice+CA)
-
-[Riviera Country Club Pacific Palisades · 2 mi Private. Home of the PGA Tour's Genesis Invitational.](https://www.google.com/maps/search/?api=1&query=Riviera+Country+Club+Pacific+Palisades+CA) [Penmar Golf Course Venice · 2.5 mi Public nine-hole course on Rose Avenue.](https://www.google.com/maps/search/?api=1&query=Penmar+Golf+Course+Venice+CA) [Brentwood Country Club Brentwood · 2.5 mi Private club in Brentwood.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Club+Brentwood+CA) [Rancho Park Golf Course Cheviot Hills · 4.5 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Bel-Air Country Club Bel Air · 5 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA)
-
-[Laemmle Monica Film Center In Santa Monica Indie and foreign films downtown.](https://www.google.com/maps/search/?api=1&query=Laemmle+Monica+Film+Center+Santa+Monica+CA) [Aero Theatre In Santa Monica American Cinematheque's single screen on Montana.](https://www.google.com/maps/search/?api=1&query=Aero+Theatre+Santa+Monica+CA) [Laemmle Royal West LA · 3 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA) [Regency Village Theatre Westwood · 4 mi The 1931 tower theatre and its premieres.](https://www.google.com/maps/search/?api=1&query=Regency+Village+Theatre+Westwood+CA)
-
-[Santa Monica Pier In Santa Monica Pacific Park rides and summer concerts.](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Pier+Santa+Monica+CA) [Hammer Museum Westwood · 4 mi Free art museum on Wilshire.](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+Westwood+CA)
-
-[Palisades Park In Santa Monica Bluff-top park on Ocean Avenue.](https://www.google.com/maps/search/?api=1&query=Palisades+Park+Santa+Monica+CA) [Santa Monica State Beach In Santa Monica Wide sand on both sides of the pier.](https://www.google.com/maps/search/?api=1&query=Santa+Monica+State+Beach+Santa+Monica+CA) [San Vicente Boulevard path Brentwood · 2 mi The coral tree median runners use.](https://www.google.com/maps/search/?api=1&query=San+Vicente+Boulevard+path+Brentwood+CA) [Venice Beach Boardwalk Venice · 2.5 mi Skate park, Muscle Beach and the courts.](https://www.google.com/maps/search/?api=1&query=Venice+Beach+Boardwalk+Venice+CA) [Venice Canals Venice · 3 mi Walk the footbridges and canal paths.](https://www.google.com/maps/search/?api=1&query=Venice+Canals+Venice+CA) [Will Rogers State Beach Pacific Palisades · 3 mi Long beach and volleyball off PCH.](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Beach+Pacific+Palisades+CA)
 
 Living here
 
@@ -142,11 +674,11 @@ Next door
 
 [Westside · $$$West LA & SawtelleSawtelle Japantown and the Westside's best casual food.](https://www.nathanielgrivas.com/neighborhoods/west-la)
 
-The LA Journal
+LA News
 
 ## Santa Monica in the news
 
-[All journal entries →](https://www.nathanielgrivas.com/journal)
+[All LA news →](https://www.nathanielgrivas.com/news)
 
 Weather
 
@@ -154,7 +686,7 @@ Weather
 
 An extreme high tide of about 8 feet arrived Thursday morning, with a coastal flood advisory for the Malibu coast and LA County beaches through noon and a high surf warning until 9 p.m. Forecasters expect waves of roughly 6 to 11 feet with strong rip currents, and the LA Harbor tied its all-time high-water mark. If you're heading to the beach this weekend, check tide times before parking in beach lots and stay off the rocks and jetties.
 
-[November 26, 2026](https://www.nathanielgrivas.com/journal/2026-11-26) · Neighborhoods: [Malibu](https://www.nathanielgrivas.com/guide/malibu), [Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica), [Venice](https://www.nathanielgrivas.com/guide/venice), [Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey), [Playa del Rey](https://www.nathanielgrivas.com/guide/playa-del-rey) · Sources: [ABC7 live updates](https://abc7.com/live-updates/king-tides-live-updates-socal-coastal-communities-brace-possible-record-breaking-high-surf-flooding-heres-timeline/20070299/), [Yahoo News / ABC7](https://www.yahoo.com/news/weather-news/articles/amtrak-pacific-surfliner-train-suspended-191750201.html)
+[November 26, 2026](https://www.nathanielgrivas.com/journal/2026-11-26) · Neighborhoods: [Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu), [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica), [Venice](https://www.nathanielgrivas.com/neighborhoods/venice), [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey), [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · Sources: [ABC7 live updates](https://abc7.com/live-updates/king-tides-live-updates-socal-coastal-communities-brace-possible-record-breaking-high-surf-flooding-heres-timeline/20070299/), [Yahoo News / ABC7](https://www.yahoo.com/news/weather-news/articles/amtrak-pacific-surfliner-train-suspended-191750201.html)
 
 Questions
 

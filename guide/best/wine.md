@@ -1,8 +1,8 @@
-# Best Wine bars in Los Angeles by Neighborhood | The LA Guide
+# Best Wine bars in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/wine
 
-The LA Guide
+Local LA
 
 # The best wine bars in Los Angeles
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · Kanan Dume Rd and W Newton Canyon Rd
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · Kanan Dume Rd and W Newton Canyon Rd
 
 A local winery's tasting patio, reopened at a new canyon location after the fire.
 
@@ -26,7 +26,7 @@ A local winery's tasting patio, reopened at a new canyon location after the fire
 
 $$
 
-[Playa del Rey](https://www.nathanielgrivas.com/guide/playa-del-rey) · 6805 S Vista Del Mar Ln
+[Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey/#eat) · 6805 S Vista Del Mar Ln
 
 A Mediterranean small-plates restaurant and the neighborhood's go-to for a night out.
 
@@ -40,7 +40,7 @@ Dinner Date night
 
 $$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 516 Santa Monica Blvd
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 516 Santa Monica Blvd
 
 Lively, hyper-regional northern Spanish tapas and wine.
 
@@ -54,7 +54,7 @@ Dinner
 
 $$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 3008 Santa Monica Blvd
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 3008 Santa Monica Blvd
 
 A casual natural wine bar where the staff actually explain the bottles.
 
@@ -68,7 +68,7 @@ Date night
 
 $$$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Main St
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Main St
 
 A candlelit bungalow on Main Street. Critics recommend it more for the romance and the wine list than for the pasta.
 
@@ -84,7 +84,7 @@ Date night Dinner
 
 $$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 145 S Barrington Ave
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 145 S Barrington Ave
 
 A casual walk-in Roman pizzeria and wine bar where everything is under $30.
 
@@ -98,7 +98,7 @@ Pizza Cheap eats
 
 $$$
 
-[Mar Vista](https://www.nathanielgrivas.com/guide/mar-vista) · 3523 S Centinela Ave
+[Mar Vista](https://www.nathanielgrivas.com/neighborhoods/mar-vista/#eat) · 3523 S Centinela Ave
 
 A neighborhood French bistro with an open kitchen counter and a reasonably priced tasting menu.
 
@@ -118,7 +118,7 @@ What's my home worth? Find me a home
 
 $$$
 
-[Beverly Grove](https://www.nathanielgrivas.com/guide/beverly-grove) · 8700 W 3rd St
+[Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#eat) · 8700 W 3rd St
 
 Suzanne Goin's small-plates restaurant with one of the best wine lists in LA and a beautiful courtyard.
 
@@ -132,7 +132,7 @@ Dinner Date night
 
 $$
 
-[Beverly Grove](https://www.nathanielgrivas.com/guide/beverly-grove) · 8114 Beverly Blvd
+[Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#eat) · 8114 Beverly Blvd
 
 A cozy French bistro built for snacking and wine.
 
@@ -146,7 +146,7 @@ Dinner
 
 $$
 
-[Fairfax District](https://www.nathanielgrivas.com/guide/fairfax) · 6333 W 3rd St
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax/#eat) · 6333 W 3rd St
 
 A French bistro and gourmet market inside the Farmers Market.
 
@@ -160,7 +160,7 @@ Lunch Seafood
 
 $$
 
-[Hancock Park & Larchmont](https://www.nathanielgrivas.com/guide/hancock-park) · 223 N Larchmont Blvd
+[Hancock Park & Larchmont](https://www.nathanielgrivas.com/neighborhoods/hancock-park/#eat) · 223 N Larchmont Blvd
 
 A wine and cheese shop with a sandwich counter that draws a lunch line. Closed Sundays.
 
@@ -174,7 +174,7 @@ Lunch
 
 $$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 9045 Santa Monica Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 9045 Santa Monica Blvd
 
 A French bistro with a jasmine-covered patio that's perfect before a show at the Troubadour.
 
@@ -190,7 +190,7 @@ Dinner Late night
 
 $$
 
-[East Hollywood](https://www.nathanielgrivas.com/guide/east-hollywood) · 632 N Western Ave
+[East Hollywood](https://www.nathanielgrivas.com/neighborhoods/east-hollywood/#eat) · 632 N Western Ave
 
 A cozy French wine bar with a short, satisfying menu.
 
@@ -198,13 +198,13 @@ A cozy French wine bar with a short, satisfying menu.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Bar+Etoile+632+N+Western+Ave+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
 
-Cocktail bars Date night
+Cocktail bars & lounges Date night
 
 ### Ototo
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1360 Allison Ave
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1360 Allison Ave
 
 Tsubaki's casual sake bar next door, made for sharing plates.
 
@@ -218,7 +218,7 @@ Sushi & Japanese
 
 $$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 4628 Hollywood Blvd
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 4628 Hollywood Blvd
 
 A friendly wine bar where the staff pours by your taste instead of a long list.
 
@@ -230,7 +230,7 @@ A friendly wine bar where the staff pours by your taste instead of a long list.
 
 $$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 3510 W Sunset Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 3510 W Sunset Blvd
 
 An Afro-Caribbean wine bar where bar seats are often open for walk-ins.
 
@@ -244,7 +244,7 @@ Dinner
 
 $$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 1710 Silver Lake Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 1710 Silver Lake Blvd
 
 A packed, lively spot for tinned seafood, tapas and wine.
 
@@ -260,7 +260,7 @@ Dinner
 
 $$
 
-[Sherman Oaks](https://www.nathanielgrivas.com/guide/sherman-oaks) · 14704 Ventura Blvd
+[Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks/#eat) · 14704 Ventura Blvd
 
 A family-run Thai restaurant that ranks among the best in LA, with a big natural wine list.
 
@@ -274,7 +274,7 @@ Dinner Date night
 
 $$$$
 
-[Sherman Oaks](https://www.nathanielgrivas.com/guide/sherman-oaks) · 13447 Ventura Blvd
+[Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks/#eat) · 13447 Ventura Blvd
 
 A sushi bar with a serious wine program.
 
@@ -288,7 +288,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

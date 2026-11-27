@@ -12,9 +12,8 @@ GROUPS = [
         ("sushi", "Sushi & Japanese", "sushi and Japanese food"), ("bakery", "Bakeries & dessert", "bakeries and dessert"),
         ("healthy", "Healthy & plant-based", "healthy and plant-based food"), ("cheap", "Cheap eats", "cheap eats")]),
     ("drink", "Drink", [
-        ("bars", "Cocktail bars", "cocktail bars"), ("dive", "Dive bars", "dive bars"), ("wine", "Wine bars", "wine bars"),
-        ("beer", "Beer & breweries", "beer bars and breweries"), ("rooftop", "Rooftops & views", "rooftop bars"),
-        ("sports", "Sports bars", "sports bars"), ("latenight", "Late night", "late-night spots")]),
+        ("bars", "Cocktail bars & lounges", "cocktail bars and lounges"), ("wine", "Wine bars", "wine bars"),
+        ("rooftop", "Rooftops & views", "rooftop bars"), ("latenight", "Late night", "late-night spots")]),
     ("do", "Do", [
         ("music", "Live music", "live music"), ("comedy", "Comedy & theater", "comedy and theater"), ("film", "Movies", "movie theaters"),
         ("museum", "Museums", "museums"), ("art", "Art & galleries", "art and galleries"), ("landmark", "Landmarks & sights", "landmarks"),
@@ -40,3 +39,63 @@ def load():
 def maps_url(p, hood_name):
     q = p["n"] + " " + (p.get("a") or "") + " " + hood_name + " Los Angeles CA"
     return "https://www.google.com/maps/search/?api=1&query=" + quote_plus(q)
+
+
+# Neighborhood pages group places into a few broad sections, so every section shown has at least 3 picks.
+SECTIONS = [
+    ("morning", "Coffee & breakfast", "eat", {"coffee", "breakfast", "brunch", "bakery"}),
+    ("casual", "Lunch & casual", "eat", {"lunch", "cheap", "healthy", "pizza", "tacos"}),
+    ("dinner", "Dinner", "eat", {"dinner", "date", "seafood", "sushi"}),
+    ("night", "Nightlife", "drink", {"bars", "wine", "rooftop", "latenight"}),
+    ("culture", "Culture & shows", "do", {"museum", "art", "landmark", "music", "comedy", "film"}),
+    ("outdoors", "Parks & outdoors", "do", {"park", "hike", "beach", "golf", "fitness", "dogs"}),
+    ("shop", "Shops, markets & spas", "do", {"shop", "market", "spa", "kids"}),
+]
+SEC = {k: (label, g) for k, label, g, _ in SECTIONS}
+SEC_ORDER = [k for k, *_ in SECTIONS]
+SEC_OF = {c: k for k, _, _, cs in SECTIONS for c in cs}
+MERGE_TO = {"morning": "casual", "casual": "dinner", "dinner": "casual", "night": "dinner",
+            "culture": "outdoors", "outdoors": "culture", "shop": "culture"}
+COMBOS = {
+    frozenset({"morning", "casual"}): "Breakfast & lunch",
+    frozenset({"casual", "dinner"}): "Restaurants",
+    frozenset({"morning", "dinner"}): "Restaurants & cafes",
+    frozenset({"morning", "casual", "dinner"}): "Restaurants & cafes",
+    frozenset({"dinner", "night"}): "Dinner & drinks",
+    frozenset({"culture", "outdoors"}): "Things to do",
+    frozenset({"culture", "shop"}): "Things to do",
+    frozenset({"outdoors", "shop"}): "Things to do",
+    frozenset({"culture", "outdoors", "shop"}): "Things to do",
+}
+
+
+def sec_of(p):
+    return SEC_OF.get(p["c"][0], "culture")
+
+
+def combo_label(keys):
+    keys = frozenset(keys)
+    if len(keys) == 1:
+        return SEC[next(iter(keys))][0]
+    if keys in COMBOS:
+        return COMBOS[keys]
+    if keys <= {"culture", "outdoors", "shop"}:
+        return "Things to do"
+    if "night" in keys and keys & {"culture", "outdoors", "shop"}:
+        return "Places to go"
+    if "night" in keys:
+        return "Eat & drink"
+    return "Restaurants & cafes"
+
+
+def combo_group(keys):
+    gs = {SEC[k][1] for k in keys}
+    if gs == {"eat"}:
+        return "Eat"
+    if gs == {"drink"}:
+        return "Drink"
+    if gs == {"do"}:
+        return "Do"
+    if gs <= {"eat", "drink"}:
+        return "Eat & drink"
+    return "Go"

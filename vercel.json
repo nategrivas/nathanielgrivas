@@ -12,6 +12,441 @@
       ],
       "destination": "/links",
       "permanent": false
+    },
+    {
+      "source": "/guide",
+      "destination": "/neighborhoods",
+      "permanent": true
+    },
+    {
+      "source": "/journal",
+      "destination": "/news",
+      "permanent": true
+    },
+    {
+      "source": "/guide/bel-air",
+      "destination": "/neighborhoods/bel-air",
+      "permanent": true
+    },
+    {
+      "source": "/guide/bel-air.md",
+      "destination": "/neighborhoods/bel-air.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/beverly-grove",
+      "destination": "/neighborhoods/beverly-grove",
+      "permanent": true
+    },
+    {
+      "source": "/guide/beverly-grove.md",
+      "destination": "/neighborhoods/beverly-grove.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/beverly-hills",
+      "destination": "/neighborhoods/beverly-hills",
+      "permanent": true
+    },
+    {
+      "source": "/guide/beverly-hills.md",
+      "destination": "/neighborhoods/beverly-hills.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/bhpo",
+      "destination": "/neighborhoods/bhpo",
+      "permanent": true
+    },
+    {
+      "source": "/guide/bhpo.md",
+      "destination": "/neighborhoods/bhpo.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/brentwood",
+      "destination": "/neighborhoods/brentwood",
+      "permanent": true
+    },
+    {
+      "source": "/guide/brentwood.md",
+      "destination": "/neighborhoods/brentwood.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/century-city",
+      "destination": "/neighborhoods/century-city",
+      "permanent": true
+    },
+    {
+      "source": "/guide/century-city.md",
+      "destination": "/neighborhoods/century-city.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/cheviot-hills",
+      "destination": "/neighborhoods/cheviot-hills",
+      "permanent": true
+    },
+    {
+      "source": "/guide/cheviot-hills.md",
+      "destination": "/neighborhoods/cheviot-hills.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/culver-city",
+      "destination": "/neighborhoods/culver-city",
+      "permanent": true
+    },
+    {
+      "source": "/guide/culver-city.md",
+      "destination": "/neighborhoods/culver-city.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/east-hollywood",
+      "destination": "/neighborhoods/east-hollywood",
+      "permanent": true
+    },
+    {
+      "source": "/guide/east-hollywood.md",
+      "destination": "/neighborhoods/east-hollywood.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/echo-park",
+      "destination": "/neighborhoods/echo-park",
+      "permanent": true
+    },
+    {
+      "source": "/guide/echo-park.md",
+      "destination": "/neighborhoods/echo-park.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/encino",
+      "destination": "/neighborhoods/encino",
+      "permanent": true
+    },
+    {
+      "source": "/guide/encino.md",
+      "destination": "/neighborhoods/encino.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/fairfax",
+      "destination": "/neighborhoods/fairfax",
+      "permanent": true
+    },
+    {
+      "source": "/guide/fairfax.md",
+      "destination": "/neighborhoods/fairfax.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/hancock-park",
+      "destination": "/neighborhoods/hancock-park",
+      "permanent": true
+    },
+    {
+      "source": "/guide/hancock-park.md",
+      "destination": "/neighborhoods/hancock-park.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/hollywood-hills",
+      "destination": "/neighborhoods/hollywood-hills",
+      "permanent": true
+    },
+    {
+      "source": "/guide/hollywood-hills.md",
+      "destination": "/neighborhoods/hollywood-hills.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/hollywood",
+      "destination": "/neighborhoods/hollywood",
+      "permanent": true
+    },
+    {
+      "source": "/guide/hollywood.md",
+      "destination": "/neighborhoods/hollywood.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/los-feliz",
+      "destination": "/neighborhoods/los-feliz",
+      "permanent": true
+    },
+    {
+      "source": "/guide/los-feliz.md",
+      "destination": "/neighborhoods/los-feliz.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/malibu",
+      "destination": "/neighborhoods/malibu",
+      "permanent": true
+    },
+    {
+      "source": "/guide/malibu.md",
+      "destination": "/neighborhoods/malibu.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/mar-vista",
+      "destination": "/neighborhoods/mar-vista",
+      "permanent": true
+    },
+    {
+      "source": "/guide/mar-vista.md",
+      "destination": "/neighborhoods/mar-vista.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/marina-del-rey",
+      "destination": "/neighborhoods/marina-del-rey",
+      "permanent": true
+    },
+    {
+      "source": "/guide/marina-del-rey.md",
+      "destination": "/neighborhoods/marina-del-rey.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/miracle-mile",
+      "destination": "/neighborhoods/miracle-mile",
+      "permanent": true
+    },
+    {
+      "source": "/guide/miracle-mile.md",
+      "destination": "/neighborhoods/miracle-mile.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/north-hollywood",
+      "destination": "/neighborhoods/north-hollywood",
+      "permanent": true
+    },
+    {
+      "source": "/guide/north-hollywood.md",
+      "destination": "/neighborhoods/north-hollywood.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/pacific-palisades",
+      "destination": "/neighborhoods/pacific-palisades",
+      "permanent": true
+    },
+    {
+      "source": "/guide/pacific-palisades.md",
+      "destination": "/neighborhoods/pacific-palisades.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/palms",
+      "destination": "/neighborhoods/palms",
+      "permanent": true
+    },
+    {
+      "source": "/guide/palms.md",
+      "destination": "/neighborhoods/palms.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/pico-robertson",
+      "destination": "/neighborhoods/pico-robertson",
+      "permanent": true
+    },
+    {
+      "source": "/guide/pico-robertson.md",
+      "destination": "/neighborhoods/pico-robertson.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/playa-del-rey",
+      "destination": "/neighborhoods/playa-del-rey",
+      "permanent": true
+    },
+    {
+      "source": "/guide/playa-del-rey.md",
+      "destination": "/neighborhoods/playa-del-rey.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/playa-vista",
+      "destination": "/neighborhoods/playa-vista",
+      "permanent": true
+    },
+    {
+      "source": "/guide/playa-vista.md",
+      "destination": "/neighborhoods/playa-vista.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/reseda",
+      "destination": "/neighborhoods/reseda",
+      "permanent": true
+    },
+    {
+      "source": "/guide/reseda.md",
+      "destination": "/neighborhoods/reseda.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/santa-monica",
+      "destination": "/neighborhoods/santa-monica",
+      "permanent": true
+    },
+    {
+      "source": "/guide/santa-monica.md",
+      "destination": "/neighborhoods/santa-monica.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/sherman-oaks",
+      "destination": "/neighborhoods/sherman-oaks",
+      "permanent": true
+    },
+    {
+      "source": "/guide/sherman-oaks.md",
+      "destination": "/neighborhoods/sherman-oaks.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/silver-lake",
+      "destination": "/neighborhoods/silver-lake",
+      "permanent": true
+    },
+    {
+      "source": "/guide/silver-lake.md",
+      "destination": "/neighborhoods/silver-lake.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/studio-city",
+      "destination": "/neighborhoods/studio-city",
+      "permanent": true
+    },
+    {
+      "source": "/guide/studio-city.md",
+      "destination": "/neighborhoods/studio-city.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/tarzana",
+      "destination": "/neighborhoods/tarzana",
+      "permanent": true
+    },
+    {
+      "source": "/guide/tarzana.md",
+      "destination": "/neighborhoods/tarzana.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/valley-village",
+      "destination": "/neighborhoods/valley-village",
+      "permanent": true
+    },
+    {
+      "source": "/guide/valley-village.md",
+      "destination": "/neighborhoods/valley-village.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/van-nuys",
+      "destination": "/neighborhoods/van-nuys",
+      "permanent": true
+    },
+    {
+      "source": "/guide/van-nuys.md",
+      "destination": "/neighborhoods/van-nuys.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/venice",
+      "destination": "/neighborhoods/venice",
+      "permanent": true
+    },
+    {
+      "source": "/guide/venice.md",
+      "destination": "/neighborhoods/venice.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/west-hollywood",
+      "destination": "/neighborhoods/west-hollywood",
+      "permanent": true
+    },
+    {
+      "source": "/guide/west-hollywood.md",
+      "destination": "/neighborhoods/west-hollywood.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/west-la",
+      "destination": "/neighborhoods/west-la",
+      "permanent": true
+    },
+    {
+      "source": "/guide/west-la.md",
+      "destination": "/neighborhoods/west-la.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/westchester",
+      "destination": "/neighborhoods/westchester",
+      "permanent": true
+    },
+    {
+      "source": "/guide/westchester.md",
+      "destination": "/neighborhoods/westchester.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/westwood",
+      "destination": "/neighborhoods/westwood",
+      "permanent": true
+    },
+    {
+      "source": "/guide/westwood.md",
+      "destination": "/neighborhoods/westwood.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/woodland-hills",
+      "destination": "/neighborhoods/woodland-hills",
+      "permanent": true
+    },
+    {
+      "source": "/guide/woodland-hills.md",
+      "destination": "/neighborhoods/woodland-hills.md",
+      "permanent": true
+    },
+    {
+      "source": "/guide/best/golf",
+      "destination": "/neighborhoods",
+      "permanent": true
+    },
+    {
+      "source": "/guide/best/spa",
+      "destination": "/neighborhoods",
+      "permanent": true
+    },
+    {
+      "source": "/guide/best/dive",
+      "destination": "/guide/best/bars",
+      "permanent": true
+    },
+    {
+      "source": "/guide/best/sports",
+      "destination": "/guide/best/bars",
+      "permanent": true
+    },
+    {
+      "source": "/guide/best/beer",
+      "destination": "/guide/best/bars",
+      "permanent": true
     }
   ]
 }

@@ -1,26 +1,250 @@
-{"slug": "marina-del-rey", "updated": "2026-11-26",
+{
+ "slug": "marina-del-rey",
+ "updated": "2026-11-26",
  "intro": "Marina del Rey wraps around North America's largest man-made small-craft harbor, with waterfront restaurants, a calm swimming beach and a bike path that runs to Venice and Playa del Rey. The best food is often a block off the water, along Washington Boulevard and in the strip malls inland.",
  "sources": {
-  "infmdr": ["The Infatuation: Marina del Rey", "https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey"],
-  "fsq": ["Foursquare: Marina del Rey, Culver City, Playa Vista, Venice", "https://redirect.foursquare.com/eeena/list/marina-del-rey-culver-city-playa-vista-venice"],
-  "gm": ["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA"]
+  "infmdr": [
+   "The Infatuation: Marina del Rey",
+   "https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey"
+  ],
+  "fsq": [
+   "Foursquare: Marina del Rey, Culver City, Playa Vista, Venice",
+   "https://redirect.foursquare.com/eeena/list/marina-del-rey-culver-city-playa-vista-venice"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA"
+  ]
  },
  "places": [
-  {"n": "The Cow's End Cafe", "c": ["coffee", "breakfast", "healthy"], "a": "34 Washington Blvd", "p": "$$", "w": "A two-story beach cafe by the Venice Pier that regulars hit every morning, with fresh juices and sandwiches.", "o": "A strawberry matcha or a fresh juice and a bagel. Opens at 6am.", "s": ["gm"]},
-  {"n": "Fratelli Marina", "c": ["breakfast", "brunch"], "a": "552 Washington Blvd", "p": "$", "w": "A friendly counter-service cafe with a huge breakfast menu and a patio.", "o": "Huevos rancheros or steak eggs benedict.", "s": ["gm"]},
-  {"n": "26 Beach Cafe", "c": ["brunch", "breakfast"], "a": "3100 Washington Blvd", "p": "$$", "w": "A longtime brunch spot famous for its long French toast menu.", "o": "Any of the French toasts.", "s": ["infmdr", "fsq"]},
-  {"n": "C&O Trattoria", "c": ["dinner", "cheap"], "a": "31 Washington Blvd", "p": "$$", "w": "A relaxed beachside Italian spot with garlic knots and big portions.", "o": "Pasta for the table and the garlic knots.", "s": ["infmdr", "fsq"]},
-  {"n": "Locanda Positano", "c": ["dinner", "date"], "a": "4212 Lincoln Blvd", "p": "$$$", "w": "A tiny Italian restaurant with excellent pasta in an unglamorous strip.", "o": "Any of the fresh pastas.", "s": ["infmdr"]},
-  {"n": "Irori Sushi", "c": ["sushi", "date"], "a": "4371 Glencoe Ave", "p": "$$$", "w": "A hidden-gem sushi bar with one of the best omakase deals on the Westside.", "o": "The omakase.", "s": ["infmdr"]},
-  {"n": "Sugarfish Marina del Rey", "c": ["sushi", "lunch"], "a": "4722 Admiralty Way", "p": "$$", "w": "Reliable, well-priced sushi sets.", "o": "The Trust Me set.", "s": ["infmdr"]},
-  {"n": "Dear Jane's", "c": ["seafood", "dinner"], "a": "Panay Way", "p": "$$$", "w": "A waterfront seafood restaurant from the team behind Dear John's.", "o": "A martini and seafood on the water.", "s": ["infmdr"]},
-  {"n": "Planta Cocina", "c": ["dinner", "healthy"], "a": "4625 Admiralty Way", "p": "$$", "w": "The Westside's best upscale vegan dinner, on the marina.", "o": "Share the sushi rolls and a pizza.", "s": ["infmdr"]},
-  {"n": "Coni'Seafood Marina del Rey", "c": ["seafood", "tacos"], "a": "Marina del Rey", "p": "$$", "w": "The second location of one of LA's best Nayarit-style Mexican seafood restaurants.", "o": "Pescado zarandeado and shrimp aguachile.", "s": ["infmdr"]},
-  {"n": "Paco's Tacos", "c": ["tacos", "cheap", "dinner"], "a": "Centinela Ave", "p": "$$", "w": "A neighborhood staple for classic Mexican food in big portions.", "o": "A combination plate and a margarita.", "s": ["infmdr"]},
-  {"n": "J. Nichols Kitchen", "c": ["lunch", "dinner"], "a": "Marina del Rey", "p": "$$", "w": "A good-at-everything neighborhood restaurant.", "o": "Whatever the special is.", "s": ["infmdr"]},
-  {"n": "Capri Gelato", "c": ["bakery", "coffee", "kids"], "a": "Marina del Rey", "p": "$", "w": "A coffee bar and gelato shop with classic and creative flavors.", "o": "Pistachio gelato and an espresso.", "s": ["infmdr"]},
-  {"n": "Firestone Walker Propagator", "c": ["beer", "sports"], "a": "3205 Washington Blvd", "p": "$$", "w": "A big craft brewery taproom that also shows the games.", "o": "A flight and a game on the big screens.", "s": ["infmdr"]},
-  {"n": "Whiskey Red's", "c": ["bars", "rooftop"], "a": "13813 Fiji Way", "p": "$$", "w": "A touristy spot where the marina view is the reason to go.", "o": "A drink on the patio at sunset.", "s": ["infmdr"]},
-  {"n": "The Warehouse Restaurant", "c": ["bars", "dive"], "a": "4499 Admiralty Way", "p": "$$", "w": "A quirky, rowdy nautical-themed classic on the water.", "o": "A tropical drink with friends.", "s": ["infmdr"]},
-  {"n": "Mothers Beach", "c": ["beach", "kids", "fitness"], "a": "4101 Admiralty Way", "p": "$", "w": "A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and paddleboard launching.", "o": "Bring little kids, or launch a paddleboard.", "s": ["gm"]}
- ]}
+  {
+   "n": "The Cow's End Cafe",
+   "c": [
+    "coffee",
+    "breakfast",
+    "healthy"
+   ],
+   "a": "34 Washington Blvd",
+   "p": "$$",
+   "w": "A two-story beach cafe by the Venice Pier that regulars hit every morning, with fresh juices and sandwiches.",
+   "o": "A strawberry matcha or a fresh juice and a bagel. Opens at 6am.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Fratelli Marina",
+   "c": [
+    "breakfast",
+    "brunch"
+   ],
+   "a": "552 Washington Blvd",
+   "p": "$",
+   "w": "A friendly counter-service cafe with a huge breakfast menu and a patio.",
+   "o": "Huevos rancheros or steak eggs benedict.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "26 Beach Cafe",
+   "c": [
+    "brunch",
+    "breakfast"
+   ],
+   "a": "3100 Washington Blvd",
+   "p": "$$",
+   "w": "A longtime brunch spot famous for its long French toast menu.",
+   "o": "Any of the French toasts.",
+   "s": [
+    "infmdr",
+    "fsq"
+   ]
+  },
+  {
+   "n": "C&O Trattoria",
+   "c": [
+    "dinner",
+    "cheap"
+   ],
+   "a": "31 Washington Blvd",
+   "p": "$$",
+   "w": "A relaxed beachside Italian spot with garlic knots and big portions.",
+   "o": "Pasta for the table and the garlic knots.",
+   "s": [
+    "infmdr",
+    "fsq"
+   ]
+  },
+  {
+   "n": "Locanda Positano",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "4212 Lincoln Blvd",
+   "p": "$$$",
+   "w": "A tiny Italian restaurant with excellent pasta in an unglamorous strip.",
+   "o": "Any of the fresh pastas.",
+   "s": [
+    "infmdr"
+   ]
+  },
+  {
+   "n": "Irori Sushi",
+   "c": [
+    "sushi",
+    "date"
+   ],
+   "a": "4371 Glencoe Ave",
+   "p": "$$$",
+   "w": "A hidden-gem sushi bar with one of the best omakase deals on the Westside.",
+   "o": "The omakase.",
+   "s": [
+    "infmdr"
+   ]
+  },
+  {
+   "n": "Sugarfish Marina del Rey",
+   "c": [
+    "sushi",
+    "lunch"
+   ],
+   "a": "4722 Admiralty Way",
+   "p": "$$",
+   "w": "Reliable, well-priced sushi sets.",
+   "o": "The Trust Me set.",
+   "s": [
+    "infmdr"
+   ]
+  },
+  {
+   "n": "Dear Jane's",
+   "c": [
+    "seafood",
+    "dinner"
+   ],
+   "a": "Panay Way",
+   "p": "$$$",
+   "w": "A waterfront seafood restaurant from the team behind Dear John's.",
+   "o": "A martini and seafood on the water.",
+   "s": [
+    "infmdr"
+   ]
+  },
+  {
+   "n": "Planta Cocina",
+   "c": [
+    "dinner",
+    "healthy"
+   ],
+   "a": "4625 Admiralty Way",
+   "p": "$$",
+   "w": "The Westside's best upscale vegan dinner, on the marina.",
+   "o": "Share the sushi rolls and a pizza.",
+   "s": [
+    "infmdr"
+   ]
+  },
+  {
+   "n": "Coni'Seafood Marina del Rey",
+   "c": [
+    "seafood",
+    "tacos"
+   ],
+   "a": "Marina del Rey",
+   "p": "$$",
+   "w": "The second location of one of LA's best Nayarit-style Mexican seafood restaurants.",
+   "o": "Pescado zarandeado and shrimp aguachile.",
+   "s": [
+    "infmdr"
+   ]
+  },
+  {
+   "n": "Paco's Tacos",
+   "c": [
+    "tacos",
+    "cheap",
+    "dinner"
+   ],
+   "a": "Centinela Ave",
+   "p": "$$",
+   "w": "A neighborhood staple for classic Mexican food in big portions.",
+   "o": "A combination plate and a margarita.",
+   "s": [
+    "infmdr"
+   ]
+  },
+  {
+   "n": "J. Nichols Kitchen",
+   "c": [
+    "lunch",
+    "dinner"
+   ],
+   "a": "Marina del Rey",
+   "p": "$$",
+   "w": "A good-at-everything neighborhood restaurant.",
+   "o": "Whatever the special is.",
+   "s": [
+    "infmdr"
+   ]
+  },
+  {
+   "n": "Capri Gelato",
+   "c": [
+    "bakery",
+    "coffee",
+    "kids"
+   ],
+   "a": "Marina del Rey",
+   "p": "$",
+   "w": "A coffee bar and gelato shop with classic and creative flavors.",
+   "o": "Pistachio gelato and an espresso.",
+   "s": [
+    "infmdr"
+   ]
+  },
+  {
+   "n": "Whiskey Red's",
+   "c": [
+    "bars",
+    "rooftop"
+   ],
+   "a": "13813 Fiji Way",
+   "p": "$$",
+   "w": "A touristy spot where the marina view is the reason to go.",
+   "o": "A drink on the patio at sunset.",
+   "s": [
+    "infmdr"
+   ]
+  },
+  {
+   "n": "The Warehouse Restaurant",
+   "c": [
+    "bars"
+   ],
+   "a": "4499 Admiralty Way",
+   "p": "$$",
+   "w": "A quirky, rowdy nautical-themed classic on the water.",
+   "o": "A tropical drink with friends.",
+   "s": [
+    "infmdr"
+   ]
+  },
+  {
+   "n": "Mothers Beach",
+   "c": [
+    "beach",
+    "kids",
+    "fitness"
+   ],
+   "a": "4101 Admiralty Way",
+   "p": "$",
+   "w": "A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and paddleboard launching.",
+   "o": "Bring little kids, or launch a paddleboard.",
+   "s": [
+    "gm"
+   ]
+  }
+ ]
+}

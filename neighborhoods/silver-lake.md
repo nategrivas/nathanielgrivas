@@ -1,4 +1,4 @@
-# Living in Silver Lake, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Silver Lake, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/silver-lake
 
@@ -51,25 +51,477 @@ From above
 
 What's my home worth? Get Silver Lake listings
 
+Local LA
+
+## Where to eat, drink and go in Silver Lake
+
+See them on the map →
+
+Silver Lake is the Eastside's living room: a reservoir to walk around, a long run of restaurants on Sunset, and some of the best bars in the city. The best stretches are Sunset Junction and the strip of Silver Lake Boulevard just south of the reservoir.
+
+30 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### Intelligentsia Silver Lake
+
+$$
+
+3922 Sunset Blvd
+
+The neighborhood's long-running coffee bar at Sunset Junction, and a people-watching post.
+
+**Order:** A pour-over on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Intelligentsia+Silver+Lake+3922+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/silver-lake-guide)
+
+Coffee
+
+### Café Tropical
+
+$
+
+2900 W Sunset Blvd
+
+A 50-year-old Cuban bakery that still gets the classics right. It's small, so get there early.
+
+**Order:** Cafe cubano, pastelitos and the Cubano.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Tropical+2900+W+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Breakfast Bakeries & dessert Coffee
+
+### Maury's Bagels
+
+$$
+
+2829 Bellevue Ave
+
+Takeout-only bagels that are pliable and chewy, with a deep bench of cured fish.
+
+**Order:** The black cod bagel, or lox with wasabi tobiko cream cheese.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Maury%27s+Bagels+2829+Bellevue+Ave+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Breakfast
+
+### Doto
+
+$$
+
+654 N Hoover St
+
+An all-day spot with strong coffee and a relaxed hillside patio out back.
+
+**Order:** Breakfast burrito, fried chicken sandwich or oxtail in Japanese curry.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Doto+654+N+Hoover+St+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Breakfast Lunch Coffee
+
+Eat
+
+### Lunch & casual
+
+### Azizam
+
+$$
+
+2943 W Sunset Blvd
+
+A leafy, light-filled Persian daytime cafe with homey cooking. Portions are small, so order several.
+
+**Order:** Barbari bread, kofteh tabrizi and the Persian mille-feuille.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Azizam+2943+W+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Lunch Brunch
+
+### Ceci's Gastronomia
+
+$$
+
+2813 W Sunset Blvd
+
+A picnic-style Italian cafe with standout focaccia sandwiches.
+
+**Order:** Any focaccia sandwich and the tiramisu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ceci%27s+Gastronomia+2813+W+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Lunch
+
+### Pine & Crane
+
+$
+
+1521 Griffith Park Blvd
+
+Fast, reliable Taiwanese with a line out the door for years, and almost nothing over $16.
+
+**Order:** Beef scallion pancake roll and wonton noodle soup.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pine+%26+Crane+1521+Griffith+Park+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Lunch Dinner Cheap eats
+
+### LaSorted's Pizza
+
+$
+
+2847 Sunset Blvd
+
+Chewy, bubbly brick-oven pizza from a takeout window.
+
+**Order:** The Spicy, But Oh, So Sweet Boy.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=LaSorted%27s+Pizza+2847+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Pizza Cheap eats
+
+**Love Silver Lake? Live here.** Get new Silver Lake listings, including off-market ones, or a free value on your Silver Lake home.
+
+What's my home worth? Get Silver Lake listings
+
+Eat
+
+### Dinner
+
+### Briciola
+
+$$$
+
+3131 Sunset Blvd
+
+Candlelit Italian with clever Brazilian twists. The room is tight, which is part of the charm.
+
+**Order:** Burrata with tomato granita, branzino in coconut sauce and bananas foster.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Briciola+3131+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Date night Dinner
+
+### Josephine
+
+$$$
+
+4156 Santa Monica Blvd
+
+An indulgent French-Italian bistro in a playful yellow bungalow. The menu changes monthly.
+
+**Order:** Duck tortellini, fried sweetbreads or steak frites.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Josephine+4156+Santa+Monica+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Dinner Date night
+
+### Cafe Stella
+
+$$$
+
+3932 W Sunset Blvd
+
+Classic bistro food in a lively, slightly grungy courtyard. Book ahead.
+
+**Order:** Steak au poivre, frisée salad and sorbet in a frozen lemon.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Stella+3932+W+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Dinner Date night
+
+### Ceviche Project
+
+$$$
+
+2524 Hyperion Ave
+
+A tropical, club-like cevicheria with bright, vibrant seafood.
+
+**Order:** Scallops on the half shell, tai snapper ceviche and the kanpachi tostada.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ceviche+Project+2524+Hyperion+Ave+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Seafood Dinner Tacos & Mexican
+
+### Manila Inasal
+
+$$
+
+240 Virgil Ave
+
+Fun, inventive takes on Filipino classics, with big portions and live music on weekends.
+
+**Order:** Taro-coconut dip with focaccia and crab-stuffed tortang talong.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Manila+Inasal+240+Virgil+Ave+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Dinner Live music
+
+### Kenbey Sushi
+
+$$$
+
+4331 Sunset Blvd
+
+Polished nigiri next to crowd-pleasing rolls, which makes it work for couples and groups alike.
+
+**Order:** The omakase with toro and wagyu, or spicy tuna crispy rice.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kenbey+Sushi+4331+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Sushi & Japanese
+
+### Night + Market Song
+
+$$
+
+3322 W Sunset Blvd
+
+Some of the city's best Thai in a kitschy, casual room.
+
+**Order:** Larb and a bottle of natural wine.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Night+%2B+Market+Song+3322+W+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Dinner
+
+### Pijja Palace
+
+$$
+
+2711 Sunset Blvd
+
+An Indian sports bar with screens everywhere and food people talk about for weeks. Reservations go fast.
+
+**Order:** Malai rigatoni, saag pizza and masala wings. Avoid big game nights.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pijja+Palace+2711+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Dinner Pizza
+
+### L&E Oyster Bar
+
+$$$
+
+1637 Silver Lake Blvd
+
+A neighborhood oyster bar with excellent oysters and an easy, solid menu. Walk-ins welcome.
+
+**Order:** Oysters, the burger and a wedge salad.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=L%26E+Oyster+Bar+1637+Silver+Lake+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake) [Time Out](https://www.timeout.com/los-angeles/bars/the-best-silver-lake-bars)
+
+Seafood Dinner
+
+Drink
+
+### Nightlife
+
+### Amiguita
+
+$$
+
+3510 W Sunset Blvd
+
+An Afro-Caribbean wine bar where bar seats are often open for walk-ins.
+
+**Order:** Yuca latkes, plantain gnocchi in curry and spicy coconut mussels.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Amiguita+3510+W+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Wine bars Dinner
+
+### Bar Besito
+
+$$
+
+1710 Silver Lake Blvd
+
+A packed, lively spot for tinned seafood, tapas and wine.
+
+**Order:** Mackerel conserva, tortilla española and grilled prawns.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Besito+1710+Silver+Lake+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+
+Wine bars Dinner
+
+### Tiki-Ti
+
+$$
+
+4427 Sunset Blvd
+
+A tiny, family-run tiki bar with strong rum drinks and a line out the door. Cash only.
+
+**Order:** Whatever the bartender's pouring when the room starts chanting.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tiki-Ti+4427+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/bars/the-best-silver-lake-bars) [Roadbook](https://roadbook.com/los-angeles/city-guide/best-cocktail-bars-los-angeles)
+
+Cocktail bars & lounges
+
+### Akbar
+
+$
+
+4356 W Sunset Blvd
+
+A dive-y gay dance bar with a mixed, local crowd, cheap drinks and events in the back room that are actually fun.
+
+**Order:** Check the calendar for comedy nights.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Akbar+4356+W+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-eastside-bar-guide) [Time Out](https://www.timeout.com/los-angeles/bars/the-best-silver-lake-bars)
+
+Cocktail bars & lounges Comedy & theater Late night
+
+### The Ruby Fruit
+
+$$
+
+Sunset Blvd
+
+A bright pink lesbian bar in a strip mall where the party spills onto the sidewalk most nights.
+
+**Order:** Go late on a weekend.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Ruby+Fruit+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-eastside-bar-guide)
+
+Cocktail bars & lounges Late night
+
+### El Cid
+
+$$
+
+4212 W Sunset Blvd
+
+A doorway on Sunset that opens onto a hidden patio bar, with a little theater for live music and flamenco.
+
+**Order:** Bring a group and catch a show.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Cid+4212+W+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/reviews/el-cid)
+
+Cocktail bars & lounges Live music
+
+### Thirsty Crow
+
+$$
+
+2939 Sunset Blvd
+
+A whiskey bar with more than 100 bottles behind a horseshoe bar.
+
+**Order:** A whiskey flight at happy hour.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Thirsty+Crow+2939+Sunset+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/bars/the-best-silver-lake-bars)
+
+Cocktail bars & lounges
+
+Do
+
+### Parks & outdoors
+
+### Silver Lake Reservoir
+
+Free
+
+Silver Lake Blvd
+
+The neighborhood's centerpiece: a loop for running, a meadow for picnics and room for dogs.
+
+**Do:** Walk the loop, then eat on the Silver Lake Blvd strip just south.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Silver+Lake+Reservoir+Silver+Lake+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/silver-lake-guide)
+
+Parks Fitness & outdoor sports Dog-friendly
+
+### Silver Lake Stairs
+
+Free
+
+Throughout the hills
+
+Dozens of public stairways wind through the hillsides, a way to see the neighborhood off the main streets.
+
+**Do:** Link a few for a workout with views.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Silver+Lake+Stairs+Throughout+the+hills+Silver+Lake+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/silver-lake-guide)
+
+Hikes & nature Fitness & outdoor sports
+
+### Echo Park Lake
+
+Free
+
+Next door in [Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park) · 0.8 mi · 751 Echo Park Ave
+
+A palm-ringed lake with swan pedal boats, a fountain and a walking loop. The lotus bed blooms each summer.
+
+**Do:** Rent a swan boat at sunset.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Echo+Park+Lake+751+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-restaurants-in-echo-park) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+
+Parks Landmarks & sights Kids & family
+
+Do
+
+### Shops, markets & spas
+
+### Sunset Junction
+
+$$
+
+Sunset Blvd at Santa Monica Blvd
+
+Where Santa Monica Boulevard ends and the closest thing Silver Lake has to a walkable center.
+
+**Do:** Shop, get coffee and people-watch.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sunset+Junction+Sunset+Blvd+at+Santa+Monica+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/silver-lake-guide)
+
+Shopping Landmarks & sights
+
+### Skylight Books
+
+Free
+
+Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 1.7 mi · 1818 N Vermont Ave
+
+A beloved independent bookstore with great staff picks, author readings and an art book annex next door.
+
+**Do:** Check the readings calendar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Skylight+Books+1818+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Foursquare](https://lv.foursquare.com/FoursquareGuide/list/explore-los-feliz-los-angeles) [Discover Los Angeles](https://www.discoverlosangeles.com/visit/hidden-gems-in-los-feliz)
+
+Shopping
+
+### Wacko and La Luz de Jesus Gallery
+
+Free
+
+Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 1.7 mi · 4633 Hollywood Blvd
+
+A pop-culture oddities shop that gets stranger the deeper you go, with a lowbrow art gallery in back.
+
+**Do:** Browse the gallery's current show.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Wacko+and+La+Luz+de+Jesus+Gallery+4633+Hollywood+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [SilverKris](https://silverkris.singaporeair.com/experience/travel-tips/neighbourhood-spotlight-los-feliz-los-angeles/)
+
+Shopping Art & galleries
+
+Sources
+
+- [The Infatuation: Best restaurants in Silver Lake](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake)
+- [The Infatuation: Best bars on the Eastside](https://theinfatuation.com/los-angeles/guides/the-eastside-bar-guide)
+- [The Infatuation: El Cid](https://www.theinfatuation.com/los-angeles/reviews/el-cid)
+- [Time Out: Best Silver Lake bars](https://www.timeout.com/los-angeles/bars/the-best-silver-lake-bars)
+- [Time Out: Silver Lake guide](https://www.timeout.com/los-angeles/silver-lake-guide)
+- [Fodor's: Los Feliz and Eastside bars](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/los-feliz-and-the-eastside/things-to-do/nightlife)
+- [Roadbook: Cocktail bars locals love](https://roadbook.com/los-angeles/city-guide/best-cocktail-bars-los-angeles)
+
 Photos
 
 ## Silver Lake in pictures
-
-## Around Silver Lake
-
-[The full Silver Lake guide: 29 places →](https://www.nathanielgrivas.com/guide/silver-lake)
-
-[Night + Market Song In Silver Lake Spicy Thai on Sunset.](https://www.google.com/maps/search/?api=1&query=Night+%2B+Market+Song+Silver+Lake+CA) [Pine & Crane In Silver Lake Taiwanese counter service near Sunset Junction.](https://www.google.com/maps/search/?api=1&query=Pine+%26+Crane+Silver+Lake+CA) [Masa of Echo Park Echo Park · under 1 mi Chicago deep dish on Sunset.](https://www.google.com/maps/search/?api=1&query=Masa+of+Echo+Park+Echo+Park+CA) [Guisados Echo Park · 1.5 mi Braised tacos on Sunset.](https://www.google.com/maps/search/?api=1&query=Guisados+Echo+Park+CA) [Figaro Bistrot Los Feliz · 1.5 mi French bistro on Vermont.](https://www.google.com/maps/search/?api=1&query=Figaro+Bistrot+Los+Feliz+CA) [Yuca's Los Feliz · 1.5 mi Tiny taco stand on Hillhurst.](https://www.google.com/maps/search/?api=1&query=Yuca%27s+Los+Feliz+CA)
-
-[Thirsty Crow In Silver Lake Whiskey bar on Sunset.](https://www.google.com/maps/search/?api=1&query=Thirsty+Crow+Silver+Lake+CA) [Cha Cha Lounge In Silver Lake Tijuana-themed dive with foosball.](https://www.google.com/maps/search/?api=1&query=Cha+Cha+Lounge+Silver+Lake+CA) [Akbar In Silver Lake Bar and dance floor on Sunset.](https://www.google.com/maps/search/?api=1&query=Akbar+Silver+Lake+CA) [Gold Room Echo Park · 1 mi Margarita Wednesdays and a taco stand on the patio.](https://www.google.com/maps/search/?api=1&query=Gold+Room+Echo+Park+CA) [Tiki-Ti Los Feliz · 1 mi Twelve-stool tiki bar on Sunset since 1961.](https://www.google.com/maps/search/?api=1&query=Tiki-Ti+Los+Feliz+CA) [The Short Stop Echo Park · 1 mi Dive bar down the hill from Dodger Stadium.](https://www.google.com/maps/search/?api=1&query=The+Short+Stop+Echo+Park+CA)
-
-[Los Feliz Golf Course Los Feliz · 2 mi Public par-3 on Los Feliz Boulevard.](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Golf+Course+Los+Feliz+CA) [Roosevelt Golf Course Griffith Park · 3 mi Public nine holes below the Greek Theatre.](https://www.google.com/maps/search/?api=1&query=Roosevelt+Golf+Course+Griffith+Park+CA) [Wilshire Country Club Hancock Park · 3.5 mi Private club in Hancock Park.](https://www.google.com/maps/search/?api=1&query=Wilshire+Country+Club+Hancock+Park+CA) [Griffith Park: Wilson & Harding Griffith Park · 4 mi Two public 18-hole courses.](https://www.google.com/maps/search/?api=1&query=Griffith+Park%3A+Wilson+%26+Harding+Griffith+Park+CA)
-
-[Hollywood Forever Cemetery Hollywood · 3 mi Cinespia's summer movies on the lawn.](https://www.google.com/maps/search/?api=1&query=Hollywood+Forever+Cemetery+Hollywood+CA) [Egyptian Theatre Hollywood · 4 mi 1922 movie palace for classics and premieres.](https://www.google.com/maps/search/?api=1&query=Egyptian+Theatre+Hollywood+CA)
-
-[The Echo Echo Park · under 1 mi Indie rock club on Sunset.](https://www.google.com/maps/search/?api=1&query=The+Echo+Echo+Park+CA) [Hollyhock House East Hollywood · 1.5 mi Frank Lloyd Wright house in Barnsdall Art Park.](https://www.google.com/maps/search/?api=1&query=Hollyhock+House+East+Hollywood+CA) [Dodger Stadium Echo Park · 2 mi Dodgers baseball in Chavez Ravine.](https://www.google.com/maps/search/?api=1&query=Dodger+Stadium+Echo+Park+CA) [Greek Theatre Los Feliz · 2.5 mi Open-air concerts in Griffith Park.](https://www.google.com/maps/search/?api=1&query=Greek+Theatre+Los+Feliz+CA) [Griffith Observatory Los Feliz · 3 mi Free telescopes and the best city view.](https://www.google.com/maps/search/?api=1&query=Griffith+Observatory+Los+Feliz+CA) [Hollywood Palladium Hollywood · 3 mi Concert hall on Sunset.](https://www.google.com/maps/search/?api=1&query=Hollywood+Palladium+Hollywood+CA)
-
-[Silver Lake Reservoir & Meadow In Silver Lake Loop walk around the reservoir.](https://www.google.com/maps/search/?api=1&query=Silver+Lake+Reservoir+%26+Meadow+Silver+Lake+CA) [Echo Park Lake Echo Park · 1 mi Paddle boats and the lotus bed.](https://www.google.com/maps/search/?api=1&query=Echo+Park+Lake+Echo+Park+CA) [Elysian Park Echo Park · 1.5 mi Trails and views over Downtown.](https://www.google.com/maps/search/?api=1&query=Elysian+Park+Echo+Park+CA) [Fern Dell Griffith Park · 2.5 mi Shady creek trail up to the Observatory.](https://www.google.com/maps/search/?api=1&query=Fern+Dell+Griffith+Park+CA) [Bronson Caves Griffith Park · 3.5 mi The Batcave from the 1960s TV show.](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+Griffith+Park+CA)
 
 Track record
 

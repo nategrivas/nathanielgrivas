@@ -1,4 +1,4 @@
-# Living in East Hollywood, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# East Hollywood, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/east-hollywood
 
@@ -51,21 +51,348 @@ From above
 
 What's my home worth? Get East Hollywood listings
 
-## Around East Hollywood
+Local LA
 
-[The full East Hollywood guide: 21 places →](https://www.nathanielgrivas.com/guide/east-hollywood)
+## Where to eat, drink and go in East Hollywood
 
-[Zankou Chicken In East Hollywood Garlic sauce rotisserie chicken, the Sunset original.](https://www.google.com/maps/search/?api=1&query=Zankou+Chicken+East+Hollywood+CA) [Jitlada In East Hollywood Southern Thai in Thai Town.](https://www.google.com/maps/search/?api=1&query=Jitlada+East+Hollywood+CA) [Sapp Coffee Shop In East Hollywood Thai boat noodles on Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=Sapp+Coffee+Shop+East+Hollywood+CA) [Pine & Crane Silver Lake · under 1 mi Taiwanese counter service near Sunset Junction.](https://www.google.com/maps/search/?api=1&query=Pine+%26+Crane+Silver+Lake+CA) [Figaro Bistrot Los Feliz · under 1 mi French bistro on Vermont.](https://www.google.com/maps/search/?api=1&query=Figaro+Bistrot+Los+Feliz+CA) [Night + Market Song Silver Lake · 1 mi Spicy Thai on Sunset.](https://www.google.com/maps/search/?api=1&query=Night+%2B+Market+Song+Silver+Lake+CA)
+See them on the map →
 
-[Tiki-Ti Los Feliz · under 1 mi Twelve-stool tiki bar on Sunset since 1961.](https://www.google.com/maps/search/?api=1&query=Tiki-Ti+Los+Feliz+CA) [Akbar Silver Lake · under 1 mi Bar and dance floor on Sunset.](https://www.google.com/maps/search/?api=1&query=Akbar+Silver+Lake+CA) [Ye Rustic Inn Los Feliz · 1 mi Neighborhood dive with wings on Hillhurst.](https://www.google.com/maps/search/?api=1&query=Ye+Rustic+Inn+Los+Feliz+CA) [Thirsty Crow Silver Lake · 1.5 mi Whiskey bar on Sunset.](https://www.google.com/maps/search/?api=1&query=Thirsty+Crow+Silver+Lake+CA) [Good Times at Davey Wayne's Hollywood · 1.5 mi 1970s backyard party through a fridge door.](https://www.google.com/maps/search/?api=1&query=Good+Times+at+Davey+Wayne%27s+Hollywood+CA) [The Frolic Room Hollywood · 2 mi Dive bar next to the Pantages since the 1930s.](https://www.google.com/maps/search/?api=1&query=The+Frolic+Room+Hollywood+CA)
+East Hollywood takes in Thai Town, Little Armenia, Virgil Village and the Melrose Hill strip, between Hollywood and Los Feliz. It is one of the deepest eating neighborhoods in LA, with some of the city's best Thai cooking, a run of chef-driven spots on Melrose and a few great small bars.
 
-[Wilshire Country Club Hancock Park · 2 mi Private club in Hancock Park.](https://www.google.com/maps/search/?api=1&query=Wilshire+Country+Club+Hancock+Park+CA) [Roosevelt Golf Course Griffith Park · 2.5 mi Public nine holes below the Greek Theatre.](https://www.google.com/maps/search/?api=1&query=Roosevelt+Golf+Course+Griffith+Park+CA) [Los Feliz Golf Course Los Feliz · 2.5 mi Public par-3 on Los Feliz Boulevard.](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Golf+Course+Los+Feliz+CA) [Griffith Park: Wilson & Harding Griffith Park · 3.5 mi Two public 18-hole courses.](https://www.google.com/maps/search/?api=1&query=Griffith+Park%3A+Wilson+%26+Harding+Griffith+Park+CA) [Lakeside Golf Club Toluca Lake · 5 mi Private club by the studios.](https://www.google.com/maps/search/?api=1&query=Lakeside+Golf+Club+Toluca+Lake+CA)
+22 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Hollywood Forever Cemetery Hollywood · 1.5 mi Cinespia's summer movies on the lawn.](https://www.google.com/maps/search/?api=1&query=Hollywood+Forever+Cemetery+Hollywood+CA) [Egyptian Theatre Hollywood · 2.5 mi 1922 movie palace for classics and premieres.](https://www.google.com/maps/search/?api=1&query=Egyptian+Theatre+Hollywood+CA) [El Capitan Theatre Hollywood · 2.5 mi Restored 1926 movie palace on Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=El+Capitan+Theatre+Hollywood+CA) [TCL Chinese Theatre Hollywood · 3 mi IMAX premieres and the handprints out front.](https://www.google.com/maps/search/?api=1&query=TCL+Chinese+Theatre+Hollywood+CA) [New Beverly Cinema Beverly Grove · 3 mi Quentin Tarantino's repertory house on Beverly.](https://www.google.com/maps/search/?api=1&query=New+Beverly+Cinema+Beverly+Grove+CA) [Brain Dead Studios Fairfax · 4 mi Indie screenings in the old Silent Movie Theatre.](https://www.google.com/maps/search/?api=1&query=Brain+Dead+Studios+Fairfax+CA)
+Eat
 
-[Hollyhock House In East Hollywood Frank Lloyd Wright house in Barnsdall Art Park.](https://www.google.com/maps/search/?api=1&query=Hollyhock+House+East+Hollywood+CA) [Hollywood Palladium Hollywood · 2 mi Concert hall on Sunset.](https://www.google.com/maps/search/?api=1&query=Hollywood+Palladium+Hollywood+CA) [Hollywood Pantages Theatre Hollywood · 2 mi Broadway tours in a 1930 art deco palace.](https://www.google.com/maps/search/?api=1&query=Hollywood+Pantages+Theatre+Hollywood+CA) [The Fonda Theatre Hollywood · 2 mi Mid-size concerts and a rooftop bar.](https://www.google.com/maps/search/?api=1&query=The+Fonda+Theatre+Hollywood+CA) [Griffith Observatory Los Feliz · 2 mi Free telescopes and the best city view.](https://www.google.com/maps/search/?api=1&query=Griffith+Observatory+Los+Feliz+CA) [Hotel Cafe Hollywood · 2 mi Singer-songwriter room off Cahuenga.](https://www.google.com/maps/search/?api=1&query=Hotel+Cafe+Hollywood+CA)
+### Coffee & breakfast
 
-[Fern Dell Griffith Park · 1.5 mi Shady creek trail up to the Observatory.](https://www.google.com/maps/search/?api=1&query=Fern+Dell+Griffith+Park+CA) [Silver Lake Reservoir & Meadow Silver Lake · 2 mi Loop walk around the reservoir.](https://www.google.com/maps/search/?api=1&query=Silver+Lake+Reservoir+%26+Meadow+Silver+Lake+CA) [Echo Park Lake Echo Park · 2.5 mi Paddle boats and the lotus bed.](https://www.google.com/maps/search/?api=1&query=Echo+Park+Lake+Echo+Park+CA) [Bronson Caves Griffith Park · 2.5 mi The Batcave from the 1960s TV show.](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+Griffith+Park+CA) [Elysian Park Echo Park · 3 mi Trails and views over Downtown.](https://www.google.com/maps/search/?api=1&query=Elysian+Park+Echo+Park+CA) [Runyon Canyon Park Hollywood Hills · 3 mi Short steep hike with a Hollywood view.](https://www.google.com/maps/search/?api=1&query=Runyon+Canyon+Park+Hollywood+Hills+CA)
+### Courage Bagels
+
+$
+
+777 N Virgil Ave
+
+Crackly, deeply browned bagels that draw a morning line and can sell out.
+
+**Order:** The burnt everything bagel with salmon. Go before 10am.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Courage+Bagels+777+N+Virgil+Ave+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Breakfast Bakeries & dessert
+
+### Hollywood Coffee House
+
+$
+
+4972 Hollywood Blvd
+
+A roomy neighborhood cafe in a converted industrial space, with a calm back area for working.
+
+**Order:** A shaken espresso.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Coffee+House+4972+Hollywood+Blvd+East+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=East+Hollywood+Los+Angeles+CA)
+
+Coffee
+
+### Maru Coffee
+
+$$
+
+Next door in [Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz) · 1.2 mi · 1936 Hillhurst Ave
+
+A minimalist espresso bar that many coffee people rank among the best in LA. The line moves faster than it looks.
+
+**Order:** The cream top or a vanilla latte. It's small, so plan to take it to go.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Maru+Coffee+1936+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+
+Coffee
+
+Eat
+
+### Lunch & casual
+
+### Sapp Coffee Shop
+
+$
+
+5183 Hollywood Blvd
+
+Despite the name, a no-frills Thai noodle shop that ranks among the best Thai restaurants in LA.
+
+**Order:** Boat noodle soup and the jade noodles.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sapp+Coffee+Shop+5183+Hollywood+Blvd+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Lunch Cheap eats
+
+### Roasted Duck by Pa Ord
+
+$
+
+5136 Hollywood Blvd
+
+A Thai noodle shop built around glazed roast duck.
+
+**Order:** The duck special with garlicky jade noodles.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Roasted+Duck+by+Pa+Ord+5136+Hollywood+Blvd+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Lunch Cheap eats
+
+### Heng Heng Chicken Rice
+
+$
+
+5420 Hollywood Blvd
+
+A focused Thai counter for Hainan-style chicken rice.
+
+**Order:** Chicken rice plus the crispy zaab chicken to share.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Heng+Heng+Chicken+Rice+5420+Hollywood+Blvd+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Lunch Cheap eats
+
+### Amphai Northern Thai Food Club
+
+$
+
+5301 Sunset Blvd #11
+
+A tiny Northern Thai spot in a strip mall, great for a solo lunch.
+
+**Order:** Khao soi and the sai oua sausage.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Amphai+Northern+Thai+Food+Club+5301+Sunset+Blvd+%2311+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Lunch Cheap eats
+
+### Ggiata Delicatessen
+
+$$
+
+5009 Melrose Ave
+
+Big Italian-American subs and breakfast sandwiches.
+
+**Order:** Meatball parm or the chicken cutlet with vodka sauce.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ggiata+Delicatessen+5009+Melrose+Ave+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Lunch
+
+### Kuya Lord
+
+$$
+
+5003 Melrose Ave
+
+A Filipino grill whose big trays are built for sharing with a group.
+
+**Order:** A tapsilog tray or the lucenachon rice bowl.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kuya+Lord+5003+Melrose+Ave+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Lunch Dinner
+
+### Bridgetown Roti
+
+$
+
+850 N Vermont Ave
+
+A fast-casual Caribbean counter with big flavors.
+
+**Order:** Goat roti, plantains and the curry mac and cheese.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bridgetown+Roti+850+N+Vermont+Ave+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Lunch Cheap eats
+
+### Sabores Oaxaqueños
+
+$$
+
+5520 Santa Monica Blvd
+
+Oaxacan cooking anchored by a smoky goat birria.
+
+**Order:** The oversized goat birria taco and a tlayuda to share.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sabores+Oaxaque%C3%B1os+5520+Santa+Monica+Blvd+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Tacos & Mexican Dinner
+
+**Love East Hollywood? Live here.** Get new East Hollywood listings, including off-market ones, or a free value on your East Hollywood home.
+
+What's my home worth? Get East Hollywood listings
+
+Eat
+
+### Dinner
+
+### Little Fish
+
+$$
+
+5035 Melrose Ave
+
+A small seafood cafe: sandwiches by day, a more ambitious menu at night.
+
+**Order:** A tuna melt at lunch or scallop crudo at dinner.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Little+Fish+5035+Melrose+Ave+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Seafood Lunch Dinner
+
+### Jitlada
+
+$$
+
+5233 W Sunset Blvd
+
+A Thai Town institution known for fiery Southern Thai cooking.
+
+**Order:** The crispy catfish salad and stir-fried garlic crab.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Jitlada+5233+W+Sunset+Blvd+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Dinner
+
+### Ruen Pair
+
+$
+
+5257 Hollywood Blvd
+
+A late-night Thai Town standby that is best for stir-fries.
+
+**Order:** Crispy catfish with basil.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ruen+Pair+5257+Hollywood+Blvd+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Dinner Cheap eats Late night
+
+### Marouch
+
+$$
+
+4905 Santa Monica Blvd
+
+A family-run Lebanese and Armenian restaurant in Little Armenia.
+
+**Order:** A spread of mezze including muhammara and sujuk.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Marouch+4905+Santa+Monica+Blvd+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Dinner
+
+### Saffy's
+
+$$$
+
+4845 Fountain Ave
+
+A wood-fired Middle Eastern kebab house from the team behind Bavel and Bestia.
+
+**Order:** Hummus, then a big kebab platter for the table.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Saffy%27s+4845+Fountain+Ave+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Dinner Date night
+
+### Found Oyster
+
+$$$
+
+4880 Fountain Ave
+
+A small, buzzing raw bar with excellent oysters.
+
+**Order:** Oysters, the crab dip and the big seafood platter.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Found+Oyster+4880+Fountain+Ave+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Seafood Date night Dinner
+
+### Ètra
+
+$$$
+
+737 N Western Ave
+
+A candlelit Italian room with a focus on grilled meats.
+
+**Order:** The salt-and-pepper New York strip.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=%C3%88tra+737+N+Western+Ave+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Date night Dinner
+
+### Flavors From Afar
+
+$$
+
+5652 Hollywood Blvd
+
+Rotating dinners cooked by refugee and immigrant chefs, often with live jazz.
+
+**Order:** Check the schedule and go for a themed dinner night.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Flavors+From+Afar+5652+Hollywood+Blvd+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Dinner
+
+Drink
+
+### Nightlife
+
+### Budonoki
+
+$$
+
+654 N Virgil Ave
+
+A lively izakaya with shochu cocktails and shareable plates.
+
+**Order:** Thai sausage and the wagyu yakisoba.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Budonoki+654+N+Virgil+Ave+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Cocktail bars & lounges Dinner
+
+### Bar Etoile
+
+$$
+
+632 N Western Ave
+
+A cozy French wine bar with a short, satisfying menu.
+
+**Order:** Steak frites and the gruyere tart.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Etoile+632+N+Western+Ave+East+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+
+Wine bars Cocktail bars & lounges Date night
+
+### Real Charmer
+
+$$
+
+864 N Virgil Ave
+
+A stylish little cocktail bar in Virgil Village with a smoking patio.
+
+**Order:** A house cocktail; Mondays bring a tiki menu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Real+Charmer+864+N+Virgil+Ave+East+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=East+Hollywood+Los+Angeles+CA)
+
+Cocktail bars & lounges Late night
+
+Sources
+
+- [The Infatuation: East Hollywood](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-east-hollywood-thai-town)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=East+Hollywood+Los+Angeles+CA)
 
 Living here
 

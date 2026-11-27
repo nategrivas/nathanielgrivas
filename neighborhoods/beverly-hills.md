@@ -1,4 +1,4 @@
-# Living in Beverly Hills, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Beverly Hills, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/beverly-hills
 
@@ -52,25 +52,526 @@ From above
 
 What's my home worth? Get Beverly Hills listings
 
+Local LA
+
+## Where to eat, drink and go in Beverly Hills
+
+See them on the map →
+
+Beverly Hills does the classics well: power-lunch rooms, old Hollywood martinis, serious omakase and some of the best sandwiches in LA. Between meals there are mansions, gardens and galleries within a few blocks of Rodeo.
+
+33 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### Nate 'n Al Delicatessen
+
+$$
+
+414 N Beverly Dr
+
+A classic deli with an eclectic, very Beverly Hills crowd.
+
+**Order:** Bagel and lox, stuffed cabbage and matzah ball soup.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nate+%27n+Al+Delicatessen+414+N+Beverly+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Breakfast Lunch
+
+### Faregrounds
+
+$$
+
+459 N Roxbury Dr
+
+A bright corner cafe that has become the Beverly Hills breakfast burrito spot. The kitchen cooks without seed oils, and the matcha menu is as big a draw as the coffee.
+
+**Order:** The Faregrounds breakfast burrito with a strawberry matcha. Open weekdays from 7 a.m.; closed on weekends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Faregrounds+459+N+Roxbury+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Love Beverly Hills](https://lovebeverlyhills.com/restaurants/view/faregrounds) [Atly](https://www.atly.com/united-states/california/beverly-hills/best-breakfast)
+
+Breakfast Coffee Healthy & plant-based
+
+### Fountain Coffee Room at the Beverly Hills Hotel
+
+$$$
+
+9641 Sunset Blvd
+
+A pink, 1949 soda-fountain counter inside the Beverly Hills Hotel with about 20 stools and breakfast served all day. It is walk-in only, so you sit at the counter and watch the room.
+
+**Order:** Silver dollar pancakes and a milkshake. Daily, 7 a.m. to 4 p.m.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fountain+Coffee+Room+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Dorchester Collection](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/fountain-coffee-room) [Time Out](https://timeout.com/los-angeles/restaurants/fountain-coffee-room)
+
+Breakfast Landmarks & sights
+
+### THE Blvd at the Beverly Wilshire
+
+$$$$
+
+9500 Wilshire Blvd
+
+The Beverly Wilshire's street-level dining room, looking straight down Rodeo Drive. A polished Four Seasons breakfast and a classic spot for a morning meeting.
+
+**Order:** A window table at the start of the day, then a walk up Rodeo.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=THE+Blvd+at+the+Beverly+Wilshire+9500+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/cuisine/best-breakfast-restaurants-beverly-hills-ca)
+
+Breakfast Brunch
+
+Eat
+
+### Lunch & casual
+
+### The Cheese Store of Beverly Hills
+
+$$
+
+9705 S Santa Monica Blvd
+
+A fromagerie open for more than 50 years that makes some of the best deli sandwiches in LA.
+
+**Order:** La Zucca or The Dom.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Cheese+Store+of+Beverly+Hills+9705+S+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Lunch Markets
+
+### Lorenzo California
+
+$$
+
+9529 Santa Monica Blvd
+
+Giant Italian focaccia sandwiches for a fast lunch. Seating is a small sidewalk area.
+
+**Order:** The prosciutto focaccia.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lorenzo+California+9529+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Lunch
+
+### Dr. Sandwich
+
+$
+
+9113 W Olympic Blvd
+
+A kosher Israeli counter with big portions and real value for Beverly Hills.
+
+**Order:** A plate with shawarma, schnitzel or falafel.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dr.+Sandwich+9113+W+Olympic+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Lunch Cheap eats
+
+### Kazan
+
+$$
+
+111 N La Cienega Blvd
+
+An upscale soba shop with chewy house-made noodles and a rich broth.
+
+**Order:** The #1 bowl.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kazan+111+N+La+Cienega+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Lunch Sushi & Japanese
+
+### The Grill on the Alley
+
+$$$
+
+9560 Dayton Way
+
+A showbiz power-lunch classic known for polished, professional service.
+
+**Order:** Chicken piccata, the chopped salad and brownie à la mode.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Grill+on+the+Alley+9560+Dayton+Way+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Lunch Dinner
+
+**Love Beverly Hills? Live here.** Get new Beverly Hills listings, including off-market ones, or a free value on your Beverly Hills home.
+
+What's my home worth? Get Beverly Hills listings
+
+Eat
+
+### Dinner
+
+### Spago
+
+$$$$
+
+176 N Canon Dr
+
+The iconic LA dining room, with attentive service and a big-night feel.
+
+**Order:** Smoked salmon pizza and spicy tuna cones.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Spago+176+N+Canon+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Dinner Date night
+
+### Funke
+
+$$$$
+
+9388 S Santa Monica Blvd
+
+A three-level pasta palace with reliably excellent handmade pasta. The rooftop bar is walk-in only.
+
+**Order:** Any flour-and-egg pasta and a tomato martini. Reservations drop 7 days out at 9am.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Funke+9388+S+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills) [Time Out](https://www.timeout.com/los-angeles/restaurants/rodeo-drive-restaurants)
+
+Dinner Date night Rooftops & views
+
+### La Dolce Vita
+
+$$$
+
+9785 S Santa Monica Blvd
+
+An old Hollywood red-sauce room with strong martinis and real glamour.
+
+**Order:** Bone-in veal parm, tableside Caesar and a martini.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Dolce+Vita+9785+S+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Dinner Date night Cocktail bars & lounges
+
+### South Beverly Grill
+
+$$$
+
+122 S Beverly Dr
+
+A grand, people-watching room that makes an ordinary dinner feel ritzy. Weekend waits can hit two hours.
+
+**Order:** Barbecue ribs, spinach-artichoke dip or the French dip.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=South+Beverly+Grill+122+S+Beverly+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Dinner
+
+### Il Pastaio
+
+$$$
+
+400 N Canon Dr
+
+A neighborhood-style Italian that suits big family and friend groups.
+
+**Order:** Pappardelle, tuna carpaccio and ossobuco.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Il+Pastaio+400+N+Canon+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Dinner
+
+### Marea
+
+$$$$
+
+430 N Camden Dr
+
+Seafood-focused Italian that's consistently good and sometimes great, in a big room full of business dinners.
+
+**Order:** Lobster and burrata, and the octopus and bone marrow fusilli.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Marea+430+N+Camden+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Seafood Dinner
+
+### Matū
+
+$$$
+
+239 S Beverly Dr
+
+A wagyu prix fixe that's real value for premium beef, at $87 for five courses.
+
+**Order:** The five-course menu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mat%C5%AB+239+S+Beverly+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Dinner
+
+### Lawry's The Prime Rib
+
+$$$
+
+100 N La Cienega Blvd
+
+A Beverly Hills rite of passage since long before the chain spread.
+
+**Order:** Prime rib and the spinning salad.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lawry%27s+The+Prime+Rib+100+N+La+Cienega+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Dinner Kids & family
+
+### Matsuhisa
+
+$$$$
+
+129 N La Cienega Blvd
+
+Nobu Matsuhisa's original, home of the yellowtail jalapeño, served without pretension.
+
+**Order:** The omakase, or the signature dishes.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Matsuhisa+129+N+La+Cienega+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills) [Time Out](https://www.timeout.com/los-angeles/restaurants/rodeo-drive-restaurants)
+
+Sushi & Japanese Dinner
+
+### Sushi Note Omakase
+
+$$$$
+
+421 N Rodeo Dr
+
+A hidden four-seat counter that critics say makes the best nigiri in Beverly Hills.
+
+**Order:** The 20-course omakase, about $220.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sushi+Note+Omakase+421+N+Rodeo+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Sushi & Japanese Date night
+
+### Nozawa Bar
+
+$$$$
+
+212 N Canon Dr
+
+An omakase room tucked behind Sugarfish, with two 10-person seatings a night.
+
+**Order:** The 22-course omakase. Arrive on time and don't ask for changes.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nozawa+Bar+212+N+Canon+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Sushi & Japanese Date night
+
+Drink
+
+### Nightlife
+
+### Polo Lounge at the Beverly Hills Hotel
+
+$$$$
+
+9641 Sunset Blvd
+
+The pink hotel's famous lounge, worth a visit even if you aren't staying.
+
+**Order:** A drink or brunch on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Cocktail bars & lounges Brunch Landmarks & sights
+
+### The Rooftop at the Waldorf Astoria
+
+$$$$
+
+9850 Wilshire Blvd
+
+A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
+
+**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+
+Rooftops & views Cocktail bars & lounges Date night
+
+### Blue Collar
+
+$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 2.3 mi · 361 S Fairfax Ave
+
+A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
+
+**Order:** Tell them a spirit and a flavor you like.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+Do
+
+### Culture & shows
+
+### Spadena House
+
+Free
+
+516 Walden Dr
+
+The storybook 1921 'Witch's House.' You can't go in, but it's worth the detour.
+
+**Do:** Busiest around Halloween.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Spadena+House+516+Walden+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Landmarks & sights
+
+### Gagosian
+
+Free
+
+456 N Camden Dr
+
+Exhibitions from major contemporary artists in a gallery a block off Rodeo.
+
+**Do:** Check what's showing before you go.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Gagosian+456+N+Camden+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Art & galleries
+
+### UTA Artist Space
+
+Free
+
+403 Foothill Rd
+
+A gallery for emerging artists in a space designed by Ai Weiwei.
+
+**Do:** Pair it with the Wallis next door.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=UTA+Artist+Space+403+Foothill+Rd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Art & galleries
+
+### The Wallis
+
+$$
+
+9390 N Santa Monica Blvd
+
+A performing arts center in a converted 1933 post office, booking everything from jazz to comedy.
+
+**Do:** Check the Goldsmith Theater lineup.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Wallis+9390+N+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Comedy & theater Live music
+
+Do
+
+### Parks & outdoors
+
+### Beverly Gardens Park
+
+Free
+
+Santa Monica Blvd near Canon Dr
+
+A long, tree-lined park with the Beverly Hills sign everyone photographs.
+
+**Do:** The Beverly Hills Art Show runs here in May and October.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Santa+Monica+Blvd+near+Canon+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Parks Landmarks & sights
+
+### Greystone Mansion
+
+Free
+
+905 Loma Vista Dr
+
+A 55-room Tudor estate whose gardens and grounds are free to walk.
+
+**Do:** The interior opens only for events and tours.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Greystone+Mansion+905+Loma+Vista+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Parks Landmarks & sights
+
+### Virginia Robinson Gardens
+
+$$
+
+1008 Elden Way
+
+A lavish 1911 estate with formal gardens and a mansion.
+
+**Do:** Docent-led tours only, booked in advance.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Virginia+Robinson+Gardens+1008+Elden+Way+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Parks Landmarks & sights
+
+Do
+
+### Shops, markets & spas
+
+### Rodeo Drive
+
+$$$$
+
+Rodeo Dr
+
+The luxury shopping street, including Two Rodeo and Anderson Court.
+
+**Do:** Window-shop, then lunch at The Cheese Store a few blocks over.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Rodeo+Drive+Rodeo+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Shopping Landmarks & sights
+
+### Westfield Century City
+
+$$
+
+Next door in [Century City](https://www.nathanielgrivas.com/neighborhoods/century-city) · 1.4 mi · 10250 Santa Monica Blvd
+
+A big open-air mall with a movie theater, a food hall and Eataly's multi-level Italian market.
+
+**Do:** Go on a weekday; weekend parking gets slow.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Westfield+Century+City+10250+Santa+Monica+Blvd+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+
+Shopping Movies Markets
+
+### Original Farmers Market
+
+$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 2.3 mi · 6333 W 3rd St
+
+LA's historic open-air market of food stalls and grocers, open since 1934.
+
+**Do:** Graze: laksa, Brazilian barbecue, oysters and a pie.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Original+Farmers+Market+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Markets Landmarks & sights Lunch
+
+Sources
+
+- [The Infatuation: Best restaurants in Beverly Hills](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+- [Time Out: Things to do in Beverly Hills](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+- [Time Out: Restaurants near Rodeo Drive](https://www.timeout.com/los-angeles/restaurants/rodeo-drive-restaurants)
+- [Love Beverly Hills: Faregrounds](https://lovebeverlyhills.com/restaurants/view/faregrounds)
+- [Atly: Best breakfast in Beverly Hills](https://www.atly.com/united-states/california/beverly-hills/best-breakfast)
+- [Dorchester Collection: The Fountain Coffee Room](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/fountain-coffee-room)
+- [Time Out: Fountain Coffee Room](https://timeout.com/los-angeles/restaurants/fountain-coffee-room)
+- [OpenTable: Best breakfast restaurants in Beverly Hills](https://www.opentable.com/cuisine/best-breakfast-restaurants-beverly-hills-ca)
+- [The Rooftop Guide: The Rooftop at Waldorf Astoria](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html)
+- [The Infatuation: The best hotel bars in LA](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+
 Photos
 
 ## Beverly Hills in pictures
-
-## Around Beverly Hills
-
-[The full Beverly Hills guide: 26 places →](https://www.nathanielgrivas.com/guide/beverly-hills)
-
-[Nate 'n Al In Beverly Hills Deli on Beverly Drive since 1945.](https://www.google.com/maps/search/?api=1&query=Nate+%27n+Al+Beverly+Hills+CA) [Spago In Beverly Hills Wolfgang Puck's flagship on Canon Drive.](https://www.google.com/maps/search/?api=1&query=Spago+Beverly+Hills+CA) [The Polo Lounge In Beverly Hills Inside the Beverly Hills Hotel.](https://www.google.com/maps/search/?api=1&query=The+Polo+Lounge+Beverly+Hills+CA) [Matsuhisa In Beverly Hills Nobu Matsuhisa's original on La Cienega.](https://www.google.com/maps/search/?api=1&query=Matsuhisa+Beverly+Hills+CA) [Dan Tana's West Hollywood · under 1 mi Red-sauce Italian next to the Troubadour since 1964.](https://www.google.com/maps/search/?api=1&query=Dan+Tana%27s+West+Hollywood+CA) [The Ivy Beverly Grove · under 1 mi The white picket patio on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Ivy+Beverly+Grove+CA)
-
-[The Abbey West Hollywood · 1 mi The anchor of the Rainbow District on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Abbey+West+Hollywood+CA) [Delilah West Hollywood · 2.5 mi Supper club with live music.](https://www.google.com/maps/search/?api=1&query=Delilah+West+Hollywood+CA) [Tom Bergin's Miracle Mile · 2.5 mi Irish pub on Fairfax since 1936.](https://www.google.com/maps/search/?api=1&query=Tom+Bergin%27s+Miracle+Mile+CA) [Chateau Marmont West Hollywood · 2.5 mi The hotel bar on the Sunset Strip.](https://www.google.com/maps/search/?api=1&query=Chateau+Marmont+West+Hollywood+CA)
-
-[Los Angeles Country Club Holmby Hills · 1 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Hillcrest Country Club Cheviot Hills · 1.5 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Rancho Park Golf Course Cheviot Hills · 2.5 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Bel-Air Country Club Bel Air · 2.5 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA) [Wilshire Country Club Hancock Park · 4.5 mi Private club in Hancock Park.](https://www.google.com/maps/search/?api=1&query=Wilshire+Country+Club+Hancock+Park+CA) [Brentwood Country Club Brentwood · 4.5 mi Private club in Brentwood.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Club+Brentwood+CA)
-
-[AMC Century City 15 Century City · 1.5 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA) [Brain Dead Studios Fairfax · 2.5 mi Indie screenings in the old Silent Movie Theatre.](https://www.google.com/maps/search/?api=1&query=Brain+Dead+Studios+Fairfax+CA) [Academy Museum theaters Miracle Mile · 2.5 mi Film series inside the Academy Museum.](https://www.google.com/maps/search/?api=1&query=Academy+Museum+theaters+Miracle+Mile+CA) [Regency Village Theatre Westwood · 3 mi The 1931 tower theatre and its premieres.](https://www.google.com/maps/search/?api=1&query=Regency+Village+Theatre+Westwood+CA) [New Beverly Cinema Beverly Grove · 3 mi Quentin Tarantino's repertory house on Beverly.](https://www.google.com/maps/search/?api=1&query=New+Beverly+Cinema+Beverly+Grove+CA) [Laemmle Royal West LA · 3.5 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA)
-
-[The Wallis In Beverly Hills Theater and dance in the old post office.](https://www.google.com/maps/search/?api=1&query=The+Wallis+Beverly+Hills+CA) [Saban Theatre In Beverly Hills Art deco theater on Wilshire.](https://www.google.com/maps/search/?api=1&query=Saban+Theatre+Beverly+Hills+CA) [The Troubadour West Hollywood · under 1 mi Club where Elton John made his U.S. debut.](https://www.google.com/maps/search/?api=1&query=The+Troubadour+West+Hollywood+CA) [The Roxy West Hollywood · 1.5 mi Sunset Strip club since 1973.](https://www.google.com/maps/search/?api=1&query=The+Roxy+West+Hollywood+CA) [Largo at the Coronet Beverly Grove · 1.5 mi Comedy and music on La Cienega.](https://www.google.com/maps/search/?api=1&query=Largo+at+the+Coronet+Beverly+Grove+CA) [Whisky a Go Go West Hollywood · 1.5 mi Sunset Strip rock club since 1964.](https://www.google.com/maps/search/?api=1&query=Whisky+a+Go+Go+West+Hollywood+CA)
-
-[Beverly Gardens Park In Beverly Hills Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA) [Roxbury Park In Beverly Hills Playgrounds, courts and lawn.](https://www.google.com/maps/search/?api=1&query=Roxbury+Park+Beverly+Hills+CA) [Greystone Mansion & Gardens In Beverly Hills Estate gardens open to the public.](https://www.google.com/maps/search/?api=1&query=Greystone+Mansion+%26+Gardens+Beverly+Hills+CA) [Holmby Park Holmby Hills · 1.5 mi Lawn bowling and a pitch-and-putt.](https://www.google.com/maps/search/?api=1&query=Holmby+Park+Holmby+Hills+CA) [Cheviot Hills Recreation Center Cheviot Hills · 2 mi Pool, tennis and fields.](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+Cheviot+Hills+CA) [Mathias Botanical Garden Westwood · 2.5 mi UCLA's free botanical garden.](https://www.google.com/maps/search/?api=1&query=Mathias+Botanical+Garden+Westwood+CA)
 
 Living here
 

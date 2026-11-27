@@ -23,7 +23,10 @@
     });
     map.attributionControl.setPrefix('<a href="https://leafletjs.com" target="_blank" rel="noopener">Leaflet</a>');
     map.fitBounds(group.getBounds(), { padding: [24, 24] });
-    const labels = () => el.classList.toggle('labels', map.getZoom() >= 11.5);
+    // Start one step closer than "fit everything" so the names are readable right away.
+    map.setZoom(map.getZoom() + 1, { animate: false });
+    const start = map.getZoom();
+    const labels = () => el.classList.toggle('labels', map.getZoom() >= Math.min(11.5, start));
     map.on('zoomend', labels); labels();
     el.addEventListener('click', () => map.scrollWheelZoom.enable(), { once: true });
     window.addEventListener('resize', () => map.invalidateSize());
@@ -57,7 +60,7 @@
         if (v) { if (!map.hasLayer(m)) m.addTo(map); shown.push(m.getLatLng()); } else if (map.hasLayer(m)) map.removeLayer(m);
       });
       if (shown.length && shown.length < pts.length) map.fitBounds(L.latLngBounds(shown), { padding: [40, 40], maxZoom: 14 });
-      else if (shown.length === pts.length) map.fitBounds(L.latLngBounds(pts.map((p) => [p.lat, p.lng])), { padding: [24, 24] });
+      else if (shown.length === pts.length) { map.fitBounds(L.latLngBounds(pts.map((p) => [p.lat, p.lng])), { padding: [24, 24] }); map.setZoom(start, { animate: false }); }
     }
     regBtns.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.region === st.region)));
     tagBtns.forEach((b) => b.setAttribute('aria-pressed', String(st.tags.has(b.dataset.tag))));

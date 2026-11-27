@@ -1,4 +1,4 @@
-# Living in Reseda, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Reseda, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/reseda
 
@@ -51,19 +51,66 @@ From above
 
 What's my home worth? Get Reseda listings
 
-## Around Reseda
+Local LA
 
-[The full Reseda guide: 3 places →](https://www.nathanielgrivas.com/guide/reseda)
+## Where to eat, drink and go in Reseda
 
-[The Village at Westfield Topanga Woodland Hills · 4 mi Outdoor dining and shops in Warner Center.](https://www.google.com/maps/search/?api=1&query=The+Village+at+Westfield+Topanga+Woodland+Hills+CA)
+See them on the map →
 
-[Encino & Balboa Golf Courses Encino · 3 mi Two public 18-hole courses in the Sepulveda Basin.](https://www.google.com/maps/search/?api=1&query=Encino+%26+Balboa+Golf+Courses+Encino+CA) [El Caballero Country Club Tarzana · 3 mi Private club in Tarzana.](https://www.google.com/maps/search/?api=1&query=El+Caballero+Country+Club+Tarzana+CA) [Woodley Lakes Golf Course Van Nuys · 3.5 mi Public 18 holes in the Sepulveda Basin.](https://www.google.com/maps/search/?api=1&query=Woodley+Lakes+Golf+Course+Van+Nuys+CA) [Braemar Country Club Tarzana · 4 mi Private club in the Tarzana hills.](https://www.google.com/maps/search/?api=1&query=Braemar+Country+Club+Tarzana+CA) [Woodland Hills Country Club Woodland Hills · 5 mi Private club in Woodland Hills.](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+Country+Club+Woodland+Hills+CA)
+Reseda sits in the heart of the west Valley along Sherman Way and Reseda Boulevard, with some of the Valley's best family-run Vietnamese and Lebanese cooking in its strip malls.
 
-[Regal Sherman Oaks Galleria Sherman Oaks · 5 mi IMAX and 4DX at the Galleria.](https://www.google.com/maps/search/?api=1&query=Regal+Sherman+Oaks+Galleria+Sherman+Oaks+CA) [Laemmle NoHo 7 North Hollywood · 9.5 mi Seven screens in the Arts District.](https://www.google.com/maps/search/?api=1&query=Laemmle+NoHo+7+North+Hollywood+CA)
+3 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Skirball Cultural Center Brentwood · 6.5 mi Museum and hands-on exhibits off the 405.](https://www.google.com/maps/search/?api=1&query=Skirball+Cultural+Center+Brentwood+CA) [Getty Center Brentwood · 9 mi Art, gardens and the view. Free entry, paid parking.](https://www.google.com/maps/search/?api=1&query=Getty+Center+Brentwood+CA) [El Portal Theatre North Hollywood · 9.5 mi Live theater on Lankershim.](https://www.google.com/maps/search/?api=1&query=El+Portal+Theatre+North+Hollywood+CA)
+Eat
 
-[Reseda Park In Reseda Lake, fields and the rec center.](https://www.google.com/maps/search/?api=1&query=Reseda+Park+Reseda+CA) [Lake Balboa Van Nuys · 2.5 mi Lake loop and cherry blossoms in spring.](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Van+Nuys+CA) [Los Encinos State Historic Park Encino · 3.5 mi Spring-fed pond and 1800s buildings.](https://www.google.com/maps/search/?api=1&query=Los+Encinos+State+Historic+Park+Encino+CA)
+### Restaurants
+
+### Khuu Bistro
+
+$
+
+18845 Sherman Way
+
+A tiny spot serving Northern and Southern Vietnamese specialties you rarely see in the Valley.
+
+**Order:** Banh xeo, egg rolls and the dill fish.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Khuu+Bistro+18845+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+
+Lunch Dinner Cheap eats
+
+### Vinh Loi
+
+$$
+
+18625 Sherman Way, #101
+
+A beloved vegan Vietnamese restaurant with bold flavors and owners who will happily order for you.
+
+**Order:** The lemongrass banh mi and the peanut soup, or ask Kevin to pick.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Vinh+Loi+18625+Sherman+Way%2C+%23101+Reseda+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+
+Dinner Lunch Healthy & plant-based
+
+### Monaia Mediterranean Cuisine
+
+$$
+
+19642 Sherman Way
+
+A warm, family-run Lebanese restaurant with generous portions and very fresh food.
+
+**Order:** Makanek sausage, the mixed grill and baklava to finish.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Monaia+Mediterranean+Cuisine+19642+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+
+Dinner Lunch
+
+Sources
+
+- [The Infatuation: San Fernando Valley](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
 Track record
 

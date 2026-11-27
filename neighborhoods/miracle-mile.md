@@ -1,4 +1,4 @@
-# Living in Miracle Mile, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Miracle Mile, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/miracle-mile
 
@@ -51,25 +51,304 @@ From above
 
 What's my home worth? Get Miracle Mile listings
 
+Local LA
+
+## Where to eat, drink and go in Miracle Mile
+
+See them on the map →
+
+Miracle Mile is the stretch of Wilshire Boulevard between La Brea and Fairfax known as Museum Row, home to LACMA, the Academy Museum, the Petersen and the La Brea Tar Pits, with Art Deco buildings along Wilshire and a strong run of restaurants on La Brea.
+
+18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### Savor
+
+$$
+
+5657 Wilshire Blvd, Suite 150
+
+A family-owned cafe with good espresso drinks, sandwiches and a small sidewalk patio.
+
+**Order:** The house cold brew and the pesto turkey sandwich.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Savor+5657+Wilshire+Blvd%2C+Suite+150+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Coffee Lunch
+
+### République
+
+$$$
+
+624 S La Brea Ave
+
+Walter and Margarita Manzke's French bakery and restaurant in a landmark 1920s building, packed for brunch and a dressier room at dinner.
+
+**Order:** Pastries from the case at brunch. Go early on weekends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=R%C3%A9publique+624+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Brunch Breakfast Bakeries & dessert
+
+### Met Her At A Bar
+
+$$
+
+759 S La Brea Ave
+
+A small, busy brunch cafe best known for its waffles.
+
+**Order:** Chilaquiles or a loaded waffle.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Met+Her+At+A+Bar+759+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Brunch Breakfast
+
+Eat
+
+### Lunch & casual
+
+### Andre's
+
+$
+
+5400 Wilshire Blvd
+
+A cafeteria-style Italian spot that has fed LA since the 1960s, now in a new home on Wilshire.
+
+**Order:** Spaghetti and meatballs; the large feeds two.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Andre%27s+5400+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Lunch Cheap eats Dinner
+
+### Yuko Kitchen
+
+$$
+
+5484 Wilshire Blvd
+
+An order-at-the-counter Japanese rice bowl spot in a plant-filled space.
+
+**Order:** A salmon rice bowl.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Yuko+Kitchen+5484+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Lunch Cheap eats
+
+### Singapore's Banana Leaf
+
+$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 6333 W 3rd St
+
+A Farmers Market stall for Singaporean and Indonesian dishes.
+
+**Order:** Laksa, beef rendang and roti paratha.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Singapore%27s+Banana+Leaf+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Lunch Cheap eats
+
+**Love Miracle Mile? Live here.** Get new Miracle Mile listings, including off-market ones, or a free value on your Miracle Mile home.
+
+What's my home worth? Get Miracle Mile listings
+
+Eat
+
+### Dinner
+
+### Angelini Osteria
+
+$$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 7313 Beverly Blvd
+
+A quarter-century-old Italian institution.
+
+**Order:** Sea urchin linguine and the veal shank agnolotti.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Angelini+Osteria+7313+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Dinner Date night
+
+### El Coyote
+
+$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 7312 Beverly Blvd
+
+A huge, festive Mexican landmark where the margaritas are the main event.
+
+**Order:** A house margarita with a big group.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Coyote+7312+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Dinner Tacos & Mexican Cocktail bars & lounges
+
+### Genghis Cohen
+
+$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 448 N Fairfax Ave
+
+A kitschy Chinese-American spot made for groups, with a small music room.
+
+**Order:** Kung pao shrimp and lo mein.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Genghis+Cohen+448+N+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Dinner Live music
+
+Drink
+
+### Nightlife
+
+### Blue Collar
+
+$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 361 S Fairfax Ave
+
+A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
+
+**Order:** Tell them a spirit and a flavor you like.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+### Cold Shoulder
+
+$$$
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 359 S Fairfax Ave
+
+A moody speakeasy across from The Grove with elaborate cocktails.
+
+**Order:** A cocktail from the spirits menu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+### The Abbey
+
+$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.9 mi · 692 N Robertson Blvd
+
+West Hollywood's most famous bar, and one of the best known LGBTQ+ bars in the world. Several rooms, dancing at night and the neighborhood's best drag brunch.
+
+**Order:** Weekend drag brunch. Expect lines on weekend nights.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Abbey+692+N+Robertson+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/gay-la-best-gay-bars-and-clubs-in-los-angeles) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+
+Cocktail bars & lounges Brunch Landmarks & sights
+
+Do
+
+### Culture & shows
+
+### LACMA
+
+$$
+
+5905 Wilshire Blvd
+
+LA's biggest art museum, with the new David Geffen Galleries inside and Chris Burden's Urban Light lampposts out front.
+
+**Do:** Urban Light at dusk, then the galleries.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=LACMA+5905+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Museums Art & galleries Landmarks & sights
+
+### Academy Museum of Motion Pictures
+
+$$
+
+6067 Wilshire Blvd
+
+Floors of film history and rotating exhibits, plus screenings and a terrace that looks toward the Hollywood Hills.
+
+**Do:** Check the screening calendar before you go.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Academy+Museum+of+Motion+Pictures+6067+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Museums Movies
+
+### Petersen Automotive Museum
+
+$$
+
+6060 Wilshire Blvd
+
+One of the world's great car museums, behind its famous ribbon-wrapped facade.
+
+**Do:** Add the basement Vault tour.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum+6060+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Museums Kids & family
+
+Do
+
+### Parks & outdoors
+
+### La Brea Tar Pits
+
+Free
+
+5801 Wilshire Blvd
+
+Ice Age asphalt seeps and active excavation sites in the park. The museum building is closed for renovation until about 2028, but much of the park stays open.
+
+**Do:** Walk to the Lake Pit and look for the tar bubbling up.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+5801+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [La Brea Tar Pits](https://tarpits.org/last-chance) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
+Parks Landmarks & sights Kids & family
+
+### Pan Pacific Park
+
+Free
+
+Next door in [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · 1.0 mi · 7600 Beverly Blvd
+
+A big, shady park next to The Grove with lawns, walking paths and sports facilities.
+
+**Do:** A sunset walk, then dinner at the Farmers Market.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+7600+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Parks Dog-friendly Kids & family
+
+### West Hollywood Park
+
+Free
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.9 mi · 647 N San Vicente Blvd
+
+The city's main park, with a modern playground, courts, a dog park and the library next door.
+
+**Do:** Pickleball or tennis, then the library's rooftop views.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Park+647+N+San+Vicente+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+
+Parks Kids & family Dog-friendly
+
+Sources
+
+- [La Brea Tar Pits](https://tarpits.org/last-chance)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+
 Photos
 
 ## Miracle Mile in pictures
-
-## Around Miracle Mile
-
-[The full Miracle Mile guide: 9 places →](https://www.nathanielgrivas.com/guide/miracle-mile)
-
-[Republique In Miracle Mile Bakery by day, French dinner by night on La Brea.](https://www.google.com/maps/search/?api=1&query=Republique+Miracle+Mile+CA) [Original Farmers Market Fairfax · under 1 mi Food stalls at Third and Fairfax since 1934.](https://www.google.com/maps/search/?api=1&query=Original+Farmers+Market+Fairfax+CA) [Canter's Deli Fairfax · 1 mi 24-hour deli on Fairfax since 1931.](https://www.google.com/maps/search/?api=1&query=Canter%27s+Deli+Fairfax+CA) [Jon & Vinny's Fairfax · 1 mi Pizza and pasta on Fairfax.](https://www.google.com/maps/search/?api=1&query=Jon+%26+Vinny%27s+Fairfax+CA) [Joan's on Third Beverly Grove · 1 mi Market and cafe on Third Street.](https://www.google.com/maps/search/?api=1&query=Joan%27s+on+Third+Beverly+Grove+CA) [Matsuhisa Beverly Hills · 1.5 mi Nobu Matsuhisa's original on La Cienega.](https://www.google.com/maps/search/?api=1&query=Matsuhisa+Beverly+Hills+CA)
-
-[Tom Bergin's In Miracle Mile Irish pub on Fairfax since 1936.](https://www.google.com/maps/search/?api=1&query=Tom+Bergin%27s+Miracle+Mile+CA) [Delilah West Hollywood · 2 mi Supper club with live music.](https://www.google.com/maps/search/?api=1&query=Delilah+West+Hollywood+CA) [The Abbey West Hollywood · 2.5 mi The anchor of the Rainbow District on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Abbey+West+Hollywood+CA)
-
-[Wilshire Country Club Hancock Park · 2 mi Private club in Hancock Park.](https://www.google.com/maps/search/?api=1&query=Wilshire+Country+Club+Hancock+Park+CA) [Hillcrest Country Club Cheviot Hills · 3.5 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Los Angeles Country Club Holmby Hills · 3.5 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Rancho Park Golf Course Cheviot Hills · 4 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA)
-
-[Academy Museum theaters In Miracle Mile Film series inside the Academy Museum.](https://www.google.com/maps/search/?api=1&query=Academy+Museum+theaters+Miracle+Mile+CA) [New Beverly Cinema Beverly Grove · 1 mi Quentin Tarantino's repertory house on Beverly.](https://www.google.com/maps/search/?api=1&query=New+Beverly+Cinema+Beverly+Grove+CA) [Brain Dead Studios Fairfax · 1.5 mi Indie screenings in the old Silent Movie Theatre.](https://www.google.com/maps/search/?api=1&query=Brain+Dead+Studios+Fairfax+CA) [Hollywood Forever Cemetery Hollywood · 2.5 mi Cinespia's summer movies on the lawn.](https://www.google.com/maps/search/?api=1&query=Hollywood+Forever+Cemetery+Hollywood+CA) [El Capitan Theatre Hollywood · 3 mi Restored 1926 movie palace on Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=El+Capitan+Theatre+Hollywood+CA) [TCL Chinese Theatre Hollywood · 3 mi IMAX premieres and the handprints out front.](https://www.google.com/maps/search/?api=1&query=TCL+Chinese+Theatre+Hollywood+CA)
-
-[La Brea Tar Pits In Miracle Mile Ice Age fossils still being dug up.](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+Miracle+Mile+CA) [El Rey Theatre In Miracle Mile Art deco concert hall on Wilshire.](https://www.google.com/maps/search/?api=1&query=El+Rey+Theatre+Miracle+Mile+CA) [LACMA In Miracle Mile Art museum and Urban Light on Wilshire.](https://www.google.com/maps/search/?api=1&query=LACMA+Miracle+Mile+CA) [Petersen Automotive Museum In Miracle Mile Car museum at Wilshire and Fairfax.](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum+Miracle+Mile+CA) [Saban Theatre Beverly Hills · 1.5 mi Art deco theater on Wilshire.](https://www.google.com/maps/search/?api=1&query=Saban+Theatre+Beverly+Hills+CA) [Largo at the Coronet Beverly Grove · 1.5 mi Comedy and music on La Cienega.](https://www.google.com/maps/search/?api=1&query=Largo+at+the+Coronet+Beverly+Grove+CA)
-
-[Pan Pacific Park Fairfax · under 1 mi Park and playground by The Grove.](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+Fairfax+CA) [Roxbury Park Beverly Hills · 3 mi Playgrounds, courts and lawn.](https://www.google.com/maps/search/?api=1&query=Roxbury+Park+Beverly+Hills+CA) [Runyon Canyon Park Hollywood Hills · 3 mi Short steep hike with a Hollywood view.](https://www.google.com/maps/search/?api=1&query=Runyon+Canyon+Park+Hollywood+Hills+CA) [Beverly Gardens Park Beverly Hills · 3 mi Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA) [Cheviot Hills Recreation Center Cheviot Hills · 3.5 mi Pool, tennis and fields.](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+Cheviot+Hills+CA) [Greystone Mansion & Gardens Beverly Hills · 3.5 mi Estate gardens open to the public.](https://www.google.com/maps/search/?api=1&query=Greystone+Mansion+%26+Gardens+Beverly+Hills+CA)
 
 Living here
 

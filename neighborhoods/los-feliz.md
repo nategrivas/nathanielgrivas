@@ -1,4 +1,4 @@
-# Living in Los Feliz, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Los Feliz, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/los-feliz
 
@@ -52,25 +52,568 @@ From above
 
 What's my home worth? Get Los Feliz listings
 
+Local LA
+
+## Where to eat, drink and go in Los Feliz
+
+See them on the map →
+
+Los Feliz sits at the foot of Griffith Park, with two walkable village streets, Hillhurst and Vermont, lined with cafes, old-school Italian spots, bookstores and a century-old movie palace. It's also the easiest way up to the Observatory and the Greek Theatre.
+
+36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### Maru Coffee
+
+$$
+
+1936 Hillhurst Ave
+
+A minimalist espresso bar that many coffee people rank among the best in LA. The line moves faster than it looks.
+
+**Order:** The cream top or a vanilla latte. It's small, so plan to take it to go.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Maru+Coffee+1936+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+
+Coffee
+
+### Handles Coffee
+
+$
+
+4459 Sunset Blvd
+
+A two-story cafe at the bottom of Los Feliz with strong, espresso-heavy drinks and a friendly counter.
+
+**Order:** The house flat white with sweet cream. Card only.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Handles+Coffee+4459+Sunset+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [Discover Los Angeles](https://www.discoverlosangeles.com/eat-drink/coffee-lovers-in-la) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+
+Coffee
+
+### Alcove Cafe and Bakery
+
+$$
+
+1929 Hillhurst Ave
+
+A pair of historic bungalows with a big shaded patio, and Los Feliz's go-to brunch for decades. Breakfast runs until 5pm.
+
+**Order:** Something from the pastry case and a breakfast plate on the patio. Valet helps with parking.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Alcove+Cafe+and+Bakery+1929+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+
+Breakfast Brunch Bakeries & dessert
+
+### Cafe Los Feliz
+
+$
+
+2118 Hillhurst Ave
+
+A neighborhood cafe and bakery with one of the most talked-about breakfast burritos on the Eastside.
+
+**Order:** The breakfast burrito with both salsas.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Los+Feliz+2118+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+
+Breakfast Bakeries & dessert Cheap eats
+
+### Los Feliz Cafe
+
+$$
+
+3207 Los Feliz Blvd
+
+A leafy patio cafe that overlooks the Los Feliz par-3 golf course. Calm and easy to park.
+
+**Order:** The breakfast burrito or salmon with poached eggs, then nine holes.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Cafe+3207+Los+Feliz+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+
+Breakfast Golf
+
+### Home Restaurant
+
+$$
+
+1760 Hillhurst Ave
+
+A big, friendly patio restaurant on Hillhurst that does everything from pancakes to burgers.
+
+**Order:** Banana walnut pancakes at brunch, or chicken and waffles.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Home+Restaurant+1760+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+
+Brunch Dinner
+
+### All Time
+
+$$$
+
+2040 Hillhurst Ave
+
+A mostly outdoor all-day spot built on seasonal produce. Breakfast is casual; dinner gets lively.
+
+**Order:** A breakfast burrito by day, the dry-aged steak and a leafy salad at night.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=All+Time+2040+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Brunch Dinner Lunch
+
+### Figaro Bistrot
+
+$$
+
+1802 N Vermont Ave
+
+A bustling Paris-style bistro with a huge brunch menu and a sidewalk made for lingering.
+
+**Order:** A ham and cheese crepe and a cafe au lait.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Figaro+Bistrot+1802+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Brunch Lunch Bakeries & dessert
+
+### HomeState
+
+$
+
+4624 Hollywood Blvd
+
+A Texas-style taco counter known for breakfast tacos on fresh flour tortillas.
+
+**Order:** Breakfast tacos and the Frito pie in a bag.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=HomeState+4624+Hollywood+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Breakfast Tacos & Mexican Cheap eats
+
+### House of Pies
+
+$
+
+1869 N Vermont Ave
+
+An old-school Vermont Avenue diner with pie all day.
+
+**Order:** Pancakes or chicken pot pie, then a slice of cream pie.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=House+of+Pies+1869+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Bakeries & dessert Breakfast Cheap eats
+
+Eat
+
+### Lunch & casual
+
+### Loupiotte Kitchen
+
+$$
+
+1726 N Vermont Ave
+
+A charming French sidewalk cafe on Vermont.
+
+**Order:** The creamy polenta with a fried egg.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Loupiotte+Kitchen+1726+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz)
+
+Lunch Brunch
+
+### Goldburger
+
+$
+
+1820 N Vermont Ave
+
+One of LA's best smashburgers, right next to the Los Feliz 3 for a post-movie bite.
+
+**Order:** The California Classic.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Goldburger+1820+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Lunch Cheap eats
+
+### Yuca's
+
+$
+
+2056 Hillhurst Ave
+
+A tiny roadside stand that's been feeding the neighborhood for about 50 years and won a James Beard award.
+
+**Order:** Cochinita pibil tacos and the cheeseburger.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Yuca%27s+2056+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Tacos & Mexican Cheap eats Lunch
+
+### Best Fish Taco in Ensenada
+
+$
+
+1650 Hillhurst Ave
+
+A short menu of fish, shrimp and potato tacos on a thatched patio. Fast, cheap and reliable.
+
+**Order:** Fish tacos and a trip to the salsa bar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Best+Fish+Taco+in+Ensenada+1650+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Tacos & Mexican Seafood Cheap eats
+
+### Old Gold Tomato Pies
+
+$
+
+4681 Hollywood Blvd
+
+Thick, square slices for about five dollars.
+
+**Order:** The classic tomato pie.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Old+Gold+Tomato+Pies+4681+Hollywood+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz)
+
+Pizza Cheap eats
+
+**Love Los Feliz? Live here.** Get new Los Feliz listings, including off-market ones, or a free value on your Los Feliz home.
+
+What's my home worth? Get Los Feliz listings
+
+Eat
+
+### Dinner
+
+### Little Dom's
+
+$$
+
+2128 Hillhurst Ave
+
+A time-capsule Italian room that works from breakfast to a late dinner.
+
+**Order:** Ricotta pancakes in the morning; clams casino and the hanger steak at night.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Little+Dom%27s+2128+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Dinner Brunch Date night
+
+### Wilde's
+
+$$$
+
+1850 Hillhurst Ave
+
+A candlelit British restaurant that's become the hardest table in the neighborhood.
+
+**Order:** Bangers and mash with a natural wine. Book well ahead.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Wilde%27s+1850+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz)
+
+Dinner Date night
+
+### Kismet
+
+$$$
+
+4648 Hollywood Blvd
+
+Bright Middle Eastern cooking that still sets the bar for dinner in Los Feliz.
+
+**Order:** Spicy pickles, the cauliflower and the crispy rice.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kismet+4648+Hollywood+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Dinner Healthy & plant-based
+
+### Mírate
+
+$$$
+
+1712 N Vermont Ave
+
+A stunning multi-level Mexican courtyard where the cocktails are the main event.
+
+**Order:** A mezcal cocktail and the tacos arabes.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=M%C3%ADrate+1712+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Dinner Cocktail bars & lounges Date night
+
+### La Pergoletta
+
+$$
+
+1802 Hillhurst Ave
+
+A cozy, affordable red-sauce pasta standby.
+
+**Order:** The arrabbiata or the bolognese.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Pergoletta+1802+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz)
+
+Dinner Cheap eats
+
+### Sōgo Roll Bar
+
+$$
+
+4634 Hollywood Blvd
+
+A hand roll counter for a quick, creative sushi lunch.
+
+**Order:** A set of three to six rolls.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=S%C5%8Dgo+Roll+Bar+4634+Hollywood+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Sushi & Japanese Lunch
+
+Drink
+
+### Nightlife
+
+### Vandell
+
+$$
+
+1966 Hillhurst Ave
+
+A retro cocktail bar with a strong drink list and bistro snacks.
+
+**Order:** A Negroni made with vintage Campari.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Vandell+1966+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz)
+
+Cocktail bars & lounges
+
+### Bar Covell
+
+$$
+
+4628 Hollywood Blvd
+
+A friendly wine bar where the staff pours by your taste instead of a long list.
+
+**Order:** Tell them what you like and add tinned fish.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Covell+4628+Hollywood+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Discover Los Angeles](https://www.discoverlosangeles.com/visit/hidden-gems-in-los-feliz)
+
+Wine bars
+
+### The Dresden
+
+$$
+
+1760 N Vermont Ave
+
+A classic lounge and steakhouse with old-school cocktails and live music.
+
+**Order:** A martini in the lounge during the live set.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Dresden+1760+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+
+Cocktail bars & lounges Live music Dinner
+
+Do
+
+### Culture & shows
+
+### Griffith Observatory
+
+Free
+
+2800 E Observatory Rd
+
+LA's Art Deco hilltop observatory, with free astronomy exhibits, a planetarium and the city's best sunset view.
+
+**Do:** Walk up the two-mile trail instead of driving, then stay for sunset and a planetarium show.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Griffith+Observatory+2800+E+Observatory+Rd+Los+Feliz+Los+Angeles+CA) Sources: [Culture Trip](https://theculturetrip.com/north-america/usa/california/articles/the-top-10-things-to-do-and-see-in-los-feliz) [Discover Los Angeles](https://www.discoverlosangeles.com/visit/hidden-gems-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-los-feliz)
+
+Landmarks & sights Museums Hikes & nature
+
+### Greek Theatre
+
+$$$
+
+2700 N Vermont Ave
+
+A 1929 open-air amphitheater in a canyon, and one of the best places in LA to see a summer show.
+
+**Do:** Walk or rideshare. The stacked parking can take longer than the concert.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Greek+Theatre+2700+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-griffith-park) [Discover Los Angeles](https://www.discoverlosangeles.com/visit/hidden-gems-in-los-feliz) [Culture Trip](https://theculturetrip.com/north-america/usa/california/articles/the-top-10-things-to-do-and-see-in-los-feliz)
+
+Live music
+
+### Vista Theatre
+
+$$
+
+4473 Sunset Dr
+
+A century-old single-screen movie palace with an Egyptian interior. Every other row was removed, so there's real legroom.
+
+**Do:** A matinee with real butter on the popcorn.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Vista+Theatre+4473+Sunset+Dr+Los+Feliz+Los+Angeles+CA) Sources: [Discover Los Angeles](https://www.discoverlosangeles.com/visit/hidden-gems-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-los-feliz)
+
+Movies Landmarks & sights
+
+### Los Feliz 3
+
+$
+
+1822 N Vermont Ave
+
+The neighborhood's other historic cinema, smaller and cheaper than the Vista.
+
+**Do:** A movie, then Goldburger next door.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Los+Feliz+3+1822+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-los-feliz) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz)
+
+Movies
+
+### Barnsdall Art Park and Hollyhock House
+
+$
+
+4800 Hollywood Blvd
+
+A hilltop park around Frank Lloyd Wright's Hollyhock House, with summer wine tastings and outdoor movies.
+
+**Do:** Tour the house, then catch the sunset from the lawn.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Barnsdall+Art+Park+and+Hollyhock+House+4800+Hollywood+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-los-feliz)
+
+Landmarks & sights Art & galleries Parks
+
+### Autry Museum of the American West
+
+$$
+
+4700 Western Heritage Way
+
+A big museum of the American West inside Griffith Park.
+
+**Do:** Pair it with a Griffith Park picnic.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Autry+Museum+of+the+American+West+4700+Western+Heritage+Way+Los+Feliz+Los+Angeles+CA) Sources: [Culture Trip](https://theculturetrip.com/north-america/usa/california/articles/the-top-10-things-to-do-and-see-in-los-feliz)
+
+Museums Kids & family
+
+Do
+
+### Parks & outdoors
+
+### Griffith Park
+
+Free
+
+Vermont Ave entrance
+
+More than 4,000 acres of trails, canyons and picnic lawns right behind the neighborhood.
+
+**Do:** A morning hike from the Vermont side, then brunch on Hillhurst.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Griffith+Park+Vermont+Ave+entrance+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-los-feliz) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-griffith-park)
+
+Parks Hikes & nature Kids & family
+
+### Berendo Stairs
+
+Free
+
+N Berendo St
+
+A historic public staircase that gives you a real workout on the way toward Griffith Park.
+
+**Do:** Do a few laps early in the morning.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Berendo+Stairs+N+Berendo+St+Los+Feliz+Los+Angeles+CA) Sources: [Discover Los Angeles](https://www.discoverlosangeles.com/visit/hidden-gems-in-los-feliz)
+
+Hikes & nature Fitness & outdoor sports
+
+### Silver Lake Reservoir
+
+Free
+
+Next door in [Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake) · 1.7 mi · Silver Lake Blvd
+
+The neighborhood's centerpiece: a loop for running, a meadow for picnics and room for dogs.
+
+**Do:** Walk the loop, then eat on the Silver Lake Blvd strip just south.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Silver+Lake+Reservoir+Silver+Lake+Blvd+Silver+Lake+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/silver-lake-guide)
+
+Parks Fitness & outdoor sports Dog-friendly
+
+Do
+
+### Shops, markets & spas
+
+### Skylight Books
+
+Free
+
+1818 N Vermont Ave
+
+A beloved independent bookstore with great staff picks, author readings and an art book annex next door.
+
+**Do:** Check the readings calendar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Skylight+Books+1818+N+Vermont+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Foursquare](https://lv.foursquare.com/FoursquareGuide/list/explore-los-feliz-los-angeles) [Discover Los Angeles](https://www.discoverlosangeles.com/visit/hidden-gems-in-los-feliz)
+
+Shopping
+
+### Wacko and La Luz de Jesus Gallery
+
+Free
+
+4633 Hollywood Blvd
+
+A pop-culture oddities shop that gets stranger the deeper you go, with a lowbrow art gallery in back.
+
+**Do:** Browse the gallery's current show.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Wacko+and+La+Luz+de+Jesus+Gallery+4633+Hollywood+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [SilverKris](https://silverkris.singaporeair.com/experience/travel-tips/neighbourhood-spotlight-los-feliz-los-angeles/)
+
+Shopping Art & galleries
+
+### Travel Town
+
+Free
+
+5200 Zoo Dr
+
+A free outdoor railroad museum in Griffith Park where kids can climb on real trains.
+
+**Do:** Weekend morning with little kids.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Travel+Town+5200+Zoo+Dr+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-griffith-park)
+
+Kids & family Parks
+
+Sources
+
+- [The Infatuation: Where to eat and drink in Los Feliz](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-los-feliz)
+- [Time Out: Best Los Feliz restaurants](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants)
+- [Time Out: Best things to do in Los Feliz](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-los-feliz)
+- [Time Out: Guide to Griffith Park](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-griffith-park)
+- [Discover Los Angeles: Hidden gems in Los Feliz](https://www.discoverlosangeles.com/visit/hidden-gems-in-los-feliz)
+- [Discover Los Angeles: Coffee lovers in LA](https://www.discoverlosangeles.com/eat-drink/coffee-lovers-in-la)
+- [Culture Trip: Top things to do in Los Feliz](https://theculturetrip.com/north-america/usa/california/articles/the-top-10-things-to-do-and-see-in-los-feliz)
+- [Foursquare: Explore Los Feliz](https://lv.foursquare.com/FoursquareGuide/list/explore-los-feliz-los-angeles)
+- [SilverKris: Los Feliz neighborhood spotlight](https://silverkris.singaporeair.com/experience/travel-tips/neighbourhood-spotlight-los-feliz-los-angeles/)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+
 Photos
 
 ## Los Feliz in pictures
-
-## Around Los Feliz
-
-[The full Los Feliz guide: 36 places →](https://www.nathanielgrivas.com/guide/los-feliz)
-
-[Yuca's In Los Feliz Tiny taco stand on Hillhurst.](https://www.google.com/maps/search/?api=1&query=Yuca%27s+Los+Feliz+CA) [Little Dom's In Los Feliz Italian-American on Hillhurst.](https://www.google.com/maps/search/?api=1&query=Little+Dom%27s+Los+Feliz+CA) [Figaro Bistrot In Los Feliz French bistro on Vermont.](https://www.google.com/maps/search/?api=1&query=Figaro+Bistrot+Los+Feliz+CA) [Sapp Coffee Shop East Hollywood · under 1 mi Thai boat noodles on Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=Sapp+Coffee+Shop+East+Hollywood+CA) [Zankou Chicken East Hollywood · under 1 mi Garlic sauce rotisserie chicken, the Sunset original.](https://www.google.com/maps/search/?api=1&query=Zankou+Chicken+East+Hollywood+CA) [Jitlada East Hollywood · 1 mi Southern Thai in Thai Town.](https://www.google.com/maps/search/?api=1&query=Jitlada+East+Hollywood+CA)
-
-[Ye Rustic Inn In Los Feliz Neighborhood dive with wings on Hillhurst.](https://www.google.com/maps/search/?api=1&query=Ye+Rustic+Inn+Los+Feliz+CA) [Tiki-Ti In Los Feliz Twelve-stool tiki bar on Sunset since 1961.](https://www.google.com/maps/search/?api=1&query=Tiki-Ti+Los+Feliz+CA) [Akbar Silver Lake · under 1 mi Bar and dance floor on Sunset.](https://www.google.com/maps/search/?api=1&query=Akbar+Silver+Lake+CA) [Cha Cha Lounge Silver Lake · 2 mi Tijuana-themed dive with foosball.](https://www.google.com/maps/search/?api=1&query=Cha+Cha+Lounge+Silver+Lake+CA) [Thirsty Crow Silver Lake · 2 mi Whiskey bar on Sunset.](https://www.google.com/maps/search/?api=1&query=Thirsty+Crow+Silver+Lake+CA) [Good Times at Davey Wayne's Hollywood · 2 mi 1970s backyard party through a fridge door.](https://www.google.com/maps/search/?api=1&query=Good+Times+at+Davey+Wayne%27s+Hollywood+CA)
-
-[Los Feliz Golf Course In Los Feliz Public par-3 on Los Feliz Boulevard.](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Golf+Course+Los+Feliz+CA) [Roosevelt Golf Course Griffith Park · 1 mi Public nine holes below the Greek Theatre.](https://www.google.com/maps/search/?api=1&query=Roosevelt+Golf+Course+Griffith+Park+CA) [Griffith Park: Wilson & Harding Griffith Park · 2.5 mi Two public 18-hole courses.](https://www.google.com/maps/search/?api=1&query=Griffith+Park%3A+Wilson+%26+Harding+Griffith+Park+CA) [Wilshire Country Club Hancock Park · 3 mi Private club in Hancock Park.](https://www.google.com/maps/search/?api=1&query=Wilshire+Country+Club+Hancock+Park+CA) [Lakeside Golf Club Toluca Lake · 4.5 mi Private club by the studios.](https://www.google.com/maps/search/?api=1&query=Lakeside+Golf+Club+Toluca+Lake+CA)
-
-[Hollywood Forever Cemetery Hollywood · 2 mi Cinespia's summer movies on the lawn.](https://www.google.com/maps/search/?api=1&query=Hollywood+Forever+Cemetery+Hollywood+CA) [Egyptian Theatre Hollywood · 3 mi 1922 movie palace for classics and premieres.](https://www.google.com/maps/search/?api=1&query=Egyptian+Theatre+Hollywood+CA) [El Capitan Theatre Hollywood · 3 mi Restored 1926 movie palace on Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=El+Capitan+Theatre+Hollywood+CA) [TCL Chinese Theatre Hollywood · 3 mi IMAX premieres and the handprints out front.](https://www.google.com/maps/search/?api=1&query=TCL+Chinese+Theatre+Hollywood+CA) [New Beverly Cinema Beverly Grove · 4 mi Quentin Tarantino's repertory house on Beverly.](https://www.google.com/maps/search/?api=1&query=New+Beverly+Cinema+Beverly+Grove+CA)
-
-[Greek Theatre In Los Feliz Open-air concerts in Griffith Park.](https://www.google.com/maps/search/?api=1&query=Greek+Theatre+Los+Feliz+CA) [Griffith Observatory In Los Feliz Free telescopes and the best city view.](https://www.google.com/maps/search/?api=1&query=Griffith+Observatory+Los+Feliz+CA) [Hollyhock House East Hollywood · under 1 mi Frank Lloyd Wright house in Barnsdall Art Park.](https://www.google.com/maps/search/?api=1&query=Hollyhock+House+East+Hollywood+CA) [Hollywood Pantages Theatre Hollywood · 2 mi Broadway tours in a 1930 art deco palace.](https://www.google.com/maps/search/?api=1&query=Hollywood+Pantages+Theatre+Hollywood+CA) [Hollywood Palladium Hollywood · 2 mi Concert hall on Sunset.](https://www.google.com/maps/search/?api=1&query=Hollywood+Palladium+Hollywood+CA) [The Fonda Theatre Hollywood · 2.5 mi Mid-size concerts and a rooftop bar.](https://www.google.com/maps/search/?api=1&query=The+Fonda+Theatre+Hollywood+CA)
-
-[Fern Dell Griffith Park · 1 mi Shady creek trail up to the Observatory.](https://www.google.com/maps/search/?api=1&query=Fern+Dell+Griffith+Park+CA) [Silver Lake Reservoir & Meadow Silver Lake · 1.5 mi Loop walk around the reservoir.](https://www.google.com/maps/search/?api=1&query=Silver+Lake+Reservoir+%26+Meadow+Silver+Lake+CA) [Bronson Caves Griffith Park · 2 mi The Batcave from the 1960s TV show.](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+Griffith+Park+CA) [Lake Hollywood Park Hollywood Hills · 3 mi Lawn below the Hollywood sign.](https://www.google.com/maps/search/?api=1&query=Lake+Hollywood+Park+Hollywood+Hills+CA) [Hollywood Reservoir loop Hollywood Hills · 3 mi Flat paved loop around the reservoir.](https://www.google.com/maps/search/?api=1&query=Hollywood+Reservoir+loop+Hollywood+Hills+CA) [Echo Park Lake Echo Park · 3 mi Paddle boats and the lotus bed.](https://www.google.com/maps/search/?api=1&query=Echo+Park+Lake+Echo+Park+CA)
 
 Track record
 

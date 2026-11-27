@@ -104,34 +104,6 @@
    ]
   },
   {
-   "n": "The Harbor Room",
-   "c": [
-    "dive",
-    "bars"
-   ],
-   "a": "195 Culver Blvd",
-   "p": "$",
-   "w": "A cash-only locals' bar often called the smallest bar in LA County. There's an ATM inside.",
-   "o": "A cheap, strong drink at the bar.",
-   "s": [
-    "gm"
-   ]
-  },
-  {
-   "n": "Mo's Place",
-   "c": [
-    "sports",
-    "bars"
-   ],
-   "a": "203 Culver Blvd",
-   "p": "$$",
-   "w": "The neighborhood sports bar, with plenty of TVs and live bands some nights.",
-   "o": "Fish and chips during the game.",
-   "s": [
-    "gm"
-   ]
-  },
-  {
    "n": "Dockweiler State Beach",
    "c": [
     "beach",

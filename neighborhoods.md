@@ -1,4 +1,4 @@
-# Explore 40 Los Angeles Neighborhoods | Satellite Map | Nathaniel Grivas
+# Local LA: Best Restaurants, Bars & Things to Do in 40 LA Neighborhoods | Nathaniel Grivas
 
 Source page: https://www.nathanielgrivas.com/neighborhoods
 
@@ -6,11 +6,11 @@ Source page: https://www.nathanielgrivas.com/neighborhoods
 
 Text Call
 
-Explore LA
+Local LA
 
-# 40 neighborhoods, coast to Valley
+# 40 neighborhoods and the places locals actually go
 
-Real satellite imagery, photos, where to eat, the rules and who each area fits.
+Tap any neighborhood for its map of hand-picked restaurants, bars and things to do, plus the homes, the rules and who it fits.
 
 ###
 

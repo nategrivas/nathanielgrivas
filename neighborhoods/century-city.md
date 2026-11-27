@@ -1,4 +1,4 @@
-# Living in Century City, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Century City, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/century-city
 
@@ -51,25 +51,258 @@ From above
 
 What's my home worth? Get Century City listings
 
+Local LA
+
+## Where to eat, drink and go in Century City
+
+See them on the map →
+
+Century City is the Westside's office and shopping district, built on former 20th Century Fox backlot land between Beverly Hills and West LA. Most of the eating and entertainment centers on Westfield Century City and the towers along Avenue of the Stars.
+
+15 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### Clementine
+
+$$
+
+1751 Ensley Ave
+
+A neighborhood bakery cafe with pastries, sandwiches and a small patio off Santa Monica Boulevard.
+
+**Order:** A pastry and coffee, or a sandwich at lunch.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Clementine+1751+Ensley+Ave+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+
+Breakfast Bakeries & dessert Lunch
+
+### John O' Groats
+
+$$
+
+Next door in [Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills) · 1.4 mi · 10516 W Pico Blvd
+
+A longtime neighborhood breakfast spot known for its biscuits and big pancakes.
+
+**Order:** Pancakes or eggs with a side of biscuits.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=John+O%27+Groats+10516+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+
+Breakfast Brunch
+
+### FOOD
+
+$$
+
+Next door in [Cheviot Hills & Rancho Park](https://www.nathanielgrivas.com/neighborhoods/cheviot-hills) · 1.4 mi · 10571 W Pico Blvd
+
+A friendly neighborhood cafe with an all-day menu and plenty of healthy options.
+
+**Order:** The pancakes, or the Thai steak salad at lunch.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=FOOD+10571+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+
+Breakfast Lunch Healthy & plant-based
+
+Eat
+
+### Lunch & casual
+
+### Bar Verde
+
+$$
+
+Nordstrom, Westfield Century City
+
+Nordstrom's in-store restaurant and bar, an easy sit-down break while shopping.
+
+**Order:** Lunch and a glass of wine mid-shopping.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Verde+Nordstrom%2C+Westfield+Century+City+Century+City+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://www.opentable.com/lists/top-picks-century-city-restaurants-los-angeles)
+
+Lunch
+
+### The Cheese Store of Beverly Hills
+
+$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9705 S Santa Monica Blvd
+
+A fromagerie open for more than 50 years that makes some of the best deli sandwiches in LA.
+
+**Order:** La Zucca or The Dom.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Cheese+Store+of+Beverly+Hills+9705+S+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Lunch Markets
+
+### Lorenzo California
+
+$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9529 Santa Monica Blvd
+
+Giant Italian focaccia sandwiches for a fast lunch. Seating is a small sidewalk area.
+
+**Order:** The prosciutto focaccia.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lorenzo+California+9529+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Lunch
+
+**Love Century City? Live here.** Get new Century City listings, including off-market ones, or a free value on your Century City home.
+
+What's my home worth? Get Century City listings
+
+Eat
+
+### Dinner
+
+### Javier's
+
+$$$
+
+10250 Santa Monica Blvd (Westfield Century City)
+
+An upscale Mexican restaurant with a lively bar.
+
+**Order:** Crab enchiladas and a margarita.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Javier%27s+10250+Santa+Monica+Blvd+%28Westfield+Century+City%29+Century+City+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://www.opentable.com/lists/top-picks-century-city-restaurants-los-angeles)
+
+Dinner Cocktail bars & lounges
+
+### Toscanova
+
+$$$
+
+10250 Santa Monica Blvd (Westfield Century City)
+
+A Tuscan trattoria from chef Agostino Sciandri.
+
+**Order:** Fresh pasta and a glass of Italian red.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Toscanova+10250+Santa+Monica+Blvd+%28Westfield+Century+City%29+Century+City+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://www.opentable.com/lists/top-picks-century-city-restaurants-los-angeles)
+
+Dinner Lunch
+
+### Hinoki & the Bird
+
+$$$
+
+10 W Century Dr
+
+A Japanese-influenced California restaurant tucked under a residential tower, with a leafy patio.
+
+**Order:** The black cod and a cocktail on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hinoki+%26+the+Bird+10+W+Century+Dr+Century+City+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://www.opentable.com/lists/top-picks-century-city-restaurants-los-angeles) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+
+Date night Dinner Lunch
+
+Drink
+
+### Nightlife
+
+### Polo Lounge at the Beverly Hills Hotel
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9641 Sunset Blvd
+
+The pink hotel's famous lounge, worth a visit even if you aren't staying.
+
+**Order:** A drink or brunch on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Cocktail bars & lounges Brunch Landmarks & sights
+
+### The Rooftop at the Waldorf Astoria
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · 9850 Wilshire Blvd
+
+A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
+
+**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+
+Rooftops & views Cocktail bars & lounges Date night
+
+### Lost and Found Cocktails
+
+$$
+
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 2.0 mi · 11700 National Blvd
+
+A classy cocktail lounge with a small dance floor and local DJs on weekends.
+
+**Order:** A smoked old fashioned. Open Wednesday through Saturday.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+
+Cocktail bars & lounges Late night
+
+Do
+
+### Shops, markets & spas
+
+### Westfield Century City
+
+$$
+
+10250 Santa Monica Blvd
+
+A big open-air mall with a movie theater, a food hall and Eataly's multi-level Italian market.
+
+**Do:** Go on a weekday; weekend parking gets slow.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Westfield+Century+City+10250+Santa+Monica+Blvd+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+
+Shopping Movies Markets
+
+### Rodeo Drive
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 1.4 mi · Rodeo Dr
+
+The luxury shopping street, including Two Rodeo and Anderson Court.
+
+**Do:** Window-shop, then lunch at The Cheese Store a few blocks over.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Rodeo+Drive+Rodeo+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Shopping Landmarks & sights
+
+### Nijiya Market and Daiso
+
+$
+
+Next door in [West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la) · 2.0 mi · 2130 Sawtelle Blvd
+
+A Japanese grocery with good bento and sushi, next to the Daiso housewares store.
+
+**Do:** A bento and a can of royal milk tea.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nijiya+Market+and+Daiso+2130+Sawtelle+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants) [Discover Los Angeles](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
+
+Markets Shopping
+
+Sources
+
+- [OpenTable diner reviews: Century City](https://www.opentable.com/lists/top-picks-century-city-restaurants-los-angeles)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+
 Photos
 
 ## Century City in pictures
-
-## Around Century City
-
-[The full Century City guide: 6 places →](https://www.nathanielgrivas.com/guide/century-city)
-
-[Eataly LA In Century City Italian market and restaurants at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=Eataly+LA+Century+City+CA) [The Apple Pan Rancho Park · 1 mi Counter-only burgers and pie on Pico since 1947.](https://www.google.com/maps/search/?api=1&query=The+Apple+Pan+Rancho+Park+CA) [Spago Beverly Hills · 1 mi Wolfgang Puck's flagship on Canon Drive.](https://www.google.com/maps/search/?api=1&query=Spago+Beverly+Hills+CA) [Nate 'n Al Beverly Hills · 1 mi Deli on Beverly Drive since 1945.](https://www.google.com/maps/search/?api=1&query=Nate+%27n+Al+Beverly+Hills+CA) [Shamshiri Grill Westwood · 1.5 mi Persian kebabs in Persian Square.](https://www.google.com/maps/search/?api=1&query=Shamshiri+Grill+Westwood+CA) [The Polo Lounge Beverly Hills · 1.5 mi Inside the Beverly Hills Hotel.](https://www.google.com/maps/search/?api=1&query=The+Polo+Lounge+Beverly+Hills+CA)
-
-[The Abbey West Hollywood · 2.5 mi The anchor of the Rainbow District on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Abbey+West+Hollywood+CA) [The Culver Hotel Culver City · 2.5 mi Lobby bar with live jazz in the 1924 flatiron.](https://www.google.com/maps/search/?api=1&query=The+Culver+Hotel+Culver+City+CA) [Tom Bergin's Miracle Mile · 3 mi Irish pub on Fairfax since 1936.](https://www.google.com/maps/search/?api=1&query=Tom+Bergin%27s+Miracle+Mile+CA)
-
-[Hillcrest Country Club Cheviot Hills · under 1 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Los Angeles Country Club Holmby Hills · under 1 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Rancho Park Golf Course Cheviot Hills · under 1 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Bel-Air Country Club Bel Air · 2 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA) [Brentwood Country Club Brentwood · 3.5 mi Private club in Brentwood.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Club+Brentwood+CA) [Penmar Golf Course Venice · 4.5 mi Public nine-hole course on Rose Avenue.](https://www.google.com/maps/search/?api=1&query=Penmar+Golf+Course+Venice+CA)
-
-[AMC Century City 15 In Century City IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA) [Regency Village Theatre Westwood · 2 mi The 1931 tower theatre and its premieres.](https://www.google.com/maps/search/?api=1&query=Regency+Village+Theatre+Westwood+CA) [Laemmle Royal West LA · 2 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA) [Academy Museum theaters Miracle Mile · 3 mi Film series inside the Academy Museum.](https://www.google.com/maps/search/?api=1&query=Academy+Museum+theaters+Miracle+Mile+CA) [Brain Dead Studios Fairfax · 3.5 mi Indie screenings in the old Silent Movie Theatre.](https://www.google.com/maps/search/?api=1&query=Brain+Dead+Studios+Fairfax+CA)
-
-[The Wallis Beverly Hills · 1 mi Theater and dance in the old post office.](https://www.google.com/maps/search/?api=1&query=The+Wallis+Beverly+Hills+CA) [Hammer Museum Westwood · 1.5 mi Free art museum on Wilshire.](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+Westwood+CA) [Geffen Playhouse Westwood · 1.5 mi Plays in Westwood Village.](https://www.google.com/maps/search/?api=1&query=Geffen+Playhouse+Westwood+CA) [Royce Hall Westwood · 2 mi Concerts and talks at UCLA.](https://www.google.com/maps/search/?api=1&query=Royce+Hall+Westwood+CA) [The Troubadour West Hollywood · 2.5 mi Club where Elton John made his U.S. debut.](https://www.google.com/maps/search/?api=1&query=The+Troubadour+West+Hollywood+CA) [Saban Theatre Beverly Hills · 2.5 mi Art deco theater on Wilshire.](https://www.google.com/maps/search/?api=1&query=Saban+Theatre+Beverly+Hills+CA)
-
-[Roxbury Park Beverly Hills · under 1 mi Playgrounds, courts and lawn.](https://www.google.com/maps/search/?api=1&query=Roxbury+Park+Beverly+Hills+CA) [Cheviot Hills Recreation Center Cheviot Hills · 1 mi Pool, tennis and fields.](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+Cheviot+Hills+CA) [Beverly Gardens Park Beverly Hills · 1 mi Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA) [Holmby Park Holmby Hills · 1 mi Lawn bowling and a pitch-and-putt.](https://www.google.com/maps/search/?api=1&query=Holmby+Park+Holmby+Hills+CA) [Mathias Botanical Garden Westwood · 1.5 mi UCLA's free botanical garden.](https://www.google.com/maps/search/?api=1&query=Mathias+Botanical+Garden+Westwood+CA) [Greystone Mansion & Gardens Beverly Hills · 2.5 mi Estate gardens open to the public.](https://www.google.com/maps/search/?api=1&query=Greystone+Mansion+%26+Gardens+Beverly+Hills+CA)
 
 Living here
 

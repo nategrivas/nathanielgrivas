@@ -1,4 +1,4 @@
-# Living in Fairfax District, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Fairfax District, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/fairfax
 
@@ -51,25 +51,376 @@ From above
 
 What's my home worth? Get Fairfax District listings
 
+Local LA
+
+## Where to eat, drink and go in Fairfax District
+
+See them on the map →
+
+The Fairfax District runs from the Original Farmers Market and The Grove up Fairfax Avenue, LA's classic deli and streetwear strip, to Melrose. It's walkable, busy at all hours and home to some of the city's most famous food stalls.
+
+23 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### Be Bright Coffee
+
+$$
+
+7311 Melrose Ave
+
+A competition-level specialty roaster with single-origin pour-overs and tasting flights.
+
+**Order:** A fruity pour-over or the espresso and cortado flight.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Be+Bright+Coffee+7311+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Coffee
+
+### Flowin Cafe
+
+$
+
+7201 Melrose Ave
+
+A calm Melrose cafe with plenty of seating and outlets, good for getting work done.
+
+**Order:** A cream-top latte and a croissant.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Flowin+Cafe+7201+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Coffee
+
+### Neighborhood
+
+$
+
+Next door in [Beverly Grove](https://www.nathanielgrivas.com/neighborhoods/beverly-grove) · 0.9 mi · 8151 W 3rd St
+
+A small specialty coffee shop with a walk-up window, outdoor seating and its own parking.
+
+**Order:** An iced Americano or a seasonal latte with a cinnamon roll.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Neighborhood+8151+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+
+Coffee
+
+Eat
+
+### Lunch & casual
+
+### Singapore's Banana Leaf
+
+$
+
+6333 W 3rd St
+
+A Farmers Market stall for Singaporean and Indonesian dishes.
+
+**Order:** Laksa, beef rendang and roti paratha.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Singapore%27s+Banana+Leaf+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Lunch Cheap eats
+
+### Monsieur Marcel Bistro
+
+$$
+
+6333 W 3rd St
+
+A French bistro and gourmet market inside the Farmers Market.
+
+**Order:** Oysters, steak frites or quiche lorraine.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Monsieur+Marcel+Bistro+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Lunch Seafood Wine bars
+
+### Pampas Grill
+
+$
+
+6333 W 3rd St
+
+A pay-by-weight Brazilian buffet with weekend lines.
+
+**Order:** Grilled meats and the catfish moqueca.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pampas+Grill+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Lunch Cheap eats
+
+### Noodle Art
+
+$
+
+6333 W 3rd St
+
+A tiny Farmers Market counter for very good hand-pulled noodles.
+
+**Order:** Whatever noodles are being pulled that day.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Noodle+Art+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Lunch Cheap eats
+
+### Canter's Deli
+
+$$
+
+419 N Fairfax Ave
+
+The classic Fairfax deli, open late with great people-watching.
+
+**Order:** Pastrami on rye and a black and white cookie.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Canter%27s+Deli+419+N+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Lunch Late night
+
+### Jon and Vinny's Fairfax
+
+$$
+
+412 N Fairfax Ave
+
+The original all-day Italian American spot from the Animal team.
+
+**Order:** The breakfast BLT, meatballs or spicy fusilli.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Jon+and+Vinny%27s+Fairfax+412+N+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Pizza Breakfast Dinner
+
+**Love Fairfax District? Live here.** Get new Fairfax District listings, including off-market ones, or a free value on your Fairfax District home.
+
+What's my home worth? Get Fairfax District listings
+
+Eat
+
+### Dinner
+
+### Angelini Osteria
+
+$$$
+
+7313 Beverly Blvd
+
+A quarter-century-old Italian institution.
+
+**Order:** Sea urchin linguine and the veal shank agnolotti.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Angelini+Osteria+7313+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Dinner Date night
+
+### El Coyote
+
+$$
+
+7312 Beverly Blvd
+
+A huge, festive Mexican landmark where the margaritas are the main event.
+
+**Order:** A house margarita with a big group.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Coyote+7312+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Dinner Tacos & Mexican Cocktail bars & lounges
+
+### Genghis Cohen
+
+$$
+
+448 N Fairfax Ave
+
+A kitschy Chinese-American spot made for groups, with a small music room.
+
+**Order:** Kung pao shrimp and lo mein.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Genghis+Cohen+448+N+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Dinner Live music
+
+### Badmaash
+
+$$
+
+418 N Fairfax Ave
+
+Fun, untraditional Indian food.
+
+**Order:** Chicken tikka poutine and chili cheese naan.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Badmaash+418+N+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Dinner Lunch
+
+### Lucia
+
+$$$
+
+351 N Fairfax Ave
+
+A clubby Afro-Caribbean restaurant.
+
+**Order:** Wagyu patties and the Cuban-spiced strip with fufu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lucia+351+N+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+
+Dinner Date night
+
+Drink
+
+### Nightlife
+
+### Blue Collar
+
+$$
+
+361 S Fairfax Ave
+
+A dim, no-menu cocktail bar where the bartenders build a drink around your taste.
+
+**Order:** Tell them a spirit and a flavor you like.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+### Cold Shoulder
+
+$$$
+
+359 S Fairfax Ave
+
+A moody speakeasy across from The Grove with elaborate cocktails.
+
+**Order:** A cocktail from the spirits menu.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+### The Abbey
+
+$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 692 N Robertson Blvd
+
+West Hollywood's most famous bar, and one of the best known LGBTQ+ bars in the world. Several rooms, dancing at night and the neighborhood's best drag brunch.
+
+**Order:** Weekend drag brunch. Expect lines on weekend nights.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Abbey+692+N+Robertson+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/gay-la-best-gay-bars-and-clubs-in-los-angeles) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+
+Cocktail bars & lounges Brunch Landmarks & sights
+
+Do
+
+### Parks & outdoors
+
+### Pan Pacific Park
+
+Free
+
+7600 Beverly Blvd
+
+A big, shady park next to The Grove with lawns, walking paths and sports facilities.
+
+**Do:** A sunset walk, then dinner at the Farmers Market.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+7600+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
+Parks Dog-friendly Kids & family
+
+### West Hollywood Park
+
+Free
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 647 N San Vicente Blvd
+
+The city's main park, with a modern playground, courts, a dog park and the library next door.
+
+**Do:** Pickleball or tennis, then the library's rooftop views.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Park+647+N+San+Vicente+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+
+Parks Kids & family Dog-friendly
+
+### Plummer Park
+
+Free
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 7377 Santa Monica Blvd
+
+A busy neighborhood park with tennis and pickleball courts, a playground and free summer concerts.
+
+**Do:** Summer Sunday concerts.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Plummer+Park+7377+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/west-hollywood)
+
+Parks Kids & family Fitness & outdoor sports
+
+Do
+
+### Shops, markets & spas
+
+### Original Farmers Market
+
+$
+
+6333 W 3rd St
+
+LA's historic open-air market of food stalls and grocers, open since 1934.
+
+**Do:** Graze: laksa, Brazilian barbecue, oysters and a pie.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Original+Farmers+Market+6333+W+3rd+St+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove) [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Markets Landmarks & sights Lunch
+
+### The Grove
+
+$$
+
+189 The Grove Dr
+
+An outdoor shopping village with a trolley, a fountain show and a movie theater, next to the Farmers Market.
+
+**Do:** Shop, catch a movie, then eat at the market.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Grove+189+The+Grove+Dr+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+
+Shopping Kids & family Movies
+
+### Book Soup
+
+Free
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.0 mi · 8818 Sunset Blvd
+
+An independent bookstore on the Strip with more than 60,000 titles.
+
+**Do:** Browse the film and art sections.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Book+Soup+8818+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+
+Shopping
+
+Sources
+
+- [The Infatuation: Best restaurants in Beverly Grove](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
+- [The Infatuation: Beverly Grove](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
+- [Time Out: Best coffee shops in West Hollywood](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+
 Photos
 
 ## Fairfax District in pictures
-
-## Around Fairfax District
-
-[The full Fairfax District guide: 18 places →](https://www.nathanielgrivas.com/guide/fairfax)
-
-[Canter's Deli Fairfax · under 1 mi 24-hour deli on Fairfax since 1931.](https://www.google.com/maps/search/?api=1&query=Canter%27s+Deli+Fairfax+CA) [Jon & Vinny's Fairfax · under 1 mi Pizza and pasta on Fairfax.](https://www.google.com/maps/search/?api=1&query=Jon+%26+Vinny%27s+Fairfax+CA) [Original Farmers Market Fairfax · under 1 mi Food stalls at Third and Fairfax since 1934.](https://www.google.com/maps/search/?api=1&query=Original+Farmers+Market+Fairfax+CA) [Joan's on Third Beverly Grove · under 1 mi Market and cafe on Third Street.](https://www.google.com/maps/search/?api=1&query=Joan%27s+on+Third+Beverly+Grove+CA) [Matsuhisa Beverly Hills · 1 mi Nobu Matsuhisa's original on La Cienega.](https://www.google.com/maps/search/?api=1&query=Matsuhisa+Beverly+Hills+CA) [Pink's Hot Dogs Hollywood · 1 mi Chili dogs on La Brea since 1939.](https://www.google.com/maps/search/?api=1&query=Pink%27s+Hot+Dogs+Hollywood+CA)
-
-[Delilah West Hollywood · 1 mi Supper club with live music.](https://www.google.com/maps/search/?api=1&query=Delilah+West+Hollywood+CA) [Tom Bergin's Miracle Mile · 1 mi Irish pub on Fairfax since 1936.](https://www.google.com/maps/search/?api=1&query=Tom+Bergin%27s+Miracle+Mile+CA) [The Abbey West Hollywood · 1.5 mi The anchor of the Rainbow District on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Abbey+West+Hollywood+CA) [Chateau Marmont West Hollywood · 1.5 mi The hotel bar on the Sunset Strip.](https://www.google.com/maps/search/?api=1&query=Chateau+Marmont+West+Hollywood+CA) [No Vacancy Hollywood · 2.5 mi Victorian house bar off Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=No+Vacancy+Hollywood+CA)
-
-[Wilshire Country Club Hancock Park · 2 mi Private club in Hancock Park.](https://www.google.com/maps/search/?api=1&query=Wilshire+Country+Club+Hancock+Park+CA) [Hillcrest Country Club Cheviot Hills · 3 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Los Angeles Country Club Holmby Hills · 3.5 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Rancho Park Golf Course Cheviot Hills · 4 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Bel-Air Country Club Bel Air · 5 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA) [Lakeside Golf Club Toluca Lake · 5 mi Private club by the studios.](https://www.google.com/maps/search/?api=1&query=Lakeside+Golf+Club+Toluca+Lake+CA)
-
-[Brain Dead Studios Fairfax · under 1 mi Indie screenings in the old Silent Movie Theatre.](https://www.google.com/maps/search/?api=1&query=Brain+Dead+Studios+Fairfax+CA) [Academy Museum theaters Miracle Mile · under 1 mi Film series inside the Academy Museum.](https://www.google.com/maps/search/?api=1&query=Academy+Museum+theaters+Miracle+Mile+CA) [New Beverly Cinema Beverly Grove · under 1 mi Quentin Tarantino's repertory house on Beverly.](https://www.google.com/maps/search/?api=1&query=New+Beverly+Cinema+Beverly+Grove+CA) [El Capitan Theatre Hollywood · 2 mi Restored 1926 movie palace on Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=El+Capitan+Theatre+Hollywood+CA) [TCL Chinese Theatre Hollywood · 2 mi IMAX premieres and the handprints out front.](https://www.google.com/maps/search/?api=1&query=TCL+Chinese+Theatre+Hollywood+CA) [Egyptian Theatre Hollywood · 2 mi 1922 movie palace for classics and premieres.](https://www.google.com/maps/search/?api=1&query=Egyptian+Theatre+Hollywood+CA)
-
-[LACMA Miracle Mile · under 1 mi Art museum and Urban Light on Wilshire.](https://www.google.com/maps/search/?api=1&query=LACMA+Miracle+Mile+CA) [La Brea Tar Pits Miracle Mile · under 1 mi Ice Age fossils still being dug up.](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+Miracle+Mile+CA) [Largo at the Coronet Beverly Grove · under 1 mi Comedy and music on La Cienega.](https://www.google.com/maps/search/?api=1&query=Largo+at+the+Coronet+Beverly+Grove+CA) [Petersen Automotive Museum Miracle Mile · under 1 mi Car museum at Wilshire and Fairfax.](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum+Miracle+Mile+CA) [Saban Theatre Beverly Hills · 1 mi Art deco theater on Wilshire.](https://www.google.com/maps/search/?api=1&query=Saban+Theatre+Beverly+Hills+CA) [El Rey Theatre Miracle Mile · 1 mi Art deco concert hall on Wilshire.](https://www.google.com/maps/search/?api=1&query=El+Rey+Theatre+Miracle+Mile+CA)
-
-[Pan Pacific Park Fairfax · under 1 mi Park and playground by The Grove.](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+Fairfax+CA) [Runyon Canyon Park Hollywood Hills · 2 mi Short steep hike with a Hollywood view.](https://www.google.com/maps/search/?api=1&query=Runyon+Canyon+Park+Hollywood+Hills+CA) [Greystone Mansion & Gardens Beverly Hills · 2.5 mi Estate gardens open to the public.](https://www.google.com/maps/search/?api=1&query=Greystone+Mansion+%26+Gardens+Beverly+Hills+CA) [Beverly Gardens Park Beverly Hills · 2.5 mi Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA) [Roxbury Park Beverly Hills · 2.5 mi Playgrounds, courts and lawn.](https://www.google.com/maps/search/?api=1&query=Roxbury+Park+Beverly+Hills+CA) [Cheviot Hills Recreation Center Cheviot Hills · 3.5 mi Pool, tennis and fields.](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+Cheviot+Hills+CA)
 
 Track record
 

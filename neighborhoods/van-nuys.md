@@ -1,4 +1,4 @@
-# Living in Van Nuys, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Van Nuys, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/van-nuys
 
@@ -51,21 +51,94 @@ From above
 
 What's my home worth? Get Van Nuys listings
 
-## Around Van Nuys
+Local LA
 
-[The full Van Nuys guide: 5 places →](https://www.nathanielgrivas.com/guide/van-nuys)
+## Where to eat, drink and go in Van Nuys
 
-[Casa Vega Sherman Oaks · 3.5 mi Red booths and margaritas on Ventura since 1956.](https://www.google.com/maps/search/?api=1&query=Casa+Vega+Sherman+Oaks+CA) [Art's Delicatessen Studio City · 4.5 mi Valley deli on Ventura Boulevard since 1957.](https://www.google.com/maps/search/?api=1&query=Art%27s+Delicatessen+Studio+City+CA) [Asanebo Studio City · 4.5 mi Sushi on Ventura Boulevard's sushi row.](https://www.google.com/maps/search/?api=1&query=Asanebo+Studio+City+CA)
+See them on the map →
 
-[The Federal Bar North Hollywood · 4.5 mi Bar in an old bank on Lankershim.](https://www.google.com/maps/search/?api=1&query=The+Federal+Bar+North+Hollywood+CA) [Laurel Tavern Studio City · 4.5 mi Craft beer bar on Ventura Boulevard.](https://www.google.com/maps/search/?api=1&query=Laurel+Tavern+Studio+City+CA) [Tiki No North Hollywood · 5.5 mi Tiki bar on Lankershim.](https://www.google.com/maps/search/?api=1&query=Tiki+No+North+Hollywood+CA)
+Van Nuys is the Valley's civic center, home to the Van Nuys Airport and the Sepulveda Basin, with Lake Balboa and the Japanese Garden among the best outdoor spots in the Valley and a long run of family-run restaurants along Victory, Vanowen and Van Nuys Boulevard.
 
-[Woodley Lakes Golf Course In Van Nuys Public 18 holes in the Sepulveda Basin.](https://www.google.com/maps/search/?api=1&query=Woodley+Lakes+Golf+Course+Van+Nuys+CA) [Encino & Balboa Golf Courses Encino · 3 mi Two public 18-hole courses in the Sepulveda Basin.](https://www.google.com/maps/search/?api=1&query=Encino+%26+Balboa+Golf+Courses+Encino+CA) [Studio City Golf & Tennis Studio City · 4 mi Public par-3, range and tennis on Whitsett.](https://www.google.com/maps/search/?api=1&query=Studio+City+Golf+%26+Tennis+Studio+City+CA)
+5 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Regal Sherman Oaks Galleria Sherman Oaks · 2.5 mi IMAX and 4DX at the Galleria.](https://www.google.com/maps/search/?api=1&query=Regal+Sherman+Oaks+Galleria+Sherman+Oaks+CA) [Laemmle NoHo 7 North Hollywood · 4.5 mi Seven screens in the Arts District.](https://www.google.com/maps/search/?api=1&query=Laemmle+NoHo+7+North+Hollywood+CA) [TCL Chinese Theatre Hollywood · 9 mi IMAX premieres and the handprints out front.](https://www.google.com/maps/search/?api=1&query=TCL+Chinese+Theatre+Hollywood+CA)
+Go
 
-[El Portal Theatre North Hollywood · 4.5 mi Live theater on Lankershim.](https://www.google.com/maps/search/?api=1&query=El+Portal+Theatre+North+Hollywood+CA) [Skirball Cultural Center Brentwood · 5 mi Museum and hands-on exhibits off the 405.](https://www.google.com/maps/search/?api=1&query=Skirball+Cultural+Center+Brentwood+CA) [The Baked Potato Studio City · 6 mi Jazz club on Cahuenga since 1970.](https://www.google.com/maps/search/?api=1&query=The+Baked+Potato+Studio+City+CA)
+### Restaurants & cafes
 
-[Sepulveda Basin Wildlife Reserve In Van Nuys Trails and birding along the LA River.](https://www.google.com/maps/search/?api=1&query=Sepulveda+Basin+Wildlife+Reserve+Van+Nuys+CA) [Lake Balboa In Van Nuys Lake loop and cherry blossoms in spring.](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Van+Nuys+CA) [Los Encinos State Historic Park Encino · 3.5 mi Spring-fed pond and 1800s buildings.](https://www.google.com/maps/search/?api=1&query=Los+Encinos+State+Historic+Park+Encino+CA)
+### Cemitas Don Adrian
+
+$
+
+14902 Victory Blvd
+
+A long-running Puebla-style torta shop in a small strip mall.
+
+**Order:** The breaded milanesa cemita.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cemitas+Don+Adrian+14902+Victory+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+
+Lunch Cheap eats
+
+### Ay Papa Que Rico
+
+$$
+
+7456 Van Nuys Blvd
+
+A Cuban-inspired spot built around charcoal-grilled chicken, with a pastry case and plenty of seating.
+
+**Order:** Half a chicken with black beans and yellow rice, or a Cubano.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ay+Papa+Que+Rico+7456+Van+Nuys+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+
+Lunch Dinner Cheap eats
+
+### The Smash Stand
+
+$
+
+16435 Vanowen St
+
+A tiny burger counter tucked beside a liquor store, turning out excellent smash burgers.
+
+**Order:** A double smash and the loaded fries.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Smash+Stand+16435+Vanowen+St+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+
+Cheap eats Lunch
+
+### Lake Balboa Park
+
+Free
+
+6300 Balboa Blvd
+
+A big park around a lake with a 1.3-mile loop path, paddle boats and plenty of birds.
+
+**Do:** Walk the loop in the morning; come in spring for the cherry blossoms.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Park+6300+Balboa+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+
+Parks Kids & family Dog-friendly
+
+### The Japanese Garden
+
+$
+
+6100 Woodley Ave
+
+A peaceful formal garden with waterfalls, koi ponds and a teahouse in the Sepulveda Basin. Entry is a few dollars.
+
+**Do:** Check the hours before you go; it keeps limited days.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Japanese+Garden+6100+Woodley+Ave+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+
+Parks Landmarks & sights
+
+Sources
+
+- [The Infatuation: San Fernando Valley](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Track record
 

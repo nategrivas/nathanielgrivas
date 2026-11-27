@@ -1,4 +1,4 @@
-# Living in Mar Vista, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Mar Vista, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/mar-vista
 
@@ -52,21 +52,377 @@ From above
 
 What's my home worth? Get Mar Vista listings
 
-## Around Mar Vista
+Local LA
 
-[The full Mar Vista guide: 17 places →](https://www.nathanielgrivas.com/guide/mar-vista)
+## Where to eat, drink and go in Mar Vista
 
-[Mitsuwa Marketplace In Mar Vista Japanese market and food court on Venice Boulevard.](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+Mar+Vista+CA) [Mar Vista Farmers Market In Mar Vista Sundays on Grand View Boulevard.](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Farmers+Market+Mar+Vista+CA) [Tito's Tacos Culver City · under 1 mi Hard-shell tacos and a line out the door since 1959.](https://www.google.com/maps/search/?api=1&query=Tito%27s+Tacos+Culver+City+CA) [Versailles Palms · 2 mi Cuban garlic chicken on Venice Boulevard.](https://www.google.com/maps/search/?api=1&query=Versailles+Palms+CA) [Gjelina Venice · 2 mi Wood-fired pizza and vegetables on Abbot Kinney.](https://www.google.com/maps/search/?api=1&query=Gjelina+Venice+CA) [Felix Trattoria Venice · 2 mi Handmade pasta on Abbot Kinney.](https://www.google.com/maps/search/?api=1&query=Felix+Trattoria+Venice+CA)
+See them on the map →
 
-[The Brig Venice · 2 mi Abbot Kinney bar with the neon boxer sign.](https://www.google.com/maps/search/?api=1&query=The+Brig+Venice+CA) [The Culver Hotel Culver City · 2.5 mi Lobby bar with live jazz in the 1924 flatiron.](https://www.google.com/maps/search/?api=1&query=The+Culver+Hotel+Culver+City+CA)
+Mar Vista is Venice's quieter neighbor, with a walkable stretch of Venice Boulevard around Grand View, a Sunday farmers market and one of the best Japanese markets on the Westside. Its restaurant scene has grown fast, from Taiwanese comfort food on Grand View to a French bistro on Centinela.
 
-[Penmar Golf Course Venice · 1.5 mi Public nine-hole course on Rose Avenue.](https://www.google.com/maps/search/?api=1&query=Penmar+Golf+Course+Venice+CA) [Rancho Park Golf Course Cheviot Hills · 3 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Hillcrest Country Club Cheviot Hills · 3.5 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Westchester Golf Course Westchester · 3.5 mi Public 18 holes next to LAX.](https://www.google.com/maps/search/?api=1&query=Westchester+Golf+Course+Westchester+CA) [Brentwood Country Club Brentwood · 4.5 mi Private club in Brentwood.](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Club+Brentwood+CA) [Los Angeles Country Club Holmby Hills · 4.5 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA)
+23 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Cinemark Playa Vista Playa Vista · 2 mi Recliners at the Runway.](https://www.google.com/maps/search/?api=1&query=Cinemark+Playa+Vista+Playa+Vista+CA) [Laemmle Royal West LA · 3 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA) [AMC Century City 15 Century City · 4 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA) [Laemmle Monica Film Center Santa Monica · 4 mi Indie and foreign films downtown.](https://www.google.com/maps/search/?api=1&query=Laemmle+Monica+Film+Center+Santa+Monica+CA)
+Eat
 
-[Kirk Douglas Theatre Culver City · 2.5 mi Center Theatre Group plays downtown.](https://www.google.com/maps/search/?api=1&query=Kirk+Douglas+Theatre+Culver+City+CA) [Santa Monica Pier Santa Monica · 4 mi Pacific Park rides and summer concerts.](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Pier+Santa+Monica+CA) [Hammer Museum Westwood · 4 mi Free art museum on Wilshire.](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+Westwood+CA)
+### Coffee & breakfast
 
-[Mother's Beach Marina del Rey · 2 mi Calm harbor beach for swimming and paddleboards.](https://www.google.com/maps/search/?api=1&query=Mother%27s+Beach+Marina+del+Rey+CA) [Venice Canals Venice · 2.5 mi Walk the footbridges and canal paths.](https://www.google.com/maps/search/?api=1&query=Venice+Canals+Venice+CA) [Ballona Wetlands Playa del Rey · 2.5 mi Marsh trails and birding.](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Playa+del+Rey+CA) [Venice Beach Boardwalk Venice · 2.5 mi Skate park, Muscle Beach and the courts.](https://www.google.com/maps/search/?api=1&query=Venice+Beach+Boardwalk+Venice+CA) [Baldwin Hills Scenic Overlook Culver City · 3 mi Stair climb with a view to the ocean.](https://www.google.com/maps/search/?api=1&query=Baldwin+Hills+Scenic+Overlook+Culver+City+CA) [Cheviot Hills Recreation Center Cheviot Hills · 3 mi Pool, tennis and fields.](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+Cheviot+Hills+CA)
+### Alana's Coffee Roasters
+
+$
+
+12511 Venice Blvd
+
+The neighborhood's coffee hangout, roasting on site with playful drinks and a shaded patio. It has its own small parking lot.
+
+**Order:** A cardamom brown sugar latte and a croissant.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Alana%27s+Coffee+Roasters+12511+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Coffee
+
+### Awaken Cafe
+
+$
+
+3838 S Centinela Ave
+
+A big, calm cafe with a courtyard and long tables that make it one of the easiest places to work in Mar Vista.
+
+**Order:** A latte in the courtyard.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Awaken+Cafe+3838+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Coffee
+
+### Kind Grounds
+
+$
+
+3759 Sawtelle Blvd
+
+A bright little cafe with a roomy patio, creative matcha drinks and a dog-friendly policy.
+
+**Order:** A seasonal matcha or the golden dirty chai.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kind+Grounds+3759+Sawtelle+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Coffee Dog-friendly
+
+### Saba Coffee Shop
+
+$
+
+12912 Venice Blvd
+
+A surf-themed cafe and shop with plenty of seating and outlets, plus occasional night markets.
+
+**Order:** A matcha latte with salted vanilla cold foam.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Saba+Coffee+Shop+12912+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Coffee
+
+### Cafe Laurent
+
+$$
+
+12034 Venice Blvd
+
+A French cafe with a relaxed patio and very large portions.
+
+**Order:** The breakfast croissant or the French toast.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Laurent+12034+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Breakfast Brunch
+
+### Maxine's Cafe
+
+$
+
+13329 Washington Blvd
+
+A decades-old breakfast counter, formerly Maxwell's, with friendly service and short waits.
+
+**Order:** Eggs with the fruit side at the counter.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Maxine%27s+Cafe+13329+Washington+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Breakfast Cheap eats
+
+### Beethoven Market
+
+$$
+
+12904 Palms Blvd
+
+Mar Vista's 75-year-old corner grocery, rebuilt into a rustic Italian restaurant with a patio. One of the restaurants that defined LA in 2025.
+
+**Order:** The kale chicken salad at brunch, duck pappardelle or a pizza at dinner.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Beethoven+Market+12904+Palms+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Resy](https://blog.resy.com/2025/12/los-angeles-restaurants-2025/) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Brunch Dinner Date night
+
+Eat
+
+### Lunch & casual
+
+### Blueys
+
+$$
+
+12825 Venice Blvd
+
+An airy, open-air cafe named after an Australian surf break. Easy lunches by day and a laid-back dinner with happy hour.
+
+**Order:** The Whirley Bowl at lunch, the burger at night. There's no Wi-Fi.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blueys+12825+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Lunch Brunch Dinner
+
+### Tacos Mar Vista
+
+$
+
+3760 S Centinela Ave
+
+A red taco truck in front of Mitsuwa known for loaded quesabirria with plenty of consommé.
+
+**Order:** The mini quesabirria tacos. Daytime only, closed Sundays.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tacos+Mar+Vista+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Tacos & Mexican Cheap eats
+
+### Lokal Sandwich Shop
+
+$
+
+Next door in [Palms](https://www.nathanielgrivas.com/neighborhoods/palms) · 1.9 mi · 10433 National Blvd #1A
+
+A busy little sandwich shop where the specialty is banh mi on fresh, soft bread.
+
+**Order:** A tofu or Korean BBQ banh mi.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lokal+Sandwich+Shop+10433+National+Blvd+%231A+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+
+Lunch Breakfast Cheap eats
+
+**Love Mar Vista? Live here.** Get new Mar Vista listings, including off-market ones, or a free value on your Mar Vista home.
+
+What's my home worth? Get Mar Vista listings
+
+Eat
+
+### Dinner
+
+### Little Fatty
+
+$$
+
+3809 Grand View Blvd
+
+Taiwanese comfort food and the Mar Vista default for a weeknight dinner.
+
+**Order:** Scallion pancakes and the five-spice pork, then a drink next door at Accomplice.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Little+Fatty+3809+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-casual-restaurants-los-angeles) [Time Out](https://timeout.com/los-angeles/mar-vista)
+
+Dinner Cheap eats
+
+### Chez Mar
+
+$$$
+
+12222 Venice Blvd
+
+A small raw bar and Southern California bistro from the former chef at Dudley Market, and one of the Westside's best new spots.
+
+**Order:** Walk in and start at the raw bar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Chez+Mar+12222+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/reviews/chez-mar) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-dishes-infatuation-la-september-2026)
+
+Seafood Dinner Date night
+
+### Electric Bleu
+
+$$$
+
+3523 S Centinela Ave
+
+A neighborhood French bistro with an open kitchen counter and a reasonably priced tasting menu.
+
+**Order:** Roast chicken and potatoes with the Electric Fries, or the tasting menu at the counter.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Electric+Bleu+3523+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Dinner Date night Wine bars
+
+### Coni'Seafood
+
+$$
+
+4532 S Centinela Ave
+
+Nayarit-style Mexican seafood that people drive across town for.
+
+**Order:** Pescado zarandeado to share, plus aguachile and shrimp tacos. Closed Tuesdays.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Coni%27Seafood+4532+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-westside-restaurants-for-eastsiders-la) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Seafood Tacos & Mexican Lunch
+
+Drink
+
+### Nightlife
+
+### Accomplice
+
+$$$
+
+3811 Grand View Blvd
+
+A creative cocktail bar next to Little Fatty, with two back-to-back bars and a menu of a dozen house drinks.
+
+**Order:** Sit at the bar and watch the torched cocktails get made. Weekday happy hour.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Cocktail bars & lounges Date night
+
+### Whiskey Red's
+
+$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 2.0 mi · 13813 Fiji Way
+
+A touristy spot where the marina view is the reason to go.
+
+**Order:** A drink on the patio at sunset.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Whiskey+Red%27s+13813+Fiji+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Cocktail bars & lounges Rooftops & views
+
+### The Warehouse Restaurant
+
+$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 2.0 mi · 4499 Admiralty Way
+
+A quirky, rowdy nautical-themed classic on the water.
+
+**Order:** A tropical drink with friends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Warehouse+Restaurant+4499+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Cocktail bars & lounges
+
+Do
+
+### Parks & outdoors
+
+### Mar Vista Recreation Center
+
+Free
+
+11430 Woodbine St
+
+The neighborhood's big park, with a pool, tennis and basketball courts, a roller hockey rink, ball fields and shaded picnic areas.
+
+**Do:** Swim in the warm months or play tennis.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Recreation+Center+11430+Woodbine+St+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Parks Kids & family Fitness & outdoor sports
+
+### Mothers Beach
+
+$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 2.0 mi · 4101 Admiralty Way
+
+A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and paddleboard launching.
+
+**Do:** Bring little kids, or launch a paddleboard.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+
+Beaches Kids & family Fitness & outdoor sports
+
+### Ballona Wetlands Ecological Reserve
+
+Free
+
+Next door in [Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista) · 2.1 mi · Ballona Wetlands
+
+A protected coastal wetland with birding and a walking and bike path that links Marina del Rey and Playa del Rey.
+
+**Do:** An early walk or bike ride along the path. Parts may be closed for restoration.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Ecological+Reserve+Ballona+Wetlands+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+
+Hikes & nature Parks
+
+Do
+
+### Shops, markets & spas
+
+### Mitsuwa Marketplace
+
+$
+
+3760 S Centinela Ave
+
+A Japanese supermarket with a busy food court and a bookstore full of manga and stationery.
+
+**Do:** Ramen or tempura in the food court, then snacks and mochi from the market.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+
+Markets Lunch Cheap eats
+
+### Mar Vista Farmers Market
+
+Free
+
+Grand View Blvd and Venice Blvd
+
+A Sunday morning market with produce, flowers, prepared food, music and kids' activities.
+
+**Do:** Go early for produce and stay for empanadas.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Farmers+Market+Grand+View+Blvd+and+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista)
+
+Markets Kids & family
+
+### Runway Playa Vista
+
+$$
+
+Next door in [Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista) · 2.1 mi · 12775 W Millennium
+
+The neighborhood's walkable center, with restaurants, a Whole Foods, a movie theater, fire pits and play areas.
+
+**Do:** Dinner and a movie; the theater validates parking.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Runway+Playa+Vista+12775+W+Millennium+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+
+Shopping Movies Kids & family
+
+Sources
+
+- [LAist: Ask a local, Mar Vista eateries](https://laist.com/news/food/ask-a-local-mar-vista-eateries)
+- [Time Out: A guide to Mar Vista](https://timeout.com/los-angeles/mar-vista)
+- [The Infatuation: Best casual restaurants in LA](https://www.theinfatuation.com/los-angeles/guides/best-casual-restaurants-los-angeles)
+- [The Infatuation: Chez Mar](https://www.theinfatuation.com/los-angeles/reviews/chez-mar)
+- [The Infatuation: Best things we ate in September 2026](https://www.theinfatuation.com/los-angeles/guides/best-dishes-infatuation-la-september-2026)
+- [The Infatuation: Westside restaurants worth the drive](https://www.theinfatuation.com/los-angeles/guides/best-westside-restaurants-for-eastsiders-la)
+- [Time Out: Best restaurants on the Westside](https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside)
+- [Resy: The restaurants that defined LA dining in 2025](https://blog.resy.com/2025/12/los-angeles-restaurants-2025/)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Living here
 

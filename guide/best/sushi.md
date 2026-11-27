@@ -1,8 +1,8 @@
-# Best Sushi & Japanese in Los Angeles by Neighborhood | The LA Guide
+# Best Sushi & Japanese in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/sushi
 
-The LA Guide
+Local LA
 
 # The best sushi and Japanese food in Los Angeles
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $$$$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 22706 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 22706 Pacific Coast Hwy
 
 The glamorous oceanfront flagship.
 
@@ -28,7 +28,7 @@ Dinner Date night
 
 $$$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · 4371 Glencoe Ave
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · 4371 Glencoe Ave
 
 A hidden-gem sushi bar with one of the best omakase deals on the Westside.
 
@@ -42,7 +42,7 @@ Date night
 
 $$
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · 4722 Admiralty Way
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · 4722 Admiralty Way
 
 Reliable, well-priced sushi sets.
 
@@ -56,7 +56,7 @@ Lunch
 
 $$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 424 Wilshire Blvd
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 424 Wilshire Blvd
 
 An izakaya that works for a drink and a snack or a full dinner, often for under $100 a person.
 
@@ -70,7 +70,7 @@ Dinner
 
 $$$$
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 3003 Ocean Park Blvd
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · 3003 Ocean Park Blvd
 
 A playful omakase with excellent nigiri. Plan on about $295 a person.
 
@@ -84,7 +84,7 @@ Date night
 
 $$$$
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Venice
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Venice
 
 A dim, lively izakaya that mixes traditional Japanese small plates with California produce.
 
@@ -100,7 +100,7 @@ Dinner Date night
 
 $$$$
 
-[Brentwood](https://www.nathanielgrivas.com/guide/brentwood) · 11917 Wilshire Blvd
+[Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood/#eat) · 11917 Wilshire Blvd
 
 A classic sushi counter known for trust-the-chef omakase.
 
@@ -114,7 +114,7 @@ Dinner
 
 $$$
 
-[Culver City](https://www.nathanielgrivas.com/guide/culver-city) · 9240 Culver Blvd
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city/#eat) · 9240 Culver Blvd
 
 The neighborhood's best sushi, with lunch specials and room for groups.
 
@@ -128,7 +128,7 @@ Lunch
 
 $$$
 
-[West LA & Sawtelle](https://www.nathanielgrivas.com/guide/west-la) · Sawtelle Blvd
+[West LA & Sawtelle](https://www.nathanielgrivas.com/neighborhoods/west-la/#eat) · Sawtelle Blvd
 
 Edomae sushi sets at gentler prices than most omakase counters.
 
@@ -142,7 +142,7 @@ Dinner
 
 $$
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 1929 Westwood Blvd
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 1929 Westwood Blvd
 
 A tiny izakaya of shareable plates made for beer and sake.
 
@@ -156,7 +156,7 @@ Dinner
 
 $$$$
 
-[Westwood](https://www.nathanielgrivas.com/guide/westwood) · 11043 Santa Monica Blvd
+[Westwood](https://www.nathanielgrivas.com/neighborhoods/westwood/#eat) · 11043 Santa Monica Blvd
 
 A strip-mall sushi bar with a traditional omakase that's fairly priced for its quality.
 
@@ -176,7 +176,7 @@ What's my home worth? Find me a home
 
 $$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 111 N La Cienega Blvd
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 111 N La Cienega Blvd
 
 An upscale soba shop with chewy house-made noodles and a rich broth.
 
@@ -190,7 +190,7 @@ Lunch
 
 $$$$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 129 N La Cienega Blvd
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 129 N La Cienega Blvd
 
 Nobu Matsuhisa's original, home of the yellowtail jalapeño, served without pretension.
 
@@ -204,7 +204,7 @@ Dinner
 
 $$$$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 421 N Rodeo Dr
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 421 N Rodeo Dr
 
 A hidden four-seat counter that critics say makes the best nigiri in Beverly Hills.
 
@@ -218,7 +218,7 @@ Date night
 
 $$$$
 
-[Beverly Hills](https://www.nathanielgrivas.com/guide/beverly-hills) · 212 N Canon Dr
+[Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills/#eat) · 212 N Canon Dr
 
 An omakase room tucked behind Sugarfish, with two 10-person seatings a night.
 
@@ -234,7 +234,7 @@ Date night
 
 $$$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 9001 Santa Monica Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 9001 Santa Monica Blvd
 
 A sleek Austin-born sushi spot with a huge menu.
 
@@ -248,7 +248,7 @@ Dinner
 
 $$$
 
-[West Hollywood](https://www.nathanielgrivas.com/guide/west-hollywood) · 8711 Santa Monica Blvd
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood/#eat) · 8711 Santa Monica Blvd
 
 Excellent sushi for about half what its famous neighbors charge.
 
@@ -262,7 +262,7 @@ Excellent sushi for about half what its famous neighbors charge.
 
 $$$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1356 Allison Ave
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1356 Allison Ave
 
 A cozy Japanese izakaya known for yakitori and sake.
 
@@ -276,7 +276,7 @@ Dinner Date night
 
 $$
 
-[Echo Park](https://www.nathanielgrivas.com/guide/echo-park) · 1360 Allison Ave
+[Echo Park](https://www.nathanielgrivas.com/neighborhoods/echo-park/#eat) · 1360 Allison Ave
 
 Tsubaki's casual sake bar next door, made for sharing plates.
 
@@ -290,7 +290,7 @@ Wine bars
 
 $$
 
-[Los Feliz](https://www.nathanielgrivas.com/guide/los-feliz) · 4634 Hollywood Blvd
+[Los Feliz](https://www.nathanielgrivas.com/neighborhoods/los-feliz/#eat) · 4634 Hollywood Blvd
 
 A hand roll counter for a quick, creative sushi lunch.
 
@@ -304,7 +304,7 @@ Lunch
 
 $$$
 
-[Silver Lake](https://www.nathanielgrivas.com/guide/silver-lake) · 4331 Sunset Blvd
+[Silver Lake](https://www.nathanielgrivas.com/neighborhoods/silver-lake/#eat) · 4331 Sunset Blvd
 
 Polished nigiri next to crowd-pleasing rolls, which makes it work for couples and groups alike.
 
@@ -318,7 +318,7 @@ Polished nigiri next to crowd-pleasing rolls, which makes it work for couples an
 
 $$$$
 
-[Encino](https://www.nathanielgrivas.com/guide/encino) · 16573 Ventura Blvd
+[Encino](https://www.nathanielgrivas.com/neighborhoods/encino/#eat) · 16573 Ventura Blvd
 
 An intimate omakase counter where the chef talks you through every piece. A special-occasion splurge.
 
@@ -332,7 +332,7 @@ Date night
 
 $$
 
-[North Hollywood](https://www.nathanielgrivas.com/guide/north-hollywood) · 7515 Lankershim Blvd
+[North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood/#eat) · 7515 Lankershim Blvd
 
 A busy, multi-room sushi restaurant where the bar is the place to sit.
 
@@ -346,7 +346,7 @@ Dinner
 
 $$$$
 
-[Sherman Oaks](https://www.nathanielgrivas.com/guide/sherman-oaks) · 13447 Ventura Blvd
+[Sherman Oaks](https://www.nathanielgrivas.com/neighborhoods/sherman-oaks/#eat) · 13447 Ventura Blvd
 
 A sushi bar with a serious wine program.
 
@@ -360,7 +360,7 @@ Wine bars Date night
 
 $$$$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 11941 Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 11941 Ventura Blvd
 
 An old-school sushi bar on Ventura's sushi row, known for pristine nigiri.
 
@@ -374,7 +374,7 @@ Date night Dinner
 
 $$$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 3791 Cahuenga Blvd W
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 3791 Cahuenga Blvd W
 
 A neighborhood sushi bar where ordering nigiri at the counter is the move.
 
@@ -388,7 +388,7 @@ Dinner
 
 $$
 
-[Studio City](https://www.nathanielgrivas.com/guide/studio-city) · 12254 Ventura Blvd
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city/#eat) · 12254 Ventura Blvd
 
 A good-value sushi spot that does especially well as takeout.
 
@@ -402,7 +402,7 @@ Cheap eats
 
 $$
 
-[Tarzana](https://www.nathanielgrivas.com/guide/tarzana) · 19522 Ventura Blvd
+[Tarzana](https://www.nathanielgrivas.com/neighborhoods/tarzana/#eat) · 19522 Ventura Blvd
 
 A busy neighborhood sushi bar with an all-you-can-eat option.
 
@@ -416,7 +416,7 @@ Dinner
 
 $$$$
 
-[Woodland Hills](https://www.nathanielgrivas.com/guide/woodland-hills) · 21418 Ventura Blvd
+[Woodland Hills](https://www.nathanielgrivas.com/neighborhoods/woodland-hills/#eat) · 21418 Ventura Blvd
 
 A lively, high-end sushi restaurant with fish sourced from Japan, in an unassuming building.
 
@@ -430,7 +430,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 11](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

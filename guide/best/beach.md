@@ -1,12 +1,12 @@
-# Best Beaches in Los Angeles by Neighborhood | The LA Guide
+# Best Beaches in Los Angeles by Neighborhood | Local LA
 
 Source page: https://www.nathanielgrivas.com/guide/best/beach
 
-The LA Guide
+Local LA
 
 # The best beaches in Los Angeles
 
-12 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+11 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -14,7 +14,7 @@ The LA Guide
 
 $$
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 28128 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 28128 Pacific Coast Hwy
 
 The only Malibu restaurant actually on the sand. You come for the setting.
 
@@ -22,13 +22,13 @@ The only Malibu restaurant actually on the sand. You come for the setting.
 
 [Map ↗](https://www.google.com/maps/search/?api=1&query=Paradise+Cove+Beach+Cafe+28128+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/best-malibu-restaurants)
 
-Lunch Cocktail bars
+Lunch Cocktail bars & lounges
 
 ### Malibu Pier and Surfrider Beach
 
 Free
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 23000 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 23000 Pacific Coast Hwy
 
 Malibu's historic pier next to the famous point break.
 
@@ -42,7 +42,7 @@ Landmarks & sights Fitness & outdoor sports
 
 $
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · Zuma Beach
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · Zuma Beach
 
 A huge, clean stretch of sand with lifeguards, showers and easy parking right next to the water.
 
@@ -56,7 +56,7 @@ Kids & family Fitness & outdoor sports
 
 $
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 6800 Westward Beach Rd
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 6800 Westward Beach Rd
 
 A beach and a short bluff hike with sweeping views, wildflowers in spring and whales in season.
 
@@ -70,7 +70,7 @@ Hikes & nature
 
 $
 
-[Malibu](https://www.nathanielgrivas.com/guide/malibu) · 32350 Pacific Coast Hwy
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu/#eat) · 32350 Pacific Coast Hwy
 
 A dramatic cove of sea stacks, arches and small caves at the bottom of a steep path.
 
@@ -84,7 +84,7 @@ Landmarks & sights
 
 $
 
-[Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey) · 4101 Admiralty Way
+[Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey/#eat) · 4101 Admiralty Way
 
 A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and paddleboard launching.
 
@@ -98,7 +98,7 @@ Kids & family Fitness & outdoor sports
 
 $
 
-[Playa del Rey](https://www.nathanielgrivas.com/guide/playa-del-rey) · 12000 Vista Del Mar
+[Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey/#eat) · 12000 Vista Del Mar
 
 A wide beach with fire pits, a bike path and jets taking off from LAX right overhead.
 
@@ -108,25 +108,11 @@ A wide beach with fire pits, a bike path and jets taking off from LAX right over
 
 Landmarks & sights
 
-### Big Dean's Ocean Front Cafe
-
-$$
-
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · 1615 Ocean Front Walk
-
-A beach sports bar right by the pier where locals mix with tourists.
-
-**Order:** A burger and a pitcher on the patio during a game.
-
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Big+Dean%27s+Ocean+Front+Cafe+1615+Ocean+Front+Walk+Santa+Monica+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-bars-in-santa-monica)
-
-Sports bars
-
 ### Santa Monica Pier
 
 Free
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · Colorado Ave at Ocean Ave
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · Colorado Ave at Ocean Ave
 
 The waterfront icon, with the Ferris wheel, arcade and the end of Route 66.
 
@@ -140,7 +126,7 @@ Landmarks & sights Kids & family
 
 Free
 
-[Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica) · Ocean Front Walk
+[Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica/#eat) · Ocean Front Walk
 
 Wide, sandy beach with the bike path running south to Venice and beyond.
 
@@ -154,7 +140,7 @@ Fitness & outdoor sports
 
 Free
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Ocean Front Walk
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Ocean Front Walk
 
 LA's best people-watching, wide soft sand and the flat bike path that runs about 22 miles up and down the coast.
 
@@ -168,7 +154,7 @@ Landmarks & sights Fitness & outdoor sports
 
 Free
 
-[Venice](https://www.nathanielgrivas.com/guide/venice) · Washington Blvd at the beach
+[Venice](https://www.nathanielgrivas.com/neighborhoods/venice/#eat) · Washington Blvd at the beach
 
 A long, quiet pier at the south end of the boardwalk, good for a sunset walk away from the crowds.
 
@@ -182,7 +168,7 @@ Keep browsing
 
 ## More categories
 
-[Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 83](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+[Coffee 60](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 63](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 140](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 240](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 113](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 23](https://www.nathanielgrivas.com/guide/best/healthy) [Cheap eats 84](https://www.nathanielgrivas.com/guide/best/cheap) [Cocktail bars & lounges 80](https://www.nathanielgrivas.com/guide/best/bars) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Rooftops & views 17](https://www.nathanielgrivas.com/guide/best/rooftop) [Late night 32](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 65](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 14](https://www.nathanielgrivas.com/guide/best/dogs)
 
 Free, no obligation
 

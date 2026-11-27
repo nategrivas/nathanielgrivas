@@ -1,4 +1,4 @@
-# Living in Beverly Hills Post Office, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Beverly Hills Post Office, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/bhpo
 
@@ -51,21 +51,189 @@ From above
 
 What's my home worth? Get Beverly Hills Post Office listings
 
-## Around Beverly Hills Post Office
+Local LA
 
-[The full Beverly Hills Post Office guide: 2 places →](https://www.nathanielgrivas.com/guide/bhpo)
+## Where to eat, drink and go in Beverly Hills Post Office
 
-[The Polo Lounge Beverly Hills · 1.5 mi Inside the Beverly Hills Hotel.](https://www.google.com/maps/search/?api=1&query=The+Polo+Lounge+Beverly+Hills+CA) [Dan Tana's West Hollywood · 2 mi Red-sauce Italian next to the Troubadour since 1964.](https://www.google.com/maps/search/?api=1&query=Dan+Tana%27s+West+Hollywood+CA) [Craig's West Hollywood · 2 mi Melrose dining room with famous regulars.](https://www.google.com/maps/search/?api=1&query=Craig%27s+West+Hollywood+CA) [Tail o' the Pup West Hollywood · 2 mi The hot dog-shaped stand, back on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Tail+o%27+the+Pup+West+Hollywood+CA) [Nate 'n Al Beverly Hills · 2.5 mi Deli on Beverly Drive since 1945.](https://www.google.com/maps/search/?api=1&query=Nate+%27n+Al+Beverly+Hills+CA) [Catch LA West Hollywood · 2.5 mi Rooftop seafood on Melrose.](https://www.google.com/maps/search/?api=1&query=Catch+LA+West+Hollywood+CA)
+See them on the map →
 
-[The Abbey West Hollywood · 2 mi The anchor of the Rainbow District on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Abbey+West+Hollywood+CA) [Chateau Marmont West Hollywood · 2.5 mi The hotel bar on the Sunset Strip.](https://www.google.com/maps/search/?api=1&query=Chateau+Marmont+West+Hollywood+CA) [Delilah West Hollywood · 3 mi Supper club with live music.](https://www.google.com/maps/search/?api=1&query=Delilah+West+Hollywood+CA)
+Beverly Hills Post Office is the hillside area above the city of Beverly Hills, covering Benedict, Coldwater and Franklin canyons. It is mostly residential, with some of the best quick escapes into nature on the Westside.
 
-[Bel-Air Country Club Bel Air · 2.5 mi Private club in Bel Air.](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club+Bel+Air+CA) [Los Angeles Country Club Holmby Hills · 2.5 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Studio City Golf & Tennis Studio City · 3 mi Public par-3, range and tennis on Whitsett.](https://www.google.com/maps/search/?api=1&query=Studio+City+Golf+%26+Tennis+Studio+City+CA) [Hillcrest Country Club Cheviot Hills · 3.5 mi Private club on Pico.](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club+Cheviot+Hills+CA) [Rancho Park Golf Course Cheviot Hills · 4 mi Public 18 holes on Pico. Book tee times early.](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course+Cheviot+Hills+CA) [Mountaingate Country Club Brentwood · 4.5 mi Private club above the 405.](https://www.google.com/maps/search/?api=1&query=Mountaingate+Country+Club+Brentwood+CA)
+11 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[AMC Century City 15 Century City · 3 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA) [Brain Dead Studios Fairfax · 3 mi Indie screenings in the old Silent Movie Theatre.](https://www.google.com/maps/search/?api=1&query=Brain+Dead+Studios+Fairfax+CA) [Regency Village Theatre Westwood · 3.5 mi The 1931 tower theatre and its premieres.](https://www.google.com/maps/search/?api=1&query=Regency+Village+Theatre+Westwood+CA) [Academy Museum theaters Miracle Mile · 4 mi Film series inside the Academy Museum.](https://www.google.com/maps/search/?api=1&query=Academy+Museum+theaters+Miracle+Mile+CA)
+Eat
 
-[The Roxy West Hollywood · 1.5 mi Sunset Strip club since 1973.](https://www.google.com/maps/search/?api=1&query=The+Roxy+West+Hollywood+CA) [Whisky a Go Go West Hollywood · 1.5 mi Sunset Strip rock club since 1964.](https://www.google.com/maps/search/?api=1&query=Whisky+a+Go+Go+West+Hollywood+CA) [The Troubadour West Hollywood · 2 mi Club where Elton John made his U.S. debut.](https://www.google.com/maps/search/?api=1&query=The+Troubadour+West+Hollywood+CA) [The Comedy Store West Hollywood · 2.5 mi Stand-up on the Sunset Strip.](https://www.google.com/maps/search/?api=1&query=The+Comedy+Store+West+Hollywood+CA) [The Wallis Beverly Hills · 2.5 mi Theater and dance in the old post office.](https://www.google.com/maps/search/?api=1&query=The+Wallis+Beverly+Hills+CA) [Largo at the Coronet Beverly Grove · 2.5 mi Comedy and music on La Cienega.](https://www.google.com/maps/search/?api=1&query=Largo+at+the+Coronet+Beverly+Grove+CA)
+### Coffee & breakfast
 
-[Franklin Canyon Park In Beverly Hills Post Office Lake and trails above Beverly Hills.](https://www.google.com/maps/search/?api=1&query=Franklin+Canyon+Park+Beverly+Hills+Post+Office+CA) [Coldwater Canyon Park In Beverly Hills Post Office TreePeople trails on Mulholland.](https://www.google.com/maps/search/?api=1&query=Coldwater+Canyon+Park+Beverly+Hills+Post+Office+CA) [Greystone Mansion & Gardens Beverly Hills · under 1 mi Estate gardens open to the public.](https://www.google.com/maps/search/?api=1&query=Greystone+Mansion+%26+Gardens+Beverly+Hills+CA) [Beverly Gardens Park Beverly Hills · 2.5 mi Santa Monica Boulevard park and the Beverly Hills sign.](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Beverly+Hills+CA) [Holmby Park Holmby Hills · 2.5 mi Lawn bowling and a pitch-and-putt.](https://www.google.com/maps/search/?api=1&query=Holmby+Park+Holmby+Hills+CA) [Fryman Canyon Studio City · 2.5 mi Loop trail up to Mulholland.](https://www.google.com/maps/search/?api=1&query=Fryman+Canyon+Studio+City+CA)
+### Nate 'n Al Delicatessen
+
+$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 414 N Beverly Dr
+
+A classic deli with an eclectic, very Beverly Hills crowd.
+
+**Order:** Bagel and lox, stuffed cabbage and matzah ball soup.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Nate+%27n+Al+Delicatessen+414+N+Beverly+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Breakfast Lunch
+
+### Faregrounds
+
+$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 459 N Roxbury Dr
+
+A bright corner cafe that has become the Beverly Hills breakfast burrito spot. The kitchen cooks without seed oils, and the matcha menu is as big a draw as the coffee.
+
+**Order:** The Faregrounds breakfast burrito with a strawberry matcha. Open weekdays from 7 a.m.; closed on weekends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Faregrounds+459+N+Roxbury+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Love Beverly Hills](https://lovebeverlyhills.com/restaurants/view/faregrounds) [Atly](https://www.atly.com/united-states/california/beverly-hills/best-breakfast)
+
+Breakfast Coffee Healthy & plant-based
+
+### Fountain Coffee Room at the Beverly Hills Hotel
+
+$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9641 Sunset Blvd
+
+A pink, 1949 soda-fountain counter inside the Beverly Hills Hotel with about 20 stools and breakfast served all day. It is walk-in only, so you sit at the counter and watch the room.
+
+**Order:** Silver dollar pancakes and a milkshake. Daily, 7 a.m. to 4 p.m.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fountain+Coffee+Room+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Dorchester Collection](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/fountain-coffee-room) [Time Out](https://timeout.com/los-angeles/restaurants/fountain-coffee-room)
+
+Breakfast Landmarks & sights
+
+Eat & drink
+
+### Dinner & drinks
+
+### Spago
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 176 N Canon Dr
+
+The iconic LA dining room, with attentive service and a big-night feel.
+
+**Order:** Smoked salmon pizza and spicy tuna cones.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Spago+176+N+Canon+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Dinner Date night
+
+### Funke
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9388 S Santa Monica Blvd
+
+A three-level pasta palace with reliably excellent handmade pasta. The rooftop bar is walk-in only.
+
+**Order:** Any flour-and-egg pasta and a tomato martini. Reservations drop 7 days out at 9am.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Funke+9388+S+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills) [Time Out](https://www.timeout.com/los-angeles/restaurants/rodeo-drive-restaurants)
+
+Dinner Date night Rooftops & views
+
+### La Dolce Vita
+
+$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9785 S Santa Monica Blvd
+
+An old Hollywood red-sauce room with strong martinis and real glamour.
+
+**Order:** Bone-in veal parm, tableside Caesar and a martini.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Dolce+Vita+9785+S+Santa+Monica+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-hills)
+
+Dinner Date night Cocktail bars & lounges
+
+### Polo Lounge at the Beverly Hills Hotel
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9641 Sunset Blvd
+
+The pink hotel's famous lounge, worth a visit even if you aren't staying.
+
+**Order:** A drink or brunch on the patio.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Polo+Lounge+at+the+Beverly+Hills+Hotel+9641+Sunset+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Cocktail bars & lounges Brunch Landmarks & sights
+
+### The Rooftop at the Waldorf Astoria
+
+$$$$
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · 9850 Wilshire Blvd
+
+A garden-style rooftop 12 floors above Beverly Hills with one of the widest views in the city. It is the see-and-be-seen sunset drink in town, and the prices match.
+
+**Order:** Walk in for the bar and lounge around sunset; book ahead if you want a table.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Rooftop+at+the+Waldorf+Astoria+9850+Wilshire+Blvd+Beverly+Hills+Los+Angeles+CA) Sources: [The Rooftop Guide](https://therooftopguide.com/rooftop-bars-in-los-angeles/the-rooftop-by-jg.html) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-hotel-bars-in-la)
+
+Rooftops & views Cocktail bars & lounges Date night
+
+**Love Beverly Hills Post Office? Live here.** Get new Beverly Hills Post Office listings, including off-market ones, or a free value on your Beverly Hills Post Office home.
+
+What's my home worth? Get Beverly Hills Post Office listings
+
+Do
+
+### Parks & outdoors
+
+### Franklin Canyon Park
+
+Free
+
+2600 Franklin Canyon Dr
+
+A quiet canyon park with a lake and duck pond, shady trails and old-growth trees, minutes from Beverly Hills.
+
+**Do:** Walk the lake loop and look for turtles in the pond. Drive slowly; there are stop-sign cameras.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Franklin+Canyon+Park+2600+Franklin+Canyon+Dr+Beverly+Hills+Post+Office+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Hills+Post+Office+CA)
+
+Hikes & nature Parks Kids & family
+
+### TreePeople (Coldwater Canyon Park)
+
+Free
+
+12601 Mulholland Dr
+
+A well-kept forested park with wide trails and city and Valley views, run by a nonprofit.
+
+**Do:** Join a guided moonlight hike.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=TreePeople+%28Coldwater+Canyon+Park%29+12601+Mulholland+Dr+Beverly+Hills+Post+Office+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Hills+Post+Office+CA)
+
+Hikes & nature Parks
+
+### Beverly Gardens Park
+
+Free
+
+Next door in [Beverly Hills](https://www.nathanielgrivas.com/neighborhoods/beverly-hills) · 2.1 mi · Santa Monica Blvd near Canon Dr
+
+A long, tree-lined park with the Beverly Hills sign everyone photographs.
+
+**Do:** The Beverly Hills Art Show runs here in May and October.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park+Santa+Monica+Blvd+near+Canon+Dr+Beverly+Hills+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-beverly-hills)
+
+Parks Landmarks & sights
+
+Sources
+
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Hills+Post+Office+CA)
 
 Living here
 

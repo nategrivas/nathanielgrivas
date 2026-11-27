@@ -1,41 +1,418 @@
-{"slug":"silver-lake","updated":"2026-11-26",
-"intro":"Silver Lake is the Eastside's living room: a reservoir to walk around, a long run of restaurants on Sunset, and some of the best bars in the city. The best stretches are Sunset Junction and the strip of Silver Lake Boulevard just south of the reservoir.",
-"sources":{
-"inf":["The Infatuation: Best restaurants in Silver Lake","https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake"],
-"infeast":["The Infatuation: Best bars on the Eastside","https://theinfatuation.com/los-angeles/guides/the-eastside-bar-guide"],
-"infelcid":["The Infatuation: El Cid","https://www.theinfatuation.com/los-angeles/reviews/el-cid"],
-"tobars":["Time Out: Best Silver Lake bars","https://www.timeout.com/los-angeles/bars/the-best-silver-lake-bars"],
-"toguide":["Time Out: Silver Lake guide","https://www.timeout.com/los-angeles/silver-lake-guide"],
-"fodors":["Fodor's: Los Feliz and Eastside bars","https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/los-feliz-and-the-eastside/things-to-do/nightlife"],
-"roadbook":["Roadbook: Cocktail bars locals love","https://roadbook.com/los-angeles/city-guide/best-cocktail-bars-los-angeles"]},
-"places":[
-{"n":"Intelligentsia Silver Lake","c":["coffee"],"a":"3922 Sunset Blvd","p":"$$","w":"The neighborhood's long-running coffee bar at Sunset Junction, and a people-watching post.","o":"A pour-over on the patio.","s":["toguide"]},
-{"n":"Café Tropical","c":["breakfast","bakery","coffee","cheap"],"a":"2900 W Sunset Blvd","p":"$","w":"A 50-year-old Cuban bakery that still gets the classics right. It's small, so get there early.","o":"Cafe cubano, pastelitos and the Cubano.","s":["inf"]},
-{"n":"Maury's Bagels","c":["breakfast"],"a":"2829 Bellevue Ave","p":"$$","w":"Takeout-only bagels that are pliable and chewy, with a deep bench of cured fish.","o":"The black cod bagel, or lox with wasabi tobiko cream cheese.","s":["inf"]},
-{"n":"Doto","c":["breakfast","lunch","coffee"],"a":"654 N Hoover St","p":"$$","w":"An all-day spot with strong coffee and a relaxed hillside patio out back.","o":"Breakfast burrito, fried chicken sandwich or oxtail in Japanese curry.","s":["inf"]},
-{"n":"Azizam","c":["lunch","brunch"],"a":"2943 W Sunset Blvd","p":"$$","w":"A leafy, light-filled Persian daytime cafe with homey cooking. Portions are small, so order several.","o":"Barbari bread, kofteh tabrizi and the Persian mille-feuille.","s":["inf"]},
-{"n":"Ceci's Gastronomia","c":["lunch"],"a":"2813 W Sunset Blvd","p":"$$","w":"A picnic-style Italian cafe with standout focaccia sandwiches.","o":"Any focaccia sandwich and the tiramisu.","s":["inf"]},
-{"n":"Pine & Crane","c":["lunch","dinner","cheap"],"a":"1521 Griffith Park Blvd","p":"$","w":"Fast, reliable Taiwanese with a line out the door for years, and almost nothing over $16.","o":"Beef scallion pancake roll and wonton noodle soup.","s":["inf"]},
-{"n":"Briciola","c":["date","dinner"],"a":"3131 Sunset Blvd","p":"$$$","w":"Candlelit Italian with clever Brazilian twists. The room is tight, which is part of the charm.","o":"Burrata with tomato granita, branzino in coconut sauce and bananas foster.","s":["inf"]},
-{"n":"Josephine","c":["dinner","date"],"a":"4156 Santa Monica Blvd","p":"$$$","w":"An indulgent French-Italian bistro in a playful yellow bungalow. The menu changes monthly.","o":"Duck tortellini, fried sweetbreads or steak frites.","s":["inf"]},
-{"n":"Cafe Stella","c":["dinner","date"],"a":"3932 W Sunset Blvd","p":"$$$","w":"Classic bistro food in a lively, slightly grungy courtyard. Book ahead.","o":"Steak au poivre, frisée salad and sorbet in a frozen lemon.","s":["inf"]},
-{"n":"Ceviche Project","c":["seafood","dinner","tacos"],"a":"2524 Hyperion Ave","p":"$$$","w":"A tropical, club-like cevicheria with bright, vibrant seafood.","o":"Scallops on the half shell, tai snapper ceviche and the kanpachi tostada.","s":["inf"]},
-{"n":"Amiguita","c":["wine","dinner"],"a":"3510 W Sunset Blvd","p":"$$","w":"An Afro-Caribbean wine bar where bar seats are often open for walk-ins.","o":"Yuca latkes, plantain gnocchi in curry and spicy coconut mussels.","s":["inf"]},
-{"n":"Bar Besito","c":["wine","dinner"],"a":"1710 Silver Lake Blvd","p":"$$","w":"A packed, lively spot for tinned seafood, tapas and wine.","o":"Mackerel conserva, tortilla española and grilled prawns.","s":["inf"]},
-{"n":"Manila Inasal","c":["dinner","music"],"a":"240 Virgil Ave","p":"$$","w":"Fun, inventive takes on Filipino classics, with big portions and live music on weekends.","o":"Taro-coconut dip with focaccia and crab-stuffed tortang talong.","s":["inf"]},
-{"n":"Kenbey Sushi","c":["sushi"],"a":"4331 Sunset Blvd","p":"$$$","w":"Polished nigiri next to crowd-pleasing rolls, which makes it work for couples and groups alike.","o":"The omakase with toro and wagyu, or spicy tuna crispy rice.","s":["inf"]},
-{"n":"Night + Market Song","c":["dinner"],"a":"3322 W Sunset Blvd","p":"$$","w":"Some of the city's best Thai in a kitschy, casual room.","o":"Larb and a bottle of natural wine.","s":["inf"]},
-{"n":"Pijja Palace","c":["sports","pizza","dinner"],"a":"2711 Sunset Blvd","p":"$$","w":"An Indian sports bar with screens everywhere and food people talk about for weeks. Reservations go fast.","o":"Malai rigatoni, saag pizza and masala wings. Avoid big game nights.","s":["inf"]},
-{"n":"LaSorted's Pizza","c":["pizza","cheap"],"a":"2847 Sunset Blvd","p":"$","w":"Chewy, bubbly brick-oven pizza from a takeout window.","o":"The Spicy, But Oh, So Sweet Boy.","s":["inf"]},
-{"n":"L&E Oyster Bar","c":["seafood","dinner"],"a":"1637 Silver Lake Blvd","p":"$$$","w":"A neighborhood oyster bar with excellent oysters and an easy, solid menu. Walk-ins welcome.","o":"Oysters, the burger and a wedge salad.","s":["inf","tobars"]},
-{"n":"Tiki-Ti","c":["bars"],"a":"4427 Sunset Blvd","p":"$$","w":"A tiny, family-run tiki bar with strong rum drinks and a line out the door. Cash only.","o":"Whatever the bartender's pouring when the room starts chanting.","s":["tobars","roadbook"]},
-{"n":"Akbar","c":["bars","comedy","latenight"],"a":"4356 W Sunset Blvd","p":"$","w":"A dive-y gay dance bar with a mixed, local crowd, cheap drinks and events in the back room that are actually fun.","o":"Check the calendar for comedy nights.","s":["infeast","tobars"]},
-{"n":"The Ruby Fruit","c":["bars","latenight"],"a":"Sunset Blvd","p":"$$","w":"A bright pink lesbian bar in a strip mall where the party spills onto the sidewalk most nights.","o":"Go late on a weekend.","s":["infeast"]},
-{"n":"El Cid","c":["bars","music"],"a":"4212 W Sunset Blvd","p":"$$","w":"A doorway on Sunset that opens onto a hidden patio bar, with a little theater for live music and flamenco.","o":"Bring a group and catch a show.","s":["infelcid"]},
-{"n":"4100 Bar","c":["dive","date"],"a":"1087 Manzanita St","p":"$","w":"A low-lit, bohemian dive with fabric draped from the ceiling. Cash only.","o":"A Moscow mule on a Friday or Saturday.","s":["tobars","fodors"]},
-{"n":"Red Lion Tavern","c":["beer","dive"],"a":"2366 Glendale Blvd","p":"$$","w":"A German tavern open since 1959 with a big back patio.","o":"Schnitzel, sausages and a pitcher of German beer.","s":["tobars","fodors"]},
-{"n":"Thirsty Crow","c":["bars"],"a":"2939 Sunset Blvd","p":"$$","w":"A whiskey bar with more than 100 bottles behind a horseshoe bar.","o":"A whiskey flight at happy hour.","s":["tobars"]},
-{"n":"Silver Lake Reservoir","c":["park","fitness","dogs"],"a":"Silver Lake Blvd","p":"Free","w":"The neighborhood's centerpiece: a loop for running, a meadow for picnics and room for dogs.","o":"Walk the loop, then eat on the Silver Lake Blvd strip just south.","s":["toguide"]},
-{"n":"Silver Lake Stairs","c":["hike","fitness"],"a":"Throughout the hills","p":"Free","w":"Dozens of public stairways wind through the hillsides, a way to see the neighborhood off the main streets.","o":"Link a few for a workout with views.","s":["toguide"]},
-{"n":"Sunset Junction","c":["shop","landmark"],"a":"Sunset Blvd at Santa Monica Blvd","p":"$$","w":"Where Santa Monica Boulevard ends and the closest thing Silver Lake has to a walkable center.","o":"Shop, get coffee and people-watch.","s":["toguide"]}
-]}
+{
+ "slug": "silver-lake",
+ "updated": "2026-11-26",
+ "intro": "Silver Lake is the Eastside's living room: a reservoir to walk around, a long run of restaurants on Sunset, and some of the best bars in the city. The best stretches are Sunset Junction and the strip of Silver Lake Boulevard just south of the reservoir.",
+ "sources": {
+  "inf": [
+   "The Infatuation: Best restaurants in Silver Lake",
+   "https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-silver-lake"
+  ],
+  "infeast": [
+   "The Infatuation: Best bars on the Eastside",
+   "https://theinfatuation.com/los-angeles/guides/the-eastside-bar-guide"
+  ],
+  "infelcid": [
+   "The Infatuation: El Cid",
+   "https://www.theinfatuation.com/los-angeles/reviews/el-cid"
+  ],
+  "tobars": [
+   "Time Out: Best Silver Lake bars",
+   "https://www.timeout.com/los-angeles/bars/the-best-silver-lake-bars"
+  ],
+  "toguide": [
+   "Time Out: Silver Lake guide",
+   "https://www.timeout.com/los-angeles/silver-lake-guide"
+  ],
+  "fodors": [
+   "Fodor's: Los Feliz and Eastside bars",
+   "https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/los-feliz-and-the-eastside/things-to-do/nightlife"
+  ],
+  "roadbook": [
+   "Roadbook: Cocktail bars locals love",
+   "https://roadbook.com/los-angeles/city-guide/best-cocktail-bars-los-angeles"
+  ]
+ },
+ "places": [
+  {
+   "n": "Intelligentsia Silver Lake",
+   "c": [
+    "coffee"
+   ],
+   "a": "3922 Sunset Blvd",
+   "p": "$$",
+   "w": "The neighborhood's long-running coffee bar at Sunset Junction, and a people-watching post.",
+   "o": "A pour-over on the patio.",
+   "s": [
+    "toguide"
+   ]
+  },
+  {
+   "n": "Café Tropical",
+   "c": [
+    "breakfast",
+    "bakery",
+    "coffee",
+    "cheap"
+   ],
+   "a": "2900 W Sunset Blvd",
+   "p": "$",
+   "w": "A 50-year-old Cuban bakery that still gets the classics right. It's small, so get there early.",
+   "o": "Cafe cubano, pastelitos and the Cubano.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Maury's Bagels",
+   "c": [
+    "breakfast"
+   ],
+   "a": "2829 Bellevue Ave",
+   "p": "$$",
+   "w": "Takeout-only bagels that are pliable and chewy, with a deep bench of cured fish.",
+   "o": "The black cod bagel, or lox with wasabi tobiko cream cheese.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Doto",
+   "c": [
+    "breakfast",
+    "lunch",
+    "coffee"
+   ],
+   "a": "654 N Hoover St",
+   "p": "$$",
+   "w": "An all-day spot with strong coffee and a relaxed hillside patio out back.",
+   "o": "Breakfast burrito, fried chicken sandwich or oxtail in Japanese curry.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Azizam",
+   "c": [
+    "lunch",
+    "brunch"
+   ],
+   "a": "2943 W Sunset Blvd",
+   "p": "$$",
+   "w": "A leafy, light-filled Persian daytime cafe with homey cooking. Portions are small, so order several.",
+   "o": "Barbari bread, kofteh tabrizi and the Persian mille-feuille.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Ceci's Gastronomia",
+   "c": [
+    "lunch"
+   ],
+   "a": "2813 W Sunset Blvd",
+   "p": "$$",
+   "w": "A picnic-style Italian cafe with standout focaccia sandwiches.",
+   "o": "Any focaccia sandwich and the tiramisu.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Pine & Crane",
+   "c": [
+    "lunch",
+    "dinner",
+    "cheap"
+   ],
+   "a": "1521 Griffith Park Blvd",
+   "p": "$",
+   "w": "Fast, reliable Taiwanese with a line out the door for years, and almost nothing over $16.",
+   "o": "Beef scallion pancake roll and wonton noodle soup.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Briciola",
+   "c": [
+    "date",
+    "dinner"
+   ],
+   "a": "3131 Sunset Blvd",
+   "p": "$$$",
+   "w": "Candlelit Italian with clever Brazilian twists. The room is tight, which is part of the charm.",
+   "o": "Burrata with tomato granita, branzino in coconut sauce and bananas foster.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Josephine",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "4156 Santa Monica Blvd",
+   "p": "$$$",
+   "w": "An indulgent French-Italian bistro in a playful yellow bungalow. The menu changes monthly.",
+   "o": "Duck tortellini, fried sweetbreads or steak frites.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Cafe Stella",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "3932 W Sunset Blvd",
+   "p": "$$$",
+   "w": "Classic bistro food in a lively, slightly grungy courtyard. Book ahead.",
+   "o": "Steak au poivre, frisée salad and sorbet in a frozen lemon.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Ceviche Project",
+   "c": [
+    "seafood",
+    "dinner",
+    "tacos"
+   ],
+   "a": "2524 Hyperion Ave",
+   "p": "$$$",
+   "w": "A tropical, club-like cevicheria with bright, vibrant seafood.",
+   "o": "Scallops on the half shell, tai snapper ceviche and the kanpachi tostada.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Amiguita",
+   "c": [
+    "wine",
+    "dinner"
+   ],
+   "a": "3510 W Sunset Blvd",
+   "p": "$$",
+   "w": "An Afro-Caribbean wine bar where bar seats are often open for walk-ins.",
+   "o": "Yuca latkes, plantain gnocchi in curry and spicy coconut mussels.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Bar Besito",
+   "c": [
+    "wine",
+    "dinner"
+   ],
+   "a": "1710 Silver Lake Blvd",
+   "p": "$$",
+   "w": "A packed, lively spot for tinned seafood, tapas and wine.",
+   "o": "Mackerel conserva, tortilla española and grilled prawns.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Manila Inasal",
+   "c": [
+    "dinner",
+    "music"
+   ],
+   "a": "240 Virgil Ave",
+   "p": "$$",
+   "w": "Fun, inventive takes on Filipino classics, with big portions and live music on weekends.",
+   "o": "Taro-coconut dip with focaccia and crab-stuffed tortang talong.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Kenbey Sushi",
+   "c": [
+    "sushi"
+   ],
+   "a": "4331 Sunset Blvd",
+   "p": "$$$",
+   "w": "Polished nigiri next to crowd-pleasing rolls, which makes it work for couples and groups alike.",
+   "o": "The omakase with toro and wagyu, or spicy tuna crispy rice.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Night + Market Song",
+   "c": [
+    "dinner"
+   ],
+   "a": "3322 W Sunset Blvd",
+   "p": "$$",
+   "w": "Some of the city's best Thai in a kitschy, casual room.",
+   "o": "Larb and a bottle of natural wine.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "Pijja Palace",
+   "c": [
+    "dinner",
+    "pizza"
+   ],
+   "a": "2711 Sunset Blvd",
+   "p": "$$",
+   "w": "An Indian sports bar with screens everywhere and food people talk about for weeks. Reservations go fast.",
+   "o": "Malai rigatoni, saag pizza and masala wings. Avoid big game nights.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "LaSorted's Pizza",
+   "c": [
+    "pizza",
+    "cheap"
+   ],
+   "a": "2847 Sunset Blvd",
+   "p": "$",
+   "w": "Chewy, bubbly brick-oven pizza from a takeout window.",
+   "o": "The Spicy, But Oh, So Sweet Boy.",
+   "s": [
+    "inf"
+   ]
+  },
+  {
+   "n": "L&E Oyster Bar",
+   "c": [
+    "seafood",
+    "dinner"
+   ],
+   "a": "1637 Silver Lake Blvd",
+   "p": "$$$",
+   "w": "A neighborhood oyster bar with excellent oysters and an easy, solid menu. Walk-ins welcome.",
+   "o": "Oysters, the burger and a wedge salad.",
+   "s": [
+    "inf",
+    "tobars"
+   ]
+  },
+  {
+   "n": "Tiki-Ti",
+   "c": [
+    "bars"
+   ],
+   "a": "4427 Sunset Blvd",
+   "p": "$$",
+   "w": "A tiny, family-run tiki bar with strong rum drinks and a line out the door. Cash only.",
+   "o": "Whatever the bartender's pouring when the room starts chanting.",
+   "s": [
+    "tobars",
+    "roadbook"
+   ]
+  },
+  {
+   "n": "Akbar",
+   "c": [
+    "bars",
+    "comedy",
+    "latenight"
+   ],
+   "a": "4356 W Sunset Blvd",
+   "p": "$",
+   "w": "A dive-y gay dance bar with a mixed, local crowd, cheap drinks and events in the back room that are actually fun.",
+   "o": "Check the calendar for comedy nights.",
+   "s": [
+    "infeast",
+    "tobars"
+   ]
+  },
+  {
+   "n": "The Ruby Fruit",
+   "c": [
+    "bars",
+    "latenight"
+   ],
+   "a": "Sunset Blvd",
+   "p": "$$",
+   "w": "A bright pink lesbian bar in a strip mall where the party spills onto the sidewalk most nights.",
+   "o": "Go late on a weekend.",
+   "s": [
+    "infeast"
+   ]
+  },
+  {
+   "n": "El Cid",
+   "c": [
+    "bars",
+    "music"
+   ],
+   "a": "4212 W Sunset Blvd",
+   "p": "$$",
+   "w": "A doorway on Sunset that opens onto a hidden patio bar, with a little theater for live music and flamenco.",
+   "o": "Bring a group and catch a show.",
+   "s": [
+    "infelcid"
+   ]
+  },
+  {
+   "n": "Thirsty Crow",
+   "c": [
+    "bars"
+   ],
+   "a": "2939 Sunset Blvd",
+   "p": "$$",
+   "w": "A whiskey bar with more than 100 bottles behind a horseshoe bar.",
+   "o": "A whiskey flight at happy hour.",
+   "s": [
+    "tobars"
+   ]
+  },
+  {
+   "n": "Silver Lake Reservoir",
+   "c": [
+    "park",
+    "fitness",
+    "dogs"
+   ],
+   "a": "Silver Lake Blvd",
+   "p": "Free",
+   "w": "The neighborhood's centerpiece: a loop for running, a meadow for picnics and room for dogs.",
+   "o": "Walk the loop, then eat on the Silver Lake Blvd strip just south.",
+   "s": [
+    "toguide"
+   ]
+  },
+  {
+   "n": "Silver Lake Stairs",
+   "c": [
+    "hike",
+    "fitness"
+   ],
+   "a": "Throughout the hills",
+   "p": "Free",
+   "w": "Dozens of public stairways wind through the hillsides, a way to see the neighborhood off the main streets.",
+   "o": "Link a few for a workout with views.",
+   "s": [
+    "toguide"
+   ]
+  },
+  {
+   "n": "Sunset Junction",
+   "c": [
+    "shop",
+    "landmark"
+   ],
+   "a": "Sunset Blvd at Santa Monica Blvd",
+   "p": "$$",
+   "w": "Where Santa Monica Boulevard ends and the closest thing Silver Lake has to a walkable center.",
+   "o": "Shop, get coffee and people-watch.",
+   "s": [
+    "toguide"
+   ]
+  }
+ ]
+}

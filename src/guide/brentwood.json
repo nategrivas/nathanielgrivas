@@ -18,6 +18,10 @@
   "getty": [
    "Getty: Building Getty's Future",
    "https://www.getty.edu/about/building-gettys-future/"
+  ],
+  "btos": [
+   "Time Out: Bar Toscana",
+   "https://www.timeout.com/los-angeles/restaurants/bar-toscana"
   ]
  },
  "places": [
@@ -249,20 +253,6 @@
    ]
   },
   {
-   "n": "Thunderbird Bar",
-   "c": [
-    "sports",
-    "bars"
-   ],
-   "a": "12217 Wilshire Blvd",
-   "p": "$$",
-   "w": "A friendly neighborhood sports bar with better food than it needs to have.",
-   "o": "The Thunderburger during a Dodgers game.",
-   "s": [
-    "gm"
-   ]
-  },
-  {
    "n": "The Getty",
    "c": [
     "museum",
@@ -306,6 +296,20 @@
    "o": "Hike in from the Westridge trail, about four miles each way.",
    "s": [
     "gm"
+   ]
+  },
+  {
+   "n": "Bar Toscana",
+   "c": [
+    "bars",
+    "date"
+   ],
+   "a": "11633 San Vicente Blvd",
+   "p": "$$$",
+   "w": "An intimate, stylish cocktail bar next door to Toscana, the longtime Brentwood power-dinner spot. Italian aperitivo drinks and small plates in a room that stays lively late.",
+   "o": "A Negroni riff and a few small plates before or after dinner on San Vicente.",
+   "s": [
+    "btos"
    ]
   }
  ]

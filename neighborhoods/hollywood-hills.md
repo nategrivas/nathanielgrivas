@@ -1,4 +1,4 @@
-# Living in Hollywood Hills, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Hollywood Hills, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/hollywood-hills
 
@@ -52,25 +52,303 @@ From above
 
 What's my home worth? Get Hollywood Hills listings
 
+Local LA
+
+## Where to eat, drink and go in Hollywood Hills
+
+See them on the map →
+
+The Hollywood Hills rise above Hollywood and West Hollywood along Mulholland Drive and the Laurel and Cahuenga canyons, with music history in Laurel Canyon, a hillside amphitheater and some of the best Hollywood Sign views in town.
+
+18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### Dayglow
+
+$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 866 Huntley Dr
+
+A specialty coffee bar with a rotating menu of house drinks and guest roasters.
+
+**Order:** Whatever seasonal latte is on the board; vegan ice cream sits next door.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dayglow+866+Huntley+Dr+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood)
+
+Coffee
+
+### Verve Coffee Roasters
+
+$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 8925 Melrose Ave
+
+A big indoor-outdoor cafe from the Santa Cruz roaster, and one of the easiest places in WeHo to work for an hour.
+
+**Order:** Espresso or nitro cold brew on the patio, with avocado toast.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Verve+Coffee+Roasters+8925+Melrose+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood)
+
+Coffee
+
+### Strings of Life
+
+$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 510 N Robertson Blvd
+
+A plant-filled cafe on Robertson built for slow mornings. There's no Wi-Fi on purpose.
+
+**Order:** A flat white and one of the vegan bowls.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Strings+of+Life+510+N+Robertson+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood)
+
+Coffee Healthy & plant-based
+
+Eat
+
+### Lunch & casual
+
+### Canyon Country Store
+
+$
+
+2108 Laurel Canyon Blvd
+
+The 1929 Laurel Canyon market linked to the area's 1960s music scene, with a deli counter and a small terrace.
+
+**Order:** A deli sandwich on the terrace and a look at the photos on the walls.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Canyon+Country+Store+2108+Laurel+Canyon+Blvd+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+
+Lunch Landmarks & sights Shopping
+
+### Tail o' the Pup
+
+$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 8512 Santa Monica Blvd
+
+The restored 1946 hot-dog-shaped stand, now with a big mid-century patio. A hidden tiki bar sits behind it.
+
+**Order:** A Chicago dog or a smashburger.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tail+o%27+the+Pup+8512+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants)
+
+Lunch Cheap eats Landmarks & sights
+
+### Guisados
+
+$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 8935 Santa Monica Blvd
+
+The Boyle Heights taqueria's WeHo branch, known for slow-cooked braises on fresh handmade tortillas.
+
+**Order:** The six-taco sampler.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Guisados+8935+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants)
+
+Lunch Tacos & Mexican Cheap eats
+
+**Love Hollywood Hills? Live here.** Get new Hollywood Hills listings, including off-market ones, or a free value on your Hollywood Hills home.
+
+What's my home worth? Get Hollywood Hills listings
+
+Eat
+
+### Dinner
+
+### Pace
+
+$$$
+
+2100 Laurel Canyon Blvd
+
+A cozy, romantic Italian restaurant tucked below the Canyon Country Store.
+
+**Order:** The butternut squash tortellini.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pace+2100+Laurel+Canyon+Blvd+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+
+Date night Dinner
+
+### Saltie Girl
+
+$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 8615 Sunset Blvd
+
+A Boston seafood bar on the Strip with a huge tinned-fish menu.
+
+**Order:** A lobster roll, hot or cold.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Saltie+Girl+8615+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+
+Seafood Lunch Dinner
+
+### Somni
+
+$$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 9045 Nemo St
+
+A Michelin-level tasting counter with a long, theatrical, seafood-heavy menu. One of the most expensive meals in LA.
+
+**Order:** Book the full tasting menu well in advance.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Somni+9045+Nemo+St+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants)
+
+Dinner Date night
+
+Drink
+
+### Nightlife
+
+### The Abbey
+
+$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 692 N Robertson Blvd
+
+West Hollywood's most famous bar, and one of the best known LGBTQ+ bars in the world. Several rooms, dancing at night and the neighborhood's best drag brunch.
+
+**Order:** Weekend drag brunch. Expect lines on weekend nights.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Abbey+692+N+Robertson+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/gay-la-best-gay-bars-and-clubs-in-los-angeles) [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
+
+Cocktail bars & lounges Brunch Landmarks & sights
+
+### The Lucky Tiki
+
+$$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 8512 Santa Monica Blvd
+
+A hidden, reservation-only tiki bar behind Tail o' the Pup and one of the most theatrical drinks in town.
+
+**Order:** Get on the reservation list early.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Lucky+Tiki+8512+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
+
+Cocktail bars & lounges
+
+### The Roger Room
+
+$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 370 N La Cienega Blvd
+
+A small, dark cocktail den behind a neon psychic sign. It fills up around 9pm.
+
+**Order:** Order by spirit and let the bartender build it.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Roger+Room+370+N+La+Cienega+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood) [Time Out](https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars)
+
+Cocktail bars & lounges
+
+Do
+
+### Culture & shows
+
+### The Ford
+
+$$
+
+2580 Cahuenga Blvd E
+
+An intimate 1,200-seat outdoor amphitheater built into the hillside, across the freeway from the Hollywood Bowl.
+
+**Do:** Bring your own food and drinks for a summer show.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Ford+2580+Cahuenga+Blvd+E+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+
+Live music Movies
+
+### The Comedy Store
+
+$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 8433 Sunset Blvd
+
+LA's most famous comedy club, with stand-up every night and surprise drop-ins from big names.
+
+**Do:** Tuesday's Roast Battle.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Comedy+Store+8433+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+
+Comedy & theater Late night
+
+### Laugh Factory
+
+$$
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 8001 Sunset Blvd
+
+A Strip comedy club known for celebrity sets.
+
+**Do:** Arrive early on Tuesday for the open mic.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laugh+Factory+8001+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+
+Comedy & theater
+
+Do
+
+### Parks & outdoors
+
+### Bronson Caves
+
+Free
+
+3200 Canyon Dr
+
+A short, easy walk to the cave used as the Batcave in the 1960s TV show, with a clear view of the Hollywood Sign.
+
+**Do:** Go early for parking, then keep going on the Brush Canyon trail.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+3200+Canyon+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+
+Hikes & nature Landmarks & sights Kids & family
+
+### Laurel Canyon Dog Park
+
+Free
+
+8260 Mulholland Dr
+
+A big off-leash dog park in a wooded hollow, with a separate area for small dogs.
+
+**Do:** Take the entrance curve slowly; it's steep.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Canyon+Dog+Park+8260+Mulholland+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+
+Dog-friendly Parks
+
+### West Hollywood Park
+
+Free
+
+Next door in [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · 1.7 mi · 647 N San Vicente Blvd
+
+The city's main park, with a modern playground, courts, a dog park and the library next door.
+
+**Do:** Pickleball or tennis, then the library's rooftop views.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Park+647+N+San+Vicente+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+
+Parks Kids & family Dog-friendly
+
+Sources
+
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+
 Photos
 
 ## Hollywood Hills in pictures
-
-## Around Hollywood Hills
-
-[The full Hollywood Hills guide: 5 places →](https://www.nathanielgrivas.com/guide/hollywood-hills)
-
-[Yamashiro In Hollywood Hills Hilltop Japanese palace with a view over Hollywood.](https://www.google.com/maps/search/?api=1&query=Yamashiro+Hollywood+Hills+CA) [Tail o' the Pup West Hollywood · 2 mi The hot dog-shaped stand, back on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Tail+o%27+the+Pup+West+Hollywood+CA) [Musso & Frank Grill Hollywood · 2 mi Hollywood Boulevard's oldest restaurant, since 1919.](https://www.google.com/maps/search/?api=1&query=Musso+%26+Frank+Grill+Hollywood+CA) [Jones West Hollywood · 2 mi Late-night Italian on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Jones+West+Hollywood+CA) [Pink's Hot Dogs Hollywood · 2.5 mi Chili dogs on La Brea since 1939.](https://www.google.com/maps/search/?api=1&query=Pink%27s+Hot+Dogs+Hollywood+CA) [Jon & Vinny's Fairfax · 2.5 mi Pizza and pasta on Fairfax.](https://www.google.com/maps/search/?api=1&query=Jon+%26+Vinny%27s+Fairfax+CA)
-
-[Chateau Marmont West Hollywood · 1 mi The hotel bar on the Sunset Strip.](https://www.google.com/maps/search/?api=1&query=Chateau+Marmont+West+Hollywood+CA) [Delilah West Hollywood · 1.5 mi Supper club with live music.](https://www.google.com/maps/search/?api=1&query=Delilah+West+Hollywood+CA) [No Vacancy Hollywood · 2 mi Victorian house bar off Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=No+Vacancy+Hollywood+CA) [The Frolic Room Hollywood · 2.5 mi Dive bar next to the Pantages since the 1930s.](https://www.google.com/maps/search/?api=1&query=The+Frolic+Room+Hollywood+CA) [The Abbey West Hollywood · 2.5 mi The anchor of the Rainbow District on Robertson.](https://www.google.com/maps/search/?api=1&query=The+Abbey+West+Hollywood+CA)
-
-[Lakeside Golf Club Toluca Lake · 2.5 mi Private club by the studios.](https://www.google.com/maps/search/?api=1&query=Lakeside+Golf+Club+Toluca+Lake+CA) [Studio City Golf & Tennis Studio City · 3 mi Public par-3, range and tennis on Whitsett.](https://www.google.com/maps/search/?api=1&query=Studio+City+Golf+%26+Tennis+Studio+City+CA) [Wilshire Country Club Hancock Park · 3.5 mi Private club in Hancock Park.](https://www.google.com/maps/search/?api=1&query=Wilshire+Country+Club+Hancock+Park+CA) [Roosevelt Golf Course Griffith Park · 4 mi Public nine holes below the Greek Theatre.](https://www.google.com/maps/search/?api=1&query=Roosevelt+Golf+Course+Griffith+Park+CA) [Los Angeles Country Club Holmby Hills · 4.5 mi Private. Hosted the 2023 U.S. Open.](https://www.google.com/maps/search/?api=1&query=Los+Angeles+Country+Club+Holmby+Hills+CA) [Griffith Park: Wilson & Harding Griffith Park · 5 mi Two public 18-hole courses.](https://www.google.com/maps/search/?api=1&query=Griffith+Park%3A+Wilson+%26+Harding+Griffith+Park+CA)
-
-[TCL Chinese Theatre Hollywood · 1.5 mi IMAX premieres and the handprints out front.](https://www.google.com/maps/search/?api=1&query=TCL+Chinese+Theatre+Hollywood+CA) [El Capitan Theatre Hollywood · 1.5 mi Restored 1926 movie palace on Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=El+Capitan+Theatre+Hollywood+CA) [Egyptian Theatre Hollywood · 2 mi 1922 movie palace for classics and premieres.](https://www.google.com/maps/search/?api=1&query=Egyptian+Theatre+Hollywood+CA) [Brain Dead Studios Fairfax · 2.5 mi Indie screenings in the old Silent Movie Theatre.](https://www.google.com/maps/search/?api=1&query=Brain+Dead+Studios+Fairfax+CA) [New Beverly Cinema Beverly Grove · 3 mi Quentin Tarantino's repertory house on Beverly.](https://www.google.com/maps/search/?api=1&query=New+Beverly+Cinema+Beverly+Grove+CA) [Hollywood Forever Cemetery Hollywood · 3 mi Cinespia's summer movies on the lawn.](https://www.google.com/maps/search/?api=1&query=Hollywood+Forever+Cemetery+Hollywood+CA)
-
-[Hollywood Bowl In Hollywood Hills Summer concerts under the shell. Bring a picnic.](https://www.google.com/maps/search/?api=1&query=Hollywood+Bowl+Hollywood+Hills+CA) [Laugh Factory West Hollywood · 1 mi Stand-up at Sunset and Laurel.](https://www.google.com/maps/search/?api=1&query=Laugh+Factory+West+Hollywood+CA) [The Comedy Store West Hollywood · 1.5 mi Stand-up on the Sunset Strip.](https://www.google.com/maps/search/?api=1&query=The+Comedy+Store+West+Hollywood+CA) [The Baked Potato Studio City · 1.5 mi Jazz club on Cahuenga since 1970.](https://www.google.com/maps/search/?api=1&query=The+Baked+Potato+Studio+City+CA) [Universal Studios Hollywood Universal City · 1.5 mi Theme park, studio tour and CityWalk.](https://www.google.com/maps/search/?api=1&query=Universal+Studios+Hollywood+Universal+City+CA) [Whisky a Go Go West Hollywood · 2 mi Sunset Strip rock club since 1964.](https://www.google.com/maps/search/?api=1&query=Whisky+a+Go+Go+West+Hollywood+CA)
-
-[Runyon Canyon Park In Hollywood Hills Short steep hike with a Hollywood view.](https://www.google.com/maps/search/?api=1&query=Runyon+Canyon+Park+Hollywood+Hills+CA) [Hollywood Reservoir loop In Hollywood Hills Flat paved loop around the reservoir.](https://www.google.com/maps/search/?api=1&query=Hollywood+Reservoir+loop+Hollywood+Hills+CA) [Lake Hollywood Park In Hollywood Hills Lawn below the Hollywood sign.](https://www.google.com/maps/search/?api=1&query=Lake+Hollywood+Park+Hollywood+Hills+CA) [Wilacre Park Studio City · 1.5 mi Shaded climb from Laurel Canyon.](https://www.google.com/maps/search/?api=1&query=Wilacre+Park+Studio+City+CA) [Fryman Canyon Studio City · 2 mi Loop trail up to Mulholland.](https://www.google.com/maps/search/?api=1&query=Fryman+Canyon+Studio+City+CA) [Coldwater Canyon Park Beverly Hills Post Office · 2.5 mi TreePeople trails on Mulholland.](https://www.google.com/maps/search/?api=1&query=Coldwater+Canyon+Park+Beverly+Hills+Post+Office+CA)
 
 Living here
 

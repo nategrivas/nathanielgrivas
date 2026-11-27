@@ -1,4 +1,4 @@
-# Living in Playa del Rey, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Playa del Rey, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/playa-del-rey
 
@@ -51,25 +51,194 @@ From above
 
 What's my home worth? Get Playa del Rey listings
 
+Local LA
+
+## Where to eat, drink and go in Playa del Rey
+
+See them on the map →
+
+Playa del Rey is a small beach town at the south end of the Ballona Wetlands, with a short, walkable strip of bars and restaurants on Culver Boulevard and wide beaches where you can watch jets leave LAX.
+
+11 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
+
+Eat
+
+### Coffee & breakfast
+
+### Tanner's Coffee Co.
+
+$
+
+200 Culver Blvd, Suite C
+
+A small neighborhood cafe with vintage photos of the area and solid breakfast sandwiches.
+
+**Order:** A croissant breakfast sandwich and a latte.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tanner%27s+Coffee+Co.+200+Culver+Blvd%2C+Suite+C+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Coffee Breakfast
+
+### Petros Kafe
+
+$
+
+427 Culver Blvd
+
+A tiny coffee bar with a patio over the wetlands and a Greek food truck out back. Open Wednesday through Sunday.
+
+**Order:** An iced latte and a Greek omelette from the truck.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Petros+Kafe+427+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Coffee Breakfast
+
+### T.C. Organic
+
+$$
+
+333 Culver Blvd
+
+A family-run Mexican restaurant cooking everything from scratch.
+
+**Order:** Chilaquiles at brunch or the fish tacos.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=T.C.+Organic+333+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Breakfast Tacos & Mexican Lunch
+
+Eat & drink
+
+### Dinner & drinks
+
+### Playa Provisions
+
+$$$
+
+119 Culver Blvd
+
+Chef Brooke Williamson's beachside spot with a daytime counter, a seafood dining room, a whiskey bar and house-made ice cream.
+
+**Order:** Crab claws and the lobster roll, then ice cream.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Playa+Provisions+119+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Seafood Dinner Brunch
+
+### Bacari PDR
+
+$$
+
+6805 S Vista Del Mar Ln
+
+A Mediterranean small-plates restaurant and the neighborhood's go-to for a night out.
+
+**Order:** Share several small plates with a bottle of wine.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bacari+PDR+6805+S+Vista+Del+Mar+Ln+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Dinner Date night Wine bars
+
+### Caffe Pinguini
+
+$$$
+
+6935 Pacific Ave
+
+A Roman-run Italian restaurant serving fresh pasta near the beach since 1997, with a heated back patio.
+
+**Order:** A pasta and a glass of Italian red.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Pinguini+6935+Pacific+Ave+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Date night Dinner
+
+### Whiskey Red's
+
+$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.8 mi · 13813 Fiji Way
+
+A touristy spot where the marina view is the reason to go.
+
+**Order:** A drink on the patio at sunset.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Whiskey+Red%27s+13813+Fiji+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Cocktail bars & lounges Rooftops & views
+
+### The Warehouse Restaurant
+
+$$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.8 mi · 4499 Admiralty Way
+
+A quirky, rowdy nautical-themed classic on the water.
+
+**Order:** A tropical drink with friends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Warehouse+Restaurant+4499+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Cocktail bars & lounges
+
+**Love Playa del Rey? Live here.** Get new Playa del Rey listings, including off-market ones, or a free value on your Playa del Rey home.
+
+What's my home worth? Get Playa del Rey listings
+
+Do
+
+### Parks & outdoors
+
+### Dockweiler State Beach
+
+$
+
+12000 Vista Del Mar
+
+A wide beach with fire pits, a bike path and jets taking off from LAX right overhead.
+
+**Do:** Arrive early on weekends to claim a fire pit.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach+12000+Vista+Del+Mar+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
+Beaches Landmarks & sights
+
+### Ballona Wetlands Ecological Reserve
+
+Free
+
+Next door in [Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista) · 1.6 mi · Ballona Wetlands
+
+A protected coastal wetland with birding and a walking and bike path that links Marina del Rey and Playa del Rey.
+
+**Do:** An early walk or bike ride along the path. Parts may be closed for restoration.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Ecological+Reserve+Ballona+Wetlands+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+
+Hikes & nature Parks
+
+### Mothers Beach
+
+$
+
+Next door in [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey) · 1.8 mi · 4101 Admiralty Way
+
+A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and paddleboard launching.
+
+**Do:** Bring little kids, or launch a paddleboard.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+
+Beaches Kids & family Fitness & outdoor sports
+
+Sources
+
+- [OpenTable diner reviews: Playa del Rey](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+
 Photos
 
 ## Playa del Rey in pictures
-
-## Around Playa del Rey
-
-[The full Playa del Rey guide: 9 places →](https://www.nathanielgrivas.com/guide/playa-del-rey)
-
-[The Shack In Playa del Rey Beach-town burgers on Culver Boulevard.](https://www.google.com/maps/search/?api=1&query=The+Shack+Playa+del+Rey+CA) [Cantalini's Salerno Beach In Playa del Rey Old-school Italian in Playa del Rey.](https://www.google.com/maps/search/?api=1&query=Cantalini%27s+Salerno+Beach+Playa+del+Rey+CA)
-
-[Hinano Cafe Venice · 2 mi Beer and burgers by the Venice Pier.](https://www.google.com/maps/search/?api=1&query=Hinano+Cafe+Venice+CA) [The Brig Venice · 2.5 mi Abbot Kinney bar with the neon boxer sign.](https://www.google.com/maps/search/?api=1&query=The+Brig+Venice+CA) [Townhouse & Del Monte Speakeasy Venice · 3 mi Bar upstairs, jazz in the basement, since 1915.](https://www.google.com/maps/search/?api=1&query=Townhouse+%26+Del+Monte+Speakeasy+Venice+CA)
-
-[Westchester Golf Course Westchester · 2 mi Public 18 holes next to LAX.](https://www.google.com/maps/search/?api=1&query=Westchester+Golf+Course+Westchester+CA) [Penmar Golf Course Venice · 3.5 mi Public nine-hole course on Rose Avenue.](https://www.google.com/maps/search/?api=1&query=Penmar+Golf+Course+Venice+CA)
-
-[Cinemark Playa Vista Playa Vista · 2 mi Recliners at the Runway.](https://www.google.com/maps/search/?api=1&query=Cinemark+Playa+Vista+Playa+Vista+CA) [Laemmle Monica Film Center Santa Monica · 5.5 mi Indie and foreign films downtown.](https://www.google.com/maps/search/?api=1&query=Laemmle+Monica+Film+Center+Santa+Monica+CA) [Laemmle Royal West LA · 6 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA)
-
-[Santa Monica Pier Santa Monica · 5 mi Pacific Park rides and summer concerts.](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Pier+Santa+Monica+CA) [Kirk Douglas Theatre Culver City · 5 mi Center Theatre Group plays downtown.](https://www.google.com/maps/search/?api=1&query=Kirk+Douglas+Theatre+Culver+City+CA) [Kia Forum Inglewood · 5.5 mi Arena concerts.](https://www.google.com/maps/search/?api=1&query=Kia+Forum+Inglewood+CA)
-
-[Ballona Wetlands In Playa del Rey Marsh trails and birding.](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Playa+del+Rey+CA) [Dockweiler State Beach In Playa del Rey Fire rings on the sand.](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach+Playa+del+Rey+CA) [Mother's Beach Marina del Rey · 2 mi Calm harbor beach for swimming and paddleboards.](https://www.google.com/maps/search/?api=1&query=Mother%27s+Beach+Marina+del+Rey+CA) [Venice Canals Venice · 2.5 mi Walk the footbridges and canal paths.](https://www.google.com/maps/search/?api=1&query=Venice+Canals+Venice+CA) [Venice Beach Boardwalk Venice · 2.5 mi Skate park, Muscle Beach and the courts.](https://www.google.com/maps/search/?api=1&query=Venice+Beach+Boardwalk+Venice+CA)
 
 Living here
 
@@ -139,11 +308,11 @@ Next door
 
 [Coast · $$$Marina del ReyBoats, high-rises and the bike path, run by the county.](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey)
 
-The LA Journal
+LA News
 
 ## Playa del Rey in the news
 
-[All journal entries →](https://www.nathanielgrivas.com/journal)
+[All LA news →](https://www.nathanielgrivas.com/news)
 
 Weather
 
@@ -151,7 +320,7 @@ Weather
 
 An extreme high tide of about 8 feet arrived Thursday morning, with a coastal flood advisory for the Malibu coast and LA County beaches through noon and a high surf warning until 9 p.m. Forecasters expect waves of roughly 6 to 11 feet with strong rip currents, and the LA Harbor tied its all-time high-water mark. If you're heading to the beach this weekend, check tide times before parking in beach lots and stay off the rocks and jetties.
 
-[November 26, 2026](https://www.nathanielgrivas.com/journal/2026-11-26) · Neighborhoods: [Malibu](https://www.nathanielgrivas.com/guide/malibu), [Santa Monica](https://www.nathanielgrivas.com/guide/santa-monica), [Venice](https://www.nathanielgrivas.com/guide/venice), [Marina del Rey](https://www.nathanielgrivas.com/guide/marina-del-rey), [Playa del Rey](https://www.nathanielgrivas.com/guide/playa-del-rey) · Sources: [ABC7 live updates](https://abc7.com/live-updates/king-tides-live-updates-socal-coastal-communities-brace-possible-record-breaking-high-surf-flooding-heres-timeline/20070299/), [Yahoo News / ABC7](https://www.yahoo.com/news/weather-news/articles/amtrak-pacific-surfliner-train-suspended-191750201.html)
+[November 26, 2026](https://www.nathanielgrivas.com/journal/2026-11-26) · Neighborhoods: [Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu), [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica), [Venice](https://www.nathanielgrivas.com/neighborhoods/venice), [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey), [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · Sources: [ABC7 live updates](https://abc7.com/live-updates/king-tides-live-updates-socal-coastal-communities-brace-possible-record-breaking-high-surf-flooding-heres-timeline/20070299/), [Yahoo News / ABC7](https://www.yahoo.com/news/weather-news/articles/amtrak-pacific-surfliner-train-suspended-191750201.html)
 
 Questions
 

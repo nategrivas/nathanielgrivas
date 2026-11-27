@@ -95,7 +95,7 @@ Raised between New York and Seattle, Nathaniel studied Marketing and Business La
 - [Compare two neighborhoods](https://www.nathanielgrivas.com/tools/compare): Side by side: rules, schools, price level and what daily life is like.
 - [LA isn't one city](https://www.nathanielgrivas.com/tools/la-rules): Transfer taxes, rent control and schools change at every city line. Here's the map.
 
-## LA Guide
+## Articles
 
 - [Prop TE: Palisades fire sellers can skip LA's mansion tax](https://www.nathanielgrivas.com/guide/prop-te-palisades-mansion-tax-exemption): LA voters approved Proposition TE. Who qualifies, what it saves on a $6M sale, and who still pays Measure ULA in the Palisades.
 - [The 90210 homes that pay LA's mansion tax](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la): Beverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax.

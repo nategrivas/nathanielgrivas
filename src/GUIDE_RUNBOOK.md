@@ -112,3 +112,21 @@ after uploading.
 - Ad tracking: set GTAG_ID and META_PIXEL at the top of build.py once the ad accounts exist. lead.js fires generate_lead / Lead events when those tags are present.
 - Forms go through FormSubmit to nate.grivas@compass.com. If leads stop arriving, check the inbox for an "Activate FormSubmit" email.
 - Vercel Hobby rate limits deploys after a burst; failed commits show "Deployment rate limited". Upload a new src/DEPLOY_PING.txt later and the next deploy that goes through publishes all of main.
+
+## Site v10 notes (Local LA, news, public-record prefill)
+- Neighborhoods and the guide are one section now, "Local LA". The guide lives on each `/neighborhoods/<slug>/`
+  page (map of every pick + sections). `/guide/<slug>/` and `/guide/` 301 to the neighborhood pages; articles stay at
+  `/guide/<post>/` and best-of pages at `/guide/best/<cat>/` (only categories with 3+ picks are built).
+- Sections on a neighborhood page (guide_build.SECTIONS): Coffee & breakfast, Lunch & casual, Dinner, Nightlife,
+  Culture & shows, Parks & outdoors, Shops. Rule: no section shows with fewer than 3 picks. Thin sections are topped up
+  with picks from neighborhoods within 2.5 miles ("Next door in ..."), then merged ("Dinner & drinks", "Things to do").
+- Nightlife is only the hottest scenes and the classiest rooms. No dive bars, sports bars or beer bars (those
+  categories are retired). A bar gets in if it's a see-and-be-seen spot or a polished cocktail/hotel/rooftop room.
+- Pins: each place can carry `"ll": [lat, lng]`. The map shows once a neighborhood has 3+ pinned places; until then the
+  page keeps the satellite view. Geocode new places (Nominatim/OSM, 1 request per second) and add `ll` when you add them.
+- LA News (`/news/`): Today = the latest journal file. This week and This month come from `src/news.json`
+  (`week.items`, `month.lead`, `month.items`), same item format as the journal. Refresh the week every Monday and the
+  month's headline on the 1st, plus any time a bigger story lands. Facts only, every item sourced, no opinions.
+- Home value flow: after the address, lead.js looks up the LA County parcel (beds, baths, sq ft, lot, year built) and
+  SCAG zoning in the visitor's browser and asks them to confirm. The lead email includes APN, zoning and whether the
+  owner confirmed or corrected the record.

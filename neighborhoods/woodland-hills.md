@@ -1,4 +1,4 @@
-# Living in Woodland Hills, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Woodland Hills, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/woodland-hills
 
@@ -51,19 +51,80 @@ From above
 
 What's my home worth? Get Woodland Hills listings
 
-## Around Woodland Hills
+Local LA
 
-[The full Woodland Hills guide: 5 places →](https://www.nathanielgrivas.com/guide/woodland-hills)
+## Where to eat, drink and go in Woodland Hills
 
-[The Village at Westfield Topanga In Woodland Hills Outdoor dining and shops in Warner Center.](https://www.google.com/maps/search/?api=1&query=The+Village+at+Westfield+Topanga+Woodland+Hills+CA)
+See them on the map →
 
-[Woodland Hills Country Club In Woodland Hills Private club in Woodland Hills.](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+Country+Club+Woodland+Hills+CA) [El Caballero Country Club Tarzana · 4 mi Private club in Tarzana.](https://www.google.com/maps/search/?api=1&query=El+Caballero+Country+Club+Tarzana+CA) [Braemar Country Club Tarzana · 4.5 mi Private club in the Tarzana hills.](https://www.google.com/maps/search/?api=1&query=Braemar+Country+Club+Tarzana+CA)
+Woodland Hills sits at the west end of the Valley, with Ventura Boulevard's restaurants along the south side, the Warner Center district's parks and shopping to the north, and the Santa Monica Mountains rising behind it.
 
-[Regal Sherman Oaks Galleria Sherman Oaks · 8 mi IMAX and 4DX at the Galleria.](https://www.google.com/maps/search/?api=1&query=Regal+Sherman+Oaks+Galleria+Sherman+Oaks+CA)
+4 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Skirball Cultural Center Brentwood · 8 mi Museum and hands-on exhibits off the 405.](https://www.google.com/maps/search/?api=1&query=Skirball+Cultural+Center+Brentwood+CA) [Getty Villa Pacific Palisades · 9 mi Roman villa museum above PCH. Free timed tickets.](https://www.google.com/maps/search/?api=1&query=Getty+Villa+Pacific+Palisades+CA) [Getty Center Brentwood · 10 mi Art, gardens and the view. Free entry, paid parking.](https://www.google.com/maps/search/?api=1&query=Getty+Center+Brentwood+CA)
+Go
 
-[Warner Center Park In Woodland Hills Summer concerts on the lawn.](https://www.google.com/maps/search/?api=1&query=Warner+Center+Park+Woodland+Hills+CA) [Reseda Park Reseda · 4.5 mi Lake, fields and the rec center.](https://www.google.com/maps/search/?api=1&query=Reseda+Park+Reseda+CA) [Los Encinos State Historic Park Encino · 6 mi Spring-fed pond and 1800s buildings.](https://www.google.com/maps/search/?api=1&query=Los+Encinos+State+Historic+Park+Encino+CA)
+### Restaurants & cafes
+
+### Prose Kitchen and Bar
+
+$$$
+
+21150 Ventura Blvd
+
+A small, ambitious neighborhood restaurant with a seasonal menu, a tasting menu option and weekend brunch.
+
+**Order:** The four-course tasting menu, or happy hour at the bar.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Prose+Kitchen+and+Bar+21150+Ventura+Blvd+Woodland+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
+
+Dinner Brunch Date night
+
+### The Brothers Sushi
+
+$$$$
+
+21418 Ventura Blvd
+
+A lively, high-end sushi restaurant with fish sourced from Japan, in an unassuming building.
+
+**Order:** Start with the omakase; come back for the loaded chirashi at lunch.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Brothers+Sushi+21418+Ventura+Blvd+Woodland+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
+
+Sushi & Japanese Date night Lunch
+
+### Warner Center Park
+
+Free
+
+5800 Topanga Canyon Blvd
+
+A big, shady lawn that hosts free concerts in the summer.
+
+**Do:** Bring a blanket for a summer concert night.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Warner+Center+Park+5800+Topanga+Canyon+Blvd+Woodland+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
+
+Parks Live music Kids & family
+
+### Topanga Village
+
+$$
+
+6256 Topanga Canyon Blvd
+
+An open-air shopping village with restaurants, a bookstore and plenty of outdoor seating.
+
+**Do:** Browse The Open Book, then grab lunch on the plaza.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Topanga+Village+6256+Topanga+Canyon+Blvd+Woodland+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
+
+Shopping
+
+Sources
+
+- [The Infatuation: San Fernando Valley](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
 
 Living here
 

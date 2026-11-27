@@ -1,4 +1,4 @@
-# Living in Westchester, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Westchester, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/westchester
 
@@ -51,21 +51,131 @@ From above
 
 What's my home worth? Get Westchester listings
 
-## Around Westchester
+Local LA
 
-[The full Westchester guide: 6 places →](https://www.nathanielgrivas.com/guide/westchester)
+## Where to eat, drink and go in Westchester
 
-[Truxton's In Westchester Neighborhood American bistro in Westchester.](https://www.google.com/maps/search/?api=1&query=Truxton%27s+Westchester+CA) [Pann's In Westchester Googie coffee shop on La Tijera since 1958.](https://www.google.com/maps/search/?api=1&query=Pann%27s+Westchester+CA)
+See them on the map →
 
-[Hinano Cafe Venice · 4 mi Beer and burgers by the Venice Pier.](https://www.google.com/maps/search/?api=1&query=Hinano+Cafe+Venice+CA) [The Culver Hotel Culver City · 4.5 mi Lobby bar with live jazz in the 1924 flatiron.](https://www.google.com/maps/search/?api=1&query=The+Culver+Hotel+Culver+City+CA) [The Brig Venice · 4.5 mi Abbot Kinney bar with the neon boxer sign.](https://www.google.com/maps/search/?api=1&query=The+Brig+Venice+CA)
+Westchester sits on the bluffs just north of LAX, home to Loyola Marymount University and a set of neighborhood restaurants and coffee shops along Manchester Avenue, La Tijera Boulevard and the Westchester Triangle.
 
-[Westchester Golf Course In Westchester Public 18 holes next to LAX.](https://www.google.com/maps/search/?api=1&query=Westchester+Golf+Course+Westchester+CA) [Penmar Golf Course Venice · 4.5 mi Public nine-hole course on Rose Avenue.](https://www.google.com/maps/search/?api=1&query=Penmar+Golf+Course+Venice+CA)
+7 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Cinemark Playa Vista Playa Vista · 1.5 mi Recliners at the Runway.](https://www.google.com/maps/search/?api=1&query=Cinemark+Playa+Vista+Playa+Vista+CA) [Laemmle Royal West LA · 6.5 mi Art house on Santa Monica Boulevard.](https://www.google.com/maps/search/?api=1&query=Laemmle+Royal+West+LA+CA) [AMC Century City 15 Century City · 7 mi IMAX and Dolby at Westfield Century City.](https://www.google.com/maps/search/?api=1&query=AMC+Century+City+15+Century+City+CA)
+Eat
 
-[Kia Forum Inglewood · 3 mi Arena concerts.](https://www.google.com/maps/search/?api=1&query=Kia+Forum+Inglewood+CA) [SoFi Stadium Inglewood · 3.5 mi Rams, Chargers and stadium concerts.](https://www.google.com/maps/search/?api=1&query=SoFi+Stadium+Inglewood+CA) [Intuit Dome Inglewood · 3.5 mi Home of the Clippers.](https://www.google.com/maps/search/?api=1&query=Intuit+Dome+Inglewood+CA)
+### Coffee & breakfast
 
-[Ballona Wetlands Playa del Rey · 2.5 mi Marsh trails and birding.](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Playa+del+Rey+CA) [Dockweiler State Beach Playa del Rey · 2.5 mi Fire rings on the sand.](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach+Playa+del+Rey+CA) [Mother's Beach Marina del Rey · 3.5 mi Calm harbor beach for swimming and paddleboards.](https://www.google.com/maps/search/?api=1&query=Mother%27s+Beach+Marina+del+Rey+CA) [Kenneth Hahn Recreation Area Baldwin Hills · 4 mi Lakes and trails in the Baldwin Hills.](https://www.google.com/maps/search/?api=1&query=Kenneth+Hahn+Recreation+Area+Baldwin+Hills+CA)
+### The Boy & The Bear
+
+$
+
+7403 S La Tijera Blvd
+
+A coffee roaster with a roomy cafe, good wifi and easy parking, popular for working.
+
+**Order:** A flat white with a pastry.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Boy+%26+The+Bear+7403+S+La+Tijera+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+
+Coffee
+
+### The Coffee Company
+
+$$
+
+8751 S La Tijera Blvd
+
+A busy corner cafe minutes from LAX with a long breakfast menu and house-made biscuits.
+
+**Order:** An omelet with the Potatoes O'Brien and a biscuit.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Coffee+Company+8751+S+La+Tijera+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+
+Breakfast Brunch Coffee
+
+### Mom, Please
+
+$$
+
+Next door in [Playa Vista](https://www.nathanielgrivas.com/neighborhoods/playa-vista) · 1.8 mi · Playa Vista
+
+An excellent, cozy Ukrainian cafe on the border of Playa Vista and Marina del Rey.
+
+**Order:** Syrniki and a brunch plate.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mom%2C+Please+Playa+Vista+Playa+Vista+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
+
+Brunch Breakfast
+
+Eat & drink
+
+### Dinner & drinks
+
+### Tomat
+
+$$$
+
+6261 W 87th St
+
+A seasonal, garden-to-table restaurant and bakery with a rooftop patio that looks out on planes landing at LAX.
+
+**Order:** Morning pastries, or dinner on the roof.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tomat+6261+W+87th+St+Westchester+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-Los-angeles) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+
+Date night Dinner Brunch
+
+### Ayara Thai
+
+$$
+
+6245 W 87th St
+
+A family-owned Thai restaurant that has been a Westside favorite since 2004.
+
+**Order:** Chicken satay, pad see ew and mango sticky rice. Book ahead; it fills up.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ayara+Thai+6245+W+87th+St+Westchester+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com.au/features/best-restaurants-for-foodies-lax-ca)
+
+Dinner Lunch
+
+### Shokudo
+
+$$
+
+6224 W Manchester Ave
+
+A newer Japanese restaurant known for handmade udon and katsu sets.
+
+**Order:** Handmade udon with tempura.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Shokudo+6224+W+Manchester+Ave+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+
+Dinner Lunch
+
+### The Manchester
+
+$$
+
+8522 Lincoln Blvd
+
+A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy hour.
+
+**Order:** A whiskey sour and the Sichuan wings.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+
+Cocktail bars & lounges Dinner Date night
+
+**Love Westchester? Live here.** Get new Westchester listings, including off-market ones, or a free value on your Westchester home.
+
+What's my home worth? Get Westchester listings
+
+Sources
+
+- [Time Out: The best restaurants in LA](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-Los-angeles)
+- [OpenTable diner reviews: LAX / Westchester](https://opentable.com.au/features/best-restaurants-for-foodies-lax-ca)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Living here
 

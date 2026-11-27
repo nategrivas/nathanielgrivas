@@ -2,7 +2,7 @@
 
 Source page: https://www.nathanielgrivas.com/guide/prop-te-palisades-mansion-tax-exemption
 
-[LA Guide](https://www.nathanielgrivas.com/guide) / Laws & Money
+[Local LA](https://www.nathanielgrivas.com/neighborhoods) / [Articles](https://www.nathanielgrivas.com/neighborhoods/#articles) / Laws & Money
 
 # Prop TE: Palisades fire sellers can skip LA's mansion tax
 

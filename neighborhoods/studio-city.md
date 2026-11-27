@@ -1,4 +1,4 @@
-# Living in Studio City, Los Angeles: Satellite Map, Photos & Guide | Nathaniel Grivas
+# Studio City, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/studio-city
 
@@ -51,21 +51,413 @@ From above
 
 What's my home worth? Get Studio City listings
 
-## Around Studio City
+Local LA
 
-[The full Studio City guide: 21 places →](https://www.nathanielgrivas.com/guide/studio-city)
+## Where to eat, drink and go in Studio City
 
-[Asanebo In Studio City Sushi on Ventura Boulevard's sushi row.](https://www.google.com/maps/search/?api=1&query=Asanebo+Studio+City+CA) [Art's Delicatessen In Studio City Valley deli on Ventura Boulevard since 1957.](https://www.google.com/maps/search/?api=1&query=Art%27s+Delicatessen+Studio+City+CA) [Casa Vega Sherman Oaks · 1.5 mi Red booths and margaritas on Ventura since 1956.](https://www.google.com/maps/search/?api=1&query=Casa+Vega+Sherman+Oaks+CA) [Republic of Pie North Hollywood · 2 mi Pie and coffee in the NoHo Arts District.](https://www.google.com/maps/search/?api=1&query=Republic+of+Pie+North+Hollywood+CA)
+See them on the map →
 
-[Laurel Tavern In Studio City Craft beer bar on Ventura Boulevard.](https://www.google.com/maps/search/?api=1&query=Laurel+Tavern+Studio+City+CA) [Tiki No North Hollywood · 1.5 mi Tiki bar on Lankershim.](https://www.google.com/maps/search/?api=1&query=Tiki+No+North+Hollywood+CA) [The Federal Bar North Hollywood · 2 mi Bar in an old bank on Lankershim.](https://www.google.com/maps/search/?api=1&query=The+Federal+Bar+North+Hollywood+CA)
+Studio City runs along Ventura Boulevard at the foot of the Santa Monica Mountains, with the CBS studio lot, a long strip of sushi bars and neighborhood restaurants, a classic jazz club on Cahuenga and trailheads like Fryman Canyon a few minutes up the hill.
 
-[Studio City Golf & Tennis In Studio City Public par-3, range and tennis on Whitsett.](https://www.google.com/maps/search/?api=1&query=Studio+City+Golf+%26+Tennis+Studio+City+CA) [Lakeside Golf Club Toluca Lake · 2.5 mi Private club by the studios.](https://www.google.com/maps/search/?api=1&query=Lakeside+Golf+Club+Toluca+Lake+CA)
+26 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
-[Laemmle NoHo 7 North Hollywood · 2 mi Seven screens in the Arts District.](https://www.google.com/maps/search/?api=1&query=Laemmle+NoHo+7+North+Hollywood+CA) [TCL Chinese Theatre Hollywood · 4 mi IMAX premieres and the handprints out front.](https://www.google.com/maps/search/?api=1&query=TCL+Chinese+Theatre+Hollywood+CA) [El Capitan Theatre Hollywood · 4 mi Restored 1926 movie palace on Hollywood Boulevard.](https://www.google.com/maps/search/?api=1&query=El+Capitan+Theatre+Hollywood+CA)
+Eat
 
-[The Baked Potato In Studio City Jazz club on Cahuenga since 1970.](https://www.google.com/maps/search/?api=1&query=The+Baked+Potato+Studio+City+CA) [El Portal Theatre North Hollywood · 1.5 mi Live theater on Lankershim.](https://www.google.com/maps/search/?api=1&query=El+Portal+Theatre+North+Hollywood+CA) [Universal Studios Hollywood Universal City · 2 mi Theme park, studio tour and CityWalk.](https://www.google.com/maps/search/?api=1&query=Universal+Studios+Hollywood+Universal+City+CA) [The Comedy Store West Hollywood · 3.5 mi Stand-up on the Sunset Strip.](https://www.google.com/maps/search/?api=1&query=The+Comedy+Store+West+Hollywood+CA) [Laugh Factory West Hollywood · 3.5 mi Stand-up at Sunset and Laurel.](https://www.google.com/maps/search/?api=1&query=Laugh+Factory+West+Hollywood+CA) [Hollywood Bowl Hollywood Hills · 3.5 mi Summer concerts under the shell. Bring a picnic.](https://www.google.com/maps/search/?api=1&query=Hollywood+Bowl+Hollywood+Hills+CA)
+### Coffee & breakfast
 
-[Fryman Canyon In Studio City Loop trail up to Mulholland.](https://www.google.com/maps/search/?api=1&query=Fryman+Canyon+Studio+City+CA) [Wilacre Park In Studio City Shaded climb from Laurel Canyon.](https://www.google.com/maps/search/?api=1&query=Wilacre+Park+Studio+City+CA) [Coldwater Canyon Park Beverly Hills Post Office · 1 mi TreePeople trails on Mulholland.](https://www.google.com/maps/search/?api=1&query=Coldwater+Canyon+Park+Beverly+Hills+Post+Office+CA) [North Hollywood Park North Hollywood · 2 mi Big park, pool and library.](https://www.google.com/maps/search/?api=1&query=North+Hollywood+Park+North+Hollywood+CA) [Franklin Canyon Park Beverly Hills Post Office · 2 mi Lake and trails above Beverly Hills.](https://www.google.com/maps/search/?api=1&query=Franklin+Canyon+Park+Beverly+Hills+Post+Office+CA) [Runyon Canyon Park Hollywood Hills · 3.5 mi Short steep hike with a Hollywood view.](https://www.google.com/maps/search/?api=1&query=Runyon+Canyon+Park+Hollywood+Hills+CA)
+### Saint Coffee Shop
+
+$$
+
+11706 Moorpark St
+
+A busy neighborhood coffee shop with well-balanced espresso drinks and good pastries.
+
+**Order:** An iced vanilla latte and a cinnamon roll.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Saint+Coffee+Shop+11706+Moorpark+St+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+
+Coffee Breakfast
+
+### Aroma Cafe
+
+$$
+
+Ventura Blvd
+
+An all-day neighborhood cafe where the pastry case and sandwiches draw a steady line.
+
+**Order:** Coffee and something from the bakery case.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Aroma+Cafe+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Breakfast Coffee Lunch
+
+### Moxie Coffee Bar
+
+$
+
+Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 2.1 mi · 5300 Lankershim Blvd, Suite 115
+
+A bright Arts District coffee bar with creative lattes and plenty of dairy-free and sugar-free options.
+
+**Order:** The panela canela latte.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Moxie+Coffee+Bar+5300+Lankershim+Blvd%2C+Suite+115+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Coffee
+
+Eat
+
+### Lunch & casual
+
+### El Ruso Taquería
+
+$
+
+10624 Ventura Blvd
+
+Sonoran-style tacos on fresh flour tortillas, with meats cooked over mesquite.
+
+**Order:** The thin-cut ribeye taco.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Ruso+Taquer%C3%ADa+10624+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Tacos & Mexican Cheap eats Lunch
+
+### Joe's Falafel
+
+$
+
+3535 Cahuenga Blvd W
+
+A tiny counter near the studios turning out kabobs, shawarma and falafel wraps.
+
+**Order:** A falafel laffa or the beef kabob plate.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Joe%27s+Falafel+3535+Cahuenga+Blvd+W+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Lunch Cheap eats
+
+### Avi Cue
+
+$$
+
+11288 Ventura Blvd
+
+A quick counter built around spit-roasted shawarma.
+
+**Order:** The wagyu shawarma sandwich.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Avi+Cue+11288+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Lunch Cheap eats
+
+### Daichan
+
+$$
+
+11288 Ventura Blvd
+
+A cluttered, homey Japanese comfort food spot tucked into a strip mall.
+
+**Order:** The original poke bowl.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Daichan+11288+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Lunch Dinner
+
+**Love Studio City? Live here.** Get new Studio City listings, including off-market ones, or a free value on your Studio City home.
+
+What's my home worth? Get Studio City listings
+
+Eat
+
+### Dinner
+
+### Burosu Ramen
+
+$$
+
+12265 Ventura Blvd, Unit 102
+
+One of the strongest ramen shops in the Valley, with big bowls worth taking home.
+
+**Order:** The spicy Reddo, plus the brothless Orenji to share.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Burosu+Ramen+12265+Ventura+Blvd%2C+Unit+102+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Dinner Lunch
+
+### Saoha Khao Soi
+
+$$
+
+3250 Cahuenga Blvd W
+
+A Northern Thai specialist known for its rich curry noodle soup.
+
+**Order:** Khao soi with crispy pork or soft-shell crab.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Saoha+Khao+Soi+3250+Cahuenga+Blvd+W+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Dinner Lunch
+
+### Mantee Cafe
+
+$$
+
+10962 Ventura Blvd
+
+A family-run Armenian restaurant with generous plates and a warm room.
+
+**Order:** The mantee dumplings with yogurt, dolma and the sizzling feta.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mantee+Cafe+10962+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Dinner Lunch
+
+### Black Market Liquor Bar
+
+$$
+
+11915 Ventura Blvd
+
+A long-running gastropub under a brick barrel ceiling with a big shareable menu that works for groups.
+
+**Order:** Small plates to share and a cocktail.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Black+Market+Liquor+Bar+11915+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+
+Dinner Cocktail bars & lounges Date night
+
+### Uovo
+
+$$
+
+Ventura Blvd
+
+A casual pasta bar making fresh pasta in a relaxed setting.
+
+**Order:** Two pastas to share.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Uovo+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Dinner Date night
+
+### Rosetta Osteria & Crudo Bar
+
+$$$
+
+12345 Ventura Blvd
+
+An Italian dining room pairing raw seafood with pastas and a good wine list. Dinner only, closed Mondays.
+
+**Order:** Oysters and a couple of crudos to start.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Rosetta+Osteria+%26+Crudo+Bar+12345+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+
+Date night Dinner Seafood
+
+### Alto
+
+$$$$
+
+12969 Ventura Blvd
+
+A dark, moody Argentine steakhouse built around an open fire grill.
+
+**Order:** Piquillo peppers and the lamb saddle. It is a splurge.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Alto+12969+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Date night Dinner
+
+### Asanebo
+
+$$$$
+
+11941 Ventura Blvd
+
+An old-school sushi bar on Ventura's sushi row, known for pristine nigiri.
+
+**Order:** The omakase if you want the full tour of their signatures.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Asanebo+11941+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Sushi & Japanese Date night Dinner
+
+### Sushi Tomoki
+
+$$$
+
+3791 Cahuenga Blvd W
+
+A neighborhood sushi bar where ordering nigiri at the counter is the move.
+
+**Order:** Sit at the bar, order a la carte and get the hirame.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sushi+Tomoki+3791+Cahuenga+Blvd+W+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Sushi & Japanese Dinner
+
+### Yume Sushi
+
+$$
+
+12254 Ventura Blvd
+
+A good-value sushi spot that does especially well as takeout.
+
+**Order:** The Yume Box.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Yume+Sushi+12254+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Sushi & Japanese Cheap eats
+
+Drink
+
+### Nightlife
+
+### Laurel Tavern
+
+$$
+
+11938 Ventura Blvd
+
+A friendly neighborhood bar with a solid happy hour.
+
+**Order:** The burger and a beer.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Tavern+11938+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Cocktail bars & lounges Dinner
+
+### The Last Canteen
+
+$$
+
+10964 Ventura Blvd
+
+A post-apocalyptic themed cocktail bar with fully committed decor and a real kitchen.
+
+**Order:** A house cocktail and a few shared plates.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Last+Canteen+10964+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+
+Cocktail bars & lounges Dinner
+
+### Firefly
+
+$$$
+
+11720 Ventura Blvd
+
+A candlelit restaurant and lounge with a library bar and heated patios with fireplaces. The Valley's dress-up night out, busy until late.
+
+**Order:** Drinks in the library, then dinner on the patio. Book ahead on weekends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Firefly+11720+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [OpenTable](https://www.opentable.com/firefly-studio-city)
+
+Cocktail bars & lounges Dinner Date night
+
+Do
+
+### Culture & shows
+
+### The Baked Potato
+
+$$
+
+3787 Cahuenga Blvd
+
+A small, long-running jazz club where the menu is giant stuffed baked potatoes.
+
+**Do:** Buy tickets online ahead of time, since shows sell out.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Baked+Potato+3787+Cahuenga+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+
+Live music Late night
+
+### El Portal Theatre
+
+$$
+
+Next door in [North Hollywood](https://www.nathanielgrivas.com/neighborhoods/north-hollywood) · 2.1 mi · 5269 Lankershim Blvd
+
+A restored 1920s theater in the Arts District hosting plays, musicals and concerts.
+
+**Do:** Grab a drink at the theater's bar before the show.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Portal+Theatre+5269+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+
+Movies Live music
+
+### The Ford
+
+$$
+
+Next door in [Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills) · 2.4 mi · 2580 Cahuenga Blvd E
+
+An intimate 1,200-seat outdoor amphitheater built into the hillside, across the freeway from the Hollywood Bowl.
+
+**Do:** Bring your own food and drinks for a summer show.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Ford+2580+Cahuenga+Blvd+E+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+
+Live music Movies
+
+Do
+
+### Parks & outdoors
+
+### Fryman Canyon
+
+Free
+
+3493 Laurel Canyon Blvd (trailhead)
+
+A shady canyon loop with a steady climb and Valley views, popular with dog walkers.
+
+**Do:** Go early; the lot fills fast on weekends.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fryman+Canyon+3493+Laurel+Canyon+Blvd+%28trailhead%29+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+
+Hikes & nature Parks Dog-friendly
+
+### Bronson Caves
+
+Free
+
+Next door in [Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills) · 2.4 mi · 3200 Canyon Dr
+
+A short, easy walk to the cave used as the Batcave in the 1960s TV show, with a clear view of the Hollywood Sign.
+
+**Do:** Go early for parking, then keep going on the Brush Canyon trail.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+3200+Canyon+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+
+Hikes & nature Landmarks & sights Kids & family
+
+### Laurel Canyon Dog Park
+
+Free
+
+Next door in [Hollywood Hills](https://www.nathanielgrivas.com/neighborhoods/hollywood-hills) · 2.4 mi · 8260 Mulholland Dr
+
+A big off-leash dog park in a wooded hollow, with a separate area for small dogs.
+
+**Do:** Take the entrance curve slowly; it's steep.
+
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Canyon+Dog+Park+8260+Mulholland+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+
+Dog-friendly Parks
+
+Sources
+
+- [The Infatuation: Studio City](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
+- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+- [OpenTable: Firefly Studio City](https://www.opentable.com/firefly-studio-city)
 
 Living here
 
@@ -143,11 +535,11 @@ Next door
 
 [Beverly Hills & the Hills · $$$$Beverly Hills Post OfficeA 90210 address in the City of LA. Canyons, views and privacy.](https://www.nathanielgrivas.com/neighborhoods/bhpo)
 
-The LA Journal
+LA News
 
 ## Studio City in the news
 
-[All journal entries →](https://www.nathanielgrivas.com/journal)
+[All LA news →](https://www.nathanielgrivas.com/news)
 
 Real estate
 
@@ -155,7 +547,7 @@ Real estate
 
 The 55-acre, 22-stage lot where Seinfeld and Gunsmoke were filmed drew no bids at Tuesday's foreclosure auction in Pomona, so it went back to the Goldman Sachs-led lenders, and Netflix announced its purchase about an hour later. The price is about a fifth of the $1.85 billion Hackman Capital paid in 2021. ABC7 reports Netflix paid the city's Measure ULA transfer tax on the deal, and the lot will keep running as a working studio.
 
-[November 26, 2026](https://www.nathanielgrivas.com/journal/2026-11-26) · Neighborhoods: [Studio City](https://www.nathanielgrivas.com/guide/studio-city) · Sources: [ABC7](https://abc7.com/post/netflix-buys-storied-radford-studio-center-city-380-million-variety-reports/20079872/), [The Real Deal](https://therealdeal.com/la/2026/11/24/goldman-sachs-officially-takes-over-radford-studio/), [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses)
+[November 26, 2026](https://www.nathanielgrivas.com/journal/2026-11-26) · Neighborhoods: [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · Sources: [ABC7](https://abc7.com/post/netflix-buys-storied-radford-studio-center-city-380-million-variety-reports/20079872/), [The Real Deal](https://therealdeal.com/la/2026/11/24/goldman-sachs-officially-takes-over-radford-studio/), [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses)
 
 Questions
 

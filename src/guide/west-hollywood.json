@@ -1,78 +1,956 @@
-{"slug": "west-hollywood", "updated": "2026-11-26",
+{
+ "slug": "west-hollywood",
+ "updated": "2026-11-26",
  "intro": "West Hollywood packs the Sunset Strip's music clubs and comedy rooms, Santa Monica Boulevard's bars and the Melrose and Robertson restaurant row into under two square miles. It's one of the most walkable cities in LA, and brunch here is a weekend sport.",
  "sources": {
-  "infr": ["The Infatuation: Best restaurants in West Hollywood", "https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-west-hollywood"],
-  "tor": ["Time Out: Best West Hollywood restaurants", "https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants"],
-  "infbr": ["The Infatuation: Where to brunch in West Hollywood", "https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood"],
-  "infbar": ["The Infatuation: Best bars in West Hollywood", "https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood"],
-  "tobar": ["Time Out: Best bars in West Hollywood", "https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars"],
-  "tocof": ["Time Out: Best coffee shops in West Hollywood", "https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood"],
-  "todo": ["Time Out: Best things to do in West Hollywood", "https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood"],
-  "togay": ["Time Out: Best LGBTQ+ bars in LA", "https://www.timeout.com/los-angeles/bars/gay-la-best-gay-bars-and-clubs-in-los-angeles"],
-  "towh": ["Time Out: A guide to West Hollywood", "https://www.timeout.com/los-angeles/west-hollywood"],
-  "laist": ["LAist: Nine West Hollywood bars in one night", "https://laist.com/news/food/how-to-hit-nine-bars-in-west-hollywood-in-one-night"],
-  "infwh": ["The Infatuation: West Hollywood", "https://theinfatuation.com/los-angeles/neighborhoods/west-hollywood"],
-  "gm": ["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA"]
+  "infr": [
+   "The Infatuation: Best restaurants in West Hollywood",
+   "https://theinfatuation.com/los-angeles/guides/the-best-restaurants-in-west-hollywood"
+  ],
+  "tor": [
+   "Time Out: Best West Hollywood restaurants",
+   "https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants"
+  ],
+  "infbr": [
+   "The Infatuation: Where to brunch in West Hollywood",
+   "https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood"
+  ],
+  "infbar": [
+   "The Infatuation: Best bars in West Hollywood",
+   "https://www.theinfatuation.com/los-angeles/guides/the-best-bars-in-west-hollywood"
+  ],
+  "tobar": [
+   "Time Out: Best bars in West Hollywood",
+   "https://www.timeout.com/los-angeles/bars/best-west-hollywood-bars"
+  ],
+  "tocof": [
+   "Time Out: Best coffee shops in West Hollywood",
+   "https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood"
+  ],
+  "todo": [
+   "Time Out: Best things to do in West Hollywood",
+   "https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood"
+  ],
+  "togay": [
+   "Time Out: Best LGBTQ+ bars in LA",
+   "https://www.timeout.com/los-angeles/bars/gay-la-best-gay-bars-and-clubs-in-los-angeles"
+  ],
+  "towh": [
+   "Time Out: A guide to West Hollywood",
+   "https://www.timeout.com/los-angeles/west-hollywood"
+  ],
+  "laist": [
+   "LAist: Nine West Hollywood bars in one night",
+   "https://laist.com/news/food/how-to-hit-nine-bars-in-west-hollywood-in-one-night"
+  ],
+  "infwh": [
+   "The Infatuation: West Hollywood",
+   "https://theinfatuation.com/los-angeles/neighborhoods/west-hollywood"
+  ],
+  "gm": [
+   "Google Maps reviews (local favorites we checked)",
+   "https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA"
+  ],
+  "cbsweho": [
+   "CBS LA: Best bars in West Hollywood",
+   "https://www.cbsnews.com/losangeles/news/best-bars-in-west-hollywood"
+  ],
+  "dtweho": [
+   "Discotech: Best clubs in West Hollywood",
+   "https://discotech.me/los-angeles/best-clubs-in-west-hollywood-los-angeles/"
+  ],
+  "niceguy": [
+   "Infatuation: The sceniest restaurants in West Hollywood",
+   "https://www.theinfatuation.com/los-angeles/guides/the-sceniest-restaurants-in-west-hollywood-ranked"
+  ],
+  "wrabbit": [
+   "The Rooftop Guide: White Rabbit Sky Lounge",
+   "https://www.therooftopguide.com/rooftop-bars-in-los-angeles/white-rabbit-sky-lounge.html"
+  ],
+  "vwh": [
+   "Visit West Hollywood: Nightlife",
+   "https://www.visitwesthollywood.com/nightlife/"
+  ]
  },
  "places": [
-  {"n": "Dayglow", "c": ["coffee"], "a": "866 Huntley Dr", "p": "$$", "w": "A specialty coffee bar with a rotating menu of house drinks and guest roasters.", "o": "Whatever seasonal latte is on the board; vegan ice cream sits next door.", "s": ["tocof"]},
-  {"n": "Verve Coffee Roasters", "c": ["coffee"], "a": "8925 Melrose Ave", "p": "$$", "w": "A big indoor-outdoor cafe from the Santa Cruz roaster, and one of the easiest places in WeHo to work for an hour.", "o": "Espresso or nitro cold brew on the patio, with avocado toast.", "s": ["tocof"]},
-  {"n": "Strings of Life", "c": ["coffee", "healthy"], "a": "510 N Robertson Blvd", "p": "$$", "w": "A plant-filled cafe on Robertson built for slow mornings. There's no Wi-Fi on purpose.", "o": "A flat white and one of the vegan bowls.", "s": ["tocof"]},
-  {"n": "Fan Girl Cafe", "c": ["coffee", "breakfast"], "a": "8157 Santa Monica Blvd", "p": "$$", "w": "A tiny pop-music-themed cafe that regulars treat like a secret. The lattes are named after songs and the Mexican breakfast plates are the surprise.", "o": "The lavender latte and the chilaquiles. Closed Mondays.", "s": ["gm"]},
-  {"n": "Dubb's Organic Coffee Blends", "c": ["coffee", "cheap"], "a": "7962 Fountain Ave", "p": "$", "w": "A small neighborhood coffee shop on Fountain with a friendly counter and fun flavored lattes.", "o": "The cereal-milk latte and a breakfast burrito.", "s": ["gm"]},
-  {"n": "The Butcher, The Baker, The Cappuccino Maker", "c": ["breakfast", "brunch", "bakery"], "a": "8653 Sunset Blvd", "p": "$$", "w": "The Strip's busiest breakfast, with a garden patio in back. It takes reservations, which is rare for brunch in WeHo.", "o": "Lemon ricotta pancakes in the skillet or the croissant breakfast sandwich.", "s": ["gm"]},
-  {"n": "The Griddle Cafe", "c": ["breakfast"], "a": "7916 Sunset Blvd", "p": "$$", "w": "The famous pancake house where one stack is bigger than the plate. Expect a line on weekends.", "o": "One order of pancakes for the table, and coffee in a French press.", "s": ["gm"]},
-  {"n": "West Hollywood Breakfast Company", "c": ["breakfast", "brunch"], "a": "7141 Santa Monica Blvd", "p": "$$", "w": "A newer all-day breakfast spot on the east end that's built a loyal following fast.", "o": "The flight of three mini waffles and pancakes, or steak and eggs.", "s": ["gm"]},
-  {"n": "Hugo's", "c": ["breakfast", "healthy"], "a": "8401 Santa Monica Blvd", "p": "$$", "w": "A WeHo breakfast staple for decades, with as many vegan and gluten-free options as regular ones.", "o": "Chilaquiles, or the oatmeal if you're keeping it light.", "s": ["infbr"]},
-  {"n": "The Abbey", "c": ["brunch", "bars", "latenight", "landmark"], "a": "692 N Robertson Blvd", "p": "$$", "w": "West Hollywood's most famous bar, and one of the best known LGBTQ+ bars in the world. Several rooms, dancing at night and the neighborhood's best drag brunch.", "o": "Weekend drag brunch. Expect lines on weekend nights.", "s": ["todo", "togay", "infbr"]},
-  {"n": "Hamburger Mary's", "c": ["brunch", "comedy"], "a": "8288 Santa Monica Blvd", "p": "$$", "w": "The original home of WeHo drag brunch, plus drag bingo nights. You go for the show more than the food.", "o": "Sunday drag brunch with bottomless mimosas.", "s": ["todo", "infbr"]},
-  {"n": "The Butcher's Daughter", "c": ["brunch", "healthy"], "a": "8755 Melrose Ave", "p": "$$", "w": "A bright, all-vegetarian cafe on Melrose that draws a crowd for brunch every day of the week.", "o": "The lemon lavender waffle and a savory breakfast burrito to balance it.", "s": ["infbr"]},
-  {"n": "Cecconi's", "c": ["brunch", "dinner"], "a": "8764 Melrose Ave", "p": "$$$", "w": "A Melrose and Robertson corner classic for Italian. Nights are a scene, mornings are calmer.", "o": "Steak and eggs at brunch on the patio.", "s": ["infbr"]},
-  {"n": "WeHo Bistro", "c": ["brunch"], "a": "1040 N La Cienega Blvd", "p": "$$", "w": "A French bistro with a sunny weekend brunch and a long list of mimosa flavors.", "o": "A tartine and a flight of mimosas.", "s": ["infbr"]},
-  {"n": "First Of All", "c": ["brunch", "tacos"], "a": "8200 Santa Monica Blvd", "p": "$$", "w": "A modern Mexican cafe that does breakfast through dinner, with an easygoing room and friendly service.", "o": "Chips, salsa and guacamole, then the mushroom mole or a breakfast burrito.", "s": ["gm"]},
-  {"n": "Tail o' the Pup", "c": ["lunch", "cheap", "landmark"], "a": "8512 Santa Monica Blvd", "p": "$", "w": "The restored 1946 hot-dog-shaped stand, now with a big mid-century patio. A hidden tiki bar sits behind it.", "o": "A Chicago dog or a smashburger.", "s": ["infr", "tor"]},
-  {"n": "Guisados", "c": ["lunch", "tacos", "cheap"], "a": "8935 Santa Monica Blvd", "p": "$", "w": "The Boyle Heights taqueria's WeHo branch, known for slow-cooked braises on fresh handmade tortillas.", "o": "The six-taco sampler.", "s": ["tor"]},
-  {"n": "Saltie Girl", "c": ["seafood", "lunch", "dinner"], "a": "8615 Sunset Blvd", "p": "$$$", "w": "A Boston seafood bar on the Strip with a huge tinned-fish menu.", "o": "A lobster roll, hot or cold.", "s": ["tor", "todo"]},
-  {"n": "Somni", "c": ["dinner", "date"], "a": "9045 Nemo St", "p": "$$$$", "w": "A Michelin-level tasting counter with a long, theatrical, seafood-heavy menu. One of the most expensive meals in LA.", "o": "Book the full tasting menu well in advance.", "s": ["infr", "tor"]},
-  {"n": "Ladyhawk", "c": ["dinner", "date"], "a": "623 N La Peer Dr", "p": "$$$", "w": "A striking Art Deco room serving Lebanese food built for sharing.", "o": "The mezze platter and wood-fired flatbreads. Mondays have a mezze deal.", "s": ["infr", "tor"]},
-  {"n": "Night + Market", "c": ["dinner", "cheap"], "a": "9041 Sunset Blvd", "p": "$$", "w": "Loud, spicy Thai food and natural wine, with the feel of a party every night.", "o": "Order more sticky rice than you think, and a bottle of something funky.", "s": ["infr", "tor"]},
-  {"n": "Marvito", "c": ["dinner", "tacos", "latenight"], "a": "1113 N Harper Ave", "p": "$$$", "w": "A retro Tex-Mex roadhouse where nights run late on mezcal and crispy tacos.", "o": "Chorizo queso, crispy beef tacos and the double smashburger.", "s": ["infr", "tor"]},
-  {"n": "Darling", "c": ["dinner", "date"], "a": "631 N Robertson Blvd", "p": "$$$", "w": "Sean Brock's hearth-cooking restaurant in a room built around a vinyl sound system.", "o": "Come early for the burger, then anything off the hearth.", "s": ["tor"]},
-  {"n": "Alba", "c": ["dinner", "date"], "a": "8451 Melrose Ave", "p": "$$$", "w": "A lush courtyard Italian spot that's one of the liveliest scenes in WeHo.", "o": "The truffle agnolotti. The bar takes walk-ins.", "s": ["tor", "infwh"]},
-  {"n": "Coucou", "c": ["dinner", "wine", "latenight"], "a": "9045 Santa Monica Blvd", "p": "$$", "w": "A French bistro with a jasmine-covered patio that's perfect before a show at the Troubadour.", "o": "Bone marrow and a glass of wine.", "s": ["tor", "infwh"]},
-  {"n": "Galerie", "c": ["dinner"], "a": "8226 Sunset Blvd", "p": "$$$", "w": "A 1970s rock-era French room on the Strip known for steaks.", "o": "The steak or the French onion burger.", "s": ["tor"]},
-  {"n": "Merois", "c": ["dinner", "rooftop", "date"], "a": "8430 Sunset Blvd", "p": "$$$$", "w": "A rooftop Art Deco room with one of the best skyline views on the Strip.", "o": "Book golden hour and order the crab salad.", "s": ["tor"]},
-  {"n": "Ardor", "c": ["dinner", "brunch", "healthy"], "a": "9040 Sunset Blvd", "p": "$$$", "w": "A moody, vegetable-forward restaurant inside the Edition hotel.", "o": "The tempura onion rings and tandoor carrots.", "s": ["tor", "infbr"]},
-  {"n": "Gracias Madre", "c": ["dinner", "healthy", "tacos"], "a": "8905 Melrose Ave", "p": "$$", "w": "Plant-based Mexican under shade trees, and one of the busiest patios in the city.", "o": "Anything with the cashew cheese, plus the tamales.", "s": ["tor", "infbr"]},
-  {"n": "Dan Tana's", "c": ["dinner", "latenight"], "a": "9071 Santa Monica Blvd", "p": "$$$", "w": "Red-checked tablecloths, red sauce and decades of Hollywood regulars.", "o": "Fried ravioli, chicken parm and the Caesar.", "s": ["infr"]},
-  {"n": "Uchi", "c": ["sushi", "dinner"], "a": "9001 Santa Monica Blvd", "p": "$$$$", "w": "A sleek Austin-born sushi spot with a huge menu.", "o": "Stick to nigiri, then add the smoked yellowtail tostada.", "s": ["infr"]},
-  {"n": "Jinpachi", "c": ["sushi"], "a": "8711 Santa Monica Blvd", "p": "$$$", "w": "Excellent sushi for about half what its famous neighbors charge.", "o": "A sashimi bowl and the spicy crispy rice.", "s": ["infr"]},
-  {"n": "Jones Hollywood", "c": ["pizza", "dinner", "latenight", "bars"], "a": "7205 Santa Monica Blvd", "p": "$$", "w": "A dark, casual Italian spot that works for a date or a late martini.", "o": "Margherita pizza, spaghetti and meatballs, and the apple pie skillet.", "s": ["infr", "infbar"]},
-  {"n": "Traktir", "c": ["dinner", "cheap"], "a": "8151 Santa Monica Blvd", "p": "$$", "w": "Generous, comforting Eastern European cooking in a warm dining room.", "o": "Potato vareniki and beef stroganoff.", "s": ["infr"]},
-  {"n": "Pura Vita", "c": ["dinner", "healthy", "pizza"], "a": "8274 Santa Monica Blvd", "p": "$$", "w": "An all-vegan Italian restaurant and wine bar that doesn't feel like a compromise.", "o": "The black lasagna and the mushroom carbonara.", "s": ["infr"]},
-  {"n": "The Lucky Tiki", "c": ["bars"], "a": "8512 Santa Monica Blvd", "p": "$$$", "w": "A hidden, reservation-only tiki bar behind Tail o' the Pup and one of the most theatrical drinks in town.", "o": "Get on the reservation list early.", "s": ["infbar", "tobar"]},
-  {"n": "The Roger Room", "c": ["bars"], "a": "370 N La Cienega Blvd", "p": "$$", "w": "A small, dark cocktail den behind a neon psychic sign. It fills up around 9pm.", "o": "Order by spirit and let the bartender build it.", "s": ["infbar", "tobar"]},
-  {"n": "Bar Next Door", "c": ["bars"], "a": "9159 Sunset Blvd", "p": "$$", "w": "A tiny craft cocktail bar in the old office of Marilyn Monroe's agent, with drinks named after Strip landmarks.", "o": "Go Sunday through Thursday when it's calmer.", "s": ["infbar", "tobar"]},
-  {"n": "Employees Only", "c": ["bars", "latenight"], "a": "7953 Santa Monica Blvd", "p": "$$$", "w": "The New York cocktail bar's LA outpost, now a relaxed neighborhood spot for very good drinks.", "o": "Come for the early-evening happy hour.", "s": ["infbar", "tobar"]},
-  {"n": "Tower Bar", "c": ["bars", "date"], "a": "8358 Sunset Blvd", "p": "$$$$", "w": "The Sunset Tower Hotel's old Hollywood bar and pool deck.", "o": "A martini by the pool in the afternoon.", "s": ["infr", "infbar"]},
-  {"n": "Hi Tops", "c": ["sports", "bars"], "a": "8933 Santa Monica Blvd", "p": "$$", "w": "A big, always-busy LGBTQ+ sports bar with trivia nights and strong drinks.", "o": "Big games on the screens and the fried chicken sandwich.", "s": ["infbar", "togay"]},
-  {"n": "The Surly Goat", "c": ["beer", "sports"], "a": "7929 Santa Monica Blvd", "p": "$$", "w": "WeHo's best beer bar, with a deep tap list, shuffleboard and a side patio.", "o": "Trivia night and whatever's new on tap.", "s": ["infbar", "laist"]},
-  {"n": "Snake Pit Alehouse", "c": ["dive"], "a": "7529 Melrose Ave", "p": "$", "w": "A low-key Melrose dive with cheap drinks, chatty bartenders and a great jukebox.", "o": "A beer and the jukebox.", "s": ["infbar"]},
-  {"n": "Mother Lode", "c": ["dive"], "a": "8944 Santa Monica Blvd", "p": "$", "w": "A laid-back dive in the middle of Santa Monica Boulevard with a pool table and video games.", "o": "Pool and a cheap drink.", "s": ["tobar"]},
-  {"n": "Formosa Cafe", "c": ["bars", "landmark"], "a": "7156 Santa Monica Blvd", "p": "$$", "w": "A restored 1939 Hollywood bar with a quiet back room and Taiwanese bar snacks.", "o": "A classic cocktail in one of the booths.", "s": ["infbar"]},
-  {"n": "E.P. & L.P.", "c": ["rooftop", "bars"], "a": "603 N La Cienega Blvd", "p": "$$", "w": "A rooftop bar with big Hollywood Hills views.", "o": "Come for happy hour.", "s": ["tobar"]},
-  {"n": "The Comedy Store", "c": ["comedy", "latenight"], "a": "8433 Sunset Blvd", "p": "$$", "w": "LA's most famous comedy club, with stand-up every night and surprise drop-ins from big names.", "o": "Tuesday's Roast Battle.", "s": ["todo"]},
-  {"n": "Laugh Factory", "c": ["comedy"], "a": "8001 Sunset Blvd", "p": "$$", "w": "A Strip comedy club known for celebrity sets.", "o": "Arrive early on Tuesday for the open mic.", "s": ["todo"]},
-  {"n": "Troubadour", "c": ["music"], "a": "9081 Santa Monica Blvd", "p": "$$", "w": "A small, legendary music room with great sound.", "o": "Stand on the floor and skip the spots under the balcony.", "s": ["todo"]},
-  {"n": "The Roxy", "c": ["music"], "a": "9009 Sunset Blvd", "p": "$$", "w": "A Sunset Strip original with a strong booking calendar. The Rainbow Bar and Grill is next door.", "o": "Check the calendar and get dinner at the Rainbow before the show.", "s": ["todo"]},
-  {"n": "Whisky a Go Go", "c": ["music", "landmark"], "a": "8901 Sunset Blvd", "p": "$$", "w": "The club where the Doors were the house band. These days it books rock, punk and metal.", "o": "A loud night of live rock.", "s": ["todo"]},
-  {"n": "Book Soup", "c": ["shop"], "a": "8818 Sunset Blvd", "p": "Free", "w": "An independent bookstore on the Strip with more than 60,000 titles.", "o": "Browse the film and art sections.", "s": ["todo"]},
-  {"n": "Schindler House", "c": ["landmark", "art"], "a": "835 N Kings Rd", "p": "$", "w": "Rudolph Schindler's 1922 house, a modern architecture landmark that hosts art shows.", "o": "Tours run Wednesday through Sunday; reserve ahead.", "s": ["todo"]},
-  {"n": "ONE Gallery", "c": ["art", "museum"], "a": "626 N Robertson Blvd", "p": "Free", "w": "A gallery of LGBTQ+ history exhibits on Robertson.", "o": "Pair it with Hauser and Wirth nearby.", "s": ["todo"]},
-  {"n": "RH West Hollywood rooftop", "c": ["rooftop", "shop"], "a": "8564 Melrose Ave", "p": "Free", "w": "A furniture showroom with a rooftop garden and Hollywood Hills views that feels like a secret.", "o": "Head straight up for the view.", "s": ["todo"]},
-  {"n": "Sunset Strip", "c": ["landmark"], "a": "Sunset Blvd, Doheny Dr to Crescent Heights", "p": "Free", "w": "The mile and a half of billboards, music clubs, comedy rooms and hotels that made West Hollywood famous.", "o": "Walk it at night, from the Whisky to the Comedy Store.", "s": ["todo"]},
-  {"n": "Rainbow Crosswalks", "c": ["landmark"], "a": "Santa Monica Blvd and N San Vicente Blvd", "p": "Free", "w": "The permanent rainbow crosswalks at the center of WeHo Pride every June.", "o": "Photos, then the bars along Santa Monica Boulevard.", "s": ["todo"]},
-  {"n": "West Hollywood Park", "c": ["park", "kids", "dogs", "fitness"], "a": "647 N San Vicente Blvd", "p": "Free", "w": "The city's main park, with a modern playground, courts, a dog park and the library next door.", "o": "Pickleball or tennis, then the library's rooftop views.", "s": ["gm", "todo"]},
-  {"n": "Plummer Park", "c": ["park", "kids", "fitness"], "a": "7377 Santa Monica Blvd", "p": "Free", "w": "A busy neighborhood park with tennis and pickleball courts, a playground and free summer concerts.", "o": "Summer Sunday concerts.", "s": ["gm", "towh"]},
-  {"n": "Kings Road Park", "c": ["park", "kids"], "a": "1000 Kings Rd", "p": "Free", "w": "A small, shady pocket park with water features and a toddler playground.", "o": "A quiet lunch break on a bench.", "s": ["gm"]}
- ]}
+  {
+   "n": "Dayglow",
+   "c": [
+    "coffee"
+   ],
+   "a": "866 Huntley Dr",
+   "p": "$$",
+   "w": "A specialty coffee bar with a rotating menu of house drinks and guest roasters.",
+   "o": "Whatever seasonal latte is on the board; vegan ice cream sits next door.",
+   "s": [
+    "tocof"
+   ]
+  },
+  {
+   "n": "Verve Coffee Roasters",
+   "c": [
+    "coffee"
+   ],
+   "a": "8925 Melrose Ave",
+   "p": "$$",
+   "w": "A big indoor-outdoor cafe from the Santa Cruz roaster, and one of the easiest places in WeHo to work for an hour.",
+   "o": "Espresso or nitro cold brew on the patio, with avocado toast.",
+   "s": [
+    "tocof"
+   ]
+  },
+  {
+   "n": "Strings of Life",
+   "c": [
+    "coffee",
+    "healthy"
+   ],
+   "a": "510 N Robertson Blvd",
+   "p": "$$",
+   "w": "A plant-filled cafe on Robertson built for slow mornings. There's no Wi-Fi on purpose.",
+   "o": "A flat white and one of the vegan bowls.",
+   "s": [
+    "tocof"
+   ]
+  },
+  {
+   "n": "Fan Girl Cafe",
+   "c": [
+    "coffee",
+    "breakfast"
+   ],
+   "a": "8157 Santa Monica Blvd",
+   "p": "$$",
+   "w": "A tiny pop-music-themed cafe that regulars treat like a secret. The lattes are named after songs and the Mexican breakfast plates are the surprise.",
+   "o": "The lavender latte and the chilaquiles. Closed Mondays.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Dubb's Organic Coffee Blends",
+   "c": [
+    "coffee",
+    "cheap"
+   ],
+   "a": "7962 Fountain Ave",
+   "p": "$",
+   "w": "A small neighborhood coffee shop on Fountain with a friendly counter and fun flavored lattes.",
+   "o": "The cereal-milk latte and a breakfast burrito.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "The Butcher, The Baker, The Cappuccino Maker",
+   "c": [
+    "breakfast",
+    "brunch",
+    "bakery"
+   ],
+   "a": "8653 Sunset Blvd",
+   "p": "$$",
+   "w": "The Strip's busiest breakfast, with a garden patio in back. It takes reservations, which is rare for brunch in WeHo.",
+   "o": "Lemon ricotta pancakes in the skillet or the croissant breakfast sandwich.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "The Griddle Cafe",
+   "c": [
+    "breakfast"
+   ],
+   "a": "7916 Sunset Blvd",
+   "p": "$$",
+   "w": "The famous pancake house where one stack is bigger than the plate. Expect a line on weekends.",
+   "o": "One order of pancakes for the table, and coffee in a French press.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "West Hollywood Breakfast Company",
+   "c": [
+    "breakfast",
+    "brunch"
+   ],
+   "a": "7141 Santa Monica Blvd",
+   "p": "$$",
+   "w": "A newer all-day breakfast spot on the east end that's built a loyal following fast.",
+   "o": "The flight of three mini waffles and pancakes, or steak and eggs.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Hugo's",
+   "c": [
+    "breakfast",
+    "healthy"
+   ],
+   "a": "8401 Santa Monica Blvd",
+   "p": "$$",
+   "w": "A WeHo breakfast staple for decades, with as many vegan and gluten-free options as regular ones.",
+   "o": "Chilaquiles, or the oatmeal if you're keeping it light.",
+   "s": [
+    "infbr"
+   ]
+  },
+  {
+   "n": "The Abbey",
+   "c": [
+    "bars",
+    "brunch",
+    "landmark"
+   ],
+   "a": "692 N Robertson Blvd",
+   "p": "$$",
+   "w": "West Hollywood's most famous bar, and one of the best known LGBTQ+ bars in the world. Several rooms, dancing at night and the neighborhood's best drag brunch.",
+   "o": "Weekend drag brunch. Expect lines on weekend nights.",
+   "s": [
+    "todo",
+    "togay",
+    "infbr"
+   ]
+  },
+  {
+   "n": "Hamburger Mary's",
+   "c": [
+    "brunch",
+    "comedy"
+   ],
+   "a": "8288 Santa Monica Blvd",
+   "p": "$$",
+   "w": "The original home of WeHo drag brunch, plus drag bingo nights. You go for the show more than the food.",
+   "o": "Sunday drag brunch with bottomless mimosas.",
+   "s": [
+    "todo",
+    "infbr"
+   ]
+  },
+  {
+   "n": "The Butcher's Daughter",
+   "c": [
+    "brunch",
+    "healthy"
+   ],
+   "a": "8755 Melrose Ave",
+   "p": "$$",
+   "w": "A bright, all-vegetarian cafe on Melrose that draws a crowd for brunch every day of the week.",
+   "o": "The lemon lavender waffle and a savory breakfast burrito to balance it.",
+   "s": [
+    "infbr"
+   ]
+  },
+  {
+   "n": "Cecconi's",
+   "c": [
+    "brunch",
+    "dinner"
+   ],
+   "a": "8764 Melrose Ave",
+   "p": "$$$",
+   "w": "A Melrose and Robertson corner classic for Italian. Nights are a scene, mornings are calmer.",
+   "o": "Steak and eggs at brunch on the patio.",
+   "s": [
+    "infbr"
+   ]
+  },
+  {
+   "n": "WeHo Bistro",
+   "c": [
+    "brunch"
+   ],
+   "a": "1040 N La Cienega Blvd",
+   "p": "$$",
+   "w": "A French bistro with a sunny weekend brunch and a long list of mimosa flavors.",
+   "o": "A tartine and a flight of mimosas.",
+   "s": [
+    "infbr"
+   ]
+  },
+  {
+   "n": "First Of All",
+   "c": [
+    "brunch",
+    "tacos"
+   ],
+   "a": "8200 Santa Monica Blvd",
+   "p": "$$",
+   "w": "A modern Mexican cafe that does breakfast through dinner, with an easygoing room and friendly service.",
+   "o": "Chips, salsa and guacamole, then the mushroom mole or a breakfast burrito.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Tail o' the Pup",
+   "c": [
+    "lunch",
+    "cheap",
+    "landmark"
+   ],
+   "a": "8512 Santa Monica Blvd",
+   "p": "$",
+   "w": "The restored 1946 hot-dog-shaped stand, now with a big mid-century patio. A hidden tiki bar sits behind it.",
+   "o": "A Chicago dog or a smashburger.",
+   "s": [
+    "infr",
+    "tor"
+   ]
+  },
+  {
+   "n": "Guisados",
+   "c": [
+    "lunch",
+    "tacos",
+    "cheap"
+   ],
+   "a": "8935 Santa Monica Blvd",
+   "p": "$",
+   "w": "The Boyle Heights taqueria's WeHo branch, known for slow-cooked braises on fresh handmade tortillas.",
+   "o": "The six-taco sampler.",
+   "s": [
+    "tor"
+   ]
+  },
+  {
+   "n": "Saltie Girl",
+   "c": [
+    "seafood",
+    "lunch",
+    "dinner"
+   ],
+   "a": "8615 Sunset Blvd",
+   "p": "$$$",
+   "w": "A Boston seafood bar on the Strip with a huge tinned-fish menu.",
+   "o": "A lobster roll, hot or cold.",
+   "s": [
+    "tor",
+    "todo"
+   ]
+  },
+  {
+   "n": "Somni",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "9045 Nemo St",
+   "p": "$$$$",
+   "w": "A Michelin-level tasting counter with a long, theatrical, seafood-heavy menu. One of the most expensive meals in LA.",
+   "o": "Book the full tasting menu well in advance.",
+   "s": [
+    "infr",
+    "tor"
+   ]
+  },
+  {
+   "n": "Ladyhawk",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "623 N La Peer Dr",
+   "p": "$$$",
+   "w": "A striking Art Deco room serving Lebanese food built for sharing.",
+   "o": "The mezze platter and wood-fired flatbreads. Mondays have a mezze deal.",
+   "s": [
+    "infr",
+    "tor"
+   ]
+  },
+  {
+   "n": "Night + Market",
+   "c": [
+    "dinner",
+    "cheap"
+   ],
+   "a": "9041 Sunset Blvd",
+   "p": "$$",
+   "w": "Loud, spicy Thai food and natural wine, with the feel of a party every night.",
+   "o": "Order more sticky rice than you think, and a bottle of something funky.",
+   "s": [
+    "infr",
+    "tor"
+   ]
+  },
+  {
+   "n": "Marvito",
+   "c": [
+    "dinner",
+    "tacos",
+    "latenight"
+   ],
+   "a": "1113 N Harper Ave",
+   "p": "$$$",
+   "w": "A retro Tex-Mex roadhouse where nights run late on mezcal and crispy tacos.",
+   "o": "Chorizo queso, crispy beef tacos and the double smashburger.",
+   "s": [
+    "infr",
+    "tor"
+   ]
+  },
+  {
+   "n": "Darling",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "631 N Robertson Blvd",
+   "p": "$$$",
+   "w": "Sean Brock's hearth-cooking restaurant in a room built around a vinyl sound system.",
+   "o": "Come early for the burger, then anything off the hearth.",
+   "s": [
+    "tor"
+   ]
+  },
+  {
+   "n": "Alba",
+   "c": [
+    "dinner",
+    "date"
+   ],
+   "a": "8451 Melrose Ave",
+   "p": "$$$",
+   "w": "A lush courtyard Italian spot that's one of the liveliest scenes in WeHo.",
+   "o": "The truffle agnolotti. The bar takes walk-ins.",
+   "s": [
+    "tor",
+    "infwh"
+   ]
+  },
+  {
+   "n": "Coucou",
+   "c": [
+    "dinner",
+    "wine",
+    "latenight"
+   ],
+   "a": "9045 Santa Monica Blvd",
+   "p": "$$",
+   "w": "A French bistro with a jasmine-covered patio that's perfect before a show at the Troubadour.",
+   "o": "Bone marrow and a glass of wine.",
+   "s": [
+    "tor",
+    "infwh"
+   ]
+  },
+  {
+   "n": "Galerie",
+   "c": [
+    "dinner"
+   ],
+   "a": "8226 Sunset Blvd",
+   "p": "$$$",
+   "w": "A 1970s rock-era French room on the Strip known for steaks.",
+   "o": "The steak or the French onion burger.",
+   "s": [
+    "tor"
+   ]
+  },
+  {
+   "n": "Merois",
+   "c": [
+    "dinner",
+    "rooftop",
+    "date"
+   ],
+   "a": "8430 Sunset Blvd",
+   "p": "$$$$",
+   "w": "A rooftop Art Deco room with one of the best skyline views on the Strip.",
+   "o": "Book golden hour and order the crab salad.",
+   "s": [
+    "tor"
+   ]
+  },
+  {
+   "n": "Ardor",
+   "c": [
+    "dinner",
+    "brunch",
+    "healthy"
+   ],
+   "a": "9040 Sunset Blvd",
+   "p": "$$$",
+   "w": "A moody, vegetable-forward restaurant inside the Edition hotel.",
+   "o": "The tempura onion rings and tandoor carrots.",
+   "s": [
+    "tor",
+    "infbr"
+   ]
+  },
+  {
+   "n": "Gracias Madre",
+   "c": [
+    "dinner",
+    "healthy",
+    "tacos"
+   ],
+   "a": "8905 Melrose Ave",
+   "p": "$$",
+   "w": "Plant-based Mexican under shade trees, and one of the busiest patios in the city.",
+   "o": "Anything with the cashew cheese, plus the tamales.",
+   "s": [
+    "tor",
+    "infbr"
+   ]
+  },
+  {
+   "n": "Dan Tana's",
+   "c": [
+    "dinner",
+    "latenight"
+   ],
+   "a": "9071 Santa Monica Blvd",
+   "p": "$$$",
+   "w": "Red-checked tablecloths, red sauce and decades of Hollywood regulars.",
+   "o": "Fried ravioli, chicken parm and the Caesar.",
+   "s": [
+    "infr"
+   ]
+  },
+  {
+   "n": "Uchi",
+   "c": [
+    "sushi",
+    "dinner"
+   ],
+   "a": "9001 Santa Monica Blvd",
+   "p": "$$$$",
+   "w": "A sleek Austin-born sushi spot with a huge menu.",
+   "o": "Stick to nigiri, then add the smoked yellowtail tostada.",
+   "s": [
+    "infr"
+   ]
+  },
+  {
+   "n": "Jinpachi",
+   "c": [
+    "sushi"
+   ],
+   "a": "8711 Santa Monica Blvd",
+   "p": "$$$",
+   "w": "Excellent sushi for about half what its famous neighbors charge.",
+   "o": "A sashimi bowl and the spicy crispy rice.",
+   "s": [
+    "infr"
+   ]
+  },
+  {
+   "n": "Jones Hollywood",
+   "c": [
+    "pizza",
+    "dinner",
+    "latenight",
+    "bars"
+   ],
+   "a": "7205 Santa Monica Blvd",
+   "p": "$$",
+   "w": "A dark, casual Italian spot that works for a date or a late martini.",
+   "o": "Margherita pizza, spaghetti and meatballs, and the apple pie skillet.",
+   "s": [
+    "infr",
+    "infbar"
+   ]
+  },
+  {
+   "n": "Traktir",
+   "c": [
+    "dinner",
+    "cheap"
+   ],
+   "a": "8151 Santa Monica Blvd",
+   "p": "$$",
+   "w": "Generous, comforting Eastern European cooking in a warm dining room.",
+   "o": "Potato vareniki and beef stroganoff.",
+   "s": [
+    "infr"
+   ]
+  },
+  {
+   "n": "Pura Vita",
+   "c": [
+    "dinner",
+    "healthy",
+    "pizza"
+   ],
+   "a": "8274 Santa Monica Blvd",
+   "p": "$$",
+   "w": "An all-vegan Italian restaurant and wine bar that doesn't feel like a compromise.",
+   "o": "The black lasagna and the mushroom carbonara.",
+   "s": [
+    "infr"
+   ]
+  },
+  {
+   "n": "The Lucky Tiki",
+   "c": [
+    "bars"
+   ],
+   "a": "8512 Santa Monica Blvd",
+   "p": "$$$",
+   "w": "A hidden, reservation-only tiki bar behind Tail o' the Pup and one of the most theatrical drinks in town.",
+   "o": "Get on the reservation list early.",
+   "s": [
+    "infbar",
+    "tobar"
+   ]
+  },
+  {
+   "n": "The Roger Room",
+   "c": [
+    "bars"
+   ],
+   "a": "370 N La Cienega Blvd",
+   "p": "$$",
+   "w": "A small, dark cocktail den behind a neon psychic sign. It fills up around 9pm.",
+   "o": "Order by spirit and let the bartender build it.",
+   "s": [
+    "infbar",
+    "tobar"
+   ]
+  },
+  {
+   "n": "Bar Next Door",
+   "c": [
+    "bars"
+   ],
+   "a": "9159 Sunset Blvd",
+   "p": "$$",
+   "w": "A tiny craft cocktail bar in the old office of Marilyn Monroe's agent, with drinks named after Strip landmarks.",
+   "o": "Go Sunday through Thursday when it's calmer.",
+   "s": [
+    "infbar",
+    "tobar"
+   ]
+  },
+  {
+   "n": "Employees Only",
+   "c": [
+    "bars",
+    "latenight"
+   ],
+   "a": "7953 Santa Monica Blvd",
+   "p": "$$$",
+   "w": "The New York cocktail bar's LA outpost, now a relaxed neighborhood spot for very good drinks.",
+   "o": "Come for the early-evening happy hour.",
+   "s": [
+    "infbar",
+    "tobar"
+   ]
+  },
+  {
+   "n": "Tower Bar",
+   "c": [
+    "bars",
+    "date"
+   ],
+   "a": "8358 Sunset Blvd",
+   "p": "$$$$",
+   "w": "The Sunset Tower Hotel's old Hollywood bar and pool deck.",
+   "o": "A martini by the pool in the afternoon.",
+   "s": [
+    "infr",
+    "infbar"
+   ]
+  },
+  {
+   "n": "Formosa Cafe",
+   "c": [
+    "bars",
+    "landmark"
+   ],
+   "a": "7156 Santa Monica Blvd",
+   "p": "$$",
+   "w": "A restored 1939 Hollywood bar with a quiet back room and Taiwanese bar snacks.",
+   "o": "A classic cocktail in one of the booths.",
+   "s": [
+    "infbar"
+   ]
+  },
+  {
+   "n": "E.P. & L.P.",
+   "c": [
+    "rooftop",
+    "bars"
+   ],
+   "a": "603 N La Cienega Blvd",
+   "p": "$$",
+   "w": "A rooftop bar with big Hollywood Hills views.",
+   "o": "Come for happy hour.",
+   "s": [
+    "tobar"
+   ]
+  },
+  {
+   "n": "The Comedy Store",
+   "c": [
+    "comedy",
+    "latenight"
+   ],
+   "a": "8433 Sunset Blvd",
+   "p": "$$",
+   "w": "LA's most famous comedy club, with stand-up every night and surprise drop-ins from big names.",
+   "o": "Tuesday's Roast Battle.",
+   "s": [
+    "todo"
+   ]
+  },
+  {
+   "n": "Laugh Factory",
+   "c": [
+    "comedy"
+   ],
+   "a": "8001 Sunset Blvd",
+   "p": "$$",
+   "w": "A Strip comedy club known for celebrity sets.",
+   "o": "Arrive early on Tuesday for the open mic.",
+   "s": [
+    "todo"
+   ]
+  },
+  {
+   "n": "Troubadour",
+   "c": [
+    "music"
+   ],
+   "a": "9081 Santa Monica Blvd",
+   "p": "$$",
+   "w": "A small, legendary music room with great sound.",
+   "o": "Stand on the floor and skip the spots under the balcony.",
+   "s": [
+    "todo"
+   ]
+  },
+  {
+   "n": "The Roxy",
+   "c": [
+    "music"
+   ],
+   "a": "9009 Sunset Blvd",
+   "p": "$$",
+   "w": "A Sunset Strip original with a strong booking calendar. The Rainbow Bar and Grill is next door.",
+   "o": "Check the calendar and get dinner at the Rainbow before the show.",
+   "s": [
+    "todo"
+   ]
+  },
+  {
+   "n": "Whisky a Go Go",
+   "c": [
+    "music",
+    "landmark"
+   ],
+   "a": "8901 Sunset Blvd",
+   "p": "$$",
+   "w": "The club where the Doors were the house band. These days it books rock, punk and metal.",
+   "o": "A loud night of live rock.",
+   "s": [
+    "todo"
+   ]
+  },
+  {
+   "n": "Book Soup",
+   "c": [
+    "shop"
+   ],
+   "a": "8818 Sunset Blvd",
+   "p": "Free",
+   "w": "An independent bookstore on the Strip with more than 60,000 titles.",
+   "o": "Browse the film and art sections.",
+   "s": [
+    "todo"
+   ]
+  },
+  {
+   "n": "Schindler House",
+   "c": [
+    "landmark",
+    "art"
+   ],
+   "a": "835 N Kings Rd",
+   "p": "$",
+   "w": "Rudolph Schindler's 1922 house, a modern architecture landmark that hosts art shows.",
+   "o": "Tours run Wednesday through Sunday; reserve ahead.",
+   "s": [
+    "todo"
+   ]
+  },
+  {
+   "n": "ONE Gallery",
+   "c": [
+    "art",
+    "museum"
+   ],
+   "a": "626 N Robertson Blvd",
+   "p": "Free",
+   "w": "A gallery of LGBTQ+ history exhibits on Robertson.",
+   "o": "Pair it with Hauser and Wirth nearby.",
+   "s": [
+    "todo"
+   ]
+  },
+  {
+   "n": "RH West Hollywood rooftop",
+   "c": [
+    "shop",
+    "rooftop"
+   ],
+   "a": "8564 Melrose Ave",
+   "p": "Free",
+   "w": "A furniture showroom with a rooftop garden and Hollywood Hills views that feels like a secret.",
+   "o": "Head straight up for the view.",
+   "s": [
+    "todo"
+   ]
+  },
+  {
+   "n": "Sunset Strip",
+   "c": [
+    "landmark"
+   ],
+   "a": "Sunset Blvd, Doheny Dr to Crescent Heights",
+   "p": "Free",
+   "w": "The mile and a half of billboards, music clubs, comedy rooms and hotels that made West Hollywood famous.",
+   "o": "Walk it at night, from the Whisky to the Comedy Store.",
+   "s": [
+    "todo"
+   ]
+  },
+  {
+   "n": "Rainbow Crosswalks",
+   "c": [
+    "landmark"
+   ],
+   "a": "Santa Monica Blvd and N San Vicente Blvd",
+   "p": "Free",
+   "w": "The permanent rainbow crosswalks at the center of WeHo Pride every June.",
+   "o": "Photos, then the bars along Santa Monica Boulevard.",
+   "s": [
+    "todo"
+   ]
+  },
+  {
+   "n": "West Hollywood Park",
+   "c": [
+    "park",
+    "kids",
+    "dogs",
+    "fitness"
+   ],
+   "a": "647 N San Vicente Blvd",
+   "p": "Free",
+   "w": "The city's main park, with a modern playground, courts, a dog park and the library next door.",
+   "o": "Pickleball or tennis, then the library's rooftop views.",
+   "s": [
+    "gm",
+    "todo"
+   ]
+  },
+  {
+   "n": "Plummer Park",
+   "c": [
+    "park",
+    "kids",
+    "fitness"
+   ],
+   "a": "7377 Santa Monica Blvd",
+   "p": "Free",
+   "w": "A busy neighborhood park with tennis and pickleball courts, a playground and free summer concerts.",
+   "o": "Summer Sunday concerts.",
+   "s": [
+    "gm",
+    "towh"
+   ]
+  },
+  {
+   "n": "Kings Road Park",
+   "c": [
+    "park",
+    "kids"
+   ],
+   "a": "1000 Kings Rd",
+   "p": "Free",
+   "w": "A small, shady pocket park with water features and a toddler playground.",
+   "o": "A quiet lunch break on a bench.",
+   "s": [
+    "gm"
+   ]
+  },
+  {
+   "n": "Delilah",
+   "c": [
+    "bars",
+    "music",
+    "date"
+   ],
+   "a": "7969 Santa Monica Blvd",
+   "p": "$$$$",
+   "w": "A Roaring Twenties supper club from the h.wood group, with live music, a grand bar and one of the hardest reservations in LA. Dress up; this is the room people book for the big night.",
+   "o": "Book weeks out, arrive for dinner and stay for the late set.",
+   "s": [
+    "cbsweho",
+    "vwh"
+   ]
+  },
+  {
+   "n": "The Nice Guy",
+   "c": [
+    "bars",
+    "latenight"
+   ],
+   "a": "401 N La Cienega Blvd",
+   "p": "$$$",
+   "w": "A dark, red-booth Italian lounge that has been the city's most reliable celebrity scene since 2014. Getting in without a reservation is hard on weekends.",
+   "o": "Book a late table, order the chicken parm and a martini, and use the photo booth.",
+   "s": [
+    "niceguy"
+   ]
+  },
+  {
+   "n": "Sunset at the West Hollywood EDITION",
+   "c": [
+    "bars",
+    "latenight"
+   ],
+   "a": "9040 Sunset Blvd",
+   "p": "$$$$",
+   "w": "A basement nightclub under the EDITION hotel with a strict door and a dressed-up crowd. The most polished late-night room on the Strip.",
+   "o": "Get on a list or book a table before you go. Dress code is enforced.",
+   "s": [
+    "dtweho"
+   ]
+  },
+  {
+   "n": "White Rabbit Sky Lounge at the Valorian",
+   "c": [
+    "rooftop",
+    "bars"
+   ],
+   "a": "8440 Sunset Blvd",
+   "p": "$$$",
+   "w": "The rooftop pool lounge that used to be Skybar, renamed in 2026 when the Mondrian became the Valorian. Day-to-night parties with a view over the whole city.",
+   "o": "Go for sunset on a Thursday or Friday and dress for it.",
+   "s": [
+    "wrabbit",
+    "vwh"
+   ]
+  },
+  {
+   "n": "Nightingale Plaza",
+   "c": [
+    "bars",
+    "latenight"
+   ],
+   "a": "643 N La Cienega Blvd",
+   "p": "$$$$",
+   "w": "A small, high-end nightclub on La Cienega known for its Sunday party. Entry is at the door's discretion and most people book a table.",
+   "o": "Sunday night, with a table reserved ahead.",
+   "s": [
+    "dtweho"
+   ]
+  }
+ ]
+}
