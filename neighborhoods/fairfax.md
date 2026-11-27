@@ -30,7 +30,7 @@ The Fairfax District is a City of LA neighborhood around Fairfax Avenue between 
 
 - **Good fit if:** You want to walk to the market and live in a classic LA building.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -103,7 +103,7 @@ A competition-level specialty roaster with single-origin pour-overs and tasting 
 
 **Order:** A fruity pour-over or the espresso and cortado flight.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Be+Bright+Coffee+7311+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Be+Bright+Coffee+7311+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Coffee
 
@@ -117,7 +117,7 @@ A calm Melrose cafe with plenty of seating and outlets, good for getting work do
 
 **Order:** A cream-top latte and a croissant.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Flowin+Cafe+7201+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Flowin+Cafe+7201+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Coffee
 
@@ -131,7 +131,7 @@ A Japanese cafe known for tall souffle pancakes and omurice. Expect a short wait
 
 **Order:** Souffle pancakes and the omurice with karaage.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Takagi+Coffee+8048+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Takagi+Coffee+8048+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
 
 Breakfast Brunch Coffee
 
@@ -315,7 +315,7 @@ A dim, no-menu cocktail bar where the bartenders build a drink around your taste
 
 **Order:** Tell them a spirit and a flavor you like.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -329,7 +329,7 @@ A moody speakeasy across from The Grove with elaborate cocktails.
 
 **Order:** A cocktail from the spirits menu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -361,7 +361,7 @@ A big, shady park next to The Grove with lawns, walking paths and sports facilit
 
 **Do:** A sunset walk, then dinner at the Farmers Market.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+7600+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+7600+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Parks Dog-friendly Kids & family
 
@@ -375,7 +375,7 @@ Ice Age asphalt seeps and active excavation sites in the park. The museum buildi
 
 **Do:** Walk to the Lake Pit and look for the tar bubbling up.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+5801+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [La Brea Tar Pits](https://tarpits.org/last-chance) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+5801+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [La Brea Tar Pits](https://tarpits.org/last-chance) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Parks Landmarks & sights Kids & family
 
@@ -389,7 +389,7 @@ A small, shady pocket park with water features and a toddler playground.
 
 **Do:** A quiet lunch break on a bench.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kings+Road+Park+1000+Kings+Rd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kings+Road+Park+1000+Kings+Rd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Parks Kids & family
 
@@ -444,7 +444,7 @@ Sources
 - [The Infatuation: Best restaurants in Beverly Grove](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-beverly-grove)
 - [The Infatuation: Beverly Grove](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove)
 - [Time Out: Best coffee shops in West Hollywood](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 The story of Fairfax District
 
@@ -546,7 +546,7 @@ Photos
 
 Track record
 
-## My deals in Fairfax District
+## Nathaniel's deals in Fairfax District
 
 [All listings →](https://www.nathanielgrivas.com/listings)
 
@@ -590,9 +590,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -675,9 +675,9 @@ Get new Fairfax District listings as they hit, including ones that aren't public
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

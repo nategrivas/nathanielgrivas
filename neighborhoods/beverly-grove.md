@@ -30,7 +30,7 @@ Beverly Grove is the City of LA neighborhood between West Hollywood, Beverly Hil
 
 - **Good fit if:** You want a central, walkable spot, or a duplex to live in and rent out.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -115,7 +115,7 @@ A small specialty coffee shop with a walk-up window, outdoor seating and its own
 
 **Order:** An iced Americano or a seasonal latte with a cinnamon roll.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Neighborhood+8151+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Neighborhood+8151+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
 
 Coffee
 
@@ -129,7 +129,7 @@ A Japanese cafe known for tall souffle pancakes and omurice. Expect a short wait
 
 **Order:** Souffle pancakes and the omurice with karaage.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Takagi+Coffee+8048+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Takagi+Coffee+8048+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
 
 Breakfast Brunch Coffee
 
@@ -171,7 +171,7 @@ A stylish two-level breakfast spot with an Eastern European twist.
 
 **Order:** Syrniki and the mushroom truffle toast. Reserve on weekends.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=MOOD+8201+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=MOOD+8201+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
 
 Breakfast Brunch
 
@@ -380,7 +380,7 @@ Sources
 - [The Infatuation: Where to brunch in West Hollywood](https://www.theinfatuation.com/los-angeles/guides/where-to-brunch-in-west-hollywood)
 - [Time Out: Best West Hollywood restaurants](https://www.timeout.com/los-angeles/restaurants/best-west-hollywood-restaurants)
 - [Lonely Planet: West Hollywood and Mid-City restaurants](https://www.lonelyplanet.com/usa/los-angeles/west-hollywood/restaurants)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
 
 The story of Beverly Grove
 
@@ -523,9 +523,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -612,9 +612,9 @@ Get new Beverly Grove listings as they hit, including ones that aren't public ye
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

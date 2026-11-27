@@ -6,7 +6,7 @@ Local LA
 
 # The best late-night spots in Los Angeles
 
-32 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+32 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -78,7 +78,7 @@ A casual Brazilian restaurant with a huge menu that stays open late.
 
 **Order:** Brazilian cheese bread and the salmon.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Bossa+Nova+10982+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bossa+Nova+10982+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Dinner
 
@@ -120,7 +120,7 @@ A classy cocktail lounge with a small dance floor and local DJs on weekends.
 
 **Order:** A smoked old fashioned. Open Wednesday through Saturday.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 Cocktail bars & lounges
 
@@ -134,7 +134,7 @@ A Yemeni coffeehouse with comfortable seating upstairs, board games and late hou
 
 **Order:** The pumpkin chai or a Yemeni coffee.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+939+Broxton+Ave+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+939+Broxton+Ave+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
 
 Coffee
 
@@ -196,7 +196,7 @@ A Yemeni coffeehouse near the Pantages, open late, with spiced lattes and rich d
 
 **Order:** A Spanish latte and the Biscoff tres leches before a show.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+Hollywood+6290+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+Hollywood+6290+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Los+Angeles+CA)
 
 Coffee Bakeries & dessert
 
@@ -380,7 +380,7 @@ A stylish little cocktail bar in Virgil Village with a smoking patio.
 
 **Order:** A house cocktail; Mondays bring a tiki menu.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Real+Charmer+864+N+Virgil+Ave+East+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=East+Hollywood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Real+Charmer+864+N+Virgil+Ave+East+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=East+Hollywood+Los+Angeles+CA)
 
 Cocktail bars & lounges
 
@@ -466,7 +466,7 @@ An upscale kosher Mediterranean tapas restaurant that turns into a party with a 
 
 **Order:** Bluefin crispy rice and the market salad.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=TLV+Tapas+Bar+5442+Yolanda+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=TLV+Tapas+Bar+5442+Yolanda+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Date night Cocktail bars & lounges
 
@@ -480,16 +480,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

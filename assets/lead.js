@@ -8,54 +8,58 @@
   const esc = (t) => String(t == null ? '' : t).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   const q = new URLSearchParams(location.search);
 
-  const AREAS = [['Westside', 'Westside'], ['Beverly Hills & the Hills', 'Beverly Hills & the hills'], ['Coast', 'The coast'], ['Central', 'Hollywood & Mid-City'], ['Eastside', 'Silver Lake, Los Feliz, Echo Park'], ['Valley', 'The Valley']];
+  const AREAS = [['Westside', 'Westside'], ['Beverly Hills & the Hills', 'Beverly Hills & the Hills'], ['Coast', 'The Coast'], ['Central', 'Hollywood & Mid-City'], ['Eastside', 'Silver Lake, Los Feliz & Echo Park'], ['Valley', 'The Valley']];
   const WHEN = [['ASAP', 'As soon as possible'], ['1-3 months', 'In 1 to 3 months'], ['3-6 months', 'In 3 to 6 months'], ['6-12 months', 'In 6 to 12 months'], ['Just curious', 'Just curious for now']];
+  const PAY = ['All cash', 'Pre-approved loan', 'Need a lender', 'Self-employed loan', 'Seller financing', '1031 exchange'];
+  // Price scale for the budget slider: fine steps where most buyers shop, wider steps at the top.
+  const PV = (() => { const v = []; for (let n = 300e3; n < 1e6; n += 25e3) v.push(n); for (let n = 1e6; n < 3e6; n += 50e3) v.push(n); for (let n = 3e6; n < 6e6; n += 100e3) v.push(n); for (let n = 6e6; n < 15e6; n += 250e3) v.push(n); for (let n = 15e6; n <= 30e6; n += 1e6) v.push(n); return v; })();
+  const money = (n, top) => (n >= 1e6 ? '$' + (Math.round(n / 1e4) / 100).toString().replace(/\.?0+$/, '') + 'M' : '$' + Math.round(n / 1e3) + 'K') + (top ? '+' : '');
+  const nearI = (n) => PV.reduce((b, v, i) => (Math.abs(v - n) < Math.abs(PV[b] - n) ? i : b), 0);
 
   const FLOWS = {
     value: {
       kind: 'Home value request',
       steps: [
-        { k: 'address', t: 'text', q: "What's the address?", sub: "Start typing and pick it from the list. I'll pull the county record so you barely have to type.", ph: 'Street address, city or ZIP', req: true, unit: true },
-        { k: 'record', t: 'record', q: "Here's what LA County has on file", sub: "Pulled from the public assessor record. Confirm it or fix what's off, and you only answer what the record can't tell me.", when: (A) => !!A._rec },
+        { k: 'address', t: 'text', q: "What's the address?", sub: 'Start typing and pick it from the list. The county record fills in the rest.', ph: 'Street address, city or ZIP', req: true, unit: true },
+        { k: 'record', t: 'record', q: "Here's what LA County has on file", sub: 'Pulled from the public assessor record. Confirm it or fix what is off.', when: (A) => !!A._rec },
         { k: 'type', t: 'one', q: 'What kind of property is it?', sub: '', o: ['House', 'Condo or townhome', 'Duplex to fourplex', 'Apartment building (5+ units)', 'Land or a teardown'], when: (A) => A.recordOK !== 'Confirmed' },
         { k: 'size', t: 'size', q: 'How big is it?', sub: 'Close is fine. Skip anything you are not sure about.', when: (A) => A.recordOK !== 'Confirmed' },
         { k: 'condition', t: 'one', q: 'What shape is it in?', o: ['Needs major work', 'Original but well kept', 'Partly updated', 'Fully remodeled', 'Built in the last 5 years'] },
         { k: 'timing', t: 'one', q: 'When might you sell?', o: WHEN.map((w) => w[1]) },
-        { k: 'contact', t: 'contact', q: 'Where should I send your valuation?', sub: 'You get a value range from the most recent sales near you, plus what you would walk away with after costs. Free, within 24 hours.', btn: 'Get my home value' },
+        { k: 'contact', t: 'contact', q: 'Where should Nathaniel send your free valuation?', sub: 'A value range from the latest sales near you, plus what you would walk away with after costs. Free, within 24 hours.', btn: 'Get my free valuation' },
         { k: 'updates', t: 'many', post: true, q: "What's been updated?", sub: 'Pick everything that applies.', o: ['Kitchen', 'Bathrooms', 'Roof', 'Windows', 'Heating and AC', 'Electrical', 'Plumbing or sewer line', 'Foundation', 'Flooring', 'Paint', 'Solar', 'Landscaping', 'None of these'] },
         { k: 'features', t: 'many', post: true, q: 'Anything that adds value?', o: ['Pool', 'Spa', 'ADU or guest house', 'View', 'Garage', 'Corner lot', 'Home office', 'Primary bedroom downstairs', 'Outdoor kitchen', 'Gated', 'Additions without permits', 'None of these'] },
         { k: 'occupancy', t: 'one', post: true, q: 'Who lives there now?', o: ['I do', 'A tenant', 'No one, it is vacant', "It's a second home"] },
         { k: 'lease', t: 'text', post: true, q: 'When does the lease end, and what is the rent?', ph: 'Like "month to month, $4,200"', when: (A) => A.occupancy === 'A tenant' },
         { k: 'reason', t: 'one', post: true, q: "What's behind the move?", o: ['Upsizing or downsizing', 'Relocating', 'Cashing out or investing', 'Estate, trust or family change', 'Refinancing or a HELOC', 'Just curious'] },
         { k: 'next', t: 'one', post: true, q: 'Are you buying after you sell?', o: ['Yes, in LA', 'Yes, outside LA', 'No', 'Not sure yet'] },
-        { k: 'mortgage', t: 'one', post: true, q: 'Is there a loan on it?', sub: 'Helps me show what you would walk away with.', o: ['Yes', 'No, it is paid off', 'Rather not say'] },
-        { k: 'guess', t: 'text', post: true, q: 'What do you think it is worth?', sub: 'Optional. I like to know where your head is.', ph: 'Like "$1.8M"' },
-        { k: 'notes', t: 'area', post: true, q: 'Anything else I should know?', ph: 'Recent work, issues, tenants, more than one owner, a trust, a tight timeline. Complicated is fine.' },
+        { k: 'mortgage', t: 'one', post: true, q: 'Is there a loan on it?', sub: 'It shows what you would walk away with.', o: ['Yes', 'No, it is paid off', 'Rather not say'] },
+        { k: 'guess', t: 'text', post: true, q: 'What do you think it is worth?', sub: 'Optional. It helps to know where your head is.', ph: 'Like "$1.8M"' },
+        { k: 'notes', t: 'area', post: true, q: 'Anything else Nathaniel should know?', ph: 'Recent work, issues, tenants, more than one owner, a trust, a tight timeline. Complicated is fine.' },
       ],
       subject: (A) => 'Home value request: ' + (A.address || 'no address') + (A.unit ? ' #' + A.unit : ''),
-      done: (A, first) => `<p class="lf-kick">Request received</p><h3>Got it, ${esc(first)}.</h3><p>I'm pulling the latest sales around <b>${esc(A.address)}</b> now. You'll have your value range within 24 hours, usually the same day.</p>`,
+      done: (A, first) => `<p class="lf-kick">Request received</p><h3>Got it, ${esc(first)}.</h3><p>Nathaniel is pulling the latest sales around <b>${esc(A.address)}</b> now. Your value range arrives within 24 hours, usually the same day.</p>`,
       after: 'A few more taps make your number sharper. All optional:',
-      end: (A, first) => `<p class="lf-kick">All set</p><h3>Thanks, ${esc(first)}. That's everything I need.</h3><p>Want it faster? Call or text me and I'll walk you through it today.</p>`,
+      end: (A, first) => `<p class="lf-kick">All set</p><h3>Thanks, ${esc(first)}. That's everything Nathaniel needs.</h3><p>Want it faster? Call or text and he'll walk you through it today.</p>`,
     },
     buy: {
       kind: 'Buyer search',
       steps: [
-        { k: 'areas', t: 'many', q: 'Where do you want to live?', sub: 'Pick any, or type neighborhoods and ZIP codes.', o: AREAS.map((a) => a[1]), type: 'Or type it, like "Venice, Mar Vista, 90066"' },
+        { k: 'areas', t: 'areas', q: 'Where do you want to live?', sub: 'Tap an area, then narrow it to neighborhoods if you like.' },
         { k: 'home', t: 'one', q: 'What kind of home?', o: ['House', 'Condo or townhome', 'Duplex to fourplex', 'Land or a teardown', 'Open to anything'] },
-        { k: 'budget', t: 'one', q: "What's your budget?", o: ['Under $1M', '$1M to $2M', '$2M to $3.5M', '$3.5M to $6M', '$6M and up', 'Not sure yet'] },
+        { k: 'budget', t: 'money', q: 'Your budget, and how you are paying', sub: 'Drag both ends to your price range, then tap how you plan to pay.' },
         { k: 'rooms', t: 'rooms', q: 'How many bedrooms and bathrooms?' },
-        { k: 'pay', t: 'one', q: 'How are you paying?', sub: 'Every answer works. I have lenders for all of these.', o: ['All cash', 'Loan, already pre-approved', 'Loan, need a lender', "I'm self-employed or my income is non-traditional", 'Seller financing or another creative structure', '1031 exchange'] },
         { k: 'timing', t: 'one', q: 'When do you want to buy?', o: WHEN.map((w) => w[1]).slice(0, 4).concat(['Just looking for now']) },
-        { k: 'contact', t: 'contact', q: 'Where should I send your matches?', sub: 'New listings that fit, Compass coming-soon homes and my team\'s off-market list, sent as they come up.', btn: 'Start my search' },
+        { k: 'contact', t: 'contact', q: 'Where should Nathaniel send your matches?', sub: 'New listings that fit, Compass coming-soon homes and The Brodsky Group\'s off-market list, sent as they come up.', btn: 'Start my search' },
         { k: 'must', t: 'many', post: true, q: 'What matters most?', o: ['A yard', 'A pool', 'A view', 'Single story', 'Primary bedroom downstairs', 'Home office', 'Guest house or ADU', 'Garage', 'Move-in ready', 'A fixer with upside', 'Modern or new construction', 'Walk to coffee and dinner', 'Good schools', 'Quiet street'] },
         { k: 'sell_first', t: 'one', post: true, q: 'Do you need to sell a home first?', o: ['Yes', 'No', 'Not sure'] },
         { k: 'now', t: 'one', post: true, q: 'Where are you living now?', o: ['Renting in LA', 'Own in LA', 'Moving from outside LA'] },
-        { k: 'notes', t: 'area', post: true, q: 'Anything else I should know?', ph: 'Must-haves, deal-breakers, a street you love, a tricky financing situation. Complicated is fine.' },
+        { k: 'notes', t: 'area', post: true, q: 'Anything else Nathaniel should know?', ph: 'Must-haves, deal-breakers, a street you love, a tricky financing situation. Complicated is fine.' },
       ],
       subject: (A) => 'Buyer search: ' + [[].concat(A.areas || []).join(', '), A.budget].filter(Boolean).join(', '),
-      done: (A, first) => `<p class="lf-kick">Search started</p><h3>Got it, ${esc(first)}.</h3><p>I'm setting up your search now. You'll get homes that fit, including ones that aren't public yet. I'll reach out today.</p>`,
-      after: 'A few more so I only send what fits. All optional:',
-      end: (A, first) => `<p class="lf-kick">All set</p><h3>Thanks, ${esc(first)}. Your search is set.</h3><p>Want to talk it through? Call or text me anytime.</p>`,
+      done: (A, first) => `<p class="lf-kick">Search started</p><h3>Got it, ${esc(first)}.</h3><p>Nathaniel is setting up your search now, including homes that are not public yet. Expect to hear from him today.</p>`,
+      after: 'A few more so only homes that fit come through. All optional:',
+      end: (A, first) => `<p class="lf-kick">All set</p><h3>Thanks, ${esc(first)}. Your search is set.</h3><p>Want to talk it through? Call or text Nathaniel anytime.</p>`,
     },
   };
 
@@ -142,12 +146,29 @@
   const insight = (r) => {
     const z = (r.z && r.z.zone) || '';
     const out = [];
-    if ((r.units || 0) >= 2) out.push(`${r.units} units on record, so I'll value it as income property as well as by comparable sales.`);
+    if ((r.units || 0) >= 2) out.push(`${r.units} units on record, so it gets valued as income property as well as by comparable sales.`);
     else if (/^R1|^RS|^RE|^RA/.test(z) && (r.lot || 0) >= 5000) out.push(`Zoned ${z} on a ${r.lot.toLocaleString()} sq ft lot. Lots like this often have room for an ADU, and buyers pay for that potential.`);
     if (/^(R2|RD|R3|R4|R5)/.test(z) && (r.units || 1) < 2) out.push(`Zoned ${z}, which allows more than one unit. That can mean more value as a development site than as a house.`);
-    if (/vacant/i.test(r.use)) out.push('Listed as vacant land. I will value it on what can be built there.');
+    if (/vacant/i.test(r.use)) out.push('Listed as vacant land, so it gets valued on what can be built there.');
     return out.slice(0, 1).join(' ');
   };
+
+
+  // ---- Area picker data: regions, all neighborhoods, every pocket and ZIP (built from the site's own guide).
+  let AD = null, ADp = null;
+  const loadAD = () => AD ? Promise.resolve(AD) : (ADp = ADp || fetch('/assets/areas.json').then((r) => r.json()).then((j) => { AD = j; return j; }).catch(() => null));
+  const regOf = (name) => { if (!AD) return null; for (const g of AD.g) if (g.h.some((h) => h[1] === name)) return g.r; return null; };
+  const regLabel = (r) => (AREAS.find((a) => a[0] === r) || [r, r])[1];
+  const areaFind = (txt) => {
+    if (!AD) return [];
+    const t = txt.trim().toLowerCase(); if (t.length < 2) return [];
+    const out = [];
+    AD.g.forEach((g) => g.h.forEach((h) => { if (h[1].toLowerCase().includes(t) || (h[2] || '').includes(t)) out.push({ k: 'h', v: h[1], s: regLabel(g.r) }); }));
+    AD.p.forEach((x) => { if (x[0].toLowerCase().includes(t)) out.push({ k: 'x', v: x[0] + ', ' + x[1], s: 'Pocket in ' + x[1] }); });
+    if (/^9\d{1,4}$/.test(t)) Object.keys(AD.z).filter((z) => z.startsWith(t)).forEach((z) => out.push({ k: 'x', v: z, s: 'ZIP, ' + AD.z[z] }));
+    return out.slice(0, 7);
+  };
+  const pct = (i) => (100 * i / (PV.length - 1)).toFixed(2);
 
   roots.forEach((root) => {
     const F = FLOWS[root.dataset.flow];
@@ -157,13 +178,25 @@
     try { A = JSON.parse(sessionStorage.getItem(KEY) || '{}'); } catch (e) { A = {}; }
     if (A._sent && A._done) A = {};
     if (q.get('addr') && root.dataset.flow === 'value') A.address = q.get('addr');
-    if (root.dataset.area && root.dataset.flow === 'buy' && !A.typed) A.typed = root.dataset.area;
+    if (root.dataset.flow === 'buy') {
+      const pre0 = q.get('area') || root.dataset.area;
+      if (pre0 && A._preFrom !== pre0) { A._pre = pre0; A._preFrom = pre0; }
+    }
     if (root.dataset.addrph) F.steps[0].ph = root.dataset.addrph;
     const save = () => { try { sessionStorage.setItem(KEY, JSON.stringify(A)); } catch (e) { /* private mode */ } };
     let i = 0;
     const live = () => F.steps.filter((s) => !s.when || s.when(A));
     const pre = () => live().filter((s) => !s.post);
     const pst = () => live().filter((s) => s.post);
+    const SEL = () => { A._as = A._as || { any: [], h: [], x: [] }; return A._as; };
+    const syncAreas = () => { const S = SEL(); A.areas = S.any.map((r) => 'Anywhere: ' + regLabel(r)).concat(S.h, S.x); if (!A.areas.length) delete A.areas; };
+    const applyPre = () => {
+      if (!A._pre || !AD) return;
+      const t = String(A._pre).toLowerCase().replace(/-/g, ' ');
+      let hit = null; AD.g.forEach((g) => g.h.forEach((h) => { if (h[0] === A._pre || h[1].toLowerCase() === t) hit = [g.r, h[1]]; }));
+      if (hit) { const S = SEL(); if (!S.h.includes(hit[1])) S.h.push(hit[1]); A._open = [hit[0]]; syncAreas(); }
+      delete A._pre; save();
+    };
     if (A._sent) i = pre().length + Math.min(A._pi || 0, pst().length);
     else if (q.get('addr') && root.dataset.flow === 'value') i = 1;
 
@@ -218,6 +251,24 @@
         body = `<div class="lf-opts lf-many">${s.o.map((o) => `<button type="button" class="lf-opt${cur.includes(o) ? ' on' : ''}" aria-pressed="${cur.includes(o)}" data-v="${esc(o)}">${esc(o)}</button>`).join('')}</div>`
           + (s.type ? `<input class="lf-in" name="typed" placeholder="${esc(s.type)}" value="${esc(A.typed || '')}">` : '');
       }
+      if (s.t === 'areas') {
+        if (!AD) loadAD().then(() => { applyPre(); if (live()[i] === s) render(); });
+        const S = SEL(), open = A._open || [];
+        const cnt = (r) => (S.any.includes(r) ? 1 : 0) + (AD ? (AD.g.find((g) => g.r === r) || { h: [] }).h.filter((h) => S.h.includes(h[1])).length : 0);
+        body = `<div class="lf-regs">${AREAS.map(([r, l]) => { const c = cnt(r), g = AD && AD.g.find((x) => x.r === r); return `<button type="button" class="lf-rg${open.includes(r) ? ' open' : ''}${c ? ' on' : ''}" data-rg="${esc(r)}" aria-expanded="${open.includes(r)}"><b>${esc(l)}</b><small>${c ? (S.any.includes(r) ? 'Anywhere here' : c + ' picked') : (g ? g.h.length + ' neighborhoods' : 'Tap to pick')}</small></button>`; }).join('')}</div>`
+          + (AD ? open.map((r) => { const g = AD.g.find((x) => x.r === r); if (!g) return ''; return `<div class="lf-hg"><div class="lf-hgt"><span>${esc(regLabel(r))}</span><button type="button" class="lf-h lf-any${S.any.includes(r) ? ' on' : ''}" data-any="${esc(r)}">Anywhere here</button></div><div class="lf-hc">${g.h.map((h) => `<button type="button" class="lf-h${S.h.includes(h[1]) ? ' on' : ''}" data-h="${esc(h[1])}" aria-pressed="${S.h.includes(h[1])}">${esc(h[1])}</button>`).join('')}</div></div>`; }).join('') : '')
+          + (S.x.length ? `<div class="lf-tags">${S.x.map((x) => `<button type="button" class="lf-tag" data-x="${esc(x)}" aria-label="Remove ${esc(x)}">${esc(x)} <i>&times;</i></button>`).join('')}</div>` : '')
+          + `<div class="lf-asw"><input class="lf-in lf-as" name="_q" placeholder="Search a neighborhood, pocket or ZIP, like Bird Streets or 90066" autocomplete="off"><div class="lf-sug lf-asug" role="listbox" hidden></div></div>`
+          + `<p class="lf-alink">Not sure yet? <a href="/neighborhoods/">Compare all 40 neighborhoods</a> or <a href="/neighborhoods/map/">see every pocket on the map</a>. Your answers stay saved.</p>`;
+      }
+      if (s.t === 'money') {
+        const lo = A._lo != null ? A._lo : nearI(1e6), hi = A._hi != null ? A._hi : nearI(2e6), top = PV.length - 1;
+        body = `<div class="lf-money"><div class="lf-mv"><b data-mlo>${money(PV[lo])}</b><span>to</span><b data-mhi>${money(PV[hi], hi === top)}</b></div>
+<div class="lf-dual" style="--a:${pct(lo)}%;--b:${pct(hi)}%"><input type="range" min="0" max="${top}" step="1" value="${lo}" data-m="lo" aria-label="Lowest price"><input type="range" min="0" max="${top}" step="1" value="${hi}" data-m="hi" aria-label="Highest price"></div>
+<div class="lf-mends"><span>$300K</span><span>$30M+</span></div>
+<p class="lf-plab">Paying with</p><div class="lf-pay">${PAY.map((x) => `<button type="button" class="lf-chip${A.pay === x ? ' on' : ''}" data-pay="${esc(x)}">${esc(x)}</button>`).join('')}</div>
+<p class="lf-pnote">Every option works. Nathaniel has lenders for each one, including bank-statement and investor loans.</p></div>`;
+      }
       if (s.t === 'text') body = `<input class="lf-in" name="${s.k}" placeholder="${esc(s.ph || '')}" value="${esc(A[s.k] || '')}"${s.k === 'address' ? ' autocomplete="street-address"' : ''}>`
         + (s.unit ? `<input class="lf-in lf-unit" name="unit" placeholder="Unit (optional)" value="${esc(A.unit || '')}">` : '')
         + (s.k === 'address' ? '<div class="lf-sug" role="listbox" aria-label="Matching addresses" hidden></div>' : '');
@@ -249,13 +300,13 @@
 <div class="lf-body">${body}</div>
 <p class="lf-err" role="alert"></p>
 <div class="lf-nav">${needsBtn ? `<button type="button" class="btn solid big lf-go">${esc(s.btn || (inPost ? 'Next' : 'Continue'))}</button>` : ''}${(inPost || (!s.req && s.t !== 'contact' && s.t !== 'record')) ? '<button type="button" class="lf-skip">Skip</button>' : ''}</div>
-${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you agree I can contact you by call, text or email about real estate. Reply STOP to opt out. <a href="/privacy/">Privacy</a></p>` : ''}`;
+${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you agree Nathaniel can contact you by call, text or email about real estate. Reply STOP to opt out. <a href="/privacy/">Privacy</a></p>` : ''}`;
       const first = root.querySelector('input.lf-in, textarea.lf-in');
-      if (first && root.dataset.started) first.focus({ preventScroll: true });
+      if (first && root.dataset.started && s.t !== 'areas') first.focus({ preventScroll: true });
       if (s.t === 'record' && !A._rec.z) zoneFor(A._rec);
     };
 
-    const reach = () => `<div class="lf-reach"><a class="btn solid" href="tel:${TEL}">Call ${PHONE}</a><a class="btn" href="sms:${TEL}">Text me</a></div>`;
+    const reach = () => `<div class="lf-reach"><a class="btn solid" href="tel:${TEL}">Call ${PHONE}</a><a class="btn" href="sms:${TEL}">Text Nathaniel</a></div>`;
     const grab = () => {
       root.querySelectorAll('input.lf-in, textarea.lf-in').forEach((el) => { const v = el.value.trim(); if (v) A[el.name] = v; else delete A[el.name]; });
     };
@@ -303,6 +354,17 @@ ${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you 
       if (t.classList.contains('lf-back')) { grab(); go(-1); return; }
       if (t.classList.contains('lf-skip')) { grab(); if (!pst()[i - pre().length + 1] && s && s.post) { i = live().length; sendDetails(); A._done = 1; save(); render(); return; } go(1); return; }
       if (t.dataset.pref) { A.prefer = t.dataset.pref; root.querySelectorAll('[data-pref]').forEach((b) => b.classList.toggle('on', b === t)); return; }
+      if (t.dataset.rg) {
+        const r = t.dataset.rg, S = SEL(); A._open = A._open || [];
+        if (A._open.includes(r)) { A._open = A._open.filter((x) => x !== r); S.any = S.any.filter((x) => x !== r); if (AD) { const g = AD.g.find((x) => x.r === r); S.h = S.h.filter((h) => !g.h.some((y) => y[1] === h)); } }
+        else { A._open.push(r); const g = AD && AD.g.find((x) => x.r === r); if (!S.any.includes(r) && !(g && g.h.some((y) => S.h.includes(y[1])))) S.any.push(r); }
+        syncAreas(); save(); render(); return;
+      }
+      if (t.dataset.any) { const r = t.dataset.any, S = SEL(); if (S.any.includes(r)) S.any = S.any.filter((x) => x !== r); else { S.any.push(r); const g = AD.g.find((x) => x.r === r); S.h = S.h.filter((h) => !g.h.some((y) => y[1] === h)); } syncAreas(); save(); render(); return; }
+      if (t.dataset.h) { const h = t.dataset.h, S = SEL(); if (S.h.includes(h)) S.h = S.h.filter((x) => x !== h); else { S.h.push(h); const r = regOf(h); S.any = S.any.filter((x) => x !== r); } syncAreas(); save(); render(); return; }
+      if (t.dataset.x) { const S = SEL(); S.x = S.x.filter((x) => x !== t.dataset.x); syncAreas(); save(); render(); return; }
+      if (t.dataset.as != null) { const it = (root._asug || [])[+t.dataset.as]; if (it) { const S = SEL(); if (it.k === 'h') { if (!S.h.includes(it.v)) S.h.push(it.v); const r = regOf(it.v); A._open = A._open || []; if (r && !A._open.includes(r)) A._open.push(r); S.any = S.any.filter((x) => x !== r); } else if (!S.x.includes(it.v)) S.x.push(it.v); syncAreas(); save(); render(); } return; }
+      if (t.dataset.pay) { A.pay = A.pay === t.dataset.pay ? undefined : t.dataset.pay; if (!A.pay) delete A.pay; root.querySelectorAll('[data-pay]').forEach((b) => b.classList.toggle('on', b.dataset.pay === A.pay)); save(); return; }
       if (t.dataset.inc) {
         const k = t.dataset.inc, d = +t.dataset.d, min = +(t.dataset.min || root.querySelector(`[data-inc="${k}"][data-min]`).dataset.min), max = +(root.querySelector(`[data-inc="${k}"][data-max]`).dataset.max);
         const base = A[k] != null ? A[k] : (d > 0 ? Math.max(min, 1) - d : min);
@@ -323,7 +385,9 @@ ${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you 
       }
       if (t.classList.contains('lf-go')) {
         grab();
-        if (s.req && !A[s.k]) { err(s.k === 'address' ? 'Add the address so I can pull the sales around it.' : 'This one is needed.'); return; }
+        if (s.t === 'areas') { const v = (root.querySelector('.lf-as') || {}).value || ''; delete A._q; if (v.trim()) { const S = SEL(); if (!S.x.includes(v.trim())) S.x.push(v.trim()); syncAreas(); } if (!(A.areas || []).length) { err('Tap an area, or search one.'); return; } save(); go(1); return; }
+        if (s.t === 'money') { const lo = A._lo != null ? A._lo : nearI(1e6), hi = A._hi != null ? A._hi : nearI(2e6); A.budget = money(PV[lo]) + ' to ' + money(PV[hi], hi === PV.length - 1); save(); go(1); return; }
+        if (s.req && !A[s.k]) { err(s.k === 'address' ? 'Add the address to pull the sales around it.' : 'This one is needed.'); return; }
         if (s.t === 'many' && !s.post && !(A[s.k] || []).length && !A.typed) { err('Pick at least one, or type it.'); return; }
         if (s.k === 'address' && A._recFor !== key()) {
           t.disabled = true; t.textContent = 'Checking county records...';
@@ -331,17 +395,33 @@ ${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you 
         }
         if (s.t === 'contact') {
           if (!A.name) { err('Add your name.'); return; }
-          if (!/\d{3}.*\d{4}/.test(A.phone || '')) { err('Add a mobile number so I can reach you.'); return; }
+          if (!/\d{3}.*\d{4}/.test(A.phone || '')) { err('Add a mobile number so Nathaniel can reach you.'); return; }
           if (!/^\S+@\S+\.\S+$/.test(A.email || '')) { err('Add a valid email.'); return; }
           t.disabled = true; t.textContent = 'Sending...';
           try { await sendMain(); go(1); } catch (e) {
             t.disabled = false; t.textContent = s.btn;
-            err(`That didn't go through from here. Call or text ${PHONE} and I'll take it from there.`);
+            err(`That didn't go through from here. Call or text ${PHONE} and Nathaniel will take it from there.`);
           }
           return;
         }
         if (s.post && !pst()[i - pre().length + 1]) { i = live().length; sendDetails(); A._done = 1; save(); render(); return; }
         go(1);
+      }
+    });
+    root.addEventListener('input', (ev) => {
+      const el = ev.target;
+      if (el.dataset && el.dataset.m) {
+        let lo = +root.querySelector('[data-m=lo]').value, hi = +root.querySelector('[data-m=hi]').value;
+        if (lo > hi - 1) { if (el.dataset.m === 'lo') { lo = Math.max(0, hi - 1); el.value = lo; } else { hi = Math.min(PV.length - 1, lo + 1); el.value = hi; } }
+        A._lo = lo; A._hi = hi; A.budget = money(PV[lo]) + ' to ' + money(PV[hi], hi === PV.length - 1);
+        root.querySelector('[data-mlo]').textContent = money(PV[lo]); root.querySelector('[data-mhi]').textContent = money(PV[hi], hi === PV.length - 1);
+        const d = root.querySelector('.lf-dual'); d.style.setProperty('--a', pct(lo) + '%'); d.style.setProperty('--b', pct(hi) + '%');
+        save(); return;
+      }
+      if (el.classList && el.classList.contains('lf-as')) {
+        const box = root.querySelector('.lf-asug'); const list = areaFind(el.value); root._asug = list;
+        if (!list.length) { box.hidden = true; return; }
+        box.innerHTML = list.map((it, k) => `<button type="button" class="lf-sg" data-as="${k}" role="option"><b>${esc(it.v)}</b><span>${esc(it.s)}</span></button>`).join(''); box.hidden = false;
       }
     });
     let sugT, sugN = 0;
@@ -363,6 +443,7 @@ ${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you 
       }, 260);
     });
     root.addEventListener('keydown', (ev) => {
+      if (ev.key === 'Enter' && ev.target.matches('input.lf-as')) { ev.preventDefault(); const f = root.querySelector('[data-as="0"]'); if (f) f.click(); else { const b = root.querySelector('.lf-go'); if (b) b.click(); } return; }
       if (ev.key === 'Enter' && ev.target.matches('input.lf-in')) { ev.preventDefault(); const b = root.querySelector('.lf-go'); if (b) b.click(); }
     });
     // Embedded starters: a field outside the card can hand its value in (like an address box in a hero)

@@ -30,7 +30,7 @@ Miracle Mile is the City of LA neighborhood along Wilshire Boulevard between Fai
 
 - **Good fit if:** You want culture and a subway stop in walking distance.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -97,7 +97,7 @@ A family-owned cafe with good espresso drinks, sandwiches and a small sidewalk p
 
 **Order:** The house cold brew and the pesto turkey sandwich.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Savor+5657+Wilshire+Blvd%2C+Suite+150+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Savor+5657+Wilshire+Blvd%2C+Suite+150+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Coffee Lunch
 
@@ -111,7 +111,7 @@ Walter and Margarita Manzke's French bakery and restaurant in a landmark 1920s b
 
 **Order:** Pastries from the case at brunch. Go early on weekends.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=R%C3%A9publique+624+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=R%C3%A9publique+624+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Brunch Breakfast Bakeries & dessert
 
@@ -125,7 +125,7 @@ A small, busy brunch cafe best known for its waffles.
 
 **Order:** Chilaquiles or a loaded waffle.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Met+Her+At+A+Bar+759+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Met+Her+At+A+Bar+759+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Brunch Breakfast
 
@@ -143,7 +143,7 @@ A cafeteria-style Italian spot that has fed LA since the 1960s, now in a new hom
 
 **Order:** Spaghetti and meatballs; the large feeds two.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Andre%27s+5400+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Andre%27s+5400+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Lunch Cheap eats Dinner
 
@@ -157,7 +157,7 @@ An order-at-the-counter Japanese rice bowl spot in a plant-filled space.
 
 **Order:** A salmon rice bowl.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Yuko+Kitchen+5484+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Yuko+Kitchen+5484+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Lunch Cheap eats
 
@@ -239,7 +239,7 @@ A moody speakeasy across from The Grove with elaborate cocktails.
 
 **Order:** A cocktail from the spirits menu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -253,7 +253,7 @@ A dim, no-menu cocktail bar where the bartenders build a drink around your taste
 
 **Order:** Tell them a spirit and a flavor you like.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -285,7 +285,7 @@ LA's biggest art museum, with the new David Geffen Galleries inside and Chris Bu
 
 **Do:** Urban Light at dusk, then the galleries.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=LACMA+5905+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=LACMA+5905+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Museums Art & galleries Landmarks & sights
 
@@ -299,7 +299,7 @@ Floors of film history and rotating exhibits, plus screenings and a terrace that
 
 **Do:** Check the screening calendar before you go.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Academy+Museum+of+Motion+Pictures+6067+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Academy+Museum+of+Motion+Pictures+6067+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Museums Movies
 
@@ -313,7 +313,7 @@ One of the world's great car museums, behind its famous ribbon-wrapped facade.
 
 **Do:** Add the basement Vault tour.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum+6060+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum+6060+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Museums Kids & family
 
@@ -331,7 +331,7 @@ Ice Age asphalt seeps and active excavation sites in the park. The museum buildi
 
 **Do:** Walk to the Lake Pit and look for the tar bubbling up.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+5801+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [La Brea Tar Pits](https://tarpits.org/last-chance) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+5801+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [La Brea Tar Pits](https://tarpits.org/last-chance) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Parks Landmarks & sights Kids & family
 
@@ -345,7 +345,7 @@ A big, shady park next to The Grove with lawns, walking paths and sports facilit
 
 **Do:** A sunset walk, then dinner at the Farmers Market.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+7600+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+7600+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Parks Dog-friendly Kids & family
 
@@ -359,14 +359,14 @@ A busy neighborhood park with tennis and pickleball courts, a playground and fre
 
 **Do:** Summer Sunday concerts.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Plummer+Park+7377+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/west-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Plummer+Park+7377+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/west-hollywood)
 
 Parks Kids & family Fitness & outdoor sports
 
 Sources
 
 - [La Brea Tar Pits](https://tarpits.org/last-chance)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 The story of Miracle Mile
 
@@ -504,9 +504,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -589,9 +589,9 @@ Get new Miracle Mile listings as they hit, including ones that aren't public yet
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

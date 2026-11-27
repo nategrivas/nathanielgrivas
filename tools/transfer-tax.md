@@ -24,7 +24,7 @@ Who pays is negotiable. In LA the seller customarily pays transfer taxes, but it
 
 Sources: [LA Office of Finance](https://finance.lacity.gov/faq/measure-ula), [City of Santa Monica](https://santamonica.gov/documentary-transfer-tax-real-property-transfer-tax), [City of Culver City](https://www.culvercity.gov/Services/Make-a-Payment/Real-Property-Transfer-Tax), [City of West Hollywood](https://weho.org/city-government/city-departments/finance-and-technology-services/taxes/property-taxes), [LA County Registrar-Recorder](https://www.lavote.gov/home/records/property-document-recording/documentary-transfer-taxes).
 
-**Want the real number for a real property?** Estimates are a start. Give me the address and I'll run it with current comps and the exact taxes, free.
+**Want the real number for a real property?** Estimates are a start. Send the address and Nathaniel will run it with current comps and the exact taxes, free.
 
 What's my home worth? Find me a home
 
@@ -56,16 +56,16 @@ Free, no obligation
 
 ## Want the real number for a real property?
 
-Give me the address and I'll run it with current comps, or tell me what you're looking for and I'll send homes that fit.
+Send the address and Nathaniel will run it with current comps, or share what you're looking for and he'll send homes that fit.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

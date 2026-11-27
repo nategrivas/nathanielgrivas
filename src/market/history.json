@@ -1,0 +1,38 @@
+[
+ {
+  "week": "2026-11-27",
+  "rate": 7.28,
+  "regions": [
+   {
+    "r": "Westside",
+    "active": 693,
+    "cut": 124
+   },
+   {
+    "r": "Coast",
+    "active": 899,
+    "cut": 122
+   },
+   {
+    "r": "Beverly Hills & the Hills",
+    "active": 696,
+    "cut": 81
+   },
+   {
+    "r": "Central",
+    "active": 542,
+    "cut": 71
+   },
+   {
+    "r": "Eastside",
+    "active": 187,
+    "cut": 25
+   },
+   {
+    "r": "Valley",
+    "active": 1331,
+    "cut": 259
+   }
+  ]
+ }
+]

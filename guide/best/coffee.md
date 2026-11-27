@@ -6,7 +6,7 @@ Local LA
 
 # The best coffee shops in Los Angeles
 
-60 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+60 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -20,7 +20,7 @@ A well-run espresso bar with a garden patio out back.
 
 **Order:** A latte and an almond croissant in the garden.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Luxxe+Malibu+22333+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Luxxe+Malibu+22333+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
 
 ### Le Cafe Plage
 
@@ -32,7 +32,7 @@ A busy French-style cafe near Point Dume, popular after a morning hike.
 
 **Order:** A vanilla cold foam latte and the lobster burrito.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Le+Cafe+Plage+29169+Heathercliff+Rd+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Le+Cafe+Plage+29169+Heathercliff+Rd+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
 
 Breakfast Bakeries & dessert
 
@@ -46,7 +46,7 @@ A two-story beach cafe by the Venice Pier that regulars hit every morning, with 
 
 **Order:** A strawberry matcha or a fresh juice and a bagel. Opens at 6am.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Cow%27s+End+Cafe+34+Washington+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Cow%27s+End+Cafe+34+Washington+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 Breakfast Healthy & plant-based
 
@@ -74,7 +74,7 @@ A small neighborhood cafe with vintage photos of the area and solid breakfast sa
 
 **Order:** A croissant breakfast sandwich and a latte.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Tanner%27s+Coffee+Co.+200+Culver+Blvd%2C+Suite+C+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Tanner%27s+Coffee+Co.+200+Culver+Blvd%2C+Suite+C+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Breakfast
 
@@ -88,7 +88,7 @@ A tiny coffee bar with a patio over the wetlands and a Greek food truck out back
 
 **Order:** An iced latte and a Greek omelette from the truck.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Petros+Kafe+427+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Petros+Kafe+427+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Breakfast
 
@@ -182,7 +182,7 @@ A small European-style espresso bar that's been Brentwood's neighborhood coffee 
 
 **Order:** A cappuccino. Park in the lot; it's validated.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Luxxe+11640+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Luxxe+11640+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 ### Parakeet Cafe
 
@@ -194,7 +194,7 @@ A bright, friendly cafe at the west end of San Vicente with protein-forward brea
 
 **Order:** The breakfast croissant sandwich and an iced mint latte.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Parakeet+Cafe+13050+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Parakeet+Cafe+13050+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Breakfast Healthy & plant-based
 
@@ -208,7 +208,7 @@ A neighborhood bakery cafe with pastries, sandwiches and a small patio off Santa
 
 **Order:** A pastry and coffee, or a sandwich at lunch.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Clementine+1751+Ensley+Ave+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Clementine+1751+Ensley+Ave+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
 
 Breakfast Bakeries & dessert Lunch
 
@@ -222,7 +222,7 @@ A decades-old roaster with a cult following, an eclectic room full of tins and i
 
 **Order:** The toffee latte and a pastry. Weekdays only.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Conservatory+for+Coffee%2C+Tea+and+Cocoa+10117+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Conservatory+for+Coffee%2C+Tea+and+Cocoa+10117+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
 
 ### Leilo Coffee
 
@@ -234,7 +234,7 @@ A calm, minimal new cafe with carefully made espresso and creative matcha.
 
 **Order:** The snow matcha or an almond milk latte with avocado toast.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Leilo+Coffee+10606+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Leilo+Coffee+10606+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
 
 ### Culver and Main
 
@@ -260,7 +260,7 @@ The neighborhood's coffee hangout, roasting on site with playful drinks and a sh
 
 **Order:** A cardamom brown sugar latte and a croissant.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Alana%27s+Coffee+Roasters+12511+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Alana%27s+Coffee+Roasters+12511+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 ### Awaken Cafe
 
@@ -272,7 +272,7 @@ A big, calm cafe with a courtyard and long tables that make it one of the easies
 
 **Order:** A latte in the courtyard.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Awaken+Cafe+3838+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Awaken+Cafe+3838+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 ### Kind Grounds
 
@@ -284,7 +284,7 @@ A bright little cafe with a roomy patio, creative matcha drinks and a dog-friend
 
 **Order:** A seasonal matcha or the golden dirty chai.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Kind+Grounds+3759+Sawtelle+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Kind+Grounds+3759+Sawtelle+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Dog-friendly
 
@@ -298,7 +298,7 @@ A surf-themed cafe and shop with plenty of seating and outlets, plus occasional 
 
 **Order:** A matcha latte with salted vanilla cold foam.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Saba+Coffee+Shop+12912+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Saba+Coffee+Shop+12912+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 ### The Little Marionette
 
@@ -310,7 +310,7 @@ A small, friendly espresso bar on Motor known for Australian-style coffee and a 
 
 **Order:** A flat white or the matcha.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Little+Marionette+3570+Motor+Ave+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Little+Marionette+3570+Motor+Ave+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
 ### Supa Coffee
 
@@ -322,7 +322,7 @@ A small, friendly coffee and boba shop with house-made syrups.
 
 **Order:** A caramel latte or one of the seasonal specials.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Supa+Coffee+1173+S+Robertson+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Supa+Coffee+1173+S+Robertson+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
 
 ### Coffee Tomo
 
@@ -348,7 +348,7 @@ A cheerful all-day cafe with lots of vegan, vegetarian and high-protein options 
 
 **Order:** A breakfast bowl and the beekeeper latte.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Hive+11705+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Hive+11705+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 Breakfast Healthy & plant-based
 
@@ -362,7 +362,7 @@ A coffee roaster with a roomy cafe, good wifi and easy parking, popular for work
 
 **Order:** A flat white with a pastry.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Boy+%26+The+Bear+7403+S+La+Tijera+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Boy+%26+The+Bear+7403+S+La+Tijera+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 ### The Coffee Company
 
@@ -374,7 +374,7 @@ A busy corner cafe minutes from LAX with a long breakfast menu and house-made bi
 
 **Order:** An omelet with the Potatoes O'Brien and a biscuit.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Coffee+Company+8751+S+La+Tijera+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Coffee+Company+8751+S+La+Tijera+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Breakfast Brunch
 
@@ -388,7 +388,7 @@ A Yemeni coffeehouse with comfortable seating upstairs, board games and late hou
 
 **Order:** The pumpkin chai or a Yemeni coffee.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+939+Broxton+Ave+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+939+Broxton+Ave+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
 
 Late night
 
@@ -402,7 +402,7 @@ A cozy local coffee shop with good music and Wi-Fi.
 
 **Order:** The iced vanilla latte with house-made syrup.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Sipp+Coffee+House+1427+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Sipp+Coffee+House+1427+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
 
 **Want to live near spots like these?** Get homes that fit, including off-market ones, or a free value on your home.
 
@@ -436,7 +436,7 @@ A small specialty coffee shop with a walk-up window, outdoor seating and its own
 
 **Order:** An iced Americano or a seasonal latte with a cinnamon roll.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Neighborhood+8151+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Neighborhood+8151+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
 
 ### Takagi Coffee
 
@@ -448,7 +448,7 @@ A Japanese cafe known for tall souffle pancakes and omurice. Expect a short wait
 
 **Order:** Souffle pancakes and the omurice with karaage.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Takagi+Coffee+8048+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Takagi+Coffee+8048+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
 
 Breakfast Brunch
 
@@ -476,7 +476,7 @@ A competition-level specialty roaster with single-origin pour-overs and tasting 
 
 **Order:** A fruity pour-over or the espresso and cortado flight.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Be+Bright+Coffee+7311+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Be+Bright+Coffee+7311+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 ### Flowin Cafe
 
@@ -488,7 +488,7 @@ A calm Melrose cafe with plenty of seating and outlets, good for getting work do
 
 **Order:** A cream-top latte and a croissant.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Flowin+Cafe+7201+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Flowin+Cafe+7201+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 ### Louis Coffee Bar
 
@@ -500,7 +500,7 @@ A bright new coffee bar with house-made syrups, plenty of seating, Wi-Fi and out
 
 **Order:** A matcha with the pistachio blossom syrup or the apple pie latte.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Louis+Coffee+Bar+6115+Sunset+Blvd+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Louis+Coffee+Bar+6115+Sunset+Blvd+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Los+Angeles+CA)
 
 ### Sana'a Cafe Hollywood
 
@@ -512,7 +512,7 @@ A Yemeni coffeehouse near the Pantages, open late, with spiced lattes and rich d
 
 **Order:** A Spanish latte and the Biscoff tres leches before a show.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+Hollywood+6290+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+Hollywood+6290+Hollywood+Blvd+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Los+Angeles+CA)
 
 Bakeries & dessert Late night
 
@@ -526,7 +526,7 @@ A family-owned cafe with good espresso drinks, sandwiches and a small sidewalk p
 
 **Order:** The house cold brew and the pesto turkey sandwich.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Savor+5657+Wilshire+Blvd%2C+Suite+150+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Savor+5657+Wilshire+Blvd%2C+Suite+150+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Lunch
 
@@ -578,7 +578,7 @@ A tiny pop-music-themed cafe that regulars treat like a secret. The lattes are n
 
 **Order:** The lavender latte and the chilaquiles. Closed Mondays.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Fan+Girl+Cafe+8157+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Fan+Girl+Cafe+8157+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Breakfast
 
@@ -592,7 +592,7 @@ A small neighborhood coffee shop on Fountain with a friendly counter and fun fla
 
 **Order:** The cereal-milk latte and a breakfast burrito.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Dubb%27s+Organic+Coffee+Blends+7962+Fountain+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Dubb%27s+Organic+Coffee+Blends+7962+Fountain+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Cheap eats
 
@@ -608,7 +608,7 @@ A roomy neighborhood cafe in a converted industrial space, with a calm back area
 
 **Order:** A shaken espresso.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Coffee+House+4972+Hollywood+Blvd+East+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=East+Hollywood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Coffee+House+4972+Hollywood+Blvd+East+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=East+Hollywood+Los+Angeles+CA)
 
 ### Eightfold Coffee
 
@@ -620,7 +620,7 @@ A bright, roomy cafe with free Wi-Fi, great croissants and no charge for alterna
 
 **Order:** A lavender latte and a savory pastry. Park up on Kensington and take the stairs down.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Eightfold+Coffee+1294+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Eightfold+Coffee+1294+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 ### Canyon Coffee
 
@@ -632,7 +632,7 @@ A small, sunny roaster's cafe with a long bar and very fresh beans to take home.
 
 **Order:** A cappuccino or the fig leaf latte. There's no Wi-Fi.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Canyon+Coffee+1559+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Canyon+Coffee+1559+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 ### Woodcat Coffee
 
@@ -644,7 +644,7 @@ A relaxed neighborhood coffee bar that's been on Sunset for more than a decade.
 
 **Order:** An iced matcha on the patio.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Woodcat+Coffee+1532+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Woodcat+Coffee+1532+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 ### Maru Coffee
 
@@ -656,7 +656,7 @@ A minimalist espresso bar that many coffee people rank among the best in LA. The
 
 **Order:** The cream top or a vanilla latte. It's small, so plan to take it to go.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Maru+Coffee+1936+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Maru+Coffee+1936+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
 ### Handles Coffee
 
@@ -668,7 +668,7 @@ A two-story cafe at the bottom of Los Feliz with strong, espresso-heavy drinks a
 
 **Order:** The house flat white with sweet cream. Card only.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Handles+Coffee+4459+Sunset+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [Discover Los Angeles](https://www.discoverlosangeles.com/eat-drink/coffee-lovers-in-la) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Handles+Coffee+4459+Sunset+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [Discover Los Angeles](https://www.discoverlosangeles.com/eat-drink/coffee-lovers-in-la) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
 ### Intelligentsia Silver Lake
 
@@ -722,7 +722,7 @@ A friendly coffee bar that also makes rolled ice cream.
 
 **Order:** A strawberry matcha or an iced mocha.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Aurora+Coffee+%26+Creamery+16550+Ventura+Blvd%2C+%23110+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Aurora+Coffee+%26+Creamery+16550+Ventura+Blvd%2C+%23110+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 ### Moxie Coffee Bar
 
@@ -734,7 +734,7 @@ A bright Arts District coffee bar with creative lattes and plenty of dairy-free 
 
 **Order:** The panela canela latte.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Moxie+Coffee+Bar+5300+Lankershim+Blvd%2C+Suite+115+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Moxie+Coffee+Bar+5300+Lankershim+Blvd%2C+Suite+115+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 ### La Rochelle Bakery & Cafe
 
@@ -746,7 +746,7 @@ A bakery cafe with a hidden, plant-filled back patio and generous breakfast plat
 
 **Order:** A pastry and a sandwich out on the patio.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=La+Rochelle+Bakery+%26+Cafe+5050+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=La+Rochelle+Bakery+%26+Cafe+5050+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Bakeries & dessert Breakfast Lunch
 
@@ -760,7 +760,7 @@ A bright specialty coffee bar with good pastries and a few patio tables.
 
 **Order:** A flat white or cortado with an almond croissant.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Ideology+Coffee+14622+Ventura+Blvd%2C+Ste+116+Sherman+Oaks+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Ideology+Coffee+14622+Ventura+Blvd%2C+Ste+116+Sherman+Oaks+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+CA)
 
 ### Saint Coffee Shop
 
@@ -772,7 +772,7 @@ A busy neighborhood coffee shop with well-balanced espresso drinks and good past
 
 **Order:** An iced vanilla latte and a cinnamon roll.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Saint+Coffee+Shop+11706+Moorpark+St+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Saint+Coffee+Shop+11706+Moorpark+St+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
 Breakfast
 
@@ -800,7 +800,7 @@ A newer Persian cafe with a calm, sunny room, creative drinks and good breakfast
 
 **Order:** A cappuccino and the salmon toast.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Aftab+19239+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Aftab+19239+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Breakfast
 
@@ -814,16 +814,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

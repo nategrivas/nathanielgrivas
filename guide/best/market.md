@@ -6,7 +6,7 @@ Local LA
 
 # The best markets and farmers markets in Los Angeles
 
-14 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+14 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -90,7 +90,7 @@ A big open-air mall with a movie theater, a food hall and Eataly's multi-level I
 
 **Do:** Go on a weekday; weekend parking gets slow.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Westfield+Century+City+10250+Santa+Monica+Blvd+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Westfield+Century+City+10250+Santa+Monica+Blvd+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
 
 Shopping Movies
 
@@ -118,7 +118,7 @@ A Japanese supermarket with a busy food court and a bookstore full of manga and 
 
 **Do:** Ramen or tempura in the food court, then snacks and mochi from the market.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Lunch Cheap eats
 
@@ -212,7 +212,7 @@ Weekend-only Thai street food stalls on the grounds of a Buddhist temple. You tr
 
 **Do:** Arrive before noon, when the popular stalls start to sell out.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Wat+Thai+Food+Court+8225+Coldwater+Canyon+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Wat+Thai+Food+Court+8225+Coldwater+Canyon+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Cheap eats Lunch
 
@@ -226,16 +226,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

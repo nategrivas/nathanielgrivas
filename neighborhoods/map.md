@@ -8,9 +8,9 @@ Local LA
 
 LA is a city of pockets. Prices, lots and the feel of a street can change the second you cross one road. Here are 209 pockets across 40 neighborhoods, each one drawn on the actual streets that bound it.
 
-Tap any shape for what it is and where it starts and stops. Boundaries are my own research from the street grid and sold history, so treat them as a guide, not a survey.
+Tap any shape for what it is and where it starts and stops. Boundaries are Nathaniel's own research from the street grid and sold history, so treat them as a guide, not a survey.
 
-Ask me about a street
+Ask Nathaniel about a street
 
 ## Every pocket, by neighborhood
 

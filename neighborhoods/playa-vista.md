@@ -30,7 +30,7 @@ Playa Vista was built from scratch starting in the early 2000s on the former Hug
 
 - **Good fit if:** You want new construction, parks and a short walk to work.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -125,7 +125,7 @@ A tiny coffee bar with a patio over the wetlands and a Greek food truck out back
 
 **Order:** An iced latte and a Greek omelette from the truck.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Petros+Kafe+427+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Petros+Kafe+427+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Coffee Breakfast
 
@@ -143,7 +143,7 @@ A fast, fresh counter-service spot with plates, salads and a wine list.
 
 **Order:** Steak frites or the ahi salad.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Urban+Plates+12746+W+Jefferson+Blvd+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Urban+Plates+12746+W+Jefferson+Blvd+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
 
 Lunch Healthy & plant-based Dinner
 
@@ -239,7 +239,7 @@ A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy
 
 **Order:** A whiskey sour and the Sichuan wings.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Cocktail bars & lounges Dinner Date night
 
@@ -267,7 +267,7 @@ A creative cocktail bar next to Little Fatty, with two back-to-back bars and a m
 
 **Order:** Sit at the bar and watch the torched cocktails get made. Weekday happy hour.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -281,7 +281,7 @@ A protected coastal wetland with birding and a walking and bike path that links 
 
 **Do:** An early walk or bike ride along the path. Parts may be closed for restoration.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Ecological+Reserve+Ballona+Wetlands+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Ecological+Reserve+Ballona+Wetlands+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
 
 Hikes & nature Parks
 
@@ -295,7 +295,7 @@ A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and
 
 **Do:** Bring little kids, or launch a paddleboard.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 Beaches Kids & family Fitness & outdoor sports
 
@@ -313,7 +313,7 @@ The neighborhood's walkable center, with restaurants, a Whole Foods, a movie the
 
 **Do:** Dinner and a movie; the theater validates parking.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Runway+Playa+Vista+12775+W+Millennium+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Runway+Playa+Vista+12775+W+Millennium+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
 
 Shopping Movies Kids & family
 
@@ -341,14 +341,14 @@ A Japanese supermarket with a busy food court and a bookstore full of manga and 
 
 **Do:** Ramen or tempura in the food court, then snacks and mochi from the market.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Markets Lunch Cheap eats
 
 Sources
 
 - [The Infatuation: Marina del Rey](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
 
 The story of Playa Vista
 
@@ -485,9 +485,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -574,9 +574,9 @@ Get new Playa Vista listings as they hit, including ones that aren't public yet,
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

@@ -6,7 +6,7 @@ Local LA
 
 # The best dinner in Los Angeles
 
-240 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+240 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -170,7 +170,7 @@ Nancy Silverton's new Italian steak and seafood restaurant in Palisades Village.
 
 **Order:** Focaccia di Recco, the branzino and the chocolate chip cookie with soft serve.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Spacca+Tutto+15255+Palisades+Village+Ln+Pacific+Palisades+Los+Angeles+CA) Sources: [Nancy Silverton to open Spacca Tutto at Palisades Village](https://www.yahoo.com/news/articles/la-chef-nancy-silverton-open-195941103.html) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Spacca+Tutto+15255+Palisades+Village+Ln+Pacific+Palisades+Los+Angeles+CA) Sources: [Nancy Silverton to open Spacca Tutto at Palisades Village](https://www.yahoo.com/news/articles/la-chef-nancy-silverton-open-195941103.html) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Date night
 
@@ -184,7 +184,7 @@ A polished California restaurant on Swarthmore, freshly reopened with a patio.
 
 **Order:** The tuna tower and the sea bass.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Porta+Via+1063+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Porta+Via+1063+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Lunch
 
@@ -198,7 +198,7 @@ An Italian restaurant and bar with indoor and outdoor seating in the Village.
 
 **Order:** The octopus salad and the filet.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Angelini+Ristorante+and+Bar+1038+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Angelini+Ristorante+and+Bar+1038+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Lunch Date night
 
@@ -212,7 +212,7 @@ A new neighborhood grill from the h.wood Group that opened with the Village.
 
 **Order:** The burger and the olive cake.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Alphabet+Bar+and+Grill+1033+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Santa Monica Daily Press](https://www.smdp.com/new-neighborhood-grill-to-open-aug-15-in-rebuilding-pacific-palisades.md) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Alphabet+Bar+and+Grill+1033+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Santa Monica Daily Press](https://www.smdp.com/new-neighborhood-grill-to-open-aug-15-in-rebuilding-pacific-palisades.md) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Lunch Cocktail bars & lounges
 
@@ -226,7 +226,7 @@ Chef Brooke Williamson's beachside spot with a daytime counter, a seafood dining
 
 **Order:** Crab claws and the lobster roll, then ice cream.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Playa+Provisions+119+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Playa+Provisions+119+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Seafood Brunch Cocktail bars & lounges
 
@@ -240,7 +240,7 @@ A Mediterranean small-plates restaurant and the neighborhood's go-to for a night
 
 **Order:** Share several small plates with a bottle of wine.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Bacari+PDR+6805+S+Vista+Del+Mar+Ln+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bacari+PDR+6805+S+Vista+Del+Mar+Ln+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Date night Wine bars
 
@@ -254,7 +254,7 @@ A Roman-run Italian restaurant serving fresh pasta near the beach since 1997, wi
 
 **Order:** A pasta and a glass of Italian red.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Pinguini+6935+Pacific+Ave+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Pinguini+6935+Pacific+Ave+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Date night
 
@@ -268,7 +268,7 @@ A fast, fresh counter-service spot with plates, salads and a wine list.
 
 **Order:** Steak frites or the ahi salad.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Urban+Plates+12746+W+Jefferson+Blvd+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Urban+Plates+12746+W+Jefferson+Blvd+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
 
 Lunch Healthy & plant-based
 
@@ -832,7 +832,7 @@ A Japanese-influenced California restaurant tucked under a residential tower, wi
 
 **Order:** The black cod and a cocktail on the patio.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Hinoki+%26+the+Bird+10+W+Century+Dr+Century+City+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://www.opentable.com/lists/top-picks-century-city-restaurants-los-angeles) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Hinoki+%26+the+Bird+10+W+Century+Dr+Century+City+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://www.opentable.com/lists/top-picks-century-city-restaurants-los-angeles) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
 
 Date night Lunch
 
@@ -846,7 +846,7 @@ A casual Brazilian restaurant with a huge menu that stays open late.
 
 **Order:** Brazilian cheese bread and the salmon.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Bossa+Nova+10982+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bossa+Nova+10982+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Late night
 
@@ -972,7 +972,7 @@ An airy, open-air cafe named after an Australian surf break. Easy lunches by day
 
 **Order:** The Whirley Bowl at lunch, the burger at night. There's no Wi-Fi.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Blueys+12825+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Blueys+12825+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Lunch Brunch
 
@@ -986,7 +986,7 @@ Mar Vista's 75-year-old corner grocery, rebuilt into a rustic Italian restaurant
 
 **Order:** The kale chicken salad at brunch, duck pappardelle or a pizza at dinner.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Beethoven+Market+12904+Palms+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Resy](https://blog.resy.com/2025/12/los-angeles-restaurants-2025/) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Beethoven+Market+12904+Palms+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Resy](https://blog.resy.com/2025/12/los-angeles-restaurants-2025/) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Brunch Date night
 
@@ -1028,7 +1028,7 @@ A neighborhood French bistro with an open kitchen counter and a reasonably price
 
 **Order:** Roast chicken and potatoes with the Electric Fries, or the tasting menu at the counter.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Electric+Bleu+3523+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Electric+Bleu+3523+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Date night Wine bars
 
@@ -1042,7 +1042,7 @@ One of the best ramen shops on the Westside, known for a rich tonkotsu broth. Yo
 
 **Order:** Tonkotsu or the spicy miso ramen.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Kotoya+Japanese+Ramen+10422+National+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Kotoya+Japanese+Ramen+10422+National+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
 Lunch
 
@@ -1056,7 +1056,7 @@ A longtime LA Cuban restaurant with big plates and a lively dining room.
 
 **Order:** The garlic chicken with plantains.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Versailles+10319+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Versailles+10319+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
 Lunch
 
@@ -1070,7 +1070,7 @@ A warm Latin-Caribbean dining room and bar whose cocktails use fresh-pressed sug
 
 **Order:** Mango curry chicken and a mojito.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Bamboo+Restaurant+10835+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bamboo+Restaurant+10835+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
 Date night Cocktail bars & lounges
 
@@ -1098,7 +1098,7 @@ A small pizza bar with an open kitchen, soft and airy crust, and creative toppin
 
 **Order:** The funghi or diavola, and save room for the tiramisu.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Sei+Pizza+Bar+8781+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Sei+Pizza+Bar+8781+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
 
 Pizza
 
@@ -1112,7 +1112,7 @@ A lively kosher Mexican restaurant with inventive cocktails and mocktails.
 
 **Order:** Tacos, the taquitos and a margarita.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Lenny%27s+Casita+8823+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Lenny%27s+Casita+8823+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
 
 Tacos & Mexican Cocktail bars & lounges
 
@@ -1126,7 +1126,7 @@ A kosher dairy spot for thin-crust sourdough pizza and house-made pasta.
 
 **Order:** A margherita and the arancini.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Formaggi+8832+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Formaggi+8832+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
 
 Pizza
 
@@ -1140,7 +1140,7 @@ A Michelin-recognized restaurant serving a seasonal four-course prix fixe.
 
 **Order:** Book well ahead for a special occasion.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Lielle+9575+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Locale](https://localemagazine.com/hottest-new-restaurants-in-los-angeles/) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Lielle+9575+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Locale](https://localemagazine.com/hottest-new-restaurants-in-los-angeles/) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
 
 Date night
 
@@ -1294,7 +1294,7 @@ A seasonal, garden-to-table restaurant and bakery with a rooftop patio that look
 
 **Order:** Morning pastries, or dinner on the roof.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Tomat+6261+W+87th+St+Westchester+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-Los-angeles) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Tomat+6261+W+87th+St+Westchester+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-Los-angeles) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Date night Brunch Bakeries & dessert
 
@@ -1322,7 +1322,7 @@ A newer Japanese restaurant known for handmade udon and katsu sets.
 
 **Order:** Handmade udon with tempura.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Shokudo+6224+W+Manchester+Ave+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Shokudo+6224+W+Manchester+Ave+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Lunch
 
@@ -1336,7 +1336,7 @@ A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy
 
 **Order:** A whiskey sour and the Sichuan wings.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -1448,7 +1448,7 @@ A garden dining room at the famous hotel, next to the swan pond, with live jazz 
 
 **Order:** Brunch on the patio, then walk the grounds to see the swans.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Restaurant+at+Hotel+Bel-Air+701+Stone+Canyon+Rd+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Restaurant+at+Hotel+Bel-Air+701+Stone+Canyon+Rd+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
 
 Date night Brunch Cocktail bars & lounges
 
@@ -1462,7 +1462,7 @@ A warm Italian restaurant at the Beverly Glen Circle shopping center up the cany
 
 **Order:** The zucchini souffle and the truffle pizza.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Il+Segreto+2932+Beverly+Glen+Cir+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Il+Segreto+2932+Beverly+Glen+Cir+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
 
 Date night
 
@@ -1610,7 +1610,7 @@ A cozy, romantic Italian restaurant tucked below the Canyon Country Store.
 
 **Order:** The butternut squash tortellini.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Pace+2100+Laurel+Canyon+Blvd+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Pace+2100+Laurel+Canyon+Blvd+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
 
 Date night
 
@@ -1808,7 +1808,7 @@ A long-running neighborhood Italian restaurant on Larchmont.
 
 **Order:** A pasta and the tiramisu.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Louise%27s+Trattoria+232+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Louise%27s+Trattoria+232+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
 Lunch
 
@@ -1822,7 +1822,7 @@ A warm, family-run Italian osteria with house-made pasta.
 
 **Order:** Squid ink pasta and tiramisu.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Osteria+Mamma+5732+Melrose+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Osteria+Mamma+5732+Melrose+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
 Date night
 
@@ -1836,7 +1836,7 @@ Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.
 
 **Order:** A seasonal pizza and the butterscotch budino.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Pizzeria+Mozza+641+N+Highland+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Pizzeria+Mozza+641+N+Highland+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
 Pizza
 
@@ -2004,7 +2004,7 @@ A cafeteria-style Italian spot that has fed LA since the 1960s, now in a new hom
 
 **Order:** Spaghetti and meatballs; the large feeds two.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Andre%27s+5400+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Andre%27s+5400+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Lunch Cheap eats
 
@@ -2572,7 +2572,7 @@ A warm, wood-paneled cocktail bar with Mediterranean food, a vintage sound syste
 
 **Order:** The lavender cocktail with the watermelon salad.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Semi-Tropic+1412+Glendale+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Semi-Tropic+1412+Glendale+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Cocktail bars & lounges
 
@@ -2586,7 +2586,7 @@ A big, friendly patio restaurant on Hillhurst that does everything from pancakes
 
 **Order:** Banana walnut pancakes at brunch, or chicken and waffles.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Home+Restaurant+1760+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Home+Restaurant+1760+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
 Brunch
 
@@ -2852,7 +2852,7 @@ A classic steak and seafood house, known for prime rib and its holiday decoratio
 
 **Order:** Prime rib or a ribeye with a baked potato.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Davenport%27s+16120+Ventura+Blvd+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Davenport%27s+16120+Ventura+Blvd+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 Date night
 
@@ -2866,7 +2866,7 @@ An upscale kosher dairy restaurant serving fish, Mediterranean plates and sushi.
 
 **Order:** A fish main with the sides, and the bread with za'atar butter.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=POPULAR+18047+Ventura+Blvd+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=POPULAR+18047+Ventura+Blvd+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 Date night Seafood
 
@@ -2880,7 +2880,7 @@ The Garland hotel's restaurant, with a big courtyard patio and an easy weekend b
 
 **Order:** The short rib burger and a martini.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Front+Yard+4222+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Front+Yard+4222+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Brunch
 
@@ -2894,7 +2894,7 @@ A small family-run Thai restaurant open since 1984 and one of the most important
 
 **Order:** Crispy rice salad and the panang curry.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Sri+Siam+Cafe+12843+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Sri+Siam+Cafe+12843+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Lunch
 
@@ -2908,7 +2908,7 @@ Texas-style barbecue smoked in the alley out back, mostly for takeout.
 
 **Order:** Brisket, ribs and burnt ends with the baked beans.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Swinging+Door+BBQ+11018+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Swinging+Door+BBQ+11018+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Lunch
 
@@ -2922,7 +2922,7 @@ A busy, multi-room sushi restaurant where the bar is the place to sit.
 
 **Order:** Nigiri at the bar, plus the spicy tuna crispy rice.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Chiba+7515+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Chiba+7515+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Sushi & Japanese
 
@@ -2936,7 +2936,7 @@ A Lebanese restaurant with a garden patio and bread baked fresh in an outdoor ov
 
 **Order:** Kebab platters and the hot mezze.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Hayat%27s+Kitchen+11009+Burbank+Blvd%2C+%23117+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Hayat%27s+Kitchen+11009+Burbank+Blvd%2C+%23117+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Lunch
 
@@ -2950,7 +2950,7 @@ One of LA's few Puerto Rican restaurants, with friendly servers who walk first-t
 
 **Order:** The appetizer platter, then a carne guisada mofongo.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Mofongos+5757+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Mofongos+5757+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Lunch
 
@@ -2964,7 +2964,7 @@ A beloved vegan Vietnamese restaurant with bold flavors and owners who will happ
 
 **Order:** The lemongrass banh mi and the peanut soup, or ask Kevin to pick.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Vinh+Loi+18625+Sherman+Way%2C+%23101+Reseda+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Vinh+Loi+18625+Sherman+Way%2C+%23101+Reseda+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
 Lunch Healthy & plant-based
 
@@ -2978,7 +2978,7 @@ A tiny spot serving Northern and Southern Vietnamese specialties you rarely see 
 
 **Order:** Banh xeo, egg rolls and the dill fish.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Khuu+Bistro+18845+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Khuu+Bistro+18845+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
 Lunch Cheap eats
 
@@ -2992,7 +2992,7 @@ A warm, family-run Lebanese restaurant with generous portions and very fresh foo
 
 **Order:** Makanek sausage, the mixed grill and baklava to finish.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Monaia+Mediterranean+Cuisine+19642+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Monaia+Mediterranean+Cuisine+19642+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
 Lunch
 
@@ -3118,7 +3118,7 @@ A long-running gastropub under a brick barrel ceiling with a big shareable menu 
 
 **Order:** Small plates to share and a cocktail.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Black+Market+Liquor+Bar+11915+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Black+Market+Liquor+Bar+11915+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
 Cocktail bars & lounges Date night
 
@@ -3160,7 +3160,7 @@ An Italian dining room pairing raw seafood with pastas and a good wine list. Din
 
 **Order:** Oysters and a couple of crudos to start.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Rosetta+Osteria+%26+Crudo+Bar+12345+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Rosetta+Osteria+%26+Crudo+Bar+12345+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
 Date night Seafood
 
@@ -3216,7 +3216,7 @@ A post-apocalyptic themed cocktail bar with fully committed decor and a real kit
 
 **Order:** A house cocktail and a few shared plates.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Last+Canteen+10964+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Last+Canteen+10964+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
 Cocktail bars & lounges
 
@@ -3244,7 +3244,7 @@ An Israeli grill known for fresh hummus, hot bread and an endless spread of smal
 
 **Order:** Hummus topped with meat, plus the salads.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Hummus+Bar+%26+Grill+18743+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Hummus+Bar+%26+Grill+18743+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Lunch
 
@@ -3258,7 +3258,7 @@ A white-tablecloth Eastern European restaurant with house-infused vodka flights.
 
 **Order:** Borscht, potato vareniki and the chicken Kyiv.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Traktir+18588+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Traktir+18588+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Date night
 
@@ -3272,7 +3272,7 @@ A busy neighborhood sushi bar with an all-you-can-eat option.
 
 **Order:** Sit at the sushi bar.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=So+Sushi+19522+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=So+Sushi+19522+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Sushi & Japanese
 
@@ -3286,7 +3286,7 @@ A father-and-son French restaurant open for more than 50 years, with a cozy lodg
 
 **Order:** Duck a l'orange and the creme brulee.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Le+Sanglier+5522+Crebs+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Le+Sanglier+5522+Crebs+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Date night
 
@@ -3300,7 +3300,7 @@ A warmly decorated Thai restaurant that critics call one of the Valley's most ov
 
 **Order:** Tom kha soup and the drunken noodles.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Rustic+Spoon+12500+Magnolia+Blvd+Valley+Village+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Rustic+Spoon+12500+Magnolia+Blvd+Valley+Village+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
 
 Lunch
 
@@ -3314,7 +3314,7 @@ A cozy, old-school Italian spot with a record player spinning at the bar.
 
 **Order:** The oxtail cavatelli and the warm bread.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=ViVi+Ristorante+5424+Laurel+Canyon+Blvd+Valley+Village+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=ViVi+Ristorante+5424+Laurel+Canyon+Blvd+Valley+Village+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
 
 Date night
 
@@ -3328,7 +3328,7 @@ A Cuban-inspired spot built around charcoal-grilled chicken, with a pastry case 
 
 **Order:** Half a chicken with black beans and yellow rice, or a Cubano.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Ay+Papa+Que+Rico+7456+Van+Nuys+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Ay+Papa+Que+Rico+7456+Van+Nuys+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Lunch Cheap eats
 
@@ -3342,7 +3342,7 @@ A small, ambitious neighborhood restaurant with a seasonal menu, a tasting menu 
 
 **Order:** The four-course tasting menu, or happy hour at the bar.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Prose+Kitchen+and+Bar+21150+Ventura+Blvd+Woodland+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Prose+Kitchen+and+Bar+21150+Ventura+Blvd+Woodland+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
 
 Brunch Date night
 
@@ -3356,16 +3356,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

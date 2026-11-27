@@ -30,7 +30,7 @@ Sherman Oaks is a City of LA neighborhood in the south Valley where the 405 meet
 
 - **Good fit if:** You work on the Westside and want a Valley house.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -115,7 +115,7 @@ A bright specialty coffee bar with good pastries and a few patio tables.
 
 **Order:** A flat white or cortado with an almond croissant.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ideology+Coffee+14622+Ventura+Blvd%2C+Ste+116+Sherman+Oaks+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ideology+Coffee+14622+Ventura+Blvd%2C+Ste+116+Sherman+Oaks+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+CA)
 
 Coffee
 
@@ -259,7 +259,7 @@ Three castle-themed mini golf courses plus batting cages and an arcade, open sin
 
 **Do:** A round of mini golf at night.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+Castle+Park+4989+Sepulveda+Blvd+Sherman+Oaks+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+Castle+Park+4989+Sepulveda+Blvd+Sherman+Oaks+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+CA)
 
 Kids & family Golf
 
@@ -270,7 +270,7 @@ What's my home worth? Get Sherman Oaks listings
 Sources
 
 - [The Infatuation: Sherman Oaks](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-sherman-oaks)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+CA)
 
 The story of Sherman Oaks
 
@@ -398,9 +398,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -487,9 +487,9 @@ Get new Sherman Oaks listings as they hit, including ones that aren't public yet
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

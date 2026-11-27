@@ -30,7 +30,7 @@ Cheviot Hills and Rancho Park are City of LA neighborhoods between Century City,
 
 - **Good fit if:** You want a quiet residential street with a big public park in walking distance.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -198,7 +198,7 @@ A longtime neighborhood breakfast spot known for its biscuits and big pancakes.
 
 **Order:** Pancakes or eggs with a side of biscuits.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=John+O%27+Groats+10516+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=John+O%27+Groats+10516+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Breakfast Brunch
 
@@ -212,7 +212,7 @@ A friendly neighborhood cafe with an all-day menu and plenty of healthy options.
 
 **Order:** The pancakes, or the Thai steak salad at lunch.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=FOOD+10571+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=FOOD+10571+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Breakfast Lunch Healthy & plant-based
 
@@ -226,7 +226,7 @@ A small, friendly espresso bar on Motor known for Australian-style coffee and a 
 
 **Order:** A flat white or the matcha.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Little+Marionette+3570+Motor+Ave+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Little+Marionette+3570+Motor+Ave+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
 Coffee
 
@@ -244,7 +244,7 @@ A casual Brazilian restaurant with a huge menu that stays open late.
 
 **Order:** Brazilian cheese bread and the salmon.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bossa+Nova+10982+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bossa+Nova+10982+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Dinner Late night
 
@@ -272,7 +272,7 @@ A Michelin-recognized restaurant serving a seasonal four-course prix fixe.
 
 **Order:** Book well ahead for a special occasion.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lielle+9575+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Locale](https://localemagazine.com/hottest-new-restaurants-in-los-angeles/) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lielle+9575+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Locale](https://localemagazine.com/hottest-new-restaurants-in-los-angeles/) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
 
 Date night Dinner
 
@@ -322,7 +322,7 @@ A classy cocktail lounge with a small dance floor and local DJs on weekends.
 
 **Order:** A smoked old fashioned. Open Wednesday through Saturday.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 Cocktail bars & lounges Late night
 
@@ -340,7 +340,7 @@ A big park with tennis courts, a pool, ball fields, basketball and an off-leash 
 
 **Do:** Book a tennis court early on weekends.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+2551+Motor+Ave+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+2551+Motor+Ave+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Parks Fitness & outdoor sports Dog-friendly
 
@@ -368,13 +368,13 @@ The neighborhood's big park, with a pool, tennis and basketball courts, a roller
 
 **Do:** Swim in the warm months or play tennis.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Recreation+Center+11430+Woodbine+St+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Recreation+Center+11430+Woodbine+St+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Parks Kids & family Fitness & outdoor sports
 
 Sources
 
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Living here
 
@@ -414,9 +414,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -503,9 +503,9 @@ Get new Cheviot Hills & Rancho Park listings as they hit, including ones that ar
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

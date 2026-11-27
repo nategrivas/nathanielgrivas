@@ -30,7 +30,7 @@ Reseda is a City of LA neighborhood in the west-central Valley, north of Tarzana
 
 - **Good fit if:** You want a real yard and the most house for the money inside the City of LA.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -97,7 +97,7 @@ A newer Persian cafe with a calm, sunny room, creative drinks and good breakfast
 
 **Order:** A cappuccino and the salmon toast.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Aftab+19239+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Aftab+19239+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Coffee Breakfast
 
@@ -111,7 +111,7 @@ A tiny spot serving Northern and Southern Vietnamese specialties you rarely see 
 
 **Order:** Banh xeo, egg rolls and the dill fish.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Khuu+Bistro+18845+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Khuu+Bistro+18845+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
 Lunch Dinner Cheap eats
 
@@ -125,7 +125,7 @@ An Israeli grill known for fresh hummus, hot bread and an endless spread of smal
 
 **Order:** Hummus topped with meat, plus the salads.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hummus+Bar+%26+Grill+18743+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hummus+Bar+%26+Grill+18743+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Lunch Dinner
 
@@ -143,7 +143,7 @@ A beloved vegan Vietnamese restaurant with bold flavors and owners who will happ
 
 **Order:** The lemongrass banh mi and the peanut soup, or ask Kevin to pick.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Vinh+Loi+18625+Sherman+Way%2C+%23101+Reseda+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Vinh+Loi+18625+Sherman+Way%2C+%23101+Reseda+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
 Dinner Lunch Healthy & plant-based
 
@@ -157,7 +157,7 @@ A warm, family-run Lebanese restaurant with generous portions and very fresh foo
 
 **Order:** Makanek sausage, the mixed grill and baklava to finish.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Monaia+Mediterranean+Cuisine+19642+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Monaia+Mediterranean+Cuisine+19642+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
 Dinner Lunch
 
@@ -171,7 +171,7 @@ A father-and-son French restaurant open for more than 50 years, with a cozy lodg
 
 **Order:** Duck a l'orange and the creme brulee.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Le+Sanglier+5522+Crebs+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Le+Sanglier+5522+Crebs+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Date night Dinner
 
@@ -182,7 +182,7 @@ What's my home worth? Get Reseda listings
 Sources
 
 - [The Infatuation: San Fernando Valley](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
 The story of Reseda
 
@@ -278,7 +278,7 @@ Sources for this history
 
 Track record
 
-## My deals in Reseda
+## Nathaniel's deals in Reseda
 
 [All listings →](https://www.nathanielgrivas.com/listings)
 
@@ -322,9 +322,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -407,9 +407,9 @@ Get new Reseda listings as they hit, including ones that aren't public yet, or f
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

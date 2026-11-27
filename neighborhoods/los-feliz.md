@@ -30,7 +30,7 @@ Los Feliz is a City of LA neighborhood at the foot of Griffith Park, one of the 
 
 - **Good fit if:** You want a walkable village and a huge park at your door.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -122,7 +122,7 @@ A minimalist espresso bar that many coffee people rank among the best in LA. The
 
 **Order:** The cream top or a vanilla latte. It's small, so plan to take it to go.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Maru+Coffee+1936+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Maru+Coffee+1936+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
 Coffee
 
@@ -136,7 +136,7 @@ A two-story cafe at the bottom of Los Feliz with strong, espresso-heavy drinks a
 
 **Order:** The house flat white with sweet cream. Card only.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Handles+Coffee+4459+Sunset+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [Discover Los Angeles](https://www.discoverlosangeles.com/eat-drink/coffee-lovers-in-la) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Handles+Coffee+4459+Sunset+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [Discover Los Angeles](https://www.discoverlosangeles.com/eat-drink/coffee-lovers-in-la) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
 Coffee
 
@@ -150,7 +150,7 @@ A pair of historic bungalows with a big shaded patio, and Los Feliz's go-to brun
 
 **Order:** Something from the pastry case and a breakfast plate on the patio. Valet helps with parking.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Alcove+Cafe+and+Bakery+1929+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Alcove+Cafe+and+Bakery+1929+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
 Breakfast Brunch Bakeries & dessert
 
@@ -164,7 +164,7 @@ A neighborhood cafe and bakery with one of the most talked-about breakfast burri
 
 **Order:** The breakfast burrito with both salsas.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Los+Feliz+2118+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Los+Feliz+2118+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
 Breakfast Bakeries & dessert Cheap eats
 
@@ -178,7 +178,7 @@ A leafy patio cafe that overlooks the Los Feliz par-3 golf course. Calm and easy
 
 **Order:** The breakfast burrito or salmon with poached eggs, then nine holes.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Cafe+3207+Los+Feliz+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Cafe+3207+Los+Feliz+Blvd+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
 Breakfast Golf
 
@@ -192,7 +192,7 @@ A big, friendly patio restaurant on Hillhurst that does everything from pancakes
 
 **Order:** Banana walnut pancakes at brunch, or chicken and waffles.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Home+Restaurant+1760+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Home+Restaurant+1760+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
 Brunch Dinner
 
@@ -655,7 +655,7 @@ Sources
 - [Culture Trip: Top things to do in Los Feliz](https://theculturetrip.com/north-america/usa/california/articles/the-top-10-things-to-do-and-see-in-los-feliz)
 - [Foursquare: Explore Los Feliz](https://lv.foursquare.com/FoursquareGuide/list/explore-los-feliz-los-angeles)
 - [SilverKris: Los Feliz neighborhood spotlight](https://silverkris.singaporeair.com/experience/travel-tips/neighbourhood-spotlight-los-feliz-los-angeles/)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
 The story of Los Feliz
 
@@ -762,7 +762,7 @@ Photos
 
 Track record
 
-## My deals in Los Feliz
+## Nathaniel's deals in Los Feliz
 
 [All listings →](https://www.nathanielgrivas.com/listings)
 
@@ -806,9 +806,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -895,9 +895,9 @@ Get new Los Feliz listings as they hit, including ones that aren't public yet, o
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

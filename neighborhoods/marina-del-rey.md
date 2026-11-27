@@ -30,7 +30,7 @@ Marina del Rey is unincorporated LA County, built around a small-craft harbor th
 
 - **Good fit if:** You want water views, the bike path and an easy condo lifestyle.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -103,7 +103,7 @@ A two-story beach cafe by the Venice Pier that regulars hit every morning, with 
 
 **Order:** A strawberry matcha or a fresh juice and a bagel. Opens at 6am.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Cow%27s+End+Cafe+34+Washington+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Cow%27s+End+Cafe+34+Washington+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 Coffee Breakfast Healthy & plant-based
 
@@ -117,7 +117,7 @@ A friendly counter-service cafe with a huge breakfast menu and a patio.
 
 **Order:** Huevos rancheros or steak eggs benedict.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fratelli+Marina+552+Washington+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fratelli+Marina+552+Washington+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 Breakfast Brunch
 
@@ -361,7 +361,7 @@ A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and
 
 **Do:** Bring little kids, or launch a paddleboard.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 Beaches Kids & family Fitness & outdoor sports
 
@@ -397,7 +397,7 @@ Sources
 
 - [The Infatuation: Marina del Rey](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
 - [Foursquare: Marina del Rey, Culver City, Playa Vista, Venice](https://redirect.foursquare.com/eeena/list/marina-del-rey-culver-city-playa-vista-venice)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 The story of Marina del Rey
 
@@ -533,9 +533,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -632,9 +632,9 @@ Get new Marina del Rey listings as they hit, including ones that aren't public y
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

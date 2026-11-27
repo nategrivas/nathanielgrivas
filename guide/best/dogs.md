@@ -6,7 +6,7 @@ Local LA
 
 # The best dog-friendly spots in Los Angeles
 
-14 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+14 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -20,7 +20,7 @@ Will Rogers' old ranch, with a polo field, horses and the Inspiration Point trai
 
 **Do:** Hike the loop to Inspiration Point.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Historic+Park+1501+Will+Rogers+State+Park+Rd+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Historic+Park+1501+Will+Rogers+State+Park+Rd+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Hikes & nature Parks Landmarks & sights
 
@@ -36,7 +36,7 @@ A dog-friendly ridge hike with an easy fire road and a steeper parallel trail, a
 
 **Do:** Go early or at sunset. There's no shade and little parking.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Westridge+Trailhead+and+Mandeville+Canyon+2660+Westridge+Rd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Westridge+Trailhead+and+Mandeville+Canyon+2660+Westridge+Rd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Hikes & nature Fitness & outdoor sports
 
@@ -50,7 +50,7 @@ A big park with tennis courts, a pool, ball fields, basketball and an off-leash 
 
 **Do:** Book a tennis court early on weekends.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+2551+Motor+Ave+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+2551+Motor+Ave+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Parks Fitness & outdoor sports Kids & family
 
@@ -64,7 +64,7 @@ A bright little cafe with a roomy patio, creative matcha drinks and a dog-friend
 
 **Order:** A seasonal matcha or the golden dirty chai.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Kind+Grounds+3759+Sawtelle+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Kind+Grounds+3759+Sawtelle+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Coffee
 
@@ -84,7 +84,7 @@ A quiet canyon park with a lake and duck pond, shady trails and old-growth trees
 
 **Do:** Walk the lake loop and look for turtles in the pond. Drive slowly; there are stop-sign cameras.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Franklin+Canyon+Park+2600+Franklin+Canyon+Dr+Beverly+Hills+Post+Office+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Hills+Post+Office+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Franklin+Canyon+Park+2600+Franklin+Canyon+Dr+Beverly+Hills+Post+Office+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Hills+Post+Office+CA)
 
 Hikes & nature Parks Kids & family
 
@@ -98,7 +98,7 @@ A big off-leash dog park in a wooded hollow, with a separate area for small dogs
 
 **Do:** Take the entrance curve slowly; it's steep.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Canyon+Dog+Park+8260+Mulholland+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Canyon+Dog+Park+8260+Mulholland+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
 
 Parks
 
@@ -114,7 +114,7 @@ A big, shady park next to The Grove with lawns, walking paths and sports facilit
 
 **Do:** A sunset walk, then dinner at the Farmers Market.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+7600+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+7600+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Parks Kids & family Fitness & outdoor sports
 
@@ -156,7 +156,7 @@ The city's main park, with a modern playground, courts, a dog park and the libra
 
 **Do:** Pickleball or tennis, then the library's rooftop views.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Park+647+N+San+Vicente+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Park+647+N+San+Vicente+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
 
 Parks Kids & family Fitness & outdoor sports
 
@@ -202,7 +202,7 @@ A shady canyon loop with a steady climb and Valley views, popular with dog walke
 
 **Do:** Go early; the lot fills fast on weekends.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Fryman+Canyon+3493+Laurel+Canyon+Blvd+%28trailhead%29+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Fryman+Canyon+3493+Laurel+Canyon+Blvd+%28trailhead%29+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
 Hikes & nature Parks
 
@@ -216,7 +216,7 @@ A big park around a lake with a 1.3-mile loop path, paddle boats and plenty of b
 
 **Do:** Walk the loop in the morning; come in spring for the cherry blossoms.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Park+6300+Balboa+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Park+6300+Balboa+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Parks Kids & family
 
@@ -230,16 +230,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

@@ -30,7 +30,7 @@ Tarzana is a City of LA neighborhood in the southwest Valley, named after Edgar 
 
 - **Good fit if:** You want more house and yard for the money than Encino.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -103,7 +103,7 @@ A newer Persian cafe with a calm, sunny room, creative drinks and good breakfast
 
 **Order:** A cappuccino and the salmon toast.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Aftab+19239+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Aftab+19239+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Coffee Breakfast
 
@@ -117,7 +117,7 @@ An Israeli grill known for fresh hummus, hot bread and an endless spread of smal
 
 **Order:** Hummus topped with meat, plus the salads.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hummus+Bar+%26+Grill+18743+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hummus+Bar+%26+Grill+18743+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Lunch Dinner
 
@@ -131,7 +131,7 @@ A tiny spot serving Northern and Southern Vietnamese specialties you rarely see 
 
 **Order:** Banh xeo, egg rolls and the dill fish.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Khuu+Bistro+18845+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Khuu+Bistro+18845+Sherman+Way+Reseda+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
 Lunch Dinner Cheap eats
 
@@ -149,7 +149,7 @@ A white-tablecloth Eastern European restaurant with house-infused vodka flights.
 
 **Order:** Borscht, potato vareniki and the chicken Kyiv.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Traktir+18588+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Traktir+18588+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Dinner Date night
 
@@ -163,7 +163,7 @@ A busy neighborhood sushi bar with an all-you-can-eat option.
 
 **Order:** Sit at the sushi bar.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=So+Sushi+19522+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=So+Sushi+19522+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Sushi & Japanese Dinner
 
@@ -177,7 +177,7 @@ An upscale kosher Mediterranean tapas restaurant that turns into a party with a 
 
 **Order:** Bluefin crispy rice and the market salad.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=TLV+Tapas+Bar+5442+Yolanda+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=TLV+Tapas+Bar+5442+Yolanda+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Date night Cocktail bars & lounges Late night
 
@@ -191,7 +191,7 @@ A father-and-son French restaurant open for more than 50 years, with a cozy lodg
 
 **Order:** Duck a l'orange and the creme brulee.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Le+Sanglier+5522+Crebs+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Le+Sanglier+5522+Crebs+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Date night Dinner
 
@@ -202,7 +202,7 @@ What's my home worth? Get Tarzana listings
 Sources
 
 - [OpenTable diner reviews: Tarzana](https://opentable.co.uk/phrase/1366781)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 The story of Tarzana
 
@@ -322,9 +322,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -403,9 +403,9 @@ Get new Tarzana listings as they hit, including ones that aren't public yet, or 
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

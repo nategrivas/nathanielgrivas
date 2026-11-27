@@ -30,7 +30,7 @@ Culver City is an independent city of about five square miles surrounded by Los 
 
 - **Good fit if:** You want a small-city feel, walkable dinners and a train.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -146,7 +146,7 @@ A decades-old roaster with a cult following, an eclectic room full of tins and i
 
 **Order:** The toffee latte and a pastry. Weekdays only.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Conservatory+for+Coffee%2C+Tea+and+Cocoa+10117+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Conservatory+for+Coffee%2C+Tea+and+Cocoa+10117+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
 
 Coffee
 
@@ -160,7 +160,7 @@ A calm, minimal new cafe with carefully made espresso and creative matcha.
 
 **Order:** The snow matcha or an almond milk latte with avocado toast.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Leilo+Coffee+10606+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Leilo+Coffee+10606+Culver+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
 
 Coffee
 
@@ -484,7 +484,7 @@ A creative cocktail bar next to Little Fatty, with two back-to-back bars and a m
 
 **Order:** Sit at the bar and watch the torched cocktails get made. Weekday happy hour.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -498,7 +498,7 @@ A classy cocktail lounge with a small dance floor and local DJs on weekends.
 
 **Order:** A smoked old fashioned. Open Wednesday through Saturday.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 Cocktail bars & lounges Late night
 
@@ -604,7 +604,7 @@ A big park with tennis courts, a pool, ball fields, basketball and an off-leash 
 
 **Do:** Book a tennis court early on weekends.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+2551+Motor+Ave+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+2551+Motor+Ave+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Parks Fitness & outdoor sports Dog-friendly
 
@@ -650,7 +650,7 @@ A Japanese supermarket with a busy food court and a bookstore full of manga and 
 
 **Do:** Ramen or tempura in the food court, then snacks and mochi from the market.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Markets Lunch Cheap eats
 
@@ -660,7 +660,7 @@ Sources
 - [The Infatuation: Best lunch spots in Culver City](https://www.theinfatuation.com/los-angeles/guides/lunch-culver-city-restaurants)
 - [The Infatuation: Culver City](https://theinfatuation.com/los-angeles/neighborhoods/culver-city)
 - [Time Out: Things to do in Culver City](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
 
 The story of Culver City
 
@@ -800,9 +800,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -889,9 +889,9 @@ Get new Culver City listings as they hit, including ones that aren't public yet,
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

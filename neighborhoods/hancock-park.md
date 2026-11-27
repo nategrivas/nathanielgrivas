@@ -30,7 +30,7 @@ Hancock Park is one of LA's oldest wealthy neighborhoods, developed in the 1920s
 
 - **Good fit if:** You want an old-LA house on a quiet, walkable street.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -241,7 +241,7 @@ Walter and Margarita Manzke's French bakery and restaurant in a landmark 1920s b
 
 **Order:** Pastries from the case at brunch. Go early on weekends.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=R%C3%A9publique+624+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=R%C3%A9publique+624+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Brunch Breakfast Bakeries & dessert
 
@@ -255,7 +255,7 @@ A calm Melrose cafe with plenty of seating and outlets, good for getting work do
 
 **Order:** A cream-top latte and a croissant.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Flowin+Cafe+7201+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Flowin+Cafe+7201+Melrose+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Coffee
 
@@ -269,7 +269,7 @@ A small, busy brunch cafe best known for its waffles.
 
 **Order:** Chilaquiles or a loaded waffle.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Met+Her+At+A+Bar+759+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Met+Her+At+A+Bar+759+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Brunch Breakfast
 
@@ -287,7 +287,7 @@ A wine and cheese shop with a sandwich counter that draws a lunch line. Closed S
 
 **Order:** A made-to-order Italian sandwich.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Larchmont+Village+Wine%2C+Spirits+%26+Cheese+223+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/la-city-guide-a-tour-of-larchmont-boulevard-in-hancock-park) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Larchmont+Village+Wine%2C+Spirits+%26+Cheese+223+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/la-city-guide-a-tour-of-larchmont-boulevard-in-hancock-park) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
 Lunch Wine bars
 
@@ -301,7 +301,7 @@ Nancy Silverton's pizzeria, known for blistered, chewy-crisp pies.
 
 **Order:** A seasonal pizza and the butterscotch budino.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pizzeria+Mozza+641+N+Highland+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pizzeria+Mozza+641+N+Highland+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
 Pizza Dinner
 
@@ -337,7 +337,7 @@ A long-running neighborhood Italian restaurant on Larchmont.
 
 **Order:** A pasta and the tiramisu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Louise%27s+Trattoria+232+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Louise%27s+Trattoria+232+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
 Dinner Lunch
 
@@ -351,7 +351,7 @@ A warm, family-run Italian osteria with house-made pasta.
 
 **Order:** Squid ink pasta and tiramisu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Osteria+Mamma+5732+Melrose+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Osteria+Mamma+5732+Melrose+Ave+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
 Dinner Date night
 
@@ -411,7 +411,7 @@ A moody speakeasy across from The Grove with elaborate cocktails.
 
 **Order:** A cocktail from the spirits menu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -443,7 +443,7 @@ A well-curated independent bookstore on Larchmont with a cozy kids' section.
 
 **Do:** Browse the staff picks.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Chevalier%27s+Books+133+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Chevalier%27s+Books+133+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
 Shopping Kids & family
 
@@ -479,7 +479,7 @@ Sources
 
 - [The Infatuation: Hollywood](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-hollywood)
 - [Time Out: Larchmont Boulevard](https://www.timeout.com/los-angeles/things-to-do/la-city-guide-a-tour-of-larchmont-boulevard-in-hancock-park)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
 Living here
 
@@ -519,9 +519,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -600,9 +600,9 @@ Get new Hancock Park & Larchmont listings as they hit, including ones that aren'
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

@@ -6,7 +6,7 @@ Local LA
 
 # The best brunch in Los Angeles
 
-49 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+49 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -34,7 +34,7 @@ A friendly counter-service cafe with a huge breakfast menu and a patio.
 
 **Order:** Huevos rancheros or steak eggs benedict.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Fratelli+Marina+552+Washington+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Fratelli+Marina+552+Washington+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 Breakfast
 
@@ -62,7 +62,7 @@ Chef Brooke Williamson's beachside spot with a daytime counter, a seafood dining
 
 **Order:** Crab claws and the lobster roll, then ice cream.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Playa+Provisions+119+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Playa+Provisions+119+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Seafood Dinner Cocktail bars & lounges
 
@@ -134,7 +134,7 @@ A big, airy order-at-the-counter cafe with generous portions.
 
 **Order:** Lox benedict or the blueberry pancakes.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Coral+Tree+Cafe+11645+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Coral+Tree+Cafe+11645+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Breakfast Lunch
 
@@ -162,7 +162,7 @@ A longtime neighborhood breakfast spot known for its biscuits and big pancakes.
 
 **Order:** Pancakes or eggs with a side of biscuits.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=John+O%27+Groats+10516+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=John+O%27+Groats+10516+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Breakfast
 
@@ -190,7 +190,7 @@ A French cafe with a relaxed patio and very large portions.
 
 **Order:** The breakfast croissant or the French toast.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Laurent+12034+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Laurent+12034+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Breakfast
 
@@ -204,7 +204,7 @@ An airy, open-air cafe named after an Australian surf break. Easy lunches by day
 
 **Order:** The Whirley Bowl at lunch, the burger at night. There's no Wi-Fi.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Blueys+12825+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Blueys+12825+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Lunch Dinner
 
@@ -218,7 +218,7 @@ Mar Vista's 75-year-old corner grocery, rebuilt into a rustic Italian restaurant
 
 **Order:** The kale chicken salad at brunch, duck pappardelle or a pizza at dinner.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Beethoven+Market+12904+Palms+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Resy](https://blog.resy.com/2025/12/los-angeles-restaurants-2025/) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Beethoven+Market+12904+Palms+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Resy](https://blog.resy.com/2025/12/los-angeles-restaurants-2025/) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Dinner Date night
 
@@ -232,7 +232,7 @@ A busy corner cafe minutes from LAX with a long breakfast menu and house-made bi
 
 **Order:** An omelet with the Potatoes O'Brien and a biscuit.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Coffee+Company+8751+S+La+Tijera+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Coffee+Company+8751+S+La+Tijera+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Breakfast Coffee
 
@@ -246,7 +246,7 @@ A seasonal, garden-to-table restaurant and bakery with a rooftop patio that look
 
 **Order:** Morning pastries, or dinner on the roof.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Tomat+6261+W+87th+St+Westchester+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-Los-angeles) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Tomat+6261+W+87th+St+Westchester+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-Los-angeles) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Date night Dinner Bakeries & dessert
 
@@ -294,7 +294,7 @@ A garden dining room at the famous hotel, next to the swan pond, with live jazz 
 
 **Order:** Brunch on the patio, then walk the grounds to see the swans.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Restaurant+at+Hotel+Bel-Air+701+Stone+Canyon+Rd+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Restaurant+at+Hotel+Bel-Air+701+Stone+Canyon+Rd+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
 
 Date night Dinner Cocktail bars & lounges
 
@@ -338,7 +338,7 @@ A Japanese cafe known for tall souffle pancakes and omurice. Expect a short wait
 
 **Order:** Souffle pancakes and the omurice with karaage.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Takagi+Coffee+8048+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Takagi+Coffee+8048+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
 
 Breakfast Coffee
 
@@ -366,7 +366,7 @@ A stylish two-level breakfast spot with an Eastern European twist.
 
 **Order:** Syrniki and the mushroom truffle toast. Reserve on weekends.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=MOOD+8201+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=MOOD+8201+W+3rd+St+Beverly+Grove+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
 
 Breakfast
 
@@ -394,7 +394,7 @@ Walter and Margarita Manzke's French bakery and restaurant in a landmark 1920s b
 
 **Order:** Pastries from the case at brunch. Go early on weekends.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=R%C3%A9publique+624+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=R%C3%A9publique+624+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Breakfast Bakeries & dessert Date night
 
@@ -408,7 +408,7 @@ A small, busy brunch cafe best known for its waffles.
 
 **Order:** Chilaquiles or a loaded waffle.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Met+Her+At+A+Bar+759+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Met+Her+At+A+Bar+759+S+La+Brea+Ave+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Breakfast
 
@@ -422,7 +422,7 @@ The Strip's busiest breakfast, with a garden patio in back. It takes reservation
 
 **Order:** Lemon ricotta pancakes in the skillet or the croissant breakfast sandwich.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Butcher%2C+The+Baker%2C+The+Cappuccino+Maker+8653+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Butcher%2C+The+Baker%2C+The+Cappuccino+Maker+8653+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Breakfast Bakeries & dessert
 
@@ -436,7 +436,7 @@ A newer all-day breakfast spot on the east end that's built a loyal following fa
 
 **Order:** The flight of three mini waffles and pancakes, or steak and eggs.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Breakfast+Company+7141+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Breakfast+Company+7141+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Breakfast
 
@@ -518,7 +518,7 @@ A modern Mexican cafe that does breakfast through dinner, with an easygoing room
 
 **Order:** Chips, salsa and guacamole, then the mushroom mole or a breakfast burrito.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=First+Of+All+8200+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=First+Of+All+8200+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Tacos & Mexican
 
@@ -562,7 +562,7 @@ A pair of historic bungalows with a big shaded patio, and Los Feliz's go-to brun
 
 **Order:** Something from the pastry case and a breakfast plate on the patio. Valet helps with parking.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Alcove+Cafe+and+Bakery+1929+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Alcove+Cafe+and+Bakery+1929+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-los-feliz-restaurants) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
 Breakfast Bakeries & dessert
 
@@ -576,7 +576,7 @@ A big, friendly patio restaurant on Hillhurst that does everything from pancakes
 
 **Order:** Banana walnut pancakes at brunch, or chicken and waffles.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Home+Restaurant+1760+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Home+Restaurant+1760+Hillhurst+Ave+Los+Feliz+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
 Dinner
 
@@ -662,7 +662,7 @@ The Garland hotel's restaurant, with a big courtyard patio and an easy weekend b
 
 **Order:** The short rib burger and a martini.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Front+Yard+4222+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Front+Yard+4222+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Dinner
 
@@ -676,7 +676,7 @@ A restored 1940s bar in a building shaped like a giant barrel, with a big patio 
 
 **Order:** Happy hour out on the patio.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Idle+Hour+4824+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Idle+Hour+4824+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Cocktail bars & lounges
 
@@ -704,7 +704,7 @@ A small, ambitious neighborhood restaurant with a seasonal menu, a tasting menu 
 
 **Order:** The four-course tasting menu, or happy hour at the bar.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Prose+Kitchen+and+Bar+21150+Ventura+Blvd+Woodland+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Prose+Kitchen+and+Bar+21150+Ventura+Blvd+Woodland+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
 
 Dinner Date night
 
@@ -718,16 +718,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

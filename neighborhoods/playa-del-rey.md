@@ -30,7 +30,7 @@ Playa del Rey is a small beach community in the City of LA, between Marina del R
 
 - **Good fit if:** You want the beach without the crowds and don't mind plane noise near the south end.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -97,7 +97,7 @@ A small neighborhood cafe with vintage photos of the area and solid breakfast sa
 
 **Order:** A croissant breakfast sandwich and a latte.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tanner%27s+Coffee+Co.+200+Culver+Blvd%2C+Suite+C+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tanner%27s+Coffee+Co.+200+Culver+Blvd%2C+Suite+C+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Coffee Breakfast
 
@@ -111,7 +111,7 @@ A tiny coffee bar with a patio over the wetlands and a Greek food truck out back
 
 **Order:** An iced latte and a Greek omelette from the truck.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Petros+Kafe+427+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Petros+Kafe+427+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Coffee Breakfast
 
@@ -125,7 +125,7 @@ A family-run Mexican restaurant cooking everything from scratch.
 
 **Order:** Chilaquiles at brunch or the fish tacos.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=T.C.+Organic+333+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=T.C.+Organic+333+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Breakfast Tacos & Mexican Lunch
 
@@ -143,7 +143,7 @@ Chef Brooke Williamson's beachside spot with a daytime counter, a seafood dining
 
 **Order:** Crab claws and the lobster roll, then ice cream.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Playa+Provisions+119+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Playa+Provisions+119+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Seafood Dinner Brunch
 
@@ -157,7 +157,7 @@ A Mediterranean small-plates restaurant and the neighborhood's go-to for a night
 
 **Order:** Share several small plates with a bottle of wine.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bacari+PDR+6805+S+Vista+Del+Mar+Ln+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bacari+PDR+6805+S+Vista+Del+Mar+Ln+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Dinner Date night Wine bars
 
@@ -171,7 +171,7 @@ A Roman-run Italian restaurant serving fresh pasta near the beach since 1997, wi
 
 **Order:** A pasta and a glass of Italian red.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Pinguini+6935+Pacific+Ave+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Pinguini+6935+Pacific+Ave+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Date night Dinner
 
@@ -207,7 +207,7 @@ A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy
 
 **Order:** A whiskey sour and the Sichuan wings.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Cocktail bars & lounges Dinner Date night
 
@@ -239,7 +239,7 @@ A wide beach with fire pits, a bike path and jets taking off from LAX right over
 
 **Do:** Arrive early on weekends to claim a fire pit.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach+12000+Vista+Del+Mar+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach+12000+Vista+Del+Mar+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Beaches Landmarks & sights
 
@@ -253,7 +253,7 @@ A protected coastal wetland with birding and a walking and bike path that links 
 
 **Do:** An early walk or bike ride along the path. Parts may be closed for restoration.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Ecological+Reserve+Ballona+Wetlands+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Ecological+Reserve+Ballona+Wetlands+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
 
 Hikes & nature Parks
 
@@ -267,14 +267,14 @@ A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and
 
 **Do:** Bring little kids, or launch a paddleboard.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 Beaches Kids & family Fitness & outdoor sports
 
 Sources
 
 - [OpenTable diner reviews: Playa del Rey](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 The story of Playa del Rey
 
@@ -410,9 +410,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -505,9 +505,9 @@ Get new Playa del Rey listings as they hit, including ones that aren't public ye
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

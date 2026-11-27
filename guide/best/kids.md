@@ -6,7 +6,7 @@ Local LA
 
 # The best family outings in Los Angeles
 
-45 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+45 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -20,7 +20,7 @@ A huge, clean stretch of sand with lifeguards, showers and easy parking right ne
 
 **Do:** A full beach day with kids.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Zuma+Beach+Zuma+Beach+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Zuma+Beach+Zuma+Beach+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
 
 Beaches Fitness & outdoor sports
 
@@ -34,7 +34,7 @@ Canyon trails, a rock pool for swimming and the old M*A*S*H filming site.
 
 **Do:** Hike to the M*A*S*H site, about 2.5 miles each way.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Malibu+Creek+State+Park+1925+Las+Virgenes+Rd+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Malibu+Creek+State+Park+1925+Las+Virgenes+Rd+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
 
 Hikes & nature Parks
 
@@ -62,7 +62,7 @@ A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and
 
 **Do:** Bring little kids, or launch a paddleboard.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 Beaches Fitness & outdoor sports
 
@@ -76,7 +76,7 @@ The neighborhood's walkable town square of shops, restaurants and lawns, reopene
 
 **Do:** Walk the lawns, shop, then lunch on Swarthmore.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Palisades+Village+15225+Palisades+Village+Ln+Pacific+Palisades+Los+Angeles+CA) Sources: [ABC7](https://abc7.com/story/hundreds-gather-grand-reopening-palisades-village-year-half-fire-damage-renovations/19685457/) [Los Angeles Magazine](https://lamag.com/news/palisades-village-re-opens-celebrating-a-sense-of-normalcy-and-resilience/) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Palisades+Village+15225+Palisades+Village+Ln+Pacific+Palisades+Los+Angeles+CA) Sources: [ABC7](https://abc7.com/story/hundreds-gather-grand-reopening-palisades-village-year-half-fire-damage-renovations/19685457/) [Los Angeles Magazine](https://lamag.com/news/palisades-village-re-opens-celebrating-a-sense-of-normalcy-and-resilience/) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Shopping Landmarks & sights
 
@@ -118,7 +118,7 @@ The neighborhood's walkable center, with restaurants, a Whole Foods, a movie the
 
 **Do:** Dinner and a movie; the theater validates parking.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Runway+Playa+Vista+12775+W+Millennium+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Runway+Playa+Vista+12775+W+Millennium+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
 
 Shopping Movies
 
@@ -162,7 +162,7 @@ A red barn-style courtyard of boutiques, a bookstore, a toy store and cafes.
 
 **Do:** Coffee, then a wander through the shops. The first hour of parking is free.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Mart+225+26th+St+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Mart+225+26th+St+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Shopping
 
@@ -176,7 +176,7 @@ A big park with tennis courts, a pool, ball fields, basketball and an off-leash 
 
 **Do:** Book a tennis court early on weekends.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+2551+Motor+Ave+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center+2551+Motor+Ave+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Parks Fitness & outdoor sports Dog-friendly
 
@@ -218,7 +218,7 @@ The neighborhood's big park, with a pool, tennis and basketball courts, a roller
 
 **Do:** Swim in the warm months or play tennis.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Recreation+Center+11430+Woodbine+St+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Recreation+Center+11430+Woodbine+St+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Parks Fitness & outdoor sports
 
@@ -294,7 +294,7 @@ A cultural center and museum with rotating exhibits, a famous Noah's Ark play sp
 
 **Do:** Bring kids to Noah's Ark; parking is free.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Skirball+Cultural+Center+2701+N+Sepulveda+Blvd+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Skirball+Cultural+Center+2701+N+Sepulveda+Blvd+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
 
 Museums Live music
 
@@ -322,7 +322,7 @@ A quiet canyon park with a lake and duck pond, shady trails and old-growth trees
 
 **Do:** Walk the lake loop and look for turtles in the pond. Drive slowly; there are stop-sign cameras.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Franklin+Canyon+Park+2600+Franklin+Canyon+Dr+Beverly+Hills+Post+Office+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Hills+Post+Office+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Franklin+Canyon+Park+2600+Franklin+Canyon+Dr+Beverly+Hills+Post+Office+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Hills+Post+Office+CA)
 
 Hikes & nature Parks Dog-friendly
 
@@ -336,7 +336,7 @@ A short, easy walk to the cave used as the Batcave in the 1960s TV show, with a 
 
 **Do:** Go early for parking, then keep going on the Brush Canyon trail.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+3200+Canyon+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+3200+Canyon+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
 
 Hikes & nature Landmarks & sights
 
@@ -380,7 +380,7 @@ A big, shady park next to The Grove with lawns, walking paths and sports facilit
 
 **Do:** A sunset walk, then dinner at the Farmers Market.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+7600+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park+7600+Beverly+Blvd+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Parks Dog-friendly Fitness & outdoor sports
 
@@ -394,7 +394,7 @@ A well-curated independent bookstore on Larchmont with a cozy kids' section.
 
 **Do:** Browse the staff picks.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Chevalier%27s+Books+133+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Chevalier%27s+Books+133+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
 Shopping
 
@@ -450,7 +450,7 @@ One of the world's great car museums, behind its famous ribbon-wrapped facade.
 
 **Do:** Add the basement Vault tour.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum+6060+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum+6060+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Museums
 
@@ -464,7 +464,7 @@ Ice Age asphalt seeps and active excavation sites in the park. The museum buildi
 
 **Do:** Walk to the Lake Pit and look for the tar bubbling up.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+5801+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [La Brea Tar Pits](https://tarpits.org/last-chance) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+5801+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [La Brea Tar Pits](https://tarpits.org/last-chance) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Parks Landmarks & sights
 
@@ -478,7 +478,7 @@ The city's main park, with a modern playground, courts, a dog park and the libra
 
 **Do:** Pickleball or tennis, then the library's rooftop views.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Park+647+N+San+Vicente+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Park+647+N+San+Vicente+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
 
 Parks Dog-friendly Fitness & outdoor sports
 
@@ -492,7 +492,7 @@ A busy neighborhood park with tennis and pickleball courts, a playground and fre
 
 **Do:** Summer Sunday concerts.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Plummer+Park+7377+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/west-hollywood)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Plummer+Park+7377+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/west-hollywood)
 
 Parks Fitness & outdoor sports
 
@@ -506,7 +506,7 @@ A small, shady pocket park with water features and a toddler playground.
 
 **Do:** A quiet lunch break on a bench.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Kings+Road+Park+1000+Kings+Rd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Kings+Road+Park+1000+Kings+Rd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Parks
 
@@ -536,7 +536,7 @@ A palm-ringed lake with swan pedal boats, a fountain and a walking loop. The lot
 
 **Do:** Rent a swan boat at sunset.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Echo+Park+Lake+751+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-restaurants-in-echo-park) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Echo+Park+Lake+751+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-restaurants-in-echo-park) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Parks Landmarks & sights
 
@@ -608,7 +608,7 @@ A small historic park with an 1800s adobe, a spring-fed duck pond and citrus tre
 
 **Do:** Come on the third Sunday of the month for the blacksmith demonstration.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Los+Encinos+State+Historic+Park+16756+Moorpark+St+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Los+Encinos+State+Historic+Park+16756+Moorpark+St+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 Parks Landmarks & sights
 
@@ -622,7 +622,7 @@ Three castle-themed mini golf courses plus batting cages and an arcade, open sin
 
 **Do:** A round of mini golf at night.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+Castle+Park+4989+Sepulveda+Blvd+Sherman+Oaks+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+Castle+Park+4989+Sepulveda+Blvd+Sherman+Oaks+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+CA)
 
 Golf
 
@@ -636,7 +636,7 @@ A big park around a lake with a 1.3-mile loop path, paddle boats and plenty of b
 
 **Do:** Walk the loop in the morning; come in spring for the cherry blossoms.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Park+6300+Balboa+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Park+6300+Balboa+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Parks Dog-friendly
 
@@ -650,7 +650,7 @@ A big, shady lawn that hosts free concerts in the summer.
 
 **Do:** Bring a blanket for a summer concert night.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Warner+Center+Park+5800+Topanga+Canyon+Blvd+Woodland+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Warner+Center+Park+5800+Topanga+Canyon+Blvd+Woodland+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
 
 Parks Live music
 
@@ -664,16 +664,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

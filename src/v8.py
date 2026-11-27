@@ -45,10 +45,10 @@ def review_card(r, full=True, link=True):
             + (f'<a class="rv-deal" href="{r["url"]}">See the sale: {e(r["deal"])} &rarr;</a>' if r.get("url") and link else '') + '</span></figcaption></figure>')
 
 
-def reviews_band(full=True, heading="What my clients say", cls=""):
+def reviews_band(full=True, heading="What clients say", cls=""):
     return f"""<section class="band rv{(" " + cls) if cls else ""}" id="reviews"><div class="wrap">
 <div class="rv-head"><div><p class="kick">Reviews</p><h2>{e(heading)}</h2></div>
-<a class="rv-score" href="{GBP_URL}" target="_blank" rel="noopener"><b>{RATING}</b><span>{stars()}<small>{len(REVIEWS)} Google reviews &middot; read them on Google &#8599;</small></span></a></div>
+<a class="rv-score" href="{GBP_URL}" target="_blank" rel="noopener"><span>{stars()}<small>{len(REVIEWS)} Google reviews &middot; read them on Google &#8599;</small></span></a></div>
 <div class="rv-grid">{"".join(review_card(r, full) for r in REVIEWS)}</div>
 </div></section>"""
 

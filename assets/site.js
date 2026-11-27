@@ -8,7 +8,7 @@
       const d = new FormData(form);
       const name = (d.get('name') || '').trim();
       const email = (d.get('email') || '').trim();
-      if (!name || !/^\S+@\S+\.\S+$/.test(email)) { say('Add your name and a valid email so I can reply.'); return; }
+      if (!name || !/^\S+@\S+\.\S+$/.test(email)) { say('Add your name and a valid email so Nathaniel can reply.'); return; }
       const looking = d.getAll('looking').join(', ') || 'Not specified';
       const payload = { name, email, phone: d.get('phone') || '', looking, message: d.get('message') || '',
         page: location.pathname + location.search, _subject: (form.dataset.subject || 'Website lead') + ': ' + looking + ' (' + name + ')', _template: 'table',
@@ -24,7 +24,7 @@
         if (!r.ok || j.success === 'false' || j.success === false) throw new Error('not sent');
         form.reset();
         if (window.NG) window.NG.submitted();
-        say(form.dataset.ok ? form.dataset.ok.replace('{name}', name.split(' ')[0]) : 'Got it, ' + name.split(' ')[0] + '. I will get back to you within a day.');
+        say(form.dataset.ok ? form.dataset.ok.replace('{name}', name.split(' ')[0]) : 'Got it, ' + name.split(' ')[0] + '. Nathaniel will get back to you within a day.');
       } catch (err) {
         say('This message could not be sent from here. Call or text 310-269-5541, or email nate.grivas@compass.com.');
       } finally { btn.disabled = false; btn.textContent = label; }

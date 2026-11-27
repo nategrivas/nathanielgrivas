@@ -30,7 +30,7 @@ Mar Vista is a City of LA neighborhood between Venice, Culver City and Palms. It
 
 - **Good fit if:** You want a house with a yard on the Westside and quick freeway access.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -104,7 +104,7 @@ The neighborhood's coffee hangout, roasting on site with playful drinks and a sh
 
 **Order:** A cardamom brown sugar latte and a croissant.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Alana%27s+Coffee+Roasters+12511+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Alana%27s+Coffee+Roasters+12511+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Coffee
 
@@ -118,7 +118,7 @@ A big, calm cafe with a courtyard and long tables that make it one of the easies
 
 **Order:** A latte in the courtyard.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Awaken+Cafe+3838+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Awaken+Cafe+3838+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Coffee
 
@@ -132,7 +132,7 @@ A bright little cafe with a roomy patio, creative matcha drinks and a dog-friend
 
 **Order:** A seasonal matcha or the golden dirty chai.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kind+Grounds+3759+Sawtelle+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kind+Grounds+3759+Sawtelle+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Coffee Dog-friendly
 
@@ -146,7 +146,7 @@ A surf-themed cafe and shop with plenty of seating and outlets, plus occasional 
 
 **Order:** A matcha latte with salted vanilla cold foam.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Saba+Coffee+Shop+12912+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Saba+Coffee+Shop+12912+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Coffee
 
@@ -160,7 +160,7 @@ A French cafe with a relaxed patio and very large portions.
 
 **Order:** The breakfast croissant or the French toast.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Laurent+12034+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cafe+Laurent+12034+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Breakfast Brunch
 
@@ -174,7 +174,7 @@ A decades-old breakfast counter, formerly Maxwell's, with friendly service and s
 
 **Order:** Eggs with the fruit side at the counter.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Maxine%27s+Cafe+13329+Washington+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Maxine%27s+Cafe+13329+Washington+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Breakfast Cheap eats
 
@@ -188,7 +188,7 @@ Mar Vista's 75-year-old corner grocery, rebuilt into a rustic Italian restaurant
 
 **Order:** The kale chicken salad at brunch, duck pappardelle or a pizza at dinner.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Beethoven+Market+12904+Palms+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Resy](https://blog.resy.com/2025/12/los-angeles-restaurants-2025/) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Beethoven+Market+12904+Palms+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Resy](https://blog.resy.com/2025/12/los-angeles-restaurants-2025/) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Brunch Dinner Date night
 
@@ -206,7 +206,7 @@ An airy, open-air cafe named after an Australian surf break. Easy lunches by day
 
 **Order:** The Whirley Bowl at lunch, the burger at night. There's no Wi-Fi.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blueys+12825+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Blueys+12825+Venice+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Lunch Brunch Dinner
 
@@ -220,7 +220,7 @@ A red taco truck in front of Mitsuwa known for loaded quesabirria with plenty of
 
 **Order:** The mini quesabirria tacos. Daytime only, closed Sundays.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tacos+Mar+Vista+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tacos+Mar+Vista+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Tacos & Mexican Cheap eats
 
@@ -284,7 +284,7 @@ A neighborhood French bistro with an open kitchen counter and a reasonably price
 
 **Order:** Roast chicken and potatoes with the Electric Fries, or the tasting menu at the counter.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Electric+Bleu+3523+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Electric+Bleu+3523+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Dinner Date night Wine bars
 
@@ -298,7 +298,7 @@ Nayarit-style Mexican seafood that people drive across town for.
 
 **Order:** Pescado zarandeado to share, plus aguachile and shrimp tacos. Closed Tuesdays.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Coni%27Seafood+4532+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-westside-restaurants-for-eastsiders-la) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Coni%27Seafood+4532+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-westside-restaurants-for-eastsiders-la) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Seafood Tacos & Mexican Lunch
 
@@ -316,7 +316,7 @@ A creative cocktail bar next to Little Fatty, with two back-to-back bars and a m
 
 **Order:** Sit at the bar and watch the torched cocktails get made. Weekday happy hour.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -330,7 +330,7 @@ A classy cocktail lounge with a small dance floor and local DJs on weekends.
 
 **Order:** A smoked old fashioned. Open Wednesday through Saturday.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 Cocktail bars & lounges Late night
 
@@ -358,7 +358,7 @@ The neighborhood's big park, with a pool, tennis and basketball courts, a roller
 
 **Do:** Swim in the warm months or play tennis.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Recreation+Center+11430+Woodbine+St+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Recreation+Center+11430+Woodbine+St+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Parks Kids & family Fitness & outdoor sports
 
@@ -372,7 +372,7 @@ A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and
 
 **Do:** Bring little kids, or launch a paddleboard.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 Beaches Kids & family Fitness & outdoor sports
 
@@ -390,7 +390,7 @@ A Japanese supermarket with a busy food court and a bookstore full of manga and 
 
 **Do:** Ramen or tempura in the food court, then snacks and mochi from the market.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mitsuwa+Marketplace+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Markets Lunch Cheap eats
 
@@ -432,7 +432,7 @@ Sources
 - [The Infatuation: Westside restaurants worth the drive](https://www.theinfatuation.com/los-angeles/guides/best-westside-restaurants-for-eastsiders-la)
 - [Time Out: Best restaurants on the Westside](https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside)
 - [Resy: The restaurants that defined LA dining in 2025](https://blog.resy.com/2025/12/los-angeles-restaurants-2025/)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 The story of Mar Vista
 
@@ -566,9 +566,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -655,9 +655,9 @@ Get new Mar Vista listings as they hit, including ones that aren't public yet, o
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

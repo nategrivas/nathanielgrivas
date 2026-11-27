@@ -1,0 +1,60 @@
+{
+ "week": "2026-11-27",
+ "take": [
+  "Mortgage rates rose this week and sit about a full point above where they were a year ago.",
+  "Price cuts are most common in the Valley and least common in Beverly Hills and the Hills. Every region is in the table.",
+  "In October, closed sales in Los Angeles County ran well below last year while the county price stayed close to flat year over year.",
+  "This is the first weekly reading. Week-over-week changes start with the next update."
+ ],
+ "rate": {
+  "v": 7.28,
+  "prev": 7.11,
+  "yago": 6.26,
+  "asof": "2026-11-19",
+  "src": "Freddie Mac PMMS",
+  "url": "https://www.freddiemac.com/pmms"
+ },
+ "county": {
+  "month": "October 2026",
+  "price": 955090,
+  "price_yoy": -0.6,
+  "price_mom": -4.0,
+  "sales_yoy": -17.5,
+  "sales_mom": 5.7,
+  "src": "C.A.R., as reported by NBC Los Angeles",
+  "url": "https://www.nbclosangeles.com/news/local/southern-california-home-sales-dive-in-october/3972010/"
+ },
+ "regions": [
+  {
+   "r": "Westside",
+   "active": 693,
+   "cut": 124
+  },
+  {
+   "r": "Coast",
+   "active": 899,
+   "cut": 122
+  },
+  {
+   "r": "Beverly Hills & the Hills",
+   "active": 696,
+   "cut": 81
+  },
+  {
+   "r": "Central",
+   "active": 542,
+   "cut": 71
+  },
+  {
+   "r": "Eastside",
+   "active": 187,
+   "cut": 25
+  },
+  {
+   "r": "Valley",
+   "active": 1331,
+   "cut": 259
+  }
+ ],
+ "listings_src": "Zillow, active for-sale listings (houses, condos and townhomes), pulled November 27, 2026"
+}

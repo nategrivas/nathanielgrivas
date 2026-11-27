@@ -30,7 +30,7 @@ Echo Park is a City of LA neighborhood northwest of Downtown, between Silver Lak
 
 - **Good fit if:** You want character close to Downtown.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -115,7 +115,7 @@ A bright, roomy cafe with free Wi-Fi, great croissants and no charge for alterna
 
 **Order:** A lavender latte and a savory pastry. Park up on Kensington and take the stairs down.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Eightfold+Coffee+1294+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Eightfold+Coffee+1294+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Coffee
 
@@ -129,7 +129,7 @@ A small, sunny roaster's cafe with a long bar and very fresh beans to take home.
 
 **Order:** A cappuccino or the fig leaf latte. There's no Wi-Fi.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Canyon+Coffee+1559+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Canyon+Coffee+1559+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Coffee
 
@@ -143,7 +143,7 @@ A relaxed neighborhood coffee bar that's been on Sunset for more than a decade.
 
 **Order:** An iced matcha on the patio.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Woodcat+Coffee+1532+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Woodcat+Coffee+1532+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Coffee
 
@@ -157,7 +157,7 @@ A tiny bakery and sandwich shop with a tree-shaded patio, famous for its pies an
 
 **Order:** A hand pie or the Basque cheesecake, plus the prosciutto sandwich.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Valerie+Echo+Park+1665+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Valerie+Echo+Park+1665+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Bakeries & dessert Breakfast Lunch
 
@@ -411,7 +411,7 @@ A warm, wood-paneled cocktail bar with Mediterranean food, a vintage sound syste
 
 **Order:** The lavender cocktail with the watermelon salad.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Semi-Tropic+1412+Glendale+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Semi-Tropic+1412+Glendale+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Cocktail bars & lounges Dinner
 
@@ -425,7 +425,7 @@ A moody, velvet-lined cocktail bar with deep whiskey and agave lists, near Dodge
 
 **Order:** Go on a weeknight for an easy conversation.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Henry+1228+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Henry+1228+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -439,7 +439,7 @@ An upstairs bar with a lovely patio and some of the best margaritas on the Easts
 
 **Order:** The tequila sour before a Dodgers game.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Flores+1542+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bar+Flores+1542+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Cocktail bars & lounges Rooftops & views
 
@@ -457,7 +457,7 @@ A small, dark music room where you can get right up to the band.
 
 **Do:** Check the calendar for local and touring acts.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Echo+1822+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Echo+1822+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Live music
 
@@ -503,7 +503,7 @@ A palm-ringed lake with swan pedal boats, a fountain and a walking loop. The lot
 
 **Do:** Rent a swan boat at sunset.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Echo+Park+Lake+751+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-restaurants-in-echo-park) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Echo+Park+Lake+751+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-restaurants-in-echo-park) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Parks Landmarks & sights Kids & family
 
@@ -541,7 +541,7 @@ Sources
 - [The Infatuation: Echo Park](https://theinfatuation.com/los-angeles/neighborhoods/echo-park)
 - [Time Out: Best restaurants in Echo Park](https://www.timeout.com/los-angeles/restaurants/the-best-restaurants-in-echo-park)
 - [Fodor's: Best restaurants in Echo Park](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/los-feliz-and-the-eastside/echo-park/restaurants)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 The story of Echo Park
 
@@ -684,9 +684,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -765,9 +765,9 @@ Get new Echo Park listings as they hit, including ones that aren't public yet, o
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

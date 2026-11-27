@@ -30,7 +30,7 @@ West Los Angeles is the City of LA area between Santa Monica, Brentwood, Westwoo
 
 - **Good fit if:** You want a condo in the middle of the Westside with food you can walk to.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -117,7 +117,7 @@ A cheerful all-day cafe with lots of vegan, vegetarian and high-protein options 
 
 **Order:** A breakfast bowl and the beekeeper latte.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Hive+11705+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Hive+11705+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 Breakfast Healthy & plant-based Coffee
 
@@ -385,7 +385,7 @@ A classy cocktail lounge with a small dance floor and local DJs on weekends.
 
 **Order:** A smoked old fashioned. Open Wednesday through Saturday.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 Cocktail bars & lounges Late night
 
@@ -441,7 +441,7 @@ UCLA's free contemporary art museum with a courtyard, a strong shop and free scr
 
 **Do:** Check the events calendar, then lunch at Lulu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
 
 Museums Art & galleries
 
@@ -496,7 +496,7 @@ Sources
 - [Time Out: Best restaurants in Sawtelle Japantown](https://www.timeout.com/los-angeles/restaurants/best-sawtelle-japantown-restaurants)
 - [Discover Los Angeles: A walking tour of Sawtelle Japantown](https://discoverlosangeles.com/things-to-do/a-walking-tour-of-sawtelle-japantown)
 - [The Infatuation: Sawtelle Japantown](https://theinfatuation.com/los-angeles/neighborhoods/sawtelle-japantown)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 The story of West LA & Sawtelle
 
@@ -629,9 +629,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -722,9 +722,9 @@ Get new West LA & Sawtelle listings as they hit, including ones that aren't publ
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

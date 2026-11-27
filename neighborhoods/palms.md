@@ -30,7 +30,7 @@ Palms is one of the oldest neighborhoods on LA's Westside, founded in 1886 and a
 
 - **Good fit if:** You rent or want a first condo in a central Westside spot with a train.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -97,7 +97,7 @@ A small, friendly espresso bar on Motor known for Australian-style coffee and a 
 
 **Order:** A flat white or the matcha.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Little+Marionette+3570+Motor+Ave+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Little+Marionette+3570+Motor+Ave+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
 Coffee
 
@@ -111,7 +111,7 @@ A decades-old roaster with a cult following, an eclectic room full of tins and i
 
 **Order:** The toffee latte and a pastry. Weekdays only.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Conservatory+for+Coffee%2C+Tea+and+Cocoa+10117+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Conservatory+for+Coffee%2C+Tea+and+Cocoa+10117+Washington+Blvd+Culver+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
 
 Coffee
 
@@ -143,7 +143,7 @@ A busy little sandwich shop where the specialty is banh mi on fresh, soft bread.
 
 **Order:** A tofu or Korean BBQ banh mi.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lokal+Sandwich+Shop+10433+National+Blvd+%231A+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lokal+Sandwich+Shop+10433+National+Blvd+%231A+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
 Lunch Breakfast Cheap eats
 
@@ -193,7 +193,7 @@ One of the best ramen shops on the Westside, known for a rich tonkotsu broth. Yo
 
 **Order:** Tonkotsu or the spicy miso ramen.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kotoya+Japanese+Ramen+10422+National+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kotoya+Japanese+Ramen+10422+National+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
 Dinner Lunch
 
@@ -207,7 +207,7 @@ A longtime LA Cuban restaurant with big plates and a lively dining room.
 
 **Order:** The garlic chicken with plantains.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Versailles+10319+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Versailles+10319+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/palms) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
 Dinner Lunch
 
@@ -221,7 +221,7 @@ A warm Latin-Caribbean dining room and bar whose cocktails use fresh-pressed sug
 
 **Order:** Mango curry chicken and a mojito.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bamboo+Restaurant+10835+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bamboo+Restaurant+10835+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
 Dinner Date night Cocktail bars & lounges
 
@@ -267,7 +267,7 @@ A creative cocktail bar next to Little Fatty, with two back-to-back bars and a m
 
 **Order:** Sit at the bar and watch the torched cocktails get made. Weekday happy hour.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Cocktail bars & lounges Date night
 
@@ -281,7 +281,7 @@ A classy cocktail lounge with a small dance floor and local DJs on weekends.
 
 **Order:** A smoked old fashioned. Open Wednesday through Saturday.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 Cocktail bars & lounges Late night
 
@@ -289,7 +289,7 @@ Sources
 
 - [The Infatuation: Palms](https://www.theinfatuation.com/los-angeles/neighborhoods/palms)
 - [Time Out: The best restaurants in LA](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-los-angeles)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
 The story of Palms
 
@@ -421,9 +421,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -506,9 +506,9 @@ Get new Palms listings as they hit, including ones that aren't public yet, or fi
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

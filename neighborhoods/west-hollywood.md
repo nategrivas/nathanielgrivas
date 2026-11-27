@@ -30,7 +30,7 @@ West Hollywood is its own city of about 1.9 square miles between Beverly Hills a
 
 - **Good fit if:** You want to walk to dinner and stay out late.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -170,7 +170,7 @@ A tiny pop-music-themed cafe that regulars treat like a secret. The lattes are n
 
 **Order:** The lavender latte and the chilaquiles. Closed Mondays.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fan+Girl+Cafe+8157+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fan+Girl+Cafe+8157+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Coffee Breakfast
 
@@ -184,7 +184,7 @@ A small neighborhood coffee shop on Fountain with a friendly counter and fun fla
 
 **Order:** The cereal-milk latte and a breakfast burrito.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dubb%27s+Organic+Coffee+Blends+7962+Fountain+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dubb%27s+Organic+Coffee+Blends+7962+Fountain+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Coffee Cheap eats
 
@@ -198,7 +198,7 @@ The Strip's busiest breakfast, with a garden patio in back. It takes reservation
 
 **Order:** Lemon ricotta pancakes in the skillet or the croissant breakfast sandwich.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Butcher%2C+The+Baker%2C+The+Cappuccino+Maker+8653+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Butcher%2C+The+Baker%2C+The+Cappuccino+Maker+8653+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Breakfast Brunch Bakeries & dessert
 
@@ -212,7 +212,7 @@ The famous pancake house where one stack is bigger than the plate. Expect a line
 
 **Order:** One order of pancakes for the table, and coffee in a French press.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Griddle+Cafe+7916+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Griddle+Cafe+7916+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Breakfast
 
@@ -226,7 +226,7 @@ A newer all-day breakfast spot on the east end that's built a loyal following fa
 
 **Order:** The flight of three mini waffles and pancakes, or steak and eggs.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Breakfast+Company+7141+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Breakfast+Company+7141+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Breakfast Brunch
 
@@ -310,7 +310,7 @@ A modern Mexican cafe that does breakfast through dinner, with an easygoing room
 
 **Order:** Chips, salsa and guacamole, then the mushroom mole or a breakfast burrito.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=First+Of+All+8200+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=First+Of+All+8200+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Brunch Tacos & Mexican
 
@@ -936,7 +936,7 @@ The city's main park, with a modern playground, courts, a dog park and the libra
 
 **Do:** Pickleball or tennis, then the library's rooftop views.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Park+647+N+San+Vicente+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood+Park+647+N+San+Vicente+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-west-hollywood)
 
 Parks Kids & family Dog-friendly
 
@@ -950,7 +950,7 @@ A busy neighborhood park with tennis and pickleball courts, a playground and fre
 
 **Do:** Summer Sunday concerts.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Plummer+Park+7377+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/west-hollywood)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Plummer+Park+7377+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA) [Time Out](https://www.timeout.com/los-angeles/west-hollywood)
 
 Parks Kids & family Fitness & outdoor sports
 
@@ -964,7 +964,7 @@ A small, shady pocket park with water features and a toddler playground.
 
 **Do:** A quiet lunch break on a bench.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kings+Road+Park+1000+Kings+Rd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Kings+Road+Park+1000+Kings+Rd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Parks Kids & family
 
@@ -1027,7 +1027,7 @@ Sources
 - [Time Out: A guide to West Hollywood](https://www.timeout.com/los-angeles/west-hollywood)
 - [LAist: Nine West Hollywood bars in one night](https://laist.com/news/food/how-to-hit-nine-bars-in-west-hollywood-in-one-night)
 - [The Infatuation: West Hollywood](https://theinfatuation.com/los-angeles/neighborhoods/west-hollywood)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 - [CBS LA: Best bars in West Hollywood](https://www.cbsnews.com/losangeles/news/best-bars-in-west-hollywood)
 - [Discotech: Best clubs in West Hollywood](https://discotech.me/los-angeles/best-clubs-in-west-hollywood-los-angeles/)
 - [Infatuation: The sceniest restaurants in West Hollywood](https://www.theinfatuation.com/los-angeles/guides/the-sceniest-restaurants-in-west-hollywood-ranked)
@@ -1183,9 +1183,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -1272,9 +1272,9 @@ Get new West Hollywood listings as they hit, including ones that aren't public y
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

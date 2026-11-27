@@ -6,7 +6,7 @@ Local LA
 
 # The best tacos and Mexican food in Los Angeles
 
-27 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+27 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -62,7 +62,7 @@ A family-run Mexican restaurant cooking everything from scratch.
 
 **Order:** Chilaquiles at brunch or the fish tacos.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=T.C.+Organic+333+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=T.C.+Organic+333+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Breakfast Lunch
 
@@ -134,7 +134,7 @@ Nayarit-style Mexican seafood that people drive across town for.
 
 **Order:** Pescado zarandeado to share, plus aguachile and shrimp tacos. Closed Tuesdays.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Coni%27Seafood+4532+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-westside-restaurants-for-eastsiders-la) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Coni%27Seafood+4532+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/best-westside-restaurants-for-eastsiders-la) [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-on-the-westside) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Seafood Lunch
 
@@ -148,7 +148,7 @@ A red taco truck in front of Mitsuwa known for loaded quesabirria with plenty of
 
 **Order:** The mini quesabirria tacos. Daytime only, closed Sundays.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Tacos+Mar+Vista+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Tacos+Mar+Vista+3760+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Cheap eats
 
@@ -162,7 +162,7 @@ A lively kosher Mexican restaurant with inventive cocktails and mocktails.
 
 **Order:** Tacos, the taquitos and a margarita.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Lenny%27s+Casita+8823+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Lenny%27s+Casita+8823+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
 
 Dinner Cocktail bars & lounges
 
@@ -224,7 +224,7 @@ A modern Mexican cafe that does breakfast through dinner, with an easygoing room
 
 **Order:** Chips, salsa and guacamole, then the mushroom mole or a breakfast burrito.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=First+Of+All+8200+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=First+Of+All+8200+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Brunch
 
@@ -410,16 +410,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

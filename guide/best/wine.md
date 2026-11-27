@@ -6,7 +6,7 @@ Local LA
 
 # The best wine bars in Los Angeles
 
-19 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+19 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -32,7 +32,7 @@ A Mediterranean small-plates restaurant and the neighborhood's go-to for a night
 
 **Order:** Share several small plates with a bottle of wine.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Bacari+PDR+6805+S+Vista+Del+Mar+Ln+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bacari+PDR+6805+S+Vista+Del+Mar+Ln+Playa+del+Rey+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Dinner Date night
 
@@ -104,7 +104,7 @@ A neighborhood French bistro with an open kitchen counter and a reasonably price
 
 **Order:** Roast chicken and potatoes with the Electric Fries, or the tasting menu at the counter.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Electric+Bleu+3523+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Electric+Bleu+3523+S+Centinela+Ave+Mar+Vista+Los+Angeles+CA) Sources: [LAist](https://laist.com/news/food/ask-a-local-mar-vista-eateries) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Dinner Date night
 
@@ -166,7 +166,7 @@ A wine and cheese shop with a sandwich counter that draws a lunch line. Closed S
 
 **Order:** A made-to-order Italian sandwich.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Larchmont+Village+Wine%2C+Spirits+%26+Cheese+223+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/la-city-guide-a-tour-of-larchmont-boulevard-in-hancock-park) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Larchmont+Village+Wine%2C+Spirits+%26+Cheese+223+N+Larchmont+Blvd+Hancock+Park+%26+Larchmont+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/things-to-do/la-city-guide-a-tour-of-larchmont-boulevard-in-hancock-park) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hancock+Park+Los+Angeles+CA)
 
 Lunch
 
@@ -294,16 +294,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

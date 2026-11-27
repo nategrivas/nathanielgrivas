@@ -6,7 +6,7 @@ Local LA
 
 # The best healthy and plant-based food in Los Angeles
 
-23 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+23 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -48,7 +48,7 @@ A two-story beach cafe by the Venice Pier that regulars hit every morning, with 
 
 **Order:** A strawberry matcha or a fresh juice and a bagel. Opens at 6am.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Cow%27s+End+Cafe+34+Washington+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Cow%27s+End+Cafe+34+Washington+Blvd+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 Coffee Breakfast
 
@@ -90,7 +90,7 @@ A fast, fresh counter-service spot with plates, salads and a wine list.
 
 **Order:** Steak frites or the ahi salad.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Urban+Plates+12746+W+Jefferson+Blvd+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Urban+Plates+12746+W+Jefferson+Blvd+Playa+Vista+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
 
 Lunch Dinner
 
@@ -106,7 +106,7 @@ A bright, friendly cafe at the west end of San Vicente with protein-forward brea
 
 **Order:** The breakfast croissant sandwich and an iced mint latte.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Parakeet+Cafe+13050+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Parakeet+Cafe+13050+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Breakfast Coffee
 
@@ -120,7 +120,7 @@ A friendly neighborhood cafe with an all-day menu and plenty of healthy options.
 
 **Order:** The pancakes, or the Thai steak salad at lunch.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=FOOD+10571+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=FOOD+10571+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Breakfast Lunch
 
@@ -148,7 +148,7 @@ A cheerful all-day cafe with lots of vegan, vegetarian and high-protein options 
 
 **Order:** A breakfast bowl and the beekeeper latte.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Hive+11705+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Hive+11705+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 Breakfast Coffee
 
@@ -328,7 +328,7 @@ A beloved vegan Vietnamese restaurant with bold flavors and owners who will happ
 
 **Order:** The lemongrass banh mi and the peanut soup, or ask Kevin to pick.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Vinh+Loi+18625+Sherman+Way%2C+%23101+Reseda+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Vinh+Loi+18625+Sherman+Way%2C+%23101+Reseda+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
 Dinner Lunch
 
@@ -356,16 +356,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

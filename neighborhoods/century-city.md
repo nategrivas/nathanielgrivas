@@ -30,7 +30,7 @@ Century City was built starting in the 1960s on land that was once the 20th Cent
 
 - **Good fit if:** You want a doorman building in the middle of the Westside.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -103,7 +103,7 @@ A neighborhood bakery cafe with pastries, sandwiches and a small patio off Santa
 
 **Order:** A pastry and coffee, or a sandwich at lunch.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Clementine+1751+Ensley+Ave+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Clementine+1751+Ensley+Ave+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
 
 Breakfast Bakeries & dessert Lunch
 
@@ -131,7 +131,7 @@ A longtime neighborhood breakfast spot known for its biscuits and big pancakes.
 
 **Order:** Pancakes or eggs with a side of biscuits.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=John+O%27+Groats+10516+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=John+O%27+Groats+10516+W+Pico+Blvd+Cheviot+Hills+%26+Rancho+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
 Breakfast Brunch
 
@@ -227,7 +227,7 @@ A Japanese-influenced California restaurant tucked under a residential tower, wi
 
 **Order:** The black cod and a cocktail on the patio.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hinoki+%26+the+Bird+10+W+Century+Dr+Century+City+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://www.opentable.com/lists/top-picks-century-city-restaurants-los-angeles) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hinoki+%26+the+Bird+10+W+Century+Dr+Century+City+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://www.opentable.com/lists/top-picks-century-city-restaurants-los-angeles) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
 
 Date night Dinner Lunch
 
@@ -273,7 +273,7 @@ A big open-air mall with a movie theater, a food hall and Eataly's multi-level I
 
 **Do:** Go on a weekday; weekend parking gets slow.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Westfield+Century+City+10250+Santa+Monica+Blvd+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Westfield+Century+City+10250+Santa+Monica+Blvd+Century+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
 
 Shopping Movies Markets
 
@@ -308,7 +308,7 @@ Markets Shopping
 Sources
 
 - [OpenTable diner reviews: Century City](https://www.opentable.com/lists/top-picks-century-city-restaurants-los-angeles)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
 
 The story of Century City
 
@@ -445,9 +445,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -534,9 +534,9 @@ Get new Century City listings as they hit, including ones that aren't public yet
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

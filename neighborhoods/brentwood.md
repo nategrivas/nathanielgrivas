@@ -30,7 +30,7 @@ Brentwood is a City of LA neighborhood west of the 405, running from the Wilshir
 
 - **Good fit if:** You want space, trees and a quiet street close to the beach.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -298,7 +298,7 @@ A small European-style espresso bar that's been Brentwood's neighborhood coffee 
 
 **Order:** A cappuccino. Park in the lot; it's validated.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Luxxe+11640+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Caffe+Luxxe+11640+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Coffee
 
@@ -312,7 +312,7 @@ A bright, friendly cafe at the west end of San Vicente with protein-forward brea
 
 **Order:** The breakfast croissant sandwich and an iced mint latte.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Parakeet+Cafe+13050+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Parakeet+Cafe+13050+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Breakfast Coffee Healthy & plant-based
 
@@ -326,7 +326,7 @@ A big, airy order-at-the-counter cafe with generous portions.
 
 **Order:** Lox benedict or the blueberry pancakes.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Coral+Tree+Cafe+11645+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Coral+Tree+Cafe+11645+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Breakfast Brunch Lunch
 
@@ -570,7 +570,7 @@ The hilltop museum with world-class art, gardens and views from downtown to the 
 
 **Do:** Reserve a time online, ride the tram up and finish in the Central Garden. Go before March 15, 2027, when it closes for about a year of renovation.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Getty+1200+Getty+Center+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA) [Getty](https://www.getty.edu/about/building-gettys-future/)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Getty+1200+Getty+Center+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA) [Getty](https://www.getty.edu/about/building-gettys-future/)
 
 Museums Art & galleries Landmarks & sights
 
@@ -584,7 +584,7 @@ UCLA's free contemporary art museum with a courtyard, a strong shop and free scr
 
 **Do:** Check the events calendar, then lunch at Lulu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
 
 Museums Art & galleries
 
@@ -612,7 +612,7 @@ A red barn-style courtyard of boutiques, a bookstore, a toy store and cafes.
 
 **Do:** Coffee, then a wander through the shops. The first hour of parking is free.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Mart+225+26th+St+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Mart+225+26th+St+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Shopping Kids & family
 
@@ -644,7 +644,7 @@ A dog-friendly ridge hike with an easy fire road and a steeper parallel trail, a
 
 **Do:** Go early or at sunset. There's no shade and little parking.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Westridge+Trailhead+and+Mandeville+Canyon+2660+Westridge+Rd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Westridge+Trailhead+and+Mandeville+Canyon+2660+Westridge+Rd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Hikes & nature Dog-friendly Fitness & outdoor sports
 
@@ -658,7 +658,7 @@ A ridgetop park at an old Cold War Nike missile site with a lookout tower and hu
 
 **Do:** Hike in from the Westridge trail, about four miles each way.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=San+Vicente+Mountain+Park+17500+Mulholland+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=San+Vicente+Mountain+Park+17500+Mulholland+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Hikes & nature Parks Landmarks & sights
 
@@ -672,7 +672,7 @@ Will Rogers' old ranch, with a polo field, horses and the Inspiration Point trai
 
 **Do:** Hike the loop to Inspiration Point.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Historic+Park+1501+Will+Rogers+State+Park+Rd+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Historic+Park+1501+Will+Rogers+State+Park+Rd+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Hikes & nature Parks Landmarks & sights
 
@@ -680,7 +680,7 @@ Sources
 
 - [The Infatuation: Best restaurants in Brentwood](https://www.theinfatuation.com/los-angeles/guides/best-restaurants-brentwood)
 - [Fodor's: Best restaurants in Brentwood](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/santa-monica-and-the-beaches/brentwood/restaurants)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 - [Getty: Building Getty's Future](https://www.getty.edu/about/building-gettys-future/)
 - [Time Out: Bar Toscana](https://www.timeout.com/los-angeles/restaurants/bar-toscana)
 
@@ -730,9 +730,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -819,9 +819,9 @@ Get new Brentwood listings as they hit, including ones that aren't public yet, o
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

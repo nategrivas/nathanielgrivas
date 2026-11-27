@@ -2,7 +2,7 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods
 
-**Not sure where to start?** Take the [6-question quiz](https://www.nathanielgrivas.com/tools/neighborhood-quiz) or ask me directly.
+**Not sure where to start?** Take the [6-question quiz](https://www.nathanielgrivas.com/tools/neighborhood-quiz) or ask Nathaniel directly.
 
 Text Call
 

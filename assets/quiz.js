@@ -33,7 +33,7 @@
     goal: [['buy', 'Buy a home to live in'], ['invest', 'Buy to rent out'], ['build', 'Build or develop'], ['rent', 'Rent a place'], ['sell', "Sell, or find out what my home is worth"]],
     budget: [['u1', 'Under $1M'], ['1to2', '$1M to $2M'], ['2to35', '$2M to $3.5M'], ['35to6', '$3.5M to $6M'], ['6p', '$6M and up'], ['lender', "Not sure yet. I'd like to talk to a lender"]],
     rentbudget: [['r3', 'Under $3,000 a month'], ['r5', '$3,000 to $5,000'], ['r8', '$5,000 to $8,000'], ['r15', '$8,000 to $15,000'], ['r15p', '$15,000 and up']],
-    pay: [['cash', 'All cash'], ['pre', 'Loan, already pre-approved'], ['loan', 'Loan, not pre-approved yet'], ['1031', '1031 exchange']],
+    pay: [['cash', 'All cash'], ['pre', 'Pre-approved loan'], ['loan', 'Need a lender'], ['self', 'Self-employed loan'], ['sfin', 'Seller financing'], ['1031', '1031 exchange']],
     when: [['now', 'Within 3 months'], ['soon', '3 to 6 months'], ['later', '6 to 12 months'], ['explore', 'Just looking for now']],
     where: Object.entries(ANCH).map(([k, v]) => [k, v[0]]),
     areas: REGIONS.map((r) => [r, { Coast: 'The coast', Westside: 'Westside', 'Beverly Hills & the Hills': 'Beverly Hills & the hills', Central: 'Hollywood & Mid-City', Eastside: 'Silver Lake, Los Feliz, Echo Park', Valley: 'The Valley' }[r]]).concat([['any', 'Anywhere the numbers work']]),
@@ -68,9 +68,9 @@
 
   const STEPS = {
     goal: { q: () => 'What are you looking to do?', o: () => 'goal', one: true, ph: 'Or type it, like "buy a duplex in Venice and live in one unit"' },
-    budget: { q: () => (A.goal === 'rent' ? 'What can you spend each month?' : "What's your budget?"), o: () => (A.goal === 'rent' ? 'rentbudget' : 'budget'),
+    budget: { q: () => (A.goal === 'rent' ? 'What can you spend each month?' : 'Your budget, and how you are paying'), o: () => (A.goal === 'rent' ? 'rentbudget' : 'budget'),
       slider: () => { const rent = A.goal === 'rent'; const vals = rent ? rentVals : buyVals; return [{ label: rent ? 'Up to, per month' : 'Up to', vals, fmt: (n) => usd(n) + (n === vals[vals.length - 1] ? '+' : ''), idx: () => near(vals, A.price || (rent ? 5000 : 1500000)), set: (n) => { A.price = n; A.budget = tierOf(n, rent); } }]; },
-      extra: () => (A.goal === 'rent' ? '' : '<div class="opts"><button type="button" class="opt' + (A.budget === 'lender' ? ' sel' : '') + '" data-v="lender">Not sure yet. I\'d like to talk to a lender</button></div>'), ph: () => (A.goal === 'rent' ? 'Or type it, like "$4,500 a month"' : 'Or type it, like "around $1.8M"') },
+      extra: () => (A.goal === 'rent' ? '' : '<p class="sld-l" style="margin:4px 0 10px">Paying with</p><div class="opts many paychips">' + OPT.pay.map(([v, l]) => '<button type="button" class="pchip opt' + (A.pay === v ? ' sel' : '') + '" data-p="' + v + '" aria-pressed="' + (A.pay === v) + '">' + esc(l) + '</button>').join('') + '</div>'), ph: () => (A.goal === 'rent' ? 'Or type it, like "$4,500 a month"' : 'Or type it, like "around $1.8M"') },
     pay: { q: () => 'How are you paying?', o: () => 'pay', one: true, ph: 'Or type it' },
     when: { q: () => (A.goal === 'rent' ? 'When do you want to move?' : A.goal === 'sell' ? 'When do you want to sell?' : A.goal === 'build' ? 'When do you want to start?' : 'When do you want to buy?'), o: () => 'when', one: true, ph: 'Or type it, like "by June"' },
     where: { q: () => 'Where do you need to be most days?', o: () => 'where', many: true, ph: 'Type a workplace, school or address, like "Cedars-Sinai" or "SpaceX"' },
@@ -92,11 +92,11 @@
   const flow = () => {
     let f;
     switch (A.goal) {
-      case 'buy': f = ['goal', 'budget', 'pay', 'when', 'where', 'must', 'home', 'beds']; break;
+      case 'buy': f = ['goal', 'budget', 'when', 'where', 'must', 'home', 'beds']; break;
       case 'rent': f = ['goal', 'budget', 'when', 'where', 'must', 'home', 'beds', 'pets']; break;
-      case 'invest': f = ['goal', 'budget', 'pay', 'strategy', 'areas', 'when']; break;
-      case 'build': f = ['goal', 'build', 'land', 'budget', 'pay', 'areas', 'when']; break;
-      case 'sell': if (!window.__intakeTest) { location.href = '/home-value/'; } f = ['goal', 'sell_addr', 'when', 'sell_next'].concat(A.sell_next === 'buyla' ? ['budget', 'pay', 'where', 'must', 'home', 'beds'] : []); break;
+      case 'invest': f = ['goal', 'budget', 'strategy', 'areas', 'when']; break;
+      case 'build': f = ['goal', 'build', 'land', 'budget', 'areas', 'when']; break;
+      case 'sell': if (!window.__intakeTest) { location.href = '/home-value/'; } f = ['goal', 'sell_addr', 'when', 'sell_next'].concat(A.sell_next === 'buyla' ? ['budget', 'where', 'must', 'home', 'beds'] : []); break;
       default: f = ['goal'];
     }
     return f.filter((k) => !(k === 'pay' && A.budget === 'lender'));
@@ -326,7 +326,8 @@
     const paint = (r) => { const x = sl[+r.dataset.i]; const v = x.vals[+r.value]; r.closest('.sld').querySelector('.sld-v').textContent = x.fmt(v); r.style.setProperty('--p', (100 * r.value / r.max) + '%'); };
     ranges.forEach((r) => { paint(r); r.addEventListener('input', () => { paint(r); sl[+r.dataset.i].set(sl[+r.dataset.i].vals[+r.value]); if (A.budget === 'lender' && cur === 'budget') { A.budget = tierOf(A.price, A.goal === 'rent'); $$('.opt', host).forEach((o) => o.classList.remove('sel')); } }); });
     const commit = () => { if (sl && !(cur === 'budget' && A.budget === 'lender')) ranges.forEach((r) => sl[+r.dataset.i].set(sl[+r.dataset.i].vals[+r.value])); };
-    $$('.opt:not(.custom)', host).forEach((b) => b.addEventListener('click', () => {
+    $$('.pchip', host).forEach((b) => b.addEventListener('click', () => { A.pay = A.pay === b.dataset.p ? undefined : b.dataset.p; $$('.pchip', host).forEach((x) => { const on = x.dataset.p === A.pay; x.classList.toggle('sel', on); x.setAttribute('aria-pressed', on); }); }));
+    $$('.opt:not(.custom):not(.pchip)', host).forEach((b) => b.addEventListener('click', () => {
       const v = b.dataset.v;
       if (st.many) {
         let arr = [].concat(A[cur] || []);
@@ -358,7 +359,7 @@
         const said = cur === 'budget' ? priceTxt() : [A.beds !== undefined ? bedTxt(A.beds) : '', A.baths !== undefined ? bathTxt(A.baths) : ''].filter(Boolean).join(', ');
         render();
         const n2 = $('.qread', host);
-        n2.innerHTML = said ? '<b>Got it:</b> ' + esc(said) : '<b>Got it.</b> I\'ll read your note.';
+        n2.innerHTML = said ? '<b>Got it:</b> ' + esc(said) : '<b>Got it.</b> Nathaniel will read your note.';
         n2.hidden = false;
         if (!said && A[cur] === undefined) A[cur] = 'other';
         setTimeout(next, 700);
@@ -377,7 +378,7 @@
         note.hidden = false;
       } else {
         if (A[cur] === undefined) A[cur] = 'other';
-        note.innerHTML = '<b>Got it.</b> I\'ll read your note.';
+        note.innerHTML = '<b>Got it.</b> Nathaniel will read your note.';
         note.hidden = false;
         setTimeout(next, 650);
       }
@@ -541,15 +542,15 @@
     };
     let html = '';
     if (matchable) {
-      html += '<p class="eyebrow">Your search</p><h2 class="h2">Here\'s what I\'ll set up</h2>' +
+      html += '<p class="eyebrow">Your search</p><h2 class="h2">Here\'s the search Nathaniel will set up</h2>' +
         '<div class="srch"><div class="crit">' + crit().map((c) => '<span>' + esc(c) + '</span>').join('') + '</div>' +
         '<div class="areas"><b>Areas</b><div class="achips"></div></div>' +
         '<div class="addrow"><span>Add</span><div class="addchips"></div></div></div>';
     } else {
-      html += '<p class="eyebrow">Your home</p><h2 class="h2">' + esc(A.sell_addr || 'Your property') + '</h2><p class="lede">I\'ll pull the recent sales around it and send you a real price range.</p>';
+      html += '<p class="eyebrow">Your home</p><h2 class="h2">' + esc(A.sell_addr || 'Your property') + '</h2><p class="lede">Nathaniel will pull the recent sales around it and send a real price range.</p>';
     }
     html += '<div class="qsend"><h3>' + (matchable ? 'Get new listings that match' : 'Get your numbers') + '</h3><p>' +
-      (matchable ? 'I\'ll save this search on Compass and send you an invite, so new homes come straight to you.' : 'Comps and a price range within a day.') + '</p></div>';
+      (matchable ? 'Nathaniel will save this search on Compass and send an invite, so new homes come straight to you.' : 'Comps and a price range within a day.') + '</p></div>';
     if (matchable) {
       html += '<h3 class="whyh">Why these areas</h3><div class="matches"></div>';
       const notes = [];
@@ -590,7 +591,7 @@
     lead.hidden = false;
     $('.qsend', res).appendChild(lead);
     lead.dataset.subject = matchable ? 'Search to set up' : 'Home value request';
-    lead.dataset.ok = matchable ? 'Got it, {name}. I\'ll set up your search on Compass and send you the invite.' : 'Got it, {name}. Your numbers are on the way within a day.';
+    lead.dataset.ok = matchable ? 'Got it, {name}. Nathaniel will set up your search on Compass and send the invite.' : 'Got it, {name}. Your numbers are on the way within a day.';
     $('input[name=looking]', lead).value = LBL('goal', A.goal) || 'Not specified';
     $('.lenderbox', lead).hidden = !matchable || A.goal === 'rent';
     const cb = $('input[name=lender]', lead); cb.checked = wantsLender;

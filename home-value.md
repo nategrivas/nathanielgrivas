@@ -2,11 +2,11 @@
 
 Source page: https://www.nathanielgrivas.com/home-value
 
-Free home valuation · Los Angeles
+Los Angeles
 
-# What's your home worth?
+# Free Home Valuation
 
-A real number from a local agent, built by hand from the latest sales on your street. Free, within 24 hours, no obligation.
+Find out what your home is worth from a data-driven pricing method, checked block by block by a local agent. Free, within 24 hours, no obligation.
 
 - Your value range from the most recent sales near you
 - What you'd walk away with after transfer taxes and costs
@@ -15,15 +15,39 @@ A real number from a local agent, built by hand from the latest sales on your st
 
 [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o) $100M+ in annual team sales Compass Beverly Hills
 
+The method
+
+## A data-driven price, checked by a local
+
+Your valuation combines current sales data with what only shows up on the street. Then it is read against today's market.
+
+### Every recent sale, not an algorithm's guess
+
+Nathaniel pulls every sale, pending and active listing around your home, then adjusts each one for size, lot, condition, upgrades and the exact block. Automated estimates skip that last mile.
+
+### Block by block, not ZIP by ZIP
+
+Los Angeles prices change when you cross a street. Your home is measured against the pocket it actually sits in, using boundaries drawn from the street grid and sold prices.
+
+### What the land is worth too
+
+Lot size, zoning, ADU room and what a builder would pay. On some lots the land is worth more than the house, and that changes the price and the buyer you market to.
+
+### The market sets the strategy
+
+The same home sells differently when inventory is tight than when it is piling up. Days on market, sale-to-list ratios and new supply decide the list price and how to launch it.
+
+[See this week's Market Temperature →](https://www.nathanielgrivas.com/market-temperature)
+
 How it works
 
 ## Your number in three steps
 
 - 1 **Confirm your home**
 
-Type the address. I pull the county record for beds, baths, square feet and lot, and you just confirm it.
+Type the address. Nathaniel pulls the county record for beds, baths, square feet and lot, and you just confirm it.
 
-- 2 **I pull the sales by hand**
+- 2 **He pulls the sales by hand**
 
 Recent sales and pendings on your street, adjusted for your upgrades and lot.
 
@@ -35,13 +59,13 @@ Track record
 
 ## Recent results
 
-[616 N Fuller Ave, Fairfax $3,275,000. Both sides. A seller-financed sale: the sellers carried the loan, and I represented the buyer and the sellers. See how →](https://www.nathanielgrivas.com/homes/616-fuller) [18748 Lanark St, Reseda 15.6% over asking 7 offers in 9 days after I marketed it to builders as a land play. Sold for $1,155,000. See how →](https://www.nathanielgrivas.com/homes/18748-lanark) [14757 Hartland St, Van Nuys Won in multiple offers Then I priced every inspection item and took $31,000 off in escrow, on a contract that said no credits. See how →](https://www.nathanielgrivas.com/homes/14757-hartland)
+[616 N Fuller Ave, Fairfax Both sides, seller financed The sellers carried the loan, and Nathaniel represented the buyer and the sellers. See how →](https://www.nathanielgrivas.com/homes/616-fuller) [18748 Lanark St, Reseda 15.6% over asking 7 offers in 9 days after Nathaniel marketed it to builders as a land play. Sold for $1,155,000. See how →](https://www.nathanielgrivas.com/homes/18748-lanark) [14757 Hartland St, Van Nuys Won in multiple offers Then Nathaniel priced every inspection item and took $31,000 off in escrow, on a contract that said no credits. See how →](https://www.nathanielgrivas.com/homes/14757-hartland)
 
 Reviews
 
 ## What clients say
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “We had a great experience working with our realtor, Nate [Grivas] in selling our Reseda property. He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market. His communication and coordination skills were excellent, keeping us informed throughout the entire process and making sure everything moved smoothly. Selling a property can be stressful, especially when multiple parties are involved, but he handled everything with confidence, responsiveness, and attention to detail. We truly appreciate his hard work and commitment and would gladly recommend him to anyone looking for a hardworking, dependable, and capable real estate agent. He definitely has a bright future ahead of him!”
 
@@ -59,7 +83,7 @@ Buying, selling or investing, you get more than an agent. You get every resource
 
 ### Off-market and coming-soon homes
 
-Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow.
+Compass Private Exclusives and The Brodsky Group's off-market list. Many of the best homes trade before they ever reach Zillow.
 
 ### Lenders for every kind of buyer
 
@@ -67,19 +91,19 @@ Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR
 
 ### Creative deal structures
 
-Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan.
+Seller financing, leasebacks, assignments and 1031 exchanges, structured so every side is protected.
 
 ### Developers and builders
 
-Land plays, teardowns and ADUs. I marketed a Reseda lot to builders, drew seven offers in nine days and sold it 15.6% over asking.
+Land plays, teardowns and ADUs, priced on what can be built, not only on what stands there now.
 
 ### The right people for every step
 
-Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need.
+Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and Nathaniel brings in whoever you need.
 
 ### Complicated is fine
 
-Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out.
+Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to Nathaniel and he'll figure it out.
 
 [What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
 
@@ -89,27 +113,27 @@ Questions
 
 How is this different from a Zestimate?
 
-I build your number by hand from the most recent sales near you, then adjust for what algorithms can't see: your upgrades, your condition, your lot and your street. You get a range and the sales behind it.
+Nathaniel builds your number by hand from the most recent sales near you, then adjust for what algorithms can't see: your upgrades, your condition, your lot and your street. You get a range and the sales behind it.
 
 Does it cost anything?
 
-No. The valuation is free, and you're under no obligation to list with me.
+No. The valuation is free, and you're under no obligation to list with him.
 
 How fast will I get it?
 
 Within 24 hours, usually the same day. Call or text 310-269-5541 if you need it sooner.
 
-Will you tell me what I'd walk away with?
+Will the valuation show what I'd walk away with?
 
-Yes. I include an estimate of your net after transfer taxes, Measure ULA where it applies, and typical selling costs.
+Yes. Nathaniel includes an estimate of your net after transfer taxes, Measure ULA where it applies, and typical selling costs.
 
-My home needs work, has tenants or has additions without permits. Can you still value it?
+My home needs work, has tenants or has additions without permits. Can it still be valued?
 
-Yes. Tell me what's going on and I'll price it as it stands, plus what it could sell for if you fixed the few things that pay off.
+Yes. Share what's going on and Nathaniel will price it as it stands, plus what it could sell for if you fixed the few things that pay off.
 
 Can I sell without putting my home on the open market?
 
-Yes. Compass Private Exclusives and my team's buyer network let you sell quietly to qualified buyers first, and still test the open market later if you want.
+Yes. Compass Private Exclusives and The Brodsky Group's buyer network let you sell quietly to qualified buyers first, and still test the open market later if you want.
 
 Which areas do you value?
 
@@ -117,7 +141,7 @@ West LA, Beverly Hills, the coast from Westchester to Malibu, Hollywood, Silver 
 
 ## Ready when you are
 
-It takes about a minute. Or call or text 310-269-5541 and talk to me now.
+It takes about a minute. Or call or text 310-269-5541 and talk to Nathaniel now.
 
 Get my home value Call 310-269-5541
 

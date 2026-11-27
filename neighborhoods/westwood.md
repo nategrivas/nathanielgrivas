@@ -30,7 +30,7 @@ Westwood is the City of LA neighborhood around UCLA, from the Wilshire Corridor 
 
 - **Good fit if:** You want a condo with service, or a classic house close to UCLA.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -121,7 +121,7 @@ A Yemeni coffeehouse with comfortable seating upstairs, board games and late hou
 
 **Order:** The pumpkin chai or a Yemeni coffee.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+939+Broxton+Ave+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sana%27a+Cafe+939+Broxton+Ave+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
 
 Coffee Late night
 
@@ -135,7 +135,7 @@ A cozy local coffee shop with good music and Wi-Fi.
 
 **Order:** The iced vanilla latte with house-made syrup.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sipp+Coffee+House+1427+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sipp+Coffee+House+1427+Westwood+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
 
 Coffee
 
@@ -449,7 +449,7 @@ UCLA's free contemporary art museum with a courtyard, a strong shop and free scr
 
 **Do:** Check the events calendar, then lunch at Lulu.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum+10899+Wilshire+Blvd+Westwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
 
 Museums Art & galleries
 
@@ -477,7 +477,7 @@ The hilltop museum with world-class art, gardens and views from downtown to the 
 
 **Do:** Reserve a time online, ride the tram up and finish in the Central Garden. Go before March 15, 2027, when it closes for about a year of renovation.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Getty+1200+Getty+Center+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA) [Getty](https://www.getty.edu/about/building-gettys-future/)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Getty+1200+Getty+Center+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA) [Getty](https://www.getty.edu/about/building-gettys-future/)
 
 Museums Art & galleries Landmarks & sights
 
@@ -485,7 +485,7 @@ Sources
 
 - [The Infatuation: Where to eat in Westwood](https://theinfatuation.com/los-angeles/guides/where-to-eat-in-westwood)
 - [The Infatuation: Westwood](https://theinfatuation.com/los-angeles/neighborhoods/westwood)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
 
 The story of Westwood
 
@@ -627,9 +627,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -716,9 +716,9 @@ Get new Westwood listings as they hit, including ones that aren't public yet, or
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

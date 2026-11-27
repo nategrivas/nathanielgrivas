@@ -20,7 +20,7 @@ Sold for $3,275,000
 
 **2016** Built
 
-A three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000 with seller financing, representing both the sellers and the buyer.
+A three-level modern home with a pool in the Fairfax District. Nathaniel sold it with seller financing, representing both the sellers and the buyer.
 
 Get a result like this Call 310-269-5541
 
@@ -30,9 +30,9 @@ The home
 
 A 2016 modern home on a 7,334 sq ft lot in the Fairfax District: seven bedrooms, eight baths and three levels, with a pool.
 
-I structured the sale with seller financing: the sellers carried the loan, so my buyer closed at $3,275,000 without a bank. It took a creative structure, firm protections for the sellers and a lot of coordination, and it closed in October 2026.
+Nathaniel structured the sale with seller financing: the sellers carried the loan, so his buyer closed without a bank. It took a creative structure, firm protections for the sellers and a lot of coordination, and it closed in October 2026.
 
-I represented both the sellers and the buyer. Deals like this are why I say complicated is fine. If the numbers only work with a creative structure, bring it to me and I'll figure it out.
+He represented both the sellers and the buyer. Deals like this are why he says complicated is fine. If the numbers only work with a creative structure, bring it to him and he'll figure it out.
 
 Also featured
 
@@ -48,7 +48,7 @@ Seller financing, off-market buyers, lenders for every situation and a $100M+ te
 
 ### Off-market and coming-soon homes
 
-Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow.
+Compass Private Exclusives and The Brodsky Group's off-market list. Many of the best homes trade before they ever reach Zillow.
 
 ### Lenders for every kind of buyer
 
@@ -56,25 +56,25 @@ Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR
 
 ### Creative deal structures
 
-Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan.
+Seller financing, leasebacks, assignments and 1031 exchanges, structured so every side is protected.
 
 ### Developers and builders
 
-Land plays, teardowns and ADUs. I marketed a Reseda lot to builders, drew seven offers in nine days and sold it 15.6% over asking.
+Land plays, teardowns and ADUs, priced on what can be built, not only on what stands there now.
 
 ### The right people for every step
 
-Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need.
+Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and Nathaniel brings in whoever you need.
 
 ### Complicated is fine
 
-Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out.
+Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to Nathaniel and he'll figure it out.
 
 [What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
 
 From this sale
 
-## What my sellers said
+## What the sellers said
 
 [5.0 Read it on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
@@ -86,16 +86,16 @@ Free, no obligation
 
 ## Want a result like this?
 
-Find out what your home is worth, or tell me what you're looking for. Creative deals welcome.
+Find out what your home is worth, or share what you're looking for. Creative deals welcome.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

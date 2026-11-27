@@ -6,13 +6,13 @@ Buying in Los Angeles
 
 # Find your home, including the ones that never hit Zillow
 
-Tell me what you want. I'll send homes that fit from the MLS, Compass coming-soon listings and my team's off-market list, and line up the right lender for your situation.
+Share what you want. Nathaniel will send homes that fit from the MLS, Compass coming-soon listings and The Brodsky Group's off-market list, and line up the right lender for your situation.
 
 - New listings that fit, the day they hit
 - Compass Private Exclusives and off-market homes
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
-- Offers that win, and negotiation after: I took $31,000 off Hartland in escrow
+- Offers that win, and negotiation that keeps going through escrow
 
 [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o) $100M+ in annual team sales Compass Beverly Hills
 
@@ -20,13 +20,13 @@ Track record
 
 ## Recent results
 
-[616 N Fuller Ave, Fairfax $3,275,000. Both sides. A seller-financed sale: the sellers carried the loan, and I represented the buyer and the sellers. See how →](https://www.nathanielgrivas.com/homes/616-fuller) [18748 Lanark St, Reseda 15.6% over asking 7 offers in 9 days after I marketed it to builders as a land play. Sold for $1,155,000. See how →](https://www.nathanielgrivas.com/homes/18748-lanark) [14757 Hartland St, Van Nuys Won in multiple offers Then I priced every inspection item and took $31,000 off in escrow, on a contract that said no credits. See how →](https://www.nathanielgrivas.com/homes/14757-hartland)
+[616 N Fuller Ave, Fairfax Both sides, seller financed The sellers carried the loan, and Nathaniel represented the buyer and the sellers. See how →](https://www.nathanielgrivas.com/homes/616-fuller) [18748 Lanark St, Reseda 15.6% over asking 7 offers in 9 days after Nathaniel marketed it to builders as a land play. Sold for $1,155,000. See how →](https://www.nathanielgrivas.com/homes/18748-lanark) [14757 Hartland St, Van Nuys Won in multiple offers Then Nathaniel priced every inspection item and took $31,000 off in escrow, on a contract that said no credits. See how →](https://www.nathanielgrivas.com/homes/14757-hartland)
 
 Reviews
 
 ## What clients say
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “We had a great experience working with our realtor, Nate [Grivas] in selling our Reseda property. He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market. His communication and coordination skills were excellent, keeping us informed throughout the entire process and making sure everything moved smoothly. Selling a property can be stressful, especially when multiple parties are involved, but he handled everything with confidence, responsiveness, and attention to detail. We truly appreciate his hard work and commitment and would gladly recommend him to anyone looking for a hardworking, dependable, and capable real estate agent. He definitely has a bright future ahead of him!”
 
@@ -44,7 +44,7 @@ Buying, selling or investing, you get more than an agent. You get every resource
 
 ### Off-market and coming-soon homes
 
-Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow.
+Compass Private Exclusives and The Brodsky Group's off-market list. Many of the best homes trade before they ever reach Zillow.
 
 ### Lenders for every kind of buyer
 
@@ -52,19 +52,19 @@ Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR
 
 ### Creative deal structures
 
-Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan.
+Seller financing, leasebacks, assignments and 1031 exchanges, structured so every side is protected.
 
 ### Developers and builders
 
-Land plays, teardowns and ADUs. I marketed a Reseda lot to builders, drew seven offers in nine days and sold it 15.6% over asking.
+Land plays, teardowns and ADUs, priced on what can be built, not only on what stands there now.
 
 ### The right people for every step
 
-Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need.
+Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and Nathaniel brings in whoever you need.
 
 ### Complicated is fine
 
-Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out.
+Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to Nathaniel and he'll figure it out.
 
 [What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
 
@@ -72,29 +72,29 @@ Questions
 
 ## Buying questions
 
-Can you really get me off-market homes?
+Can Nathaniel really get me off-market homes?
 
-Yes. Compass Private Exclusives and coming-soon listings, plus my team's off-market list, go to my buyers before the public. Many of the best homes trade there first.
+Yes. Compass Private Exclusives and coming-soon listings, plus The Brodsky Group's off-market list, go to Nathaniel's buyers before the public. Many of the best homes trade there first.
 
 I'm self-employed. Can I still get pre-approved?
 
-Yes. I work with lenders who use bank statements instead of tax returns, DSCR loans for investors and other non-traditional programs.
+Yes. Nathaniel works with lenders who use bank statements instead of tax returns, DSCR loans for investors and other non-traditional programs.
 
 What is seller financing, and can I use it?
 
-The seller carries the loan instead of a bank. I closed 616 N Fuller Ave at $3,275,000 this way. It works on the right property with the right seller, and I know how to ask.
+The seller carries the loan instead of a bank. Nathaniel closed 616 N Fuller Ave this way. It works on the right property with the right seller, and he knows how to ask.
 
-Does it cost me anything to work with you as a buyer?
+Does it cost me anything to work with Nathaniel as a buyer?
 
-My compensation is set in a written buyer agreement before we tour, and it's often paid by the seller. I'll walk you through it before anything is signed.
+His compensation is set in a written buyer agreement before any tour, and it's often paid by the seller. He'll walk you through it before anything is signed.
 
-How fast will I hear from you?
+How fast will I hear back?
 
 Today. Call or text 310-269-5541 if you want to talk now.
 
 ## Ready when you are
 
-It takes about a minute. Or call or text 310-269-5541 and talk to me now.
+It takes about a minute. Or call or text 310-269-5541 and talk to Nathaniel now.
 
 Start my search Call 310-269-5541
 

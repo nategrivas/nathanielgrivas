@@ -30,7 +30,7 @@ Encino is a City of LA neighborhood in the south Valley, west of Sherman Oaks, w
 
 - **Good fit if:** You want land and privacy in the Valley, or an easy condo near Ventura.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -115,7 +115,7 @@ A friendly coffee bar that also makes rolled ice cream.
 
 **Order:** A strawberry matcha or an iced mocha.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Aurora+Coffee+%26+Creamery+16550+Ventura+Blvd%2C+%23110+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Aurora+Coffee+%26+Creamery+16550+Ventura+Blvd%2C+%23110+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 Coffee
 
@@ -143,7 +143,7 @@ An intimate omakase counter where the chef talks you through every piece. A spec
 
 **Order:** Book the omakase well ahead and arrive on time.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Shin+Sushi+16573+Ventura+Blvd+Encino+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Shin+Sushi+16573+Ventura+Blvd+Encino+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 Sushi & Japanese Date night
 
@@ -157,7 +157,7 @@ A classic steak and seafood house, known for prime rib and its holiday decoratio
 
 **Order:** Prime rib or a ribeye with a baked potato.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Davenport%27s+16120+Ventura+Blvd+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Davenport%27s+16120+Ventura+Blvd+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 Dinner Date night
 
@@ -171,7 +171,7 @@ An upscale kosher dairy restaurant serving fish, Mediterranean plates and sushi.
 
 **Order:** A fish main with the sides, and the bread with za'atar butter.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=POPULAR+18047+Ventura+Blvd+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=POPULAR+18047+Ventura+Blvd+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 Dinner Date night Seafood
 
@@ -189,7 +189,7 @@ A small historic park with an 1800s adobe, a spring-fed duck pond and citrus tre
 
 **Do:** Come on the third Sunday of the month for the blacksmith demonstration.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Los+Encinos+State+Historic+Park+16756+Moorpark+St+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Los+Encinos+State+Historic+Park+16756+Moorpark+St+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 Parks Landmarks & sights Kids & family
 
@@ -203,7 +203,7 @@ A big park around a lake with a 1.3-mile loop path, paddle boats and plenty of b
 
 **Do:** Walk the loop in the morning; come in spring for the cherry blossoms.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Park+6300+Balboa+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Park+6300+Balboa+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Parks Kids & family Dog-friendly
 
@@ -217,7 +217,7 @@ A peaceful formal garden with waterfalls, koi ponds and a teahouse in the Sepulv
 
 **Do:** Check the hours before you go; it keeps limited days.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Japanese+Garden+6100+Woodley+Ave+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Japanese+Garden+6100+Woodley+Ave+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Parks Landmarks & sights
 
@@ -228,7 +228,7 @@ What's my home worth? Get Encino listings
 Sources
 
 - [The Infatuation: San Fernando Valley](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 The story of Encino
 
@@ -333,7 +333,7 @@ Sources for this history
 
 Track record
 
-## My deals in Encino
+## Nathaniel's deals in Encino
 
 [All listings →](https://www.nathanielgrivas.com/listings)
 
@@ -377,9 +377,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -466,9 +466,9 @@ Get new Encino listings as they hit, including ones that aren't public yet, or f
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

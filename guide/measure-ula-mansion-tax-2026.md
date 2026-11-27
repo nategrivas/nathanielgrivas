@@ -63,7 +63,7 @@ This is general information, not tax or legal advice. Talk to your CPA or attorn
 
 ### Curious what your home would sell for?
 
-I'll pull the real comps for your street and tell you straight, no listing pitch attached.
+Nathaniel pulls the real comps for your street and gives it to you straight, no listing pitch attached.
 
 Call or text 310-269-5541 Send a message
 
@@ -113,16 +113,16 @@ Free, no obligation
 
 ## Let's get you a number, or a home
 
-Pick one. It takes about a minute, and you'll hear from me today.
+Pick one. It takes about a minute, and you'll hear back today.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

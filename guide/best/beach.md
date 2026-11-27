@@ -6,7 +6,7 @@ Local LA
 
 # The best beaches in Los Angeles
 
-11 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+11 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -48,7 +48,7 @@ A huge, clean stretch of sand with lifeguards, showers and easy parking right ne
 
 **Do:** A full beach day with kids.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Zuma+Beach+Zuma+Beach+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Zuma+Beach+Zuma+Beach+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
 
 Kids & family Fitness & outdoor sports
 
@@ -62,7 +62,7 @@ A beach and a short bluff hike with sweeping views, wildflowers in spring and wh
 
 **Do:** Hike the headland at sunset.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Point+Dume+State+Beach+6800+Westward+Beach+Rd+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Point+Dume+State+Beach+6800+Westward+Beach+Rd+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
 
 Hikes & nature
 
@@ -76,7 +76,7 @@ A dramatic cove of sea stacks, arches and small caves at the bottom of a steep p
 
 **Do:** Go for sunset, but leave before the lot closes.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=El+Matador+State+Beach+32350+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=El+Matador+State+Beach+32350+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
 
 Landmarks & sights
 
@@ -90,7 +90,7 @@ A calm, wave-free harbor beach with a lifeguard, a playground and easy kayak and
 
 **Do:** Bring little kids, or launch a paddleboard.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Mothers+Beach+4101+Admiralty+Way+Marina+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
 Kids & family Fitness & outdoor sports
 
@@ -104,7 +104,7 @@ A wide beach with fire pits, a bike path and jets taking off from LAX right over
 
 **Do:** Arrive early on weekends to claim a fire pit.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach+12000+Vista+Del+Mar+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach+12000+Vista+Del+Mar+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Landmarks & sights
 
@@ -174,16 +174,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

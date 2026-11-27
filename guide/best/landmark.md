@@ -6,7 +6,7 @@ Local LA
 
 # The best landmarks in Los Angeles
 
-65 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+65 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -48,7 +48,7 @@ A dramatic cove of sea stacks, arches and small caves at the bottom of a steep p
 
 **Do:** Go for sunset, but leave before the lot closes.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=El+Matador+State+Beach+32350+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=El+Matador+State+Beach+32350+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
 
 Beaches
 
@@ -62,7 +62,7 @@ The Getty's re-created Roman villa, with Greek and Roman antiquities and gardens
 
 **Do:** Reserve online and pay for parking; pair it with lunch on PCH. It stays open while the Getty Center closes for renovation in 2027, with some Center paintings on view here.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Getty+Villa+17985+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA) [Getty](https://www.getty.edu/about/building-gettys-future/)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Getty+Villa+17985+Pacific+Coast+Hwy+Malibu+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA) [Getty](https://www.getty.edu/about/building-gettys-future/)
 
 Museums Art & galleries
 
@@ -76,7 +76,7 @@ The neighborhood's walkable town square of shops, restaurants and lawns, reopene
 
 **Do:** Walk the lawns, shop, then lunch on Swarthmore.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Palisades+Village+15225+Palisades+Village+Ln+Pacific+Palisades+Los+Angeles+CA) Sources: [ABC7](https://abc7.com/story/hundreds-gather-grand-reopening-palisades-village-year-half-fire-damage-renovations/19685457/) [Los Angeles Magazine](https://lamag.com/news/palisades-village-re-opens-celebrating-a-sense-of-normalcy-and-resilience/) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Palisades+Village+15225+Palisades+Village+Ln+Pacific+Palisades+Los+Angeles+CA) Sources: [ABC7](https://abc7.com/story/hundreds-gather-grand-reopening-palisades-village-year-half-fire-damage-renovations/19685457/) [Los Angeles Magazine](https://lamag.com/news/palisades-village-re-opens-celebrating-a-sense-of-normalcy-and-resilience/) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Shopping Kids & family
 
@@ -90,7 +90,7 @@ Will Rogers' old ranch, with a polo field, horses and the Inspiration Point trai
 
 **Do:** Hike the loop to Inspiration Point.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Historic+Park+1501+Will+Rogers+State+Park+Rd+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Historic+Park+1501+Will+Rogers+State+Park+Rd+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Hikes & nature Parks Dog-friendly
 
@@ -104,7 +104,7 @@ A wide beach with fire pits, a bike path and jets taking off from LAX right over
 
 **Do:** Arrive early on weekends to claim a fire pit.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach+12000+Vista+Del+Mar+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach+12000+Vista+Del+Mar+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Beaches
 
@@ -288,7 +288,7 @@ The hilltop museum with world-class art, gardens and views from downtown to the 
 
 **Do:** Reserve a time online, ride the tram up and finish in the Central Garden. Go before March 15, 2027, when it closes for about a year of renovation.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Getty+1200+Getty+Center+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA) [Getty](https://www.getty.edu/about/building-gettys-future/)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Getty+1200+Getty+Center+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA) [Getty](https://www.getty.edu/about/building-gettys-future/)
 
 Museums Art & galleries
 
@@ -302,7 +302,7 @@ A ridgetop park at an old Cold War Nike missile site with a lookout tower and hu
 
 **Do:** Hike in from the Westridge trail, about four miles each way.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=San+Vicente+Mountain+Park+17500+Mulholland+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=San+Vicente+Mountain+Park+17500+Mulholland+Dr+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Hikes & nature Parks
 
@@ -486,7 +486,7 @@ The 1929 Laurel Canyon market linked to the area's 1960s music scene, with a del
 
 **Order:** A deli sandwich on the terrace and a look at the photos on the walls.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Canyon+Country+Store+2108+Laurel+Canyon+Blvd+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Canyon+Country+Store+2108+Laurel+Canyon+Blvd+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
 
 Lunch Shopping
 
@@ -500,7 +500,7 @@ A short, easy walk to the cave used as the Batcave in the 1960s TV show, with a 
 
 **Do:** Go early for parking, then keep going on the Brush Canyon trail.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+3200+Canyon+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+3200+Canyon+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
 
 Hikes & nature Kids & family
 
@@ -696,7 +696,7 @@ LA's biggest art museum, with the new David Geffen Galleries inside and Chris Bu
 
 **Do:** Urban Light at dusk, then the galleries.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=LACMA+5905+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=LACMA+5905+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Museums Art & galleries
 
@@ -710,7 +710,7 @@ Ice Age asphalt seeps and active excavation sites in the park. The museum buildi
 
 **Do:** Walk to the Lake Pit and look for the tar bubbling up.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+5801+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [La Brea Tar Pits](https://tarpits.org/last-chance) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits+5801+Wilshire+Blvd+Miracle+Mile+Los+Angeles+CA) Sources: [La Brea Tar Pits](https://tarpits.org/last-chance) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
 Parks Kids & family
 
@@ -820,7 +820,7 @@ A palm-ringed lake with swan pedal boats, a fountain and a walking loop. The lot
 
 **Do:** Rent a swan boat at sunset.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Echo+Park+Lake+751+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-restaurants-in-echo-park) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Echo+Park+Lake+751+Echo+Park+Ave+Echo+Park+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/the-best-restaurants-in-echo-park) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Parks Kids & family
 
@@ -906,7 +906,7 @@ A small historic park with an 1800s adobe, a spring-fed duck pond and citrus tre
 
 **Do:** Come on the third Sunday of the month for the blacksmith demonstration.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Los+Encinos+State+Historic+Park+16756+Moorpark+St+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Los+Encinos+State+Historic+Park+16756+Moorpark+St+Encino+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 Parks Kids & family
 
@@ -920,7 +920,7 @@ A peaceful formal garden with waterfalls, koi ponds and a teahouse in the Sepulv
 
 **Do:** Check the hours before you go; it keeps limited days.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Japanese+Garden+6100+Woodley+Ave+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Japanese+Garden+6100+Woodley+Ave+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Parks
 
@@ -934,16 +934,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

@@ -6,7 +6,7 @@ Local LA
 
 # The best sushi and Japanese food in Los Angeles
 
-29 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+29 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -324,7 +324,7 @@ An intimate omakase counter where the chef talks you through every piece. A spec
 
 **Order:** Book the omakase well ahead and arrive on time.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Shin+Sushi+16573+Ventura+Blvd+Encino+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Shin+Sushi+16573+Ventura+Blvd+Encino+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
 Date night
 
@@ -338,7 +338,7 @@ A busy, multi-room sushi restaurant where the bar is the place to sit.
 
 **Order:** Nigiri at the bar, plus the spicy tuna crispy rice.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Chiba+7515+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Chiba+7515+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Dinner
 
@@ -408,7 +408,7 @@ A busy neighborhood sushi bar with an all-you-can-eat option.
 
 **Order:** Sit at the sushi bar.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=So+Sushi+19522+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=So+Sushi+19522+Ventura+Blvd+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Dinner
 
@@ -422,7 +422,7 @@ A lively, high-end sushi restaurant with fish sourced from Japan, in an unassumi
 
 **Order:** Start with the omakase; come back for the loaded chirashi at lunch.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Brothers+Sushi+21418+Ventura+Blvd+Woodland+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Brothers+Sushi+21418+Ventura+Blvd+Woodland+Hills+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Woodland+Hills+CA)
 
 Date night Lunch
 
@@ -436,16 +436,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

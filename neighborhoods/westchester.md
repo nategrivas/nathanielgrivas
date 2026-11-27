@@ -30,7 +30,7 @@ Westchester grew up in the 1940s around LAX and the aircraft plants. It's a City
 
 - **Good fit if:** You want a house and a yard on the Westside for less, and you fly a lot.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -109,7 +109,7 @@ A coffee roaster with a roomy cafe, good wifi and easy parking, popular for work
 
 **Order:** A flat white with a pastry.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Boy+%26+The+Bear+7403+S+La+Tijera+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Boy+%26+The+Bear+7403+S+La+Tijera+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Coffee
 
@@ -123,7 +123,7 @@ A busy corner cafe minutes from LAX with a long breakfast menu and house-made bi
 
 **Order:** An omelet with the Potatoes O'Brien and a biscuit.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Coffee+Company+8751+S+La+Tijera+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Coffee+Company+8751+S+La+Tijera+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Breakfast Brunch Coffee
 
@@ -155,7 +155,7 @@ A seasonal, garden-to-table restaurant and bakery with a rooftop patio that look
 
 **Order:** Morning pastries, or dinner on the roof.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tomat+6261+W+87th+St+Westchester+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-Los-angeles) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Tomat+6261+W+87th+St+Westchester+Los+Angeles+CA) Sources: [Time Out](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-Los-angeles) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Date night Dinner Brunch
 
@@ -183,7 +183,7 @@ A newer Japanese restaurant known for handmade udon and katsu sets.
 
 **Order:** Handmade udon with tempura.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Shokudo+6224+W+Manchester+Ave+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Shokudo+6224+W+Manchester+Ave+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Dinner Lunch
 
@@ -197,7 +197,7 @@ A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy
 
 **Order:** A whiskey sour and the Sichuan wings.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Cocktail bars & lounges Dinner Date night
 
@@ -209,7 +209,7 @@ Sources
 
 - [Time Out: The best restaurants in LA](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-Los-angeles)
 - [OpenTable diner reviews: LAX / Westchester](https://opentable.com.au/features/best-restaurants-for-foodies-lax-ca)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 The story of Westchester
 
@@ -350,9 +350,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -431,9 +431,9 @@ Get new Westchester listings as they hit, including ones that aren't public yet,
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

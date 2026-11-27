@@ -30,7 +30,7 @@ North Hollywood is a City of LA neighborhood in the east Valley, where the Metro
 
 - **Good fit if:** You want a train, a scene and Valley prices.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -103,7 +103,7 @@ A bright Arts District coffee bar with creative lattes and plenty of dairy-free 
 
 **Order:** The panela canela latte.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Moxie+Coffee+Bar+5300+Lankershim+Blvd%2C+Suite+115+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Moxie+Coffee+Bar+5300+Lankershim+Blvd%2C+Suite+115+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Coffee
 
@@ -117,7 +117,7 @@ A bakery cafe with a hidden, plant-filled back patio and generous breakfast plat
 
 **Order:** A pastry and a sandwich out on the patio.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Rochelle+Bakery+%26+Cafe+5050+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=La+Rochelle+Bakery+%26+Cafe+5050+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Bakeries & dessert Breakfast Coffee
 
@@ -131,7 +131,7 @@ The Garland hotel's restaurant, with a big courtyard patio and an easy weekend b
 
 **Order:** The short rib burger and a martini.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Front+Yard+4222+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Front+Yard+4222+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Brunch Dinner
 
@@ -149,7 +149,7 @@ Texas-style barbecue smoked in the alley out back, mostly for takeout.
 
 **Order:** Brisket, ribs and burnt ends with the baked beans.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Swinging+Door+BBQ+11018+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Swinging+Door+BBQ+11018+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Lunch Dinner
 
@@ -163,7 +163,7 @@ A Lebanese restaurant with a garden patio and bread baked fresh in an outdoor ov
 
 **Order:** Kebab platters and the hot mezze.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hayat%27s+Kitchen+11009+Burbank+Blvd%2C+%23117+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hayat%27s+Kitchen+11009+Burbank+Blvd%2C+%23117+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Lunch Dinner
 
@@ -177,7 +177,7 @@ A no-frills counter turning out some of the best smash burgers in the Valley.
 
 **Order:** A double with the loaded fries.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Valley+Smash+Burgers+5206+Laurel+Canyon+Blvd+Valley+Village+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Valley+Smash+Burgers+5206+Laurel+Canyon+Blvd+Valley+Village+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
 
 Cheap eats Lunch
 
@@ -199,7 +199,7 @@ A small family-run Thai restaurant open since 1984 and one of the most important
 
 **Order:** Crispy rice salad and the panang curry.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sri+Siam+Cafe+12843+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sri+Siam+Cafe+12843+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Dinner Lunch
 
@@ -213,7 +213,7 @@ A busy, multi-room sushi restaurant where the bar is the place to sit.
 
 **Order:** Nigiri at the bar, plus the spicy tuna crispy rice.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Chiba+7515+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Chiba+7515+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Sushi & Japanese Dinner
 
@@ -227,7 +227,7 @@ One of LA's few Puerto Rican restaurants, with friendly servers who walk first-t
 
 **Order:** The appetizer platter, then a carne guisada mofongo.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mofongos+5757+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Mofongos+5757+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Dinner Lunch
 
@@ -245,7 +245,7 @@ A restored 1940s bar in a building shaped like a giant barrel, with a big patio 
 
 **Order:** Happy hour out on the patio.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Idle+Hour+4824+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Idle+Hour+4824+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Cocktail bars & lounges Brunch
 
@@ -287,7 +287,7 @@ A restored 1920s theater in the Arts District hosting plays, musicals and concer
 
 **Do:** Grab a drink at the theater's bar before the show.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Portal+Theatre+5269+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=El+Portal+Theatre+5269+Lankershim+Blvd+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Movies Live music
 
@@ -301,7 +301,7 @@ Weekend-only Thai street food stalls on the grounds of a Buddhist temple. You tr
 
 **Do:** Arrive before noon, when the popular stalls start to sell out.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Wat+Thai+Food+Court+8225+Coldwater+Canyon+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Wat+Thai+Food+Court+8225+Coldwater+Canyon+Ave+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Markets Cheap eats Lunch
 
@@ -309,7 +309,7 @@ Sources
 
 - [The Infatuation: North Hollywood](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood)
 - [The Infatuation: Studio City](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 The story of North Hollywood
 
@@ -447,9 +447,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -528,9 +528,9 @@ Get new North Hollywood listings as they hit, including ones that aren't public 
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

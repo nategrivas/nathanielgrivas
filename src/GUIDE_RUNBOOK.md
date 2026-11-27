@@ -43,7 +43,7 @@ A place gets in only if it passes two tests: real people rate it highly, and it 
    Drop anything Google shows as closed. Never put Google stars, counts or review text on the
    site; the write-up stays in our own words. A local favorite that only Google covers can still
    get in: give it the neighborhood's "gm" source key
-   (["Google Maps reviews (local favorites we checked)", "https://www.google.com/maps/search/?api=1&query=<Area>+CA"])
+   (["Google Maps reviews (local favorites Nathaniel checked)", "https://www.google.com/maps/search/?api=1&query=<Area>+CA"])
    and keep its write-up to plain facts about the place.
 5. Reddit and Yelp: both ban automated reading and the fetch tool refuses them. Do not route
    around that (no browser, no mirror sites). Get the Reddit consensus secondhand from articles
@@ -137,3 +137,17 @@ after uploading.
 - News page is the Local LA Ledger (newspaper front page). The moving ticker (zipper) pulls headlines from news.json and the latest journal file; it also shows on Local LA via journal_teaser().
 - .wrap is 1640px max so the site fills large screens. Keep reading text capped by its own max-width, not by .wrap.
 - About: never put a small single-deal dollar figure next to the $100M+ team number. Lead with both sides represented, 15.6% over asking (7 offers in 9 days), and the $4.8M team listing.
+
+## Market Temperature (weekly, /market-temperature/)
+Files: src/market/regions.json (how each region is queried), src/market/latest.json (this week), src/market/history.json (one entry per week, newest last). build.py page_market() renders them.
+
+1. Listings (Zillow connector, zillow_property_search). For each region in regions.json run two searches:
+   - active: propertyFiltersRequest {"forSaleListingStatuses": ["active"], "homeTypes": ["singleFamily", "condo", "townhome"]}
+   - reduced: the same filters plus "saleShowOnly": ["priceReduction"]
+   Region with "names": pass each name as propertySearchRegions [{"name": n, "regionDisplayName": n}]. Region with "wkt": pass it as customPolygonWKT. Never change the region definitions, so weeks stay comparable.
+   Record the "Found N properties" count of each search as active and cut.
+2. Mortgage rate: Freddie Mac PMMS (freddiemac.com/pmms or its weekly GlobeNewswire release). Record v (30-year fixed), prev (prior week), yago (a year ago), asof (survey date), url.
+3. LA County: the latest monthly C.A.R. figure for Los Angeles County existing single-family homes (price, YoY and MoM change; sales YoY and MoM change), with the month, source and URL. Keep last week's values if no new month is out.
+4. Write latest.json with "week" = today's date (YYYY-MM-DD), the numbers above, and "take": 3 or 4 short, neutral sentences about what changed. No forecasts, no hype words, no advice. Do not repeat any number already shown in the cards or the region table (rate, homes for sale, share reduced, county price, county sales); describe direction and which regions lead or lag instead.
+5. Append {"week", "rate", "regions"} to history.json (replace the entry if the week already exists).
+6. Build and publish per "Running it from a fresh session". Changed deploy files: market-temperature/, sitemap.xml, llms files. Upload src/market/*.json too.

@@ -30,7 +30,7 @@ Pacific Palisades is part of the City of LA, between Santa Monica and Malibu. Th
 
 - **Good fit if:** You want space, the coast and a long-term hold, and you're comfortable buying into a rebuild.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -334,7 +334,7 @@ A bright, friendly cafe at the west end of San Vicente with protein-forward brea
 
 **Order:** The breakfast croissant sandwich and an iced mint latte.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Parakeet+Cafe+13050+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Parakeet+Cafe+13050+San+Vicente+Blvd+Brentwood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Brentwood+Los+Angeles+CA)
 
 Breakfast Coffee Healthy & plant-based
 
@@ -352,7 +352,7 @@ A polished California restaurant on Swarthmore, freshly reopened with a patio.
 
 **Order:** The tuna tower and the sea bass.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Porta+Via+1063+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Porta+Via+1063+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Lunch Dinner
 
@@ -366,7 +366,7 @@ A new neighborhood grill from the h.wood Group that opened with the Village.
 
 **Order:** The burger and the olive cake.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Alphabet+Bar+and+Grill+1033+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Santa Monica Daily Press](https://www.smdp.com/new-neighborhood-grill-to-open-aug-15-in-rebuilding-pacific-palisades.md) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Alphabet+Bar+and+Grill+1033+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Santa Monica Daily Press](https://www.smdp.com/new-neighborhood-grill-to-open-aug-15-in-rebuilding-pacific-palisades.md) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Lunch Dinner Cocktail bars & lounges
 
@@ -402,7 +402,7 @@ Nancy Silverton's new Italian steak and seafood restaurant in Palisades Village.
 
 **Order:** Focaccia di Recco, the branzino and the chocolate chip cookie with soft serve.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Spacca+Tutto+15255+Palisades+Village+Ln+Pacific+Palisades+Los+Angeles+CA) Sources: [Nancy Silverton to open Spacca Tutto at Palisades Village](https://www.yahoo.com/news/articles/la-chef-nancy-silverton-open-195941103.html) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Spacca+Tutto+15255+Palisades+Village+Ln+Pacific+Palisades+Los+Angeles+CA) Sources: [Nancy Silverton to open Spacca Tutto at Palisades Village](https://www.yahoo.com/news/articles/la-chef-nancy-silverton-open-195941103.html) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Dinner Date night
 
@@ -416,7 +416,7 @@ An Italian restaurant and bar with indoor and outdoor seating in the Village.
 
 **Order:** The octopus salad and the filet.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Angelini+Ristorante+and+Bar+1038+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Angelini+Ristorante+and+Bar+1038+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Dinner Lunch Date night
 
@@ -462,7 +462,7 @@ Will Rogers' old ranch, with a polo field, horses and the Inspiration Point trai
 
 **Do:** Hike the loop to Inspiration Point.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Historic+Park+1501+Will+Rogers+State+Park+Rd+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Historic+Park+1501+Will+Rogers+State+Park+Rd+Pacific+Palisades+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Hikes & nature Parks Landmarks & sights
 
@@ -494,7 +494,7 @@ The neighborhood's walkable town square of shops, restaurants and lawns, reopene
 
 **Do:** Walk the lawns, shop, then lunch on Swarthmore.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Palisades+Village+15225+Palisades+Village+Ln+Pacific+Palisades+Los+Angeles+CA) Sources: [ABC7](https://abc7.com/story/hundreds-gather-grand-reopening-palisades-village-year-half-fire-damage-renovations/19685457/) [Los Angeles Magazine](https://lamag.com/news/palisades-village-re-opens-celebrating-a-sense-of-normalcy-and-resilience/) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Palisades+Village+15225+Palisades+Village+Ln+Pacific+Palisades+Los+Angeles+CA) Sources: [ABC7](https://abc7.com/story/hundreds-gather-grand-reopening-palisades-village-year-half-fire-damage-renovations/19685457/) [Los Angeles Magazine](https://lamag.com/news/palisades-village-re-opens-celebrating-a-sense-of-normalcy-and-resilience/) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Shopping Landmarks & sights Kids & family
 
@@ -563,7 +563,7 @@ Sources
 - [Santa Monica Daily Press: New neighborhood grill opens in the Palisades](https://www.smdp.com/new-neighborhood-grill-to-open-aug-15-in-rebuilding-pacific-palisades.md)
 - [Nancy Silverton to open Spacca Tutto at Palisades Village](https://www.yahoo.com/news/articles/la-chef-nancy-silverton-open-195941103.html)
 - [LAist: Fire-affected restaurants open and closed in Malibu and the Palisades](https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Photos
 
@@ -611,9 +611,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -692,9 +692,9 @@ Get new Pacific Palisades listings as they hit, including ones that aren't publi
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

@@ -1,0 +1,55 @@
+{
+ "Westside": {
+  "names": [
+   "Mar Vista, Los Angeles, CA",
+   "Palms, Los Angeles, CA",
+   "Culver City, CA",
+   "Westchester, Los Angeles, CA",
+   "West Los Angeles, Los Angeles, CA",
+   "Westwood, Los Angeles, CA",
+   "Brentwood, Los Angeles, CA",
+   "Century City, Los Angeles, CA",
+   "Cheviot Hills, Los Angeles, CA",
+   "Pico-Robertson, Los Angeles, CA"
+  ]
+ },
+ "Coast": {
+  "names": [
+   "Santa Monica, CA",
+   "Venice, Los Angeles, CA",
+   "Marina del Rey, CA",
+   "Playa Vista, Los Angeles, CA",
+   "Playa del Rey, Los Angeles, CA",
+   "Pacific Palisades, Los Angeles, CA",
+   "Malibu, CA"
+  ]
+ },
+ "Beverly Hills & the Hills": {
+  "names": [
+   "Beverly Hills, CA",
+   "Beverly Crest, Los Angeles, CA",
+   "Bel Air, Los Angeles, CA",
+   "Hollywood Hills, Los Angeles, CA",
+   "Hollywood Hills West, Los Angeles, CA"
+  ]
+ },
+ "Central": {
+  "wkt": "POLYGON((-118.39109 34.07176,-118.39039 34.08959,-118.39373 34.08917,-118.39613 34.09025,-118.39612 34.09152,-118.38736 34.09156,-118.38443 34.09422,-118.37975 34.09332,-118.36876 34.09856,-118.36276 34.09771,-118.36200 34.10159,-118.35971 34.10220,-118.34707 34.10212,-118.34544 34.10441,-118.33872 34.10463,-118.33753 34.10569,-118.30881 34.10554,-118.30866 34.08342,-118.31519 34.08229,-118.31513 34.06123,-118.34319 34.06174,-118.34581 34.05673,-118.36337 34.05743,-118.36649 34.05103,-118.37630 34.05285,-118.37691 34.06833,-118.38395 34.06925,-118.38509 34.07162,-118.39109 34.07176))"
+ },
+ "Eastside": {
+  "wkt": "POLYGON((-118.30938 34.08307,-118.30980 34.10689,-118.30797 34.10896,-118.30682 34.11469,-118.29600 34.11791,-118.29499 34.11931,-118.28546 34.11946,-118.27224 34.11660,-118.27150 34.11481,-118.26847 34.11365,-118.26609 34.11555,-118.25967 34.11444,-118.25356 34.10761,-118.25260 34.10202,-118.24875 34.10069,-118.24601 34.09603,-118.24535 34.08863,-118.24938 34.08010,-118.24425 34.07695,-118.24391 34.07427,-118.24569 34.07227,-118.24391 34.06914,-118.24681 34.06359,-118.25593 34.06493,-118.28127 34.07603,-118.28989 34.08305,-118.30938 34.08307))"
+ },
+ "Valley": {
+  "names": [
+   "Studio City, Los Angeles, CA",
+   "Sherman Oaks, Los Angeles, CA",
+   "Encino, Los Angeles, CA",
+   "Tarzana, Los Angeles, CA",
+   "Woodland Hills, Los Angeles, CA",
+   "Valley Village, Los Angeles, CA",
+   "North Hollywood, Los Angeles, CA",
+   "Van Nuys, Los Angeles, CA",
+   "Reseda, Los Angeles, CA"
+  ]
+ }
+}

@@ -42,7 +42,7 @@ Also featured
 
 ## [616 N Fuller Ave](https://www.nathanielgrivas.com/homes/616-fuller)
 
-[Sold · $3,275,000 616 N Fuller AveA three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000 with seller financing, representing both the sellers and the buyer. Watch the film →](https://www.nathanielgrivas.com/homes/616-fuller)
+[Sold · $3,275,000 616 N Fuller AveA three-level modern home with a pool in the Fairfax District. Nathaniel sold it with seller financing, representing both the sellers and the buyer. Watch the film →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 What you get
 
@@ -52,7 +52,7 @@ Seller financing, off-market buyers, lenders for every situation and a $100M+ te
 
 ### Off-market and coming-soon homes
 
-Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow.
+Compass Private Exclusives and The Brodsky Group's off-market list. Many of the best homes trade before they ever reach Zillow.
 
 ### Lenders for every kind of buyer
 
@@ -60,19 +60,19 @@ Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR
 
 ### Creative deal structures
 
-Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan.
+Seller financing, leasebacks, assignments and 1031 exchanges, structured so every side is protected.
 
 ### Developers and builders
 
-Land plays, teardowns and ADUs. I marketed a Reseda lot to builders, drew seven offers in nine days and sold it 15.6% over asking.
+Land plays, teardowns and ADUs, priced on what can be built, not only on what stands there now.
 
 ### The right people for every step
 
-Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need.
+Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and Nathaniel brings in whoever you need.
 
 ### Complicated is fine
 
-Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out.
+Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to Nathaniel and he'll figure it out.
 
 [What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
 
@@ -80,7 +80,7 @@ Reviews
 
 ## What clients say
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -94,16 +94,16 @@ Free, no obligation
 
 ## Want a home like this?
 
-Tell me what you're looking for and I'll send homes that fit, including off-market ones. Or ask me about this one.
+Share what you're looking for and Nathaniel will send homes that fit, including off-market ones. Or ask him about this one.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

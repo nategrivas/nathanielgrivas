@@ -30,7 +30,7 @@ Van Nuys is a City of LA neighborhood in the center of the Valley, home to the V
 
 - **Good fit if:** You want your first house in LA, or a lot with room to add a unit.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -103,7 +103,7 @@ A long-running Puebla-style torta shop in a small strip mall.
 
 **Order:** The breaded milanesa cemita.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cemitas+Don+Adrian+14902+Victory+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Cemitas+Don+Adrian+14902+Victory+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Lunch Cheap eats
 
@@ -117,7 +117,7 @@ A Cuban-inspired spot built around charcoal-grilled chicken, with a pastry case 
 
 **Order:** Half a chicken with black beans and yellow rice, or a Cubano.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ay+Papa+Que+Rico+7456+Van+Nuys+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Ay+Papa+Que+Rico+7456+Van+Nuys+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Lunch Dinner Cheap eats
 
@@ -131,7 +131,7 @@ A tiny burger counter tucked beside a liquor store, turning out excellent smash 
 
 **Order:** A double smash and the loaded fries.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Smash+Stand+16435+Vanowen+St+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Smash+Stand+16435+Vanowen+St+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Cheap eats Lunch
 
@@ -145,7 +145,7 @@ A small family-run Thai restaurant open since 1984 and one of the most important
 
 **Order:** Crispy rice salad and the panang curry.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sri+Siam+Cafe+12843+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Sri+Siam+Cafe+12843+Vanowen+St+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Dinner Lunch
 
@@ -159,7 +159,7 @@ A big park around a lake with a 1.3-mile loop path, paddle boats and plenty of b
 
 **Do:** Walk the loop in the morning; come in spring for the cherry blossoms.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Park+6300+Balboa+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Lake+Balboa+Park+6300+Balboa+Blvd+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Parks Kids & family Dog-friendly
 
@@ -173,14 +173,14 @@ A peaceful formal garden with waterfalls, koi ponds and a teahouse in the Sepulv
 
 **Do:** Check the hours before you go; it keeps limited days.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Japanese+Garden+6100+Woodley+Ave+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Japanese+Garden+6100+Woodley+Ave+Van+Nuys+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 Parks Landmarks & sights
 
 Sources
 
 - [The Infatuation: San Fernando Valley](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
 The story of Van Nuys
 
@@ -286,7 +286,7 @@ Sources for this history
 
 Track record
 
-## My deals in Van Nuys
+## Nathaniel's deals in Van Nuys
 
 [All listings →](https://www.nathanielgrivas.com/listings)
 
@@ -330,9 +330,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -415,9 +415,9 @@ Get new Van Nuys listings as they hit, including ones that aren't public yet, or
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

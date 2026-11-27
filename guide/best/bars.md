@@ -6,7 +6,7 @@ Local LA
 
 # The best cocktail bars and lounges in Los Angeles
 
-80 picks across the neighborhoods I cover, grouped by area. Each one is written from what critics and real people consistently say about it.
+80 picks across the neighborhoods Nathaniel covers, grouped by area. Each one is written from what critics and real people consistently say about it.
 
 ### Coast
 
@@ -88,7 +88,7 @@ A new neighborhood grill from the h.wood Group that opened with the Village.
 
 **Order:** The burger and the olive cake.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Alphabet+Bar+and+Grill+1033+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Santa Monica Daily Press](https://www.smdp.com/new-neighborhood-grill-to-open-aug-15-in-rebuilding-pacific-palisades.md) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Alphabet+Bar+and+Grill+1033+N+Swarthmore+Ave+Pacific+Palisades+Los+Angeles+CA) Sources: [Santa Monica Daily Press](https://www.smdp.com/new-neighborhood-grill-to-open-aug-15-in-rebuilding-pacific-palisades.md) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
 Lunch Dinner
 
@@ -102,7 +102,7 @@ Chef Brooke Williamson's beachside spot with a daytime counter, a seafood dining
 
 **Order:** Crab claws and the lobster roll, then ice cream.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Playa+Provisions+119+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Playa+Provisions+119+Culver+Blvd+Playa+del+Rey+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
 Seafood Dinner Brunch
 
@@ -364,7 +364,7 @@ A creative cocktail bar next to Little Fatty, with two back-to-back bars and a m
 
 **Order:** Sit at the bar and watch the torched cocktails get made. Weekday happy hour.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Accomplice+3811+Grand+View+Blvd+Mar+Vista+Los+Angeles+CA) Sources: [Time Out](https://timeout.com/los-angeles/mar-vista) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
 Date night
 
@@ -378,7 +378,7 @@ A warm Latin-Caribbean dining room and bar whose cocktails use fresh-pressed sug
 
 **Order:** Mango curry chicken and a mojito.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Bamboo+Restaurant+10835+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bamboo+Restaurant+10835+Venice+Blvd+Palms+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
 Dinner Date night
 
@@ -392,7 +392,7 @@ A lively kosher Mexican restaurant with inventive cocktails and mocktails.
 
 **Order:** Tacos, the taquitos and a margarita.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Lenny%27s+Casita+8823+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Lenny%27s+Casita+8823+W+Pico+Blvd+Pico-Robertson+%26+Beverlywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
 
 Dinner Tacos & Mexican
 
@@ -434,7 +434,7 @@ A classy cocktail lounge with a small dance floor and local DJs on weekends.
 
 **Order:** A smoked old fashioned. Open Wednesday through Saturday.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Lost+and+Found+Cocktails+11700+National+Blvd+West+LA+%26+Sawtelle+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
 Late night
 
@@ -448,7 +448,7 @@ A dim, speakeasy-style bar and restaurant with strong cocktails and a good happy
 
 **Order:** A whiskey sour and the Sichuan wings.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Manchester+8522+Lincoln+Blvd+Westchester+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
 Dinner Date night
 
@@ -468,7 +468,7 @@ A garden dining room at the famous hotel, next to the swan pond, with live jazz 
 
 **Order:** Brunch on the patio, then walk the grounds to see the swans.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Restaurant+at+Hotel+Bel-Air+701+Stone+Canyon+Rd+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Restaurant+at+Hotel+Bel-Air+701+Stone+Canyon+Rd+Bel+Air+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
 
 Date night Dinner Brunch
 
@@ -540,7 +540,7 @@ A dim, no-menu cocktail bar where the bartenders build a drink around your taste
 
 **Order:** Tell them a spirit and a flavor you like.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Blue+Collar+361+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Date night
 
@@ -554,7 +554,7 @@ A moody speakeasy across from The Grove with elaborate cocktails.
 
 **Order:** A cocktail from the spirits menu.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Cold+Shoulder+359+S+Fairfax+Ave+Fairfax+District+Los+Angeles+CA) Sources: [The Infatuation](https://theinfatuation.com/los-angeles/neighborhoods/beverly-grove) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
 Date night
 
@@ -844,7 +844,7 @@ A stylish little cocktail bar in Virgil Village with a smoking patio.
 
 **Order:** A house cocktail; Mondays bring a tiki menu.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Real+Charmer+864+N+Virgil+Ave+East+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=East+Hollywood+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Real+Charmer+864+N+Virgil+Ave+East+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=East+Hollywood+Los+Angeles+CA)
 
 Late night
 
@@ -872,7 +872,7 @@ A warm, wood-paneled cocktail bar with Mediterranean food, a vintage sound syste
 
 **Order:** The lavender cocktail with the watermelon salad.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Semi-Tropic+1412+Glendale+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Semi-Tropic+1412+Glendale+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Dinner
 
@@ -886,7 +886,7 @@ A moody, velvet-lined cocktail bar with deep whiskey and agave lists, near Dodge
 
 **Order:** Go on a weeknight for an easy conversation.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Bar+Henry+1228+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bar+Henry+1228+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Date night
 
@@ -900,7 +900,7 @@ An upstairs bar with a lovely patio and some of the best margaritas on the Easts
 
 **Order:** The tequila sour before a Dodgers game.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Bar+Flores+1542+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Bar+Flores+1542+Sunset+Blvd+Echo+Park+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
 Rooftops & views
 
@@ -1022,7 +1022,7 @@ A restored 1940s bar in a building shaped like a giant barrel, with a big patio 
 
 **Order:** Happy hour out on the patio.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Idle+Hour+4824+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Idle+Hour+4824+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Brunch
 
@@ -1064,7 +1064,7 @@ A long-running gastropub under a brick barrel ceiling with a big shareable menu 
 
 **Order:** Small plates to share and a cocktail.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=Black+Market+Liquor+Bar+11915+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=Black+Market+Liquor+Bar+11915+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
 Dinner Date night
 
@@ -1092,7 +1092,7 @@ A post-apocalyptic themed cocktail bar with fully committed decor and a real kit
 
 **Order:** A house cocktail and a few shared plates.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Last+Canteen+10964+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=The+Last+Canteen+10964+Ventura+Blvd+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
 Dinner
 
@@ -1120,7 +1120,7 @@ An upscale kosher Mediterranean tapas restaurant that turns into a party with a 
 
 **Order:** Bluefin crispy rice and the market salad.
 
-[Map ↗](https://www.google.com/maps/search/?api=1&query=TLV+Tapas+Bar+5442+Yolanda+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
+[Map ↗](https://www.google.com/maps/search/?api=1&query=TLV+Tapas+Bar+5442+Yolanda+Ave+Tarzana+Los+Angeles+CA) Sources: [OpenTable diner reviews](https://opentable.co.uk/phrase/1366781) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
 Date night Late night
 
@@ -1134,16 +1134,16 @@ Free, no obligation
 
 ## Want to live near the best of LA?
 
-Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+Share what you love and Nathaniel will send homes that fit, including off-market ones. Or get a free value on yours.
 
 - Your home's value from the latest sales near you, plus what you'd walk away with
 - Off-market and coming-soon homes before they hit Zillow
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

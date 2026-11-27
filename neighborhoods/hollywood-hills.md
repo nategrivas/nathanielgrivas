@@ -30,7 +30,7 @@ The Hollywood Hills run along the Santa Monica Mountains above Hollywood and Wes
 
 - **Good fit if:** You want views and nightlife close by.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -323,7 +323,7 @@ The famous pancake house where one stack is bigger than the plate. Expect a line
 
 **Order:** One order of pancakes for the table, and coffee in a French press.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Griddle+Cafe+7916+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Griddle+Cafe+7916+Sunset+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Breakfast
 
@@ -337,7 +337,7 @@ A small neighborhood coffee shop on Fountain with a friendly counter and fun fla
 
 **Order:** The cereal-milk latte and a breakfast burrito.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dubb%27s+Organic+Coffee+Blends+7962+Fountain+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Dubb%27s+Organic+Coffee+Blends+7962+Fountain+Ave+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Coffee Cheap eats
 
@@ -351,7 +351,7 @@ A tiny pop-music-themed cafe that regulars treat like a secret. The lattes are n
 
 **Order:** The lavender latte and the chilaquiles. Closed Mondays.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fan+Girl+Cafe+8157+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Fan+Girl+Cafe+8157+Santa+Monica+Blvd+West+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=West+Hollywood+CA)
 
 Coffee Breakfast
 
@@ -369,7 +369,7 @@ The 1929 Laurel Canyon market linked to the area's 1960s music scene, with a del
 
 **Order:** A deli sandwich on the terrace and a look at the photos on the walls.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Canyon+Country+Store+2108+Laurel+Canyon+Blvd+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Canyon+Country+Store+2108+Laurel+Canyon+Blvd+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
 
 Lunch Landmarks & sights Shopping
 
@@ -419,7 +419,7 @@ A cozy, romantic Italian restaurant tucked below the Canyon Country Store.
 
 **Order:** The butternut squash tortellini.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pace+2100+Laurel+Canyon+Blvd+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Pace+2100+Laurel+Canyon+Blvd+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
 
 Date night Dinner
 
@@ -511,7 +511,7 @@ An intimate 1,200-seat outdoor amphitheater built into the hillside, across the 
 
 **Do:** Bring your own food and drinks for a summer show.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Ford+2580+Cahuenga+Blvd+E+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=The+Ford+2580+Cahuenga+Blvd+E+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
 
 Live music Movies
 
@@ -557,7 +557,7 @@ A short, easy walk to the cave used as the Batcave in the 1960s TV show, with a 
 
 **Do:** Go early for parking, then keep going on the Brush Canyon trail.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+3200+Canyon+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Bronson+Caves+3200+Canyon+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
 
 Hikes & nature Landmarks & sights Kids & family
 
@@ -571,7 +571,7 @@ A big off-leash dog park in a wooded hollow, with a separate area for small dogs
 
 **Do:** Take the entrance curve slowly; it's steep.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Canyon+Dog+Park+8260+Mulholland+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Laurel+Canyon+Dog+Park+8260+Mulholland+Dr+Hollywood+Hills+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
 
 Dog-friendly Parks
 
@@ -591,7 +591,7 @@ Hikes & nature Dog-friendly Fitness & outdoor sports
 
 Sources
 
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills+CA)
 
 Photos
 
@@ -639,9 +639,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -728,9 +728,9 @@ Get new Hollywood Hills listings as they hit, including ones that aren't public 
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 

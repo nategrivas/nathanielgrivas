@@ -30,7 +30,7 @@ Valley Village is a small City of LA neighborhood between Studio City, Sherman O
 
 - **Good fit if:** You want Studio City access at a lower price.
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
 
@@ -96,7 +96,7 @@ A busy neighborhood coffee shop with well-balanced espresso drinks and good past
 
 **Order:** An iced vanilla latte and a cinnamon roll.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Saint+Coffee+Shop+11706+Moorpark+St+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Saint+Coffee+Shop+11706+Moorpark+St+Studio+City+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 
 Coffee Breakfast
 
@@ -110,7 +110,7 @@ A bright Arts District coffee bar with creative lattes and plenty of dairy-free 
 
 **Order:** The panela canela latte.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Moxie+Coffee+Bar+5300+Lankershim+Blvd%2C+Suite+115+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Moxie+Coffee+Bar+5300+Lankershim+Blvd%2C+Suite+115+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Coffee
 
@@ -142,7 +142,7 @@ A no-frills counter turning out some of the best smash burgers in the Valley.
 
 **Order:** A double with the loaded fries.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Valley+Smash+Burgers+5206+Laurel+Canyon+Blvd+Valley+Village+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Valley+Smash+Burgers+5206+Laurel+Canyon+Blvd+Valley+Village+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
 
 Cheap eats Lunch
 
@@ -156,7 +156,7 @@ A Lebanese restaurant with a garden patio and bread baked fresh in an outdoor ov
 
 **Order:** Kebab platters and the hot mezze.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hayat%27s+Kitchen+11009+Burbank+Blvd%2C+%23117+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Hayat%27s+Kitchen+11009+Burbank+Blvd%2C+%23117+North+Hollywood+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/restaurants-north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Lunch Dinner
 
@@ -192,7 +192,7 @@ A warmly decorated Thai restaurant that critics call one of the Valley's most ov
 
 **Order:** Tom kha soup and the drunken noodles.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Rustic+Spoon+12500+Magnolia+Blvd+Valley+Village+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/north-hollywood) [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Rustic+Spoon+12500+Magnolia+Blvd+Valley+Village+Los+Angeles+CA) Sources: [The Infatuation](https://www.theinfatuation.com/los-angeles/neighborhoods/north-hollywood) [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
 
 Dinner Lunch
 
@@ -206,7 +206,7 @@ A cozy, old-school Italian spot with a record player spinning at the bar.
 
 **Order:** The oxtail cavatelli and the warm bread.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=ViVi+Ristorante+5424+Laurel+Canyon+Blvd+Valley+Village+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=ViVi+Ristorante+5424+Laurel+Canyon+Blvd+Valley+Village+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
 
 Date night Dinner
 
@@ -266,7 +266,7 @@ A restored 1940s bar in a building shaped like a giant barrel, with a big patio 
 
 **Order:** Happy hour out on the patio.
 
-[Directions ↗](https://www.google.com/maps/search/?api=1&query=Idle+Hour+4824+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
+[Directions ↗](https://www.google.com/maps/search/?api=1&query=Idle+Hour+4824+Vineland+Ave+North+Hollywood+Los+Angeles+CA) Sources: [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
 Cocktail bars & lounges Brunch
 
@@ -274,7 +274,7 @@ Sources
 
 - [The Infatuation: North Hollywood](https://www.theinfatuation.com/los-angeles/neighborhoods/north-hollywood)
 - [PBS SoCal: Iconic North Hollywood restaurants](https://www.pbssocal.org/food-discovery/food/iconic-neighborhood-restaurants-north-hollywood)
-- [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
+- [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
 
 The story of Valley Village
 
@@ -388,9 +388,9 @@ Rules have exemptions. Confirm for a specific address.
 
 Reviews
 
-## Why people work with me
+## Why people work with Nathaniel
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
@@ -469,9 +469,9 @@ Get new Valley Village listings as they hit, including ones that aren't public y
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
 
-Call 310-269-5541 Text me
+Call 310-269-5541 Text Nathaniel
 
 ---
 
