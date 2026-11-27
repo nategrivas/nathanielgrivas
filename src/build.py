@@ -713,7 +713,7 @@ def page_home(posts):
 <div class="fh-copy">
 <p class="kick">The Brodsky Group at Compass Beverly Hills</p>
 <h1><span class="lh-name">Nathaniel Grivas</span><span class="lh-sub">West Los Angeles REALTOR&reg;</span></h1>
-<p class="fh-lede">Off-market homes, lenders for every kind of buyer and creative deals like seller financing. Buying, selling or investing anywhere from Malibu to the Valley, Nathaniel will figure it out.</p>
+<p class="fh-lede">Early access to the homes that sell quietly. A straight answer on what yours is worth.</p>
 <form class="fh-addr" action="/home-value/" method="get" role="search" aria-label="Get your home value"><label class="sr" for="fh-a">Your home address</label><input id="fh-a" name="addr" autocomplete="street-address" placeholder="Enter your address" required><button class="btn lux solid" type="submit">What's it worth?</button></form>
 <div class="lh-cta fh-alt"><a class="btn lux" href="/buy/">Find me a home</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div>
 {trust_row("fh-trust")}
