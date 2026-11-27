@@ -20,7 +20,8 @@
       try {
         const r = await fetch('https://formsubmit.co/ajax/' + form.dataset.to, {
           method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(payload) });
-        if (!r.ok) throw new Error('bad status');
+        const j = await r.json().catch(() => ({}));
+        if (!r.ok || j.success === 'false' || j.success === false) throw new Error('not sent');
         form.reset();
         if (window.NG) window.NG.submitted();
         say(form.dataset.ok ? form.dataset.ok.replace('{name}', name.split(' ')[0]) : 'Got it, ' + name.split(' ')[0] + '. I will get back to you within a day.');
@@ -74,6 +75,16 @@
     }));
   });
 
+  // Buttons that open a tab in the lead card: [data-tabgo="v"] (home value) or "b" (find a home)
+  document.querySelectorAll('[data-tabgo]').forEach((a) => a.addEventListener('click', (ev) => {
+    const card = document.getElementById('lead');
+    if (!card) return;
+    ev.preventDefault();
+    const b = card.querySelector('[data-tab="' + a.dataset.tabgo + '"]');
+    if (b) b.click();
+    card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }));
+
   // "What's my home worth" style shortcuts pre-check the right box in the contact form
   document.querySelectorAll('[data-preset]').forEach((a) => a.addEventListener('click', () => {
     const box = document.querySelector('#contact input[value="' + a.dataset.preset[0].toUpperCase() + a.dataset.preset.slice(1) + '"]');
@@ -99,7 +110,7 @@
     let data = null, items = [], sel = 0, lastFocus = null;
     const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
     const load = () => data ? Promise.resolve(data) : fetch('/assets/search.json').then((r) => r.json()).then((d) => (data = d)).catch(() => (data = []));
-    const QUICK = ['Explore the map', 'Which LA neighborhood fits you?', 'Transfer tax & mansion tax calculator', 'Contact', 'The Brodsky Group'];
+    const QUICK = ["What's my home worth?", 'Find me a home', 'Transfer tax & mansion tax calculator', 'Contact'];
     const score = (it, words) => {
       const t = it.t.toLowerCase(), hay = (it.t + ' ' + it.s + ' ' + it.k).toLowerCase();
       let sc = 0;
@@ -110,8 +121,8 @@
       const q = input.value.trim().toLowerCase();
       let res;
       if (!q) {
-        const nav = [{ t: 'Explore the map', s: 'All 40 neighborhoods', u: '/neighborhoods/', g: 'Jump to', i: 'M' }];
-        res = nav.concat((data || []).filter((x) => QUICK.includes(x.t)).map((x) => Object.assign({}, x, { g: 'Jump to' })))
+        const nav = [{ t: 'Explore the map', s: 'All 40 neighborhoods', u: '/neighborhoods/', g: 'Jump to' }];
+        res = (data || []).filter((x) => QUICK.includes(x.t)).map((x) => Object.assign({}, x, { g: 'Start here' })).concat(nav)
           .concat((data || []).filter((x) => x.g === 'Neighborhoods').slice(0, 6));
       } else {
         const words = q.split(/\s+/);
@@ -122,7 +133,7 @@
       let g = '', html = '';
       res.forEach((x, i) => {
         if (x.g !== g) { g = x.g; html += '<li class="grp">' + esc(g) + '</li>'; }
-        html += '<li><a href="' + esc(x.u) + '" role="option" data-i="' + i + '" aria-selected="' + (i === 0) + '"' + (x.u.startsWith('http') ? ' rel="noopener"' : '') + '><span class="ic">' + esc(x.i || '') + '</span><span><b>' + esc(x.t) + '</b><small>' + esc(x.s || '') + '</small></span></a></li>';
+        html += '<li><a href="' + esc(x.u) + '" role="option" data-i="' + i + '" aria-selected="' + (i === 0) + '"' + (x.u.startsWith('http') ? ' rel="noopener"' : '') + '><span><b>' + esc(x.t) + '</b><small>' + esc(x.s || '') + '</small></span><i aria-hidden="true">&rarr;</i></a></li>';
       });
       list.innerHTML = html;
     };
