@@ -105,3 +105,10 @@ after uploading.
 - Google reviews live in src/v8.py (REVIEWS). When a new Google review appears, add it there, rebuild and upload everything that changed.
 - Neighborhood satellite maps are Google Maps embeds (satellite view) that load on scroll; aerial photos come from USGS (public domain).
 - GitHub upload: after clicking Commit changes, wait for "Processing your files" to finish before leaving the page, or the commit is lost.
+
+## Site v9 notes (Nov 26, 2026): conversion
+- Two lead flows in assets/lead.js: "value" (home valuation) and "buy" (buyer search). The lead is emailed the moment they give name, phone and email; the optional questions after that go out as a second "details" email.
+- Landing pages for ads: /home-value/ and /buy/ (lp_shell in build.py). Every other page ends in lead_band() with both flows as tabs; neighborhood and guide pages also get cta_strip() mid-page.
+- Ad tracking: set GTAG_ID and META_PIXEL at the top of build.py once the ad accounts exist. lead.js fires generate_lead / Lead events when those tags are present.
+- Forms go through FormSubmit to nate.grivas@compass.com. If leads stop arriving, check the inbox for an "Activate FormSubmit" email.
+- Vercel Hobby rate limits deploys after a burst; failed commits show "Deployment rate limited". Upload a new src/DEPLOY_PING.txt later and the next deploy that goes through publishes all of main.
