@@ -7,7 +7,7 @@
   const markers = {};
   let map = null, start = 11, home = null;
   if (window.L) {
-    map = L.map(el, { scrollWheelZoom: false, zoomSnap: 0.5, minZoom: 9, maxZoom: 16, attributionControl: true });
+    map = L.map(el, { scrollWheelZoom: false, zoomSnap: 0.5, minZoom: 9, maxZoom: 16, attributionControl: true, fadeAnimation: false });
     L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}', {
       maxZoom: 16, attribution: 'Imagery: <a href="https://www.usgs.gov/programs/national-geospatial-program/national-map" target="_blank" rel="noopener">USGS</a>'
     }).addTo(map);

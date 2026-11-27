@@ -2116,4 +2116,3 @@ textarea.lf-in{padding:14px 16px;min-height:110px;resize:vertical;line-height:1.
 
 /* v16 speed: no live blur on phones (smoother scrolling) */
 @media (max-width:900px){*,*::before,*::after{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}.nb-sub{background:#fffdfa}}
-.satmap .sm-ph{position:absolute;inset:0;z-index:0}.satmap .sm-ph .aer-pin,.satmap .sm-ph .aer-cr{display:none}
