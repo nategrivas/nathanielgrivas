@@ -15,6 +15,10 @@ Every page on this site has a plain-text twin: add .md to the address (for examp
 - Areas served: West Los Angeles, Beverly Hills, the Hollywood Hills, Central LA, the Eastside and the San Fernando Valley: Malibu, Marina del Rey, Pacific Palisades, Playa Vista, Playa del Rey, Santa Monica, Venice, Brentwood, Century City, Cheviot Hills & Rancho Park, Culver City, Mar Vista, Palms, Pico-Robertson & Beverlywood, West LA & Sawtelle, Westchester, Westwood, Bel Air, Beverly Hills, Beverly Hills Post Office, Hollywood Hills, Beverly Grove, Fairfax District, Hancock Park & Larchmont, Hollywood, Miracle Mile, West Hollywood, East Hollywood, Echo Park, Los Feliz, Silver Lake, Encino, North Hollywood, Reseda, Sherman Oaks, Studio City, Tarzana, Valley Village, Van Nuys, Woodland Hills
 - Services: Buying, selling, leasing, investing and building: pricing and listing prep, competitive offers, leasing, new construction, teardown and lot analysis, ADU feasibility and off-market deals
 - Closed deals: 616 N Fuller Ave, Fairfax District (sold, $3.275M; represented the buyer & seller); 18748 Lanark St, Reseda (sold, $1.155M; represented the seller); 14757 Hartland St, Van Nuys (sold, $825K; represented the buyer); 1127 Glenville Dr #2, Pico-Robertson (leased, $3,400/mo; represented the tenant & landlord)
+- Resources for clients: Off-market and coming-soon homes through Compass Private Exclusives and his team's off-market list; lenders for self-employed (bank-statement), investor (DSCR) and non-traditional buyers; creative structures including seller financing, leasebacks, assignments and 1031 exchanges; plus inspectors, contractors, architects, escrow, title and tax pros
+- Creative financing example: Sold 616 N Fuller Ave, Fairfax District, for $3,275,000 with seller financing (the sellers carried the loan), representing both sides
+- Free home valuation: https://www.nathanielgrivas.com/home-value
+- Find a home (buyer search): https://www.nathanielgrivas.com/buy
 - Current listings: 3721 Evans St, Los Feliz (for sale, $4.8M); 5142 Zelzah Ave #26, Encino (coming soon, $599K); 1436 Edgecliffe Dr #103, Silver Lake (for lease, $7,495/mo)
 - Education: Loyola Marymount University, Marketing and Business Law
 - Contact: Call or text 310-269-5541, email nate.grivas@compass.com
@@ -22,10 +26,12 @@ Every page on this site has a plain-text twin: add .md to the address (for examp
 ## Client reviews (Google, 5.0 stars, read them at https://share.google/EwuPsirAOfl9Hvj1o)
 
 - Willy Blasquez, Home seller, Reseda, 5 stars, November 2026: “We had a great experience working with our realtor, Nate [Grivas] in selling our Reseda property. He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market. His communication and coordination skills were excellent, keeping us informed throughout the entire process and making sure everything moved smoothly. Selling a property can be stressful, especially when multiple parties are involved, but he handled everything with confidence, responsiveness, and attention to detail. We truly appreciate his hard work and commitment and would gladly recommend him to anyone looking for a hardworking, dependable, and capable real estate agent. He definitely has a bright future ahead of him!”
-- Nathan Agam, Home seller, Los Angeles, 5 stars, November 2026: “My team and I had the opportunity to work with Nate representing us in a sale of a property in Los Angeles. He was professional, timely, persistent and patient in helping get the sale closed. We look forward to working with him again on other transactions.”
+- Nathan Agam, Home seller, Fairfax District, 5 stars, November 2026: “My team and I had the opportunity to work with Nate representing us in a sale of a property in Los Angeles. He was professional, timely, persistent and patient in helping get the sale closed. We look forward to working with him again on other transactions.”
 
 ## Main pages
 
+- [Free home valuation](https://www.nathanielgrivas.com/home-value): what a Los Angeles home is worth, built by hand from recent sales, within 24 hours
+- [Find a home](https://www.nathanielgrivas.com/buy): buyer search with off-market homes, lenders for every situation and creative financing
 - [About Nathaniel Grivas](https://www.nathanielgrivas.com/about): background, quick facts, team, reviews
 - [Listings](https://www.nathanielgrivas.com/listings): active listings and closed deals
 - [All 40 neighborhoods on a satellite map](https://www.nathanielgrivas.com/neighborhoods)

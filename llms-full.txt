@@ -15,6 +15,10 @@ Every page on this site has a plain-text twin: add .md to the address (for examp
 - Areas served: West Los Angeles, Beverly Hills, the Hollywood Hills, Central LA, the Eastside and the San Fernando Valley: Malibu, Marina del Rey, Pacific Palisades, Playa Vista, Playa del Rey, Santa Monica, Venice, Brentwood, Century City, Cheviot Hills & Rancho Park, Culver City, Mar Vista, Palms, Pico-Robertson & Beverlywood, West LA & Sawtelle, Westchester, Westwood, Bel Air, Beverly Hills, Beverly Hills Post Office, Hollywood Hills, Beverly Grove, Fairfax District, Hancock Park & Larchmont, Hollywood, Miracle Mile, West Hollywood, East Hollywood, Echo Park, Los Feliz, Silver Lake, Encino, North Hollywood, Reseda, Sherman Oaks, Studio City, Tarzana, Valley Village, Van Nuys, Woodland Hills
 - Services: Buying, selling, leasing, investing and building: pricing and listing prep, competitive offers, leasing, new construction, teardown and lot analysis, ADU feasibility and off-market deals
 - Closed deals: 616 N Fuller Ave, Fairfax District (sold, $3.275M; represented the buyer & seller); 18748 Lanark St, Reseda (sold, $1.155M; represented the seller); 14757 Hartland St, Van Nuys (sold, $825K; represented the buyer); 1127 Glenville Dr #2, Pico-Robertson (leased, $3,400/mo; represented the tenant & landlord)
+- Resources for clients: Off-market and coming-soon homes through Compass Private Exclusives and his team's off-market list; lenders for self-employed (bank-statement), investor (DSCR) and non-traditional buyers; creative structures including seller financing, leasebacks, assignments and 1031 exchanges; plus inspectors, contractors, architects, escrow, title and tax pros
+- Creative financing example: Sold 616 N Fuller Ave, Fairfax District, for $3,275,000 with seller financing (the sellers carried the loan), representing both sides
+- Free home valuation: https://www.nathanielgrivas.com/home-value
+- Find a home (buyer search): https://www.nathanielgrivas.com/buy
 - Current listings: 3721 Evans St, Los Feliz (for sale, $4.8M); 5142 Zelzah Ave #26, Encino (coming soon, $599K); 1436 Edgecliffe Dr #103, Silver Lake (for lease, $7,495/mo)
 - Education: Loyola Marymount University, Marketing and Business Law
 - Contact: Call or text 310-269-5541, email nate.grivas@compass.com
@@ -22,10 +26,12 @@ Every page on this site has a plain-text twin: add .md to the address (for examp
 ## Client reviews (Google, 5.0 stars, read them at https://share.google/EwuPsirAOfl9Hvj1o)
 
 - Willy Blasquez, Home seller, Reseda, 5 stars, November 2026: “We had a great experience working with our realtor, Nate [Grivas] in selling our Reseda property. He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market. His communication and coordination skills were excellent, keeping us informed throughout the entire process and making sure everything moved smoothly. Selling a property can be stressful, especially when multiple parties are involved, but he handled everything with confidence, responsiveness, and attention to detail. We truly appreciate his hard work and commitment and would gladly recommend him to anyone looking for a hardworking, dependable, and capable real estate agent. He definitely has a bright future ahead of him!”
-- Nathan Agam, Home seller, Los Angeles, 5 stars, November 2026: “My team and I had the opportunity to work with Nate representing us in a sale of a property in Los Angeles. He was professional, timely, persistent and patient in helping get the sale closed. We look forward to working with him again on other transactions.”
+- Nathan Agam, Home seller, Fairfax District, 5 stars, November 2026: “My team and I had the opportunity to work with Nate representing us in a sale of a property in Los Angeles. He was professional, timely, persistent and patient in helping get the sale closed. We look forward to working with him again on other transactions.”
 
 ## Main pages
 
+- [Free home valuation](https://www.nathanielgrivas.com/home-value): what a Los Angeles home is worth, built by hand from recent sales, within 24 hours
+- [Find a home](https://www.nathanielgrivas.com/buy): buyer search with off-market homes, lenders for every situation and creative financing
 - [About Nathaniel Grivas](https://www.nathanielgrivas.com/about): background, quick facts, team, reviews
 - [Listings](https://www.nathanielgrivas.com/listings): active listings and closed deals
 - [All 40 neighborhoods on a satellite map](https://www.nathanielgrivas.com/neighborhoods)
@@ -207,16 +213,16 @@ From Westchester to Malibu, Hollywood to Silver Lake, and across the San Fernand
 
 ## How he helps
 
-- Buy a home: New listings that fit, sent as soon as they hit the market.
-- Sell my home: Pricing, prep and a plan for your sale.
+- What's my home worth?: A free valuation built by hand from the sales on your street.
+- Find me a home: New listings, coming-soon and off-market homes, sent as they come up.
 - Rent a home: Leases across the Westside and the Valley.
-- Invest: Income property, value-add and off-market deals.
-- Build: Lots, teardowns and ADU feasibility.
+- Invest: Income property, value-add, off-market deals and DSCR lenders.
+- Build: Lots, teardowns, ADUs and the architects and builders to do it.
 
 ## Featured homes (with video tours)
 
 - [3721 Evans St W, Los Feliz, Los Angeles, CA 90027](https://www.nathanielgrivas.com/homes/3721-evans): For sale, $4,800,000. A brand-new modern compound in Los Feliz: a five-bedroom main house and a three-bedroom ADU, each with its own rooftop lounge.
-- [616 N Fuller Ave, Fairfax District, Los Angeles, CA 90036](https://www.nathanielgrivas.com/homes/616-fuller): Sold, $3,275,000. A three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000, representing both the seller and the buyer.
+- [616 N Fuller Ave, Fairfax District, Los Angeles, CA 90036](https://www.nathanielgrivas.com/homes/616-fuller): Sold, $3,275,000. A three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000 with seller financing, representing both the sellers and the buyer.
 
 ## Listings
 
@@ -342,11 +348,49 @@ Reviews
 
 “We had a great experience working with our realtor, Nate [Grivas] in selling our Reseda property. He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market. His communication and coordination skills were excellent, keeping us informed throughout the entire process and making sure everything moved smoothly. Selling a property can be stressful, especially when multiple parties are involved, but he handled everything with confidence, responsiveness, and attention to detail. We truly appreciate his hard work and commitment and would gladly recommend him to anyone looking for a hardworking, dependable, and capable real estate agent. He definitely has a bright future ahead of him!”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “My team and I had the opportunity to work with Nate representing us in a sale of a property in Los Angeles. He was professional, timely, persistent and patient in helping get the sale closed. We look forward to working with him again on other transactions.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
+
+Track record
+
+## Recent results
+
+[18748 Lanark St, Reseda $156K over asking 7 offers in 9 days. Marketed to builders as a land play. See how →](https://www.nathanielgrivas.com/homes/18748-lanark) [616 N Fuller Ave, Fairfax $3,275,000, seller financed Structured with the sellers carrying the loan. I represented both sides. See how →](https://www.nathanielgrivas.com/homes/616-fuller) [14757 Hartland St, Van Nuys $31,000 off in escrow Won in multiple offers, then renegotiated after inspections. A two-ADU play. See how →](https://www.nathanielgrivas.com/homes/14757-hartland)
+
+What you get
+
+## One call. The whole network.
+
+Buying, selling or investing, you get more than an agent. You get every resource it takes to close, on any deal, however complicated.
+
+### Off-market and coming-soon homes
+
+Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow.
+
+### Lenders for every kind of buyer
+
+Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on.
+
+### Creative deal structures
+
+Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan.
+
+### Developers and builders
+
+Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking.
+
+### The right people for every step
+
+Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need.
+
+### Complicated is fine
+
+Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out.
+
+[What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
 
 Quick facts
 
@@ -370,6 +414,14 @@ Quick facts
 
 - **Closed deals:** 616 N Fuller Ave, Fairfax District (sold, $3.275M; represented the buyer & seller); 18748 Lanark St, Reseda (sold, $1.155M; represented the seller); 14757 Hartland St, Van Nuys (sold, $825K; represented the buyer); 1127 Glenville Dr #2, Pico-Robertson (leased, $3,400/mo; represented the tenant & landlord)
 
+- **Resources for clients:** Off-market and coming-soon homes through Compass Private Exclusives and his team's off-market list; lenders for self-employed (bank-statement), investor (DSCR) and non-traditional buyers; creative structures including seller financing, leasebacks, assignments and 1031 exchanges; plus inspectors, contractors, architects, escrow, title and tax pros
+
+- **Creative financing example:** Sold 616 N Fuller Ave, Fairfax District, for $3,275,000 with seller financing (the sellers carried the loan), representing both sides
+
+- **Free home valuation:** https://www.nathanielgrivas.com/home-value
+
+- **Find a home (buyer search):** https://www.nathanielgrivas.com/buy
+
 - **Current listings:** 3721 Evans St, Los Feliz (for sale, $4.8M); 5142 Zelzah Ave #26, Encino (coming soon, $599K); 1436 Edgecliffe Dr #103, Silver Lake (for lease, $7,495/mo)
 
 - **Education:** Loyola Marymount University, Marketing and Business Law
@@ -386,11 +438,20 @@ I work on The Brodsky Group, led by Or Brodsky at Compass Beverly Hills. Over $1
 
 [Work with me](https://www.nathanielgrivas.com/#contact) [The Brodsky Group](https://orbrodskygroup.com/) [About me](https://www.nathanielgrivas.com/about)
 
-## Tell me what you're after
+Free, no obligation
 
-Buying, selling, renting, investing or building. Start here.
+## Let's get you a number, or a home
 
-[Start my search](https://www.nathanielgrivas.com/tools/neighborhood-quiz) Text Call
+Pick one. It takes about a minute, and you'll hear from me today.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 
@@ -459,17 +520,26 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
+
+Free, no obligation
 
 ## Get homes before they hit the market
 
-Tell me the area and the budget. Off-market and coming-soon homes go to my list first.
+Off-market and coming-soon homes go to my list first. Tell me what you want, or find out what yours is worth.
 
-[Start my search](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy) Text Call
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 
@@ -522,35 +592,68 @@ Also featured
 
 ## [616 N Fuller Ave](https://www.nathanielgrivas.com/homes/616-fuller)
 
-[Sold · $3,275,000 616 N Fuller AveA three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000, representing both the seller and the buyer. Watch the film →](https://www.nathanielgrivas.com/homes/616-fuller)
+[Sold · $3,275,000 616 N Fuller AveA three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000 with seller financing, representing both the sellers and the buyer. Watch the film →](https://www.nathanielgrivas.com/homes/616-fuller)
+
+What you get
+
+## Creative deals, real resources
+
+Seller financing, off-market buyers, lenders for every situation and a $100M+ team behind every deal.
+
+### Off-market and coming-soon homes
+
+Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow.
+
+### Lenders for every kind of buyer
+
+Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on.
+
+### Creative deal structures
+
+Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan.
+
+### Developers and builders
+
+Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking.
+
+### The right people for every step
+
+Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need.
+
+### Complicated is fine
+
+Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out.
+
+[What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
 
 Reviews
 
-## What sellers say
+## What clients say
 
 [5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
-Contact
+Free, no obligation
 
-## Let's talk
+## Want a home like this?
 
-Questions about this home, or looking for something like it? Send me a note.
+Tell me what you're looking for and I'll send homes that fit, including off-market ones. Or ask me about this one.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -581,9 +684,9 @@ Sold for $3,275,000
 
 **2016** Built
 
-A three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000, representing both the seller and the buyer.
+A three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000 with seller financing, representing both the sellers and the buyer.
 
-Call 310-269-5541
+Get a result like this Call 310-269-5541
 
 [View on Compass ↗](https://www.compass.com/homedetails/616-N-Fuller-Ave-Los-Angeles-CA-90036/2072900371372293281_lid/)
 
@@ -591,7 +694,9 @@ The home
 
 A 2016 modern home on a 7,334 sq ft lot in the Fairfax District: seven bedrooms, eight baths and three levels, with a pool.
 
-I represented both the seller and the buyer and closed it in October 2026 for $3,275,000.
+I structured the sale with seller financing: the sellers carried the loan, so my buyer closed at $3,275,000 without a bank. It took a creative structure, firm protections for the sellers and a lot of coordination, and it closed in October 2026.
+
+I represented both the sellers and the buyer. Deals like this are why I say complicated is fine. If the numbers only work with a creative structure, bring it to me and I'll figure it out.
 
 Also featured
 
@@ -599,33 +704,62 @@ Also featured
 
 [For sale · $4,800,000 3721 Evans St WA brand-new modern compound in Los Feliz: a five-bedroom main house and a three-bedroom ADU, each with its own rooftop lounge. Watch the film →](https://www.nathanielgrivas.com/homes/3721-evans)
 
-Reviews
+What you get
 
-## What sellers say
+## Creative deals, real resources
 
-[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+Seller financing, off-market buyers, lenders for every situation and a $100M+ team behind every deal.
 
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
+### Off-market and coming-soon homes
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow.
 
-“He was professional, timely, persistent and patient in helping get the sale closed.”
+### Lenders for every kind of buyer
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on.
 
-Contact
+### Creative deal structures
+
+Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan.
+
+### Developers and builders
+
+Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking.
+
+### The right people for every step
+
+Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need.
+
+### Complicated is fine
+
+Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out.
+
+[What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
+
+From this sale
+
+## What my sellers said
+
+[5.0 Read it on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+
+“My team and I had the opportunity to work with Nate representing us in a sale of a property in Los Angeles. He was professional, timely, persistent and patient in helping get the sale closed. We look forward to working with him again on other transactions.”
+
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026
+
+Free, no obligation
 
 ## Want a result like this?
 
-Thinking about selling, or looking for a home like this in the Fairfax District? Tell me what you're after.
+Find out what your home is worth, or tell me what you're looking for. Creative deals welcome.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -658,7 +792,7 @@ Sold for $1,155,000
 
 A half-acre lot in Reseda that I marketed to developers as a land play. Multiple offers came in the first week, and I sold it for $1,155,000, $156,000 over asking.
 
-Call 310-269-5541
+Get a result like this Call 310-269-5541
 
 [View on Compass ↗](https://www.compass.com/homedetails/18748-Lanark-St-Los-Angeles-CA-91335/2169982850442083505_lid/)
 
@@ -691,6 +825,38 @@ Drone view of 18748 Lanark St showing the open land behind the house. Drone phot
 
 Satellite view. [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=18748+Lanark+St%2C+Reseda%2C+CA+91335)
 
+What you get
+
+## One call. The whole network.
+
+Buying, selling or investing, you get more than an agent. You get every resource it takes to close, on any deal, however complicated.
+
+### Off-market and coming-soon homes
+
+Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow.
+
+### Lenders for every kind of buyer
+
+Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on.
+
+### Creative deal structures
+
+Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan.
+
+### Developers and builders
+
+Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking.
+
+### The right people for every step
+
+Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need.
+
+### Complicated is fine
+
+Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out.
+
+[What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
+
 From this sale
 
 ## What my sellers said
@@ -711,19 +877,20 @@ Track record
 
 [Leased $3,400 /mo1127 Glenville Dr #2 Pico-RobertsonRepresented tenant & landlord](https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/)
 
-Contact
+Free, no obligation
 
 ## Own a lot builders would want?
 
 Send me the address. I'll pull the zoning and the land comps and tell you what a developer would pay.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -756,7 +923,7 @@ Sold for $825,000
 
 A corner-lot development play in Van Nuys for my buyer: remodel the house, add two ADUs in the back and rent them out. I won it in multiple offers, then cut $31,000 off the price in escrow.
 
-Call 310-269-5541
+Find a deal like this Call 310-269-5541
 
 [View on Compass ↗](https://www.compass.com/homedetails/14757-Hartland-St-Van-Nuys-CA-91405/2115491441809620633_lid/)
 
@@ -785,6 +952,38 @@ From above
 
 Satellite view. [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=14757+Hartland+St%2C+Van+Nuys%2C+CA+91405)
 
+What you get
+
+## One call. The whole network.
+
+Buying, selling or investing, you get more than an agent. You get every resource it takes to close, on any deal, however complicated.
+
+### Off-market and coming-soon homes
+
+Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow.
+
+### Lenders for every kind of buyer
+
+Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on.
+
+### Creative deal structures
+
+Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan.
+
+### Developers and builders
+
+Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking.
+
+### The right people for every step
+
+Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need.
+
+### Complicated is fine
+
+Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out.
+
+[What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
+
 Reviews
 
 ## What clients say
@@ -793,11 +992,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Track record
 
@@ -809,19 +1008,20 @@ Track record
 
 [Leased $3,400 /mo1127 Glenville Dr #2 Pico-RobertsonRepresented tenant & landlord](https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/)
 
-Contact
+Free, no obligation
 
 ## Looking for a deal like this?
 
 Tell me the area, the budget and the plan. I'll send you lots and fixers that pencil, including ones before they hit the market.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -1021,7 +1221,7 @@ Twenty-one miles of coast, its own city, and septic tanks.
 
 Malibu ZIP 90265 $$$$ · Top of market
 
-[See Malibu homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=malibu) Text Nathaniel
+Get Malibu listings What's my Malibu home worth?
 
 What it’s like
 
@@ -1060,6 +1260,10 @@ From above
 - 3 **Malibu Country Mart** Shops and restaurants around Cross Creek Road.
 - 4 **Septic and insurance** Two costs to check on every Malibu home.
 - 5 **Pepperdine** The university on the hill above Malibu Canyon Road.
+
+**Thinking about Malibu?** New Malibu listings, off-market homes and lenders for any situation. Or a free value on your Malibu home.
+
+What's my home worth? Get Malibu listings
 
 Photos
 
@@ -1121,11 +1325,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -1191,19 +1395,20 @@ Who is Malibu a good fit for?
 
 You want privacy, ocean and space, and the drive into town doesn't bother you.
 
-Contact
+Free, no obligation
 
-## Looking in Malibu?
+## Buying or selling in Malibu?
 
-Tell me what you want and your budget. I'll set up your search and send new Malibu listings as they hit, including ones that aren't public yet.
+Get new Malibu listings as they hit, including ones that aren't public yet, or find out what your Malibu home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -1222,7 +1427,7 @@ Boats, high-rises and the bike path, run by the county.
 
 LA County ZIP 90292 $$$ · Upper
 
-[See Marina del Rey homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=marina-del-rey) Text Nathaniel
+Get Marina del Rey listings What's my Marina del Rey home worth?
 
 What it’s like
 
@@ -1260,6 +1465,10 @@ From above
 - 2 **The main channel** Walk or bike out to the jetty at the harbor mouth.
 - 3 **Fisherman's Village** Harbor-front shops and boat tours.
 - 4 **Ground leases** Most land is county-owned. Check the lease term on any condo.
+
+**Thinking about Marina del Rey?** New Marina del Rey listings, off-market homes and lenders for any situation. Or a free value on your Marina del Rey home.
+
+What's my home worth? Get Marina del Rey listings
 
 Photos
 
@@ -1319,11 +1528,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -1401,19 +1610,20 @@ Who is Marina del Rey a good fit for?
 
 You want water views, the bike path and an easy condo lifestyle.
 
-Contact
+Free, no obligation
 
-## Looking in Marina del Rey?
+## Buying or selling in Marina del Rey?
 
-Tell me what you want and your budget. I'll set up your search and send new Marina del Rey listings as they hit, including ones that aren't public yet.
+Get new Marina del Rey listings as they hit, including ones that aren't public yet, or find out what your Marina del Rey home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -1432,7 +1642,7 @@ A beach town in the hills, rebuilding after the January 2025 fire.
 
 City of LA ZIP 90272 $$$$ · Top of market
 
-[See Pacific Palisades homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=pacific-palisades) Text Nathaniel
+Get Pacific Palisades listings What's my Pacific Palisades home worth?
 
 What it’s like
 
@@ -1471,6 +1681,10 @@ From above
 - 3 **Will Rogers State Beach** Long beach below the bluffs along PCH.
 - 4 **Proposition TE** The 2026 ULA exemption for fire-damaged homes. Rules on the transfer tax page.
 - 5 **Rebuild permits** Check a lot's permit status before you price it.
+
+**Thinking about Pacific Palisades?** New Pacific Palisades listings, off-market homes and lenders for any situation. Or a free value on your Pacific Palisades home.
+
+What's my home worth? Get Pacific Palisades listings
 
 Photos
 
@@ -1540,11 +1754,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -1604,19 +1818,20 @@ Who is Pacific Palisades a good fit for?
 
 You want space, the coast and a long-term hold, and you're comfortable buying into a rebuild.
 
-Contact
+Free, no obligation
 
-## Looking in Pacific Palisades?
+## Buying or selling in Pacific Palisades?
 
-Tell me what you want and your budget. I'll set up your search and send new Pacific Palisades listings as they hit, including ones that aren't public yet.
+Get new Pacific Palisades listings as they hit, including ones that aren't public yet, or find out what your Pacific Palisades home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -1635,7 +1850,7 @@ A planned neighborhood with a park every few blocks.
 
 City of LA ZIP 90094 $$$ · Upper
 
-[See Playa Vista homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=playa-vista) Text Nathaniel
+Get Playa Vista listings What's my Playa Vista home worth?
 
 What it’s like
 
@@ -1673,6 +1888,10 @@ From above
 - 2 **Central Park** Pool, courts, playgrounds and the summer concert lawn.
 - 3 **Ballona Wetlands** Protected wetlands and the Ballona Creek bike path.
 - 4 **Silicon Beach offices** Big tech campuses within walking distance.
+
+**Thinking about Playa Vista?** New Playa Vista listings, off-market homes and lenders for any situation. Or a free value on your Playa Vista home.
+
+What's my home worth? Get Playa Vista listings
 
 ## Around Playa Vista
 
@@ -1734,11 +1953,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -1806,19 +2025,20 @@ Who is Playa Vista a good fit for?
 
 You want new construction, parks and a short walk to work.
 
-Contact
+Free, no obligation
 
-## Looking in Playa Vista?
+## Buying or selling in Playa Vista?
 
-Tell me what you want and your budget. I'll set up your search and send new Playa Vista listings as they hit, including ones that aren't public yet.
+Get new Playa Vista listings as they hit, including ones that aren't public yet, or find out what your Playa Vista home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -1837,7 +2057,7 @@ The quiet beach town most of LA forgets about.
 
 City of LA ZIP 90293 $$$ · Upper
 
-[See Playa del Rey homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=playa-del-rey) Text Nathaniel
+Get Playa del Rey listings What's my Playa del Rey home worth?
 
 What it’s like
 
@@ -1875,6 +2095,10 @@ From above
 - 2 **Del Rey Lagoon** Small park and lagoon a block from the sand.
 - 3 **Culver Blvd strip** The neighborhood's few bars and restaurants.
 - 4 **The bluffs** Hillside streets above Vista del Mar with the views.
+
+**Thinking about Playa del Rey?** New Playa del Rey listings, off-market homes and lenders for any situation. Or a free value on your Playa del Rey home.
+
+What's my home worth? Get Playa del Rey listings
 
 Photos
 
@@ -1940,11 +2164,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -2018,19 +2242,20 @@ Who is Playa del Rey a good fit for?
 
 You want the beach without the crowds and don't mind plane noise near the south end.
 
-Contact
+Free, no obligation
 
-## Looking in Playa del Rey?
+## Buying or selling in Playa del Rey?
 
-Tell me what you want and your budget. I'll set up your search and send new Playa del Rey listings as they hit, including ones that aren't public yet.
+Get new Playa del Rey listings as they hit, including ones that aren't public yet, or find out what your Playa del Rey home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -2049,7 +2274,7 @@ The beach city with its own rules, its own schools and a train to Downtown.
 
 Santa Monica ZIP 90401, 90402, 90403, 90404, 90405 $$$$ · Top of market
 
-[See Santa Monica homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=santa-monica) Text Nathaniel
+Get Santa Monica listings What's my Santa Monica home worth?
 
 What it’s like
 
@@ -2088,6 +2313,10 @@ From above
 - 3 **Main Street** Ocean Park's stretch of restaurants and shops, a few blocks from the sand.
 - 4 **Metro E Line** Downtown Santa Monica station connects to Culver City and Downtown LA.
 - 5 **The beach bike path** The Marvin Braude trail runs south through Venice and beyond.
+
+**Thinking about Santa Monica?** New Santa Monica listings, off-market homes and lenders for any situation. Or a free value on your Santa Monica home.
+
+What's my home worth? Get Santa Monica listings
 
 Photos
 
@@ -2147,11 +2376,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -2233,19 +2462,20 @@ Who is Santa Monica a good fit for?
 
 You want the beach, walkability and a train line, and you're fine paying for all three.
 
-Contact
+Free, no obligation
 
-## Looking in Santa Monica?
+## Buying or selling in Santa Monica?
 
-Tell me what you want and your budget. I'll set up your search and send new Santa Monica listings as they hit, including ones that aren't public yet.
+Get new Santa Monica listings as they hit, including ones that aren't public yet, or find out what your Santa Monica home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -2264,7 +2494,7 @@ Abbot Kinney, the canals and the boardwalk, inside the City of LA.
 
 City of LA ZIP 90291 $$$ · Upper
 
-[See Venice homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=venice) Text Nathaniel
+Get Venice listings What's my Venice home worth?
 
 What it’s like
 
@@ -2303,6 +2533,10 @@ From above
 - 3 **Venice Beach courts** Outdoor basketball and paddle tennis by the boardwalk.
 - 4 **Walk streets** Car-free residential lanes between Venice and Mar Vista.
 - 5 **Rose Avenue** The north end of Venice, closer to Santa Monica.
+
+**Thinking about Venice?** New Venice listings, off-market homes and lenders for any situation. Or a free value on your Venice home.
+
+What's my home worth? Get Venice listings
 
 Photos
 
@@ -2368,11 +2602,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -2450,19 +2684,20 @@ Who is Venice a good fit for?
 
 You want to walk to the beach and to dinner, and you like energy around you.
 
-Contact
+Free, no obligation
 
-## Looking in Venice?
+## Buying or selling in Venice?
 
-Tell me what you want and your budget. I'll set up your search and send new Venice listings as they hit, including ones that aren't public yet.
+Get new Venice listings as they hit, including ones that aren't public yet, or find out what your Venice home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -2481,7 +2716,7 @@ Big lots, big trees, and the San Vicente coral trees.
 
 City of LA ZIP 90049 $$$$ · Top of market
 
-[See Brentwood homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=brentwood) Text Nathaniel
+Get Brentwood listings What's my Brentwood home worth?
 
 What it’s like
 
@@ -2520,6 +2755,10 @@ From above
 - 3 **Brentwood Village** Shops and restaurants on Barrington Court.
 - 4 **The Getty Center** Museum and gardens on the hill above the 405.
 - 5 **Mandeville Canyon** Long canyon road of private homes and horse properties.
+
+**Thinking about Brentwood?** New Brentwood listings, off-market homes and lenders for any situation. Or a free value on your Brentwood home.
+
+What's my home worth? Get Brentwood listings
 
 Photos
 
@@ -2589,11 +2828,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -2661,19 +2900,20 @@ Who is Brentwood a good fit for?
 
 You want space, trees and a quiet street close to the beach.
 
-Contact
+Free, no obligation
 
-## Looking in Brentwood?
+## Buying or selling in Brentwood?
 
-Tell me what you want and your budget. I'll set up your search and send new Brentwood listings as they hit, including ones that aren't public yet.
+Get new Brentwood listings as they hit, including ones that aren't public yet, or find out what your Brentwood home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -2692,7 +2932,7 @@ High-rise living on the old 20th Century Fox backlot.
 
 City of LA ZIP 90067 $$$ · Upper
 
-[See Century City homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=century-city) Text Nathaniel
+Get Century City listings What's my Century City home worth?
 
 What it’s like
 
@@ -2730,6 +2970,10 @@ From above
 - 2 **Fox Studios** The working studio lot on Pico.
 - 3 **Avenue of the Stars** The main boulevard through the towers.
 - 4 **Roxbury Park** Beverly Hills park just across the border.
+
+**Thinking about Century City?** New Century City listings, off-market homes and lenders for any situation. Or a free value on your Century City home.
+
+What's my home worth? Get Century City listings
 
 Photos
 
@@ -2795,11 +3039,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -2867,19 +3111,20 @@ Who is Century City a good fit for?
 
 You want a doorman building in the middle of the Westside.
 
-Contact
+Free, no obligation
 
-## Looking in Century City?
+## Buying or selling in Century City?
 
-Tell me what you want and your budget. I'll set up your search and send new Century City listings as they hit, including ones that aren't public yet.
+Get new Century City listings as they hit, including ones that aren't public yet, or find out what your Century City home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -2898,7 +3143,7 @@ Curving streets next to the best public park on the Westside.
 
 City of LA ZIP 90064 $$$$ · Top of market
 
-[See Cheviot Hills & Rancho Park homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=cheviot-hills) Text Nathaniel
+Get Cheviot Hills & Rancho Park listings What's my Cheviot Hills & Rancho Park home worth?
 
 What it’s like
 
@@ -2936,6 +3181,10 @@ From above
 - 2 **Rancho Park Golf Course** Municipal course that once hosted the LA Open.
 - 3 **Motor Avenue** The main street through the neighborhood.
 - 4 **Westwood/Rancho Park station** Metro E Line on the north edge.
+
+**Thinking about Cheviot Hills & Rancho Park?** New Cheviot Hills & Rancho Park listings, off-market homes and lenders for any situation. Or a free value on your Cheviot Hills & Rancho Park home.
+
+What's my home worth? Get Cheviot Hills & Rancho Park listings
 
 ## Around Cheviot Hills & Rancho Park
 
@@ -2997,11 +3246,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -3069,19 +3318,20 @@ Who is Cheviot Hills & Rancho Park a good fit for?
 
 You want a quiet residential street with a big public park in walking distance.
 
-Contact
+Free, no obligation
 
-## Looking in Cheviot Hills & Rancho Park?
+## Buying or selling in Cheviot Hills & Rancho Park?
 
-Tell me what you want and your budget. I'll set up your search and send new Cheviot Hills & Rancho Park listings as they hit, including ones that aren't public yet.
+Get new Cheviot Hills & Rancho Park listings as they hit, including ones that aren't public yet, or find out what your Cheviot Hills & Rancho Park home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -3100,7 +3350,7 @@ Its own city, its own schools, and a downtown that works.
 
 Culver City ZIP 90230, 90232 $$$ · Upper
 
-[See Culver City homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=culver-city) Text Nathaniel
+Get Culver City listings What's my Culver City home worth?
 
 What it’s like
 
@@ -3139,6 +3389,10 @@ From above
 - 3 **Ballona Creek bike path** Ride from Culver City to Marina del Rey.
 - 4 **Culver City Unified** The city's own school district.
 - 5 **Fox Hills** Condo and townhome area on the south side of the city.
+
+**Thinking about Culver City?** New Culver City listings, off-market homes and lenders for any situation. Or a free value on your Culver City home.
+
+What's my home worth? Get Culver City listings
 
 ## Around Culver City
 
@@ -3194,11 +3448,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -3266,19 +3520,20 @@ Who is Culver City a good fit for?
 
 You want a small-city feel, walkable dinners and a train.
 
-Contact
+Free, no obligation
 
-## Looking in Culver City?
+## Buying or selling in Culver City?
 
-Tell me what you want and your budget. I'll set up your search and send new Culver City listings as they hit, including ones that aren't public yet.
+Get new Culver City listings as they hit, including ones that aren't public yet, or find out what your Culver City home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -3297,7 +3552,7 @@ Westside residential streets and mid-century homes, minutes from the beach.
 
 City of LA ZIP 90066 $$$ · Upper
 
-[See Mar Vista homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=mar-vista) Text Nathaniel
+Get Mar Vista listings What's my Mar Vista home worth?
 
 What it’s like
 
@@ -3336,6 +3591,10 @@ From above
 - 3 **Mar Vista Recreation Center** Fields, courts and a pool in the middle of the neighborhood.
 - 4 **Mar Vista Hill** The streets with the ocean views.
 - 5 **Penmar Park** Golf course and park on the Venice border.
+
+**Thinking about Mar Vista?** New Mar Vista listings, off-market homes and lenders for any situation. Or a free value on your Mar Vista home.
+
+What's my home worth? Get Mar Vista listings
 
 ## Around Mar Vista
 
@@ -3397,11 +3656,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -3469,19 +3728,20 @@ Who is Mar Vista a good fit for?
 
 You want a house with a yard on the Westside and quick freeway access.
 
-Contact
+Free, no obligation
 
-## Looking in Mar Vista?
+## Buying or selling in Mar Vista?
 
-Tell me what you want and your budget. I'll set up your search and send new Mar Vista listings as they hit, including ones that aren't public yet.
+Get new Mar Vista listings as they hit, including ones that aren't public yet, or find out what your Mar Vista home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -3500,7 +3760,7 @@ Dense, central and close to everything. The Westside's renter neighborhood.
 
 City of LA ZIP 90034 $$ · Moderate
 
-[See Palms homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=palms) Text Nathaniel
+Get Palms listings What's my Palms home worth?
 
 What it’s like
 
@@ -3538,6 +3798,10 @@ From above
 - 2 **Motor Avenue** The residential spine toward Cheviot Hills.
 - 3 **Overland Avenue** The route north to Westwood.
 - 4 **Culver City next door** Downtown Culver City is a short ride away.
+
+**Thinking about Palms?** New Palms listings, off-market homes and lenders for any situation. Or a free value on your Palms home.
+
+What's my home worth? Get Palms listings
 
 Photos
 
@@ -3603,11 +3867,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -3671,19 +3935,20 @@ Who is Palms a good fit for?
 
 You rent or want a first condo in a central Westside spot with a train.
 
-Contact
+Free, no obligation
 
-## Looking in Palms?
+## Buying or selling in Palms?
 
-Tell me what you want and your budget. I'll set up your search and send new Palms listings as they hit, including ones that aren't public yet.
+Get new Palms listings as they hit, including ones that aren't public yet, or find out what your Palms home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -3702,7 +3967,7 @@ Walkable, next to Beverly Hills, anchored by Pico Boulevard.
 
 City of LA ZIP 90035 $$$ · Upper
 
-[See Pico-Robertson & Beverlywood homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=pico-robertson) Text Nathaniel
+Get Pico-Robertson & Beverlywood listings What's my Pico-Robertson & Beverlywood home worth?
 
 What it’s like
 
@@ -3740,6 +4005,10 @@ From above
 - 2 **Robertson Boulevard** The route north into Beverly Hills.
 - 3 **Beverlywood** Single-family streets south of Cattaraugus.
 - 4 **Duplex stock** A classic place to buy a two-unit building.
+
+**Thinking about Pico-Robertson & Beverlywood?** New Pico-Robertson & Beverlywood listings, off-market homes and lenders for any situation. Or a free value on your Pico-Robertson & Beverlywood home.
+
+What's my home worth? Get Pico-Robertson & Beverlywood listings
 
 ## Around Pico-Robertson & Beverlywood
 
@@ -3809,11 +4078,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -3881,19 +4150,20 @@ Who is Pico-Robertson & Beverlywood a good fit for?
 
 You want to walk to everything and be minutes from Beverly Hills.
 
-Contact
+Free, no obligation
 
-## Looking in Pico-Robertson & Beverlywood?
+## Buying or selling in Pico-Robertson & Beverlywood?
 
-Tell me what you want and your budget. I'll set up your search and send new Pico-Robertson & Beverlywood listings as they hit, including ones that aren't public yet.
+Get new Pico-Robertson & Beverlywood listings as they hit, including ones that aren't public yet, or find out what your Pico-Robertson & Beverlywood home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -3912,7 +4182,7 @@ Sawtelle Japantown and the Westside's best casual food.
 
 City of LA ZIP 90025 $$$ · Upper
 
-[See West LA & Sawtelle homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=west-la) Text Nathaniel
+Get West LA & Sawtelle listings What's my West LA & Sawtelle home worth?
 
 What it’s like
 
@@ -3950,6 +4220,10 @@ From above
 - 2 **Nuart Theatre** Independent movie theater on Santa Monica Blvd.
 - 3 **Stoner Recreation Center** Courts, fields and a skate park.
 - 4 **Metro E Line** Expo/Bundy and Expo/Sepulveda stations.
+
+**Thinking about West LA & Sawtelle?** New West LA & Sawtelle listings, off-market homes and lenders for any situation. Or a free value on your West LA & Sawtelle home.
+
+What's my home worth? Get West LA & Sawtelle listings
 
 ## Around West LA & Sawtelle
 
@@ -4011,11 +4285,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -4087,19 +4361,20 @@ Who is West LA & Sawtelle a good fit for?
 
 You want a condo in the middle of the Westside with food you can walk to.
 
-Contact
+Free, no obligation
 
-## Looking in West LA & Sawtelle?
+## Buying or selling in West LA & Sawtelle?
 
-Tell me what you want and your budget. I'll set up your search and send new West LA & Sawtelle listings as they hit, including ones that aren't public yet.
+Get new West LA & Sawtelle listings as they hit, including ones that aren't public yet, or find out what your West LA & Sawtelle home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -4118,7 +4393,7 @@ Post-war houses, real yards, and LMU on the bluff.
 
 City of LA ZIP 90045 $$ · Moderate
 
-[See Westchester homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=westchester) Text Nathaniel
+Get Westchester listings What's my Westchester home worth?
 
 What it’s like
 
@@ -4156,6 +4431,10 @@ From above
 - 2 **Kentwood** Curving streets of post-war homes near the bluff.
 - 3 **Westchester Park** Pool, fields, courts and a golf course.
 - 4 **LAX** Five minutes away. Check flight paths before you buy.
+
+**Thinking about Westchester?** New Westchester listings, off-market homes and lenders for any situation. Or a free value on your Westchester home.
+
+What's my home worth? Get Westchester listings
 
 ## Around Westchester
 
@@ -4217,11 +4496,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -4281,19 +4560,20 @@ Who is Westchester a good fit for?
 
 You want a house and a yard on the Westside for less, and you fly a lot.
 
-Contact
+Free, no obligation
 
-## Looking in Westchester?
+## Buying or selling in Westchester?
 
-Tell me what you want and your budget. I'll set up your search and send new Westchester listings as they hit, including ones that aren't public yet.
+Get new Westchester listings as they hit, including ones that aren't public yet, or find out what your Westchester home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -4312,7 +4592,7 @@ UCLA, Westwood Village and the Wilshire Corridor towers.
 
 City of LA ZIP 90024 $$$$ · Top of market
 
-[See Westwood homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=westwood) Text Nathaniel
+Get Westwood listings What's my Westwood home worth?
 
 What it’s like
 
@@ -4350,6 +4630,10 @@ From above
 - 2 **The Wilshire Corridor** LA's strip of luxury condo towers.
 - 3 **UCLA** Campus, Pauley Pavilion and the Botanical Garden.
 - 4 **Holmby Westwood** Single-family streets north of Wilshire.
+
+**Thinking about Westwood?** New Westwood listings, off-market homes and lenders for any situation. Or a free value on your Westwood home.
+
+What's my home worth? Get Westwood listings
 
 Photos
 
@@ -4415,11 +4699,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -4487,19 +4771,20 @@ Who is Westwood a good fit for?
 
 You want a condo with service, or a classic house close to UCLA.
 
-Contact
+Free, no obligation
 
-## Looking in Westwood?
+## Buying or selling in Westwood?
 
-Tell me what you want and your budget. I'll set up your search and send new Westwood listings as they hit, including ones that aren't public yet.
+Get new Westwood listings as they hit, including ones that aren't public yet, or find out what your Westwood home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -4518,7 +4803,7 @@ Gated entrances, estate lots and the biggest houses in LA.
 
 City of LA ZIP 90077 $$$$ · Top of market
 
-[See Bel Air homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=bel-air) Text Nathaniel
+Get Bel Air listings What's my Bel Air home worth?
 
 What it’s like
 
@@ -4556,6 +4841,10 @@ From above
 - 2 **Hotel Bel-Air** The hotel on Stone Canyon Road.
 - 3 **Bel-Air Country Club** Private club along the canyon floor.
 - 4 **Measure ULA** Most Bel Air sales land in the tax. Run the numbers before pricing.
+
+**Thinking about Bel Air?** New Bel Air listings, off-market homes and lenders for any situation. Or a free value on your Bel Air home.
+
+What's my home worth? Get Bel Air listings
 
 ## Around Bel Air
 
@@ -4621,11 +4910,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -4697,19 +4986,20 @@ Who is Bel Air a good fit for?
 
 You want maximum privacy and land close to the Westside.
 
-Contact
+Free, no obligation
 
-## Looking in Bel Air?
+## Buying or selling in Bel Air?
 
-Tell me what you want and your budget. I'll set up your search and send new Bel Air listings as they hit, including ones that aren't public yet.
+Get new Bel Air listings as they hit, including ones that aren't public yet, or find out what your Bel Air home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -4728,7 +5018,7 @@ Its own city, its own schools, its own police, and the Flats.
 
 Beverly Hills ZIP 90210, 90211, 90212 $$$$ · Top of market
 
-[See Beverly Hills homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=beverly-hills) Text Nathaniel
+Get Beverly Hills listings What's my Beverly Hills home worth?
 
 What it’s like
 
@@ -4767,6 +5057,10 @@ From above
 - 3 **Greystone Mansion** Historic estate and public gardens.
 - 4 **Trousdale Estates** Mid-century hillside homes with city views.
 - 5 **Beverly Hills Unified** The city's own school district.
+
+**Thinking about Beverly Hills?** New Beverly Hills listings, off-market homes and lenders for any situation. Or a free value on your Beverly Hills home.
+
+What's my home worth? Get Beverly Hills listings
 
 Photos
 
@@ -4832,11 +5126,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -4908,19 +5202,20 @@ Who is Beverly Hills a good fit for?
 
 You want city services, walkable shopping and a famous address.
 
-Contact
+Free, no obligation
 
-## Looking in Beverly Hills?
+## Buying or selling in Beverly Hills?
 
-Tell me what you want and your budget. I'll set up your search and send new Beverly Hills listings as they hit, including ones that aren't public yet.
+Get new Beverly Hills listings as they hit, including ones that aren't public yet, or find out what your Beverly Hills home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -4939,7 +5234,7 @@ A 90210 address in the City of LA. Canyons, views and privacy.
 
 City of LA ZIP 90210 $$$$ · Top of market
 
-[See Beverly Hills Post Office homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=bhpo) Text Nathaniel
+Get Beverly Hills Post Office listings What's my Beverly Hills Post Office home worth?
 
 What it’s like
 
@@ -4977,6 +5272,10 @@ From above
 - 2 **Benedict Canyon** Winding canyon of private homes.
 - 3 **Franklin Canyon Park** Lake, trails and a quiet morning hike.
 - 4 **City of LA rules** ULA, LA's 0.45% transfer tax and LAUSD apply, despite the 90210 ZIP.
+
+**Thinking about Beverly Hills Post Office?** New Beverly Hills Post Office listings, off-market homes and lenders for any situation. Or a free value on your Beverly Hills Post Office home.
+
+What's my home worth? Get Beverly Hills Post Office listings
 
 ## Around Beverly Hills Post Office
 
@@ -5042,11 +5341,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -5114,19 +5413,20 @@ Who is Beverly Hills Post Office a good fit for?
 
 You want privacy and views 10 minutes from Beverly Hills.
 
-Contact
+Free, no obligation
 
-## Looking in Beverly Hills Post Office?
+## Buying or selling in Beverly Hills Post Office?
 
-Tell me what you want and your budget. I'll set up your search and send new Beverly Hills Post Office listings as they hit, including ones that aren't public yet.
+Get new Beverly Hills Post Office listings as they hit, including ones that aren't public yet, or find out what your Beverly Hills Post Office home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -5145,7 +5445,7 @@ City views five minutes from Sunset.
 
 City of LA ZIP 90068, 90046, 90069 $$$$ · Top of market
 
-[See Hollywood Hills homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=hollywood-hills) Text Nathaniel
+Get Hollywood Hills listings What's my Hollywood Hills home worth?
 
 What it’s like
 
@@ -5184,6 +5484,10 @@ From above
 - 3 **Laurel Canyon** The canyon road between Hollywood and Studio City.
 - 4 **The Bird Streets** Hillside streets above the Sunset Strip named after birds.
 - 5 **Hollywood Bowl** Summer concerts under the stars.
+
+**Thinking about Hollywood Hills?** New Hollywood Hills listings, off-market homes and lenders for any situation. Or a free value on your Hollywood Hills home.
+
+What's my home worth? Get Hollywood Hills listings
 
 Photos
 
@@ -5253,11 +5557,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -5325,19 +5629,20 @@ Who is Hollywood Hills a good fit for?
 
 You want views and nightlife close by.
 
-Contact
+Free, no obligation
 
-## Looking in Hollywood Hills?
+## Buying or selling in Hollywood Hills?
 
-Tell me what you want and your budget. I'll set up your search and send new Hollywood Hills listings as they hit, including ones that aren't public yet.
+Get new Hollywood Hills listings as they hit, including ones that aren't public yet, or find out what your Hollywood Hills home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -5356,7 +5661,7 @@ Third Street, the Beverly Center and Spanish duplexes on every block.
 
 City of LA ZIP 90048 $$$ · Upper
 
-[See Beverly Grove homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=beverly-grove) Text Nathaniel
+Get Beverly Grove listings What's my Beverly Grove home worth?
 
 What it’s like
 
@@ -5394,6 +5699,10 @@ From above
 - 2 **Melrose Place** Short, quiet street of boutiques.
 - 3 **Cedars-Sinai** The medical center and one of the area's biggest employers.
 - 4 **Spanish duplexes** Two units, one lot, and rent that helps pay the mortgage.
+
+**Thinking about Beverly Grove?** New Beverly Grove listings, off-market homes and lenders for any situation. Or a free value on your Beverly Grove home.
+
+What's my home worth? Get Beverly Grove listings
 
 ## Around Beverly Grove
 
@@ -5455,11 +5764,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -5527,19 +5836,20 @@ Who is Beverly Grove a good fit for?
 
 You want a central, walkable spot, or a duplex to live in and rent out.
 
-Contact
+Free, no obligation
 
-## Looking in Beverly Grove?
+## Buying or selling in Beverly Grove?
 
-Tell me what you want and your budget. I'll set up your search and send new Beverly Grove listings as they hit, including ones that aren't public yet.
+Get new Beverly Grove listings as they hit, including ones that aren't public yet, or find out what your Beverly Grove home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -5558,7 +5868,7 @@ The Original Farmers Market, The Grove and blocks of Spanish duplexes.
 
 City of LA ZIP 90036 $$$ · Upper
 
-[See Fairfax District homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=fairfax) Text Nathaniel
+Get Fairfax District listings What's my Fairfax District home worth?
 
 What it’s like
 
@@ -5596,6 +5906,10 @@ From above
 - 2 **The Grove** Outdoor mall with the trolley and the fountain.
 - 3 **Pan Pacific Park** Fields, rec center and the playground.
 - 4 **Fairfax Avenue** Streetwear shops, Canter's and the Melrose crossing.
+
+**Thinking about Fairfax District?** New Fairfax District listings, off-market homes and lenders for any situation. Or a free value on your Fairfax District home.
+
+What's my home worth? Get Fairfax District listings
 
 Photos
 
@@ -5669,11 +5983,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -5737,19 +6051,20 @@ Who is Fairfax District a good fit for?
 
 You want to walk to the market and live in a classic LA building.
 
-Contact
+Free, no obligation
 
-## Looking in Fairfax District?
+## Buying or selling in Fairfax District?
 
-Tell me what you want and your budget. I'll set up your search and send new Fairfax District listings as they hit, including ones that aren't public yet.
+Get new Fairfax District listings as they hit, including ones that aren't public yet, or find out what your Fairfax District home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -5768,7 +6083,7 @@ Old LA mansions, Larchmont Village and the Wilshire Country Club.
 
 City of LA ZIP 90004, 90020 $$$$ · Top of market
 
-[See Hancock Park & Larchmont homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=hancock-park) Text Nathaniel
+Get Hancock Park & Larchmont listings What's my Hancock Park & Larchmont home worth?
 
 What it’s like
 
@@ -5806,6 +6121,10 @@ From above
 - 2 **Wilshire Country Club** Private club and golf course in the middle of the neighborhood.
 - 3 **Windsor Square** The neighboring area east of Larchmont.
 - 4 **HPOZ review** Plan for historic review on exterior work.
+
+**Thinking about Hancock Park & Larchmont?** New Hancock Park & Larchmont listings, off-market homes and lenders for any situation. Or a free value on your Hancock Park & Larchmont home.
+
+What's my home worth? Get Hancock Park & Larchmont listings
 
 ## Around Hancock Park & Larchmont
 
@@ -5867,11 +6186,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -5931,19 +6250,20 @@ Who is Hancock Park & Larchmont a good fit for?
 
 You want an old-LA house on a quiet, walkable street.
 
-Contact
+Free, no obligation
 
-## Looking in Hancock Park & Larchmont?
+## Buying or selling in Hancock Park & Larchmont?
 
-Tell me what you want and your budget. I'll set up your search and send new Hancock Park & Larchmont listings as they hit, including ones that aren't public yet.
+Get new Hancock Park & Larchmont listings as they hit, including ones that aren't public yet, or find out what your Hancock Park & Larchmont home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -5962,7 +6282,7 @@ Studios, nightlife and the B Line. Live a few blocks off the boulevard.
 
 City of LA ZIP 90028, 90038 $$ · Moderate
 
-[See Hollywood homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=hollywood) Text Nathaniel
+Get Hollywood listings What's my Hollywood home worth?
 
 What it’s like
 
@@ -6000,6 +6320,10 @@ From above
 - 2 **Paramount Pictures** The working studio on Melrose.
 - 3 **Hollywood Forever** Cemetery with summer movie screenings.
 - 4 **Sunset & Vine** The newer apartment and retail hub.
+
+**Thinking about Hollywood?** New Hollywood listings, off-market homes and lenders for any situation. Or a free value on your Hollywood home.
+
+What's my home worth? Get Hollywood listings
 
 Photos
 
@@ -6065,11 +6389,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -6151,19 +6475,20 @@ Who is Hollywood a good fit for?
 
 You want energy, a train and to be close to the studios.
 
-Contact
+Free, no obligation
 
-## Looking in Hollywood?
+## Buying or selling in Hollywood?
 
-Tell me what you want and your budget. I'll set up your search and send new Hollywood listings as they hit, including ones that aren't public yet.
+Get new Hollywood listings as they hit, including ones that aren't public yet, or find out what your Hollywood home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -6182,7 +6507,7 @@ Museum Row on Wilshire and the subway underneath it.
 
 City of LA ZIP 90036 $$$ · Upper
 
-[See Miracle Mile homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=miracle-mile) Text Nathaniel
+Get Miracle Mile listings What's my Miracle Mile home worth?
 
 What it’s like
 
@@ -6220,6 +6545,10 @@ From above
 - 2 **La Brea Tar Pits** Ice-age fossils in a public park.
 - 3 **Academy Museum** The film museum at Wilshire and Fairfax.
 - 4 **Miracle Mile HPOZ** Historic rules on exterior changes. Check before you remodel.
+
+**Thinking about Miracle Mile?** New Miracle Mile listings, off-market homes and lenders for any situation. Or a free value on your Miracle Mile home.
+
+What's my home worth? Get Miracle Mile listings
 
 Photos
 
@@ -6285,11 +6614,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -6353,19 +6682,20 @@ Who is Miracle Mile a good fit for?
 
 You want culture and a subway stop in walking distance.
 
-Contact
+Free, no obligation
 
-## Looking in Miracle Mile?
+## Buying or selling in Miracle Mile?
 
-Tell me what you want and your budget. I'll set up your search and send new Miracle Mile listings as they hit, including ones that aren't public yet.
+Get new Miracle Mile listings as they hit, including ones that aren't public yet, or find out what your Miracle Mile home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -6384,7 +6714,7 @@ The Sunset Strip, Santa Monica Boulevard and the Design District in under two sq
 
 West Hollywood ZIP 90069, 90046, 90048 $$$ · Upper
 
-[See West Hollywood homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=west-hollywood) Text Nathaniel
+Get West Hollywood listings What's my West Hollywood home worth?
 
 What it’s like
 
@@ -6423,6 +6753,10 @@ From above
 - 3 **Design District** Furniture showrooms and galleries around Melrose and Robertson.
 - 4 **Pacific Design Center** The blue and green buildings on Melrose.
 - 5 **Kings Road Park** Small park in the middle of the east side.
+
+**Thinking about West Hollywood?** New West Hollywood listings, off-market homes and lenders for any situation. Or a free value on your West Hollywood home.
+
+What's my home worth? Get West Hollywood listings
 
 ## Around West Hollywood
 
@@ -6484,11 +6818,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -6556,19 +6890,20 @@ Who is West Hollywood a good fit for?
 
 You want to walk to dinner and stay out late.
 
-Contact
+Free, no obligation
 
-## Looking in West Hollywood?
+## Buying or selling in West Hollywood?
 
-Tell me what you want and your budget. I'll set up your search and send new West Hollywood listings as they hit, including ones that aren't public yet.
+Get new West Hollywood listings as they hit, including ones that aren't public yet, or find out what your West Hollywood home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -6587,7 +6922,7 @@ Thai Town, Little Armenia and Barnsdall Park, right on the B Line.
 
 City of LA ZIP 90029 $$ · Moderate
 
-[See East Hollywood homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=east-hollywood) Text Nathaniel
+Get East Hollywood listings What's my East Hollywood home worth?
 
 What it’s like
 
@@ -6625,6 +6960,10 @@ From above
 - 2 **Thai Town** Restaurants along Hollywood Blvd.
 - 3 **Little Armenia** Bakeries and markets along Hollywood Boulevard.
 - 4 **Metro B Line** Vermont/Sunset and Vermont/Santa Monica stations.
+
+**Thinking about East Hollywood?** New East Hollywood listings, off-market homes and lenders for any situation. Or a free value on your East Hollywood home.
+
+What's my home worth? Get East Hollywood listings
 
 ## Around East Hollywood
 
@@ -6686,11 +7025,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -6754,19 +7093,20 @@ Who is East Hollywood a good fit for?
 
 You want value next to the Eastside's best neighborhoods.
 
-Contact
+Free, no obligation
 
-## Looking in East Hollywood?
+## Buying or selling in East Hollywood?
 
-Tell me what you want and your budget. I'll set up your search and send new East Hollywood listings as they hit, including ones that aren't public yet.
+Get new East Hollywood listings as they hit, including ones that aren't public yet, or find out what your East Hollywood home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -6785,7 +7125,7 @@ The lake, Dodger Stadium and hillside homes close to Downtown.
 
 City of LA ZIP 90026 $$ · Moderate
 
-[See Echo Park homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=echo-park) Text Nathaniel
+Get Echo Park listings What's my Echo Park home worth?
 
 What it’s like
 
@@ -6823,6 +7163,10 @@ From above
 - 2 **Dodger Stadium** Walkable on game nights.
 - 3 **Elysian Park** LA's second-largest city park.
 - 4 **Angelino Heights** Victorian homes on Carroll Avenue.
+
+**Thinking about Echo Park?** New Echo Park listings, off-market homes and lenders for any situation. Or a free value on your Echo Park home.
+
+What's my home worth? Get Echo Park listings
 
 ## Around Echo Park
 
@@ -6884,11 +7228,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -6948,19 +7292,20 @@ Who is Echo Park a good fit for?
 
 You want character close to Downtown.
 
-Contact
+Free, no obligation
 
-## Looking in Echo Park?
+## Buying or selling in Echo Park?
 
-Tell me what you want and your budget. I'll set up your search and send new Echo Park listings as they hit, including ones that aren't public yet.
+Get new Echo Park listings as they hit, including ones that aren't public yet, or find out what your Echo Park home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -6979,7 +7324,7 @@ Griffith Park as a backyard and Vermont Avenue for dinner.
 
 City of LA ZIP 90027 $$$$ · Top of market
 
-[See Los Feliz homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=los-feliz) Text Nathaniel
+Get Los Feliz listings What's my Los Feliz home worth?
 
 What it’s like
 
@@ -7018,6 +7363,10 @@ From above
 - 3 **The Greek Theatre** Outdoor concert venue in the park.
 - 4 **Ennis House** Frank Lloyd Wright's textile-block house on Glendower.
 - 5 **Los Feliz Estates** The hillside streets above Los Feliz Blvd.
+
+**Thinking about Los Feliz?** New Los Feliz listings, off-market homes and lenders for any situation. Or a free value on your Los Feliz home.
+
+What's my home worth? Get Los Feliz listings
 
 Photos
 
@@ -7091,11 +7440,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -7163,19 +7512,20 @@ Who is Los Feliz a good fit for?
 
 You want a walkable village and a huge park at your door.
 
-Contact
+Free, no obligation
 
-## Looking in Los Feliz?
+## Buying or selling in Los Feliz?
 
-Tell me what you want and your budget. I'll set up your search and send new Los Feliz listings as they hit, including ones that aren't public yet.
+Get new Los Feliz listings as they hit, including ones that aren't public yet, or find out what your Los Feliz home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -7194,7 +7544,7 @@ The reservoir loop, Sunset Junction and modernist houses on the hills.
 
 City of LA ZIP 90026, 90039 $$$ · Upper
 
-[See Silver Lake homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=silver-lake) Text Nathaniel
+Get Silver Lake listings What's my Silver Lake home worth?
 
 What it’s like
 
@@ -7232,6 +7582,10 @@ From above
 - 2 **Sunset Junction** Coffee, shops and restaurants on Sunset.
 - 3 **Public stairways** Historic stairs that climb between the hillside streets.
 - 4 **Neutra VDL House** Richard Neutra's own home on Silver Lake Blvd.
+
+**Thinking about Silver Lake?** New Silver Lake listings, off-market homes and lenders for any situation. Or a free value on your Silver Lake home.
+
+What's my home worth? Get Silver Lake listings
 
 Photos
 
@@ -7305,11 +7659,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -7369,19 +7723,20 @@ Who is Silver Lake a good fit for?
 
 You want design, walkability and an Eastside creative crowd.
 
-Contact
+Free, no obligation
 
-## Looking in Silver Lake?
+## Buying or selling in Silver Lake?
 
-Tell me what you want and your budget. I'll set up your search and send new Silver Lake listings as they hit, including ones that aren't public yet.
+Get new Silver Lake listings as they hit, including ones that aren't public yet, or find out what your Silver Lake home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -7400,7 +7755,7 @@ Big lots south of Ventura, condos north of it, and the Sepulveda Basin.
 
 City of LA ZIP 91316, 91436 $$$$ · Top of market
 
-[See Encino homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=encino) Text Nathaniel
+Get Encino listings What's my Encino home worth?
 
 What it’s like
 
@@ -7438,6 +7793,10 @@ From above
 - 2 **Sepulveda Basin** Golf, fields, bike paths and Lake Balboa.
 - 3 **Los Encinos State Historic Park** The 1800s ranch site and pond.
 - 4 **Condo pockets** Townhome-style condos north of Ventura.
+
+**Thinking about Encino?** New Encino listings, off-market homes and lenders for any situation. Or a free value on your Encino home.
+
+What's my home worth? Get Encino listings
 
 ## Around Encino
 
@@ -7505,11 +7864,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -7577,19 +7936,20 @@ Who is Encino a good fit for?
 
 You want land and privacy in the Valley, or an easy condo near Ventura.
 
-Contact
+Free, no obligation
 
-## Looking in Encino?
+## Buying or selling in Encino?
 
-Tell me what you want and your budget. I'll set up your search and send new Encino listings as they hit, including ones that aren't public yet.
+Get new Encino listings as they hit, including ones that aren't public yet, or find out what your Encino home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -7608,7 +7968,7 @@ The NoHo Arts District and the end of the B Line.
 
 City of LA ZIP 91601, 91602, 91605, 91606 $$ · Moderate
 
-[See North Hollywood homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=north-hollywood) Text Nathaniel
+Get North Hollywood listings What's my North Hollywood home worth?
 
 What it’s like
 
@@ -7646,6 +8006,10 @@ From above
 - 2 **North Hollywood station** B Line subway and G Line busway.
 - 3 **Lankershim Blvd** Main street through the arts district.
 - 4 **Universal City** One stop south on the B Line.
+
+**Thinking about North Hollywood?** New North Hollywood listings, off-market homes and lenders for any situation. Or a free value on your North Hollywood home.
+
+What's my home worth? Get North Hollywood listings
 
 ## Around North Hollywood
 
@@ -7707,11 +8071,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -7771,19 +8135,20 @@ Who is North Hollywood a good fit for?
 
 You want a train, a scene and Valley prices.
 
-Contact
+Free, no obligation
 
-## Looking in North Hollywood?
+## Buying or selling in North Hollywood?
 
-Tell me what you want and your budget. I'll set up your search and send new North Hollywood listings as they hit, including ones that aren't public yet.
+Get new North Hollywood listings as they hit, including ones that aren't public yet, or find out what your North Hollywood home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -7802,7 +8167,7 @@ Big flat lots and some of the most attainable houses in the City of LA.
 
 City of LA ZIP 91335 $ · Most attainable
 
-[See Reseda homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=reseda) Text Nathaniel
+Get Reseda listings What's my Reseda home worth?
 
 What it’s like
 
@@ -7840,6 +8205,10 @@ From above
 - 2 **Sherman Way** The main commercial street.
 - 3 **Big lots** Room for an ADU, a pool or both.
 - 4 **Close to Tarzana** Ventura Blvd is a few minutes south.
+
+**Thinking about Reseda?** New Reseda listings, off-market homes and lenders for any situation. Or a free value on your Reseda home.
+
+What's my home worth? Get Reseda listings
 
 ## Around Reseda
 
@@ -7907,11 +8276,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -7975,19 +8344,20 @@ Who is Reseda a good fit for?
 
 You want a real yard and the most house for the money inside the City of LA.
 
-Contact
+Free, no obligation
 
-## Looking in Reseda?
+## Buying or selling in Reseda?
 
-Tell me what you want and your budget. I'll set up your search and send new Reseda listings as they hit, including ones that aren't public yet.
+Get new Reseda listings as they hit, including ones that aren't public yet, or find out what your Reseda home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -8006,7 +8376,7 @@ Ventura Boulevard, the Galleria and the 405/101 interchange.
 
 City of LA ZIP 91403, 91423 $$$ · Upper
 
-[See Sherman Oaks homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=sherman-oaks) Text Nathaniel
+Get Sherman Oaks listings What's my Sherman Oaks home worth?
 
 What it’s like
 
@@ -8044,6 +8414,10 @@ From above
 - 2 **Sherman Oaks Galleria** Offices, restaurants and the movie theater.
 - 3 **South of the Boulevard** The hillside streets locals mean when they say it.
 - 4 **The 405** Over the hill to Westwood. Timing is everything.
+
+**Thinking about Sherman Oaks?** New Sherman Oaks listings, off-market homes and lenders for any situation. Or a free value on your Sherman Oaks home.
+
+What's my home worth? Get Sherman Oaks listings
 
 Photos
 
@@ -8109,11 +8483,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -8181,19 +8555,20 @@ Who is Sherman Oaks a good fit for?
 
 You work on the Westside and want a Valley house.
 
-Contact
+Free, no obligation
 
-## Looking in Sherman Oaks?
+## Buying or selling in Sherman Oaks?
 
-Tell me what you want and your budget. I'll set up your search and send new Sherman Oaks listings as they hit, including ones that aren't public yet.
+Get new Sherman Oaks listings as they hit, including ones that aren't public yet, or find out what your Sherman Oaks home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -8212,7 +8587,7 @@ The Valley's most walkable stretch of Ventura Boulevard.
 
 City of LA ZIP 91604 $$$$ · Top of market
 
-[See Studio City homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=studio-city) Text Nathaniel
+Get Studio City listings What's my Studio City home worth?
 
 What it’s like
 
@@ -8250,6 +8625,10 @@ From above
 - 2 **Tujunga Village** Walkable block of shops and cafes.
 - 3 **Fryman Canyon** Trail up to Mulholland.
 - 4 **CBS Studio Center** The working studio the neighborhood is named for.
+
+**Thinking about Studio City?** New Studio City listings, off-market homes and lenders for any situation. Or a free value on your Studio City home.
+
+What's my home worth? Get Studio City listings
 
 ## Around Studio City
 
@@ -8311,11 +8690,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -8397,19 +8776,20 @@ Who is Studio City a good fit for?
 
 You want Valley space with a 15-minute drive to Hollywood.
 
-Contact
+Free, no obligation
 
-## Looking in Studio City?
+## Buying or selling in Studio City?
 
-Tell me what you want and your budget. I'll set up your search and send new Studio City listings as they hit, including ones that aren't public yet.
+Get new Studio City listings as they hit, including ones that aren't public yet, or find out what your Studio City home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -8428,7 +8808,7 @@ Named for Tarzan, with hillside homes and room to spread out.
 
 City of LA ZIP 91356 $$$ · Upper
 
-[See Tarzana homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=tarzana) Text Nathaniel
+Get Tarzana listings What's my Tarzana home worth?
 
 What it’s like
 
@@ -8466,6 +8846,10 @@ From above
 - 2 **Tarzana Recreation Center** Fields, courts and community classes.
 - 3 **Providence Tarzana** The neighborhood's medical center.
 - 4 **Mulholland** The ridge road on the south edge.
+
+**Thinking about Tarzana?** New Tarzana listings, off-market homes and lenders for any situation. Or a free value on your Tarzana home.
+
+What's my home worth? Get Tarzana listings
 
 ## Around Tarzana
 
@@ -8525,11 +8909,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -8589,19 +8973,20 @@ Who is Tarzana a good fit for?
 
 You want more house and yard for the money than Encino.
 
-Contact
+Free, no obligation
 
-## Looking in Tarzana?
+## Buying or selling in Tarzana?
 
-Tell me what you want and your budget. I'll set up your search and send new Tarzana listings as they hit, including ones that aren't public yet.
+Get new Tarzana listings as they hit, including ones that aren't public yet, or find out what your Tarzana home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -8620,7 +9005,7 @@ Quiet streets between Studio City and NoHo.
 
 City of LA ZIP 91607 $$$ · Upper
 
-[See Valley Village homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=valley-village) Text Nathaniel
+Get Valley Village listings What's my Valley Village home worth?
 
 What it’s like
 
@@ -8657,6 +9042,10 @@ From above
 - 1 **Valley Village Park** The neighborhood park and playground.
 - 2 **Laurel Canyon Blvd** The route south toward Studio City and the hills.
 - 3 **Close to NoHo** The arts district and the B Line are minutes away.
+
+**Thinking about Valley Village?** New Valley Village listings, off-market homes and lenders for any situation. Or a free value on your Valley Village home.
+
+What's my home worth? Get Valley Village listings
 
 ## Around Valley Village
 
@@ -8718,11 +9107,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -8782,19 +9171,20 @@ Who is Valley Village a good fit for?
 
 You want Studio City access at a lower price.
 
-Contact
+Free, no obligation
 
-## Looking in Valley Village?
+## Buying or selling in Valley Village?
 
-Tell me what you want and your budget. I'll set up your search and send new Valley Village listings as they hit, including ones that aren't public yet.
+Get new Valley Village listings as they hit, including ones that aren't public yet, or find out what your Valley Village home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -8813,7 +9203,7 @@ Entry-level houses, real lots and room for an ADU.
 
 City of LA ZIP 91401, 91405, 91406, 91411 $ · Most attainable
 
-[See Van Nuys homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=van-nuys) Text Nathaniel
+Get Van Nuys listings What's my Van Nuys home worth?
 
 What it’s like
 
@@ -8851,6 +9241,10 @@ From above
 - 2 **Van Nuys Airport** Private jet airport in the middle of the Valley.
 - 3 **Van Nuys Civic Center** City and county offices for the Valley.
 - 4 **ADU potential** Flat lots that can usually fit a backyard unit.
+
+**Thinking about Van Nuys?** New Van Nuys listings, off-market homes and lenders for any situation. Or a free value on your Van Nuys home.
+
+What's my home worth? Get Van Nuys listings
 
 ## Around Van Nuys
 
@@ -8920,11 +9314,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -8988,19 +9382,20 @@ Who is Van Nuys a good fit for?
 
 You want your first house in LA, or a lot with room to add a unit.
 
-Contact
+Free, no obligation
 
-## Looking in Van Nuys?
+## Buying or selling in Van Nuys?
 
-Tell me what you want and your budget. I'll set up your search and send new Van Nuys listings as they hit, including ones that aren't public yet.
+Get new Van Nuys listings as they hit, including ones that aren't public yet, or find out what your Van Nuys home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -9019,7 +9414,7 @@ Warner Center, Topanga trails and the Valley's west end.
 
 City of LA ZIP 91364, 91367 $$$ · Upper
 
-[See Woodland Hills homes](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=buy&area=woodland-hills) Text Nathaniel
+Get Woodland Hills listings What's my Woodland Hills home worth?
 
 What it’s like
 
@@ -9057,6 +9452,10 @@ From above
 - 2 **Topanga State Park** Trails into the Santa Monica Mountains.
 - 3 **Pierce College** The community college and its farm.
 - 4 **Summer heat** Pools are standard for a reason.
+
+**Thinking about Woodland Hills?** New Woodland Hills listings, off-market homes and lenders for any situation. Or a free value on your Woodland Hills home.
+
+What's my home worth? Get Woodland Hills listings
 
 ## Around Woodland Hills
 
@@ -9116,11 +9515,11 @@ Reviews
 
 “He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
 
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 “He was professional, timely, persistent and patient in helping get the sale closed.”
 
-**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -9180,19 +9579,20 @@ Who is Woodland Hills a good fit for?
 
 You want space, a pool and trails.
 
-Contact
+Free, no obligation
 
-## Looking in Woodland Hills?
+## Buying or selling in Woodland Hills?
 
-Tell me what you want and your budget. I'll set up your search and send new Woodland Hills listings as they hit, including ones that aren't public yet.
+Get new Woodland Hills listings as they hit, including ones that aren't public yet, or find out what your Woodland Hills home is worth.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
@@ -9286,11 +9686,20 @@ Mentioned in this post
 
 [Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
 
-## Tell me what you're after
+Free, no obligation
 
-Buying, selling, renting, investing or building. Start here.
+## Let's get you a number, or a home
 
-[Get my home's value](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=sell) Text Call
+Pick one. It takes about a minute, and you'll hear from me today.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 
@@ -9386,11 +9795,20 @@ Mentioned in this post
 
 [Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
 
-## Tell me what you're after
+Free, no obligation
 
-Buying, selling, renting, investing or building. Start here.
+## Let's get you a number, or a home
 
-[Get my home's value](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=sell) Text Call
+Pick one. It takes about a minute, and you'll hear from me today.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 
@@ -9510,11 +9928,20 @@ Mentioned in this post
 
 [Laws & MoneyThe 90210 homes that pay LA's mansion taxBeverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax. November 25, 2026](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la)
 
-## Tell me what you're after
+Free, no obligation
 
-Buying, selling, renting, investing or building. Start here.
+## Let's get you a number, or a home
 
-[Get my home's value](https://www.nathanielgrivas.com/tools/neighborhood-quiz/?goal=sell) Text Call
+Pick one. It takes about a minute, and you'll hear from me today.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 

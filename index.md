@@ -13,16 +13,16 @@ From Westchester to Malibu, Hollywood to Silver Lake, and across the San Fernand
 
 ## How he helps
 
-- Buy a home: New listings that fit, sent as soon as they hit the market.
-- Sell my home: Pricing, prep and a plan for your sale.
+- What's my home worth?: A free valuation built by hand from the sales on your street.
+- Find me a home: New listings, coming-soon and off-market homes, sent as they come up.
 - Rent a home: Leases across the Westside and the Valley.
-- Invest: Income property, value-add and off-market deals.
-- Build: Lots, teardowns and ADU feasibility.
+- Invest: Income property, value-add, off-market deals and DSCR lenders.
+- Build: Lots, teardowns, ADUs and the architects and builders to do it.
 
 ## Featured homes (with video tours)
 
 - [3721 Evans St W, Los Feliz, Los Angeles, CA 90027](https://www.nathanielgrivas.com/homes/3721-evans): For sale, $4,800,000. A brand-new modern compound in Los Feliz: a five-bedroom main house and a three-bedroom ADU, each with its own rooftop lounge.
-- [616 N Fuller Ave, Fairfax District, Los Angeles, CA 90036](https://www.nathanielgrivas.com/homes/616-fuller): Sold, $3,275,000. A three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000, representing both the seller and the buyer.
+- [616 N Fuller Ave, Fairfax District, Los Angeles, CA 90036](https://www.nathanielgrivas.com/homes/616-fuller): Sold, $3,275,000. A three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000 with seller financing, representing both the sellers and the buyer.
 
 ## Listings
 
