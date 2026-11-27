@@ -11,7 +11,7 @@ e = html.escape
 GBP_URL = "https://share.google/EwuPsirAOfl9Hvj1o"
 RATING = "5.0"
 REVIEWS = [
-    dict(name="Willy Blasquez", who="Home seller, Reseda", when="November 2026",
+    dict(name="Willy Blasquez", who="Home seller, Reseda", when="November 2026", url="/homes/18748-lanark/", deal="18748 Lanark St",
          short="He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.",
          text=("We had a great experience working with our realtor, Nate [Grivas] in selling our Reseda property. He did an outstanding job "
                "marketing the property, generating multiple offers within the very first week it was on the market. His communication and "
@@ -19,7 +19,7 @@ REVIEWS = [
                "Selling a property can be stressful, especially when multiple parties are involved, but he handled everything with confidence, "
                "responsiveness, and attention to detail. We truly appreciate his hard work and commitment and would gladly recommend him to anyone "
                "looking for a hardworking, dependable, and capable real estate agent. He definitely has a bright future ahead of him!")),
-    dict(name="Nathan Agam", who="Home seller, Los Angeles", when="November 2026",
+    dict(name="Nathan Agam", who="Home seller, Fairfax District", when="November 2026", url="/homes/616-fuller/", deal="616 N Fuller Ave",
          short="He was professional, timely, persistent and patient in helping get the sale closed.",
          text=("My team and I had the opportunity to work with Nate representing us in a sale of a property in Los Angeles. He was professional, "
                "timely, persistent and patient in helping get the sale closed. We look forward to working with him again on other transactions.")),
@@ -37,11 +37,12 @@ def trust_row(cls=""):
             f'<span class="trust-i">$100M+ in annual team sales</span><span class="trust-i">Compass Beverly Hills</span></div>')
 
 
-def review_card(r, full=True):
+def review_card(r, full=True, link=True):
     words = r["text"] if full else r["short"]
     return (f'<figure class="rv-card">{stars()}<blockquote><p>&ldquo;{e(words)}&rdquo;</p></blockquote>'
             f'<figcaption><span class="rv-av" aria-hidden="true">{e(r["name"][0])}</span><span><b>{e(r["name"])}</b>'
-            f'<small>{e(r["who"])} &middot; Google review, {e(r["when"])}</small></span></figcaption></figure>')
+            f'<small>{e(r["who"])} &middot; Google review, {e(r["when"])}</small>'
+            + (f'<a class="rv-deal" href="{r["url"]}">See the sale: {e(r["deal"])} &rarr;</a>' if r.get("url") and link else '') + '</span></figcaption></figure>')
 
 
 def reviews_band(full=True, heading="What my clients say", cls=""):

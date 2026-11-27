@@ -28,6 +28,21 @@ PHONE = "310-269-5541"
 TEL = "+13102695541"
 EMAIL = "nate.grivas@compass.com"
 FORM_TO = EMAIL
+# Ad tracking: paste the IDs here when the ad accounts exist (Google tag like "AW-123..." or "G-...", Meta pixel number)
+GTAG_ID = ""
+META_PIXEL = ""
+
+
+def ad_tags():
+    out = ""
+    if GTAG_ID:
+        out += (f'<script async src="https://www.googletagmanager.com/gtag/js?id={GTAG_ID}"></script>'
+                f"<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag('js',new Date());gtag('config','{GTAG_ID}');</script>")
+    if META_PIXEL:
+        out += ("<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};"
+                "if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];"
+                f"s.parentNode.insertBefore(t,s)}}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','{META_PIXEL}');fbq('track','PageView');</script>")
+    return out
 ADDR = "9454 Wilshire Blvd, Ste 100, Beverly Hills, CA 90212"
 DRE = "02410660"
 CO_DRE = "01991628"
@@ -142,7 +157,7 @@ def head(title, desc, path, extra="", og="hero.jpg"):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{rel(path)}assets/style.css">
-{extra}
+{ad_tags()}{extra}
 </head>
 <body>"""
 
@@ -157,13 +172,13 @@ def md_url(path):
 
 
 def nav(path, active, over=False):
-    items = [("Homes", "/listings/", "listings"), ("Neighborhoods", "/neighborhoods/", "explore"), ("Sell", "/tools/neighborhood-quiz/?goal=sell", "sell"),
+    items = [("Home value", "/home-value/", "value"), ("Buy", "/buy/", "buy"), ("Listings", "/listings/", "listings"), ("Neighborhoods", "/neighborhoods/", "explore"),
              ("Guide", "/guide/", "guide"), ("About", "/about/", "about")]
     links = "".join(f'<a href="{h}"{" aria-current=page" if k == active else ""}>{n}</a>' for n, h, k in items)
     cls = "top over" if over else "top"
     return f"""<header class="{cls}"><div class="wrap">
 <a class="brand" href="/" aria-label="Nathaniel Grivas home"><span class="wm">Nathaniel Grivas</span><span class="bk">Compass</span></a>
-<nav class="nav" aria-label="Main">{links}<a class="bg ext" href="{BG}" rel="noopener">Brodsky Group</a></nav>
+<nav class="nav" aria-label="Main">{links}</nav>
 <button class="searchbtn" type="button" data-cmdk aria-label="Search the site">{ICONS['search']}<span>Search</span><kbd>&#8984;K</kbd></button>
 <button class="btn ghost" type="button" data-msg>{ICONS['email']}Message</button>
 <a class="btn solid" href="tel:{TEL}">{ICONS['call']}{PHONE}</a>
@@ -198,9 +213,9 @@ def foot(path, scripts=(), active=""):
 Neighborhood and rules information is general, simplified and subject to change; confirm details for a specific property with the city, county or a professional. Calculators give estimates, not tax or legal advice. Listing information is shown for marketing purposes and may have changed since posting. Neighborhood photos via <a href="https://unsplash.com/" rel="noopener">Unsplash</a>. &copy; {year} Nathaniel Grivas.</div>
 </div></footer>
 <nav class="dock" aria-label="Quick">
+<a href="/home-value/"{cur("value")}>{ICONS['value']}Home value</a>
+<a href="/buy/"{cur("buy")}>{ICONS['home']}Buy</a>
 <a href="/neighborhoods/"{cur("explore")}>{ICONS['pin']}Areas</a>
-<a href="/listings/"{cur("listings")}>{ICONS['home']}Homes</a>
-<a href="/tools/neighborhood-quiz/"{cur("tools")}>{ICONS['search']}Start</a>
 <a href="sms:{TEL}">{ICONS['text']}Text</a>
 <a class="call" href="tel:{TEL}">{ICONS['call']}Call</a>
 </nav>
@@ -220,10 +235,11 @@ Neighborhood and rules information is general, simplified and subject to change;
 <button class="ngd-x" type="button" data-close aria-label="Close">&times;</button>
 <p class="kick">Message Nathaniel</p>
 <h2 id="ngd-msg-t">What can I help with?</h2>
-<p class="ngd-note">This goes straight to my email. You can also call or text <a href="tel:{TEL}">{PHONE}</a>.</p>
-{lead_form("/", title="Message from website", need_first=True, btn="Send message")}
+<div class="ngd-paths"><a href="/home-value/"><b>What's my home worth?</b><span>Free valuation from the sales on your street</span></a><a href="/buy/"><b>Find me a home</b><span>New, coming-soon and off-market homes</span></a></div>
+<p class="ngd-note">Something else? Send me a note, or call or text <a href="tel:{TEL}">{PHONE}</a>.</p>
+{lead_form("/", title="Message from website", need_first=True, btn="Send message", show_pills=False)}
 </div></dialog>
-<script src="/assets/track.js" defer></script><script src="/assets/site.js" defer></script>{extra}
+<script src="/assets/track.js" defer></script><script src="/assets/site.js" defer></script><script src="/assets/lead.js" defer></script>{extra}
 </body></html>"""
 
 
@@ -283,9 +299,10 @@ FEATURED = {
     "fuller": dict(
         title="616 N Fuller Ave", where="Fairfax District, Los Angeles, CA 90036", status="Sold", price="$3,275,000",
         stats=[("7", "Bedrooms"), ("8", "Bathrooms"), ("5,257", "Sq ft"), ("7,334", "Sq ft lot"), ("2016", "Built")],
-        line="A three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000, representing both the seller and the buyer.",
+        line="A three-level modern home with a pool in the Fairfax District. I sold it for $3,275,000 with seller financing, representing both the sellers and the buyer.",
         body=["A 2016 modern home on a 7,334 sq ft lot in the Fairfax District: seven bedrooms, eight baths and three levels, with a pool.",
-              "I represented both the seller and the buyer and closed it in October 2026 for $3,275,000."],
+              "I structured the sale with seller financing: the sellers carried the loan, so my buyer closed at $3,275,000 without a bank. It took a creative structure, firm protections for the sellers and a lot of coordination, and it closed in October 2026.",
+              "I represented both the sellers and the buyer. Deals like this are why I say complicated is fine. If the numbers only work with a creative structure, bring it to me and I'll figure it out."],
         poster="/img/fuller.jpg", vimeo="1180538967", film_len="1:00",
         compass="https://www.compass.com/homedetails/616-N-Fuller-Ave-Los-Angeles-CA-90036/2072900371372293281_lid/",
         credit="Sold by Nathaniel Grivas of The Brodsky Group at Compass"),
@@ -386,7 +403,7 @@ def hero_map(h):
             f'{use_base()}<g class="places">{lamap.labels(scale=k * 1.6)}</g><g class="dots">{"".join(dots)}</g></svg>')
 
 
-def lead_form(r, preset="", msg="", title="", need_first=False, btn="Send to Nathaniel"):
+def lead_form(r, preset="", msg="", title="", need_first=False, btn="Send to Nathaniel", show_pills=True):
     opts = ["Buy", "Sell", "Rent", "Invest", "Build"]
     pills = "".join(
         f'<label><input type="checkbox" name="looking" value="{o}"{" checked" if o.lower() == preset else ""}> {o}</label>'
@@ -394,7 +411,7 @@ def lead_form(r, preset="", msg="", title="", need_first=False, btn="Send to Nat
     who = """<div class="f"><label>Name<input name="name" autocomplete="name" required></label></div>
 <div class="f"><label>Phone<input name="phone" type="tel" autocomplete="tel"></label></div>
 <div class="f full"><label>Email<input name="email" type="email" autocomplete="email" required></label></div>"""
-    need = f"""<div class="f full"><span class="lbl">I'm looking to</span><div class="pills">{pills}</div></div>
+    need = (f"""<div class="f full"><span class="lbl">I'm looking to</span><div class="pills">{pills}</div></div>""" if show_pills else "") + f"""
 <div class="f full"><label>{"Your message" if need_first else "Anything I should know?"}<textarea name="message" placeholder="{"What you're looking to buy, sell or rent, the area, timing, an address" if need_first else "Area, budget, timing, an address you're curious about"}">{e(msg)}</textarea></label></div>"""
     body = need + "\n" + who if need_first else who + "\n" + need
     return f"""<form class="lead" data-to="{FORM_TO}" data-subject="{e(title or 'New website lead')}" novalidate>
@@ -598,6 +615,10 @@ def agent_facts():
         ("Areas served", "West Los Angeles, Beverly Hills, the Hollywood Hills, Central LA, the Eastside and the San Fernando Valley: " + ", ".join(h["name"] for h in ORDER)),
         ("Services", "Buying, selling, leasing, investing and building: pricing and listing prep, competitive offers, leasing, new construction, teardown and lot analysis, ADU feasibility and off-market deals"),
         ("Closed deals", "; ".join(deal(k) for k in SOLD)),
+        ("Resources for clients", "Off-market and coming-soon homes through Compass Private Exclusives and his team's off-market list; lenders for self-employed (bank-statement), investor (DSCR) and non-traditional buyers; creative structures including seller financing, leasebacks, assignments and 1031 exchanges; plus inspectors, contractors, architects, escrow, title and tax pros"),
+        ("Creative financing example", "Sold 616 N Fuller Ave, Fairfax District, for $3,275,000 with seller financing (the sellers carried the loan), representing both sides"),
+        ("Free home valuation", f"{SITE}{VALUE_URL}"),
+        ("Find a home (buyer search)", f"{SITE}{BUY_URL}"),
         ("Current listings", "; ".join(lst(k) for k in ACTIVE)),
         ("Education", "Loyola Marymount University, Marketing and Business Law"),
         ("Contact", f"Call or text {PHONE}, email {EMAIL}"),
@@ -653,11 +674,11 @@ HOME_HOODS = ["venice", "santa-monica", "beverly-hills", "malibu", "los-feliz", 
 
 
 HELP = [
-    ("buy", "Buy a home", "New listings that fit, sent as soon as they hit the market."),
-    ("sell", "Sell my home", "Pricing, prep and a plan for your sale."),
+    ("sell", "What's my home worth?", "A free valuation built by hand from the sales on your street."),
+    ("buy", "Find me a home", "New listings, coming-soon and off-market homes, sent as they come up."),
     ("rent", "Rent a home", "Leases across the Westside and the Valley."),
-    ("invest", "Invest", "Income property, value-add and off-market deals."),
-    ("build", "Build", "Lots, teardowns and ADU feasibility."),
+    ("invest", "Invest", "Income property, value-add, off-market deals and DSCR lenders."),
+    ("build", "Build", "Lots, teardowns, ADUs and the architects and builders to do it."),
 ]
 
 AREAS_LINE = "From Westchester to Malibu, Hollywood to Silver Lake, and across the San Fernando Valley."
@@ -680,7 +701,7 @@ def page_home(posts):
     tiles = "".join(photo_tile(BY_SLUG[s_], "big" if i == 0 else "") for i, s_ in enumerate(HOME_HOODS))
     tiles += (f'<a class="tile maptile allmap" href="/neighborhoods/">{aerial(34.06, -118.39, z=12, cols=3, rows=3, ts=260)}'
               f'<div class="tile-txt"><span class="tile-k">The map</span><h3>Every neighborhood</h3></div></a>')
-    helps = "".join(f'<a href="{intake_url(g)}"><b>{e(t)}</b><span>{e(d)}</span><i aria-hidden="true">&rarr;</i></a>' for g, t, d in HELP)
+    helps = "".join(f'<a href="{VALUE_URL if g == "sell" else BUY_URL if g == "buy" else intake_url(g)}"><b>{e(t)}</b><span>{e(d)}</span><i aria-hidden="true">&rarr;</i></a>' for g, t, d in HELP)
     body = f"""{nav(path, "home")}
 <main>
 <section class="face-hero" aria-label="Nathaniel Grivas, West Los Angeles REALTOR">
@@ -688,11 +709,12 @@ def page_home(posts):
 <div class="fh-copy">
 <p class="kick">The Brodsky Group at Compass Beverly Hills</p>
 <h1><span class="lh-name">Nathaniel Grivas</span><span class="lh-sub">West Los Angeles REALTOR&reg;</span></h1>
-<p class="fh-lede">I help people buy, sell, rent, invest and build across West LA, Beverly Hills and the Valley.</p>
-<div class="lh-cta"><button type="button" class="btn lux solid" data-msg>Work with me</button><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div>
+<p class="fh-lede">Off-market homes, lenders for every kind of buyer and creative deals like seller financing. Buying, selling or investing anywhere from Malibu to the Valley, I'll figure it out.</p>
+<form class="fh-addr" action="/home-value/" method="get" role="search" aria-label="Get your home value"><label class="sr" for="fh-a">Your home address</label><input id="fh-a" name="addr" autocomplete="street-address" placeholder="Enter your address" required><button class="btn lux solid" type="submit">What's it worth?</button></form>
+<div class="lh-cta fh-alt"><a class="btn lux" href="/buy/">Find me a home</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div>
 {trust_row("fh-trust")}
 <figure class="fh-team"><img src="/img/team-1200.jpg" srcset="/img/team-1200.jpg 1200w, /img/team.jpg 2000w" sizes="(max-width:860px) 92vw, 46vw" alt="The Brodsky Group team at Compass Beverly Hills" width="1200" height="800" loading="lazy" decoding="async">
-<figcaption><span><b>The Brodsky Group</b> &middot; $100M+ in annual team sales</span><a href="{BG}" rel="noopener">Meet the team &#8599;</a></figcaption></figure>
+<figcaption><span><b>The Brodsky Group</b> &middot; $100M+ in annual team sales</span><a href="/about/">Meet the team &rarr;</a></figcaption></figure>
 </div>
 </section>
 
@@ -713,16 +735,9 @@ def page_home(posts):
 <p class="lux-more"><a href="/listings/">All listings &rarr;</a></p>
 </div></section>
 
-<section class="meet" id="about"><div class="wrap meet-grid">
-<figure class="meet-ph"><img src="/img/nate-about.jpg" alt="Nathaniel Grivas" width="900" height="990" loading="lazy"></figure>
-<div class="meet-copy">
-<p class="kick">About</p>
-<h2>Nathaniel Grivas</h2>
-<p class="meet-id">REALTOR&reg; &middot; DRE #{DRE} &middot; The Brodsky Group at Compass</p>
-<p>Raised between New York and Seattle, I studied Marketing and Business Law at Loyola Marymount University and now represent buyers, sellers, landlords and developers with The Brodsky Group at Compass Beverly Hills.</p>
-<p>{AREAS_LINE} My work runs from pricing and listing prep to competitive offers, leasing, new construction, teardown and lot analysis, ADU feasibility and off-market deals.</p>
-<div class="lh-cta"><a class="btn lux solid" href="/about/">More about me</a><a class="btn lux" href="sms:{TEL}">Text {PHONE}</a></div>
-</div></div></section>
+{proof_band("Recent results", "Track record")}
+
+{resources_band()}
 
 <section class="band lux-band" id="areas"><div class="wrap">
 <div class="lux-head"><p class="kick">Across Los Angeles</p><h2>Neighborhoods</h2><a href="/neighborhoods/">Open the map &rarr;</a></div>
@@ -734,7 +749,7 @@ def page_home(posts):
 <div class="posts">{"".join(post_card(p, r) for p in posts[:3])}</div>
 </div></section>
 
-{contact_band(r, "Let's talk", "Tell me what you're looking for. I'll set up your search and send new listings that match as they hit the market.", form=True)}
+{lead_band("Let's talk", "Pick one. It takes about a minute, and you'll hear from me today.")}
 </main>
 {foot(path, [])}"""
     desc = ("Nathaniel Grivas, West Los Angeles REALTOR® with The Brodsky Group at Compass Beverly Hills. Buy, sell, rent, invest or build across West LA, "
@@ -774,7 +789,7 @@ def page_explore():
 </main>
 <section class="band" style="padding-top:10px"><div class="wrap"><div class="tools">{tool_card("neighborhood-quiz", r)}{tool_card("compare", r)}{tool_card("la-rules", r)}</div></div></section>
 {reviews_band(False, "Why people work with me")}
-{contact_band(r, "Not sure where to start?", "Answer a few questions and I'll set up a search for the areas that fit.", "buy")}
+{lead_band("Not sure where to start?", "Tell me what you want and I'll send homes that fit, including off-market ones.", first="buy")}
 {foot(path, ["vendor/leaflet.js", "satmap.js"], "explore")}"""
     desc = "Satellite map and guides to 40 Los Angeles neighborhoods, from Santa Monica and Venice to Beverly Hills, Los Feliz and the Valley. By Nathaniel Grivas, REALTOR®."
     ld_ = crumbs_ld([("Home", "/"), ("Explore LA", path)])
@@ -861,7 +876,7 @@ def page_hood(h, posts):
 <h1>{e(n)}</h1>
 <p class="nb-line">{e(h['line'])}</p>
 <div class="nb-chips"><span>{e(c['short'])}</span><span>ZIP {e(h['zips'])}</span><span title="{TIER_WORD[h['tier']]}">{TIER[h['tier']]} &middot; {TIER_WORD[h['tier']]}</span></div>
-<div class="nb-cta"><a class="btn lux solid" href="{intake_url('buy', h['slug'])}">See {e(n)} homes</a><a class="btn lux" href="sms:{TEL}">Text Nathaniel</a></div>
+<div class="nb-cta"><a class="btn lux solid" href="#lead" data-tabgo="b">Get {e(n)} listings</a><a class="btn lux" href="#lead" data-tabgo="v">What's my {e(n)} home worth?</a></div>
 </div>{credit}</section>
 <nav class="nb-sub" aria-label="On this page"><div class="wrap">{subnav}<a class="nb-sub-cta" href="tel:{TEL}">{ICONS['call']}{PHONE}</a></div></nav>
 <section class="band nb-ov" id="overview"><div class="wrap nb-ov-grid">
@@ -891,6 +906,7 @@ def page_hood(h, posts):
 {v8.sat_map(h)}
 <div class="nb-spots"><h3>Spots to know</h3><ol>{spots}</ol></div>
 </div></div></section>
+{cta_strip(f"Thinking about {n}?", f"New {n} listings, off-market homes and lenders for any situation. Or a free value on your {n} home.", sell_label="What's my home worth?", buy_label=f"Get {n} listings")}
 {gal}
 {local_guide(h)}
 {deals_html}
@@ -916,7 +932,7 @@ def page_hood(h, posts):
 <section class="band" style="padding-top:0"><div class="wrap">
 <nav class="pager" aria-label="More neighborhoods"><a class="glass" href="/neighborhoods/{prev_['slug']}/"><span>Previous</span>{e(prev_['name'])}</a><a class="glass" href="/neighborhoods/"><span>All</span>Map</a><a class="glass" href="/neighborhoods/{next_['slug']}/"><span>Next</span>{e(next_['name'])}</a></nav>
 </div></section>
-{contact_band(r, f"Looking in {n}?", f"Tell me what you want and your budget. I'll set up your search and send new {n} listings as they hit, including ones that aren't public yet.", "buy", "", f"Website lead: {n}", form=True)}
+{lead_band(f"Buying or selling in {n}?", f"Get new {n} listings as they hit, including ones that aren't public yet, or find out what your {n} home is worth.", first="buy", area=n, addr_ph=f"Your {n} address")}
 <div class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Photo viewer"><button type="button" class="lb-x" aria-label="Close">&times;</button><button type="button" class="lb-p" aria-label="Previous photo">&lsaquo;</button><img alt=""><button type="button" class="lb-n" aria-label="Next photo">&rsaquo;</button><p class="lb-c"></p></div>
 </main>
 {foot(path, (), "explore")}"""
@@ -935,7 +951,7 @@ def page_tools():
 <p class="lede" style="margin-top:14px">Calculators and guides built around how LA actually works: city-by-city transfer taxes, Measure ULA, rent control lines and real monthly costs.</p>
 </div></section>
 <section class="band" style="padding-top:0"><div class="wrap"><div class="tools">{"".join(tool_card(s, r) for s, *_ in TOOLS)}</div></div></section>
-{contact_band(r)}
+{lead_band()}
 </main>
 {foot(path)}"""
     desc = "Free Los Angeles real estate tools: neighborhood quiz, transfer tax and Measure ULA calculator, mortgage, rent vs buy, and city rules."
@@ -957,7 +973,7 @@ def tool_shell(slug_, title, desc, inner, scripts=("tools.js",), preset="", msg=
     extra = f"""<section class="band" style="padding-top:0"><div class="wrap">
 <div class="head"><div><p class="eyebrow">Keep going</p><h2 class="h2">More tools</h2></div></div>
 <div class="tools">{others}</div></div></section>
-{contact_band(r, "Want me to run it for a real property?", "Send the address or the area. I'll run the real numbers with current comps and tell you what I'd do.", preset, msg, f"Website lead: {t}", form=True)}
+{lead_band("Want the real number for a real property?", "Give me the address and I'll run it with current comps, or tell me what you're looking for and I'll send homes that fit.", first="value" if preset == "sell" else "buy")}
 """
     body = f"""{nav(path, "tools")}
 <main class="toolpage" data-tool="{slug_}">
@@ -967,6 +983,7 @@ def tool_shell(slug_, title, desc, inner, scripts=("tools.js",), preset="", msg=
 <p class="lede" style="margin-top:14px">{e(d)}</p>
 </div></section>
 <section class="band" style="padding-top:0"><div class="wrap">{inner}</div></section>
+{"" if lean else cta_strip("Want the real number for a real property?", "Estimates are a start. Give me the address and I'll run it with current comps and the exact taxes, free.")}
 {"" if lean else extra}
 </main>
 {data}
@@ -1130,6 +1147,160 @@ def page_rules():
                       inner, scripts=(), preset="sell")
 
 
+# ------------------------------------------------------------------ conversion: two lead flows, resources, proof
+VALUE_URL = "/home-value/"
+BUY_URL = "/buy/"
+
+RESOURCES = [
+    ("key", "Off-market and coming-soon homes", "Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow."),
+    ("value", "Lenders for every kind of buyer", "Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on."),
+    ("split", "Creative deal structures", "Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan."),
+    ("build", "Developers and builders", "Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking."),
+    ("team", "The right people for every step", "Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need."),
+    ("sign", "Complicated is fine", "Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out."),
+]
+
+PROOF = [
+    ("lanark", "lanark.jpg", "18748 Lanark St, Reseda", "$156K over asking", "7 offers in 9 days. Marketed to builders as a land play."),
+    ("fuller", "fuller.jpg", "616 N Fuller Ave, Fairfax", "$3,275,000, seller financed", "Structured with the sellers carrying the loan. I represented both sides."),
+    ("hartland", "hartland.jpg", "14757 Hartland St, Van Nuys", "$31,000 off in escrow", "Won in multiple offers, then renegotiated after inspections. A two-ADU play."),
+]
+
+
+def resources_band(heading="One call. The whole network.", sub="Buying, selling or investing, you get more than an agent. You get every resource it takes to close, on any deal, however complicated."):
+    cards = "".join(f'<div class="res-c"><span class="res-i" aria-hidden="true">{ICONS[ic]}</span><h3>{e(t)}</h3><p>{e(d)}</p></div>' for ic, t, d in RESOURCES)
+    return f"""<section class="band res-band"><div class="wrap">
+<div class="lux-head"><p class="kick">What you get</p><h2>{e(heading)}</h2><p class="res-sub">{e(sub)}</p></div>
+<div class="res-grid">{cards}</div>
+<div class="res-cta"><a class="btn lux solid" href="{VALUE_URL}">What's my home worth?</a><a class="btn lux" href="{BUY_URL}">Find me a home</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div>
+</div></section>"""
+
+
+def proof_band(heading="Recent results", kick="Track record"):
+    cards = "".join(f'<a class="pf-c" href="{PROPS[k]["page"]}"><img src="/img/{img}" alt="{e(addr)}" loading="lazy" width="960" height="720">'
+                    f'<span class="pf-t"><small>{e(addr)}</small><b>{e(big)}</b><span>{e(line)}</span><i>See how &rarr;</i></span></a>' for k, img, addr, big, line in PROOF)
+    return f"""<section class="band pf-band"><div class="wrap">
+<div class="lux-head"><p class="kick">{e(kick)}</p><h2>{e(heading)}</h2></div>
+<div class="pf-grid">{cards}</div></div></section>"""
+
+
+def lead_band(heading="Let's get you a number, or a home", sub="Pick one. It takes about a minute, and you'll hear from me today.", first="value", area="", addr_ph="", kick="Free, no obligation"):
+    tabs = [("v", "What's my home worth?"), ("b", "Find me a home")]
+    if first == "buy":
+        tabs = tabs[::-1]
+    sel = tabs[0][0]
+    btns = "".join(f'<button type="button" role="tab" data-tab="{k}" aria-selected="{str(k == sel).lower()}">{e(t)}</button>' for k, t in tabs)
+    a_ = f' data-area="{e(area)}"' if area else ""
+    ph = f' data-addrph="{e(addr_ph)}"' if addr_ph else ""
+    panels = (f'<div data-panel="v"{"" if sel == "v" else " hidden"}><div class="lflow" data-flow="value"{ph}></div></div>'
+              f'<div data-panel="b"{"" if sel == "b" else " hidden"}><div class="lflow" data-flow="buy"{a_}></div></div>')
+    gets = "".join(f"<li>{x}</li>" for x in (
+        "Your home's value from the latest sales near you, plus what you'd walk away with",
+        "Off-market and coming-soon homes before they hit Zillow",
+        "Lenders for self-employed, investor and non-traditional buyers",
+        "Creative structures like seller financing when the numbers need it"))
+    return f"""<section class="band lead-band" id="contact"><div class="wrap lb-grid">
+<div class="lb-copy lb-head">
+<p class="kick">{e(kick)}</p><h2>{e(heading)}</h2><p class="lb-sub">{e(sub)}</p>
+</div>
+<div class="lb-copy lb-more">
+<ul class="lb-get">{gets}</ul>
+<div class="lb-me"><img src="/img/nate-sm.jpg" alt="Nathaniel Grivas" width="64" height="80" loading="lazy"><div><b>Nathaniel Grivas</b><span>REALTOR&reg; &middot; The Brodsky Group at Compass</span><a href="{GBP_URL}" target="_blank" rel="noopener">{stars()} 5.0 on Google</a></div></div>
+<div class="lb-quick"><a class="btn" href="tel:{TEL}">{ICONS['call']}Call {PHONE}</a><a class="btn" href="sms:{TEL}">{ICONS['text']}Text me</a></div>
+</div>
+<div class="lb-card" data-tabs id="lead">
+<div class="lb-tabs" role="tablist">{btns}</div>
+{panels}
+<noscript><p>Call or text {PHONE}, or email {EMAIL}.</p></noscript>
+</div></div></section>"""
+
+
+def cta_strip(t, s_, area="", sell_label="What's my home worth?", buy_label="Find me a home"):
+    return (f'<aside class="cta-strip"><div class="wrap cs-in"><div><b>{e(t)}</b><span>{e(s_)}</span></div>'
+            f'<div class="cs-b"><a class="btn solid" href="#lead" data-tabgo="v">{e(sell_label)}</a><a class="btn" href="#lead" data-tabgo="b">{e(buy_label)}</a></div></div></aside>')
+
+
+VALUE_FAQ = [
+    ("How is this different from a Zestimate?", "I build your number by hand from the most recent sales near you, then adjust for what algorithms can't see: your upgrades, your condition, your lot and your street. You get a range and the sales behind it."),
+    ("Does it cost anything?", "No. The valuation is free, and you're under no obligation to list with me."),
+    ("How fast will I get it?", "Within 24 hours, usually the same day. Call or text 310-269-5541 if you need it sooner."),
+    ("Will you tell me what I'd walk away with?", "Yes. I include an estimate of your net after transfer taxes, Measure ULA where it applies, and typical selling costs."),
+    ("My home needs work, has tenants or has additions without permits. Can you still value it?", "Yes. Tell me what's going on and I'll price it as it stands, plus what it could sell for if you fixed the few things that pay off."),
+    ("Can I sell without putting my home on the open market?", "Yes. Compass Private Exclusives and my team's buyer network let you sell quietly to qualified buyers first, and still test the open market later if you want."),
+    ("Which areas do you value?", "West LA, Beverly Hills, the coast from Westchester to Malibu, Hollywood, Silver Lake, Los Feliz and the San Fernando Valley."),
+]
+
+BUY_FAQ = [
+    ("Can you really get me off-market homes?", "Yes. Compass Private Exclusives and coming-soon listings, plus my team's off-market list, go to my buyers before the public. Many of the best homes trade there first."),
+    ("I'm self-employed. Can I still get pre-approved?", "Yes. I work with lenders who use bank statements instead of tax returns, DSCR loans for investors and other non-traditional programs."),
+    ("What is seller financing, and can I use it?", "The seller carries the loan instead of a bank. I closed 616 N Fuller Ave at $3,275,000 this way. It works on the right property with the right seller, and I know how to ask."),
+    ("Does it cost me anything to work with you as a buyer?", "My compensation is set in a written buyer agreement before we tour, and it's often paid by the seller. I'll walk you through it before anything is signed."),
+    ("How fast will I hear from you?", "Today. Call or text 310-269-5541 if you want to talk now."),
+]
+
+
+def lp_shell(path, active, kick, h1, lede, checks, flow, proof_k, faq, faq_t, title, desc, after_hero=""):
+    li = "".join(f"<li>{e(c)}</li>" for c in checks)
+    body = f"""{nav(path, active)}
+<main class="lp">
+<section class="lp-hero"><div class="wrap lp-grid">
+<div class="lp-head">
+<p class="kick">{e(kick)}</p>
+<h1>{e(h1)}</h1>
+<p class="lp-lede">{e(lede)}</p>
+</div>
+<div class="lp-card" id="lead"><div class="lflow" data-flow="{flow}"></div></div>
+<div class="lp-more">
+<ul class="lp-checks">{li}</ul>
+{trust_row("lp-trust")}
+</div>
+</div></section>
+{after_hero}
+{proof_band("Recent results", "Track record")}
+{reviews_band(True, "What clients say")}
+{resources_band()}
+{v8.faq_html(faq, faq_t)}
+<section class="band lp-end"><div class="wrap lp-end-in"><h2>Ready when you are</h2><p>It takes about a minute. Or call or text {PHONE} and talk to me now.</p>
+<div class="lh-cta"><a class="btn lux solid" href="#lead">{"Get my home value" if flow == "value" else "Start my search"}</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div></div></section>
+</main>
+{foot(path)}"""
+    svc = {"@context": "https://schema.org", "@type": "Service", "name": title.split(" | ")[0], "provider": {"@id": SITE + "/#nathaniel"},
+           "areaServed": "Los Angeles, CA", "description": desc, "url": SITE + path, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}
+    return head(title, desc, path, ld(svc) + ld(v8.faq_ld(faq)) + ld(crumbs_ld([("Home", "/"), (h1, path)]))) + body
+
+
+HOW_VALUE = [("Tell me about the home", "The address, a few taps on size and condition, and anything I should know."),
+             ("I pull the sales by hand", "Recent sales and pendings on your street, adjusted for your upgrades and lot."),
+             ("You get your number and a plan", "A value range, your estimated net, and what to fix or skip. Within 24 hours.")]
+
+
+def how_band(steps, heading):
+    items = "".join(f'<li><span>{i + 1}</span><b>{e(t)}</b><p>{e(d)}</p></li>' for i, (t, d) in enumerate(steps))
+    return f'<section class="band how-band"><div class="wrap"><div class="lux-head"><p class="kick">How it works</p><h2>{e(heading)}</h2></div><ol class="how">{items}</ol></div></section>'
+
+
+def page_value():
+    return lp_shell(VALUE_URL, "value", "Free home valuation · Los Angeles", "What's your home worth?",
+                    "A real number from a local agent, built by hand from the latest sales on your street. Free, within 24 hours, no obligation.",
+                    ["Your value range from the most recent sales near you", "What you'd walk away with after transfer taxes and costs",
+                     "What to fix and what to skip before you sell", "The option to sell quietly, off-market, through Compass"],
+                    "value", "lanark", VALUE_FAQ, "Home value questions",
+                    "Free Home Valuation in Los Angeles: What's My Home Worth? | Nathaniel Grivas",
+                    "Get a free, hand-built home valuation from Nathaniel Grivas, REALTOR® with The Brodsky Group at Compass: your value range from recent sales near you plus your estimated net. West LA, Beverly Hills and the Valley.",
+                    how_band(HOW_VALUE, "Your number in three steps"))
+
+
+def page_buy():
+    return lp_shell(BUY_URL, "buy", "Buying in Los Angeles", "Find your home, including the ones that never hit Zillow",
+                    "Tell me what you want. I'll send homes that fit from the MLS, Compass coming-soon listings and my team's off-market list, and line up the right lender for your situation.",
+                    ["New listings that fit, the day they hit", "Compass Private Exclusives and off-market homes",
+                     "Lenders for self-employed, investor and non-traditional buyers", "Creative structures like seller financing when the numbers need it",
+                     "Offers that win, and negotiation after: I took $31,000 off Hartland in escrow"],
+                    "buy", "hartland", BUY_FAQ, "Buying questions",
+                    "Buy a Home in Los Angeles: Off-Market Homes, Lenders & Creative Financing | Nathaniel Grivas",
+                    "Find a home in West LA, Beverly Hills or the Valley with Nathaniel Grivas, REALTOR® at Compass: off-market and coming-soon homes, lenders for self-employed and investor buyers, and creative financing like seller carry.")
+
+
 def page_featured(k):
     f = FEATURED[k]
     p_ = PROPS[k]
@@ -1148,7 +1319,7 @@ def page_featured(k):
         figs = "".join(f'<button type="button" class="g" data-full="/img/evans/{pid}.jpg" data-alt="{e(alt)}" aria-label="View photo: {e(alt)}"><img src="/img/evans/{pid}.jpg" alt="{e(alt)}" loading="lazy" width="1600" height="1067"></button>' for pid, alt in EVANS_PHOTOS)
         all_ = "".join(f'<i data-full="/img/evans/{pid}.jpg" data-alt="{e(alt)}"></i>' for pid, alt in EVANS_PHOTOS)
         gal = f'<section class="band lux-band"><div class="wrap"><div class="lux-head"><p class="kick">Gallery</p><h2>Inside {e(f["title"])}</h2></div><div class="hgal" data-gallery>{figs}<div hidden class="gall">{all_}</div></div></div></section>'
-    cta_txt = "Schedule a showing" if f["status"] != "Sold" else "Ask about homes like this"
+    cta_txt = "Schedule a showing" if f["status"] != "Sold" else "Get a result like this"
     body = f"""{nav(path, "listings")}
 <main>
 <section class="home-top"><div class="wrap">
@@ -1162,7 +1333,7 @@ def page_featured(k):
 <p class="ht-price">{"Sold for " if f["status"] == "Sold" else "Offered at "}{e(f["price"])}</p>
 <div class="ht-stats">{stats}</div>
 <p class="ht-line">{e(f["line"])}</p>
-<div class="lh-cta"><button type="button" class="btn lux solid" data-msg>{cta_txt}</button><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div>
+<div class="lh-cta">{f'<a class="btn lux solid" href="#lead" data-tabgo="v">{cta_txt}</a>' if f["status"] == "Sold" else f'<button type="button" class="btn lux solid" data-msg>{cta_txt}</button>'}<a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div>
 <div class="lh-cta">{links}</div>
 <p class="ht-credit">{e(f["credit"])}</p>
 </div></div></div></section>
@@ -1170,8 +1341,9 @@ def page_featured(k):
 {gal}
 <section class="band lux-band"><div class="wrap"><div class="lux-head"><p class="kick">Also featured</p><h2><a class="plain" href="{PROPS[other]["page"]}">{e(o["title"])}</a></h2></div>
 <a class="also" href="{PROPS[other]["page"]}"><img src="{o["poster"]}" alt="{e(o["title"])}" loading="lazy"><span><small>{e(o["status"])} &middot; {e(o["price"])}</small><b>{e(o["title"])}</b>{e(o["line"])} <i>Watch the film &rarr;</i></span></a></div></section>
-{reviews_band(False, "What sellers say")}
-{contact_band("/", "Want a result like this?", f"Thinking about selling, or looking for a home like this in the {f['where'].split(',')[0]}? Tell me what you're after.", "sell", "", "Website lead: " + f["title"] + " (sold)", form=True) if f["status"] == "Sold" else contact_band("/", "Let's talk", "Questions about this home, or looking for something like it? Send me a note.", "buy", "Interested in " + f["title"], "Website lead: " + f["title"], form=True)}
+{resources_band("Creative deals, real resources", "Seller financing, off-market buyers, lenders for every situation and a $100M+ team behind every deal.")}
+{sale_review(1) if k == "fuller" else reviews_band(False, "What clients say")}
+{lead_band("Want a result like this?", "Find out what your home is worth, or tell me what you're looking for. Creative deals welcome.", first="value") if f["status"] == "Sold" else lead_band("Want a home like this?", "Tell me what you're looking for and I'll send homes that fit, including off-market ones. Or ask me about this one.", first="buy")}
 {'<div class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Photo viewer"><button type="button" class="lb-x" aria-label="Close">&times;</button><button type="button" class="lb-p" aria-label="Previous photo">&lsaquo;</button><img alt=""><button type="button" class="lb-n" aria-label="Next photo">&rsaquo;</button><p class="lb-c"></p></div>' if gal else ''}
 </main>
 {foot(path)}"""
@@ -1222,6 +1394,13 @@ DEAL_PAGES = {
 }
 
 
+def sale_review(idx):
+    r_ = v8.REVIEWS[idx]
+    return (f'<section class="band rv"><div class="wrap narrow"><div class="rv-head"><div><p class="kick">From this sale</p><h2>What my sellers said</h2></div>'
+            f'<a class="rv-score" href="{GBP_URL}" target="_blank" rel="noopener"><b>{v8.RATING}</b><span>{stars()}<small>Read it on Google &#8599;</small></span></a></div>'
+            f'<div class="rv-grid one">{v8.review_card(r_, True, link=False)}</div></div></section>')
+
+
 def deal_sat(d):
     src = f"https://www.google.com/maps/embed?origin=mfe&pb=!1m4!2m1!1s{quote_plus(d['q'])}!5e1!6i18"
     return (f'<div class="sat deal-sat" data-sat="{e(src)}">{aerial(*d["ll"], z=16, cols=5, rows=4, ts=256, label="Aerial view of " + d["title"])}'
@@ -1240,10 +1419,7 @@ def page_deal(k):
         photo2 = f'<figure class="deal-fig"><img src="/img/{d["aerial"]}" alt="{e(d["aerial_alt"])}" loading="lazy" width="1400" height="788"><figcaption>{e(d["aerial_alt"])}. Drone photo from the listing.</figcaption></figure>'
     rv = ""
     if d.get("review") is not None:
-        r_ = v8.REVIEWS[d["review"]]
-        rv = (f'<section class="band rv"><div class="wrap narrow"><div class="rv-head"><div><p class="kick">From this sale</p><h2>What my sellers said</h2></div>'
-              f'<a class="rv-score" href="{GBP_URL}" target="_blank" rel="noopener"><b>{v8.RATING}</b><span>{stars()}<small>Read it on Google &#8599;</small></span></a></div>'
-              f'<div class="rv-grid one">{v8.review_card(r_, True)}</div></div></section>')
+        rv = sale_review(d["review"])
     else:
         rv = reviews_band(False, "What clients say")
     more = "".join(prop_card(x, "/") for x in SOLD if x != k)
@@ -1261,7 +1437,7 @@ def page_deal(k):
 <p class="ht-price">Sold for {e(d["price"])}</p>
 <div class="ht-stats">{stats}</div>
 <p class="ht-line">{e(d["line"])}</p>
-<div class="lh-cta"><button type="button" class="btn lux solid" data-msg>Ask about this deal</button><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div>
+<div class="lh-cta"><a class="btn lux solid" href="#lead" data-tabgo="{"v" if d["cta"][2] == "sell" else "b"}">{"Get a result like this" if d["cta"][2] == "sell" else "Find a deal like this"}</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div>
 <div class="lh-cta"><a class="btn lux" href="{PROPS[k]["url"]}" rel="noopener">View on Compass &#8599;</a></div>
 <p class="ht-credit">{e(d["credit"])}</p>
 </div></div></div></section>
@@ -1273,10 +1449,11 @@ def page_deal(k):
 <div class="lux-head"><p class="kick">From above</p><h2>The lot</h2></div>
 <div class="deal-media{" two" if photo2 else ""}">{photo2}<div>{deal_sat(d)}<p class="deal-cap">Satellite view. <a href="{gmaps}" target="_blank" rel="noopener">Open in Google Maps &#8599;</a></p></div></div>
 </div></section>
+{resources_band()}
 {rv}
 <section class="band"><div class="wrap"><div class="head"><div><p class="eyebrow">Track record</p><h2 class="h2">More closed deals</h2></div></div>
 <div class="grid">{more}</div></div></section>
-{contact_band("/", h_, s_, pre, "", "Website lead: " + d["title"] + " (sold)", form=True)}
+{lead_band(h_, s_, first="value" if pre == "sell" else "buy")}
 </main>
 {foot(path)}"""
     ld_ = {"@context": "https://schema.org", "@type": "SingleFamilyResidence", "name": d["title"], "url": SITE + path,
@@ -1308,7 +1485,7 @@ def page_listings():
 <div class="head"><div><p class="eyebrow">Track record</p><h2 class="h2">Closed</h2></div></div>
 <div class="grid">{"".join(prop_card(k, r) for k in SOLD)}</div></div></section>
 {reviews_band(False, "What sellers say")}
-{contact_band(r, "Get homes before they hit the market", "Tell me the area and the budget. Off-market and coming-soon homes go to my list first.", "buy", "", "Website lead: off-market list")}
+{lead_band("Get homes before they hit the market", "Off-market and coming-soon homes go to my list first. Tell me what you want, or find out what yours is worth.", first="buy")}
 </main>
 {foot(path)}"""
     return head("Listings | Nathaniel Grivas, Compass", "Active listings and recent transactions by Nathaniel Grivas, REALTOR® at Compass.", path) + body
@@ -1336,9 +1513,11 @@ def page_about():
 <p>Basketball, golf and tennis, and time with friends and family. I write about the parts of LA that are actually worth your time in the <a href="{r}guide/">LA Guide</a>.</p>
 </div></section>
 {reviews_band(True, "What my clients say")}
+{proof_band("Recent results", "Track record")}
+{resources_band()}
 {facts_band()}
 {team_section("team-2.jpg", "I work on The Brodsky Group, led by Or Brodsky at Compass Beverly Hills. Over $100M in sales every year, from new construction to off-market deals.")}
-{contact_band(r)}
+{lead_band()}
 </main>
 {foot(path)}"""
     desc = "About Nathaniel Grivas, REALTOR® with The Brodsky Group at Compass Beverly Hills. DRE #02410660."
@@ -1384,6 +1563,8 @@ def page_hood_guide(d):
             gsec += f'<section class="gsec" id="{k}"><h3 class="gsec-h">{e(label)}</h3><div class="pcs">{"".join(place_card(p, d, h["name"], primary=k) for p in ps)}</div></section>'
         if gsec:
             secs += f'<div class="ggroup"><p class="kick">{e(glabel)}</p>{gsec}</div>'
+            if secs.count('class="ggroup"') == 1:
+                secs += cta_strip(f"Love {h['name']}? Live here.", f"Get new {h['name']} listings, including off-market ones, or a free value on your {h['name']} home.", buy_label=f"Get {h['name']} listings")
     srcs = "".join(f'<li><a href="{u}" rel="noopener">{e(t)}</a></li>' for t, u in d["sources"].values())
     photo = ""
     ph = PHOTOS.get(d["slug"]) or []
@@ -1406,10 +1587,11 @@ def page_hood_guide(d):
 {journal_band(d["slug"], h["name"])}
 <section class="band lux-band"><div class="wrap"><div class="gend">
 <div><p class="kick">Thinking about living here?</p><h2>Homes in {e(h["name"])}</h2><p>Tell me what you're after and I'll send new {e(h["name"])} listings as they hit the market.</p>
-<div class="lh-cta"><a class="btn lux solid" href="{intake_url("buy", d["slug"])}">Get {e(h["name"])} listings</a><a class="btn lux" href="/neighborhoods/{d["slug"]}/">The {e(h["name"])} neighborhood guide</a></div></div>
+<div class="lh-cta"><a class="btn lux solid" href="#lead" data-tabgo="b">Get {e(h["name"])} listings</a><a class="btn lux" href="/neighborhoods/{d["slug"]}/">The {e(h["name"])} neighborhood guide</a></div></div>
 <div><p class="kick">More guides</p><div class="gend-l">{more}<a href="/guide/">All neighborhoods &rarr;</a></div>
 <details class="gsrc"><summary>Sources</summary><ul>{srcs}</ul></details></div>
 </div></div></section>
+{lead_band(f"Living in {h['name']}?", f"Get new {h['name']} listings as they hit, including off-market ones, or find out what your home is worth.", first="buy", area=h["name"], addr_ph=f"Your {h['name']} address")}
 </main>
 {foot(path)}"""
     items = [{"@type": "ListItem", "position": i + 1, "name": p["n"]} for i, p in enumerate(places_)]
@@ -1436,6 +1618,8 @@ def page_best(cat):
         if reg not in by_reg:
             continue
         secs += f'<section class="gsec"><h3 class="gsec-h">{e(reg)}</h3><div class="pcs">{"".join(place_card(p, d, h["name"], show_hood=True, primary=cat) for h, d, p in by_reg[reg])}</div></section>'
+        if secs.count('class="gsec"') == 2:
+            secs += cta_strip("Want to live near spots like these?", "Get homes that fit, including off-market ones, or a free value on your home.")
     cnt = guide_counts()
     other = "".join(f'<a href="/guide/best/{k}/">{e(G.CATS[k][0])} <i>{cnt[k]}</i></a>' for k in G.ORDERED if cnt.get(k) and k != cat)
     body = f"""{nav(path, "guide")}
@@ -1448,6 +1632,7 @@ def page_best(cat):
 </div></section>
 <div class="wrap gbody">{secs}</div>
 <section class="band lux-band"><div class="wrap"><div class="lux-head"><p class="kick">Keep browsing</p><h2>More categories</h2></div><div class="gcats">{other}</div></div></section>
+{lead_band("Want to live near the best of LA?", "Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.", first="buy")}
 </main>
 {foot(path)}"""
     title = f"Best {label} in Los Angeles by Neighborhood | The LA Guide"
@@ -1493,6 +1678,7 @@ def page_guide(posts):
 <div class="lux-head"><p class="kick">Articles</p><h2>Living in LA</h2></div>
 <div class="posts" id="postlist">{listing}</div>
 </div></section>
+{lead_band("Buying or selling in LA?", "Get a free value on your home, or homes that fit, including off-market ones. You'll hear from me today.")}
 </main>
 {foot(path)}"""
     desc = f"The LA Guide by Nathaniel Grivas: the best restaurants, coffee, bars and things to do in {len(ready)} Los Angeles neighborhoods, picked from critic reviews and real user tips."
@@ -1530,7 +1716,7 @@ def page_post(p, posts):
 <div class="cta-row" style="margin-top:4px"><a class="btn solid" href="tel:{TEL}">Call or text {PHONE}</a><a class="btn" href="#contact" data-msg>Send a message</a></div></div>
 </div></article>
 {tool_html}{hood_html}{rel_html}
-{contact_band(r, preset=p.get('cta', 'buy'))}
+{lead_band(first="value" if p.get('cta', 'buy') == "sell" else "buy")}
 </main>
 {foot(path)}"""
     return head(f"{p['title']} | Nathaniel Grivas", p["description"], path, ld(art)) + body
@@ -1573,7 +1759,7 @@ def page_404():
 <main><section class="band"><div class="wrap">
 <p class="eyebrow">Page not found</p><h1 class="h1">That street doesn't exist</h1>
 <p class="lede" style="margin-top:14px">The page moved or never existed. Here's somewhere better to be.</p>
-<div class="cta-row"><a class="btn solid" href="/neighborhoods/">Explore the map</a><a class="btn" href="/">Home</a></div>
+<div class="cta-row"><a class="btn solid" href="/home-value/">What's my home worth?</a><a class="btn" href="/buy/">Find me a home</a><a class="btn" href="/neighborhoods/">Explore the map</a></div>
 </div></section>
 <section class="band" style="padding-top:0"><div class="wrap"><div class="hgrid">{cards}</div></div></section></main>
 {foot("/")}"""
@@ -1691,9 +1877,10 @@ def page_journal_day(j, newer, older):
 <section class="band lux-band"><div class="wrap"><div class="gend">
 <div><p class="kick">Where to go</p><h2>The LA Guide</h2><p>The best restaurants, coffee, bars and things to do in {len(GUIDES)} neighborhoods, updated as places open and close.</p>
 <div class="lh-cta"><a class="btn lux solid" href="/guide/">Browse the guide</a><a class="btn lux" href="/journal/">All journal entries</a></div></div>
-<div><p class="kick">Buying or selling?</p><h2>Talk to Nathaniel</h2><p>West LA, Beverly Hills and the Valley. Call or text {PHONE}.</p>
-<div class="lh-cta"><a class="btn lux solid" href="tel:{TEL}">Call {PHONE}</a><a class="btn lux" href="/neighborhoods/">Explore neighborhoods</a></div></div>
+<div><p class="kick">Buying or selling?</p><h2>Talk to Nathaniel</h2><p>Off-market homes, lenders for any situation and creative deals. West LA, Beverly Hills and the Valley.</p>
+<div class="lh-cta"><a class="btn lux solid" href="#lead" data-tabgo="v">What's my home worth?</a><a class="btn lux" href="#lead" data-tabgo="b">Find me a home</a></div></div>
 </div></div></section>
+{lead_band("Buying or selling in LA?", "Get a free value on your home, or homes that fit, including off-market ones. You'll hear from me today.")}
 </main>
 {foot(path)}"""
     art = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": j["title"], "description": j["dek"],
@@ -1718,6 +1905,7 @@ def page_journal_index():
 <p class="lede">A short daily read on Los Angeles: city news, new openings, events and the real estate stories worth knowing, written in plain English with links to the original reporting.</p>
 </div></section>
 <div class="wrap narrow gbody"><div class="jrows">{rows}</div></div>
+{lead_band("Buying or selling in LA?", "Get a free value on your home, or homes that fit, including off-market ones. You'll hear from me today.")}
 </main>
 {foot(path)}"""
     desc = "The LA Journal by Nathaniel Grivas: a short daily roundup of Los Angeles news, new restaurant openings, events and real estate, with links to the original reporting."
@@ -1742,6 +1930,7 @@ def main():
         "/listings/": page_listings(), "/about/": page_about(), "/guide/": page_guide(posts), "/privacy/": page_privacy(),
         "/homes/3721-evans/": page_featured("evans"), "/homes/616-fuller/": page_featured("fuller"),
         "/homes/18748-lanark/": page_deal("lanark"), "/homes/14757-hartland/": page_deal("hartland"),
+        VALUE_URL: page_value(), BUY_URL: page_buy(),
     }
     for h in HOODS:
         pages[f"/neighborhoods/{h['slug']}/"] = page_hood(h, posts)
@@ -1877,14 +2066,16 @@ def search_index(posts):
     out = []
     for h in ORDER:
         out.append({"t": h["name"], "s": f"{h['region']} \u00b7 {CITIES[h['city']]['short']} \u00b7 {h['zips']}", "u": f"/neighborhoods/{h['slug']}/",
-                    "k": " ".join([h["zips"], h["region"], CITIES[h["city"]]["label"], " ".join(TAGS[t] for t in h["tags"]), " ".join(k for k, _ in h["know"])]), "g": "Neighborhoods", "i": "N"})
+                    "k": " ".join([h["zips"], h["region"], CITIES[h["city"]]["label"], " ".join(TAGS[t] for t in h["tags"]), " ".join(k for k, _ in h["know"])]), "g": "Neighborhoods"})
     for s_, t, d, _ in TOOLS:
-        out.append({"t": t, "s": d, "u": f"/tools/{s_}/", "k": "calculator tool", "g": "Tools", "i": "T"})
+        out.append({"t": t, "s": d, "u": f"/tools/{s_}/", "k": "calculator tool", "g": "Tools"})
     for p in posts:
-        out.append({"t": p["title"], "s": p["category"], "u": f"/guide/{p['slug']}/", "k": p["description"], "g": "LA Guide", "i": "G"})
+        out.append({"t": p["title"], "s": p["category"], "u": f"/guide/{p['slug']}/", "k": p["description"], "g": "LA Guide"})
     for k in ACTIVE + SOLD:
         pr = PROPS[k]
-        out.append({"t": pr["addr"], "s": f"{pr['tag']} \u00b7 {pr['price']} \u00b7 {pr['area']}", "u": pr["url"], "k": "listing home", "g": "Listings", "i": "L"})
+        out.append({"t": pr["addr"], "s": f"{pr['tag']} \u00b7 {pr['price']} \u00b7 {pr['area']}", "u": pr.get("page") or pr["url"], "k": "listing home sold", "g": "Listings"})
+    out = [{"t": "What's my home worth?", "s": "Free home valuation, within 24 hours", "u": VALUE_URL, "k": "sell selling value valuation worth price cma appraisal estimate", "g": "Start here"},
+           {"t": "Find me a home", "s": "New, coming-soon and off-market homes", "u": BUY_URL, "k": "buy buying search listings off-market lender preapproved", "g": "Start here"}] + out
     out += [{"t": "About Nathaniel", "s": "REALTOR\u00ae at Compass", "u": "/about/", "k": "agent bio", "g": "Pages", "i": "P"},
             {"t": "Contact", "s": "Call, text or send a message", "u": "/#contact", "k": "phone email", "g": "Pages", "i": "P"},
             {"t": "The Brodsky Group", "s": "My team at Compass Beverly Hills", "u": BG, "k": "team or brodsky", "g": "Pages", "i": "P"},
@@ -1930,6 +2121,8 @@ def llms_txt(posts):
     lines += ["", f"## Client reviews (Google, {v8.RATING} stars, read them at {GBP_URL})", ""]
     lines += [f"- {r_['name']}, {r_['who']}, 5 stars, {r_['when']}: “{r_['text']}”" for r_ in v8.REVIEWS]
     lines += ["", "## Main pages", "",
+              f"- [Free home valuation]({SITE}{VALUE_URL}): what a Los Angeles home is worth, built by hand from recent sales, within 24 hours",
+              f"- [Find a home]({SITE}{BUY_URL}): buyer search with off-market homes, lenders for every situation and creative financing",
               f"- [About Nathaniel Grivas]({SITE}/about/): background, quick facts, team, reviews",
               f"- [Listings]({SITE}/listings/): active listings and closed deals",
               f"- [All 40 neighborhoods on a satellite map]({SITE}/neighborhoods/)",
