@@ -27,7 +27,7 @@
     home = [med(pts.map((p) => p.lat)), med(pts.map((p) => p.lng))];
     map.setView(home, map.getBoundsZoom(group.getBounds(), false, L.point(48, 48)) + 1, { animate: false });
     start = map.getZoom();
-    const labels = () => el.classList.toggle('labels', map.getZoom() >= Math.min(11.5, start));
+    const labels = () => el.classList.toggle('labels', map.getZoom() >= (el.clientWidth < 700 ? start + 1 : Math.min(11.5, start)));
     map.on('zoomend', labels); labels();
     el.addEventListener('click', () => map.scrollWheelZoom.enable(), { once: true });
     window.addEventListener('resize', () => map.invalidateSize());

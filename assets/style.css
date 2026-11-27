@@ -2116,3 +2116,12 @@ textarea.lf-in{padding:14px 16px;min-height:110px;resize:vertical;line-height:1.
 
 /* v16 speed: no live blur on phones (smoother scrolling) */
 @media (max-width:900px){*,*::before,*::after{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}.nb-sub{background:#fffdfa}}
+/* v17 phone fixes */
+.card .ph .info,.card .ph .price,.card .ph .addr{color:#fff;text-shadow:0 1px 10px rgba(0,0,0,.45)}
+.mth-band .res-sub{color:var(--soft)}
+@media (max-width:940px){
+  .top{background:rgb(247,244,239)}
+  .dock a,.dock button{text-align:center;line-height:1.05}
+}
+@media (max-width:1000px){.mt-cards .mt-k:last-child:nth-child(odd){grid-column:1/-1}}
+@media (max-width:600px){.ht-stats{grid-template-columns:repeat(2,1fr)}.ht-stats div:last-child:nth-child(odd){grid-column:1/-1}}

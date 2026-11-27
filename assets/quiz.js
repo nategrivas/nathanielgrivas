@@ -30,7 +30,7 @@
   const REGIONS = ['Coast', 'Westside', 'Beverly Hills & the Hills', 'Central', 'Eastside', 'Valley'];
 
   const OPT = {
-    goal: [['buy', 'Buy a home to live in'], ['invest', 'Buy to rent out'], ['build', 'Build or develop'], ['rent', 'Rent a place'], ['sell', "Sell, or find out what my home is worth"]],
+    goal: [['buy', 'Buy a home to live in'], ['invest', 'Buy to rent out'], ['build', 'Build or develop'], ['rent', 'Lease a place'], ['sell', "Sell, or find out what my home is worth"]],
     budget: [['u1', 'Under $1M'], ['1to2', '$1M to $2M'], ['2to35', '$2M to $3.5M'], ['35to6', '$3.5M to $6M'], ['6p', '$6M and up'], ['lender', "Not sure yet. I'd like to talk to a lender"]],
     rentbudget: [['r3', 'Under $3,000 a month'], ['r5', '$3,000 to $5,000'], ['r8', '$5,000 to $8,000'], ['r15', '$8,000 to $15,000'], ['r15p', '$15,000 and up']],
     pay: [['cash', 'All cash'], ['pre', 'Pre-approved loan'], ['loan', 'Need a lender'], ['self', 'Self-employed loan'], ['sfin', 'Seller financing'], ['1031', '1031 exchange']],
