@@ -731,7 +731,7 @@ def page_home(posts):
 <div class="help-row">{helps}</div>
 </div></section>
 
-{proof_band("Recent results", "Track record", skip=("fuller",))}
+{proof_band("Recent results", "Track record")}
 <section class="band lux-band" id="areas"><div class="wrap">
 <div class="lux-head"><p class="kick">Local LA</p><h2>Neighborhoods</h2><a href="/neighborhoods/">Open the map &rarr;</a></div>
 <div class="bento">{tiles}</div>
