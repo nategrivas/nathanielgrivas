@@ -67,7 +67,7 @@ Track record
 
 [All listings →](https://www.nathanielgrivas.com/listings)
 
-[Sold $1.155M18748 Lanark St ResedaRepresented seller](https://www.compass.com/homedetails/18748-Lanark-St-Los-Angeles-CA-91335/2169982850442083505_lid/)
+[Sold $1.155M18748 Lanark St ResedaRepresented seller](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 Living here
 

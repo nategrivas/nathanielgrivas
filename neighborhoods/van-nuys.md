@@ -69,7 +69,7 @@ Track record
 
 [All listings →](https://www.nathanielgrivas.com/listings)
 
-[Sold $825K14757 Hartland St Van NuysRepresented buyer](https://www.compass.com/homedetails/14757-Hartland-St-Van-Nuys-CA-91405/2115491441809620633_lid/)
+[Sold $825K14757 Hartland St Van NuysRepresented buyer](https://www.nathanielgrivas.com/homes/14757-hartland)
 
 Living here
 
