@@ -1,4 +1,4 @@
-# Beverly Hills, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Beverly Hills, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/beverly-hills
 
@@ -33,6 +33,158 @@ Beverly Hills is an independent city of about 5.7 square miles surrounded by Los
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
+
+The story of Beverly Hills
+
+## The town that struck water instead of oil
+
+Beverly Hills began as a failed oil play. The investors who drilled the old Rancho Rodeo de las Aguas found water instead, so they built a town around it, a hotel to sell it, and curving streets each lined with its own kind of tree. Then the movie stars arrived, voted to stay independent, and turned about 5.7 square miles into the most famous ZIP code in the world.
+
+4 min read 14 milestones 4 chapters 6 landmarks
+
+### Timeline
+
+- Rancho era
+
+The land is Rancho Rodeo de las Aguas, the gathering of the waters, where streams from Benedict, Coldwater and Franklin canyons meet.
+
+- 1900
+
+Oilmen Burton Green, Charles Canfield, Max Whittier and partners buy the rancho and drill. They mostly find water.
+
+- 1906
+
+The group reorganizes as the Rodeo Land and Water Company and names the town after Beverly Farms, Massachusetts.
+
+- 1907
+
+The first house goes up on a plan by landscape architect Wilbur Cook: curving streets above Santa Monica Boulevard.
+
+- 1912
+
+The Beverly Hills Hotel opens on the spot where the waters met, built to bring in buyers.
+
+- 1914
+
+Beverly Hills incorporates on January 28 with about 550 residents.
+
+- 1919
+
+Mary Pickford and Douglas Fairbanks buy on Summit Drive and create Pickfair. The movie colony follows.
+
+- 1923
+
+On April 24, voters reject annexation to Los Angeles after eight film stars campaign door to door.
+
+- 1926
+
+Will Rogers is named the city's honorary mayor.
+
+- 1928
+
+Greystone, the Doheny family's 55-room mansion by Gordon Kaufmann, is completed above Sunset.
+
+- 1949
+
+Paul R. Williams adds the Crescent Wing and the script logo to the newly pink Beverly Hills Hotel.
+
+- 1954
+
+Builder Paul Trousdale buys about 410 acres of the Doheny Ranch. It becomes Trousdale Estates.
+
+- 1965
+
+The city buys Greystone to save it from demolition. It opens as a public park in 1971.
+
+- 1990
+
+Two Rodeo, a cobbled shopping street at Wilshire and Rodeo, opens.
+
+IThe gathering of the waters
+
+### An oil company that found a town
+
+**550** residents when the city incorporated in 1914
+
+Before it had a name, this was Rancho Rodeo de las Aguas, the gathering of the waters, where streams draining Benedict, Coldwater and Franklin canyons met near today's Sunset Boulevard and Beverly Drive. In 1900 a group of oilmen including Burton Green bought the land, drilled, and came up mostly with water. In 1906 they reorganized as the Rodeo Land and Water Company, named the place after Beverly Farms, Massachusetts, and started selling lots instead of oil.
+
+Green hired landscape architect Wilbur Cook to make it a garden city: curving streets north of Santa Monica Boulevard, a long park along the boulevard, and different street trees on different streets so blocks have their own canopy. To bring in buyers, the company built the Beverly Hills Hotel in 1912 on the spot where the waters met. It worked. By 1914 there were enough residents to incorporate, about 550 of them.
+
+IIThe movie colony
+
+### The stars who kept Beverly Hills independent
+
+**8** film stars who campaigned against annexation
+
+In 1919 Mary Pickford and Douglas Fairbanks, then the most famous couple in the world, bought a hunting lodge on Summit Drive and had it remade into Pickfair. Other stars followed them up the hill, and Beverly Hills became the place Hollywood went home to at night.
+
+By 1923 the town was running short of water, and joining Los Angeles looked like the fix. Pickford, Fairbanks, Will Rogers, Rudolph Valentino, Harold Lloyd, Tom Mix, Conrad Nagel and Fred Niblo campaigned against it door to door. Supporters of annexation answered by leaving bottles of the local sulfur-smelling water on doorsteps. On April 24, 1923, voters chose independence anyway. Rogers was named honorary mayor in 1926, and the eight stars are honored today by the Celluloid Monument.
+
+IIIGreystone and Trousdale
+
+### The Doheny land above Sunset
+
+**410** acres of Doheny Ranch that became Trousdale
+
+Oilman Edward L. Doheny owned the hills above the flats. In 1928 the family completed Greystone, a Tudor Revival mansion of about 46,000 square feet designed by Gordon Kaufmann as a gift for his son. When a later owner planned to tear it down, the city bought the estate in 1965, and in 1971 its gardens opened as a public park. It is still one of the most filmed houses in Los Angeles.
+
+In 1954 builder Paul Trousdale bought about 410 acres of the Doheny Ranch, persuaded Beverly Hills to bring it into the city, and laid out roughly 530 terraced lots with an architectural committee approving every house. Architects including Paul R. Williams, Wallace Neff and A. Quincy Jones designed low, glassy homes oriented to the views, and Trousdale became the mid-century address of Elvis Presley, Frank Sinatra, Dean Martin, Ray Charles and Richard Nixon. City rules still limit building height on most lots to protect those views.
+
+IVRodeo and the Pink Palace
+
+### From a farm town to the Golden Triangle
+
+**1949** the year the hotel got its script logo
+
+South of Santa Monica Boulevard, Cook's grid became the business district now called the Golden Triangle. Rodeo Drive took its modern shape in the 1960s and 1970s as designer boutiques replaced neighborhood shops, and Two Rodeo, a cobbled European-style lane at Wilshire, opened in 1990.
+
+The Beverly Hills Hotel was painted pink in 1948, and the next year architect Paul R. Williams added the Crescent Wing and drew the script logo that is still on the sign. He also reshaped the Polo Lounge and the Fountain Coffee Room. More than a century after it opened, the hotel is still the social center the founders built it to be.
+
+Test yourself
+
+### Did you know?
+
+01 **Why is it called Beverly Hills?** Tap for the answer
+
+Burton Green named it after Beverly Farms, Massachusetts, a seaside town he remembered fondly. The Hills part described the land.
+
+02 **How did the town get started?** Tap for the answer
+
+Oil investors drilled the old rancho in 1900 and found water instead, so they sold homes rather than oil.
+
+03 **How close did Beverly Hills come to joining LA?** Tap for the answer
+
+In 1923 voters were asked to annex to Los Angeles for its water. A campaign led by eight movie stars helped defeat it on April 24, 1923.
+
+04 **Why do so many streets look different from each other?** Tap for the answer
+
+Planner Wilbur Cook gave different streets different trees, so many blocks have their own signature canopy.
+
+05 **Who drew the Beverly Hills Hotel's famous script logo?** Tap for the answer
+
+Architect Paul R. Williams, who also designed the Crescent Wing in 1949.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [The Beverly Hills Hotel 1912 The Pink Palace on Sunset, built to sell the town. Map ↗](https://www.google.com/maps/search/?api=1&query=The+Beverly+Hills+Hotel%2C+Beverly+Hills%2C+CA)
+- [Greystone Mansion & Gardens 1928 The Doheny estate, now a city park. Map ↗](https://www.google.com/maps/search/?api=1&query=Greystone+Mansion+%26+Gardens%2C+Beverly+Hills%2C+CA)
+- [Beverly Gardens Park The long park on Santa Monica Boulevard from the original plan, home of the Beverly Hills sign. Map ↗](https://www.google.com/maps/search/?api=1&query=Beverly+Gardens+Park%2C+Beverly+Hills%2C+CA)
+- [Trousdale Estates 1954 The mid-century hillside tract on the old Doheny Ranch. Map ↗](https://www.google.com/maps/search/?api=1&query=Trousdale+Estates%2C+Beverly+Hills%2C+CA)
+- [Two Rodeo 1990 The cobbled lane at Wilshire and Rodeo. Map ↗](https://www.google.com/maps/search/?api=1&query=Two+Rodeo%2C+Beverly+Hills%2C+CA)
+- [Celluloid Monument Honors the eight stars who campaigned to keep the city independent. Map ↗](https://www.google.com/maps/search/?api=1&query=Celluloid+Monument%2C+Beverly+Hills%2C+CA)
+
+Sources for this history
+
+- [City of Beverly Hills: History of Beverly Hills](https://beverlyhills.org/citymanager/aboutbeverlyhills/historyofbeverlyhills/)
+- [Beverly Hills Historical Society](https://www.beverlyhillshistoricalsociety.org/history)
+- [LA Conservancy: History of Beverly Hills](https://www.laconservancy.org/history-beverly-hills)
+- [LAist: How Beverly Hills became and stayed an independent city](https://laist.com/shows/take-two/how-beverly-hills-became-and-stayed-an-independent-city)
+- [Beverly Hills Courier: 100 years of independence](https://beverlyhillscourier.com/2023/04/27/documentary-celebrates-100-years-of-beverly-hills-independence)
+- [Wikipedia: Greystone Mansion](https://en.wikipedia.org/wiki/Greystone_Mansion)
+- [Wikipedia: Trousdale Estates](https://en.wikipedia.org/wiki/Trousdale_Estates)
+- [Dorchester Collection: the Beverly Hills Hotel](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/about)
 
 The map
 

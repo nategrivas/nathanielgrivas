@@ -1,4 +1,4 @@
-# Bel Air, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Bel Air, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/bel-air
 
@@ -34,6 +34,131 @@ Bel Air is a City of LA hillside neighborhood north of UCLA, founded by Alphonzo
 
 Call Text
 
+The story of Bel Air
+
+## An oilman's private park in the hills
+
+Bel Air was planned before it was built. Oilman Alphonzo Bell bought a ranch in the Santa Monica Mountains, buried the power lines, set minimums on what buyers had to spend, put gates at the entrances and opened it in 1923 as a residential park. A century, a country club, a famous hotel and one devastating fire later, it is still laid out almost exactly as he drew it.
+
+3 min read 9 milestones 4 chapters 4 landmarks
+
+### Timeline
+
+- 1922
+
+Alphonzo Bell, whose fortune came from oil found on his family's Santa Fe Springs farm, runs water, sewer and underground power and phone lines into his hillside ranch.
+
+- 1923
+
+The first Bel Air tract opens: 128 lots on Bel Air Road and the streets off it, behind the East Gate at Sunset and Beverly Glen.
+
+- 1925
+
+A second tract expands the community, and the Bel-Air Country Club opens. Its golf course follows in 1927.
+
+- 1931
+
+Bell starts adding the land that becomes the rest of Bel Air, up the canyons toward Mulholland.
+
+- 1933
+
+The Kirkeby Mansion, later the Beverly Hillbillies house, is built on Bel Air Road.
+
+- 1942
+
+The Bel Air Association forms to protect the look of the community. It still meets at the East Gate.
+
+- 1946
+
+Texas hotelier Joseph Drown buys Bell's old sales office and 18 acres in Stone Canyon and opens the Hotel Bel-Air.
+
+- 1961
+
+On November 6, the Bel Air Fire, driven by Santa Ana winds, destroys 484 homes.
+
+- 1989
+
+Ronald and Nancy Reagan retire to a house on St. Cloud Road.
+
+IThe founder
+
+### Alphonzo Bell's master plan
+
+**128** lots in the original 1923 tract
+
+Alphonzo Bell made his money when oil was struck on his family's farm in Santa Fe Springs, and he spent it on a ranch in the hills west of Beverly Hills. Before selling a single lot he graded roads, piped in water and sewers, and put electric and telephone lines underground, which was almost unheard of in 1922. Deed restrictions required buyers to spend a set minimum building their homes.
+
+The first tract opened in 1923 with 128 lots along Bel Air Road and the streets that branch from it, entered through the East Gate at Sunset Boulevard and Beverly Glen. That original allotment is what people still call Old Bel Air or East Gate. Bell kept adding land through the 1930s, and the community grew up the canyons toward Mulholland.
+
+IIThe clubs
+
+### A country club and a hotel in a canyon
+
+**1946** the Hotel Bel-Air opens
+
+Bell built the Bel-Air Country Club into the plan from the start. The club opened in 1925 and its golf course, threaded through the canyons and across a famous swinging bridge, followed in 1927.
+
+In 1946 a Texas hotel man named Joseph Drown bought 18 acres in Stone Canyon, including the Mission-style buildings Bell had used as his planning and sales office, and turned them into the Hotel Bel-Air. With its swan pond, gardens and bungalows, it became Hollywood's favorite hideaway, and it remains the community's living room.
+
+IIIFire
+
+### November 6, 1961
+
+**484** homes lost in the 1961 fire
+
+On November 6, 1961, a brush fire in the Santa Monica Mountains, pushed by Santa Ana winds, jumped the ridge and swept down the canyons of Bel Air and Brentwood. In two days it destroyed 484 homes, including houses owned by well-known film stars, and injured about 200 firefighters.
+
+The rebuilding that followed reshaped the hills, and the disaster changed how Los Angeles thinks about building in brush country, from clearing vegetation around homes to safer roofing. Those lessons are part of every hillside purchase here today.
+
+IVBel Air on screen
+
+### Famous addresses, and a famous mix-up
+
+**1933** the Beverly Hillbillies mansion is built
+
+The mansion Jed Clampett moved into on The Beverly Hillbillies was really the Kirkeby estate on Bel Air Road, built in 1933. Ronald and Nancy Reagan retired to St. Cloud Road in 1989.
+
+The most famous Bel Air house on television is not in Bel Air at all. The mansion in the opening of The Fresh Prince of Bel-Air sits on Bristol Avenue in Brentwood.
+
+Test yourself
+
+### Did you know?
+
+01 **Is the Fresh Prince house in Bel Air?** Tap for the answer
+
+No. The mansion from the opening credits is on North Bristol Avenue in Brentwood.
+
+02 **Why don't you see power lines in old Bel Air?** Tap for the answer
+
+Alphonzo Bell buried the electric and phone lines before he sold the first lot in 1923.
+
+03 **What is the East Gate?** Tap for the answer
+
+The original entrance to Bel Air at Sunset Boulevard and Beverly Glen, where the first 128-lot tract opened in 1923.
+
+04 **Where was the Beverly Hillbillies mansion?** Tap for the answer
+
+The Kirkeby estate on Bel Air Road, built in 1933.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Bel Air East Gate 1923 The original entrance at Sunset and Beverly Glen. Map ↗](https://www.google.com/maps/search/?api=1&query=Bel+Air+East+Gate%2C+Bel+Air%2C+CA)
+- [Hotel Bel-Air 1946 Bell's old sales office in Stone Canyon, now the hotel with the swans. Map ↗](https://www.google.com/maps/search/?api=1&query=Hotel+Bel-Air%2C+Bel+Air%2C+CA)
+- [Bel-Air Country Club 1925 The club Bell built into the plan. Map ↗](https://www.google.com/maps/search/?api=1&query=Bel-Air+Country+Club%2C+Bel+Air%2C+CA)
+- [Stone Canyon Reservoir The canyon lake above the hotel, part of the city water system. Map ↗](https://www.google.com/maps/search/?api=1&query=Stone+Canyon+Reservoir%2C+Bel+Air%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Bel Air, Los Angeles](https://en.wikipedia.org/wiki/Bel_Air,_Los_Angeles)
+- [Wikipedia: East Gate Bel Air](https://en.wikipedia.org/wiki/East_Gate_Bel_Air,_Los_Angeles)
+- [Bel Air Association: history](https://www.belairassociation.org/?p=3816)
+- [Wikipedia: Bel Air Fire](https://en.wikipedia.org/wiki/Bel_Air_Fire)
+- [NBC Los Angeles: the November 1961 Bel Air Fire](https://www.nbclosangeles.com/news/california-wildfires/november-1961-bel-air-fire-disaster-california-wildfires-photos/2106221/)
+- [PCAD: Hotel Bel-Air](https://pcad.lib.washington.edu/building/676)
+- [LA City Planning: SurveyLA Bel Air-Beverly Crest](https://planning.lacity.gov/odocument/8653ceb3-0d57-4e95-8659-cf0a867bbc26/Final_Survey_Report_-_Bel_Air-Beverly_Crest_HPLAEdit.pdf)
+
 The map
 
 ## Bel Air, mapped
@@ -53,9 +178,9 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 
 What's my home worth? Get Bel Air listings
 
-Local LA
+Down the hill
 
-## Where to eat, drink and go in Bel Air
+## Where to eat, drink and go near Bel Air
 
 See them on the map →
 

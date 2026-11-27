@@ -53,9 +53,9 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 
 What's my home worth? Get Palms listings
 
-Local LA
+Down the hill
 
-## Where to eat, drink and go in Palms
+## Where to eat, drink and go near Palms
 
 See them on the map →
 

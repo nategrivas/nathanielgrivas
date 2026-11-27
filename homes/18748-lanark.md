@@ -75,7 +75,7 @@ Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Ful
 
 ### Developers and builders
 
-Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking.
+Land plays, teardowns and ADUs. I marketed a Reseda lot to builders, drew seven offers in nine days and sold it 15.6% over asking.
 
 ### The right people for every step
 

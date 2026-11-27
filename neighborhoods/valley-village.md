@@ -52,9 +52,9 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 
 What's my home worth? Get Valley Village listings
 
-Local LA
+Down the hill
 
-## Where to eat, drink and go in Valley Village
+## Where to eat, drink and go near Valley Village
 
 See them on the map →
 

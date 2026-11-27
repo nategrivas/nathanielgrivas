@@ -18,6 +18,8 @@ import v8  # noqa: E402
 from v8 import aerial, reviews_band, trust_row, GBP_URL, stars  # noqa: E402
 import guide_build as G  # noqa: E402
 GUIDES = G.load()
+import history as HI  # noqa: E402
+HIST = HI.load()
 import math  # noqa: E402
 from urllib.parse import quote_plus  # noqa: E402
 
@@ -932,10 +934,13 @@ def hood_local(h):
         if gi == 1:
             blocks += cta_strip(f"Love {n}? Live here.", f"Get new {n} listings, including off-market ones, or a free value on your {n} home.", buy_label=f"Get {n} listings")
     total = idx
+    borrowed = sum(1 for g in groups for it in g["items"] if it[2])
+    nearby = total and borrowed * 2 > total
     srcs = "".join(f'<li><a href="{u}" rel="noopener">{e(t)}</a></li>' for t, u in (d["sources"].values() if d else []))
     upd = d["updated"] if d else ""
+    gkick, gh = ("Down the hill", f"Where to eat, drink and go near {e(n)}") if nearby else ("Local LA", f"Where to eat, drink and go in {e(n)}")
     guide_html = f"""<section class="band nb-guide" id="eat"><div class="wrap">
-<div class="sec-head"><div><p class="kick">Local LA</p><h2>Where to eat, drink and go in {e(n)}</h2></div>{'<a href="#map">See them on the map &rarr;</a>' if len(pts) >= 3 else ''}</div>
+<div class="sec-head"><div><p class="kick">{gkick}</p><h2>{gh}</h2></div>{'<a href="#map">See them on the map &rarr;</a>' if len(pts) >= 3 else ''}</div>
 <p class="nb-glede">{e(d["intro"]) if d else ""}</p>
 <p class="gh-meta">{total} hand-picked places &middot; Updated {e(upd)} &middot; Picked from critic reviews and real-people ratings, written in plain English</p>
 <nav class="gchips" aria-label="Sections">{chips}</nav>
@@ -981,6 +986,9 @@ def page_hood(h, posts):
     ph = PHOTOS.get(h["slug"], [])
     n = h["name"]
     map_html, guide_html, mapdata = hood_local(h)
+    hx = HIST.get(h["slug"])
+    hist_html = HI.render(h, hx) if hx else ""
+    first = bool(hx and hx.get("story_first"))
     near = "".join(photo_tile(BY_SLUG[x]) for x in h["near"])
     deals = DEALS.get(h["slug"], [])
     deals_html = ""
@@ -1024,7 +1032,8 @@ def page_hood(h, posts):
                "provider": {"@id": SITE + "/#nathaniel"}, "areaServed": {"@type": "Place", "name": f"{n}, Los Angeles, CA",
                "geo": {"@type": "GeoCoordinates", "latitude": lat, "longitude": lng}}}
     crumbs = crumbs_ld([("Home", "/"), ("Local LA", "/neighborhoods/"), (n, path)])
-    sub = [("overview", "Overview"), ("map", "Map"), ("eat", "Eat, drink &amp; go")] + ([("photos", "Photos")] if gal else []) + \
+    sub = [("overview", "Overview")] + ([("history", "History")] if first else []) + [("map", "Map"), ("eat", "Eat, drink &amp; go")] + \
+          ([("history", "History")] if hx and not first else []) + ([("photos", "Photos")] if gal else []) + \
           [("living", "Living here"), ("reviews", "Reviews"), ("faq", "FAQ")]
     subnav = "".join(f'<a href="#{a}">{b}</a>' for a, b in sub)
     body = f"""{nav(path, "explore")}
@@ -1059,9 +1068,11 @@ def page_hood(h, posts):
 <div class="nb-agent-cta"><a class="btn solid" href="tel:{TEL}">{ICONS['call']}Call</a><a class="btn" href="sms:{TEL}">{ICONS['text']}Text</a><button type="button" class="btn" data-msg>{ICONS['email']}Message</button></div>
 </aside>
 </div></section>
+{hist_html if first else ""}
 {map_html}
 {cta_strip(f"Thinking about {n}?", f"New {n} listings, off-market homes and lenders for any situation. Or a free value on your {n} home.", sell_label="What's my home worth?", buy_label=f"Get {n} listings")}
 {guide_html}
+{"" if first else hist_html}
 {gal}
 {deals_html}
 <section class="band nb-live" id="living"><div class="wrap">
@@ -1090,11 +1101,16 @@ def page_hood(h, posts):
 <div class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Photo viewer"><button type="button" class="lb-x" aria-label="Close">&times;</button><button type="button" class="lb-p" aria-label="Previous photo">&lsaquo;</button><img alt=""><button type="button" class="lb-n" aria-label="Next photo">&rsaquo;</button><p class="lb-c"></p></div>
 </main>
 {foot(path, ["vendor/leaflet.js", "hoodmap.js"] if len(mapdata["pts"]) >= 3 else (), "explore")}"""
-    title = f"{n}, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA"
-    desc = f"{h['line']} The best places to eat, drink and go in {n}, pinned on a map, plus homes, rules and what it's like to live there."[:300]
+    if first:
+        title = f"{n}, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA"
+        desc = f"The story of {n}: {hx['title']}. A timeline, landmarks and did-you-know facts, plus the best places to eat and drink nearby and what it's like to live there."[:300]
+    else:
+        title = f"{n}, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA"
+        desc = f"{h['line']} The best places to eat, drink and go in {n}, pinned on a map, plus its history, homes, rules and what it's like to live there."[:300]
     items = [{"@type": "ListItem", "position": k + 1, "name": nm} for k, nm in enumerate(mapdata["all"])]
     il = {"@context": "https://schema.org", "@type": "ItemList", "name": f"Where to eat, drink and go in {n}", "itemListElement": items}
-    return head(title, desc, path, ld(place) + ld(service) + ld(crumbs) + ld(il) + ld(v8.faq_ld(qa)) + '\n<link rel="stylesheet" href="/assets/vendor/leaflet.css">', og="hero.jpg") + body
+    faq_all = qa + (HI.faq_pairs(hx) if hx else [])
+    return head(title, desc, path, ld(place) + ld(service) + ld(crumbs) + ld(il) + ld(v8.faq_ld(faq_all)) + '\n<link rel="stylesheet" href="/assets/vendor/leaflet.css">', og="hero.jpg") + body
 
 
 def page_tools():
@@ -1311,15 +1327,15 @@ RESOURCES = [
     ("key", "Off-market and coming-soon homes", "Compass Private Exclusives and my team's off-market list. Many of the best homes trade before they ever reach Zillow."),
     ("value", "Lenders for every kind of buyer", "Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on."),
     ("split", "Creative deal structures", "Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Fuller at $3,275,000 with the sellers carrying the loan."),
-    ("build", "Developers and builders", "Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking."),
+    ("build", "Developers and builders", "Land plays, teardowns and ADUs. I marketed a Reseda lot to builders, drew seven offers in nine days and sold it 15.6% over asking."),
     ("team", "The right people for every step", "Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and I bring in whoever you need."),
     ("sign", "Complicated is fine", "Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to me and I'll figure it out."),
 ]
 
 PROOF = [
-    ("lanark", "lanark.jpg", "18748 Lanark St, Reseda", "$156K over asking", "7 offers in 9 days. Marketed to builders as a land play."),
-    ("fuller", "fuller.jpg", "616 N Fuller Ave, Fairfax", "$3,275,000, seller financed", "Structured with the sellers carrying the loan. I represented both sides."),
-    ("hartland", "hartland.jpg", "14757 Hartland St, Van Nuys", "$31,000 off in escrow", "Won in multiple offers, then renegotiated after inspections. A two-ADU play."),
+    ("fuller", "fuller.jpg", "616 N Fuller Ave, Fairfax", "$3,275,000. Both sides.", "A seller-financed sale: the sellers carried the loan, and I represented the buyer and the sellers."),
+    ("lanark", "lanark.jpg", "18748 Lanark St, Reseda", "15.6% over asking", "7 offers in 9 days after I marketed it to builders as a land play. Sold for $1,155,000."),
+    ("hartland", "hartland.jpg", "14757 Hartland St, Van Nuys", "Won in multiple offers", "Then I priced every inspection item and took $31,000 off in escrow, on a contract that said no credits."),
 ]
 
 
@@ -1651,7 +1667,7 @@ WHY = [
     ("split", "Deals that close, however they have to",
      "At 616 N Fuller Ave, Nathaniel structured a $3,275,000 sale with seller financing. The sellers carried the loan, the buyer closed without a bank, and he represented both sides."),
     ("up", "Marketing that finds the buyer who pays the most",
-     "He marketed 18748 Lanark St in Reseda to developers as a land play. Seven offers in nine days, into escrow on day nine, and closed at $1,155,000: $156,000 over asking."),
+     "He marketed 18748 Lanark St in Reseda to developers as a land play. Seven offers in nine days, into escrow on day nine, and closed at $1,155,000, 15.6% over the $999,000 asking price."),
     ("scale", "Negotiation that keeps going after the offer",
      "At 14757 Hartland St he won his buyer the house in multiple offers, then priced every item in the inspections and took $31,000 off in escrow, on a contract that said no credits."),
     ("build", "He reads a property like a developer",
@@ -1679,9 +1695,9 @@ def page_about():
 <div class="portrait"><img src="{r}img/nate-about.jpg" alt="Nathaniel Grivas, REALTOR at Compass" width="900" height="990"></div>
 <div><p class="eyebrow">About Nathaniel</p><h1 class="h1">Nathaniel Grivas</h1>
 <p class="ab-tag">The agent who finds a way to get it done.</p>
-<p class="lede" style="margin-top:14px">Nathaniel Grivas is a REALTOR&reg; with The Brodsky Group at Compass Beverly Hills, a team that closes over $100M in sales every year. He represents buyers, sellers, investors, landlords and developers from Malibu to Silver Lake and across the San Fernando Valley, and he takes on the deals other agents pass on: creative financing, development sites, off-market homes and anything complicated.</p>
+<p class="lede" style="margin-top:14px">Nathaniel Grivas is a REALTOR&reg; with The Brodsky Group at Compass Beverly Hills, a team that closes over $100M in sales every year. On his own deals he has represented both sides: the buyer and the sellers on a $3,275,000 seller-financed sale, and the landlord and the tenant on a lease. He takes on the deals other agents pass on: creative financing, development sites, off-market homes and anything complicated, from Malibu to Silver Lake and across the San Fernando Valley.</p>
 {trust_row()}
-<div class="facts"><div class="glass"><b>$100M+</b><span>annual team sales</span></div><div><b>$3.275M</b><span>seller-financed sale he structured</span></div><div><b>$156K</b><span>over asking at 18748 Lanark</span></div></div>
+<div class="facts ab-stats"><div class="glass"><b>$100M+</b><span>annual sales with The Brodsky Group at Compass</span></div><div><b>Both sides</b><span>buyer and seller, landlord and tenant, on his own deals</span></div><div><b>15.6%</b><span>over asking on his Reseda listing, 7 offers in 9 days</span></div><div><b>$4.8M</b><span>listing he represents with his team at 3721 Evans St</span></div></div>
 <div class="cta-row"><a class="btn solid" href="tel:{TEL}">Call {PHONE}</a><a class="btn" href="{VALUE_URL}">What's my home worth?</a><a class="btn" href="{BUY_URL}">Find me a home</a></div>
 </div></div></section>
 <section class="band why-band"><div class="wrap">
@@ -1690,15 +1706,15 @@ def page_about():
 <div class="cta-row" style="justify-content:center;margin-top:26px"><a class="btn solid" href="#lead" data-tabgo="v">Get my home value</a><a class="btn" href="#lead" data-tabgo="b">Start my home search</a><a class="btn" href="tel:{TEL}">Call {PHONE}</a></div>
 </div></section>
 {proof_band("The results behind it", "Track record")}
-<section class="band" style="padding-top:0"><div class="wrap narrow body">
-<h2>Background</h2>
+<section class="band" style="padding-top:0"><div class="wrap ab-body body">
+<div><h2>Background</h2>
 <p>Nathaniel was raised between New York and Seattle and moved to Los Angeles for Loyola Marymount University, where he graduated cum laude in Marketing with a minor in Business Law. He worked in marketing at Compass before becoming an agent on The Brodsky Group, and he brings both to every deal: a marketer's eye for how a home is presented and found, and a contract-minded approach to terms, timelines and risk.</p>
-<h2>What he does</h2>
+</div><div><h2>What he does</h2>
 <p>Pricing and listing preparation, marketing and launch, buyer representation in competitive offers, negotiation through escrow, leasing, and development work: teardown and lot value analysis, zoning and ADU feasibility, and off-market sourcing for builders and investors. When a deal needs a lender, a contractor, an architect, a 1031 intermediary or a tax professional, he brings in the right one.</p>
-<h2>Where he works</h2>
+</div><div><h2>Where he works</h2>
 <p>West Los Angeles, Beverly Hills and the Hills, the beach cities from Malibu to Playa del Rey, Hollywood to Silver Lake, and the San Fernando Valley. Every neighborhood he covers has its own page in <a href="{r}neighborhoods/">Local LA</a>, with a map of the places locals go.</p>
-<h2>Outside of real estate</h2>
-<p>Basketball, golf and tennis, and time with friends and family.</p>
+</div><div><h2>Outside of real estate</h2>
+<p>Basketball, golf and tennis, and time with friends and family.</p></div>
 </div></section>
 {reviews_band(True, "What clients say")}
 {resources_band()}
@@ -2033,7 +2049,7 @@ def journal_teaser():
         return ""
     j = JOURNAL[0]
     heads = "".join(f'<li>{e(it["h"])}</li>' for it in j["items"][:4])
-    return (f'<section class="band lux-band" style="padding-top:6px"><div class="wrap"><a class="jteaser" href="/news/">'
+    return zipper("/news/") + (f'<section class="band lux-band" style="padding-top:6px"><div class="wrap"><a class="jteaser" href="/news/">'
             f'<span class="kick">LA News &middot; {jdate(j["date"])}</span><b>{e(j["title"])}</b><span class="jt-d">{e(j["dek"])}</span>'
             f'<ul>{heads}</ul><span class="jt-go">Today, this week and this month in LA &rarr;</span></a></div></section>')
 
@@ -2112,52 +2128,151 @@ def nitem(it, big=False):
             f'<p class="jit-f">{when}{("Neighborhoods: " + hs + " &middot; ") if hs else ""}{("Sources: " + srcs) if srcs else ""}</p></article>')
 
 
+def ticker_items():
+    """Headlines for the moving ticker: the month's headline, today, the week, then the month."""
+    out = []
+    mo, wk = NEWS.get("month", {}), NEWS.get("week", {})
+    if mo.get("lead"):
+        out.append(("The headline", mo["lead"]["h"], "lead"))
+    if JOURNAL:
+        out += [(it.get("tag", "LA"), it["h"], f"t{i}") for i, it in enumerate(JOURNAL[0]["items"])]
+    th = {it["h"] for it in (JOURNAL[0]["items"] if JOURNAL else [])}
+    out += [(it.get("tag", "LA"), it["h"], f"w{i}") for i, it in enumerate([x for x in wk.get("items", []) if x["h"] not in th])]
+    out += [(it.get("tag", "LA"), it["h"], f"m{i}") for i, it in enumerate(mo.get("items", []))]
+    seen, uniq = set(), []
+    for t, h, a in out:
+        if h not in seen:
+            seen.add(h)
+            uniq.append((t, h, a))
+    return uniq
+
+
+def zipper(base="", label="LA News"):
+    """The moving headline ticker, styled like the old Times Square news zipper."""
+    items = ticker_items()
+    if not items:
+        return ""
+    run = "".join(f'<a href="{base}#{a}"><b>{e(t)}</b>{e(h)}</a>' for t, h, a in items)
+    secs = max(40, sum(len(h) for _, h, _ in items) // 5)
+    return (f'<div class="zip" role="region" aria-label="Latest Los Angeles headlines"><a class="zip-l" href="/news/"><i aria-hidden="true"></i>{e(label)}</a>'
+            f'<div class="zip-w"><div class="zip-r" style="--zd:{secs}s"><div class="zip-s">{run}</div><div class="zip-s" aria-hidden="true">{run}</div></div></div></div>')
+
+
+def nstory(it, aid, cls="", photo=False, drop=False):
+    srcs = ", ".join(f'<a href="{u}" rel="noopener">{e(t)}</a>' for t, u in it.get("src", []))
+    hs = jhoods(it.get("hoods"))
+    meta = " &middot; ".join(x for x in ((fmt_date(it["date"]) if it.get("date") else ""), (hs if hs else "")) if x)
+    fig = ""
+    if photo:
+        for s_ in it.get("hoods") or []:
+            ph = PHOTOS.get(s_)
+            if ph:
+                fig = (f'<figure class="ns-fig">{ph_img(ph[0][0], ph[0][1], 1100, 0.6, "(max-width:900px) 92vw, 46vw")}'
+                       f'<figcaption>{e(ph[0][1])}. File photo of {e(BY_SLUG[s_]["name"])} via Unsplash, not of the news event.</figcaption></figure>')
+                break
+    return (f'<article class="ns {cls}" id="{aid}">{fig}<p class="ns-tag">{e(it.get("tag", "LA"))}</p><h3>{e(it["h"])}</h3>'
+            f'{("<p class=ns-meta>" + meta + "</p>") if meta else ""}<p class="ns-b{" drop" if drop else ""}">{e(it["t"])}</p>'
+            f'{("<p class=ns-src>Sources: " + srcs + "</p>") if srcs else ""}</article>')
+
+
+def history_desk(n=3):
+    """Three did-you-know facts from the neighborhood histories, rotating by day."""
+    pool = [(s_, q, a) for s_, hx in HIST.items() if s_ in BY_SLUG for q, a in hx.get("dyk", [])]
+    if not pool:
+        return ""
+    day = datetime.date.today().toordinal()
+    pick = [pool[(day * 7 + k * 11) % len(pool)] for k in range(min(n, len(pool)))]
+    seen, cards = set(), ""
+    for s_, q, a in pick:
+        if q in seen:
+            continue
+        seen.add(q)
+        cards += (f'<a class="hd-c" href="/neighborhoods/{s_}/#history"><span class="hd-h">{e(BY_SLUG[s_]["name"])}</span><b>{e(q)}</b>'
+                  f'<span class="hd-a">{e(a)}</span><i>Read the full story &rarr;</i></a>')
+    return cards
+
+
 def page_news():
     path = "/news/"
     j = JOURNAL[0] if JOURNAL else None
     wk, mo = NEWS.get("week", {}), NEWS.get("month", {})
+    day = datetime.date.fromisoformat(j["date"] if j else NEWS.get("updated"))
+    issue = len(JOURNAL)
+    # the front page: month's headline on the left, today's briefing on the right
+    lead = mo.get("lead")
+    lead_html = ""
+    today_heads = {it["h"] for it in (j["items"] if j else [])}
+    wk_items = [it for it in wk.get("items", []) if it["h"] not in today_heads]
+    more = ""
+    if wk_items:
+        more = (f'<div class="np-more" id="week"><p class="np-label">The week in LA &middot; {e(wk["label"])}</p>'
+                f'<div class="np-grid cols2">{"".join(nstory(it, f"w{i}", photo=True) for i, it in enumerate(wk_items))}</div></div>')
+    if lead:
+        srcs = ", ".join(f'<a href="{u}" rel="noopener">{e(t)}</a>' for t, u in lead.get("src", []))
+        lead_html = (f'<div class="np-lead" id="lead"><p class="np-label">The headline &middot; {e(mo["label"])}</p>'
+                     f'<h1>{e(lead["h"])}</h1><p class="np-by">By Nathaniel Grivas, from public reporting &middot; {fmt_date(lead["date"]) if lead.get("date") else ""}</p>'
+                     f'<p class="np-body drop">{e(lead["t"])}</p>{("<p class=ns-src>Sources: " + srcs + "</p>") if srcs else ""}{more}</div>')
+    brief = ""
+    if j:
+        lis = "".join(f'<li><a href="#t{i}"><span>{e(it.get("tag", "LA"))}</span>{e(it["h"])}</a></li>' for i, it in enumerate(j["items"]))
+        brief = (f'<aside class="np-brief"><p class="np-label">Today&rsquo;s briefing</p><p class="np-bt">{e(j["title"])}</p><ol>{lis}</ol>'
+                 f'<a class="np-jump" href="#today">Read today&rsquo;s edition &darr;</a></aside>')
     today = ""
     if j:
+        stories = "".join(nstory(it, f"t{i}", "big" if i == 0 else "", photo=(i == 0), drop=(i == 0)) for i, it in enumerate(j["items"]))
         opens = ""
         if j.get("openings"):
-            opens = "".join(f'<article class="jit"><p class="jit-t">New opening</p><h3>{e(o["n"])}</h3><p class="jit-b">{e(o["w"])}</p>'
-                            f'<p class="jit-f">{("Neighborhood: " + jhoods([o.get("hood")]) + " &middot; ") if o.get("hood") else ""}'
-                            f'{("Source: <a href=" + chr(34) + o["src"][1] + chr(34) + " rel=noopener>" + e(o["src"][0]) + "</a>") if o.get("src") else ""}</p></article>' for o in j["openings"])
-            opens = f'<h3 class="nsub">New openings</h3><div class="jits">{opens}</div>'
-        today = (f'<section class="gsec" id="today"><p class="kick">Today &middot; {jdate(j["date"])}</p><h2 class="gsec-h">{e(j["title"])}</h2>'
-                 f'<p class="nsub-d">{e(j["dek"])}</p><div class="jits">{"".join(nitem(it) for it in j["items"])}</div>{opens}</section>')
-    week = ""
-    if wk.get("items"):
-        week = (f'<section class="gsec" id="week"><p class="kick">This week &middot; {e(wk["label"])}</p><h2 class="gsec-h">The week in LA</h2>'
-                f'<div class="jits">{"".join(nitem(it) for it in wk["items"])}</div></section>')
-    month, lead = "", ""
-    if mo:
-        lead = (f'<section class="nhead"><div class="wrap narrow"><p class="kick">The headline &middot; {e(mo["label"])}</p>'
-                f'{nitem(mo["lead"], big=True)}</div></section>') if mo.get("lead") else ""
-        month = (f'<section class="gsec" id="month"><p class="kick">This month &middot; {e(mo["label"])}</p><h2 class="gsec-h">Also this month</h2>'
-                 f'<div class="jits">{"".join(nitem(it) for it in mo.get("items", []))}</div></section>')
-    past = "".join(f'<a class="jrow" href="/journal/{x["date"]}/"><span class="kick">{jdate(x["date"])}</span><b>{e(x["title"])}</b><span class="jt-d">{e(x["dek"])}</span></a>' for x in JOURNAL[:30])
-    chips = "".join(f'<a href="#{k}">{t}</a>' for k, t, ok in (("today", "Today", today), ("week", "This week", week), ("month", "This month", month)) if ok)
+            opens = "".join(f'<div class="cl"><b>{e(o["n"])}</b><p>{e(o["w"])}</p>'
+                            f'<span>{(jhoods([o.get("hood")]) + " &middot; ") if o.get("hood") else ""}'
+                            f'{("<a href=" + chr(34) + o["src"][1] + chr(34) + " rel=noopener>" + e(o["src"][0]) + "</a>") if o.get("src") else ""}</span></div>'
+                            for o in j["openings"])
+            opens = f'<section class="np-sec np-class" id="openings"><h2 class="np-sh"><span>New openings</span><small>Just opened around town</small></h2><div class="cls">{opens}</div></section>'
+        today = (f'<section class="np-sec" id="today"><h2 class="np-sh"><span>Today</span><small>{jdate(j["date"])}</small></h2>'
+                 f'<p class="np-dek">{e(j["dek"])}</p><div class="np-grid">{stories}</div></section>{opens}')
+    week = more
+    month = ""
+    if mo.get("items"):
+        month = (f'<section class="np-sec" id="month"><h2 class="np-sh"><span>Also this month</span><small>{e(mo["label"])}</small></h2>'
+                 f'<div class="np-grid cols3">{"".join(nstory(it, f"m{i}") for i, it in enumerate(mo["items"]))}</div></section>')
+    desk = history_desk()
+    desk = (f'<section class="np-sec np-desk" id="history-desk"><h2 class="np-sh"><span>From the history desk</span><small>Local LA, then and now</small></h2>'
+            f'<div class="hd">{desk}</div></section>') if desk else ""
+    past = "".join(f'<a class="np-ed" href="/journal/{x["date"]}/"><span>{fmt_date(x["date"])}</span><b>{e(x["title"])}</b></a>' for x in JOURNAL[1:31])
+    past = (f'<section class="np-sec" id="archive"><h2 class="np-sh"><span>Previous editions</span><small>Every day, archived</small></h2>'
+            f'<div class="np-eds">{past}</div></section>') if past else ""
+    secs = [("lead", "Front page", lead_html), ("today", "Today", today), ("openings", "Openings", j and j.get("openings")),
+            ("week", "The week", week), ("month", "The month", month), ("history-desk", "History desk", desk), ("archive", "Archive", past)]
+    secnav = "".join(f'<a href="#{k}">{t}</a>' for k, t, ok in secs if ok)
     body = f"""{nav(path, "news")}
-<main>
-<section class="ghero"><div class="wrap narrow">
-<p class="kick">LA News</p>
-<h1>Los Angeles news. Just the facts.</h1>
-<p class="lede">Today's stories, the week's biggest news and the month's headline, in plain English. No opinions and no spin. Every item links to the original reporting so you can read it yourself.</p>
-<nav class="gchips" aria-label="Sections">{chips}</nav>
-</div></section>
-{lead}
-<div class="wrap narrow gbody">{today}{week}{month}
-<section class="gsec" id="past"><p class="kick">Archive</p><h2 class="gsec-h">Past days</h2><div class="jrows">{past}</div></section>
-<p class="fine nfine">Written by Nathaniel Grivas from public reporting, updated daily. Facts only: no endorsements, no predictions. See something wrong? <a href="mailto:{EMAIL}">Email me</a> and I'll fix it.</p>
+{zipper()}
+<main class="np">
+<div class="wrap">
+<article class="paper">
+<header class="np-mast">
+<div class="np-ear"><b>Late edition</b><span>{day.strftime("%A")}</span><span>Updated daily</span></div>
+<div class="np-name"><span class="np-the">The</span>Local LA Ledger</div>
+<div class="np-ear r"><b>Free</b><span>Facts only</span><span>Every story sourced</span></div>
+</header>
+<p class="np-motto">All the facts from across Los Angeles, none of the spin</p>
+<div class="np-date"><span>Vol. I &middot; No. {issue}</span><span>Los Angeles, {jdate(day.isoformat())}</span><span>Compiled by Nathaniel Grivas</span></div>
+<nav class="np-secs" aria-label="Sections">{secnav}</nav>
+<section class="np-front">{lead_html}{brief}</section>
+{today}
+{month}
+{desk}
+{past}
+<footer class="np-foot"><p>The Local LA Ledger is written by Nathaniel Grivas, REALTOR&reg; with The Brodsky Group at Compass Beverly Hills, from public reporting. Facts only: no endorsements, no predictions, and every story links to its sources so you can read them yourself. See something wrong? <a href="mailto:{EMAIL}">Email me</a> and I&rsquo;ll fix it.</p></footer>
+</article>
 </div>
-{lead_band("Buying or selling in LA?", "Get a free value on your home, or homes that fit, including off-market ones. You'll hear from me today.")}
 </main>
+{lead_band("Buying or selling in LA?", "Get a free value on your home, or homes that fit, including off-market ones. You'll hear from me today.")}
 {foot(path, (), "news")}"""
-    desc = "LA News: today's Los Angeles news, the week's biggest stories and the month's headline, written as plain facts with links to the original reporting."
-    coll = {"@context": "https://schema.org", "@type": "CollectionPage", "name": "LA News", "url": SITE + path, "description": desc,
+    desc = "The Local LA Ledger: today's Los Angeles news, the week's biggest stories and the month's headline, written as plain facts with links to the original reporting."
+    coll = {"@context": "https://schema.org", "@type": "CollectionPage", "name": "The Local LA Ledger: LA News", "url": SITE + path, "description": desc,
             "dateModified": NEWS.get("updated") or (j["date"] if j else "")}
-    return head("LA News: Today, This Week & This Month in Los Angeles | Just the Facts", desc, path, ld(coll) + ld(crumbs_ld([("Home", "/"), ("LA News", path)]))) + body
+    fonts = ('<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,700;0,900;1,700&display=swap" rel="stylesheet">')
+    return head("LA News Today: The Local LA Ledger | This Week & This Month in Los Angeles", desc, path,
+                ld(coll) + ld(crumbs_ld([("Home", "/"), ("LA News", path)])) + fonts) + body
 
 
 def main():

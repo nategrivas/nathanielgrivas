@@ -53,9 +53,9 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 
 What's my home worth? Get Cheviot Hills & Rancho Park listings
 
-Local LA
+Down the hill
 
-## Where to eat, drink and go in Cheviot Hills & Rancho Park
+## Where to eat, drink and go near Cheviot Hills & Rancho Park
 
 See them on the map →
 

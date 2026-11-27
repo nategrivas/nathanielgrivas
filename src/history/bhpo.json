@@ -1,0 +1,160 @@
+{
+ "story_first": true,
+ "title": "The 90210 that's really Los Angeles",
+ "lede": "The hills north of Beverly Hills never joined the city below them. In the 1920s the federal government simply had the Beverly Hills post office deliver their mail, and three canyons got the most famous ZIP code in America by accident. Behind that address are the streams that created Beverly Hills in the first place, a reservoir built for the aqueduct, and a lake every TV fan has seen.",
+ "tl": [
+  [
+   "Rancho era",
+   "Benedict, Coldwater and Franklin canyons carry the streams that meet below as the gathering of the waters."
+  ],
+  [
+   "1888",
+   "Trout are still being caught in Coldwater Creek."
+  ],
+  [
+   "1914",
+   "Beverly Hills incorporates without the hills to its north, which stay rural, much of them Doheny Ranch."
+  ],
+  [
+   "1914",
+   "William Mulholland and the city water department start a reservoir in upper Franklin Canyon to store new aqueduct water."
+  ],
+  [
+   "1920s",
+   "Washington assigns the canyons to the Beverly Hills post office. The BHPO name sticks."
+  ],
+  [
+   "1923",
+   "Developer George Read buys 80 acres east of Coldwater Canyon and lays out the Crests."
+  ],
+  [
+   "1925",
+   "Rudolph Valentino buys a Benedict Canyon estate and names it Falcon Lair."
+  ],
+  [
+   "1934",
+   "Franklin Canyon plays the country road in the hitchhiking scene of It Happened One Night."
+  ],
+  [
+   "1960",
+   "Andy Griffith and Ron Howard walk to the fishing hole at Franklin Lake for the show's opening."
+  ],
+  [
+   "1978",
+   "Proposition 13 closes the property tax gap between LA and Beverly Hills."
+  ]
+ ],
+ "ch": [
+  {
+   "k": "An address, not a city",
+   "h": "How the hills got 90210",
+   "fact": [
+    "90210",
+    "a Beverly Hills ZIP in the City of LA"
+   ],
+   "p": [
+    "When Beverly Hills incorporated in 1914, the steep land to the north was left out. It stayed rural for years, much of it part of the Doheny Ranch, and in the 1920s the federal government decided the nearest post office, in Beverly Hills, would deliver its mail. That is the whole origin of BHPO. Homes here carry a Beverly Hills mailing address and the 90210 ZIP code, but they sit in the City of Los Angeles, with LA's police, fire department, schools and building rules.",
+    "For decades that came with higher property taxes than the city next door. Proposition 13 in 1978 evened that out, and the canyons became one of the most direct ways to own a 90210 address on a larger, more private lot."
+   ]
+  },
+  {
+   "k": "Three canyons",
+   "h": "Benedict, Coldwater and Franklin",
+   "fact": [
+    "3",
+    "canyons that fed the gathering of the waters"
+   ],
+   "p": [
+    "Each canyon has its own character. Benedict Canyon winds north from the Beverly Hills Hotel and held some of early Hollywood's grandest hideaways, including Falcon Lair, the Spanish-style estate Rudolph Valentino bought in 1925 and named after a film he never made. Coldwater Canyon is the main pass over the mountains to Studio City. Trout were still caught in its creek in the 1880s, and the park at its top is now home to TreePeople, the nonprofit that has planted trees across Los Angeles for decades.",
+    "The Doheny family used Franklin Canyon as a summer retreat, and in 1914 the city built a reservoir in it to store water from the new Owens Valley aqueduct. Today it is a park with a lake, a duck pond and miles of trails, a slice of countryside hidden in the middle of the city."
+   ]
+  },
+  {
+   "k": "On screen",
+   "h": "The most filmed lake you've never visited",
+   "fact": [
+    "1960",
+    "Andy and Opie's walk to the fishing hole"
+   ],
+   "p": [
+    "Because it looks like the countryside but sits minutes from the studios, Franklin Canyon has been a filming location since the 1930s. The hitchhiking scene in It Happened One Night was shot here, and in 1960 Andy Griffith and Ron Howard walked its shoreline with fishing poles for the opening of The Andy Griffith Show, where the reservoir played Myers Lake. Bonanza, Lassie, Star Trek and many more productions followed."
+   ]
+  },
+  {
+   "k": "Beverly Crest",
+   "h": "The Crests and the ridge",
+   "fact": [
+    "80",
+    "acres George Read bought in 1923"
+   ],
+   "p": [
+    "In 1923 developer George Read bought 80 acres east of Coldwater Canyon and laid out the Crests, the streets like Readcrest and Lindacrest that gave Beverly Crest its name. The area now climbs to Mulholland Drive, where the lots get bigger and the views take in both the basin and the San Fernando Valley."
+   ]
+  }
+ ],
+ "dyk": [
+  [
+   "Is BHPO part of Beverly Hills?",
+   "No. It is in the City of Los Angeles. The name comes from the post office that delivers its mail, which is why homes here have the 90210 ZIP code."
+  ],
+  [
+   "Where is Mayberry's fishing hole?",
+   "Franklin Lake in Franklin Canyon Park, a reservoir started in 1914. It played Myers Lake in the opening of The Andy Griffith Show."
+  ],
+  [
+   "Why do these canyons matter to Beverly Hills?",
+   "Their streams met below at the gathering of the waters, which gave the old rancho its name and the young town its water."
+  ],
+  [
+   "Who lived at Falcon Lair?",
+   "Rudolph Valentino bought it in 1925 and named it after his unmade film The Hooded Falcon. The original house was later torn down."
+  ]
+ ],
+ "lm": [
+  [
+   "Franklin Canyon Park",
+   "1914",
+   "Reservoir, lake, duck pond and trails."
+  ],
+  [
+   "Coldwater Canyon Park",
+   "",
+   "Trails and the TreePeople center at Mulholland."
+  ],
+  [
+   "Mulholland Drive",
+   "1924",
+   "The ridge road along the northern edge."
+  ]
+ ],
+ "src": [
+  [
+   "Wikipedia: Beverly Hills Post Office",
+   "https://en.wikipedia.org/wiki/Beverly_Hills_Post_Office"
+  ],
+  [
+   "Wikipedia: Beverly Crest",
+   "https://en.wikipedia.org/wiki/Beverly_Crest,_Los_Angeles"
+  ],
+  [
+   "MRCA: Franklin Canyon Park",
+   "https://mrca.ca.gov/park-listing/franklin-canyon-park"
+  ],
+  [
+   "Wikipedia: Franklin Canyon Park",
+   "https://en.wikipedia.org/wiki/Franklin_Canyon_Park"
+  ],
+  [
+   "Wikipedia: Coldwater Canyon",
+   "https://en.wikipedia.org/wiki/Coldwater_Canyon"
+  ],
+  [
+   "Wikipedia: Falcon Lair",
+   "https://en.wikipedia.org/wiki/Falcon_Lair"
+  ],
+  [
+   "City of Beverly Hills: the three canyons",
+   "https://beverlyhills.org/citymanager/aboutbeverlyhills/historyofbeverlyhills/"
+  ]
+ ]
+}

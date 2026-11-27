@@ -8,15 +8,17 @@ About Nathaniel
 
 The agent who finds a way to get it done.
 
-Nathaniel Grivas is a REALTOR® with The Brodsky Group at Compass Beverly Hills, a team that closes over $100M in sales every year. He represents buyers, sellers, investors, landlords and developers from Malibu to Silver Lake and across the San Fernando Valley, and he takes on the deals other agents pass on: creative financing, development sites, off-market homes and anything complicated.
+Nathaniel Grivas is a REALTOR® with The Brodsky Group at Compass Beverly Hills, a team that closes over $100M in sales every year. On his own deals he has represented both sides: the buyer and the sellers on a $3,275,000 seller-financed sale, and the landlord and the tenant on a lease. He takes on the deals other agents pass on: creative financing, development sites, off-market homes and anything complicated, from Malibu to Silver Lake and across the San Fernando Valley.
 
 [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o) $100M+ in annual team sales Compass Beverly Hills
 
-**$100M+** annual team sales
+**$100M+** annual sales with The Brodsky Group at Compass
 
-**$3.275M** seller-financed sale he structured
+**Both sides** buyer and seller, landlord and tenant, on his own deals
 
-**$156K** over asking at 18748 Lanark
+**15.6%** over asking on his Reseda listing, 7 offers in 9 days
+
+**$4.8M** listing he represents with his team at 3721 Evans St
 
 Call 310-269-5541 [What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy)
 
@@ -30,7 +32,7 @@ At 616 N Fuller Ave, Nathaniel structured a $3,275,000 sale with seller financin
 
 ### Marketing that finds the buyer who pays the most
 
-He marketed 18748 Lanark St in Reseda to developers as a land play. Seven offers in nine days, into escrow on day nine, and closed at $1,155,000: $156,000 over asking.
+He marketed 18748 Lanark St in Reseda to developers as a land play. Seven offers in nine days, into escrow on day nine, and closed at $1,155,000, 15.6% over the $999,000 asking price.
 
 ### Negotiation that keeps going after the offer
 
@@ -66,7 +68,7 @@ Track record
 
 ## The results behind it
 
-[18748 Lanark St, Reseda $156K over asking 7 offers in 9 days. Marketed to builders as a land play. See how →](https://www.nathanielgrivas.com/homes/18748-lanark) [616 N Fuller Ave, Fairfax $3,275,000, seller financed Structured with the sellers carrying the loan. I represented both sides. See how →](https://www.nathanielgrivas.com/homes/616-fuller) [14757 Hartland St, Van Nuys $31,000 off in escrow Won in multiple offers, then renegotiated after inspections. A two-ADU play. See how →](https://www.nathanielgrivas.com/homes/14757-hartland)
+[616 N Fuller Ave, Fairfax $3,275,000. Both sides. A seller-financed sale: the sellers carried the loan, and I represented the buyer and the sellers. See how →](https://www.nathanielgrivas.com/homes/616-fuller) [18748 Lanark St, Reseda 15.6% over asking 7 offers in 9 days after I marketed it to builders as a land play. Sold for $1,155,000. See how →](https://www.nathanielgrivas.com/homes/18748-lanark) [14757 Hartland St, Van Nuys Won in multiple offers Then I priced every inspection item and took $31,000 off in escrow, on a contract that said no credits. See how →](https://www.nathanielgrivas.com/homes/14757-hartland)
 
 ## Background
 
@@ -118,7 +120,7 @@ Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Ful
 
 ### Developers and builders
 
-Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking.
+Land plays, teardowns and ADUs. I marketed a Reseda lot to builders, drew seven offers in nine days and sold it 15.6% over asking.
 
 ### The right people for every step
 

@@ -35,7 +35,7 @@ Track record
 
 ## Recent results
 
-[18748 Lanark St, Reseda $156K over asking 7 offers in 9 days. Marketed to builders as a land play. See how →](https://www.nathanielgrivas.com/homes/18748-lanark) [616 N Fuller Ave, Fairfax $3,275,000, seller financed Structured with the sellers carrying the loan. I represented both sides. See how →](https://www.nathanielgrivas.com/homes/616-fuller) [14757 Hartland St, Van Nuys $31,000 off in escrow Won in multiple offers, then renegotiated after inspections. A two-ADU play. See how →](https://www.nathanielgrivas.com/homes/14757-hartland)
+[616 N Fuller Ave, Fairfax $3,275,000. Both sides. A seller-financed sale: the sellers carried the loan, and I represented the buyer and the sellers. See how →](https://www.nathanielgrivas.com/homes/616-fuller) [18748 Lanark St, Reseda 15.6% over asking 7 offers in 9 days after I marketed it to builders as a land play. Sold for $1,155,000. See how →](https://www.nathanielgrivas.com/homes/18748-lanark) [14757 Hartland St, Van Nuys Won in multiple offers Then I priced every inspection item and took $31,000 off in escrow, on a contract that said no credits. See how →](https://www.nathanielgrivas.com/homes/14757-hartland)
 
 Reviews
 
@@ -71,7 +71,7 @@ Seller financing, leasebacks, assignments and 1031 exchanges. I closed 616 N Ful
 
 ### Developers and builders
 
-Land plays, teardowns and ADUs. I marketed a Reseda lot to builders and sold it for $156,000 over asking.
+Land plays, teardowns and ADUs. I marketed a Reseda lot to builders, drew seven offers in nine days and sold it 15.6% over asking.
 
 ### The right people for every step
 

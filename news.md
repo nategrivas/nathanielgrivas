@@ -1,36 +1,80 @@
-# LA News: Today, This Week & This Month in Los Angeles | Just the Facts
+# LA News Today: The Local LA Ledger | This Week & This Month in Los Angeles
 
 Source page: https://www.nathanielgrivas.com/news
 
-LA News
+**Late edition** Thursday Updated daily
 
-# Los Angeles news. Just the facts.
+TheLocal LA Ledger
 
-Today's stories, the week's biggest news and the month's headline, in plain English. No opinions and no spin. Every item links to the original reporting so you can read it yourself.
+**Free** Facts only Every story sourced
+
+All the facts from across Los Angeles, none of the spin
+
+Vol. I · No. 1 Los Angeles, Thursday, November 26, 2026 Compiled by Nathaniel Grivas
 
 The headline · November 2026
 
-Election
+# Nithya Raman is elected mayor of Los Angeles
 
-### Nithya Raman is elected mayor of Los Angeles
+By Nathaniel Grivas, from public reporting · November 5, 2026
 
 City Councilmember Nithya Raman defeated incumbent Mayor Karen Bass in the Nov. 3 runoff. The Associated Press had Raman at 52.1% to Bass's 47.9% as of Nov. 5, when NBC News projected the win. Bass is the first incumbent LA mayor to lose a re-election bid since 2005. Raman takes office on Dec. 14, 2026.
 
-November 5, 2026 · Sources: [NBC Los Angeles](https://www.nbclosangeles.com/elections/los-angeles-mayor-election-results-bass-raman/3965846/), [Daily Bruin](https://dailybruin.com/2026/11/05/nithya-raman-wins-la-mayoral-race-ousts-incumbent-karen-bass/), [Ballotpedia](https://news.ballotpedia.org/?p=52526)
+Sources: [NBC Los Angeles](https://www.nbclosangeles.com/elections/los-angeles-mayor-election-results-bass-raman/3965846/), [Daily Bruin](https://dailybruin.com/2026/11/05/nithya-raman-wins-la-mayoral-race-ousts-incumbent-karen-bass/), [Ballotpedia](https://news.ballotpedia.org/?p=52526)
 
-Today · Thursday, November 26, 2026
+The week in LA · Nov. 20 to 26, 2026
 
-## King tides, the Netflix lot deal and a busy holiday weekend
+Pacific Palisades view over Santa Monica Bay. File photo of Pacific Palisades via Unsplash, not of the news event.
+
+Courts
+
+### Jury convicts Jonathan Rinderknecht of starting the fire that became the Palisades Fire
+
+November 20, 2026 · [Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades)
+
+A federal jury in Los Angeles found Rinderknecht guilty on two arson counts on Friday, Nov. 20, after a two-week retrial. His first trial ended in a mistrial in June with jurors split 10 to 2 for acquittal. Prosecutors say the New Year's Day 2025 Lachman Fire smoldered underground and reignited as the Palisades Fire on Jan. 7, 2025, which killed 12 people and destroyed thousands of homes.
+
+Sources: [NBC Los Angeles](https://www.nbclosangeles.com/news/local/palisades-arson-trial-jonathan-rinderknecht/3972494/), [ABC News](https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631), [KTVU](https://www.ktvu.com/news/palisade-fire-retrial-jonathan-rinderknecht-guilty)
+
+City Hall
+
+### LAPD Chief Jim McDonnell says the mayor-elect hasn't decided whether he stays through the Olympics
+
+November 25, 2026
+
+Speaking on Nov. 25, McDonnell said Mayor-elect Nithya Raman has not yet decided whether he will remain chief through the 2028 Olympic and Paralympic Games. Raman takes office on Dec. 14.
+
+Sources: [LAist](https://laist.com/brief/news/politics/lapd-chief-jim-mcdonnell-says-nithya-raman-hasnt-decided-if-shell-replace-him-before-the-olympics)
+
+Today’s briefing
+
+King tides, the Netflix lot deal and a busy holiday weekend
+
+- WeatherRecord king tides and big surf hit the coast on Thanksgiving morning
+- TransitAmtrak halts Pacific Surfliner trains between Irvine and Oceanside
+- Real estateNetflix buys the Radford Studio Center lot in Studio City for $380 million
+- WeatherA historic El Niño winter is shaping up
+- Things to doA packed holiday weekend: the Hollywood Christmas Parade, the Auto Show and holiday concerts
+- FoodTwo downtown classics are serving again: Cole's and the Original Pantry
+- HousingLA rents kept cooling this fall
+
+Read today’s edition ↓
+
+## Today Thursday, November 26, 2026
 
 Thanksgiving in LA: record high tides along the coast, trains halted south of Irvine, Netflix buys a historic Studio City lot, and what's on this weekend.
+
+Malibu Pier at sunset. File photo of Malibu via Unsplash, not of the news event.
 
 Weather
 
 ### Record king tides and big surf hit the coast on Thanksgiving morning
 
+[Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu), [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica), [Venice](https://www.nathanielgrivas.com/neighborhoods/venice), [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey), [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey)
+
 An extreme high tide of about 8 feet arrived Thursday morning, with a coastal flood advisory for the Malibu coast and LA County beaches through noon and a high surf warning until 9 p.m. Forecasters expect waves of roughly 6 to 11 feet with strong rip currents, and the LA Harbor tied its all-time high-water mark. If you're heading to the beach this weekend, check tide times before parking in beach lots and stay off the rocks and jetties.
 
-Neighborhoods: [Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu), [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica), [Venice](https://www.nathanielgrivas.com/neighborhoods/venice), [Marina del Rey](https://www.nathanielgrivas.com/neighborhoods/marina-del-rey), [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · Sources: [ABC7 live updates](https://abc7.com/live-updates/king-tides-live-updates-socal-coastal-communities-brace-possible-record-breaking-high-surf-flooding-heres-timeline/20070299/), [Yahoo News / ABC7](https://www.yahoo.com/news/weather-news/articles/amtrak-pacific-surfliner-train-suspended-191750201.html)
+Sources: [ABC7 live updates](https://abc7.com/live-updates/king-tides-live-updates-socal-coastal-communities-brace-possible-record-breaking-high-surf-flooding-heres-timeline/20070299/), [Yahoo News / ABC7](https://www.yahoo.com/news/weather-news/articles/amtrak-pacific-surfliner-train-suspended-191750201.html)
 
 Transit
 
@@ -44,9 +88,11 @@ Real estate
 
 ### Netflix buys the Radford Studio Center lot in Studio City for $380 million
 
+[Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city)
+
 The 55-acre, 22-stage lot where Seinfeld and Gunsmoke were filmed drew no bids at Tuesday's foreclosure auction in Pomona, so it went back to the Goldman Sachs-led lenders, and Netflix announced its purchase about an hour later. The price is about a fifth of the $1.85 billion Hackman Capital paid in 2021. ABC7 reports Netflix paid the city's Measure ULA transfer tax on the deal, and the lot will keep running as a working studio.
 
-Neighborhoods: [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · Sources: [ABC7](https://abc7.com/post/netflix-buys-storied-radford-studio-center-city-380-million-variety-reports/20079872/), [The Real Deal](https://therealdeal.com/la/2026/11/24/goldman-sachs-officially-takes-over-radford-studio/), [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses)
+Sources: [ABC7](https://abc7.com/post/netflix-buys-storied-radford-studio-center-city-380-million-variety-reports/20079872/), [The Real Deal](https://therealdeal.com/la/2026/11/24/goldman-sachs-officially-takes-over-radford-studio/), [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses)
 
 Weather
 
@@ -60,9 +106,11 @@ Things to do
 
 ### A packed holiday weekend: the Hollywood Christmas Parade, the Auto Show and holiday concerts
 
+[Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood)
+
 The Hollywood Christmas Parade returns Sunday, Nov. 29, and the LA Auto Show runs downtown through the same day. Walt Disney Concert Hall kicks off its holiday series this weekend with Home Alone and Elf screened with a live orchestra, and the Smorgasburg holiday market is on the calendar too.
 
-Neighborhoods: [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · Sources: [Resident](https://resident.com/los-angeles/2026/11/03/las-holiday-season-begins-with-these-15-things-to-do-in-november-2026), [We Like LA](https://www.welikela.com/things-to-do-this-thanksgiving-weekend-in-los-angeles-11-26-2026-to-11-29-2026/)
+Sources: [Resident](https://resident.com/los-angeles/2026/11/03/las-holiday-season-begins-with-these-15-things-to-do-in-november-2026), [We Like LA](https://www.welikela.com/things-to-do-this-thanksgiving-weekend-in-los-angeles-11-26-2026-to-11-29-2026/)
 
 Food
 
@@ -80,110 +128,63 @@ The median asking rent in the City of LA slipped 3.3% from a year earlier to $2,
 
 Sources: [Edhat](https://www.edhat.com/beyond-local/news/los-angeles-rents-drop-home-costly/)
 
-### New openings
+## New openings Just opened around town
 
-New opening
-
-### Kōzo
+**Kōzo**
 
 An Afro-Asian restaurant on Sunset with a cave-like dining room and dishes like king crab miso rolls. 8500 Sunset Blvd.
 
-Neighborhood: [West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · Source: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings)
+[West Hollywood](https://www.nathanielgrivas.com/neighborhoods/west-hollywood) · [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings)
 
-New opening
-
-### Mievè
+**Mievè**
 
 A pizza pop-up turned sit-down restaurant, with toppings that rotate with the farmers market. 131 S La Brea Ave.
 
-Neighborhood: [Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · Source: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings)
+[Fairfax District](https://www.nathanielgrivas.com/neighborhoods/fairfax) · [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings)
 
-New opening
-
-### Yoonjen
+**Yoonjen**
 
 A casual Korean breakfast and lunch window from the chef behind Spoon by H. 6960 S Centinela Ave, Suite 100.
 
-Neighborhood: [Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · Source: [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings)
+[Culver City](https://www.nathanielgrivas.com/neighborhoods/culver-city) · [The Infatuation](https://www.theinfatuation.com/los-angeles/guides/new-la-restaurants-openings)
 
-This week · Nov. 20 to 26, 2026
-
-## The week in LA
-
-Courts
-
-### Jury convicts Jonathan Rinderknecht of starting the fire that became the Palisades Fire
-
-A federal jury in Los Angeles found Rinderknecht guilty on two arson counts on Friday, Nov. 20, after a two-week retrial. His first trial ended in a mistrial in June with jurors split 10 to 2 for acquittal. Prosecutors say the New Year's Day 2025 Lachman Fire smoldered underground and reignited as the Palisades Fire on Jan. 7, 2025, which killed 12 people and destroyed thousands of homes.
-
-November 20, 2026 · Neighborhoods: [Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades) · Sources: [NBC Los Angeles](https://www.nbclosangeles.com/news/local/palisades-arson-trial-jonathan-rinderknecht/3972494/), [ABC News](https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631), [KTVU](https://www.ktvu.com/news/palisade-fire-retrial-jonathan-rinderknecht-guilty)
-
-Real estate
-
-### Netflix buys the Radford Studio Center lot in Studio City for $380 million
-
-The 55-acre lot drew no bids at a foreclosure auction on Nov. 24 and went back to its Goldman Sachs-led lenders, and Netflix announced its purchase shortly after. The price is about a fifth of the $1.85 billion Hackman Capital paid in 2021. The lot will keep operating as a working studio.
-
-November 24, 2026 · Neighborhoods: [Studio City](https://www.nathanielgrivas.com/neighborhoods/studio-city) · Sources: [ABC7](https://abc7.com/post/netflix-buys-storied-radford-studio-center-city-380-million-variety-reports/20079872/), [The Real Deal](https://therealdeal.com/la/2026/11/24/goldman-sachs-officially-takes-over-radford-studio/)
-
-City Hall
-
-### LAPD Chief Jim McDonnell says the mayor-elect hasn't decided whether he stays through the Olympics
-
-Speaking on Nov. 25, McDonnell said Mayor-elect Nithya Raman has not yet decided whether he will remain chief through the 2028 Olympic and Paralympic Games. Raman takes office on Dec. 14.
-
-November 25, 2026 · Sources: [LAist](https://laist.com/brief/news/politics/lapd-chief-jim-mcdonnell-says-nithya-raman-hasnt-decided-if-shell-replace-him-before-the-olympics)
-
-This month · November 2026
-
-## Also this month
+## Also this month November 2026
 
 Election
 
 ### Xavier Becerra is elected governor of California
 
+November 3, 2026
+
 Democrat Xavier Becerra defeated Republican Steve Hilton on Nov. 3 to succeed term-limited Gov. Gavin Newsom. The AP called the race shortly after polls closed. Becerra will be the first Latino elected governor of California.
 
-November 3, 2026 · Sources: [KQED](https://kqed.org/news/12107022/xavier-becerra-wins-california-governors-race), [OPB / Associated Press](https://www.opb.org/article/2026/11/03/democrat-xavier-becerra-wins-california-governors-race-defeating-republican-steve-hilton/)
+Sources: [KQED](https://kqed.org/news/12107022/xavier-becerra-wins-california-governors-race), [OPB / Associated Press](https://www.opb.org/article/2026/11/03/democrat-xavier-becerra-wins-california-governors-race-defeating-republican-steve-hilton/)
 
 Election
 
 ### Sheriff Robert Luna wins a second term over Alex Villanueva
 
+November 3, 2026
+
 LA County Sheriff Robert Luna defeated his predecessor Alex Villanueva in the Nov. 3 runoff, a rematch of their 2022 race.
 
-November 3, 2026 · Sources: [FOX 11](https://foxla.com/news/robert-luna-la-county-sheriff-re-elected), [Los Angeles Magazine](https://lamag.com/politics/here-are-the-state-and-local-races-that-have-been-called-so-far/)
+Sources: [FOX 11](https://foxla.com/news/robert-luna-la-county-sheriff-re-elected), [Los Angeles Magazine](https://lamag.com/politics/here-are-the-state-and-local-races-that-have-been-called-so-far/)
 
 Real estate
 
 ### Measure TE, a Measure ULA break for Palisades Fire homes, is on track to pass
 
+November 15, 2026 · [Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades)
+
 Mid-November counts had every Los Angeles city measure on the ballot passing, including Measure TE. It gives a one-time exemption from the Measure ULA transfer tax to homes damaged or destroyed in the Palisades Fire, if the owner of record on Jan. 7, 2025 sells by Jan. 6, 2030. Results become official when the county certifies them.
 
-November 15, 2026 · Neighborhoods: [Pacific Palisades](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades) · Sources: [Daily Bruin](https://dailybruin.com/2026/11/15/la-voters-set-to-approve-all-local-measures-bringing-infrastructure-tax-changes/), [LAist voter guide](https://laist.com/news/politics/voter-guides/laist-los-angeles-city-voter-game-plan-proposition-te-november-2026-election-guide)
+Sources: [Daily Bruin](https://dailybruin.com/2026/11/15/la-voters-set-to-approve-all-local-measures-bringing-infrastructure-tax-changes/), [LAist voter guide](https://laist.com/news/politics/voter-guides/laist-los-angeles-city-voter-game-plan-proposition-te-november-2026-election-guide)
 
-Archive
+## From the history desk Local LA, then and now
 
-## Past days
+[Hancock Park & Larchmont Why is the tar pits park called Hancock Park too? G. Allan Hancock donated the land around the tar pits to LA County in 1924. The neighborhood he developed nearby carries the same family name. Read the full story →](https://www.nathanielgrivas.com/neighborhoods/hancock-park/#history) [Pacific Palisades What was Weimar on the Pacific? The community of German and Austrian writers and artists, including Thomas Mann and Lion Feuchtwanger, who settled here in exile in the 1930s and 1940s. Read the full story →](https://www.nathanielgrivas.com/neighborhoods/pacific-palisades/#history) [Beverly Hills Post Office Is BHPO part of Beverly Hills? No. It is in the City of Los Angeles. The name comes from the post office that delivers its mail, which is why homes here have the 90210 ZIP code. Read the full story →](https://www.nathanielgrivas.com/neighborhoods/bhpo/#history)
 
-[Thursday, November 26, 2026 King tides, the Netflix lot deal and a busy holiday weekend Thanksgiving in LA: record high tides along the coast, trains halted south of Irvine, Netflix buys a historic Studio City lot, and what's on this weekend.](https://www.nathanielgrivas.com/journal/2026-11-26)
-
-Written by Nathaniel Grivas from public reporting, updated daily. Facts only: no endorsements, no predictions. See something wrong? Email me and I'll fix it.
-
-Free, no obligation
-
-## Buying or selling in LA?
-
-Get a free value on your home, or homes that fit, including off-market ones. You'll hear from me today.
-
-- Your home's value from the latest sales near you, plus what you'd walk away with
-- Off-market and coming-soon homes before they hit Zillow
-- Lenders for self-employed, investor and non-traditional buyers
-- Creative structures like seller financing when the numbers need it
-
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call 310-269-5541 Text me
+The Local LA Ledger is written by Nathaniel Grivas, REALTOR® with The Brodsky Group at Compass Beverly Hills, from public reporting. Facts only: no endorsements, no predictions, and every story links to its sources so you can read them yourself. See something wrong? Email me and I’ll fix it.
 
 ---
 

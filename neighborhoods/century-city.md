@@ -53,9 +53,9 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 
 What's my home worth? Get Century City listings
 
-Local LA
+Down the hill
 
-## Where to eat, drink and go in Century City
+## Where to eat, drink and go near Century City
 
 See them on the map →
 

@@ -1,4 +1,4 @@
-# Hollywood Hills, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Hollywood Hills, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/hollywood-hills
 
@@ -34,6 +34,153 @@ The Hollywood Hills run along the Santa Monica Mountains above Hollywood and Wes
 
 Call Text
 
+The story of Hollywood Hills
+
+## A billboard, a secret studio and a canyon full of songs
+
+The Hollywood Hills were sold to Los Angeles one gimmick at a time: an electric trolley up a dirt canyon, an inn on a summit, and a giant billboard that was supposed to come down after a year and a half. A century later the billboard is the most famous sign on earth, the canyon wrote the soundtrack of the 1960s, and the ridge road named for the city's water chief is still the best drive in town.
+
+5 min read 12 milestones 4 chapters 7 landmarks
+
+### Timeline
+
+- 1908
+
+Lookout Mountain Park and Water Co. buys 280 acres above Laurel Canyon and starts selling Bungalow Land vacation lots.
+
+- 1910
+
+A trackless electric trolley, one of the first trolley bus lines in the country, starts hauling buyers up Laurel Canyon for a dime.
+
+- 1918
+
+Fire destroys the Lookout Mountain Inn on the summit, and the trolley stops running the same year.
+
+- 1922
+
+The Hollywood Bowl holds its first season in a natural amphitheater off Cahuenga Pass.
+
+- 1923
+
+The HOLLYWOODLAND sign goes up on Mount Lee to sell lots in Beachwood Canyon: 13 letters, about 4,000 bulbs, $21,000.
+
+- 1924
+
+Mulholland Drive opens along the ridge, and developer Cooley Butler lays out the first Bird Streets above the Sunset Strip.
+
+- 1947
+
+The Air Force quietly opens Lookout Mountain Air Force Station, a classified film studio on Wonderland Avenue.
+
+- 1949
+
+The Hollywood Chamber of Commerce takes over the sign, drops LAND, and it becomes simply HOLLYWOOD.
+
+- 1960
+
+John Lautner's Chemosphere and Pierre Koenig's Stahl House are finished, and Blue Jay Way joins the Bird Streets.
+
+- 1967
+
+George Harrison writes Blue Jay Way at a rented house on the street while waiting out the fog.
+
+- 1969
+
+The secret studio closes after producing more than 6,500 films, and it later becomes a private home.
+
+- 1978
+
+The crumbling sign is rebuilt in steel, paid for by nine donors at $27,700 a letter.
+
+IBeachwood Canyon
+
+### The sign was an ad
+
+**45 ft** height of each letter
+
+In 1923 a syndicate that included Los Angeles Times publisher Harry Chandler opened Hollywoodland, a hillside tract at the top of Beachwood Canyon. To get it noticed they built a billboard on Mount Lee: thirteen sheet-metal letters about 45 feet tall, wired with roughly 4,000 bulbs that flashed HOLLY, then WOOD, then LAND, then the whole word. It cost about $21,000 and was meant to last about 18 months.
+
+The tract still looks the way it was sold, with stone gateway towers on Beachwood Drive and hand-built stone walls and public staircases climbing between the streets. The sign outlived the sales campaign. By 1949 the city owned the land, the Chamber of Commerce agreed to repair the first nine letters, and LAND came down. In 1978 the original was too far gone to save, so it was rebuilt in steel, one sponsored letter at a time.
+
+IILaurel Canyon
+
+### From Bungalow Land to the music canyon
+
+**6,500+** classified films made on Wonderland Avenue
+
+Laurel Canyon started as a weekend escape. Around 1908 developers carved out Bungalow Land and Wonderland Park, small lots on narrow lanes, and ran a trackless electric trolley up the dirt road from Sunset so buyers could see them. A roadhouse at Lookout Mountain Avenue served lunch, and an inn on the summit looked out over the whole basin until fire took it in 1918.
+
+After the Second World War the Air Force hid a film studio on Wonderland Avenue, where crews processed and edited classified footage of nuclear tests from 1947 to 1969. Most neighbors never knew. In the same years the canyon below filled with musicians: Joni Mitchell, Cass Elliot of the Mamas and the Papas, David Crosby, Jim Morrison and Frank Zappa, whose log cabin at Laurel Canyon and Lookout Mountain hosted endless jam sessions until it burned in 1981. The Canyon Country Store, the general store at the center of it all, is still open.
+
+IIIAbove the Strip
+
+### The Bird Streets
+
+**1924** the first Bird Streets laid out
+
+The Bird Streets began in 1924, when developer Cooley Butler laid out roads on the ridge just above the Sunset Strip, and they kept growing for four decades: Oriole, Thrasher, Nightingale, Warbler and the rest of the flock. Blue Jay Way arrived in 1960 and Skylark Lane in 1964. As recently as 2017, a street here was renamed Hummingbird Place to join them.
+
+In August 1967 George Harrison rented a house on Blue Jay Way and wrote the song of the same name on an organ there, waiting for a friend who was lost in the fog on the winding streets. Today the flat pads cut into the hillside and the open views from downtown to the ocean make these some of the most sought-after streets in the Hills.
+
+IVThe ridge
+
+### Mulholland and the houses that float
+
+**1913** the aqueduct Mulholland built
+
+Mulholland Drive opened in 1924 along the spine of the Santa Monica Mountains, named for William Mulholland, the self-taught engineer whose aqueduct brought Owens Valley water to the city in 1913. The road runs about 21 miles, with a stretch through the western hills still unpaved, and every turnout gives you the city on one side and the Valley on the other.
+
+The steep lots that made the Hills hard to build on made them perfect for architects with something to prove. In 1960 John Lautner balanced the Chemosphere, an eight-sided house, on a single concrete column above a slope most builders had written off. The same year Pierre Koenig finished the Stahl House, Case Study House No. 22, and Julius Shulman photographed its glass corner floating over the lights of the city. Both are landmarks now, and both still define what a house in the Hills can be.
+
+Test yourself
+
+### Did you know?
+
+01 **Why does the sign only say HOLLYWOOD?** Tap for the answer
+
+It went up in 1923 as HOLLYWOODLAND, an ad for a housing tract. When the Chamber of Commerce took over repairs in 1949, it kept the first nine letters to stand for the whole district and removed LAND.
+
+02 **What was hidden on Wonderland Avenue?** Tap for the answer
+
+Lookout Mountain Air Force Station, a classified film studio that produced thousands of military and atomic test films from 1947 to 1969. It is a private home today.
+
+03 **How did buyers get up Laurel Canyon in 1910?** Tap for the answer
+
+On a trackless trolley, an electric bus powered by overhead wires, which climbed from Sunset Boulevard for a dime.
+
+04 **Which Beatles song is named for a street up here?** Tap for the answer
+
+Blue Jay Way, one of the Bird Streets above the Sunset Strip. George Harrison wrote it there in August 1967.
+
+05 **What did it cost to sponsor a letter in 1978?** Tap for the answer
+
+About $27,700. Nine donors paid to replace the sign with steel letters that still stand on Mount Lee.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Hollywood Sign 1923 Best seen from Lake Hollywood Park or the Griffith Observatory lawn. Map ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Sign%2C+Hollywood+Hills%2C+CA)
+- [Hollywoodland gates 1923 Stone towers on Beachwood Drive that marked the original tract. Map ↗](https://www.google.com/maps/search/?api=1&query=Hollywoodland+gates%2C+Hollywood+Hills%2C+CA)
+- [Hollywood Bowl 1922 The outdoor amphitheater in Cahuenga Pass. Map ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Bowl%2C+Hollywood+Hills%2C+CA)
+- [Canyon Country Store The general store at the heart of Laurel Canyon's music years. Map ↗](https://www.google.com/maps/search/?api=1&query=Canyon+Country+Store%2C+Hollywood+Hills%2C+CA)
+- [Chemosphere 1960 John Lautner's octagon on a single column. Map ↗](https://www.google.com/maps/search/?api=1&query=Chemosphere%2C+Hollywood+Hills%2C+CA)
+- [Stahl House 1960 Case Study House No. 22 by Pierre Koenig. Map ↗](https://www.google.com/maps/search/?api=1&query=Stahl+House%2C+Hollywood+Hills%2C+CA)
+- [Mulholland Scenic Overlook 1924 Turnouts on the ridge with views of the basin and the Valley. Map ↗](https://www.google.com/maps/search/?api=1&query=Mulholland+Scenic+Overlook%2C+Hollywood+Hills%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Hollywood Sign](https://en.wikipedia.org/wiki/Hollywood_Sign)
+- [LA Conservancy: The Hollywood Sign](https://www.laconservancy.org/learn/historic-places/the-hollywood-sign/)
+- [History.com: things you may not know about the Hollywood sign](https://www.history.com/articles/90-years-later-8-things-you-may-not-know-about-the-hollywood-sign)
+- [Wikipedia: Laurel Canyon](https://en.wikipedia.org/wiki/Laurel_Canyon,_Los_Angeles)
+- [Laurel Canyon Association: The history of Laurel Canyon](https://www.laurelcanyon.org/canyon-history)
+- [Wikipedia: Lookout Mountain Air Force Station](https://en.wikipedia.org/wiki/Lookout_Mountain_Air_Force_Station)
+- [Center for Land Use Interpretation: secret studio in the Hollywood Hills](https://clui.org/newsletter/fall-winter-1997/secret-government-studio-hollywood-hills)
+- [NPR: Music and mayhem in Laurel Canyon](https://www.npr.org/2006/09/07/5778064/music-and-mayhem-in-laurel-canyon)
+- [Wikipedia: Blue Jay Way](https://en.wikipedia.org/wiki/Blue_Jay_Way)
+- [LA Street Names: the Bird Streets](https://lastreetnames.com/?p=503)
+
 The map
 
 ## Hollywood Hills, mapped
@@ -54,9 +201,9 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 
 What's my home worth? Get Hollywood Hills listings
 
-Local LA
+Down the hill
 
-## Where to eat, drink and go in Hollywood Hills
+## Where to eat, drink and go near Hollywood Hills
 
 See them on the map →
 

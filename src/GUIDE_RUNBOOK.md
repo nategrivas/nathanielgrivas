@@ -130,3 +130,10 @@ after uploading.
 - Home value flow: after the address, lead.js looks up the LA County parcel (beds, baths, sq ft, lot, year built) and
   SCAG zoning in the visitor's browser and asks them to confirm. The lead email includes APN, zoning and whether the
   owner confirmed or corrected the record.
+
+## Site v11 notes (Nov 26, 2026)
+- History lessons live in src/history/{slug}.json (see src/history.py for the shape). "story_first": true puts the story right after the overview (hill and residential pages); otherwise it sits after the guide. Did-you-know pairs also feed the page's FAQPage schema and the News page "history desk".
+- Guide heading switches to "near {n}" automatically when more than half the picks are borrowed from next door.
+- News page is the Local LA Ledger (newspaper front page). The moving ticker (zipper) pulls headlines from news.json and the latest journal file; it also shows on Local LA via journal_teaser().
+- .wrap is 1640px max so the site fills large screens. Keep reading text capped by its own max-width, not by .wrap.
+- About: never put a small single-deal dollar figure next to the $100M+ team number. Lead with both sides represented, 15.6% over asking (7 offers in 9 days), and the $4.8M team listing.

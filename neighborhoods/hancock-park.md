@@ -1,4 +1,4 @@
-# Hancock Park & Larchmont, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Hancock Park & Larchmont, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/hancock-park
 
@@ -34,6 +34,138 @@ Hancock Park is one of LA's oldest wealthy neighborhoods, developed in the 1920s
 
 Call Text
 
+The story of Hancock Park & Larchmont
+
+## Tar pits, oil wells and the houses they paid for
+
+Hancock Park sits on the old Rancho La Brea, the land of the tar pits. The family that owned it pumped oil, dug up Ice Age bones, gave the fossils to the public and then, when the wells ran dry, built one of the grandest residential neighborhoods in the country. Its broad lawns, deep setbacks and period-revival houses are protected today almost exactly as they were built in the 1920s.
+
+4 min read 11 milestones 4 chapters 4 landmarks
+
+### Timeline
+
+- 1863
+
+Major Henry Hancock buys the eastern part of Rancho La Brea, the land around the tar pits.
+
+- 1900
+
+Oil leases turn the old rancho into a working oil field.
+
+- 1911
+
+Windsor Square opens to the east with its utilities placed underground from the start.
+
+- 1913
+
+G. Allan Hancock gives the county museum two years of exclusive digging rights at the tar pits.
+
+- 1919
+
+Residential development under the Hancock Park name begins as the oil wells decline.
+
+- 1921
+
+Julius LaBonte starts building the shops of Larchmont Village, the neighborhood's main street.
+
+- 1924
+
+Hancock donates 23 acres around the tar pits to LA County on condition that the fossils be preserved and shown.
+
+- 1928
+
+A Wallace Neff house is completed that later becomes the official residence of Britain's consul general.
+
+- 1948
+
+Nat King Cole buys a Tudor on Muirfield Road, months after the Supreme Court bars courts from enforcing racial covenants.
+
+- 1977
+
+Getty House in Windsor Square is donated to the city and becomes the official residence of the mayor.
+
+- 2005
+
+Windsor Square becomes a city historic district. Hancock Park is protected by its own HPOZ.
+
+IRancho La Brea
+
+### The land of the tar pits
+
+**23** acres donated for the tar pits park
+
+In 1863 Major Henry Hancock bought the eastern part of Rancho La Brea, the Spanish name for the tar that bubbled out of the ground there. Settlers had long used the tar to waterproof roofs. Oil wells followed around 1900, and while digging the family's workers kept finding bones.
+
+Henry's son, G. Allan Hancock, recognized what they were. In 1913 he gave the county museum exclusive rights to excavate, and the pits gave up hundreds of thousands of Ice Age fossils, from saber-toothed cats to mammoths. In 1924 he donated 23 acres around the pits to the county on the condition that the fossils be preserved and displayed. That park on Wilshire still carries the family name and is the reason a neighborhood about a mile away shares it.
+
+IIThe neighborhood
+
+### From oil field to estate district
+
+**1920s** when most of the houses were built
+
+As the oil gave out, Hancock subdivided the land for homes, beginning around 1919. The lots were large, the setbacks deep and the front lawns open to the street, and buyers commissioned Tudor, English and Spanish Revival, Colonial and Mediterranean houses from the leading architects of the 1920s. The Wilshire Country Club anchors the western side.
+
+Next door, Windsor Square had opened in 1911 with its power lines buried underground. Its best-known house, Getty House on Irving Boulevard, was donated to the city in 1977 and is now the official home of the mayor of Los Angeles. To the east, Julius LaBonte began building the storefronts of Larchmont Boulevard in 1921, a small-town main street created to serve the new neighborhoods, and it still plays that role.
+
+III1948
+
+### Nat King Cole on Muirfield Road
+
+**1948** Shelley v. Kraemer ends court enforcement of covenants
+
+Like many Los Angeles neighborhoods of its era, Hancock Park was built with deed covenants that barred sales to Black buyers. In May 1948 the U.S. Supreme Court ruled in Shelley v. Kraemer that courts could no longer enforce them. That August, singer Nat King Cole bought a Tudor house on Muirfield Road.
+
+The local property owners association tried to stop the purchase and pressed him to sell. Cole refused and raised his family in the house. The episode is now taught as a turning point in the city's housing history, and fair housing law today protects every buyer's right to live wherever they choose.
+
+IVPreservation
+
+### Why it still looks like 1925
+
+**HPOZ** historic overlay protects the streetscape
+
+Hancock Park and Windsor Square are both covered by Historic Preservation Overlay Zones, the city's version of historic districts. Exterior changes visible from the street go through design review, which keeps the lawns open, the rooflines intact and new construction in scale with the old. For owners it is a trade: more process for renovations, and a streetscape that cannot be lost.
+
+Test yourself
+
+### Did you know?
+
+01 **Why is the tar pits park called Hancock Park too?** Tap for the answer
+
+G. Allan Hancock donated the land around the tar pits to LA County in 1924. The neighborhood he developed nearby carries the same family name.
+
+02 **Where does the mayor of Los Angeles live?** Tap for the answer
+
+Getty House on Irving Boulevard in Windsor Square, donated to the city in 1977.
+
+03 **What does La Brea mean?** Tap for the answer
+
+The tar. Spanish settlers named the rancho for the natural asphalt that seeps up from the ground.
+
+04 **Why do so few houses here have front walls or tall hedges?** Tap for the answer
+
+Open front lawns were part of the original 1920s plan, and the historic overlay protects that look today.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [La Brea Tar Pits 1924 The fossil site and museum in the park the Hancocks donated. Map ↗](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits%2C+Hancock+Park+%26+Larchmont%2C+CA)
+- [Getty House 1921 The mayor's official residence in Windsor Square. Map ↗](https://www.google.com/maps/search/?api=1&query=Getty+House%2C+Hancock+Park+%26+Larchmont%2C+CA)
+- [Larchmont Boulevard 1921 The village main street built for the neighborhood. Map ↗](https://www.google.com/maps/search/?api=1&query=Larchmont+Boulevard%2C+Hancock+Park+%26+Larchmont%2C+CA)
+- [Wilshire Country Club 1919 The golf club along the western edge. Map ↗](https://www.google.com/maps/search/?api=1&query=Wilshire+Country+Club%2C+Hancock+Park+%26+Larchmont%2C+CA)
+
+Sources for this history
+
+- [LA City Planning: Hancock Park HPOZ](https://planning.lacity.gov/preservation-design/overlays/hancock-park)
+- [Wikipedia: Hancock Park, Los Angeles](https://en.wikipedia.org/wiki/Hancock_Park,_Los_Angeles)
+- [La Brea Tar Pits: history](https://tarpits.org/la-brea-tar-pits-history)
+- [Wikipedia: Rancho La Brea](https://en.wikipedia.org/wiki/Rancho_La_Brea)
+- [LA Conservancy: History of Windsor Square and Hancock Park](https://www.laconservancy.org/history-windsor-squarehancock-park)
+- [Wikipedia: Windsor Square](https://en.wikipedia.org/wiki/Windsor_Square,_Los_Angeles)
+- [LA City Planning: 119 N. Larchmont Blvd monument report](https://planning.lacity.org/plndoc/Staff_Reports/2023/12-07-2023/CHC_2023_6222_HCM_119_N._Larchmont_FINAL.pdf)
+- [FilmLA: Hidden gems of Hancock Park and Windsor Square](https://filmla.com/?p=29124)
+
 The map
 
 ## Hancock Park & Larchmont, mapped
@@ -53,9 +185,9 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 
 What's my home worth? Get Hancock Park & Larchmont listings
 
-Local LA
+Down the hill
 
-## Where to eat, drink and go in Hancock Park & Larchmont
+## Where to eat, drink and go near Hancock Park & Larchmont
 
 See them on the map →
 

@@ -1,4 +1,4 @@
-# Brentwood, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Brentwood, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/brentwood
 
@@ -33,6 +33,146 @@ Brentwood is a City of LA neighborhood west of the 405, running from the Wilshir
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
+
+The story of Brentwood
+
+## A trolley line, 87,000 trees and a boulevard of coral
+
+Brentwood was sold in 1906 as a park you could live in. Its developers hired the man who planted Golden Gate Park, laid out winding streets around landscaped traffic circles and ran an electric railway down the middle of San Vicente Boulevard. The trains are gone, but the trees they left behind, including the coral trees that bloom red down the old tracks, are still the first thing everyone remembers about Brentwood.
+
+4 min read 12 milestones 4 chapters 4 landmarks
+
+### Timeline
+
+- 1830s
+
+The land is part of Rancho San Vicente y Santa Monica, a Mexican land grant held by the Sepulveda family.
+
+- 1905
+
+The Westgate tract dedicates San Vicente Boulevard, borrowing the name of the old rancho.
+
+- 1906
+
+The Brentwood Park tract map is recorded in January, and the tract is advertised that March as the handsomest residential park west of Chicago.
+
+- 1900s
+
+Pacific Electric's Westgate Line runs down the center of San Vicente, putting the tract about 25 minutes from downtown.
+
+- 1900s
+
+John McLaren of Golden Gate Park fame supervises the planting of some 87,000 trees and shrubs.
+
+- 1940
+
+The Westgate Line is shut down, leaving a wide empty median on San Vicente.
+
+- 1948
+
+The Brentwood Country Mart opens at 26th Street and San Vicente.
+
+- 1950
+
+About 120 coral trees are planted along the old trolley right-of-way.
+
+- 1962
+
+Marilyn Monroe buys a Spanish-style house on Fifth Helena Drive, the only home she ever owned.
+
+- 1976
+
+The coral trees are named City of Los Angeles Historic-Cultural Monument No. 148.
+
+- 1990
+
+A house on North Bristol Avenue becomes the TV mansion in the opening of The Fresh Prince of Bel-Air.
+
+- 1997
+
+The Getty Center, designed by Richard Meier, opens on the hilltop above the 405.
+
+IBrentwood Park
+
+### A park you could live in
+
+**87,000** trees and shrubs planted
+
+Brentwood started as a slice of Rancho San Vicente y Santa Monica, the old Sepulveda family grant. In 1906 the Western Pacific Development Company bought about 350 acres between the Soldiers' Home and the ocean and recorded the Brentwood Park tract. Local historians trace the name to William Lynton Brent, a major investor. The company advertised it that spring as the handsomest residential park west of Chicago.
+
+The plan threw out the grid. Streets curved around landscaped circles and planted islands, and John McLaren, the gardener behind San Francisco's Golden Gate Park, oversaw the planting of roughly 87,000 trees and shrubs. Several of the original traffic circles still slow cars down between Sunset and San Vicente, and the canopy he planted is why Brentwood Park feels like a forest a mile from the 405.
+
+IISan Vicente
+
+### From trolley tracks to coral trees
+
+**No. 148** the coral trees' monument number
+
+To sell the lots, the developers needed a way in. An electric line ran down the middle of San Vicente Boulevard and tied into the Santa Monica line, putting Brentwood about 25 minutes from downtown Los Angeles. The line shut down in 1940, and in 1950 about 120 coral trees were planted down the empty median, their twisting gray limbs covered in red blossoms each spring.
+
+The trees became so beloved that in 1976 the city named them Historic-Cultural Monument No. 148, and the grassy median is now a favorite running route on the Westside. Each December neighbors string them with lights.
+
+IIIVillage life
+
+### The Country Mart and the hilltop museum
+
+**1948** the Country Mart opens
+
+Brentwood's commercial life grew up along San Vicente and around the Brentwood Country Mart, a red barn-style market that opened in 1948 at 26th Street and still works like a small-town square. North of Sunset the streets climb into canyons, Mandeville, Kenter and Sullivan, where lots get bigger and the city feels far away.
+
+In 1997 the Getty Center opened on the ridge above the 405, Richard Meier's travertine campus of galleries and gardens reached by a hillside tram. Admission is free, and on a clear day the view runs from downtown to the ocean.
+
+IVFamous addresses
+
+### Brentwood on screen
+
+**1** home Marilyn Monroe ever owned
+
+In 1962 Marilyn Monroe bought a modest Spanish-style house on Fifth Helena Drive, a cul-de-sac off Carmelina, the only house she ever owned. And the most famous Bel Air mansion on television is really in Brentwood: the house in the opening of The Fresh Prince of Bel-Air stands on North Bristol Avenue.
+
+Test yourself
+
+### Did you know?
+
+01 **Why is there a grassy median down San Vicente?** Tap for the answer
+
+It is where an electric railway once ran. After the tracks were removed, the median was planted with coral trees, now a city Historic-Cultural Monument.
+
+02 **Is the Fresh Prince mansion in Bel Air?** Tap for the answer
+
+No. The house in the opening credits is on North Bristol Avenue in Brentwood.
+
+03 **Who planted Brentwood's trees?** Tap for the answer
+
+John McLaren, the gardener behind Golden Gate Park, supervised the planting of about 87,000 trees and shrubs for the original tract.
+
+04 **How much does the Getty Center cost to visit?** Tap for the answer
+
+Admission is free. You pay only for parking, and the tram up the hill is included.
+
+05 **What is the official tree of Los Angeles?** Tap for the answer
+
+The coral tree, the same kind that lines the San Vicente median in Brentwood.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [San Vicente coral trees 1950 Historic-Cultural Monument No. 148 on the boulevard median. Map ↗](https://www.google.com/maps/search/?api=1&query=San+Vicente+coral+trees%2C+Brentwood%2C+CA)
+- [Brentwood Country Mart 1948 The red barn market at 26th and San Vicente. Map ↗](https://www.google.com/maps/search/?api=1&query=Brentwood+Country+Mart%2C+Brentwood%2C+CA)
+- [Getty Center 1997 Richard Meier's hilltop museum, free to enter. Map ↗](https://www.google.com/maps/search/?api=1&query=Getty+Center%2C+Brentwood%2C+CA)
+- [Brentwood Park traffic circles 1906 The landscaped circles from the original plan. Map ↗](https://www.google.com/maps/search/?api=1&query=Brentwood+Park+traffic+circles%2C+Brentwood%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Brentwood, Los Angeles](https://en.wikipedia.org/wiki/Brentwood,_Los_Angeles)
+- [Westside Today: the naming of Brentwood](https://westsidetoday.com/?p=102696)
+- [Westside Today: Brentwood Park Property Owners Association](https://westsidetoday.com/2015/12/11/meet-brentwood-a-q-and-a-with-the-brentwood-park-property-owners-association)
+- [Historical Marker Database: Coral Trees, Monument No. 148](https://www.hmdb.org/m.asp?m=230739)
+- [KCET via Metro Library: many LA boulevards began as trolley lines](https://libraryarchives.metro.net/DPGTL/primary-resources-in-action/20140221-KCET-Nathan-Masters-Many-L.A.-Boulevards-Began-as-Trolley-Lines.pdf)
+- [Council District 11: Brentwood](https://cd11.lacity.gov/neighborhoods/brentwood)
+- [Westside Today: Brentwood's coral trees](https://westsidetoday.com/?p=115827)
+- [Wikipedia: Historic-Cultural Monuments on the Westside](https://en.wikipedia.org/wiki/List_of_Los_Angeles_Historic-Cultural_Monuments_on_the_Westside)
 
 The map
 

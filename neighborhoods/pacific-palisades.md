@@ -1,4 +1,4 @@
-# Pacific Palisades, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Pacific Palisades, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/pacific-palisades
 
@@ -33,6 +33,142 @@ Pacific Palisades is part of the City of LA, between Santa Monica and Malibu. Th
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
+
+The story of Pacific Palisades
+
+## A Methodist utopia, a movie ranch and a haven for exiles
+
+Pacific Palisades was founded by ministers who wanted a town of lectures, churches and clean living above the sea. Before them came a silent-film studio and a rancho; after them came a cowboy star's ranch, a colony of European writers fleeing the Nazis, and some of the most important modern houses in America. In January 2025 most of it burned, and the town is now rebuilding for the second century it had only just begun.
+
+4 min read 11 milestones 4 chapters 6 landmarks
+
+### Timeline
+
+- 1838
+
+The land is granted to Francisco Marquez and Ysidro Reyes as part of Rancho Boca de Santa Monica.
+
+- 1911
+
+Director Thomas Ince builds Inceville, a Western movie studio, at Sunset and the coast.
+
+- 1922
+
+On January 14, Rev. Charles H. Scott and the founders draw lots for home sites under the oaks of Temescal Canyon.
+
+- 1926
+
+Will Rogers buys his ranch in upper Rustic Canyon, with a polo field he plays on with Hollywood friends.
+
+- 1927
+
+The Riviera Country Club opens. Ben Hogan wins the 1948 U.S. Open there.
+
+- 1940s
+
+Thomas Mann, Lion Feuchtwanger and other exiled European writers settle here, a community nicknamed Weimar on the Pacific.
+
+- 1949
+
+Charles and Ray Eames finish their steel-and-glass house, Case Study House No. 8.
+
+- 1950
+
+The Self-Realization Fellowship Lake Shrine opens off Sunset Boulevard.
+
+- 1974
+
+J. Paul Getty's museum opens in a re-created Roman villa above the coast, today's Getty Villa.
+
+- 2025
+
+On January 7, the Palisades Fire burns 23,448 acres and destroys 6,837 structures. Twelve people die.
+
+- 2028
+
+Riviera is scheduled to host golf at the Los Angeles Olympics.
+
+IFounders Day
+
+### A town planned by ministers
+
+**1922** founders draw lots in Temescal Canyon
+
+Before the town, the coast below the bluffs belonged to the movies. In 1911 Thomas Ince built Inceville, a sprawling Western studio where Sunset Boulevard meets the sea, and the canyons served as backlots for a decade.
+
+In 1922 the Rev. Charles H. Scott and a Methodist association bought the land for a Chautauqua-style community: churches, lecture halls, summer assemblies and a quiet, sober town on the cliffs. On January 14, 1922, the founders gathered under the oaks in Temescal Canyon and drew lots for their home sites. Early streets were named for Methodist leaders, and Temescal Gateway Park still occupies the old assembly grounds.
+
+IIRustic Canyon
+
+### Will Rogers and the polo crowd
+
+**31** rooms in the Will Rogers ranch house
+
+In 1926 Will Rogers, then one of the most popular entertainers in America, bought land in upper Rustic Canyon and built a ranch with a 31-room house, stables, a roping arena and a regulation polo field where he played with friends from the studios. After he died in a plane crash in 1935, his family gave the ranch to the state, and it is now Will Rogers State Historic Park, with polo still played on the field.
+
+The canyon below had its own society. The Uplifters, a club spun off from the Los Angeles Athletic Club, built rustic weekend cabins under the sycamores of Rustic Canyon in the 1920s.
+
+IIIWeimar on the Pacific
+
+### Exiles, modernists and a museum
+
+**1949** the Eames House is finished
+
+In the 1930s and 1940s, writers, composers and artists fleeing Hitler found refuge in the Palisades. Novelist Thomas Mann built a house on San Remo Drive, Lion Feuchtwanger lived at Villa Aurora above the coast, and the community they formed became known as Weimar on the Pacific. Villa Aurora later became a residence for visiting artists.
+
+After the war the Palisades became a laboratory for modern architecture. In 1949 Charles and Ray Eames finished their house and studio on the bluff above Chautauqua Boulevard, Case Study House No. 8, built from off-the-shelf steel parts. The Lake Shrine, a spiritual garden around a spring-fed lake, opened in 1950, and in 1974 J. Paul Getty opened his antiquities museum in a re-created Roman villa, today's Getty Villa.
+
+IV2025
+
+### The fire and the rebuild
+
+**6,837** structures destroyed in the Palisades Fire
+
+On January 7, 2025, the Palisades Fire broke out during a severe Santa Ana windstorm. Over the following weeks it burned 23,448 acres and destroyed 6,837 structures, most of them homes, across the Palisades and into Malibu, and 12 people died. It was the most destructive fire in the city's history.
+
+Rebuilding is now the defining story of the Palisades. Lots are being cleared, permits issued and new homes framed street by street, and many buyers and sellers here are working through insurance, rebuild costs and new fire-safety rules at the same time. In November 2026 a federal jury convicted the man charged with starting the fire that prosecutors say rekindled into the Palisades Fire.
+
+Test yourself
+
+### Did you know?
+
+01 **Who founded Pacific Palisades?** Tap for the answer
+
+A Methodist association led by the Rev. Charles H. Scott, which bought the land in 1922 for a Chautauqua-style community of churches and lecture halls.
+
+02 **Is polo still played at Will Rogers' ranch?** Tap for the answer
+
+Yes. The regulation field he built in the 1920s is still used, and the ranch is now Will Rogers State Historic Park.
+
+03 **What was Weimar on the Pacific?** Tap for the answer
+
+The community of German and Austrian writers and artists, including Thomas Mann and Lion Feuchtwanger, who settled here in exile in the 1930s and 1940s.
+
+04 **Where will golf be played at the 2028 Olympics?** Tap for the answer
+
+At the Riviera Country Club in the Palisades, where Ben Hogan won the 1948 U.S. Open.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Will Rogers State Historic Park 1926 The ranch, polo field and trails above Rustic Canyon. Map ↗](https://www.google.com/maps/search/?api=1&query=Will+Rogers+State+Historic+Park%2C+Pacific+Palisades%2C+CA)
+- [Eames House 1949 Case Study House No. 8 by Charles and Ray Eames. Map ↗](https://www.google.com/maps/search/?api=1&query=Eames+House%2C+Pacific+Palisades%2C+CA)
+- [Self-Realization Fellowship Lake Shrine 1950 Gardens around a spring-fed lake off Sunset. Map ↗](https://www.google.com/maps/search/?api=1&query=Self-Realization+Fellowship+Lake+Shrine%2C+Pacific+Palisades%2C+CA)
+- [Getty Villa 1974 Ancient art in a re-created Roman villa above the coast. Map ↗](https://www.google.com/maps/search/?api=1&query=Getty+Villa%2C+Pacific+Palisades%2C+CA)
+- [Temescal Gateway Park 1922 The old Chautauqua grounds, now a trailhead. Map ↗](https://www.google.com/maps/search/?api=1&query=Temescal+Gateway+Park%2C+Pacific+Palisades%2C+CA)
+- [Riviera Country Club 1927 Hogan's Alley, host of 2028 Olympic golf. Map ↗](https://www.google.com/maps/search/?api=1&query=Riviera+Country+Club%2C+Pacific+Palisades%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Pacific Palisades](https://en.wikipedia.org/wiki/Pacific_Palisades,_Los_Angeles)
+- [Historical Marker Database: Pacific Palisades](https://www.hmdb.org/m.asp?m=230778)
+- [Topanga New Times: the Palisades centennial](https://topanganewtimes.com/?p=9996)
+- [California State Parks: Will Rogers State Historic Park](https://www.parks.ca.gov/?page_id=26286)
+- [Antaeus: where the mountains meet the sea](https://blog.antaeus.org/blog/where-the-mountains-meet-the-sea/)
+- [Riviera Country Club history (PGA of America)](https://www.pga.com/story/the-riviera-country-club-at-100-history-hogans-alley-and-a-timeless-championship-legacy)
+- [LA County: Eaton and Palisades fires fact sheet](https://file.lacounty.gov/SDSInter/lac/1199046_Eaton_Palisades_Fires_Anniversary_Fact_Sheet.pdf)
+- [NBC Los Angeles: Palisades arson trial verdict](https://www.nbclosangeles.com/news/local/palisades-arson-trial-jonathan-rinderknecht/3972494/)
 
 The map
 
