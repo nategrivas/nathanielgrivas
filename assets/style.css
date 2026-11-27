@@ -1462,3 +1462,4 @@ form.lead{padding:clamp(18px,2.4vw,28px)}
 .body h2,.body h3{color:var(--ink)}
 .body a{color:var(--cu)}
 .hood-body{color:var(--soft)}
+.satmap.leaflet-container{background:#1e3a4c}
