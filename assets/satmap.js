@@ -5,7 +5,7 @@
   if (!el || !data) return;
   const pts = JSON.parse(data.textContent);
   const markers = {};
-  let map = null;
+  let map = null, start = 11, home = null;
   if (window.L) {
     map = L.map(el, { scrollWheelZoom: false, zoomSnap: 0.5, minZoom: 9, maxZoom: 16, attributionControl: true });
     L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}', {
@@ -24,8 +24,10 @@
     map.attributionControl.setPrefix('<a href="https://leafletjs.com" target="_blank" rel="noopener">Leaflet</a>');
     map.fitBounds(group.getBounds(), { padding: [24, 24] });
     // Start one step closer than "fit everything" so the names are readable right away.
-    map.setZoom(map.getZoom() + 1, { animate: false });
-    const start = map.getZoom();
+    const med = (a) => { const v = a.slice().sort((x, y) => x - y); return v[Math.floor(v.length / 2)]; };
+    home = [med(pts.map((p) => p.lat)), med(pts.map((p) => p.lng))];
+    map.setView(home, map.getZoom() + 1, { animate: false });
+    start = map.getZoom();
     const labels = () => el.classList.toggle('labels', map.getZoom() >= Math.min(11.5, start));
     map.on('zoomend', labels); labels();
     el.addEventListener('click', () => map.scrollWheelZoom.enable(), { once: true });
@@ -60,7 +62,7 @@
         if (v) { if (!map.hasLayer(m)) m.addTo(map); shown.push(m.getLatLng()); } else if (map.hasLayer(m)) map.removeLayer(m);
       });
       if (shown.length && shown.length < pts.length) map.fitBounds(L.latLngBounds(shown), { padding: [40, 40], maxZoom: 14 });
-      else if (shown.length === pts.length) { map.fitBounds(L.latLngBounds(pts.map((p) => [p.lat, p.lng])), { padding: [24, 24] }); map.setZoom(start, { animate: false }); }
+      else if (shown.length === pts.length) { map.setView(home, start, { animate: false }); }
     }
     regBtns.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.region === st.region)));
     tagBtns.forEach((b) => b.setAttribute('aria-pressed', String(st.tags.has(b.dataset.tag))));
