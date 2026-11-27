@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/hollywood
 
+## In short
+
+- Hollywood is in the City of Los Angeles, ZIPs 90028, 90038 (region: Central). Studios, nightlife and the B Line. Live a few blocks off the boulevard.
+- Price level: Moderate. Good fit if: You want energy, a train and to be close to the studios.
+- Hollywood breaks into 6 pockets, mapped street by street: Spaulding Square, Sunset Square, Central Hollywood, Franklin Village, Hollywood Media District, Hollywood Studio District.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Hollywood. Call or text 310-269-5541.
+- Free home valuation in Hollywood: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Hollywood
 
 Studios, nightlife and the B Line. Live a few blocks off the boulevard.
 
 City of LA ZIP 90028, 90038 $$ · Moderate
-
-Get Hollywood listings What's my Hollywood home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Hollywood is the City of LA neighborhood around Hollywood Boulevard and Sunset, 
 - **Good fit if:** You want energy, a train and to be close to the studios.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -78,13 +83,51 @@ Melrose Avenue to Santa Monica Boulevard, La Brea to Western
 
 The studio district between Melrose and Santa Monica: small homes and duplexes near Paramount and the Hollywood Forever cemetery.
 
-The map
+Living here
 
-## Hollywood, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Apartments and condos, 1920s bungalow courts, and historic pockets like Spaulding Square. Lots of rental stock under rent stabilization.
+
+**Good fit if**
+
+You want energy, a train and to be close to the studios.
+
+**Think twice if**
+
+You want quiet streets.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=hollywood&b=hollywood-hills)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Hollywood
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Hollywood%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Hollywood is LA's entertainment district, with historic movie palaces, the Walk of Fame, the Bowl and the Pantages, plus serious restaurants on Melrose, Highland and Sunset. Runyon Canyon and the hills around the Hollywood Sign start just above the flats.
+
+36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -92,20 +135,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **Paramount Pictures** The working studio on Melrose.
 - 3 **Hollywood Forever** Cemetery with summer movie screenings.
 - 4 **Sunset & Vine** The newer apartment and retail hub.
-
-**Thinking about Hollywood?** New Hollywood listings, off-market homes and lenders for any situation. Or a free value on your Hollywood home.
-
-What's my home worth? Get Hollywood listings
-
-Local LA
-
-## Where to eat, drink and go in Hollywood
-
-See them on the map →
-
-Hollywood is LA's entertainment district, with historic movie palaces, the Walk of Fame, the Bowl and the Pantages, plus serious restaurants on Melrose, Highland and Sunset. Runyon Canyon and the hills around the Hollywood Sign start just above the flats.
-
-36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -766,56 +795,6 @@ Photos
 
 ## Hollywood in pictures
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Apartments and condos, 1920s bungalow courts, and historic pockets like Spaulding Square. Lots of rental stock under rent stabilization.
-
-**Good fit if**
-
-You want energy, a train and to be close to the studios.
-
-**Think twice if**
-
-You want quiet streets.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=hollywood&b=hollywood-hills)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -907,7 +886,7 @@ Get new Hollywood listings as they hit, including ones that aren't public yet, o
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

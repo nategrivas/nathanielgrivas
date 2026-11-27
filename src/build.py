@@ -200,7 +200,7 @@ def foot(path, scripts=(), active=""):
     extra = "".join(f'<script src="/assets/{s_}" defer></script>' for s_ in scripts)
     def cur(k):
         return ' aria-current="page"' if k == active else ""
-    strip = "" if (path in ("/", "/listings/") or path.startswith("/homes/") or path == "/tools/neighborhood-quiz/") else featured_strip()
+    strip = "" if (path in ("/", "/listings/", "/about/", "/buy/", "/home-value/") or path.startswith("/homes/") or path.startswith("/neighborhoods/") or path == "/tools/neighborhood-quiz/") else featured_strip()
     return f"""{strip}<footer class="foot"><div class="wrap">
 <div class="foot-top">
 <div class="me"><div class="name">Nathaniel Grivas</div>
@@ -731,28 +731,13 @@ def page_home(posts):
 <div class="help-row">{helps}</div>
 </div></section>
 
-<section class="band lux-band" id="homes"><div class="wrap" data-tabs>
-<div class="lux-head"><p class="kick">Featured</p><h2>Listings</h2>
-<div class="tabbar" role="tablist"><button type="button" role="tab" data-tab="act" aria-selected="true">Available</button><button type="button" role="tab" data-tab="sold" aria-selected="false">Sold</button></div></div>
-<div class="grid homes" role="tabpanel" data-panel="act">{"".join(prop_card(k, r) for k in ACTIVE)}</div>
-<div class="grid homes" role="tabpanel" data-panel="sold" hidden>{"".join(prop_card(k, r) for k in SOLD)}</div>
-<p class="lux-more"><a href="/listings/">All listings &rarr;</a></p>
-</div></section>
-
-{proof_band("Recent results", "Track record")}
-
-{resources_band()}
-
+{proof_band("Recent results", "Track record", skip=("fuller",))}
 <section class="band lux-band" id="areas"><div class="wrap">
 <div class="lux-head"><p class="kick">Local LA</p><h2>Neighborhoods</h2><a href="/neighborhoods/">Open the map &rarr;</a></div>
 <div class="bento">{tiles}</div>
 </div></section>
 
-<section class="band lux-band"><div class="wrap">
-<div class="lux-head"><p class="kick">Local LA</p><h2>Living in LA</h2><a href="/neighborhoods/#articles">All articles &rarr;</a></div>
-<div class="posts">{"".join(post_card(p, r) for p in posts[:3])}</div>
-</div></section>
-
+{market_teaser()}
 {lead_band("Let's talk", "Pick one. It takes about a minute, and you'll hear back today.")}
 </main>
 {foot(path, [])}"""
@@ -943,9 +928,10 @@ def hood_local(h):
     upd = d["updated"] if d else ""
     gkick, gh = ("Down the hill", f"Where to eat, drink and go near {e(n)}") if nearby else ("Local LA", f"Where to eat, drink and go in {e(n)}")
     guide_html = f"""<section class="band nb-guide" id="eat"><div class="wrap">
-<div class="sec-head"><div><p class="kick">{gkick}</p><h2>{gh}</h2></div>{'<a href="#map">See them on the map &rarr;</a>' if len(pts) >= 3 else ''}</div>
+<div class="sec-head"><div><p class="kick">{gkick}</p><h2>{gh}</h2></div>{f'<a href="{v8.gmaps_link(h)}" rel="noopener">Open in Google Maps &#8599;</a>' if len(pts) >= 3 else ''}</div>
 <p class="nb-glede">{e(d["intro"]) if d else ""}</p>
 <p class="gh-meta">{total} hand-picked places &middot; Updated {e(upd)} &middot; Picked from critic reviews and real-people ratings, written in plain English</p>
+{{MAPSLOT}}
 <nav class="gchips" aria-label="Sections">{chips}</nav>
 <div class="gbody">{blocks}</div>
 {f'<details class="gsrc"><summary>Sources</summary><ul>{srcs}</ul></details>' if srcs else ''}
@@ -964,17 +950,17 @@ def hood_local(h):
 {v8.sat_map(h)}
 <div class="nb-spots"><h3>Spots to know</h3><ol>{spots}</ol></div>
 </div></div></section>"""
-        return map_html, guide_html, dict(data, all=allnames)
-    map_html = f"""<section class="band nb-map" id="map"><div class="wrap">
-<div class="sec-head"><div><p class="kick">The map</p><h2>{e(n)}, mapped</h2></div><a href="{v8.gmaps_link(h)}" rel="noopener">Open in Google Maps &#8599;</a></div>
-<p class="nb-mapsub">Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.</p>
+        return map_html, guide_html.replace("{MAPSLOT}", ""), dict(data, all=allnames)
+    inner = f"""<div class="nb-map nb-map-in" id="map">
 <div class="hm-bar" role="group" aria-label="Show on the map">{bar}</div>
 <div class="nb-mapgrid">
 <div class="hoodmap" id="hoodmap" role="region" aria-label="Map of places to eat, drink and go in {e(n)}"></div>
 <div class="nb-spots"><h3>Spots to know</h3><ol>{spots}</ol></div>
 </div>
 <script type="application/json" id="hoodmap-data">{json.dumps(data, separators=(",", ":")).replace("</", "<\\/")}</script>
-</div></section>"""
+</div>"""
+    guide_html = guide_html.replace("{MAPSLOT}", inner)
+    map_html = ""
     return map_html, guide_html, dict(data, all=allnames)
 
 
@@ -1074,6 +1060,13 @@ def page_hood(h, posts):
     first = bool(hx and hx.get("story_first"))
     near = "".join(photo_tile(BY_SLUG[x]) for x in h["near"])
     deals = DEALS.get(h["slug"], [])
+    hero_deal = next((k for k in deals if ph and ph[0][0].endswith("/" + PROPS[k]["img"])), None)
+    hero_tag = ""
+    if hero_deal:
+        hp_ = PROPS[hero_deal]
+        hero_tag = (f'<a class="nb-hdeal" href="{hp_.get("page") or hp_["url"]}"{"" if hp_.get("page") else " rel=\"noopener\""}>'
+                    f'<b>{e(hp_["tag"])}</b>{e(hp_["addr"])} &middot; {"Represented " + e(hp_["rep"].lower()) if hp_.get("sold") else e(hp_["spec"])} &rarr;</a>')
+        deals = [k for k in deals if k != hero_deal]
     deals_html = ""
     if deals:
         deals_html = f"""<section class="band" id="deals"><div class="wrap">
@@ -1086,12 +1079,12 @@ def page_hood(h, posts):
     chips = "".join(f'<a href="/neighborhoods/#{t}">{e(TAGS[t])}</a>' for t in h["tags"])
     if ph:
         hero_media = ph_img(ph[0][0], ph[0][1], 2000, None, "100vw", eager=True, cls="nb-hero-img")
-        credit = '<a class="credit" href="https://unsplash.com/" rel="noopener">Photo: Unsplash</a>'
+        credit = hero_tag or ('' if ph[0][0].startswith("/img/") else '<a class="credit" href="https://unsplash.com/" rel="noopener">Photo: Unsplash</a>')
     else:
         hero_media = aerial(*h["ll"], z=15, cols=7, rows=4, ts=300, cls="nb-hero-aer", eager=True, label=f"Aerial photo of {n}")
         credit = ""
     gal = ""
-    if len(ph) > 1:
+    if len(ph) > 3:
         items = ph[1:6]
         extra = len(ph) - 1 - len(items)
         figs = ""
@@ -1115,9 +1108,9 @@ def page_hood(h, posts):
                "provider": {"@id": SITE + "/#nathaniel"}, "areaServed": {"@type": "Place", "name": f"{n}, Los Angeles, CA",
                "geo": {"@type": "GeoCoordinates", "latitude": lat, "longitude": lng}}}
     crumbs = crumbs_ld([("Home", "/"), ("Local LA", "/neighborhoods/"), (n, path)])
-    sub = [("overview", "Overview")] + ([("pockets", "Pockets")] if pk_list else []) + ([("history", "History")] if first else []) + [("map", "Map"), ("eat", "Eat, drink &amp; go")] + \
-          ([("history", "History")] if hx and not first else []) + ([("photos", "Photos")] if gal else []) + \
-          [("living", "Living here"), ("reviews", "Reviews"), ("faq", "FAQ")]
+    sub = [("overview", "Overview")] + ([("pockets", "Pockets")] if pk_list else []) + ([("history", "History")] if first else []) + [("living", "Living here")] + \
+          ([("map", "Map")] if len(mapdata["pts"]) < 3 else []) + [("eat", "Eat, drink &amp; go")] + ([("history", "History")] if hx and not first else []) + \
+          ([("photos", "Photos")] if gal else []) + ([("deals", "Deals")] if deals_html else []) + [("faq", "FAQ")]
     subnav = "".join(f'<a href="#{a}">{b}</a>' for a, b in sub)
     body = f"""{nav(path, "explore")}
 <main class="nb">
@@ -1153,12 +1146,6 @@ def page_hood(h, posts):
 </div></section>
 {pk_html}
 {hist_html if first else ""}
-{map_html}
-{cta_strip(f"Thinking about {n}?", f"New {n} listings, off-market homes and lenders for any situation. Or a free value on your {n} home.", sell_label="What's my home worth?", buy_label=f"Get {n} listings")}
-{guide_html}
-{"" if first else hist_html}
-{gal}
-{deals_html}
 <section class="band nb-live" id="living"><div class="wrap">
 <div class="sec-head"><div><p class="kick">Living here</p><h2>The homes, the rules and who it fits</h2></div></div>
 <div class="nb-live-grid">
@@ -1171,17 +1158,18 @@ def page_hood(h, posts):
 </div>
 {posts_html}
 </div></section>
-{reviews_band(False, f"Why people work with Nathaniel")}
+{map_html}
+{guide_html}
+{"" if first else hist_html}
+{gal}
+{deals_html}
 <section class="band" id="nearby"><div class="wrap">
 <div class="sec-head"><div><p class="kick">Next door</p><h2>Neighborhoods nearby</h2></div><a href="/neighborhoods/">All 40 neighborhoods &rarr;</a></div>
 <div class="tilerow">{near}</div>
 </div></section>
 {journal_band(h['slug'], n)}
 {v8.faq_html(qa, f"{n}: common questions")}
-<section class="band" style="padding-top:0"><div class="wrap">
-<nav class="pager" aria-label="More neighborhoods"><a class="glass" href="/neighborhoods/{prev_['slug']}/"><span>Previous</span>{e(prev_['name'])}</a><a class="glass" href="/neighborhoods/"><span>All</span>Map</a><a class="glass" href="/neighborhoods/{next_['slug']}/"><span>Next</span>{e(next_['name'])}</a></nav>
-</div></section>
-{lead_band(f"Buying or selling in {n}?", f"Get new {n} listings as they hit, including ones that aren't public yet, or find out what your {n} home is worth.", first="buy", area=n, addr_ph=f"Your {n} address")}
+{lead_band(f"Buying or selling in {n}?", f"Get new {n} listings as they hit, including ones that aren't public yet, or find out what your {n} home is worth.", first="buy", area=n, addr_ph=f"Your {n} address", rating=True)}
 <div class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Photo viewer"><button type="button" class="lb-x" aria-label="Close">&times;</button><button type="button" class="lb-p" aria-label="Previous photo">&lsaquo;</button><img alt=""><button type="button" class="lb-n" aria-label="Next photo">&rsaquo;</button><p class="lb-c"></p></div>
 </main>
 {foot(path, (["vendor/leaflet.js"] if len(mapdata["pts"]) >= 3 or pk_list else []) + (["hoodmap.js"] if len(mapdata["pts"]) >= 3 else []) + (["pockets.js"] if pk_list else []), "explore")}"""
@@ -1196,7 +1184,9 @@ def page_hood(h, posts):
     faq_all = qa + (HI.faq_pairs(hx) if hx else [])
     if pk_list:
         faq_all = faq_all + [(f"What are the neighborhoods inside {n}?", f"{n} breaks into {len(pk_list)} pockets: " + "; ".join(p["n"] + (f" ({p['b']})" if p["b"] else "") for p in pk_list) + ". Values can change from one pocket to the next, sometimes across a single street.")]
-    return head(title, desc, path, ld(place) + ld(service) + ld(crumbs) + ld(il) + ld(v8.faq_ld(faq_all)) + '\n<link rel="stylesheet" href="/assets/vendor/leaflet.css">', og="hero.jpg") + body
+    webpage = {"@context": "https://schema.org", "@type": "WebPage", "url": SITE + path, "name": title, "dateModified": datetime.date.today().isoformat(),
+               "about": {"@type": "Place", "name": f"{n}, Los Angeles"}, "author": {"@id": SITE + "/#nathaniel"}, "inLanguage": "en-US"}
+    return head(title, desc, path, ld(webpage) + ld(place) + ld(service) + ld(crumbs) + ld(il) + ld(v8.faq_ld(faq_all)) + '\n<link rel="stylesheet" href="/assets/vendor/leaflet.css">', og="hero.jpg") + body
 
 
 def page_tools():
@@ -1434,9 +1424,9 @@ def resources_band(heading="One call. The whole network.", sub="Buying, selling 
 </div></section>"""
 
 
-def proof_band(heading="Recent results", kick="Track record"):
+def proof_band(heading="Recent results", kick="Track record", skip=()):
     cards = "".join(f'<a class="pf-c" href="{PROPS[k]["page"]}"><img src="/img/{img}" alt="{e(addr)}" loading="lazy" width="960" height="720">'
-                    f'<span class="pf-t"><small>{e(addr)}</small><b>{e(big)}</b><span>{e(line)}</span><i>See how &rarr;</i></span></a>' for k, img, addr, big, line in PROOF)
+                    f'<span class="pf-t"><small>{e(addr)}</small><b>{e(big)}</b><span>{e(line)}</span><i>See how &rarr;</i></span></a>' for k, img, addr, big, line in PROOF if k not in skip)
     return f"""<section class="band pf-band"><div class="wrap">
 <div class="lux-head"><p class="kick">{e(kick)}</p><h2>{e(heading)}</h2></div>
 <div class="pf-grid">{cards}</div></div></section>"""
@@ -1479,7 +1469,7 @@ def cta_strip(t, s_, area="", sell_label="What's my home worth?", buy_label="Fin
 
 
 VALUE_FAQ = [
-    ("How is this different from a Zestimate?", "Nathaniel builds your number by hand from the most recent sales near you, then adjust for what algorithms can't see: your upgrades, your condition, your lot and your street. You get a range and the sales behind it."),
+    ("How is this different from a Zestimate?", "Nathaniel builds your number by hand from the most recent sales near you, then adjusts for what algorithms can't see: your upgrades, your condition, your lot and your street. You get a range and the sales behind it."),
     ("Does it cost anything?", "No. The valuation is free, and you're under no obligation to list with him."),
     ("How fast will I get it?", "Within 24 hours, usually the same day. Call or text 310-269-5541 if you need it sooner."),
     ("Will the valuation show what I'd walk away with?", "Yes. Nathaniel includes an estimate of your net after transfer taxes, Measure ULA where it applies, and typical selling costs."),
@@ -1516,7 +1506,6 @@ def lp_shell(path, active, kick, h1, lede, checks, flow, proof_k, faq, faq_t, ti
 {after_hero}
 {proof_band("Recent results", "Track record")}
 {reviews_band(True, "What clients say")}
-{resources_band()}
 {v8.faq_html(faq, faq_t)}
 <section class="band lp-end"><div class="wrap lp-end-in"><h2>Ready when you are</h2><p>It takes about a minute. Or call or text {PHONE} and talk to Nathaniel now.</p>
 <div class="lh-cta"><a class="btn lux solid" href="#lead">{"Get my home value" if flow == "value" else "Start my search"}</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div></div></section>
@@ -1620,8 +1609,23 @@ def page_market():
             f"30-year rate {R['v']:.2f}%. Updated weekly by Nathaniel Grivas, REALTOR® at Compass.")
     data_ld = {"@context": "https://schema.org", "@type": "Dataset", "name": "Los Angeles Market Temperature", "description": desc,
                "url": SITE + path, "temporalCoverage": M["week"], "creator": {"@id": SITE + "/#nathaniel"},
-               "variableMeasured": ["Active listings by region", "Share of listings with a price reduction", "30-year fixed mortgage rate", "Los Angeles County median price"]}
+               "variableMeasured": ["Active listings by region", "Share of listings with a price reduction", "30-year fixed mortgage rate", "Los Angeles County median price"],
+               "dateModified": M["week"], "isAccessibleForFree": True, "spatialCoverage": {"@type": "Place", "name": "Los Angeles, CA"},
+               "license": SITE + "/privacy/", "publisher": {"@id": SITE + "/#nathaniel"}}
     return head(f"Market Temperature: Los Angeles Housing Market This Week ({wtxt}) | Nathaniel Grivas", desc, path, ld(data_ld)) + body
+
+
+def market_teaser():
+    try:
+        M = json.loads((pathlib.Path(__file__).parent / "market" / "latest.json").read_text())
+    except Exception:
+        return ""
+    rg = M["regions"]; a = sum(x["active"] for x in rg); c = sum(x["cut"] for x in rg)
+    wk = datetime.date.fromisoformat(M["week"]).strftime("%B %-d")
+    return f"""<section class="band mt-tease"><div class="wrap"><div class="mt-tease-in">
+<div><p class="kick">Market Temperature &middot; week of {e(wk)}</p><h2>The LA market this week</h2></div>
+<dl><div><dt>30-year rate</dt><dd>{M["rate"]["v"]:.2f}%</dd></div><div><dt>Homes for sale</dt><dd>{a:,}</dd></div><div><dt>With a price cut</dt><dd>{100.0 * c / a:.1f}%</dd></div></dl>
+<a class="btn lux" href="{MARKET_URL}">See the full read &rarr;</a></div></div></section>"""
 
 
 def page_value():
@@ -1824,11 +1828,11 @@ def page_listings():
 </div></section>
 {featured_section("Featured homes", "Watch the films")}
 <section class="band" style="padding-top:0"><div class="wrap">
-<div class="head"><div><p class="eyebrow">Now available</p><h2 class="h2">Active</h2></div></div>
-<div class="grid">{"".join(prop_card(k, r) for k in ACTIVE)}</div></div></section>
+<div class="head"><div><p class="eyebrow">Now available</p><h2 class="h2">More for sale and lease</h2></div></div>
+<div class="grid">{"".join(prop_card(k, r) for k in ACTIVE if k not in FEATURED)}</div></div></section>
 <section class="band" style="padding-top:0"><div class="wrap">
 <div class="head"><div><p class="eyebrow">Track record</p><h2 class="h2">Closed</h2></div></div>
-<div class="grid">{"".join(prop_card(k, r) for k in SOLD)}</div></div></section>
+<div class="grid">{"".join(prop_card(k, r) for k in SOLD if k not in FEATURED)}</div></div></section>
 {reviews_band(False, "What sellers say")}
 {lead_band("Get homes before they hit the market", "Off-market and coming-soon homes go to Nathaniel's list first. Share what you want, or find out what yours is worth.", first="buy")}
 </main>
@@ -2425,7 +2429,7 @@ def page_news():
 {month}
 {desk}
 {past}
-<footer class="np-foot"><p>The Local LA Ledger is written by Nathaniel Grivas, REALTOR&reg; with The Brodsky Group at Compass Beverly Hills, from public reporting. Facts only: no endorsements, no predictions, and every story links to its sources so you can read them yourself. See something wrong? <a href="mailto:{EMAIL}">Email me</a> and I&rsquo;ll fix it.</p></footer>
+<footer class="np-foot"><p>The Local LA Ledger is written by Nathaniel Grivas, REALTOR&reg; with The Brodsky Group at Compass Beverly Hills, from public reporting. Facts only: no endorsements, no predictions, and every story links to its sources so you can read them yourself. See something wrong? <a href="mailto:{EMAIL}">Email Nathaniel</a> and he&rsquo;ll fix it.</p></footer>
 </article>
 </div>
 </main>
@@ -2573,6 +2577,29 @@ MD_FOOT = (f"\n---\n\nNathaniel Grivas, REALTOR\u00ae (California DRE #{DRE}), T
            f"Rated 5.0 on Google. Call or text {PHONE}, email {EMAIL}. Website: {SITE}/  Summary for AI: {SITE}/llms.txt\n")
 
 
+def hood_summary_md(u):
+    """Answer-first block at the top of each neighborhood's text twin."""
+    m = re.fullmatch(r"/neighborhoods/([a-z0-9-]+)/", u)
+    if not m or m.group(1) not in BY_SLUG:
+        return ""
+    h = BY_SLUG[m.group(1)]
+    n, c = h["name"], CITIES[h["city"]]
+    pk = [p["n"] for p in pocket_items(h["slug"])]
+    deals = [PROPS[k] for k in DEALS.get(h["slug"], [])]
+    lines = ["## In short", "",
+             f"- {n} is in {('the ' + c['label']) if c['label'].startswith(('City', 'Unincorporated')) else c['label']}, {'ZIPs' if ',' in h['zips'] else 'ZIP'} {h['zips']} (region: {h['region']}). {h['line']}",
+             f"- Price level: {TIER_WORD[h['tier']]}. Good fit if: {h['fit']}"]
+    if pk:
+        lines.append(f"- {n} breaks into {len(pk)} pockets, mapped street by street: {', '.join(pk)}.")
+    lines.append(f"- Local real estate agent: Nathaniel Grivas, REALTOR\u00ae (California DRE #{DRE}) with The Brodsky Group at Compass Beverly Hills, "
+                 f"buys, sells and leases homes in {n}. Call or text {PHONE}.")
+    for p_ in deals:
+        lines.append(f"- His {n} deal: {p_['addr']} ({p_['tag'].lower()}, {p_['price']}{p_.get('per', '')}" + (f", represented the {p_['rep'].lower()})" if p_.get("rep") else ")"))
+    lines += [f"- Free home valuation in {n}: {SITE}{VALUE_URL}",
+              f"- This week's market by region: {SITE}{MARKET_URL}", "", ""]
+    return "\n".join(lines)
+
+
 def text_twins(pages, posts):
     """Writes a markdown version of every page next to it (page.md) so AI readers get the full text fast."""
     out = {}
@@ -2582,7 +2609,11 @@ def text_twins(pages, posts):
         if u == "/":
             md = home_md(posts)
         else:
-            md = f"# {title}\n\nSource page: {SITE}{u}\n\n" + v8.html_to_md(t, SITE)
+            body_md = v8.html_to_md(t, SITE)
+            body_md = re.sub(r"(?m)^(?:Call|Text|Message)(?: (?:Call|Text|Message))*\s*$\n?", "", body_md)
+            body_md = re.sub(r"(?m)^Get [^.\n]{0,60} listings What's my [^.\n]{0,60} home worth\?\s*$\n?", "", body_md)
+            body_md = re.sub(r"\n{3,}", "\n\n", body_md)
+            md = f"# {title}\n\nSource page: {SITE}{u}\n\n" + hood_summary_md(u) + body_md
         md += MD_FOOT
         f = DIST / md_url(u).lstrip("/")
         f.parent.mkdir(parents=True, exist_ok=True)
@@ -2592,7 +2623,7 @@ def text_twins(pages, posts):
 
 
 def llms_full(posts, mds):
-    keep = ["/", "/about/", "/listings/", "/homes/3721-evans/", "/homes/616-fuller/", "/homes/18748-lanark/", "/homes/14757-hartland/", "/neighborhoods/"] + \
+    keep = ["/", "/about/", "/home-value/", "/buy/", MARKET_URL, "/listings/", "/homes/3721-evans/", "/homes/616-fuller/", "/homes/18748-lanark/", "/homes/14757-hartland/", "/neighborhoods/"] + \
            [f"/neighborhoods/{h['slug']}/" for h in ORDER] + [f"/guide/{p['slug']}/" for p in posts]
     parts = [llms_txt(posts), "\n\n# Full text of the main pages\n"]
     for u in keep:
@@ -2650,6 +2681,24 @@ def home_md(posts):
     return "\n".join(out) + "\n"
 
 
+def market_ai_lines():
+    try:
+        M = json.loads((pathlib.Path(__file__).parent / "market" / "latest.json").read_text())
+    except Exception:
+        return []
+    rg = M["regions"]; a = sum(x["active"] for x in rg); c = sum(x["cut"] for x in rg)
+    R, C = M["rate"], M["county"]
+    wk = datetime.date.fromisoformat(M["week"]).strftime("%B %-d, %Y")
+    out = ["", f"## Los Angeles housing market this week (Market Temperature, week of {wk}, updated weekly)", "",
+           f"- Source page: {SITE}{MARKET_URL}",
+           f"- 30-year fixed mortgage rate: {R['v']:.2f}% ({R['src']}, {R['asof']}), {R['prev']:.2f}% the week before, {R['yago']:.2f}% a year ago",
+           f"- Homes for sale across the 40 neighborhoods covered: {a:,}; {100.0 * c / a:.1f}% have had a price cut ({c:,} listings)"]
+    out += [f"- {x['r']}: {x['active']:,} for sale, {100.0 * x['cut'] / max(1, x['active']):.1f}% with a price cut" for x in sorted(rg, key=lambda x: x["cut"] / max(1, x["active"]))]
+    out += [f"- Los Angeles County median price, {C['month']}: ${C['price']:,} ({C['price_yoy']:+.1f}% year over year); closed sales {C['sales_yoy']:+.1f}% year over year ({C['src']})",
+            f"- Listing counts: {M.get('listings_src', 'public listing data')}"]
+    return out
+
+
 def llms_txt(posts):
     lines = ["# Nathaniel Grivas, REALTOR® in Los Angeles", "",
              f"> Nathaniel Grivas is a Los Angeles REALTOR® (California DRE #{DRE}) with The Brodsky Group at Compass Beverly Hills, {ADDR}. "
@@ -2668,7 +2717,9 @@ def llms_txt(posts):
               f"- [Listings]({SITE}/listings/): active listings and closed deals",
               f"- [All 40 neighborhoods on a satellite map]({SITE}/neighborhoods/)",
               f"- [Local LA]({SITE}/neighborhoods/): where to eat, drink and go in each neighborhood, every pick pinned on a map",
+              f"- [Market Temperature]({SITE}{MARKET_URL}): the Los Angeles housing market this week, by region, updated weekly from public data",
               f"- [LA News]({SITE}/news/): today's Los Angeles news, the week's biggest stories and the month's headline, facts only"]
+    lines += market_ai_lines()
     lines += ["", "## Listings and closed deals", ""]
     for k in ACTIVE + SOLD:
         p_ = PROPS[k]

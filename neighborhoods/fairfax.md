@@ -2,13 +2,21 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/fairfax
 
+## In short
+
+- Fairfax District is in the City of Los Angeles, ZIP 90036 (region: Central). The Original Farmers Market, The Grove and blocks of Spanish duplexes.
+- Price level: Upper. Good fit if: You want to walk to the market and live in a classic LA building.
+- Fairfax District breaks into 3 pockets, mapped street by street: Melrose Avenue North, Beverly-Fairfax & The Grove, Park La Brea.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Fairfax District. Call or text 310-269-5541.
+- His Fairfax District deal: 616 N Fuller Ave (sold, $3.275M, represented the buyer & seller)
+- Free home valuation in Fairfax District: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Fairfax District
 
 The Original Farmers Market, The Grove and blocks of Spanish duplexes.
 
 City of LA ZIP 90036 $$$ · Upper
-
-Get Fairfax District listings What's my Fairfax District home worth?
 
 What it’s like
 
@@ -31,8 +39,6 @@ The Fairfax District is a City of LA neighborhood around Fairfax Avenue between 
 - **Good fit if:** You want to walk to the market and live in a classic LA building.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -60,13 +66,51 @@ Beverly-Fairfax: 1920s and 1930s Spanish homes and duplexes around the Grove, th
 
 Park La Brea: the large apartment community and the residential blocks east of it toward La Brea.
 
-The map
+Living here
 
-## Fairfax District, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+1920s and 1930s Spanish duplexes and fourplexes, many under rent stabilization, plus single-family homes on the side streets. Duplex-to-single-family conversions are common.
+
+**Good fit if**
+
+You want to walk to the market and live in a classic LA building.
+
+**Think twice if**
+
+You want new construction.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=fairfax&b=beverly-grove)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Fairfax District
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Fairfax%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+The Fairfax District runs from the Original Farmers Market and The Grove up Fairfax Avenue, LA's classic deli and streetwear strip, to Melrose. It's walkable, busy at all hours and home to some of the city's most famous food stalls.
+
+23 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -74,20 +118,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **The Grove** Outdoor mall with the trolley and the fountain.
 - 3 **Pan Pacific Park** Fields, rec center and the playground.
 - 4 **Fairfax Avenue** Streetwear shops, Canter's and the Melrose crossing.
-
-**Thinking about Fairfax District?** New Fairfax District listings, off-market homes and lenders for any situation. Or a free value on your Fairfax District home.
-
-What's my home worth? Get Fairfax District listings
-
-Local LA
-
-## Where to eat, drink and go in Fairfax District
-
-See them on the map →
-
-The Fairfax District runs from the Original Farmers Market and The Grove up Fairfax Avenue, LA's classic deli and streetwear strip, to Melrose. It's walkable, busy at all hours and home to some of the city's most famous food stalls.
-
-23 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -540,10 +570,6 @@ Sources for this history
 - [Wikipedia: Fairfax District](https://en.wikipedia.org/wiki/Fairfax_District,_Los_Angeles)
 - [Wikipedia: Pan-Pacific Auditorium](https://en.wikipedia.org/wiki/Pan-Pacific_Auditorium)
 
-Photos
-
-## Fairfax District in pictures
-
 Track record
 
 ## Nathaniel's deals in Fairfax District
@@ -551,56 +577,6 @@ Track record
 [All listings →](https://www.nathanielgrivas.com/listings)
 
 [Sold $3.275M616 N Fuller Ave Fairfax DistrictRepresented buyer & seller](https://www.nathanielgrivas.com/homes/616-fuller)
-
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-1920s and 1930s Spanish duplexes and fourplexes, many under rent stabilization, plus single-family homes on the side streets. Duplex-to-single-family conversions are common.
-
-**Good fit if**
-
-You want to walk to the market and live in a classic LA building.
-
-**Think twice if**
-
-You want new construction.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=fairfax&b=beverly-grove)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
 Next door
 
@@ -675,7 +651,7 @@ Get new Fairfax District listings as they hit, including ones that aren't public
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

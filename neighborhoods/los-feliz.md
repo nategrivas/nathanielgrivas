@@ -2,13 +2,21 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/los-feliz
 
+## In short
+
+- Los Feliz is in the City of Los Angeles, ZIP 90027 (region: Eastside). Griffith Park as a backyard and Vermont Avenue for dinner.
+- Price level: Top of market. Good fit if: You want a walkable village and a huge park at your door.
+- Los Feliz breaks into 6 pockets, mapped street by street: Los Feliz Flats, Laughlin Park, Los Feliz Village, Los Feliz Estates, Los Feliz Oaks, Franklin Hills.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Los Feliz. Call or text 310-269-5541.
+- His Los Feliz deal: 3721 Evans St (for sale, $4.8M)
+- Free home valuation in Los Feliz: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Los Feliz
 
 Griffith Park as a backyard and Vermont Avenue for dinner.
 
 City of LA ZIP 90027 $$$$ · Top of market
-
-Get Los Feliz listings What's my Los Feliz home worth?
 
 What it’s like
 
@@ -31,8 +39,6 @@ Los Feliz is a City of LA neighborhood at the foot of Griffith Park, one of the 
 - **Good fit if:** You want a walkable village and a huge park at your door.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -78,13 +84,51 @@ Hillhurst east to Hyperion, Los Feliz Boulevard south to Sunset
 
 Franklin Hills: hillside homes and public stairways around the Shakespeare Bridge.
 
-The map
+Living here
 
-## Los Feliz, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+1920s Spanish and Tudor homes on the flats, estates in Los Feliz Oaks, Laughlin Park and the Los Feliz Estates hills, and apartments near Vermont.
+
+**Good fit if**
+
+You want a walkable village and a huge park at your door.
+
+**Think twice if**
+
+You need to be on the Westside every day.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=los-feliz&b=silver-lake)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Los Feliz
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Los+Feliz%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Los Feliz sits at the foot of Griffith Park, with two walkable village streets, Hillhurst and Vermont, lined with cafes, old-school Italian spots, bookstores and a century-old movie palace. It's also the easiest way up to the Observatory and the Greek Theatre.
+
+36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -93,20 +137,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 3 **The Greek Theatre** Outdoor concert venue in the park.
 - 4 **Ennis House** Frank Lloyd Wright's textile-block house on Glendower.
 - 5 **Los Feliz Estates** The hillside streets above Los Feliz Blvd.
-
-**Thinking about Los Feliz?** New Los Feliz listings, off-market homes and lenders for any situation. Or a free value on your Los Feliz home.
-
-What's my home worth? Get Los Feliz listings
-
-Local LA
-
-## Where to eat, drink and go in Los Feliz
-
-See them on the map →
-
-Los Feliz sits at the foot of Griffith Park, with two walkable village streets, Hillhurst and Vermont, lined with cafes, old-school Italian spots, bookstores and a century-old movie palace. It's also the easiest way up to the Observatory and the Greek Theatre.
-
-36 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -768,56 +798,6 @@ Track record
 
 [For sale $4.8M3721 Evans St Los Feliz8 beds, 10 baths, 4,989 sq ft](https://www.nathanielgrivas.com/homes/3721-evans) [Property website: 3721evans.com ↗](https://3721evans.com/)
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-1920s Spanish and Tudor homes on the flats, estates in Los Feliz Oaks, Laughlin Park and the Los Feliz Estates hills, and apartments near Vermont.
-
-**Good fit if**
-
-You want a walkable village and a huge park at your door.
-
-**Think twice if**
-
-You need to be on the Westside every day.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=los-feliz&b=silver-lake)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -895,7 +875,7 @@ Get new Los Feliz listings as they hit, including ones that aren't public yet, o
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/mar-vista
 
+## In short
+
+- Mar Vista is in the City of Los Angeles, ZIP 90066 (region: Westside). Westside residential streets and mid-century homes, minutes from the beach.
+- Price level: Upper. Good fit if: You want a house with a yard on the Westside and quick freeway access.
+- Mar Vista breaks into 3 pockets, mapped street by street: Mar Vista Hill, Mar Vista West of Centinela, Mar Vista South of Venice.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Mar Vista. Call or text 310-269-5541.
+- Free home valuation in Mar Vista: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Mar Vista
 
 Westside residential streets and mid-century homes, minutes from the beach.
 
 City of LA ZIP 90066 $$$ · Upper
-
-Get Mar Vista listings What's my Mar Vista home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Mar Vista is a City of LA neighborhood between Venice, Culver City and Palms. It
 - **Good fit if:** You want a house with a yard on the Westside and quick freeway access.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -60,13 +65,51 @@ Venice Boulevard to Washington, Sepulveda to Walgrove
 
 Mar Vista south of Venice Boulevard: smaller lots, many new builds and remodels, close to Culver City and Venice.
 
-The map
+Living here
 
-## Mar Vista, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Post-war single-family homes on lots around 5,000 to 7,000 square feet, with plenty of remodels, new builds and ADUs. The Mar Vista Tract, designed by Gregory Ain in 1948, is a protected historic district.
+
+**Good fit if**
+
+You want a house with a yard on the Westside and quick freeway access.
+
+**Think twice if**
+
+You want to walk to most of what you need.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=mar-vista&b=venice)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Mar Vista
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Mar Vista is Venice's quieter neighbor, with a walkable stretch of Venice Boulevard around Grand View, a Sunday farmers market and one of the best Japanese markets on the Westside. Its restaurant scene has grown fast, from Taiwanese comfort food on Grand View to a French bistro on Centinela.
+
+22 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -75,20 +118,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 3 **Mar Vista Recreation Center** Fields, courts and a pool in the middle of the neighborhood.
 - 4 **Mar Vista Hill** The streets with the ocean views.
 - 5 **Penmar Park** Golf course and park on the Venice border.
-
-**Thinking about Mar Vista?** New Mar Vista listings, off-market homes and lenders for any situation. Or a free value on your Mar Vista home.
-
-What's my home worth? Get Mar Vista listings
-
-Local LA
-
-## Where to eat, drink and go in Mar Vista
-
-See them on the map →
-
-Mar Vista is Venice's quieter neighbor, with a walkable stretch of Venice Boulevard around Grand View, a Sunday farmers market and one of the best Japanese markets on the Westside. Its restaurant scene has grown fast, from Taiwanese comfort food on Grand View to a French bistro on Centinela.
-
-22 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -528,56 +557,6 @@ Sources for this history
 - [LA City Planning: Palms-Mar Vista-Del Rey survey](https://planning.lacity.gov/odocument/d4cf3df4-94a5-47c7-b107-8a9c89d508e0/Group_3_Palms-Mar_Vista-Del_Rey_Survey_Report_Final.pdf)
 - [Wikipedia: Mar Vista](https://en.wikipedia.org/wiki/Mar_Vista,_Los_Angeles)
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Post-war single-family homes on lots around 5,000 to 7,000 square feet, with plenty of remodels, new builds and ADUs. The Mar Vista Tract, designed by Gregory Ain in 1948, is a protected historic district.
-
-**Good fit if**
-
-You want a house with a yard on the Westside and quick freeway access.
-
-**Think twice if**
-
-You want to walk to most of what you need.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=mar-vista&b=venice)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -655,7 +634,7 @@ Get new Mar Vista listings as they hit, including ones that aren't public yet, o
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

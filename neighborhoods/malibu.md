@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/malibu
 
+## In short
+
+- Malibu is in the City of Malibu, ZIP 90265 (region: Coast). Twenty-one miles of coast, its own city, and septic tanks.
+- Price level: Top of market. Good fit if: You want privacy, ocean and space, and the drive into town doesn't bother you.
+- Malibu breaks into 14 pockets, mapped street by street: Encinal Bluffs & Lechuza, Broad Beach & Trancas, Malibu Park & Malibu West, Point Dume, Paradise Cove & Ramirez Canyon, Latigo & Escondido Canyon, Corral Canyon & Solstice, Malibu Road, Malibu Colony, Serra Retreat & Civic Center, Carbon Beach & Sweetwater Mesa, La Costa & Las Flores, Big Rock, Las Tunas & Tuna Canyon.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Malibu. Call or text 310-269-5541.
+- Free home valuation in Malibu: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Malibu
 
 Twenty-one miles of coast, its own city, and septic tanks.
 
 Malibu ZIP 90265 $$$$ · Top of market
-
-Get Malibu listings What's my Malibu home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Malibu is its own city stretching along about 21 miles of coastline west of Paci
 - **Good fit if:** You want privacy, ocean and space, and the drive into town doesn't bother you.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -126,13 +131,51 @@ Malibu's east end around Las Tunas Beach and Tuna Canyon
 
 Las Tunas: beachfront homes along the highway at the city's east end.
 
-The map
+Living here
 
-## Malibu, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Beachfront, bluff-top and canyon homes, many on large lots. Most of Malibu runs on septic systems instead of sewer, coastal permits add time to projects, and fire insurance is a real line item. Inspect all three before you write an offer.
+
+**Good fit if**
+
+You want privacy, ocean and space, and the drive into town doesn't bother you.
+
+**Think twice if**
+
+You want walkability or a short commute anywhere.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=malibu) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=malibu&b=pacific-palisades)
+
+The rules here
+
+- **Jurisdiction:** City of Malibu
+- **Transfer tax:** 0.11% county only
+- **Measure ULA:** No No
+- **Rent control:** No local rent control. California's statewide cap (AB 1482) covers eligible rentals
+- **Public schools:** Santa Monica-Malibu Unified, with a separate Malibu Unified in the works
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=malibu) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyProp TE: Palisades fire sellers can skip LA's mansion taxLA voters approved Proposition TE. Who qualifies, what it saves on a $6M sale, and who still pays Measure ULA in the Palisades. November 25, 2026](https://www.nathanielgrivas.com/guide/prop-te-palisades-mansion-tax-exemption)
+
+Local LA
+
+## Where to eat, drink and go in Malibu
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Malibu%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Malibu is 21 miles of coastline along PCH, from Surfrider Beach and the pier to Zuma, Point Dume and the sea caves at El Matador. The restaurants lean on the views and the seafood, and the Santa Monica Mountains rise right behind the beach.
+
+24 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -141,20 +184,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 3 **Malibu Country Mart** Shops and restaurants around Cross Creek Road.
 - 4 **Septic and insurance** Two costs to check on every Malibu home.
 - 5 **Pepperdine** The university on the hill above Malibu Canyon Road.
-
-**Thinking about Malibu?** New Malibu listings, off-market homes and lenders for any situation. Or a free value on your Malibu home.
-
-What's my home worth? Get Malibu listings
-
-Local LA
-
-## Where to eat, drink and go in Malibu
-
-See them on the map →
-
-Malibu is 21 miles of coastline along PCH, from Surfrider Beach and the pier to Zuma, Point Dume and the sea caves at El Matador. The restaurants lean on the views and the seafood, and the Santa Monica Mountains rise right behind the beach.
-
-24 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -630,56 +659,6 @@ Photos
 
 ## Malibu in pictures
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Beachfront, bluff-top and canyon homes, many on large lots. Most of Malibu runs on septic systems instead of sewer, coastal permits add time to projects, and fire insurance is a real line item. Inspect all three before you write an offer.
-
-**Good fit if**
-
-You want privacy, ocean and space, and the drive into town doesn't bother you.
-
-**Think twice if**
-
-You want walkability or a short commute anywhere.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=malibu) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=malibu&b=pacific-palisades)
-
-The rules here
-
-- **Jurisdiction:** City of Malibu
-- **Transfer tax:** 0.11% county only
-- **Measure ULA:** No No
-- **Rent control:** No local rent control. California's statewide cap (AB 1482) covers eligible rentals
-- **Public schools:** Santa Monica-Malibu Unified, with a separate Malibu Unified in the works
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=malibu) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyProp TE: Palisades fire sellers can skip LA's mansion taxLA voters approved Proposition TE. Who qualifies, what it saves on a $6M sale, and who still pays Measure ULA in the Palisades. November 25, 2026](https://www.nathanielgrivas.com/guide/prop-te-palisades-mansion-tax-exemption)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -755,7 +734,7 @@ Get new Malibu listings as they hit, including ones that aren't public yet, or f
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

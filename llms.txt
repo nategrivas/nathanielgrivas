@@ -36,7 +36,22 @@ Every page on this site has a plain-text twin: add .md to the address (for examp
 - [Listings](https://www.nathanielgrivas.com/listings): active listings and closed deals
 - [All 40 neighborhoods on a satellite map](https://www.nathanielgrivas.com/neighborhoods)
 - [Local LA](https://www.nathanielgrivas.com/neighborhoods): where to eat, drink and go in each neighborhood, every pick pinned on a map
+- [Market Temperature](https://www.nathanielgrivas.com/market-temperature): the Los Angeles housing market this week, by region, updated weekly from public data
 - [LA News](https://www.nathanielgrivas.com/news): today's Los Angeles news, the week's biggest stories and the month's headline, facts only
+
+## Los Angeles housing market this week (Market Temperature, week of November 27, 2026, updated weekly)
+
+- Source page: https://www.nathanielgrivas.com/market-temperature
+- 30-year fixed mortgage rate: 7.28% (Freddie Mac PMMS, 2026-11-19), 7.11% the week before, 6.26% a year ago
+- Homes for sale across the 40 neighborhoods covered: 4,348; 15.7% have had a price cut (682 listings)
+- Beverly Hills & the Hills: 696 for sale, 11.6% with a price cut
+- Central: 542 for sale, 13.1% with a price cut
+- Eastside: 187 for sale, 13.4% with a price cut
+- Coast: 899 for sale, 13.6% with a price cut
+- Westside: 693 for sale, 17.9% with a price cut
+- Valley: 1,331 for sale, 19.5% with a price cut
+- Los Angeles County median price, October 2026: $955,090 (-0.6% year over year); closed sales -17.5% year over year (C.A.R., as reported by NBC Los Angeles)
+- Listing counts: Zillow, active for-sale listings (houses, condos and townhomes), pulled November 27, 2026
 
 ## Listings and closed deals
 

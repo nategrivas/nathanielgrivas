@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/west-hollywood
 
+## In short
+
+- West Hollywood is in the City of West Hollywood, ZIPs 90069, 90046, 90048 (region: Central). The Sunset Strip, Santa Monica Boulevard and the Design District in under two square miles.
+- Price level: Upper. Good fit if: You want to walk to dinner and stay out late.
+- West Hollywood breaks into 7 pockets, mapped street by street: West Hollywood West, Norma Triangle, Sunset Strip, West Hollywood Center, West Hollywood North, West Hollywood South, West Hollywood Eastside.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in West Hollywood. Call or text 310-269-5541.
+- Free home valuation in West Hollywood: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # West Hollywood
 
 The Sunset Strip, Santa Monica Boulevard and the Design District in under two square miles.
 
 West Hollywood ZIP 90069, 90046, 90048 $$$ · Upper
-
-Get West Hollywood listings What's my West Hollywood home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ West Hollywood is its own city of about 1.9 square miles between Beverly Hills a
 - **Good fit if:** You want to walk to dinner and stay out late.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -84,13 +89,51 @@ Fairfax Avenue to the city line at La Brea
 
 West Hollywood's Eastside: apartments and condos around Plummer Park and the Formosa and Gardner streets.
 
-The map
+Living here
 
-## West Hollywood, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Condos, rent-stabilized apartments, small houses in the Norma Triangle and on the east side, and hillside homes above Sunset.
+
+**Good fit if**
+
+You want to walk to dinner and stay out late.
+
+**Think twice if**
+
+You want a yard or a quiet Saturday night.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=west-hollywood) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=west-hollywood&b=beverly-hills)
+
+The rules here
+
+- **Jurisdiction:** City of West Hollywood
+- **Transfer tax:** 0.11% county only
+- **Measure ULA:** No No
+- **Rent control:** West Hollywood rent stabilization covers most apartments built before July 1, 1979
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=west-hollywood) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyThe 90210 homes that pay LA's mansion taxBeverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax. November 25, 2026](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la)
+
+Local LA
+
+## Where to eat, drink and go in West Hollywood
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=West+Hollywood%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+West Hollywood packs the Sunset Strip's music clubs and comedy rooms, Santa Monica Boulevard's bars and the Melrose and Robertson restaurant row into under two square miles. It's one of the most walkable cities in LA, and brunch here is a weekend sport.
+
+62 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -99,20 +142,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 3 **Design District** Furniture showrooms and galleries around Melrose and Robertson.
 - 4 **Pacific Design Center** The blue and green buildings on Melrose.
 - 5 **Kings Road Park** Small park in the middle of the east side.
-
-**Thinking about West Hollywood?** New West Hollywood listings, off-market homes and lenders for any situation. Or a free value on your West Hollywood home.
-
-What's my home worth? Get West Hollywood listings
-
-Local LA
-
-## Where to eat, drink and go in West Hollywood
-
-See them on the map →
-
-West Hollywood packs the Sunset Strip's music clubs and comedy rooms, Santa Monica Boulevard's bars and the Melrose and Robertson restaurant row into under two square miles. It's one of the most walkable cities in LA, and brunch here is a weekend sport.
-
-62 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -1145,56 +1174,6 @@ Sources for this history
 - [Wikipedia: Schindler House](https://en.wikipedia.org/wiki/Schindler_House)
 - [Wikipedia: Pacific Design Center](https://en.wikipedia.org/wiki/Pacific_Design_Center)
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Condos, rent-stabilized apartments, small houses in the Norma Triangle and on the east side, and hillside homes above Sunset.
-
-**Good fit if**
-
-You want to walk to dinner and stay out late.
-
-**Think twice if**
-
-You want a yard or a quiet Saturday night.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=west-hollywood) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=west-hollywood&b=beverly-hills)
-
-The rules here
-
-- **Jurisdiction:** City of West Hollywood
-- **Transfer tax:** 0.11% county only
-- **Measure ULA:** No No
-- **Rent control:** West Hollywood rent stabilization covers most apartments built before July 1, 1979
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=west-hollywood) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyThe 90210 homes that pay LA's mansion taxBeverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax. November 25, 2026](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -1272,7 +1251,7 @@ Get new West Hollywood listings as they hit, including ones that aren't public y
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

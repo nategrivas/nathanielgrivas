@@ -2,13 +2,23 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/pico-robertson
 
+## In short
+
+- Pico-Robertson & Beverlywood is in the City of Los Angeles, ZIP 90035 (region: Westside). Walkable, next to Beverly Hills, anchored by Pico Boulevard.
+- Price level: Upper. Good fit if: You want to walk to everything and be minutes from Beverly Hills.
+- Pico-Robertson & Beverlywood breaks into 2 pockets, mapped street by street: Beverlywood, Pico-Robertson.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Pico-Robertson & Beverlywood. Call or text 310-269-5541.
+- His Pico-Robertson & Beverlywood deal: 1127 Glenville Dr #2 (leased, $3,400/mo, represented the tenant & landlord)
+- Free home valuation in Pico-Robertson & Beverlywood: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Pico-Robertson & Beverlywood
 
 Walkable, next to Beverly Hills, anchored by Pico Boulevard.
 
 City of LA ZIP 90035 $$$ · Upper
 
-Get Pico-Robertson & Beverlywood listings What's my Pico-Robertson & Beverlywood home worth?
+[Leased1127 Glenville Dr #2 · Represented tenant & landlord →](https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/)
 
 What it’s like
 
@@ -32,8 +42,6 @@ Pico-Robertson and Beverlywood sit just south and east of Beverly Hills in the C
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
-Call Text
-
 Block by block
 
 ## The pockets of Pico-Robertson & Beverlywood
@@ -54,13 +62,51 @@ Pico Boulevard to Cadillac, La Cienega to Beverwil
 
 Pico-Robertson: walkable streets of duplexes, Spanish homes and apartments around Pico's kosher markets and shops.
 
-The map
+Living here
 
-## Pico-Robertson & Beverlywood, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Duplexes and small apartment buildings north of Pico, many under LA rent stabilization. 1930s and 1940s Spanish and traditional homes on the residential streets. Beverlywood is single-family.
+
+**Good fit if**
+
+You want to walk to everything and be minutes from Beverly Hills.
+
+**Think twice if**
+
+You want big lots.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=pico-robertson&b=beverly-hills)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Pico-Robertson & Beverlywood
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Pico-Robertson%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Pico-Robertson centers on the busy crossroads of Pico and Robertson Boulevards just south of Beverly Hills, with LA's biggest cluster of kosher restaurants, bakeries and markets plus a few destination dining rooms.
+
+12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -68,20 +114,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **Robertson Boulevard** The route north into Beverly Hills.
 - 3 **Beverlywood** Single-family streets south of Cattaraugus.
 - 4 **Duplex stock** A classic place to buy a two-unit building.
-
-**Thinking about Pico-Robertson & Beverlywood?** New Pico-Robertson & Beverlywood listings, off-market homes and lenders for any situation. Or a free value on your Pico-Robertson & Beverlywood home.
-
-What's my home worth? Get Pico-Robertson & Beverlywood listings
-
-Local LA
-
-## Where to eat, drink and go in Pico-Robertson & Beverlywood
-
-See them on the map →
-
-Pico-Robertson centers on the busy crossroads of Pico and Robertson Boulevards just south of Beverly Hills, with LA's biggest cluster of kosher restaurants, bakeries and markets plus a few destination dining rooms.
-
-12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -349,64 +381,6 @@ Sources for this history
 - [Wikipedia: South Robertson](https://en.wikipedia.org/wiki/South_Robertson,_Los_Angeles)
 - [Wikipedia: Robertson Boulevard](https://en.wikipedia.org/wiki/Robertson_Boulevard)
 
-Track record
-
-## Nathaniel's deals in Pico-Robertson & Beverlywood
-
-[All listings →](https://www.nathanielgrivas.com/listings)
-
-[Leased $3,400 /mo1127 Glenville Dr #2 Pico-RobertsonRepresented tenant & landlord](https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/)
-
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Duplexes and small apartment buildings north of Pico, many under LA rent stabilization. 1930s and 1940s Spanish and traditional homes on the residential streets. Beverlywood is single-family.
-
-**Good fit if**
-
-You want to walk to everything and be minutes from Beverly Hills.
-
-**Think twice if**
-
-You want big lots.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=pico-robertson&b=beverly-hills)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -484,7 +458,7 @@ Get new Pico-Robertson & Beverlywood listings as they hit, including ones that a
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

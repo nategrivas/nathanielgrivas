@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/echo-park
 
+## In short
+
+- Echo Park is in the City of Los Angeles, ZIP 90026 (region: Eastside). The lake, Dodger Stadium and hillside homes close to Downtown.
+- Price level: Moderate. Good fit if: You want character close to Downtown.
+- Echo Park breaks into 5 pockets, mapped street by street: Elysian Heights, Echo Park Avenue, Echo Park Lake, Angelino Heights, Victor Heights.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Echo Park. Call or text 310-269-5541.
+- Free home valuation in Echo Park: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Echo Park
 
 The lake, Dodger Stadium and hillside homes close to Downtown.
 
 City of LA ZIP 90026 $$ · Moderate
-
-Get Echo Park listings What's my Echo Park home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Echo Park is a City of LA neighborhood northwest of Downtown, between Silver Lak
 - **Good fit if:** You want character close to Downtown.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -72,13 +77,51 @@ The hill streets east of Echo Park near Chinatown
 
 Victor Heights: a small hillside pocket between Echo Park, Chinatown and Dodger Stadium.
 
-The map
+Living here
 
-## Echo Park, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Hillside bungalows, Victorian homes in Angelino Heights, small-lot homes and apartments. Close-in value for the Eastside.
+
+**Good fit if**
+
+You want character close to Downtown.
+
+**Think twice if**
+
+Game-day traffic would drive you crazy.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=echo-park&b=silver-lake)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Echo Park
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Echo+Park%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Echo Park wraps around its lake, with swan boats and a palm-lined loop, and Sunset Boulevard runs through it with some of the Eastside's best bars, taquerias and music rooms. Dodger Stadium sits right above it in Chavez Ravine.
+
+29 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -86,20 +129,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **Dodger Stadium** Walkable on game nights.
 - 3 **Elysian Park** LA's second-largest city park.
 - 4 **Angelino Heights** Victorian homes on Carroll Avenue.
-
-**Thinking about Echo Park?** New Echo Park listings, off-market homes and lenders for any situation. Or a free value on your Echo Park home.
-
-What's my home worth? Get Echo Park listings
-
-Local LA
-
-## Where to eat, drink and go in Echo Park
-
-See them on the map →
-
-Echo Park wraps around its lake, with swan boats and a palm-lined loop, and Sunset Boulevard runs through it with some of the Eastside's best bars, taquerias and music rooms. Dodger Stadium sits right above it in Chavez Ravine.
-
-29 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -646,56 +675,6 @@ Sources for this history
 - [LAist: 10 things about Echo Park](https://laist.com/news/entertainment/echo-park-10-things)
 - [PBS SoCal Lost LA: Echo Park's lake began as a reservoir](https://pbssocal.org/shows/lost-la/echo-parks-lake-began-as-a-drinking-water-reservoir)
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Hillside bungalows, Victorian homes in Angelino Heights, small-lot homes and apartments. Close-in value for the Eastside.
-
-**Good fit if**
-
-You want character close to Downtown.
-
-**Think twice if**
-
-Game-day traffic would drive you crazy.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=echo-park&b=silver-lake)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -765,7 +744,7 @@ Get new Echo Park listings as they hit, including ones that aren't public yet, o
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

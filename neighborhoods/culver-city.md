@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/culver-city
 
+## In short
+
+- Culver City is in the City of Culver City, ZIPs 90230, 90232 (region: Westside). Its own city, its own schools, and a downtown that works.
+- Price level: Upper. Good fit if: You want a small-city feel, walkable dinners and a train.
+- Culver City breaks into 10 pockets, mapped street by street: Downtown Culver City, Arts District & Hayden Tract, Carlson Park (Park East), Veterans Park (Park West), Studio Village & Lindberg Park, Sunkist Park, Fox Hills, Culver West & McLaughlin, Culver Crest, Blair Hills.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Culver City. Call or text 310-269-5541.
+- Free home valuation in Culver City: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Culver City
 
 Its own city, its own schools, and a downtown that works.
 
 Culver City ZIP 90230, 90232 $$$ · Upper
-
-Get Culver City listings What's my Culver City home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Culver City is an independent city of about five square miles surrounded by Los 
 - **Good fit if:** You want a small-city feel, walkable dinners and a train.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -102,13 +107,45 @@ Blair Hills, by the Baldwin Hills Scenic Overlook
 
 Blair Hills: a hillside tract next to the Baldwin Hills Scenic Overlook and its stairs.
 
-The map
+Living here
 
-## Culver City, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+1920s to 1950s houses in neighborhoods like Carlson Park and Culver Crest, hillside homes in Blair Hills, and condos in Fox Hills. Sales over $1.5M pay Culver City's bracketed transfer tax.
+
+**Good fit if**
+
+You want a small-city feel, walkable dinners and a train.
+
+**Think twice if**
+
+You're selling above $1.5M and want to avoid an extra transfer tax.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=culver-city) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=culver-city&b=palms)
+
+The rules here
+
+- **Jurisdiction:** City of Culver City
+- **Transfer tax:** Measure RE brackets from 0.45% up to 4% on the top slice, plus 0.11% county
+- **Measure ULA:** No No. Culver City has its own bracketed tax (Measure RE)
+- **Rent control:** Culver City rent control covers most apartments built before February 1, 1995
+- **Public schools:** Culver City Unified (CCUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=culver-city) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+Local LA
+
+## Where to eat, drink and go in Culver City
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Culver+City%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Culver City is the Westside's studio town, with a walkable downtown around the Culver Hotel and Culver Steps, the Helms and Platform districts for food and shopping, and the Baldwin Hills overlook for the best view on this side of town. It's one of the easiest places in LA to spend a whole day on foot.
+
+35 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -117,20 +154,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 3 **Ballona Creek bike path** Ride from Culver City to Marina del Rey.
 - 4 **Culver City Unified** The city's own school district.
 - 5 **Fox Hills** Condo and townhome area on the south side of the city.
-
-**Thinking about Culver City?** New Culver City listings, off-market homes and lenders for any situation. Or a free value on your Culver City home.
-
-What's my home worth? Get Culver City listings
-
-Local LA
-
-## Where to eat, drink and go in Culver City
-
-See them on the map →
-
-Culver City is the Westside's studio town, with a walkable downtown around the Culver Hotel and Culver Steps, the Helms and Platform districts for food and shopping, and the Baldwin Hills overlook for the best view on this side of town. It's one of the easiest places in LA to spend a whole day on foot.
-
-35 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -768,50 +791,6 @@ Sources for this history
 - [Wikipedia: Helms Bakery](https://en.wikipedia.org/wiki/Helms_Bakery)
 - [Wikipedia: Culver Hotel](https://en.wikipedia.org/wiki/Culver_Hotel)
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-1920s to 1950s houses in neighborhoods like Carlson Park and Culver Crest, hillside homes in Blair Hills, and condos in Fox Hills. Sales over $1.5M pay Culver City's bracketed transfer tax.
-
-**Good fit if**
-
-You want a small-city feel, walkable dinners and a train.
-
-**Think twice if**
-
-You're selling above $1.5M and want to avoid an extra transfer tax.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=culver-city) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=culver-city&b=palms)
-
-The rules here
-
-- **Jurisdiction:** City of Culver City
-- **Transfer tax:** Measure RE brackets from 0.45% up to 4% on the top slice, plus 0.11% county
-- **Measure ULA:** No No. Culver City has its own bracketed tax (Measure RE)
-- **Rent control:** Culver City rent control covers most apartments built before February 1, 1995
-- **Public schools:** Culver City Unified (CCUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=culver-city) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -889,7 +868,7 @@ Get new Culver City listings as they hit, including ones that aren't public yet,
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

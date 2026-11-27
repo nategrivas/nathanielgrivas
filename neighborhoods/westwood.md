@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/westwood
 
+## In short
+
+- Westwood is in the City of Los Angeles, ZIP 90024 (region: Westside). UCLA, Westwood Village and the Wilshire Corridor towers.
+- Price level: Top of market. Good fit if: You want a condo with service, or a classic house close to UCLA.
+- Westwood breaks into 6 pockets, mapped street by street: Westwood Village, North Village, Little Holmby, Holmby Westwood, Westwood South of Wilshire, Westwood South of Santa Monica.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Westwood. Call or text 310-269-5541.
+- Free home valuation in Westwood: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Westwood
 
 UCLA, Westwood Village and the Wilshire Corridor towers.
 
 City of LA ZIP 90024 $$$$ · Top of market
-
-Get Westwood listings What's my Westwood home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Westwood is the City of LA neighborhood around UCLA, from the Wilshire Corridor 
 - **Good fit if:** You want a condo with service, or a classic house close to UCLA.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -78,13 +83,51 @@ Santa Monica Boulevard to Pico, Sepulveda Boulevard to Beverly Glen
 
 Westwood south of Santa Monica Boulevard: single-family streets around Westwood Park and the Westside Pavilion, plus apartments near the boulevards.
 
-The map
+Living here
 
-## Westwood, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Full-service condos on Wilshire, student apartments near campus, and 1920s and 1930s homes in Westwood Hills, Holmby Westwood and Little Holmby.
+
+**Good fit if**
+
+You want a condo with service, or a classic house close to UCLA.
+
+**Think twice if**
+
+You want parking to be easy.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=westwood&b=bel-air)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Westwood
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Westwood%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Westwood runs from the UCLA campus and Westwood Village south past Wilshire, where Westwood Boulevard turns into LA's best stretch of Persian food. The Village has historic movie palaces, late-night eats and the free Hammer Museum.
+
+25 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -92,20 +135,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **The Wilshire Corridor** LA's strip of luxury condo towers.
 - 3 **UCLA** Campus, Pauley Pavilion and the Botanical Garden.
 - 4 **Holmby Westwood** Single-family streets north of Wilshire.
-
-**Thinking about Westwood?** New Westwood listings, off-market homes and lenders for any situation. Or a free value on your Westwood home.
-
-What's my home worth? Get Westwood listings
-
-Local LA
-
-## Where to eat, drink and go in Westwood
-
-See them on the map →
-
-Westwood runs from the UCLA campus and Westwood Village south past Wilshire, where Westwood Boulevard turns into LA's best stretch of Persian food. The Village has historic movie palaces, late-night eats and the free Hammer Museum.
-
-25 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -585,60 +614,6 @@ Sources for this history
 - [Wikipedia: Westwood, Los Angeles](https://en.wikipedia.org/wiki/Westwood,_Los_Angeles)
 - [Wikipedia: Fox Village Theatre](https://en.wikipedia.org/wiki/Fox_Village_Theatre)
 
-Photos
-
-## Westwood in pictures
-
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Full-service condos on Wilshire, student apartments near campus, and 1920s and 1930s homes in Westwood Hills, Holmby Westwood and Little Holmby.
-
-**Good fit if**
-
-You want a condo with service, or a classic house close to UCLA.
-
-**Think twice if**
-
-You want parking to be easy.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=westwood&b=bel-air)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -716,7 +691,7 @@ Get new Westwood listings as they hit, including ones that aren't public yet, or
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

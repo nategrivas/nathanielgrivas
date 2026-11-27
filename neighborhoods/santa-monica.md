@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/santa-monica
 
+## In short
+
+- Santa Monica is in the City of Santa Monica, ZIPs 90401, 90402, 90403, 90404, 90405 (region: Coast). The beach city with its own rules, its own schools and a train to Downtown.
+- Price level: Top of market. Good fit if: You want the beach, walkability and a train line, and you're fine paying for all three.
+- Santa Monica breaks into 9 pockets, mapped street by street: North of Montana, Gold Coast, Wilshire Montana, Northeast Santa Monica, Downtown Santa Monica, Mid-City, Pico Neighborhood, Ocean Park, Sunset Park.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Santa Monica. Call or text 310-269-5541.
+- Free home valuation in Santa Monica: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Santa Monica
 
 The beach city with its own rules, its own schools and a train to Downtown.
 
 Santa Monica ZIP 90401, 90402, 90403, 90404, 90405 $$$$ · Top of market
-
-Get Santa Monica listings What's my Santa Monica home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Santa Monica is its own city, about eight square miles of bluffs and flats betwe
 - **Good fit if:** You want the beach, walkability and a train line, and you're fine paying for all three.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -96,13 +101,45 @@ Pico Boulevard to the city line, Lincoln Boulevard east to the airport
 
 Santa Monica's family pocket: blocks of 1940s and 50s single-family homes around Clover Park and the airport, with Ocean Park Boulevard's cafes and Santa Monica schools.
 
-The map
+Living here
 
-## Santa Monica, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+North of Montana is single-family and some of the most expensive streets on the Westside. Between Montana and Wilshire and through Mid-City you get condos, duplexes and older apartment buildings. Sunset Park and Ocean Park have smaller houses and bungalows. Much of the older apartment stock falls under Santa Monica rent control.
+
+**Good fit if**
+
+You want the beach, walkability and a train line, and you're fine paying for all three.
+
+**Think twice if**
+
+You want the most space for the money, or you don't want summer beach traffic near your street.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=santa-monica) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=santa-monica&b=venice)
+
+The rules here
+
+- **Jurisdiction:** City of Santa Monica
+- **Transfer tax:** City tax on the full price: 0.3% under $5M, 0.6% from $5M, 5.6% at $8M and up, plus 0.11% county
+- **Measure ULA:** No No. Santa Monica has its own top tier instead (5.6% at $8M+)
+- **Rent control:** Santa Monica rent control covers most apartments built before April 10, 1979
+- **Public schools:** Santa Monica-Malibu Unified (SMMUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=santa-monica) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+Local LA
+
+## Where to eat, drink and go in Santa Monica
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Santa+Monica%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Santa Monica is a beach city with its own rules and a deep bench of restaurants, from a 1950s seaside shack to tasting menus that book a month out. Main Street and Ocean Park are the relaxed half; downtown, Wilshire and Montana carry the rest.
+
+38 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -111,20 +148,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 3 **Main Street** Ocean Park's stretch of restaurants and shops, a few blocks from the sand.
 - 4 **Metro E Line** Downtown Santa Monica station connects to Culver City and Downtown LA.
 - 5 **The beach bike path** The Marvin Braude trail runs south through Venice and beyond.
-
-**Thinking about Santa Monica?** New Santa Monica listings, off-market homes and lenders for any situation. Or a free value on your Santa Monica home.
-
-What's my home worth? Get Santa Monica listings
-
-Local LA
-
-## Where to eat, drink and go in Santa Monica
-
-See them on the map →
-
-Santa Monica is a beach city with its own rules and a deep bench of restaurants, from a 1950s seaside shack to tasting menus that book a month out. Main Street and Ocean Park are the relaxed half; downtown, Wilshire and Montana carry the rest.
-
-38 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -812,50 +835,6 @@ Photos
 
 ## Santa Monica in pictures
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-North of Montana is single-family and some of the most expensive streets on the Westside. Between Montana and Wilshire and through Mid-City you get condos, duplexes and older apartment buildings. Sunset Park and Ocean Park have smaller houses and bungalows. Much of the older apartment stock falls under Santa Monica rent control.
-
-**Good fit if**
-
-You want the beach, walkability and a train line, and you're fine paying for all three.
-
-**Think twice if**
-
-You want the most space for the money, or you don't want summer beach traffic near your street.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=santa-monica) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=santa-monica&b=venice)
-
-The rules here
-
-- **Jurisdiction:** City of Santa Monica
-- **Transfer tax:** City tax on the full price: 0.3% under $5M, 0.6% from $5M, 5.6% at $8M and up, plus 0.11% county
-- **Measure ULA:** No No. Santa Monica has its own top tier instead (5.6% at $8M+)
-- **Rent control:** Santa Monica rent control covers most apartments built before April 10, 1979
-- **Public schools:** Santa Monica-Malibu Unified (SMMUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=santa-monica) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -947,7 +926,7 @@ Get new Santa Monica listings as they hit, including ones that aren't public yet
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

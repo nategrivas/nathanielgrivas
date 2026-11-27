@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/north-hollywood
 
+## In short
+
+- North Hollywood is in the City of Los Angeles, ZIPs 91601, 91602, 91605, 91606 (region: Valley). The NoHo Arts District and the end of the B Line.
+- Price level: Moderate. Good fit if: You want a train, a scene and Valley prices.
+- North Hollywood breaks into 3 pockets, mapped street by street: Toluca Woods & South North Hollywood, NoHo Arts District, Mid-Town North Hollywood.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in North Hollywood. Call or text 310-269-5541.
+- Free home valuation in North Hollywood: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # North Hollywood
 
 The NoHo Arts District and the end of the B Line.
 
 City of LA ZIP 91601, 91602, 91605, 91606 $$ · Moderate
-
-Get North Hollywood listings What's my North Hollywood home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ North Hollywood is a City of LA neighborhood in the east Valley, where the Metro
 - **Good fit if:** You want a train, a scene and Valley prices.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -60,13 +65,51 @@ Burbank Boulevard to Victory, the 170 to Vineland
 
 Mid-Town North Hollywood: single-family streets and apartments north of the Arts District.
 
-The map
+Living here
 
-## North Hollywood, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Apartments and new mid-rise buildings near the station, 1940s bungalows, and entry-level houses in the side neighborhoods.
+
+**Good fit if**
+
+You want a train, a scene and Valley prices.
+
+**Think twice if**
+
+You want leafy, quiet streets.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=north-hollywood&b=valley-village)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in North Hollywood
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=North+Hollywood%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+North Hollywood centers on the NoHo Arts District around Lankershim and Magnolia, with small theaters and the B Line subway terminus, plus a deep bench of Thai, Middle Eastern, Latin and barbecue spots across the wider neighborhood.
+
+14 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -74,20 +117,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **North Hollywood station** B Line subway and G Line busway.
 - 3 **Lankershim Blvd** Main street through the arts district.
 - 4 **Universal City** One stop south on the B Line.
-
-**Thinking about North Hollywood?** New North Hollywood listings, off-market homes and lenders for any situation. Or a free value on your North Hollywood home.
-
-What's my home worth? Get North Hollywood listings
-
-Local LA
-
-## Where to eat, drink and go in North Hollywood
-
-See them on the map →
-
-North Hollywood centers on the NoHo Arts District around Lankershim and Magnolia, with small theaters and the B Line subway terminus, plus a deep bench of Thai, Middle Eastern, Latin and barbecue spots across the wider neighborhood.
-
-14 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -409,56 +438,6 @@ Sources for this history
 - [Los Angeles Public Library: Dig Los Angeles, North Hollywood](https://www.lapl.org/news-stories/articles/dig-los-angeles-north-hollywood-amelia-earhart-regional-branch-los-angeles)
 - [PBS SoCal Lost LA: when North Hollywood was Toluca or Lankershim](https://pbssocal.org/shows/lost-la/when-north-hollywood-was-a-town-named-toluca-or-lankershim)
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Apartments and new mid-rise buildings near the station, 1940s bungalows, and entry-level houses in the side neighborhoods.
-
-**Good fit if**
-
-You want a train, a scene and Valley prices.
-
-**Think twice if**
-
-You want leafy, quiet streets.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=north-hollywood&b=valley-village)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -528,7 +507,7 @@ Get new North Hollywood listings as they hit, including ones that aren't public 
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

@@ -30,9 +30,7 @@ Fairfax District · 7 bedrooms · 8 bathrooms · 5,257 sq ft
 
 Now available
 
-## Active
-
-[For sale $4.8M3721 Evans St Los Feliz8 beds, 10 baths, 4,989 sq ft](https://www.nathanielgrivas.com/homes/3721-evans) [Property website: 3721evans.com ↗](https://3721evans.com/)
+## More for sale and lease
 
 [Coming soon $599K5142 Zelzah Ave #26 Encino2 beds, 3 baths, 1,304 sq ft](https://www.compass.com/homedetails/5142-Zelzah-Ave-Unit-26-Encino-CA-91316/1I672I_pid/)
 
@@ -41,8 +39,6 @@ Now available
 Track record
 
 ## Closed
-
-[Sold $3.275M616 N Fuller Ave Fairfax DistrictRepresented buyer & seller](https://www.nathanielgrivas.com/homes/616-fuller)
 
 [Sold $1.155M18748 Lanark St ResedaRepresented seller](https://www.nathanielgrivas.com/homes/18748-lanark)
 

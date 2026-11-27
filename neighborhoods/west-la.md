@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/west-la
 
+## In short
+
+- West LA & Sawtelle is in the City of Los Angeles, ZIP 90025 (region: Westside). Sawtelle Japantown and the Westside's best casual food.
+- Price level: Upper. Good fit if: You want a condo in the middle of the Westside with food you can walk to.
+- West LA & Sawtelle breaks into 3 pockets, mapped street by street: Sawtelle, West LA (405 to Sepulveda), West LA South of Pico.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in West LA & Sawtelle. Call or text 310-269-5541.
+- Free home valuation in West LA & Sawtelle: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # West LA & Sawtelle
 
 Sawtelle Japantown and the Westside's best casual food.
 
 City of LA ZIP 90025 $$$ · Upper
-
-Get West LA & Sawtelle listings What's my West LA & Sawtelle home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ West Los Angeles is the City of LA area between Santa Monica, Brentwood, Westwoo
 - **Good fit if:** You want a condo in the middle of the Westside with food you can walk to.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -60,13 +65,51 @@ Pico Boulevard to National, Bundy Drive to Sepulveda
 
 West LA south of Pico: single-family streets and apartments near the Expo Line and Westside Pavilion.
 
-The map
+Living here
 
-## West LA & Sawtelle, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Apartments and townhome-style condos, with smaller single-family homes south of Olympic. Good condo inventory for first-time buyers.
+
+**Good fit if**
+
+You want a condo in the middle of the Westside with food you can walk to.
+
+**Think twice if**
+
+You want a house with space.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=west-la&b=westwood)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in West LA & Sawtelle
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Sawtelle%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+West LA's heart is Sawtelle Japantown, a few walkable blocks of ramen counters, izakayas, dessert shops and pop-culture stores between Santa Monica and Olympic Boulevards. Around it, Pico and National have some of the Westside's best neighborhood bars.
+
+27 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -74,20 +117,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **Nuart Theatre** Independent movie theater on Santa Monica Blvd.
 - 3 **Stoner Recreation Center** Courts, fields and a skate park.
 - 4 **Metro E Line** Expo/Bundy and Expo/Sepulveda stations.
-
-**Thinking about West LA & Sawtelle?** New West LA & Sawtelle listings, off-market homes and lenders for any situation. Or a free value on your West LA & Sawtelle home.
-
-What's my home worth? Get West LA & Sawtelle listings
-
-Local LA
-
-## Where to eat, drink and go in West LA & Sawtelle
-
-See them on the map →
-
-West LA's heart is Sawtelle Japantown, a few walkable blocks of ramen counters, izakayas, dessert shops and pop-culture stores between Santa Monica and Olympic Boulevards. Around it, Pico and National have some of the Westside's best neighborhood bars.
-
-27 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -591,56 +620,6 @@ Sources for this history
 - [Densho Encyclopedia: Sawtelle/West Los Angeles](https://encyclopedia.densho.org/Sawtelle/West%20Los%20Angeles,%20California)
 - [UCLA Newsroom: How West LA became a haven for Japanese Americans](https://newsroom.ucla.edu/stories/thinking-l-a-how-west-l-a-became-a-haven-for-japanese-americans)
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Apartments and townhome-style condos, with smaller single-family homes south of Olympic. Good condo inventory for first-time buyers.
-
-**Good fit if**
-
-You want a condo in the middle of the Westside with food you can walk to.
-
-**Think twice if**
-
-You want a house with space.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=west-la&b=westwood)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -722,7 +701,7 @@ Get new West LA & Sawtelle listings as they hit, including ones that aren't publ
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

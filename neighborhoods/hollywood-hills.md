@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/hollywood-hills
 
+## In short
+
+- Hollywood Hills is in the City of Los Angeles, ZIPs 90068, 90046, 90069 (region: Beverly Hills & the Hills). City views five minutes from Sunset.
+- Price level: Top of market. Good fit if: You want views and nightlife close by.
+- Hollywood Hills breaks into 15 pockets, mapped street by street: Bird Streets, Sunset Plaza, Hollywood Hills West, Laurel Canyon, Wonderland Park, Mount Olympus, Nichols Canyon, Outpost Estates, Hollywood Heights, Whitley Heights, Cahuenga Pass, Hollywood Dell, Lake Hollywood Estates, Beachwood Canyon, Hollywoodland.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Hollywood Hills. Call or text 310-269-5541.
+- Free home valuation in Hollywood Hills: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Hollywood Hills
 
 City views five minutes from Sunset.
 
 City of LA ZIP 90068, 90046, 90069 $$$$ · Top of market
-
-Get Hollywood Hills listings What's my Hollywood Hills home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ The Hollywood Hills run along the Santa Monica Mountains above Hollywood and Wes
 - **Good fit if:** You want views and nightlife close by.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -279,13 +284,55 @@ Sources for this history
 - [Wikipedia: Blue Jay Way](https://en.wikipedia.org/wiki/Blue_Jay_Way)
 - [LA Street Names: the Bird Streets](https://lastreetnames.com/?p=503)
 
-The map
+Living here
 
-## Hollywood Hills, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Hillside homes on steep lots, from mid-century post-and-beam to new glass boxes. Expect hillside building limits, fire zone insurance, stairs and tight parking.
+
+**Good fit if**
+
+You want views and nightlife close by.
+
+**Think twice if**
+
+You hate stairs, hairpin turns or street parking.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=hollywood-hills&b=west-hollywood)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyThe 90210 homes that pay LA's mansion taxBeverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax. November 25, 2026](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la)
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Down the hill
+
+## Where to eat, drink and go near Hollywood Hills
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Hills%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+The Hollywood Hills rise above Hollywood and West Hollywood along Mulholland Drive and the Laurel and Cahuenga canyons, with music history in Laurel Canyon, a hillside amphitheater and some of the best Hollywood Sign views in town.
+
+18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -294,20 +341,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 3 **Laurel Canyon** The canyon road between Hollywood and Studio City.
 - 4 **The Bird Streets** Hillside streets above the Sunset Strip named after birds.
 - 5 **Hollywood Bowl** Summer concerts under the stars.
-
-**Thinking about Hollywood Hills?** New Hollywood Hills listings, off-market homes and lenders for any situation. Or a free value on your Hollywood Hills home.
-
-What's my home worth? Get Hollywood Hills listings
-
-Down the hill
-
-## Where to eat, drink and go near Hollywood Hills
-
-See them on the map →
-
-The Hollywood Hills rise above Hollywood and West Hollywood along Mulholland Drive and the Laurel and Cahuenga canyons, with music history in Laurel Canyon, a hillside amphitheater and some of the best Hollywood Sign views in town.
-
-18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -597,60 +630,6 @@ Photos
 
 ## Hollywood Hills in pictures
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Hillside homes on steep lots, from mid-century post-and-beam to new glass boxes. Expect hillside building limits, fire zone insurance, stairs and tight parking.
-
-**Good fit if**
-
-You want views and nightlife close by.
-
-**Think twice if**
-
-You hate stairs, hairpin turns or street parking.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=hollywood-hills&b=west-hollywood)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyThe 90210 homes that pay LA's mansion taxBeverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax. November 25, 2026](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la)
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -728,7 +707,7 @@ Get new Hollywood Hills listings as they hit, including ones that aren't public 
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

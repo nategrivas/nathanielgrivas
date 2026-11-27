@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/sherman-oaks
 
+## In short
+
+- Sherman Oaks is in the City of Los Angeles, ZIPs 91403, 91423 (region: Valley). Ventura Boulevard, the Galleria and the 405/101 interchange.
+- Price level: Upper. Good fit if: You work on the Westside and want a Valley house.
+- Sherman Oaks breaks into 5 pockets, mapped street by street: Sherman Oaks South of the 101, Sherman Oaks Northeast, Sherman Oaks Northwest, Sherman Oaks Hills East, Sherman Oaks Hills West.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Sherman Oaks. Call or text 310-269-5541.
+- Free home valuation in Sherman Oaks: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Sherman Oaks
 
 Ventura Boulevard, the Galleria and the 405/101 interchange.
 
 City of LA ZIP 91403, 91423 $$$ · Upper
-
-Get Sherman Oaks listings What's my Sherman Oaks home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Sherman Oaks is a City of LA neighborhood in the south Valley where the 405 meet
 - **Good fit if:** You work on the Westside and want a Valley house.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -72,13 +77,51 @@ South of Ventura Boulevard to Mulholland, toward the 405
 
 The western Sherman Oaks hills: view homes above Ventura Boulevard near the Sepulveda Pass.
 
-The map
+Living here
 
-## Sherman Oaks, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+South of Ventura: hillside and larger homes with views. North of Ventura: ranch homes on flat lots, condos and apartments.
+
+**Good fit if**
+
+You work on the Westside and want a Valley house.
+
+**Think twice if**
+
+You can't stand the 405.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=sherman-oaks&b=studio-city)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Sherman Oaks
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Sherman Oaks has the Valley's busiest stretch of Ventura Boulevard, lined with restaurants, coffee shops and bars from the 405 east toward Studio City, plus easy access to the Santa Monica Mountains to the south.
+
+11 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -86,20 +129,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **Sherman Oaks Galleria** Offices, restaurants and the movie theater.
 - 3 **South of the Boulevard** The hillside streets locals mean when they say it.
 - 4 **The 405** Over the hill to Westwood. Timing is everything.
-
-**Thinking about Sherman Oaks?** New Sherman Oaks listings, off-market homes and lenders for any situation. Or a free value on your Sherman Oaks home.
-
-What's my home worth? Get Sherman Oaks listings
-
-Local LA
-
-## Where to eat, drink and go in Sherman Oaks
-
-See them on the map →
-
-Sherman Oaks has the Valley's busiest stretch of Ventura Boulevard, lined with restaurants, coffee shops and bars from the 405 east toward Studio City, plus easy access to the Santa Monica Mountains to the south.
-
-11 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -356,60 +385,6 @@ Sources for this history
 - [The Sherman Library and Gardens: Moses Sherman](https://thesherman.org/?p=48)
 - [Water and Power Associates: early views of the Valley](https://waterandpower.org/museum/Early_Views_of_the_San_Fernando_Valley_5_of_10.html)
 
-Photos
-
-## Sherman Oaks in pictures
-
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-South of Ventura: hillside and larger homes with views. North of Ventura: ranch homes on flat lots, condos and apartments.
-
-**Good fit if**
-
-You work on the Westside and want a Valley house.
-
-**Think twice if**
-
-You can't stand the 405.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=sherman-oaks&b=studio-city)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -487,7 +462,7 @@ Get new Sherman Oaks listings as they hit, including ones that aren't public yet
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

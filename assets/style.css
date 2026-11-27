@@ -2091,3 +2091,15 @@ textarea.lf-in{padding:14px 16px;min-height:110px;resize:vertical;line-height:1.
 .mt-how a{color:var(--cu-deep);text-decoration:underline}
 @media(max-width:1000px){.mt-cards{grid-template-columns:repeat(2,1fr)}.mt-two{grid-template-columns:1fr}}
 .mt-one{max-width:760px}
+.mt-tease-in{display:grid;grid-template-columns:1.2fr 1.6fr auto;gap:28px;align-items:center;padding:28px 30px;border:1px solid var(--line);background:#fff}
+.mt-tease-in h2{margin:6px 0 0}
+.mt-tease-in dl{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:0}
+.mt-tease-in dt{font:600 10.5px/1.3 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--mute)}
+.mt-tease-in dd{margin:6px 0 0;font:500 30px/1 var(--serif);color:var(--ink)}
+@media(max-width:900px){.mt-tease-in{grid-template-columns:1fr}}
+/* v14 hero deal tag, map inside guide */
+.nb-hdeal{position:absolute;right:16px;bottom:16px;z-index:2;display:flex;gap:8px;align-items:center;max-width:calc(100% - 32px);font:500 12.5px/1.3 var(--sans,inherit);color:#fff;text-decoration:none;background:rgba(0,0,0,.55);backdrop-filter:blur(6px);padding:8px 12px;border-radius:999px}
+.nb-hdeal b{font:600 10.5px var(--mono);letter-spacing:.06em;text-transform:uppercase;background:#fff;color:#111;padding:3px 7px;border-radius:999px}
+.nb-hdeal:hover{background:rgba(0,0,0,.75)}
+.nb-map.nb-map-in{background:none;border:0;margin:6px 0 22px}
+@media(max-width:700px){.nb-hdeal{right:12px;left:12px;bottom:12px;font-size:12px}}

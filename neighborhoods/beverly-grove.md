@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/beverly-grove
 
+## In short
+
+- Beverly Grove is in the City of Los Angeles, ZIP 90048 (region: Central). Third Street, the Beverly Center and Spanish duplexes on every block.
+- Price level: Upper. Good fit if: You want a central, walkable spot, or a duplex to live in and rent out.
+- Beverly Grove breaks into 5 pockets, mapped street by street: Melrose & Beverly Grove North, Burton Way & Cedars, Beverly Grove, Carthay Circle, South Carthay.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Beverly Grove. Call or text 310-269-5541.
+- Free home valuation in Beverly Grove: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Beverly Grove
 
 Third Street, the Beverly Center and Spanish duplexes on every block.
 
 City of LA ZIP 90048 $$$ · Upper
-
-Get Beverly Grove listings What's my Beverly Grove home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Beverly Grove is the City of LA neighborhood between West Hollywood, Beverly Hil
 - **Good fit if:** You want a central, walkable spot, or a duplex to live in and rent out.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -72,13 +77,51 @@ Olympic Boulevard to Pico, La Cienega to Fairfax
 
 South Carthay: a historic district of 1930s Spanish homes on a quiet grid.
 
-The map
+Living here
 
-## Beverly Grove, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+1920s and 1930s Spanish duplexes are the signature, along with single-family homes north of Beverly Boulevard and condos. Duplexes here work for owner-occupants who want rent from the second unit.
+
+**Good fit if**
+
+You want a central, walkable spot, or a duplex to live in and rent out.
+
+**Think twice if**
+
+You want a big backyard.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=beverly-grove&b=fairfax)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Beverly Grove
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Beverly+Grove%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Beverly Grove is one of LA's most restaurant-dense neighborhoods, centered on West 3rd Street and Beverly Boulevard between La Cienega and Fairfax. It's an easy place to walk from coffee to lunch to a long dinner, with the Beverly Center at its west end.
+
+18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -86,20 +129,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **Melrose Place** Short, quiet street of boutiques.
 - 3 **Cedars-Sinai** The medical center and one of the area's biggest employers.
 - 4 **Spanish duplexes** Two units, one lot, and rent that helps pay the mortgage.
-
-**Thinking about Beverly Grove?** New Beverly Grove listings, off-market homes and lenders for any situation. Or a free value on your Beverly Grove home.
-
-What's my home worth? Get Beverly Grove listings
-
-Local LA
-
-## Where to eat, drink and go in Beverly Grove
-
-See them on the map →
-
-Beverly Grove is one of LA's most restaurant-dense neighborhoods, centered on West 3rd Street and Beverly Boulevard between La Cienega and Fairfax. It's an easy place to walk from coffee to lunch to a long dinner, with the Beverly Center at its west end.
-
-18 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -485,56 +514,6 @@ Sources for this history
 - [LAist: the Beverly Grove theme park](https://laist.com/news/entertainment/beverly-grove-park-disney)
 - [Los Angeles Theatres: Gilmore Drive-In](https://losangelestheatres.blogspot.com/2022/02/gilmore-drive-in.html)
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-1920s and 1930s Spanish duplexes are the signature, along with single-family homes north of Beverly Boulevard and condos. Duplexes here work for owner-occupants who want rent from the second unit.
-
-**Good fit if**
-
-You want a central, walkable spot, or a duplex to live in and rent out.
-
-**Think twice if**
-
-You want a big backyard.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=beverly-grove&b=fairfax)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -612,7 +591,7 @@ Get new Beverly Grove listings as they hit, including ones that aren't public ye
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

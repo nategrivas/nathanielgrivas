@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/studio-city
 
+## In short
+
+- Studio City is in the City of Los Angeles, ZIP 91604 (region: Valley). The Valley's most walkable stretch of Ventura Boulevard.
+- Price level: Top of market. Good fit if: You want Valley space with a 15-minute drive to Hollywood.
+- Studio City breaks into 3 pockets, mapped street by street: Studio City Hills, Studio City South Flats, Studio City North Flats.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Studio City. Call or text 310-269-5541.
+- Free home valuation in Studio City: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Studio City
 
 The Valley's most walkable stretch of Ventura Boulevard.
 
 City of LA ZIP 91604 $$$$ · Top of market
-
-Get Studio City listings What's my Studio City home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Studio City is a City of LA neighborhood in the southeast Valley, named for the 
 - **Good fit if:** You want Valley space with a 15-minute drive to Hollywood.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -60,13 +65,51 @@ Moorpark Street to the 101, Fulton Avenue to Lankershim
 
 Studio City's flats north of Moorpark: single-family streets near the LA River path and Colfax Meadows.
 
-The map
+Living here
 
-## Studio City, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+1940s and 1950s homes and new builds on the flats, hillside homes south of Ventura, and condos along the boulevard.
+
+**Good fit if**
+
+You want Valley space with a 15-minute drive to Hollywood.
+
+**Think twice if**
+
+You need to be on the Westside every morning.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=studio-city&b=sherman-oaks)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Studio City
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Studio+City%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Studio City runs along Ventura Boulevard at the foot of the Santa Monica Mountains, with the CBS studio lot, a long strip of sushi bars and neighborhood restaurants, a classic jazz club on Cahuenga and trailheads like Fryman Canyon a few minutes up the hill.
+
+25 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -74,20 +117,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **Tujunga Village** Walkable block of shops and cafes.
 - 3 **Fryman Canyon** Trail up to Mulholland.
 - 4 **CBS Studio Center** The working studio the neighborhood is named for.
-
-**Thinking about Studio City?** New Studio City listings, off-market homes and lenders for any situation. Or a free value on your Studio City home.
-
-What's my home worth? Get Studio City listings
-
-Local LA
-
-## Where to eat, drink and go in Studio City
-
-See them on the map →
-
-Studio City runs along Ventura Boulevard at the foot of the Santa Monica Mountains, with the CBS studio lot, a long strip of sushi bars and neighborhood restaurants, a classic jazz club on Cahuenga and trailheads like Fryman Canyon a few minutes up the hill.
-
-25 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -567,56 +596,6 @@ Sources for this history
 - [Patch: how Mack Sennett created Studio City](https://patch.com/california/studiocity/how-mack-sennett-came-to-the-valley-and-created-studio-city)
 - [ABC7: Netflix buys Radford Studio Center](https://abc7.com/post/netflix-buys-storied-radford-studio-center-city-380-million-variety-reports/20079872/)
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-1940s and 1950s homes and new builds on the flats, hillside homes south of Ventura, and condos along the boulevard.
-
-**Good fit if**
-
-You want Valley space with a 15-minute drive to Hollywood.
-
-**Think twice if**
-
-You need to be on the Westside every morning.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=studio-city&b=sherman-oaks)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -708,7 +687,7 @@ Get new Studio City listings as they hit, including ones that aren't public yet,
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

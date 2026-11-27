@@ -2,13 +2,23 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/reseda
 
+## In short
+
+- Reseda is in the City of Los Angeles, ZIP 91335 (region: Valley). Big flat lots and some of the most attainable houses in the City of LA.
+- Price level: Most attainable. Good fit if: You want a real yard and the most house for the money inside the City of LA.
+- Reseda breaks into 2 pockets, mapped street by street: Reseda South, Reseda North.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Reseda. Call or text 310-269-5541.
+- His Reseda deal: 18748 Lanark St (sold, $1.155M, represented the seller)
+- Free home valuation in Reseda: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Reseda
 
 Big flat lots and some of the most attainable houses in the City of LA.
 
 City of LA ZIP 91335 $ · Most attainable
 
-Get Reseda listings What's my Reseda home worth?
+[Sold18748 Lanark St · Represented seller →](https://www.nathanielgrivas.com/homes/18748-lanark)
 
 What it’s like
 
@@ -32,8 +42,6 @@ Reseda is a City of LA neighborhood in the west-central Valley, north of Tarzana
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
 
-Call Text
-
 Block by block
 
 ## The pockets of Reseda
@@ -54,13 +62,51 @@ Sherman Way to Roscoe, White Oak to Corbin
 
 North Reseda: single-family streets and some apartments toward Northridge.
 
-The map
+Living here
 
-## Reseda, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+1950s ranch homes on lots of 6,000 to 8,000 square feet. Strong ADU and expansion potential, and some of the best price per square foot of land in the city.
+
+**Good fit if**
+
+You want a real yard and the most house for the money inside the City of LA.
+
+**Think twice if**
+
+You want walkability.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=reseda&b=tarzana)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Reseda
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Reseda%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Reseda sits in the heart of the west Valley along Sherman Way and Reseda Boulevard, with some of the Valley's best family-run Vietnamese and Lebanese cooking in its strip malls.
+
+6 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -68,20 +114,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **Sherman Way** The main commercial street.
 - 3 **Big lots** Room for an ADU, a pool or both.
 - 4 **Close to Tarzana** Ventura Blvd is a few minutes south.
-
-**Thinking about Reseda?** New Reseda listings, off-market homes and lenders for any situation. Or a free value on your Reseda home.
-
-What's my home worth? Get Reseda listings
-
-Local LA
-
-## Where to eat, drink and go in Reseda
-
-See them on the map →
-
-Reseda sits in the heart of the west Valley along Sherman Way and Reseda Boulevard, with some of the Valley's best family-run Vietnamese and Lebanese cooking in its strip malls.
-
-6 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -276,64 +308,6 @@ Sources for this history
 - [Water and Power Associates: Valley name origins](https://waterandpower.org/museum/Community_Name_Origins_SFV.html)
 - [Wikipedia: 1994 Northridge earthquake](https://en.wikipedia.org/wiki/1994_Northridge_earthquake)
 
-Track record
-
-## Nathaniel's deals in Reseda
-
-[All listings →](https://www.nathanielgrivas.com/listings)
-
-[Sold $1.155M18748 Lanark St ResedaRepresented seller](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-1950s ranch homes on lots of 6,000 to 8,000 square feet. Strong ADU and expansion potential, and some of the best price per square foot of land in the city.
-
-**Good fit if**
-
-You want a real yard and the most house for the money inside the City of LA.
-
-**Think twice if**
-
-You want walkability.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=reseda&b=tarzana)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -407,7 +381,7 @@ Get new Reseda listings as they hit, including ones that aren't public yet, or f
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

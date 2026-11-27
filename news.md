@@ -184,7 +184,7 @@ Sources: [Daily Bruin](https://dailybruin.com/2026/11/15/la-voters-set-to-approv
 
 [Westchester Who designed the LAX Theme Building? A team of architects that included Paul R. Williams. It opened in 1961. Read the full story →](https://www.nathanielgrivas.com/neighborhoods/westchester/#history) [Beverly Grove What was on the site of CBS Television City? Gilmore Stadium, home of midget-car racing and football from 1934 to 1952. Read the full story →](https://www.nathanielgrivas.com/neighborhoods/beverly-grove/#history) [Beverly Hills Post Office Who lived at Falcon Lair? Rudolph Valentino bought it in 1925 and named it after his unmade film The Hooded Falcon. The original house was later torn down. Read the full story →](https://www.nathanielgrivas.com/neighborhoods/bhpo/#history)
 
-The Local LA Ledger is written by Nathaniel Grivas, REALTOR® with The Brodsky Group at Compass Beverly Hills, from public reporting. Facts only: no endorsements, no predictions, and every story links to its sources so you can read them yourself. See something wrong? Email me and I’ll fix it.
+The Local LA Ledger is written by Nathaniel Grivas, REALTOR® with The Brodsky Group at Compass Beverly Hills, from public reporting. Facts only: no endorsements, no predictions, and every story links to its sources so you can read them yourself. See something wrong? Email Nathaniel and he’ll fix it.
 
 ---
 

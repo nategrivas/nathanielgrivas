@@ -75,45 +75,13 @@ Reviews
 
 **Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
 
-What you get
-
-## One call. The whole network.
-
-Buying, selling or investing, you get more than an agent. You get every resource it takes to close, on any deal, however complicated.
-
-### Off-market and coming-soon homes
-
-Compass Private Exclusives and The Brodsky Group's off-market list. Many of the best homes trade before they ever reach Zillow.
-
-### Lenders for every kind of buyer
-
-Conventional and jumbo, plus bank-statement loans for the self-employed and DSCR loans for investors. Lenders who approve buyers the big banks pass on.
-
-### Creative deal structures
-
-Seller financing, leasebacks, assignments and 1031 exchanges, structured so every side is protected.
-
-### Developers and builders
-
-Land plays, teardowns and ADUs, priced on what can be built, not only on what stands there now.
-
-### The right people for every step
-
-Inspectors, contractors, architects, escrow, title, 1031 and tax pros. One call and Nathaniel brings in whoever you need.
-
-### Complicated is fine
-
-Trusts, estates, tenants, six owners on one title, additions without permits. Bring it to Nathaniel and he'll figure it out.
-
-[What's my home worth?](https://www.nathanielgrivas.com/home-value) [Find me a home](https://www.nathanielgrivas.com/buy) Call 310-269-5541
-
 Questions
 
 ## Home value questions
 
 How is this different from a Zestimate?
 
-Nathaniel builds your number by hand from the most recent sales near you, then adjust for what algorithms can't see: your upgrades, your condition, your lot and your street. You get a range and the sales behind it.
+Nathaniel builds your number by hand from the most recent sales near you, then adjusts for what algorithms can't see: your upgrades, your condition, your lot and your street. You get a range and the sales behind it.
 
 Does it cost anything?
 

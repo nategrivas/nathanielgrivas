@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/brentwood
 
+## In short
+
+- Brentwood is in the City of Los Angeles, ZIP 90049 (region: Westside). Big lots, big trees, and the San Vicente coral trees.
+- Price level: Top of market. Good fit if: You want space, trees and a quiet street close to the beach.
+- Brentwood breaks into 12 pockets, mapped street by street: Brentwood Park, Brentwood Park North of Sunset, Brentwood Flats & Village, Brentwood Glen, Brentwood Terrace, South Brentwood, San Vicente Condo Corridor, Mandeville Canyon, Kenter Canyon & Crestwood Hills, Bundy Canyon, Tigertail, Brentwood Heights.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Brentwood. Call or text 310-269-5541.
+- Free home valuation in Brentwood: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Brentwood
 
 Big lots, big trees, and the San Vicente coral trees.
 
 City of LA ZIP 90049 $$$$ · Top of market
-
-Get Brentwood listings What's my Brentwood home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Brentwood is a City of LA neighborhood west of the 405, running from the Wilshir
 - **Good fit if:** You want space, trees and a quiet street close to the beach.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -254,13 +259,55 @@ Sources for this history
 - [Westside Today: Brentwood's coral trees](https://westsidetoday.com/?p=115827)
 - [Wikipedia: Historic-Cultural Monuments on the Westside](https://en.wikipedia.org/wiki/List_of_Los_Angeles_Historic-Cultural_Monuments_on_the_Westside)
 
-The map
+Living here
 
-## Brentwood, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Large homes and estates in Brentwood Park and north of Sunset, canyon homes in Mandeville and Kenter, and condos near San Vicente and Barrington south of Sunset.
+
+**Good fit if**
+
+You want space, trees and a quiet street close to the beach.
+
+**Think twice if**
+
+You want a bargain.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=brentwood&b=pacific-palisades)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyProp TE: Palisades fire sellers can skip LA's mansion taxLA voters approved Proposition TE. Who qualifies, what it saves on a $6M sale, and who still pays Measure ULA in the Palisades. November 25, 2026](https://www.nathanielgrivas.com/guide/prop-te-palisades-mansion-tax-exemption)
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Brentwood
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Brentwood%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Brentwood's center is San Vicente Boulevard, a coral-tree-lined median with a run of cafes and Italian restaurants, plus Barrington Court just off it. The Getty sits on the hill above, the Country Mart anchors the west end, and the trails up Mandeville Canyon start a few minutes away.
+
+26 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -269,20 +316,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 3 **Brentwood Village** Shops and restaurants on Barrington Court.
 - 4 **The Getty Center** Museum and gardens on the hill above the 405.
 - 5 **Mandeville Canyon** Long canyon road of private homes and horse properties.
-
-**Thinking about Brentwood?** New Brentwood listings, off-market homes and lenders for any situation. Or a free value on your Brentwood home.
-
-What's my home worth? Get Brentwood listings
-
-Local LA
-
-## Where to eat, drink and go in Brentwood
-
-See them on the map →
-
-Brentwood's center is San Vicente Boulevard, a coral-tree-lined median with a run of cafes and Italian restaurants, plus Barrington Court just off it. The Getty sits on the hill above, the Country Mart anchors the west end, and the trails up Mandeville Canyon start a few minutes away.
-
-26 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -688,60 +721,6 @@ Photos
 
 ## Brentwood in pictures
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Large homes and estates in Brentwood Park and north of Sunset, canyon homes in Mandeville and Kenter, and condos near San Vicente and Barrington south of Sunset.
-
-**Good fit if**
-
-You want space, trees and a quiet street close to the beach.
-
-**Think twice if**
-
-You want a bargain.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=brentwood&b=pacific-palisades)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyProp TE: Palisades fire sellers can skip LA's mansion taxLA voters approved Proposition TE. Who qualifies, what it saves on a $6M sale, and who still pays Measure ULA in the Palisades. November 25, 2026](https://www.nathanielgrivas.com/guide/prop-te-palisades-mansion-tax-exemption)
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -819,7 +798,7 @@ Get new Brentwood listings as they hit, including ones that aren't public yet, o
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

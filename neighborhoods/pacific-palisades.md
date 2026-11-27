@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/pacific-palisades
 
+## In short
+
+- Pacific Palisades is in the City of Los Angeles, ZIP 90272 (region: Coast). A beach town in the hills, rebuilding after the January 2025 fire.
+- Price level: Top of market. Good fit if: You want space, the coast and a long-term hold, and you're comfortable buying into a rebuild.
+- Pacific Palisades breaks into 14 pockets, mapped street by street: Castellammare, Paseo Miramar, Palisades Highlands, Marquez Knolls, Upper Bienveneda & El Medio, Alphabet Streets, Upper Riviera, El Medio Bluffs, Via Bluffs, The Village, The Huntington, Lower Riviera, Rustic Canyon, Santa Monica Canyon.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Pacific Palisades. Call or text 310-269-5541.
+- Free home valuation in Pacific Palisades: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Pacific Palisades
 
 A beach town in the hills, rebuilding after the January 2025 fire.
 
 City of LA ZIP 90272 $$$$ · Top of market
-
-Get Pacific Palisades listings What's my Pacific Palisades home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Pacific Palisades is part of the City of LA, between Santa Monica and Malibu. Th
 - **Good fit if:** You want space, the coast and a long-term hold, and you're comfortable buying into a rebuild.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -262,13 +267,55 @@ Sources for this history
 - [LA County: Eaton and Palisades fires fact sheet](https://file.lacounty.gov/SDSInter/lac/1199046_Eaton_Palisades_Fires_Anniversary_Fact_Sheet.pdf)
 - [NBC Los Angeles: Palisades arson trial verdict](https://www.nbclosangeles.com/news/local/palisades-arson-trial-jonathan-rinderknecht/3972494/)
 
-The map
+Living here
 
-## Pacific Palisades, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Single-family homes and estates, with many lots now in rebuild. Buyers are looking at lots, rebuild plans and permits. In November 2026, LA voters approved Proposition TE, which exempts many fire-damaged homes sold by their January 2025 owners within five years from the ULA tax.
+
+**Good fit if**
+
+You want space, the coast and a long-term hold, and you're comfortable buying into a rebuild.
+
+**Think twice if**
+
+You need a finished neighborhood and everyday services right now.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=pacific-palisades&b=brentwood)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyProp TE: Palisades fire sellers can skip LA's mansion taxLA voters approved Proposition TE. Who qualifies, what it saves on a $6M sale, and who still pays Measure ULA in the Palisades. November 25, 2026](https://www.nathanielgrivas.com/guide/prop-te-palisades-mansion-tax-exemption)
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Local LA
+
+## Where to eat, drink and go in Pacific Palisades
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Pacific Palisades is rebuilding after the January 2025 Palisades Fire. Palisades Village reopened in August 2026 after a $100 million restoration, and a growing list of local restaurants, shops and trails are open again. This guide lists only places confirmed open, and it grows as more return.
+
+17 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -277,20 +324,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 3 **Will Rogers State Beach** Long beach below the bluffs along PCH.
 - 4 **Proposition TE** The 2026 ULA exemption for fire-damaged homes. Rules on the transfer tax page.
 - 5 **Rebuild permits** Check a lot's permit status before you price it.
-
-**Thinking about Pacific Palisades?** New Pacific Palisades listings, off-market homes and lenders for any situation. Or a free value on your Pacific Palisades home.
-
-What's my home worth? Get Pacific Palisades listings
-
-Local LA
-
-## Where to eat, drink and go in Pacific Palisades
-
-See them on the map →
-
-Pacific Palisades is rebuilding after the January 2025 Palisades Fire. Palisades Village reopened in August 2026 after a $100 million restoration, and a growing list of local restaurants, shops and trails are open again. This guide lists only places confirmed open, and it grows as more return.
-
-17 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -565,64 +598,6 @@ Sources
 - [LAist: Fire-affected restaurants open and closed in Malibu and the Palisades](https://laist.com/news/food/malibu-palisades-fire-restaurants-status-one-year-anniversary)
 - [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Pacific+Palisades+CA)
 
-Photos
-
-## Pacific Palisades in pictures
-
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Single-family homes and estates, with many lots now in rebuild. Buyers are looking at lots, rebuild plans and permits. In November 2026, LA voters approved Proposition TE, which exempts many fire-damaged homes sold by their January 2025 owners within five years from the ULA tax.
-
-**Good fit if**
-
-You want space, the coast and a long-term hold, and you're comfortable buying into a rebuild.
-
-**Think twice if**
-
-You need a finished neighborhood and everyday services right now.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=pacific-palisades&b=brentwood)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyProp TE: Palisades fire sellers can skip LA's mansion taxLA voters approved Proposition TE. Who qualifies, what it saves on a $6M sale, and who still pays Measure ULA in the Palisades. November 25, 2026](https://www.nathanielgrivas.com/guide/prop-te-palisades-mansion-tax-exemption)
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -692,7 +667,7 @@ Get new Pacific Palisades listings as they hit, including ones that aren't publi
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

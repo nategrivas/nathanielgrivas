@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/marina-del-rey
 
+## In short
+
+- Marina del Rey is in the Unincorporated LA County, ZIP 90292 (region: Coast). Boats, high-rises and the bike path, run by the county.
+- Price level: Upper. Good fit if: You want water views, the bike path and an easy condo lifestyle.
+- Marina del Rey breaks into 3 pockets, mapped street by street: Marina Peninsula, Silver Strand, Marina del Rey Harbor.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Marina del Rey. Call or text 310-269-5541.
+- Free home valuation in Marina del Rey: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Marina del Rey
 
 Boats, high-rises and the bike path, run by the county.
 
 LA County ZIP 90292 $$$ · Upper
-
-Get Marina del Rey listings What's my Marina del Rey home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Marina del Rey is unincorporated LA County, built around a small-craft harbor th
 - **Good fit if:** You want water views, the bike path and an easy condo lifestyle.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -60,13 +65,45 @@ The marina's moles and Admiralty Way
 
 Marina del Rey Harbor: high-rise and mid-rise apartments and condos on the moles around the small-craft harbor.
 
-The map
+Living here
 
-## Marina del Rey, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Mostly apartments and condo towers. Many condos are leasehold, so the length of the ground lease affects financing and value. Ask about the lease term before you fall in love with the view.
+
+**Good fit if**
+
+You want water views, the bike path and an easy condo lifestyle.
+
+**Think twice if**
+
+You want to own your land outright or have a yard.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=la-county) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=marina-del-rey&b=venice)
+
+The rules here
+
+- **Jurisdiction:** Unincorporated LA County
+- **Transfer tax:** 0.11% county only
+- **Measure ULA:** No No
+- **Rent control:** LA County's rent stabilization ordinance covers most apartments built before February 1, 1995
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=la-county) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+Local LA
+
+## Where to eat, drink and go in Marina del Rey
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Marina del Rey wraps around North America's largest man-made small-craft harbor, with waterfront restaurants, a calm swimming beach and a bike path that runs to Venice and Playa del Rey. The best food is often a block off the water, along Washington Boulevard and in the strip malls inland.
+
+20 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -74,20 +111,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **The main channel** Walk or bike out to the jetty at the harbor mouth.
 - 3 **Fisherman's Village** Harbor-front shops and boat tours.
 - 4 **Ground leases** Most land is county-owned. Check the lease term on any condo.
-
-**Thinking about Marina del Rey?** New Marina del Rey listings, off-market homes and lenders for any situation. Or a free value on your Marina del Rey home.
-
-What's my home worth? Get Marina del Rey listings
-
-Local LA
-
-## Where to eat, drink and go in Marina del Rey
-
-See them on the map →
-
-Marina del Rey wraps around North America's largest man-made small-craft harbor, with waterfront restaurants, a calm swimming beach and a bike path that runs to Venice and Playa del Rey. The best food is often a block off the water, along Washington Boulevard and in the strip malls inland.
-
-20 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -501,50 +524,6 @@ Photos
 
 ## Marina del Rey in pictures
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Mostly apartments and condo towers. Many condos are leasehold, so the length of the ground lease affects financing and value. Ask about the lease term before you fall in love with the view.
-
-**Good fit if**
-
-You want water views, the bike path and an easy condo lifestyle.
-
-**Think twice if**
-
-You want to own your land outright or have a yard.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=la-county) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=marina-del-rey&b=venice)
-
-The rules here
-
-- **Jurisdiction:** Unincorporated LA County
-- **Transfer tax:** 0.11% county only
-- **Measure ULA:** No No
-- **Rent control:** LA County's rent stabilization ordinance covers most apartments built before February 1, 1995
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=la-county) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -632,7 +611,7 @@ Get new Marina del Rey listings as they hit, including ones that aren't public y
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

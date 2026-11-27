@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/cheviot-hills
 
+## In short
+
+- Cheviot Hills & Rancho Park is in the City of Los Angeles, ZIP 90064 (region: Westside). Curving streets next to the best public park on the Westside.
+- Price level: Top of market. Good fit if: You want a quiet residential street with a big public park in walking distance.
+- Cheviot Hills & Rancho Park breaks into 2 pockets, mapped street by street: Rancho Park, Cheviot Hills.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Cheviot Hills & Rancho Park. Call or text 310-269-5541.
+- Free home valuation in Cheviot Hills & Rancho Park: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Cheviot Hills & Rancho Park
 
 Curving streets next to the best public park on the Westside.
 
 City of LA ZIP 90064 $$$$ · Top of market
-
-Get Cheviot Hills & Rancho Park listings What's my Cheviot Hills & Rancho Park home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Cheviot Hills and Rancho Park are City of LA neighborhoods between Century City,
 - **Good fit if:** You want a quiet residential street with a big public park in walking distance.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -155,13 +160,51 @@ Sources for this history
 - [Wikipedia: Rancho Park Golf Course](https://en.wikipedia.org/wiki/Rancho_Park_Golf_Course)
 - [Historical Marker Database: Arnold Palmer took a 12 on this hole](https://www.hmdb.org/m.asp?m=170232)
 
-The map
+Living here
 
-## Cheviot Hills & Rancho Park, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+1930s and 1940s traditional homes on larger lots in Cheviot Hills, smaller homes in Rancho Park, and steady teardown and new-build activity.
+
+**Good fit if**
+
+You want a quiet residential street with a big public park in walking distance.
+
+**Think twice if**
+
+You want nightlife.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=cheviot-hills&b=century-city)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Down the hill
+
+## Where to eat, drink and go near Cheviot Hills & Rancho Park
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Cheviot Hills is a quiet, green neighborhood of winding streets between Century City and Culver City, anchored by its big recreation center and the Rancho Park golf course, with neighborhood restaurants along Pico Boulevard nearby.
+
+12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -169,20 +212,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **Rancho Park Golf Course** Municipal course that once hosted the LA Open.
 - 3 **Motor Avenue** The main street through the neighborhood.
 - 4 **Westwood/Rancho Park station** Metro E Line on the north edge.
-
-**Thinking about Cheviot Hills & Rancho Park?** New Cheviot Hills & Rancho Park listings, off-market homes and lenders for any situation. Or a free value on your Cheviot Hills & Rancho Park home.
-
-What's my home worth? Get Cheviot Hills & Rancho Park listings
-
-Down the hill
-
-## Where to eat, drink and go near Cheviot Hills & Rancho Park
-
-See them on the map →
-
-Cheviot Hills is a quiet, green neighborhood of winding streets between Century City and Culver City, anchored by its big recreation center and the Rancho Park golf course, with neighborhood restaurants along Pico Boulevard nearby.
-
-12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -376,56 +405,6 @@ Sources
 
 - [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Los+Angeles+CA)
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-1930s and 1940s traditional homes on larger lots in Cheviot Hills, smaller homes in Rancho Park, and steady teardown and new-build activity.
-
-**Good fit if**
-
-You want a quiet residential street with a big public park in walking distance.
-
-**Think twice if**
-
-You want nightlife.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=cheviot-hills&b=century-city)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -503,7 +482,7 @@ Get new Cheviot Hills & Rancho Park listings as they hit, including ones that ar
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/bel-air
 
+## In short
+
+- Bel Air is in the City of Los Angeles, ZIP 90077 (region: Beverly Hills & the Hills). Gated entrances, estate lots and the biggest houses in LA.
+- Price level: Top of market. Good fit if: You want maximum privacy and land close to the Westside.
+- Bel Air breaks into 6 pockets, mapped street by street: East Gate Old Bel Air, West Gate Bel Air, Upper Bel Air, Roscomare Valley & Bel Air Crest, Beverly Glen, Holmby Hills.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Bel Air. Call or text 310-269-5541.
+- Free home valuation in Bel Air: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Bel Air
 
 Gated entrances, estate lots and the biggest houses in LA.
 
 City of LA ZIP 90077 $$$$ · Top of market
-
-Get Bel Air listings What's my Bel Air home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Bel Air is a City of LA hillside neighborhood north of UCLA, founded by Alphonzo
 - **Good fit if:** You want maximum privacy and land close to the Westside.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -203,13 +208,55 @@ Sources for this history
 - [PCAD: Hotel Bel-Air](https://pcad.lib.washington.edu/building/676)
 - [LA City Planning: SurveyLA Bel Air-Beverly Crest](https://planning.lacity.gov/odocument/8653ceb3-0d57-4e95-8659-cf0a867bbc26/Final_Survey_Report_-_Bel_Air-Beverly_Crest_HPLAEdit.pdf)
 
-The map
+Living here
 
-## Bel Air, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Estates, hillside view homes and new spec mansions. Hillside building rules cap size, and because most sales here clear $5.4M, Measure ULA hits a large share of them.
+
+**Good fit if**
+
+You want maximum privacy and land close to the Westside.
+
+**Think twice if**
+
+You want a neighborhood you can walk.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=bel-air&b=bhpo)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyThe 90210 homes that pay LA's mansion taxBeverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax. November 25, 2026](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la)
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Down the hill
+
+## Where to eat, drink and go near Bel Air
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Bel+Air%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Bel Air is a quiet, gated hillside enclave of winding canyon roads north of Sunset, home to the storied Hotel Bel-Air, with a small village of shops at Beverly Glen Circle up the canyon.
+
+9 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -217,20 +264,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **Hotel Bel-Air** The hotel on Stone Canyon Road.
 - 3 **Bel-Air Country Club** Private club along the canyon floor.
 - 4 **Measure ULA** Most Bel Air sales land in the tax. Run the numbers before pricing.
-
-**Thinking about Bel Air?** New Bel Air listings, off-market homes and lenders for any situation. Or a free value on your Bel Air home.
-
-What's my home worth? Get Bel Air listings
-
-Down the hill
-
-## Where to eat, drink and go near Bel Air
-
-See them on the map →
-
-Bel Air is a quiet, gated hillside enclave of winding canyon roads north of Sunset, home to the storied Hotel Bel-Air, with a small village of shops at Beverly Glen Circle up the canyon.
-
-9 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -378,60 +411,6 @@ Sources
 
 - [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Bel+Air+Los+Angeles+CA)
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Estates, hillside view homes and new spec mansions. Hillside building rules cap size, and because most sales here clear $5.4M, Measure ULA hits a large share of them.
-
-**Good fit if**
-
-You want maximum privacy and land close to the Westside.
-
-**Think twice if**
-
-You want a neighborhood you can walk.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=bel-air&b=bhpo)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyThe 90210 homes that pay LA's mansion taxBeverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax. November 25, 2026](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la)
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -513,7 +492,7 @@ Get new Bel Air listings as they hit, including ones that aren't public yet, or 
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

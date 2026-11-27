@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/beverly-hills
 
+## In short
+
+- Beverly Hills is in the City of Beverly Hills, ZIPs 90210, 90211, 90212 (region: Beverly Hills & the Hills). Its own city, its own schools, its own police, and the Flats.
+- Price level: Top of market. Good fit if: You want city services, walkable shopping and a famous address.
+- Beverly Hills breaks into 6 pockets, mapped street by street: Beverly Hills Flats, Golden Triangle, East Beverly Hills, Beverly Hills South of Wilshire, Trousdale Estates, Beverly Hills North of Sunset.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Beverly Hills. Call or text 310-269-5541.
+- Free home valuation in Beverly Hills: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Beverly Hills
 
 Its own city, its own schools, its own police, and the Flats.
 
 Beverly Hills ZIP 90210, 90211, 90212 $$$$ · Top of market
-
-Get Beverly Hills listings What's my Beverly Hills home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Beverly Hills is an independent city of about 5.7 square miles surrounded by Los
 - **Good fit if:** You want city services, walkable shopping and a famous address.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -230,13 +235,51 @@ Sources for this history
 - [Wikipedia: Trousdale Estates](https://en.wikipedia.org/wiki/Trousdale_Estates)
 - [Dorchester Collection: the Beverly Hills Hotel](https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/about)
 
-The map
+Living here
 
-## Beverly Hills, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Large homes in the Flats, hillside view homes in Trousdale and above Sunset, and duplexes, apartments and condos south of Wilshire. The city does not charge its own transfer tax, so sellers pay only the county's 0.11%.
+
+**Good fit if**
+
+You want city services, walkable shopping and a famous address.
+
+**Think twice if**
+
+You assume every 90210 address is in Beverly Hills. Many aren't.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=beverly-hills) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=beverly-hills&b=bhpo)
+
+The rules here
+
+- **Jurisdiction:** City of Beverly Hills
+- **Transfer tax:** 0.11% county only
+- **Measure ULA:** No No
+- **Rent control:** Beverly Hills rent stabilization covers most multi-family rentals
+- **Public schools:** Beverly Hills Unified (BHUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=beverly-hills) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyThe 90210 homes that pay LA's mansion taxBeverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax. November 25, 2026](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la)
+
+Local LA
+
+## Where to eat, drink and go in Beverly Hills
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Beverly+Hills%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Beverly Hills does the classics well: power-lunch rooms, old Hollywood martinis, serious omakase and some of the best sandwiches in LA. Between meals there are mansions, gardens and galleries within a few blocks of Rodeo.
+
+33 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -245,20 +288,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 3 **Greystone Mansion** Historic estate and public gardens.
 - 4 **Trousdale Estates** Mid-century hillside homes with city views.
 - 5 **Beverly Hills Unified** The city's own school district.
-
-**Thinking about Beverly Hills?** New Beverly Hills listings, off-market homes and lenders for any situation. Or a free value on your Beverly Hills home.
-
-What's my home worth? Get Beverly Hills listings
-
-Local LA
-
-## Where to eat, drink and go in Beverly Hills
-
-See them on the map →
-
-Beverly Hills does the classics well: power-lunch rooms, old Hollywood martinis, serious omakase and some of the best sandwiches in LA. Between meals there are mansions, gardens and galleries within a few blocks of Rodeo.
-
-33 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -771,56 +800,6 @@ Photos
 
 ## Beverly Hills in pictures
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Large homes in the Flats, hillside view homes in Trousdale and above Sunset, and duplexes, apartments and condos south of Wilshire. The city does not charge its own transfer tax, so sellers pay only the county's 0.11%.
-
-**Good fit if**
-
-You want city services, walkable shopping and a famous address.
-
-**Think twice if**
-
-You assume every 90210 address is in Beverly Hills. Many aren't.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=beverly-hills) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=beverly-hills&b=bhpo)
-
-The rules here
-
-- **Jurisdiction:** City of Beverly Hills
-- **Transfer tax:** 0.11% county only
-- **Measure ULA:** No No
-- **Rent control:** Beverly Hills rent stabilization covers most multi-family rentals
-- **Public schools:** Beverly Hills Unified (BHUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=beverly-hills) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyThe 90210 homes that pay LA's mansion taxBeverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax. November 25, 2026](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -902,7 +881,7 @@ Get new Beverly Hills listings as they hit, including ones that aren't public ye
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 

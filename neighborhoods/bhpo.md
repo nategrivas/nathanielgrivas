@@ -2,13 +2,20 @@
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/bhpo
 
+## In short
+
+- Beverly Hills Post Office is in the City of Los Angeles, ZIP 90210 (region: Beverly Hills & the Hills). A 90210 address in the City of LA. Canyons, views and privacy.
+- Price level: Top of market. Good fit if: You want privacy and views 10 minutes from Beverly Hills.
+- Beverly Hills Post Office breaks into 6 pockets, mapped street by street: Benedict Canyon, Franklin Canyon & Upper Beverly Drive, Coldwater Canyon, Beverly Park, Summitridge, Doheny Estates & La Collina.
+- Local real estate agent: Nathaniel Grivas, REALTOR® (California DRE #02410660) with The Brodsky Group at Compass Beverly Hills, buys, sells and leases homes in Beverly Hills Post Office. Call or text 310-269-5541.
+- Free home valuation in Beverly Hills Post Office: https://www.nathanielgrivas.com/home-value
+- This week's market by region: https://www.nathanielgrivas.com/market-temperature
+
 # Beverly Hills Post Office
 
 A 90210 address in the City of LA. Canyons, views and privacy.
 
 City of LA ZIP 90210 $$$$ · Top of market
-
-Get Beverly Hills Post Office listings What's my Beverly Hills Post Office home worth?
 
 What it’s like
 
@@ -31,8 +38,6 @@ Beverly Hills Post Office, or BHPO, is the hillside area above Beverly Hills tha
 - **Good fit if:** You want privacy and views 10 minutes from Beverly Hills.
 
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [Google reviews ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-Call Text
 
 Block by block
 
@@ -202,13 +207,55 @@ Sources for this history
 - [Wikipedia: Falcon Lair](https://en.wikipedia.org/wiki/Falcon_Lair)
 - [City of Beverly Hills: the three canyons](https://beverlyhills.org/citymanager/aboutbeverlyhills/historyofbeverlyhills/)
 
-The map
+Living here
 
-## Beverly Hills Post Office, mapped
+## The homes, the rules and who it fits
+
+### The housing
+
+Hillside homes and view lots. LA's Baseline Hillside Ordinance limits how big you can build, and most of the area is in a high fire hazard zone, which affects insurance.
+
+**Good fit if**
+
+You want privacy and views 10 minutes from Beverly Hills.
+
+**Think twice if**
+
+You want to walk anywhere, or you assumed 90210 means Beverly Hills schools.
+
+Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=bhpo&b=beverly-hills)
+
+The rules here
+
+- **Jurisdiction:** City of Los Angeles
+- **Transfer tax:** 0.45% city + 0.11% county
+- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
+- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
+- **Public schools:** Los Angeles Unified (LAUSD)
+
+[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
+
+Rules have exemptions. Confirm for a specific address.
+
+### Read before you buy here
+
+###
+
+[Laws & MoneyThe 90210 homes that pay LA's mansion taxBeverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax. November 25, 2026](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la)
+
+###
+
+[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
+
+Down the hill
+
+## Where to eat, drink and go near Beverly Hills Post Office
 
 [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Beverly+Crest%2C+Los+Angeles%2C+CA)
 
-Every place in the guide below, pinned. Tap a pin for the short version, or filter by what you're in the mood for.
+Beverly Hills Post Office is the hillside area above the city of Beverly Hills, covering Benedict, Coldwater and Franklin canyons. It is mostly residential, with some of the best quick escapes into nature on the Westside.
+
+12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 ### Spots to know
 
@@ -216,20 +263,6 @@ Every place in the guide below, pinned. Tap a pin for the short version, or filt
 - 2 **Benedict Canyon** Winding canyon of private homes.
 - 3 **Franklin Canyon Park** Lake, trails and a quiet morning hike.
 - 4 **City of LA rules** ULA, LA's 0.45% transfer tax and LAUSD apply, despite the 90210 ZIP.
-
-**Thinking about Beverly Hills Post Office?** New Beverly Hills Post Office listings, off-market homes and lenders for any situation. Or a free value on your Beverly Hills Post Office home.
-
-What's my home worth? Get Beverly Hills Post Office listings
-
-Down the hill
-
-## Where to eat, drink and go near Beverly Hills Post Office
-
-See them on the map →
-
-Beverly Hills Post Office is the hillside area above the city of Beverly Hills, covering Benedict, Coldwater and Franklin canyons. It is mostly residential, with some of the best quick escapes into nature on the Westside.
-
-12 hand-picked places · Updated 2026-11-26 · Picked from critic reviews and real-people ratings, written in plain English
 
 Eat
 
@@ -423,60 +456,6 @@ Sources
 
 - [Google Maps reviews (local favorites Nathaniel checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Hills+Post+Office+CA)
 
-Living here
-
-## The homes, the rules and who it fits
-
-### The housing
-
-Hillside homes and view lots. LA's Baseline Hillside Ordinance limits how big you can build, and most of the area is in a high fire hazard zone, which affects insurance.
-
-**Good fit if**
-
-You want privacy and views 10 minutes from Beverly Hills.
-
-**Think twice if**
-
-You want to walk anywhere, or you assumed 90210 means Beverly Hills schools.
-
-Run the numbers [Mortgage](https://www.nathanielgrivas.com/tools/mortgage) [Rent vs buy](https://www.nathanielgrivas.com/tools/rent-vs-buy) [Transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare](https://www.nathanielgrivas.com/tools/compare/?a=bhpo&b=beverly-hills)
-
-The rules here
-
-- **Jurisdiction:** City of Los Angeles
-- **Transfer tax:** 0.45% city + 0.11% county
-- **Measure ULA:** Applies Yes. 4% of the full price over $5.4M, 5.5% at $10.9M and up (2026 thresholds)
-- **Rent control:** LA's Rent Stabilization Ordinance covers most apartments in buildings built before October 1, 1978
-- **Public schools:** Los Angeles Unified (LAUSD)
-
-[Run the transfer tax](https://www.nathanielgrivas.com/tools/transfer-tax/?city=los-angeles) [Compare cities](https://www.nathanielgrivas.com/tools/la-rules)
-
-Rules have exemptions. Confirm for a specific address.
-
-### Read before you buy here
-
-###
-
-[Laws & MoneyThe 90210 homes that pay LA's mansion taxBeverly Hills Post Office uses the 90210 ZIP but sits in the City of LA. On a $6M sale that's a $267,000 difference in transfer tax. November 25, 2026](https://www.nathanielgrivas.com/guide/90210-beverly-hills-post-office-city-of-la)
-
-###
-
-[Laws & MoneyMeasure ULA in 2026: what LA's mansion tax actually costs a sellerThe 2026 ULA thresholds, the math at $5.4M and $10.9M, the price zone where sellers net less by selling higher, and which neighborhoods it applies to. November 25, 2026](https://www.nathanielgrivas.com/guide/measure-ula-mansion-tax-2026)
-
-Reviews
-
-## Why people work with Nathaniel
-
-[2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
-
-“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
-
-**Willy Blasquez** Home seller, Reseda · Google review, November 2026 [See the sale: 18748 Lanark St →](https://www.nathanielgrivas.com/homes/18748-lanark)
-
-“He was professional, timely, persistent and patient in helping get the sale closed.”
-
-**Nathan Agam** Home seller, Fairfax District · Google review, November 2026 [See the sale: 616 N Fuller Ave →](https://www.nathanielgrivas.com/homes/616-fuller)
-
 Next door
 
 ## Neighborhoods nearby
@@ -554,7 +533,7 @@ Get new Beverly Hills Post Office listings as they hit, including ones that aren
 - Lenders for self-employed, investor and non-traditional buyers
 - Creative structures like seller financing when the numbers need it
 
-**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call 310-269-5541 Text Nathaniel
 
