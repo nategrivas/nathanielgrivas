@@ -516,6 +516,10 @@ The ice cream cookie sandwich institution. The line is long and worth it.
 
 Bakeries & dessert Kids & family
 
+**Want to live near spots like these?** Get homes that fit, including off-market ones, or a free value on your home.
+
+What's my home worth? Find me a home
+
 ### Beverly Hills & the Hills
 
 ### Dr. Sandwich
@@ -1187,6 +1191,21 @@ Keep browsing
 ## More categories
 
 [Coffee 59](https://www.nathanielgrivas.com/guide/best/coffee) [Breakfast 61](https://www.nathanielgrivas.com/guide/best/breakfast) [Brunch 49](https://www.nathanielgrivas.com/guide/best/brunch) [Lunch 141](https://www.nathanielgrivas.com/guide/best/lunch) [Dinner 239](https://www.nathanielgrivas.com/guide/best/dinner) [Date night 109](https://www.nathanielgrivas.com/guide/best/date) [Pizza 23](https://www.nathanielgrivas.com/guide/best/pizza) [Tacos & Mexican 27](https://www.nathanielgrivas.com/guide/best/tacos) [Seafood 28](https://www.nathanielgrivas.com/guide/best/seafood) [Sushi & Japanese 29](https://www.nathanielgrivas.com/guide/best/sushi) [Bakeries & dessert 30](https://www.nathanielgrivas.com/guide/best/bakery) [Healthy & plant-based 22](https://www.nathanielgrivas.com/guide/best/healthy) [Cocktail bars 80](https://www.nathanielgrivas.com/guide/best/bars) [Dive bars 21](https://www.nathanielgrivas.com/guide/best/dive) [Wine bars 19](https://www.nathanielgrivas.com/guide/best/wine) [Beer & breweries 12](https://www.nathanielgrivas.com/guide/best/beer) [Rooftops & views 14](https://www.nathanielgrivas.com/guide/best/rooftop) [Sports bars 20](https://www.nathanielgrivas.com/guide/best/sports) [Late night 37](https://www.nathanielgrivas.com/guide/best/latenight) [Live music 24](https://www.nathanielgrivas.com/guide/best/music) [Comedy & theater 8](https://www.nathanielgrivas.com/guide/best/comedy) [Movies 14](https://www.nathanielgrivas.com/guide/best/film) [Museums 13](https://www.nathanielgrivas.com/guide/best/museum) [Art & galleries 15](https://www.nathanielgrivas.com/guide/best/art) [Landmarks & sights 64](https://www.nathanielgrivas.com/guide/best/landmark) [Parks 31](https://www.nathanielgrivas.com/guide/best/park) [Hikes & nature 19](https://www.nathanielgrivas.com/guide/best/hike) [Beaches 12](https://www.nathanielgrivas.com/guide/best/beach) [Shopping 28](https://www.nathanielgrivas.com/guide/best/shop) [Markets 14](https://www.nathanielgrivas.com/guide/best/market) [Fitness & outdoor sports 21](https://www.nathanielgrivas.com/guide/best/fitness) [Golf 2](https://www.nathanielgrivas.com/guide/best/golf) [Kids & family 45](https://www.nathanielgrivas.com/guide/best/kids) [Dog-friendly 15](https://www.nathanielgrivas.com/guide/best/dogs)
+
+Free, no obligation
+
+## Want to live near the best of LA?
+
+Tell me what you love and I'll send homes that fit, including off-market ones. Or get a free value on yours.
+
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
+
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
+
+Call 310-269-5541 Text me
 
 ---
 
