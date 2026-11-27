@@ -34,6 +34,62 @@ Venice is part of the City of Los Angeles, between Santa Monica and Marina del R
 
 Call Text
 
+Block by block
+
+## The pockets of Venice
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Venice is really 8 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Ocean Front Walk
+
+The beach to Pacific Avenue and Main Street, Venice Boulevard to the Santa Monica line
+
+Venice's Ocean Front Walk and the walk streets: beach-close homes and buildings, many on car-free walk streets.
+
+### Oakwood West & North of Rose
+
+Main Street and Abbot Kinney to 6th Avenue, California Avenue to the Santa Monica line
+
+North Venice between Main and Sixth: small lots of cottages, remodels and modern new builds near Rose Avenue.
+
+### Oakwood
+
+6th Avenue to Lincoln Boulevard, California Avenue to the Santa Monica line
+
+Oakwood: Venice's historic working neighborhood, now a mix of original bungalows and new modern homes.
+
+### Windward Circle
+
+Pacific Avenue to Abbot Kinney, Brooks Avenue to Venice Boulevard
+
+Windward Circle and the blocks around it: walk streets and homes between the beach and Abbot Kinney.
+
+### Canals & Silver Triangle
+
+Pacific Avenue to Abbot Kinney, Venice Boulevard to Washington
+
+The Venice Canals: homes facing the six canals and footbridges, plus the streets around them.
+
+### Milwood & Presidents Row
+
+Abbot Kinney to Lincoln, California Avenue to Washington
+
+Milwood: a quiet residential grid off Abbot Kinney of cottages and new builds.
+
+### Penmar (East Venice North)
+
+Lincoln Boulevard to Walgrove, Superba Avenue to the Santa Monica line
+
+Penmar: Venice east of Lincoln near Penmar Park and golf course, with larger lots than west Venice.
+
+### East Venice South
+
+Lincoln Boulevard to Walgrove, Venice Boulevard to Superba
+
+East Venice south of Superba: single-family streets.
+
 The map
 
 ## Venice, mapped

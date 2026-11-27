@@ -34,6 +34,26 @@ Palms is one of the oldest neighborhoods on LA's Westside, founded in 1886 and a
 
 Call Text
 
+Block by block
+
+## The pockets of Palms
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Palms is really 2 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Palms North of Palms Boulevard
+
+National Boulevard to Palms Boulevard, Sepulveda to Motor
+
+North Palms: apartments and small single-family streets near the Expo Line, between Westwood and Culver City.
+
+### Palms South of Palms Boulevard
+
+Palms Boulevard to Venice Boulevard, Sepulveda to Motor
+
+South Palms: dense apartment blocks and single-family pockets close to downtown Culver City.
+
 The map
 
 ## Palms, mapped

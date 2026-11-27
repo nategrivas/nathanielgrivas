@@ -34,6 +34,32 @@ Mar Vista is a City of LA neighborhood between Venice, Culver City and Palms. It
 
 Call Text
 
+Block by block
+
+## The pockets of Mar Vista
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Mar Vista is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Mar Vista Hill
+
+Venice Boulevard to National, Centinela Avenue to Sepulveda
+
+Mar Vista Hill: single-family streets on the slope with long views.
+
+### Mar Vista West of Centinela
+
+Venice Boulevard to National, Walgrove Avenue to Centinela
+
+Mar Vista west of Centinela: single-family streets near Venice and the Mar Vista Farmers Market.
+
+### Mar Vista South of Venice
+
+Venice Boulevard to Washington, Sepulveda to Walgrove
+
+Mar Vista south of Venice Boulevard: smaller lots, many new builds and remodels, close to Culver City and Venice.
+
 The map
 
 ## Mar Vista, mapped

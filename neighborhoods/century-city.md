@@ -34,6 +34,32 @@ Century City was built starting in the 1960s on land that was once the 20th Cent
 
 Call Text
 
+Block by block
+
+## The pockets of Century City
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Century City is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Century City Core
+
+Santa Monica Boulevard to Pico, Century Park West to Century Park East
+
+The Century City core: office towers, the Westfield mall and high-rise condos.
+
+### Century City West
+
+Santa Monica Boulevard to Pico, Beverly Glen to Century Park West
+
+Century City's west side: condo towers and low-rise buildings near the Los Angeles Country Club and Beverly Glen.
+
+### Century City East
+
+Santa Monica Boulevard to Pico, Century Park East to the Beverly Hills line
+
+Century City's east side: condo buildings and apartments between the towers and Beverly Hills.
+
 The map
 
 ## Century City, mapped

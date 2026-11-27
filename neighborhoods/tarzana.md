@@ -34,6 +34,32 @@ Tarzana is a City of LA neighborhood in the southwest Valley, named after Edgar 
 
 Call Text
 
+Block by block
+
+## The pockets of Tarzana
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Tarzana is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Tarzana Hills
+
+South of Ventura Boulevard into the hills
+
+Tarzana's hills: view homes and larger lots above the boulevard.
+
+### Tarzana South of the 101
+
+Ventura Boulevard to the 101, Lindley to Corbin
+
+Tarzana between the boulevard and the freeway.
+
+### Tarzana North
+
+The 101 to Victory Boulevard, Lindley to Corbin
+
+Tarzana's flats north of the freeway: single-family streets on generous lots.
+
 The map
 
 ## Tarzana, mapped

@@ -34,6 +34,68 @@ Santa Monica is its own city, about eight square miles of bluffs and flats betwe
 
 Call Text
 
+Block by block
+
+## The pockets of Santa Monica
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Santa Monica is really 9 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### North of Montana
+
+Montana Avenue north to the city line at the canyon rim, Ocean Avenue to 26th Street
+
+Santa Monica's estate grid: wide, tree-lined numbered streets of large single-family homes, with Montana Avenue's shops at the bottom and San Vicente's coral-tree median running through. It is the only Santa Monica neighborhood with its own private patrol.
+
+### Gold Coast
+
+The beachfront strip along Palisades Beach Road, below the Palisades Park bluffs
+
+A single row of houses on the sand north of the pier, many dating to the studio era of the 1920s and 30s. Lots back straight onto the beach, with the Annenberg Community Beach House in the middle.
+
+### Wilshire Montana
+
+Wilshire Boulevard to Montana Avenue, Ocean Avenue to 26th Street
+
+Condos and small apartment buildings near the ocean that give way to single-family streets as you head east toward 26th. Walkable to Montana Avenue, Wilshire and Downtown.
+
+### Northeast Santa Monica
+
+Wilshire Boulevard to Montana Avenue east of 26th Street, to the Los Angeles line
+
+A small, quiet pocket of single-family homes and low-rise condos on the Brentwood border, with Santa Monica schools and city services.
+
+### Downtown Santa Monica
+
+Ocean Avenue to Lincoln Boulevard, Wilshire Boulevard to Pico Boulevard
+
+The Third Street Promenade, the pier, the Expo line terminus and the Civic Center. Mostly condos, lofts and rentals, a few blocks from the sand.
+
+### Mid-City
+
+Lincoln Boulevard to the city line, Wilshire Boulevard to Olympic Boulevard
+
+Santa Monica's medical and commercial middle, with both of the city's hospitals and a mix of condos, apartments and single-family streets.
+
+### Pico Neighborhood
+
+Olympic Boulevard to Pico Boulevard, Lincoln Boulevard to Centinela Avenue
+
+Virginia Avenue Park and the Bergamot arts district anchor this mixed pocket of bungalows, duplexes and apartments between the freeway and Pico.
+
+### Ocean Park
+
+Pico Boulevard to the Venice line, the beach to Lincoln Boulevard
+
+Main Street's shops, Ocean Park Boulevard and walk-street cottages near the sand. Small lots, Craftsman bungalows and modern rebuilds sit side by side.
+
+### Sunset Park
+
+Pico Boulevard to the city line, Lincoln Boulevard east to the airport
+
+Santa Monica's family pocket: blocks of 1940s and 50s single-family homes around Clover Park and the airport, with Ocean Park Boulevard's cafes and Santa Monica schools.
+
 The map
 
 ## Santa Monica, mapped

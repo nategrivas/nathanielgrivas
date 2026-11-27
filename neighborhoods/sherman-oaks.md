@@ -34,6 +34,44 @@ Sherman Oaks is a City of LA neighborhood in the south Valley where the 405 meet
 
 Call Text
 
+Block by block
+
+## The pockets of Sherman Oaks
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Sherman Oaks is really 5 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Sherman Oaks South of the 101
+
+Ventura Boulevard to the 101, the 405 to Fulton Avenue
+
+Sherman Oaks between the boulevard and the freeway: walkable to Ventura Boulevard's shops and the Galleria.
+
+### Sherman Oaks Northeast
+
+The 101 to Burbank Boulevard, Van Nuys Boulevard to Fulton
+
+Northeast Sherman Oaks: single-family streets around Van Nuys-Sherman Oaks Park.
+
+### Sherman Oaks Northwest
+
+The 101 to Burbank Boulevard, the 405 to Van Nuys Boulevard
+
+Northwest Sherman Oaks: single-family streets and apartments near the Sepulveda Basin.
+
+### Sherman Oaks Hills East
+
+South of Ventura Boulevard to Mulholland, east of the Sherman Oaks Hills West streets
+
+The Sherman Oaks hills east of Beverly Glen's Valley side: view homes on winding streets above the boulevard.
+
+### Sherman Oaks Hills West
+
+South of Ventura Boulevard to Mulholland, toward the 405
+
+The western Sherman Oaks hills: view homes above Ventura Boulevard near the Sepulveda Pass.
+
 The map
 
 ## Sherman Oaks, mapped

@@ -34,6 +34,50 @@ Hollywood is the City of LA neighborhood around Hollywood Boulevard and Sunset, 
 
 Call Text
 
+Block by block
+
+## The pockets of Hollywood
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Hollywood is really 6 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Spaulding Square
+
+The West Hollywood line north to Sunset, Fairfax to La Brea
+
+Spaulding Square and its neighbors: 1920s bungalows and Spanish homes, partly a historic district.
+
+### Sunset Square
+
+Sunset Boulevard to Hollywood Boulevard, Fairfax to La Brea
+
+Sunset Square: a historic district of 1920s homes and duplexes at the foot of the hills.
+
+### Central Hollywood
+
+Sunset Boulevard to Franklin, La Brea to the Hollywood Freeway
+
+Central Hollywood: the Walk of Fame, high-rise living and older apartment buildings.
+
+### Franklin Village
+
+Sunset Boulevard to Franklin, the Hollywood Freeway to Western
+
+Franklin Village and the east side of central Hollywood: older apartments, small homes and the Franklin Avenue cafes.
+
+### Hollywood Media District
+
+Santa Monica Boulevard to Sunset, La Brea to Western
+
+Hollywood's media district: studios and post-production houses, apartments and a few small-home streets.
+
+### Hollywood Studio District
+
+Melrose Avenue to Santa Monica Boulevard, La Brea to Western
+
+The studio district between Melrose and Santa Monica: small homes and duplexes near Paramount and the Hollywood Forever cemetery.
+
 The map
 
 ## Hollywood, mapped

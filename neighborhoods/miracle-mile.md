@@ -34,6 +34,26 @@ Miracle Mile is the City of LA neighborhood along Wilshire Boulevard between Fai
 
 Call Text
 
+Block by block
+
+## The pockets of Miracle Mile
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Miracle Mile is really 2 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Museum Row
+
+6th Street to Wilshire Boulevard, Fairfax to La Brea
+
+Museum Row: LACMA, the Academy Museum and the La Brea Tar Pits, with apartments and condos north of Wilshire.
+
+### Miracle Mile
+
+Wilshire Boulevard to Olympic, Fairfax to La Brea
+
+Miracle Mile: a historic district of 1920s and 1930s duplexes and homes south of Wilshire's museums.
+
 The map
 
 ## Miracle Mile, mapped

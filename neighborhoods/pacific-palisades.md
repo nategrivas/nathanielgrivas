@@ -34,6 +34,98 @@ Pacific Palisades is part of the City of LA, between Santa Monica and Malibu. Th
 
 Call Text
 
+Block by block
+
+## The pockets of Pacific Palisades
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Pacific Palisades is really 14 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Castellammare
+
+The hillside above Pacific Coast Highway where Sunset meets the coast
+
+Italian-named streets stacked on the bluff above PCH, with Mediterranean villas and ocean views from almost every lot. Much of it is rebuilding after the 2025 fire.
+
+### Paseo Miramar
+
+Paseo Miramar and the streets off it, above Sunset near PCH
+
+A steep hillside enclave reached by one winding road, with big ocean and canyon views and a trailhead to Parker Mesa at the top.
+
+### Palisades Highlands
+
+Palisades Drive north of Sunset, up Santa Ynez Canyon
+
+A planned 1970s and 80s community up Santa Ynez Canyon, with newer homes, townhouses and gated enclaves surrounded by Topanga State Park.
+
+### Marquez Knolls
+
+North of Sunset between El Medio and Palisades Drive
+
+Postwar ranch houses and newer view homes on the slope above Sunset, with a small shopping strip at Marquez Avenue and ocean views on many streets. Much of it is rebuilding after the 2025 fire.
+
+### Upper Bienveneda & El Medio
+
+North of Sunset between Marquez Knolls and Temescal Canyon
+
+Hillside streets off Bienveneda and upper El Medio with some of the biggest ocean views in the Palisades, just above Palisades Charter High School.
+
+### Alphabet Streets
+
+North of Sunset, east of the Village, below Temescal Gateway Park
+
+The original 1920s Palisades, laid out on streets named alphabetically for Methodist missionaries. Narrow streets and small lots, walkable to the Village, and rebuilding after the 2025 fire.
+
+### Upper Riviera
+
+North of Sunset around Amalfi Drive
+
+Winding streets above the Riviera Country Club with large hillside lots, privacy and canyon views, bordering Brentwood and Will Rogers State Historic Park.
+
+### El Medio Bluffs
+
+South of Sunset from Temescal Canyon west to Las Casas
+
+A mesa of single-family homes on the bluff above PCH, with ocean views along the rim streets.
+
+### Via Bluffs
+
+South of Sunset between Temescal Canyon and Potrero Canyon
+
+Bluff-top streets named for colleges, a short walk south of the Village, with ocean views along the edge.
+
+### The Village
+
+Sunset Boulevard's commercial core around Swarthmore and Via de la Paz
+
+The Palisades' downtown: Palisades Village shops, the Village Green and a grid of homes and condos within walking distance of everything.
+
+### The Huntington
+
+South of Sunset between Potrero Canyon and Chautauqua Boulevard
+
+Wide, walkable streets of large homes on the bluff, close to the Village and the beach. One of the most sought-after pockets on the Westside.
+
+### Lower Riviera
+
+South of Sunset around the Riviera Country Club
+
+Large homes on Napoli Drive and the streets ringing the Riviera golf course, where the Napoli rim lots look straight over the fairways.
+
+### Rustic Canyon
+
+The canyon floor along Latimer and Brooktree roads
+
+A wooded creek canyon of rustic homes and sycamores around Rustic Canyon Park, hidden below Sunset.
+
+### Santa Monica Canyon
+
+Entrada Drive, Channel Road and the canyon streets above the beach
+
+A canyon pocket a block from the sand, with Channel Road's restaurants, older beach cottages and hillside homes, all in the City of LA.
+
 The story of Pacific Palisades
 
 ## A Methodist utopia, a movie ranch and a haven for exiles

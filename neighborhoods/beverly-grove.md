@@ -34,6 +34,44 @@ Beverly Grove is the City of LA neighborhood between West Hollywood, Beverly Hil
 
 Call Text
 
+Block by block
+
+## The pockets of Beverly Grove
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Beverly Grove is really 5 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Melrose & Beverly Grove North
+
+The West Hollywood line south to Beverly Boulevard, La Cienega to Fairfax
+
+The Beverly Grove blocks between Melrose and Beverly: Spanish homes, duplexes and new builds near the Melrose shops.
+
+### Burton Way & Cedars
+
+Beverly Boulevard south to the Beverly Hills line, La Cienega west
+
+Burton Way and Cedars: condo buildings along Burton Way and blocks around Cedars-Sinai and the Beverly Center.
+
+### Beverly Grove
+
+Beverly Boulevard to Wilshire, La Cienega to Fairfax
+
+Beverly Grove: Spanish duplexes and homes around 3rd Street's shops and restaurants.
+
+### Carthay Circle
+
+Wilshire Boulevard to Olympic, La Cienega to Fairfax
+
+Carthay Circle: a historic district of curving streets and Spanish homes, plus the blocks around it.
+
+### South Carthay
+
+Olympic Boulevard to Pico, La Cienega to Fairfax
+
+South Carthay: a historic district of 1930s Spanish homes on a quiet grid.
+
 The map
 
 ## Beverly Grove, mapped

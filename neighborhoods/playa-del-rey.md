@@ -34,6 +34,26 @@ Playa del Rey is a small beach community in the City of LA, between Marina del R
 
 Call Text
 
+Block by block
+
+## The pockets of Playa del Rey
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Playa del Rey is really 2 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Lower Playa del Rey
+
+The flats between Ballona Creek and the bluffs near Vista del Mar
+
+Lower Playa del Rey: beach-close streets and lagoon views at the foot of the bluffs.
+
+### Playa del Rey Bluffs
+
+The bluff-top streets above Vista del Mar
+
+Playa del Rey's bluffs: view homes along the ridge above the beach and Ballona Wetlands.
+
 The map
 
 ## Playa del Rey, mapped

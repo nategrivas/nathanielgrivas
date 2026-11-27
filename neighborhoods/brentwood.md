@@ -34,6 +34,86 @@ Brentwood is a City of LA neighborhood west of the 405, running from the Wilshir
 
 Call Text
 
+Block by block
+
+## The pockets of Brentwood
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Brentwood is really 12 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Brentwood Park
+
+San Vicente Boulevard to Sunset Boulevard, 26th Street and Allenford Avenue to Cliffwood Avenue
+
+Brentwood's estate grid, laid out around landscaped traffic circles. Big flat lots behind tall hedges, with the Brentwood Country Mart at the corner.
+
+### Brentwood Park North of Sunset
+
+North of Sunset Boulevard around Rockingham, Bristol and Oakmont
+
+Estate streets climbing just above Sunset, with larger hillside lots, gated drives and canyon views over the original Brentwood Park.
+
+### Brentwood Flats & Village
+
+San Vicente Boulevard to Sunset Boulevard, Cliffwood Avenue to Barrington Avenue
+
+Gently sloping streets of traditional and new-build homes between San Vicente's coral trees and Brentwood Village, the walkable cluster of shops at Sunset and Barrington.
+
+### Brentwood Glen
+
+Sunset Boulevard to the VA grounds, west of the 405
+
+A tight grid of smaller-lot single-family homes tucked between the VA campus and the freeway, a short walk from Brentwood Village.
+
+### Brentwood Terrace
+
+San Vicente Boulevard to Montana Avenue, the Santa Monica line to Bundy Drive
+
+Single-family streets wrapped around the Brentwood Country Club golf course, right on the Santa Monica border.
+
+### South Brentwood
+
+Montana Avenue to Wilshire Boulevard, the Santa Monica line to Bundy Drive
+
+A transitional strip of single-family homes, duplexes and condos between Brentwood and Santa Monica, close to Wilshire's offices and shops.
+
+### San Vicente Condo Corridor
+
+San Vicente Boulevard to Wilshire Boulevard, Bundy Drive to Barrington Avenue
+
+Brentwood's condo district: mid-rise buildings and townhomes behind San Vicente's restaurant row, the most common way into a Brentwood address.
+
+### Mandeville Canyon
+
+Mandeville Canyon Road and every street off it, from Sunset to the end of the canyon
+
+A long, wooded canyon with a country feel, horse properties and big lots. Mandeville Canyon Road is one of the longest dead-end streets in the city.
+
+### Kenter Canyon & Crestwood Hills
+
+Kenter Avenue and the Crestwood Hills streets above it
+
+Hillside homes in the canyon above Kenter Canyon Elementary, including Crestwood Hills, a postwar cooperative tract of modernist houses.
+
+### Bundy Canyon
+
+North Bundy Drive and the streets off it, up toward Mount St. Mary's
+
+Hillside streets off Bundy Drive north of Sunset, climbing toward the Mount St. Mary's Chalon campus and the Getty ridge.
+
+### Tigertail
+
+Tigertail Road and its side streets north of Sunset
+
+A narrow canyon of hillside homes off Tigertail Road, with mid-century houses and large rebuilds on view lots.
+
+### Brentwood Heights
+
+North of Sunset between Barrington Avenue and the 405
+
+Hillside streets climbing from Brentwood Village toward the Getty, including gated Brentwood Circle and the Westgate Heights streets.
+
 The story of Brentwood
 
 ## A trolley line, 87,000 trees and a boulevard of coral

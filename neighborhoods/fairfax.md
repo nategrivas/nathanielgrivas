@@ -34,6 +34,32 @@ The Fairfax District is a City of LA neighborhood around Fairfax Avenue between 
 
 Call Text
 
+Block by block
+
+## The pockets of Fairfax District
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Fairfax District is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Melrose Avenue North
+
+Melrose Avenue north to the West Hollywood line, Fairfax to La Brea
+
+The blocks just north of Melrose: Spanish duplexes and homes between the shopping street and West Hollywood.
+
+### Beverly-Fairfax & The Grove
+
+Melrose Avenue to 3rd Street, Fairfax to La Brea
+
+Beverly-Fairfax: 1920s and 1930s Spanish homes and duplexes around the Grove, the Farmers Market and Pan Pacific Park.
+
+### Park La Brea
+
+3rd Street to 6th Street, Fairfax to La Brea
+
+Park La Brea: the large apartment community and the residential blocks east of it toward La Brea.
+
 The map
 
 ## Fairfax District, mapped

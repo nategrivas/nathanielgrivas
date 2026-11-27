@@ -34,6 +34,50 @@ Beverly Hills is an independent city of about 5.7 square miles surrounded by Los
 
 Call Text
 
+Block by block
+
+## The pockets of Beverly Hills
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Beverly Hills is really 6 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Beverly Hills Flats
+
+Santa Monica Boulevard north to Sunset Boulevard, Doheny Drive west to the city line
+
+The classic Beverly Hills flats: wide palm and jacaranda streets of large homes on big lots, a short walk to the Golden Triangle and Beverly Gardens Park.
+
+### Golden Triangle
+
+Wilshire Boulevard, Santa Monica Boulevard and Canon Drive
+
+The Golden Triangle: Rodeo Drive, Canon Drive and the city's retail and office core, with a small number of condos and apartments.
+
+### East Beverly Hills
+
+South of Santa Monica Boulevard to Wilshire, east of Canon Drive to the city line
+
+Smaller lots than the flats north of Santa Monica Boulevard, mixing single-family homes, duplexes and low-rise apartments a few blocks from the Golden Triangle.
+
+### Beverly Hills South of Wilshire
+
+South of Wilshire Boulevard to the city line
+
+South Beverly Hills: tree-lined grids of single-family homes, duplexes and apartments around Roxbury Park and La Cienega Park, served by the Beverly Hills schools.
+
+### Trousdale Estates
+
+The hillside streets around Loma Vista Drive and Trousdale Place above Sunset
+
+Trousdale Estates: mid-century view homes on flat pads cut into the hills, with gated drives and city-to-ocean views.
+
+### Beverly Hills North of Sunset
+
+Hillside streets north of Sunset inside the city line, around Lexington Road and Benedict Canyon's mouth
+
+The Beverly Hills side of the canyons north of Sunset: large estates on winding streets, still inside city limits and city services.
+
 The story of Beverly Hills
 
 ## The town that struck water instead of oil

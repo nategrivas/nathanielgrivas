@@ -34,6 +34,32 @@ North Hollywood is a City of LA neighborhood in the east Valley, where the Metro
 
 Call Text
 
+Block by block
+
+## The pockets of North Hollywood
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. North Hollywood is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Toluca Woods & South North Hollywood
+
+The 101 and 134 to Magnolia Boulevard, the 170 to Cahuenga
+
+Toluca Woods and south North Hollywood: single-family streets near Toluca Lake and the studios.
+
+### NoHo Arts District
+
+Magnolia Boulevard to Burbank Boulevard, the 170 to Cahuenga
+
+The NoHo Arts District: theaters, the Metro hub and newer apartments, with bungalow streets around them.
+
+### Mid-Town North Hollywood
+
+Burbank Boulevard to Victory, the 170 to Vineland
+
+Mid-Town North Hollywood: single-family streets and apartments north of the Arts District.
+
 The map
 
 ## North Hollywood, mapped

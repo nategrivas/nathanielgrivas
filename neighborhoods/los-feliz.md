@@ -34,6 +34,50 @@ Los Feliz is a City of LA neighborhood at the foot of Griffith Park, one of the 
 
 Call Text
 
+Block by block
+
+## The pockets of Los Feliz
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Los Feliz is really 6 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Los Feliz Flats
+
+Los Feliz Boulevard to Hollywood Boulevard, Western to Vermont, around Laughlin Park
+
+The Los Feliz flats: Spanish and Tudor homes and classic apartment buildings on a tree-lined grid.
+
+### Laughlin Park
+
+Franklin Avenue to Los Feliz Boulevard, Hobart to Normandie
+
+Laughlin Park: a small gated hill of historic estates above Franklin Avenue.
+
+### Los Feliz Village
+
+Los Feliz Boulevard to Hollywood Boulevard, Vermont to Hillhurst
+
+Los Feliz Village: the shops and cafes of Vermont and Hillhurst, with homes and apartments between them.
+
+### Los Feliz Estates
+
+North of Los Feliz Boulevard, west of Vermont toward Fern Dell
+
+Los Feliz Estates: hillside homes north of the boulevard near the Griffith Park entrance at Fern Dell.
+
+### Los Feliz Oaks
+
+North of Los Feliz Boulevard around Glendower, Bryn Mawr and Commonwealth
+
+Los Feliz Oaks: large hillside homes, including the Ennis House, on the slopes below Griffith Observatory.
+
+### Franklin Hills
+
+Hillhurst east to Hyperion, Los Feliz Boulevard south to Sunset
+
+Franklin Hills: hillside homes and public stairways around the Shakespeare Bridge.
+
 The map
 
 ## Los Feliz, mapped

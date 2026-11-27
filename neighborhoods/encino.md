@@ -34,6 +34,44 @@ Encino is a City of LA neighborhood in the south Valley, west of Sherman Oaks, w
 
 Call Text
 
+Block by block
+
+## The pockets of Encino
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Encino is really 5 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Encino Hills
+
+South of Ventura Boulevard to Mulholland, from the 405 west
+
+Encino's hills: larger view homes and gated streets above the boulevard.
+
+### Encino South of the 101
+
+Ventura Boulevard to the 101, the 405 to Lindley
+
+Encino between the boulevard and the freeway: single-family streets walkable to Ventura Boulevard.
+
+### Encino Flats East
+
+The 101 to Burbank Boulevard, the 405 to Balboa
+
+Encino's east flats near the Sepulveda Basin and Balboa Park.
+
+### Amestoy Estates
+
+The 101 to Victory Boulevard, Balboa to White Oak
+
+Amestoy Estates: large flat lots and estate homes north of the freeway.
+
+### Encino West
+
+The 101 to Victory Boulevard, White Oak to Lindley
+
+Encino's west flats: single-family streets on large lots.
+
 The map
 
 ## Encino, mapped

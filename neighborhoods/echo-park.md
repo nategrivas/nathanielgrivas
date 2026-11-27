@@ -34,6 +34,44 @@ Echo Park is a City of LA neighborhood northwest of Downtown, between Silver Lak
 
 Call Text
 
+Block by block
+
+## The pockets of Echo Park
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Echo Park is really 5 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Elysian Heights
+
+The hills north of Echo Park Avenue toward Elysian Park
+
+Elysian Heights: hillside homes and stairways bordering Elysian Park.
+
+### Echo Park Avenue
+
+Echo Park Avenue and the streets around Lemoyne and Logan
+
+Echo Park Avenue: hillside bungalows and small apartment buildings north of Sunset.
+
+### Echo Park Lake
+
+The streets around Echo Park Lake
+
+Echo Park Lake: homes and apartments around the lake and its lotus beds.
+
+### Angelino Heights
+
+The streets around Carroll Avenue and Kensington Road
+
+Angelino Heights: one of LA's first suburbs, known for its Victorian homes on Carroll Avenue.
+
+### Victor Heights
+
+The hill streets east of Echo Park near Chinatown
+
+Victor Heights: a small hillside pocket between Echo Park, Chinatown and Dodger Stadium.
+
 The map
 
 ## Echo Park, mapped

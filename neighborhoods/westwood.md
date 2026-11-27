@@ -34,6 +34,50 @@ Westwood is the City of LA neighborhood around UCLA, from the Wilshire Corridor 
 
 Call Text
 
+Block by block
+
+## The pockets of Westwood
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Westwood is really 6 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Westwood Village
+
+Wilshire Boulevard to Le Conte Avenue, Gayley Avenue to Hilgard Avenue
+
+Westwood Village: the shopping and dining district at UCLA's front door, with apartments and condos.
+
+### North Village
+
+Wilshire Boulevard to Sunset, Veteran Avenue to Gayley Avenue
+
+North Westwood: apartments and condos west of campus, plus single-family streets near Veteran Avenue.
+
+### Little Holmby
+
+Wilshire Boulevard to Sunset, Hilgard Avenue to Beverly Glen Boulevard
+
+Little Holmby: a small grid of large homes between campus and Holmby Hills, among the most sought after streets in Westwood.
+
+### Holmby Westwood
+
+Wilshire Boulevard to Santa Monica Boulevard, Westwood Boulevard to Beverly Glen
+
+Holmby-Westwood: single-family streets south of Wilshire's condo corridor, close to the Village and Century City.
+
+### Westwood South of Wilshire
+
+Wilshire Boulevard to Santa Monica Boulevard, Sepulveda Boulevard to Westwood Boulevard
+
+The blocks south of the Village: a mix of apartments, condos and some single-family homes near the Westwood Library.
+
+### Westwood South of Santa Monica
+
+Santa Monica Boulevard to Pico, Sepulveda Boulevard to Beverly Glen
+
+Westwood south of Santa Monica Boulevard: single-family streets around Westwood Park and the Westside Pavilion, plus apartments near the boulevards.
+
 The map
 
 ## Westwood, mapped

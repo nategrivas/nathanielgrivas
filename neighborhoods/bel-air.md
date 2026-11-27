@@ -34,6 +34,50 @@ Bel Air is a City of LA hillside neighborhood north of UCLA, founded by Alphonzo
 
 Call Text
 
+Block by block
+
+## The pockets of Bel Air
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Bel Air is really 6 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### East Gate Old Bel Air
+
+Bel Air's streets entered from the East Gate on Sunset, around Bel Air Road
+
+East Gate Old Bel Air: the original estate section, with large walled properties on curving streets just above Sunset.
+
+### West Gate Bel Air
+
+Bel Air's streets entered from the West Gate, around Stone Canyon and the Bel-Air Country Club
+
+West Gate Bel Air: estates around the Hotel Bel-Air, Stone Canyon and the country club fairways.
+
+### Upper Bel Air
+
+The upper streets of Bel Air north of the country club toward Mulholland
+
+Upper Bel Air: hillside homes on ridges and canyon streets with long views, quieter and more varied in size than the lower gates.
+
+### Roscomare Valley & Bel Air Crest
+
+Roscomare Road and the Bel Air Crest streets toward Mulholland
+
+Roscomare Valley and Bel Air Crest: a canyon of mid-century and remodeled homes with its own school, plus the gated Bel Air Crest community up top.
+
+### Beverly Glen
+
+The streets off Beverly Glen Boulevard between Sunset and Mulholland
+
+Beverly Glen: a canyon of hillside homes ranging from small cabins to new builds, with a small village of shops at the top.
+
+### Holmby Hills
+
+Holmby Hills north of Sunset
+
+The north-of-Sunset part of Holmby Hills: very large estates on deep lots next to Bel Air's East Gate.
+
 The story of Bel Air
 
 ## An oilman's private park in the hills

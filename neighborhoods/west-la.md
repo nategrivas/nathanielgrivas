@@ -34,6 +34,32 @@ West Los Angeles is the City of LA area between Santa Monica, Brentwood, Westwoo
 
 Call Text
 
+Block by block
+
+## The pockets of West LA & Sawtelle
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. West LA & Sawtelle is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Sawtelle
+
+Wilshire Boulevard to Pico, Bundy Drive to the 405
+
+Sawtelle: Japantown's restaurant row on Sawtelle Boulevard plus streets of apartments, small homes and newer townhomes.
+
+### West LA (405 to Sepulveda)
+
+Santa Monica Boulevard to Pico, the 405 to Sepulveda
+
+West LA east of the 405: apartments and modest single-family streets between Westwood and the freeway.
+
+### West LA South of Pico
+
+Pico Boulevard to National, Bundy Drive to Sepulveda
+
+West LA south of Pico: single-family streets and apartments near the Expo Line and Westside Pavilion.
+
 The map
 
 ## West LA & Sawtelle, mapped

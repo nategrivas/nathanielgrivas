@@ -34,6 +34,26 @@ Pico-Robertson and Beverlywood sit just south and east of Beverly Hills in the C
 
 Call Text
 
+Block by block
+
+## The pockets of Pico-Robertson & Beverlywood
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Pico-Robertson & Beverlywood is really 2 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Beverlywood
+
+Beverwil Drive to Robertson, Castle Heights to National
+
+Beverlywood: a planned 1940s neighborhood of single-family homes with its own homeowners association and design rules.
+
+### Pico-Robertson
+
+Pico Boulevard to Cadillac, La Cienega to Beverwil
+
+Pico-Robertson: walkable streets of duplexes, Spanish homes and apartments around Pico's kosher markets and shops.
+
 The map
 
 ## Pico-Robertson & Beverlywood, mapped

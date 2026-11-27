@@ -1,0 +1,848 @@
+{
+"sm-noma": {
+"b": "Montana Avenue north to the city line at the canyon rim, Ocean Avenue to 26th Street",
+"d": "Santa Monica's estate grid: wide, tree-lined numbered streets of large single-family homes, with Montana Avenue's shops at the bottom and San Vicente's coral-tree median running through. It is the only Santa Monica neighborhood with its own private patrol."
+},
+"sm-gold-coast": {
+"b": "The beachfront strip along Palisades Beach Road, below the Palisades Park bluffs",
+"d": "A single row of houses on the sand north of the pier, many dating to the studio era of the 1920s and 30s. Lots back straight onto the beach, with the Annenberg Community Beach House in the middle."
+},
+"sm-wilmont": {
+"b": "Wilshire Boulevard to Montana Avenue, Ocean Avenue to 26th Street",
+"d": "Condos and small apartment buildings near the ocean that give way to single-family streets as you head east toward 26th. Walkable to Montana Avenue, Wilshire and Downtown."
+},
+"sm-northeast": {
+"b": "Wilshire Boulevard to Montana Avenue east of 26th Street, to the Los Angeles line",
+"d": "A small, quiet pocket of single-family homes and low-rise condos on the Brentwood border, with Santa Monica schools and city services."
+},
+"sm-downtown": {
+"b": "Ocean Avenue to Lincoln Boulevard, Wilshire Boulevard to Pico Boulevard",
+"d": "The Third Street Promenade, the pier, the Expo line terminus and the Civic Center. Mostly condos, lofts and rentals, a few blocks from the sand."
+},
+"sm-midcity": {
+"b": "Lincoln Boulevard to the city line, Wilshire Boulevard to Olympic Boulevard",
+"d": "Santa Monica's medical and commercial middle, with both of the city's hospitals and a mix of condos, apartments and single-family streets."
+},
+"sm-pico": {
+"b": "Olympic Boulevard to Pico Boulevard, Lincoln Boulevard to Centinela Avenue",
+"d": "Virginia Avenue Park and the Bergamot arts district anchor this mixed pocket of bungalows, duplexes and apartments between the freeway and Pico."
+},
+"sm-ocean-park": {
+"b": "Pico Boulevard to the Venice line, the beach to Lincoln Boulevard",
+"d": "Main Street's shops, Ocean Park Boulevard and walk-street cottages near the sand. Small lots, Craftsman bungalows and modern rebuilds sit side by side."
+},
+"sm-sunset-park": {
+"b": "Pico Boulevard to the city line, Lincoln Boulevard east to the airport",
+"d": "Santa Monica's family pocket: blocks of 1940s and 50s single-family homes around Clover Park and the airport, with Ocean Park Boulevard's cafes and Santa Monica schools."
+},
+"brw-park": {
+"b": "San Vicente Boulevard to Sunset Boulevard, 26th Street and Allenford Avenue to Cliffwood Avenue",
+"d": "Brentwood's estate grid, laid out around landscaped traffic circles. Big flat lots behind tall hedges, with the Brentwood Country Mart at the corner."
+},
+"brw-park-north": {
+"name": "Brentwood Park North of Sunset",
+"b": "North of Sunset Boulevard around Rockingham, Bristol and Oakmont",
+"d": "Estate streets climbing just above Sunset, with larger hillside lots, gated drives and canyon views over the original Brentwood Park."
+},
+"brw-flats": {
+"b": "San Vicente Boulevard to Sunset Boulevard, Cliffwood Avenue to Barrington Avenue",
+"d": "Gently sloping streets of traditional and new-build homes between San Vicente's coral trees and Brentwood Village, the walkable cluster of shops at Sunset and Barrington."
+},
+"brw-glen": {
+"b": "Sunset Boulevard to the VA grounds, west of the 405",
+"d": "A tight grid of smaller-lot single-family homes tucked between the VA campus and the freeway, a short walk from Brentwood Village."
+},
+"brw-terrace": {
+"b": "San Vicente Boulevard to Montana Avenue, the Santa Monica line to Bundy Drive",
+"d": "Single-family streets wrapped around the Brentwood Country Club golf course, right on the Santa Monica border."
+},
+"brw-south": {
+"b": "Montana Avenue to Wilshire Boulevard, the Santa Monica line to Bundy Drive",
+"d": "A transitional strip of single-family homes, duplexes and condos between Brentwood and Santa Monica, close to Wilshire's offices and shops."
+},
+"brw-corridor": {
+"name": "San Vicente Condo Corridor",
+"b": "San Vicente Boulevard to Wilshire Boulevard, Bundy Drive to Barrington Avenue",
+"d": "Brentwood's condo district: mid-rise buildings and townhomes behind San Vicente's restaurant row, the most common way into a Brentwood address."
+},
+"brw-mandeville": {
+"b": "Mandeville Canyon Road and every street off it, from Sunset to the end of the canyon",
+"d": "A long, wooded canyon with a country feel, horse properties and big lots. Mandeville Canyon Road is one of the longest dead-end streets in the city."
+},
+"brw-kenter": {
+"b": "Kenter Avenue and the Crestwood Hills streets above it",
+"d": "Hillside homes in the canyon above Kenter Canyon Elementary, including Crestwood Hills, a postwar cooperative tract of modernist houses."
+},
+"brw-bundy": {
+"b": "North Bundy Drive and the streets off it, up toward Mount St. Mary's",
+"d": "Hillside streets off Bundy Drive north of Sunset, climbing toward the Mount St. Mary's Chalon campus and the Getty ridge."
+},
+"brw-tigertail": {
+"b": "Tigertail Road and its side streets north of Sunset",
+"d": "A narrow canyon of hillside homes off Tigertail Road, with mid-century houses and large rebuilds on view lots."
+},
+"brw-heights": {
+"name": "Brentwood Heights",
+"b": "North of Sunset between Barrington Avenue and the 405",
+"d": "Hillside streets climbing from Brentwood Village toward the Getty, including gated Brentwood Circle and the Westgate Heights streets."
+},
+"pal-castellammare": {
+"b": "The hillside above Pacific Coast Highway where Sunset meets the coast",
+"d": "Italian-named streets stacked on the bluff above PCH, with Mediterranean villas and ocean views from almost every lot. Much of it is rebuilding after the 2025 fire."
+},
+"pal-miramar": {
+"b": "Paseo Miramar and the streets off it, above Sunset near PCH",
+"d": "A steep hillside enclave reached by one winding road, with big ocean and canyon views and a trailhead to Parker Mesa at the top."
+},
+"pal-highlands": {
+"b": "Palisades Drive north of Sunset, up Santa Ynez Canyon",
+"d": "A planned 1970s and 80s community up Santa Ynez Canyon, with newer homes, townhouses and gated enclaves surrounded by Topanga State Park."
+},
+"pal-marquez": {
+"b": "North of Sunset between El Medio and Palisades Drive",
+"d": "Postwar ranch houses and newer view homes on the slope above Sunset, with a small shopping strip at Marquez Avenue and ocean views on many streets. Much of it is rebuilding after the 2025 fire."
+},
+"pal-upper-bienveneda": {
+"name": "Upper Bienveneda & El Medio",
+"b": "North of Sunset between Marquez Knolls and Temescal Canyon",
+"d": "Hillside streets off Bienveneda and upper El Medio with some of the biggest ocean views in the Palisades, just above Palisades Charter High School."
+},
+"pal-alphabet": {
+"b": "North of Sunset, east of the Village, below Temescal Gateway Park",
+"d": "The original 1920s Palisades, laid out on streets named alphabetically for Methodist missionaries. Narrow streets and small lots, walkable to the Village, and rebuilding after the 2025 fire."
+},
+"pal-upper-riviera": {
+"b": "North of Sunset around Amalfi Drive",
+"d": "Winding streets above the Riviera Country Club with large hillside lots, privacy and canyon views, bordering Brentwood and Will Rogers State Historic Park."
+},
+"pal-elmedio-bluffs": {
+"b": "South of Sunset from Temescal Canyon west to Las Casas",
+"d": "A mesa of single-family homes on the bluff above PCH, with ocean views along the rim streets."
+},
+"pal-via-bluffs": {
+"b": "South of Sunset between Temescal Canyon and Potrero Canyon",
+"d": "Bluff-top streets named for colleges, a short walk south of the Village, with ocean views along the edge."
+},
+"pal-village": {
+"name": "The Village",
+"b": "Sunset Boulevard's commercial core around Swarthmore and Via de la Paz",
+"d": "The Palisades' downtown: Palisades Village shops, the Village Green and a grid of homes and condos within walking distance of everything."
+},
+"pal-huntington": {
+"name": "The Huntington",
+"b": "South of Sunset between Potrero Canyon and Chautauqua Boulevard",
+"d": "Wide, walkable streets of large homes on the bluff, close to the Village and the beach. One of the most sought-after pockets on the Westside."
+},
+"pal-lower-riviera": {
+"b": "South of Sunset around the Riviera Country Club",
+"d": "Large homes on Napoli Drive and the streets ringing the Riviera golf course, where the Napoli rim lots look straight over the fairways."
+},
+"pal-rustic": {
+"b": "The canyon floor along Latimer and Brooktree roads",
+"d": "A wooded creek canyon of rustic homes and sycamores around Rustic Canyon Park, hidden below Sunset."
+},
+"pal-smcanyon": {
+"b": "Entrada Drive, Channel Road and the canyon streets above the beach",
+"d": "A canyon pocket a block from the sand, with Channel Road's restaurants, older beach cottages and hillside homes, all in the City of LA."
+},
+"bh-flats": {
+"b": "Santa Monica Boulevard north to Sunset Boulevard, Doheny Drive west to the city line",
+"d": "The classic Beverly Hills flats: wide palm and jacaranda streets of large homes on big lots, a short walk to the Golden Triangle and Beverly Gardens Park."
+},
+"bh-gt": {
+"b": "Wilshire Boulevard, Santa Monica Boulevard and Canon Drive",
+"d": "The Golden Triangle: Rodeo Drive, Canon Drive and the city's retail and office core, with a small number of condos and apartments."
+},
+"bh-east": {
+"b": "South of Santa Monica Boulevard to Wilshire, east of Canon Drive to the city line",
+"d": "Smaller lots than the flats north of Santa Monica Boulevard, mixing single-family homes, duplexes and low-rise apartments a few blocks from the Golden Triangle."
+},
+"bh-south": {
+"b": "South of Wilshire Boulevard to the city line",
+"d": "South Beverly Hills: tree-lined grids of single-family homes, duplexes and apartments around Roxbury Park and La Cienega Park, served by the Beverly Hills schools."
+},
+"bh-trousdale": {
+"b": "The hillside streets around Loma Vista Drive and Trousdale Place above Sunset",
+"d": "Trousdale Estates: mid-century view homes on flat pads cut into the hills, with gated drives and city-to-ocean views."
+},
+"bh-north": {
+"b": "Hillside streets north of Sunset inside the city line, around Lexington Road and Benedict Canyon's mouth",
+"d": "The Beverly Hills side of the canyons north of Sunset: large estates on winding streets, still inside city limits and city services."
+},
+"bel-east-gate": {
+"b": "Bel Air's streets entered from the East Gate on Sunset, around Bel Air Road",
+"d": "East Gate Old Bel Air: the original estate section, with large walled properties on curving streets just above Sunset."
+},
+"bel-west-gate": {
+"b": "Bel Air's streets entered from the West Gate, around Stone Canyon and the Bel-Air Country Club",
+"d": "West Gate Bel Air: estates around the Hotel Bel-Air, Stone Canyon and the country club fairways."
+},
+"bel-upper": {
+"b": "The upper streets of Bel Air north of the country club toward Mulholland",
+"d": "Upper Bel Air: hillside homes on ridges and canyon streets with long views, quieter and more varied in size than the lower gates."
+},
+"bel-roscomare": {
+"b": "Roscomare Road and the Bel Air Crest streets toward Mulholland",
+"d": "Roscomare Valley and Bel Air Crest: a canyon of mid-century and remodeled homes with its own school, plus the gated Bel Air Crest community up top."
+},
+"bel-beverly-glen": {
+"b": "The streets off Beverly Glen Boulevard between Sunset and Mulholland",
+"d": "Beverly Glen: a canyon of hillside homes ranging from small cabins to new builds, with a small village of shops at the top."
+},
+"bel-holmby": {
+"b": "Holmby Hills north of Sunset",
+"d": "The north-of-Sunset part of Holmby Hills: very large estates on deep lots next to Bel Air's East Gate."
+},
+"bhpo-benedict": {
+"b": "The streets off Benedict Canyon Drive above the Beverly Hills city line",
+"d": "Benedict Canyon: a long canyon of hillside homes on side streets and ridges, with a Beverly Hills mailing address and City of LA services."
+},
+"bhpo-franklin": {
+"b": "The streets off Franklin Canyon and upper Beverly Drive",
+"d": "Franklin Canyon and upper Beverly Drive: wooded canyon lots near Franklin Canyon Park, between Coldwater and Benedict."
+},
+"bhpo-coldwater": {
+"b": "The streets off Coldwater Canyon Drive between Beverly Hills and Mulholland",
+"d": "Coldwater Canyon: hillside homes along the canyon and its side streets, a main route between Beverly Hills and Studio City."
+},
+"bhpo-beverly-park": {
+"b": "The gated Beverly Park community off Mulholland",
+"d": "Beverly Park: a guard-gated enclave of very large estates on the ridge, among the most exclusive addresses in Los Angeles."
+},
+"bhpo-summitridge": {
+"b": "Summitridge Drive and the streets around it between Benedict and Coldwater",
+"d": "Summitridge: ridge-top streets of view homes between Benedict and Coldwater canyons."
+},
+"bhpo-doheny-estates": {
+"b": "The hillside streets north of Sunset around Doheny Road and La Collina Drive",
+"d": "Doheny Estates and La Collina: view homes just above the Sunset Strip and the Beverly Hills flats."
+},
+"hh-bird-streets": {
+"b": "The streets named for birds above Sunset, west of Sunset Plaza",
+"d": "The Bird Streets: Oriole, Thrasher, Blue Jay and their neighbors, steep streets of modern view homes above the Strip and among the most sought after in the hills."
+},
+"hh-sunset-plaza": {
+"b": "The streets off Sunset Plaza Drive above the Strip",
+"d": "Sunset Plaza: view homes reached from Sunset Plaza Drive, close to the Strip's restaurants."
+},
+"hh-west": {
+"b": "The hillside streets above the Strip between Sunset Plaza and Laurel Canyon",
+"d": "Hollywood Hills West: winding view streets just above West Hollywood."
+},
+"hh-laurel": {
+"b": "Laurel Canyon Boulevard and its side streets between Sunset and Mulholland",
+"d": "Laurel Canyon: wooded canyon streets of cottages, remodels and new builds, centered on the Canyon Country Store."
+},
+"hh-wonderland": {
+"b": "The streets off Wonderland Avenue and Lookout Mountain",
+"d": "Wonderland Park: a side canyon off Laurel Canyon with its own elementary school."
+},
+"hh-mt-olympus": {
+"b": "The Mount Olympus development off Laurel Canyon",
+"d": "Mount Olympus: a planned hilltop neighborhood of mostly 1960s and 1970s view homes on streets named for Greek myths."
+},
+"hh-nichols": {
+"b": "Nichols Canyon Road and its side streets",
+"d": "Nichols Canyon: a quiet, green canyon of hillside homes between Laurel Canyon and Outpost."
+},
+"hh-outpost": {
+"b": "Outpost Drive and the Outpost Estates streets above Franklin",
+"d": "Outpost Estates: a 1920s Spanish Revival hillside tract with underground utilities and view homes above Hollywood."
+},
+"hh-hollywood-heights": {
+"b": "The hillside streets above Franklin near Highland and the Hollywood Bowl",
+"d": "Hollywood Heights: older hillside homes and small apartment buildings close to the Bowl."
+},
+"hh-whitley": {
+"b": "The Whitley Heights streets above Franklin and the Hollywood Freeway",
+"d": "Whitley Heights: a historic district of 1920s Mediterranean homes on narrow streets, an early hillside enclave of the film industry."
+},
+"hh-cahuenga": {
+"b": "The hillside streets on both sides of the Cahuenga Pass",
+"d": "Cahuenga Pass: hillside homes along the pass between Hollywood and the Valley, quick to both."
+},
+"hh-dell": {
+"b": "The hillside streets north of Franklin between Cahuenga and Beachwood",
+"d": "The Hollywood Dell: a pocket of hillside homes and small buildings tucked above Franklin, close to Lake Hollywood."
+},
+"hh-lake-hollywood": {
+"b": "The streets ringing the Hollywood Reservoir",
+"d": "Lake Hollywood Estates: homes around the reservoir and its walking loop, with views of the Hollywood Sign."
+},
+"hh-beachwood": {
+"b": "Beachwood Drive and its side streets up to the Hollywoodland gates",
+"d": "Beachwood Canyon: a canyon of 1920s and later homes below the Hollywood Sign, with Beachwood Village's market and cafe."
+},
+"hh-hollywoodland": {
+"b": "The Hollywoodland streets above the stone gates on Beachwood Drive",
+"d": "Hollywoodland: the original 1920s development the Hollywood Sign was built to advertise, with stone retaining walls and storybook homes."
+},
+"ww-village": {
+"b": "Wilshire Boulevard to Le Conte Avenue, Gayley Avenue to Hilgard Avenue",
+"d": "Westwood Village: the shopping and dining district at UCLA's front door, with apartments and condos."
+},
+"ww-north": {
+"b": "Wilshire Boulevard to Sunset, Veteran Avenue to Gayley Avenue",
+"d": "North Westwood: apartments and condos west of campus, plus single-family streets near Veteran Avenue."
+},
+"ww-little-holmby": {
+"b": "Wilshire Boulevard to Sunset, Hilgard Avenue to Beverly Glen Boulevard",
+"d": "Little Holmby: a small grid of large homes between campus and Holmby Hills, among the most sought after streets in Westwood."
+},
+"ww-holmby-westwood": {
+"b": "Wilshire Boulevard to Santa Monica Boulevard, Westwood Boulevard to Beverly Glen",
+"d": "Holmby-Westwood: single-family streets south of Wilshire's condo corridor, close to the Village and Century City."
+},
+"ww-wilshire-west": {
+"b": "Wilshire Boulevard to Santa Monica Boulevard, Sepulveda Boulevard to Westwood Boulevard",
+"d": "The blocks south of the Village: a mix of apartments, condos and some single-family homes near the Westwood Library."
+},
+"ww-south": {
+"b": "Santa Monica Boulevard to Pico, Sepulveda Boulevard to Beverly Glen",
+"d": "Westwood south of Santa Monica Boulevard: single-family streets around Westwood Park and the Westside Pavilion, plus apartments near the boulevards."
+},
+"cen-core": {
+"b": "Santa Monica Boulevard to Pico, Century Park West to Century Park East",
+"d": "The Century City core: office towers, the Westfield mall and high-rise condos."
+},
+"cen-west": {
+"b": "Santa Monica Boulevard to Pico, Beverly Glen to Century Park West",
+"d": "Century City's west side: condo towers and low-rise buildings near the Los Angeles Country Club and Beverly Glen."
+},
+"cen-east": {
+"b": "Santa Monica Boulevard to Pico, Century Park East to the Beverly Hills line",
+"d": "Century City's east side: condo buildings and apartments between the towers and Beverly Hills."
+},
+"wla-sawtelle": {
+"b": "Wilshire Boulevard to Pico, Bundy Drive to the 405",
+"d": "Sawtelle: Japantown's restaurant row on Sawtelle Boulevard plus streets of apartments, small homes and newer townhomes."
+},
+"wla-west": {
+"b": "Santa Monica Boulevard to Pico, the 405 to Sepulveda",
+"d": "West LA east of the 405: apartments and modest single-family streets between Westwood and the freeway."
+},
+"wla-south": {
+"b": "Pico Boulevard to National, Bundy Drive to Sepulveda",
+"d": "West LA south of Pico: single-family streets and apartments near the Expo Line and Westside Pavilion."
+},
+"chv-rancho": {
+"b": "Pico Boulevard to National, Sepulveda to Beverly Glen and Motor",
+"d": "Rancho Park: single-family streets around the Rancho Park golf course and Cheviot Hills Recreation Center."
+},
+"chv-cheviot": {
+"b": "Pico Boulevard to National, Motor Avenue to Beverwil Drive and Castle Heights",
+"d": "Cheviot Hills: curving streets of large traditional homes on rolling terrain, next to Hillcrest Country Club."
+},
+"pr-beverlywood": {
+"b": "Beverwil Drive to Robertson, Castle Heights to National",
+"d": "Beverlywood: a planned 1940s neighborhood of single-family homes with its own homeowners association and design rules."
+},
+"pr-core": {
+"b": "Pico Boulevard to Cadillac, La Cienega to Beverwil",
+"d": "Pico-Robertson: walkable streets of duplexes, Spanish homes and apartments around Pico's kosher markets and shops."
+},
+"palms-n": {
+"b": "National Boulevard to Palms Boulevard, Sepulveda to Motor",
+"d": "North Palms: apartments and small single-family streets near the Expo Line, between Westwood and Culver City."
+},
+"palms-s": {
+"b": "Palms Boulevard to Venice Boulevard, Sepulveda to Motor",
+"d": "South Palms: dense apartment blocks and single-family pockets close to downtown Culver City."
+},
+"mv-hill": {
+"b": "Venice Boulevard to National, Centinela Avenue to Sepulveda",
+"d": "Mar Vista Hill: single-family streets on the slope with long views."
+},
+"mv-west": {
+"b": "Venice Boulevard to National, Walgrove Avenue to Centinela",
+"d": "Mar Vista west of Centinela: single-family streets near Venice and the Mar Vista Farmers Market."
+},
+"mv-south": {
+"b": "Venice Boulevard to Washington, Sepulveda to Walgrove",
+"d": "Mar Vista south of Venice Boulevard: smaller lots, many new builds and remodels, close to Culver City and Venice."
+},
+"ven-ocean-front": {
+"b": "The beach to Pacific Avenue and Main Street, Venice Boulevard to the Santa Monica line",
+"d": "Venice's Ocean Front Walk and the walk streets: beach-close homes and buildings, many on car-free walk streets."
+},
+"ven-oakwood-west": {
+"b": "Main Street and Abbot Kinney to 6th Avenue, California Avenue to the Santa Monica line",
+"d": "North Venice between Main and Sixth: small lots of cottages, remodels and modern new builds near Rose Avenue."
+},
+"ven-oakwood-east": {
+"b": "6th Avenue to Lincoln Boulevard, California Avenue to the Santa Monica line",
+"d": "Oakwood: Venice's historic working neighborhood, now a mix of original bungalows and new modern homes."
+},
+"ven-windward": {
+"b": "Pacific Avenue to Abbot Kinney, Brooks Avenue to Venice Boulevard",
+"d": "Windward Circle and the blocks around it: walk streets and homes between the beach and Abbot Kinney."
+},
+"ven-canals": {
+"b": "Pacific Avenue to Abbot Kinney, Venice Boulevard to Washington",
+"d": "The Venice Canals: homes facing the six canals and footbridges, plus the streets around them."
+},
+"ven-milwood": {
+"b": "Abbot Kinney to Lincoln, California Avenue to Washington",
+"d": "Milwood: a quiet residential grid off Abbot Kinney of cottages and new builds."
+},
+"ven-penmar": {
+"b": "Lincoln Boulevard to Walgrove, Superba Avenue to the Santa Monica line",
+"d": "Penmar: Venice east of Lincoln near Penmar Park and golf course, with larger lots than west Venice."
+},
+"ven-east-south": {
+"b": "Lincoln Boulevard to Walgrove, Venice Boulevard to Superba",
+"d": "East Venice south of Superba: single-family streets."
+},
+"wch-kentwood": {
+"b": "Manchester Avenue north to the bluffs, Loyola Boulevard to Sepulveda",
+"d": "Kentwood: a 1940s and 1950s tract of single-family homes near Loyola Marymount, with ocean-close weather."
+},
+"wch-loyola-village": {
+"b": "Manchester Avenue to Westchester Parkway, Lincoln to Sepulveda",
+"d": "Loyola Village: post-war single-family streets south of Manchester near Westchester Park."
+},
+"wch-westport": {
+"b": "Manchester Avenue north to the bluffs, Sepulveda to Airport Boulevard",
+"d": "Westport Heights: single-family streets on the bluffs east of Sepulveda with views toward the city."
+},
+"wch-osage": {
+"b": "Manchester Avenue south, Sepulveda to Aviation",
+"d": "Westchester east of Sepulveda: single-family streets and apartments between the town center and the airport."
+},
+"mdr-peninsula": {
+"b": "The strip between the ocean and the main channel, south of Venice",
+"d": "Marina Peninsula: walk streets and beach homes between the sand and the marina channel."
+},
+"mdr-silver-strand": {
+"b": "The streets between Via Marina and the Ballona channel",
+"d": "Silver Strand: a small grid of homes and townhomes beside the marina's south jetty."
+},
+"mdr-harbor": {
+"b": "The marina's moles and Admiralty Way",
+"d": "Marina del Rey Harbor: high-rise and mid-rise apartments and condos on the moles around the small-craft harbor."
+},
+"pdr-lower": {
+"b": "The flats between Ballona Creek and the bluffs near Vista del Mar",
+"d": "Lower Playa del Rey: beach-close streets and lagoon views at the foot of the bluffs."
+},
+"pdr-upper": {
+"b": "The bluff-top streets above Vista del Mar",
+"d": "Playa del Rey's bluffs: view homes along the ridge above the beach and Ballona Wetlands."
+},
+"pv-west": {
+"b": "Playa Vista west of the central park, around Bluff Creek",
+"d": "Playa Vista's west side: newer condos, townhomes and single-family homes along the bluff and Bluff Creek trail."
+},
+"pv-east": {
+"b": "Playa Vista east of the central park, around Millennium Drive and the Runway",
+"d": "Playa Vista's east side: the Runway shops, office campuses and newer condos and townhomes."
+},
+"cc-downtown": {
+"b": "Downtown Culver City around Culver Boulevard and Main Street",
+"d": "Downtown Culver City: restaurants, theaters and Sony Pictures, with condos and apartments nearby."
+},
+"cc-arts": {
+"b": "Along Washington and National near La Cienega",
+"d": "The Arts District and Hayden Tract: galleries, creative offices and a few residential blocks."
+},
+"cc-carlson": {
+"b": "The single-family streets around Carlson Park east of downtown",
+"d": "Carlson Park: Spanish and traditional homes on a tree-lined grid a few blocks from downtown."
+},
+"cc-veterans": {
+"b": "The streets around Veterans Memorial Park and Overland Avenue",
+"d": "Veterans Park area: single-family streets near the park, the plunge and the Culver City High campus."
+},
+"cc-studio-village": {
+"b": "Studio Village west of Overland near Jefferson",
+"d": "Studio Village: post-war single-family homes on quiet streets near the Ballona Creek path."
+},
+"cc-sunkist": {
+"b": "Sunkist Park in the city's west end",
+"d": "Sunkist Park: single-family streets in the west end near the 405."
+},
+"cc-fox-hills": {
+"b": "Fox Hills around the mall and Slauson",
+"d": "Fox Hills: condos and apartments on the hills near Westfield Culver City."
+},
+"cc-culver-west": {
+"b": "Culver West, the unincorporated and city streets west of the 405 near Washington",
+"d": "Culver West: single-family streets near Culver West Park and Washington Boulevard."
+},
+"cc-culver-crest": {
+"b": "Culver Crest, the hillside above Overland and Jefferson",
+"d": "Culver Crest: hillside homes with city and ocean views, above the Ballona Creek flats."
+},
+"cc-blair-hills": {
+"b": "Blair Hills, by the Baldwin Hills Scenic Overlook",
+"d": "Blair Hills: a hillside tract next to the Baldwin Hills Scenic Overlook and its stairs."
+},
+"weho-west": {
+"b": "Santa Monica Boulevard south to the city line at Beverly, Doheny Drive to La Cienega",
+"d": "West Hollywood West: a quiet grid of Spanish homes, duplexes and new builds next to the Pacific Design Center and Robertson."
+},
+"weho-norma": {
+"b": "Santa Monica Boulevard to Sunset, Doheny Drive to San Vicente",
+"d": "Norma Triangle: small streets of cottages and duplexes in the triangle below Sunset, a short walk to both the Strip and Santa Monica Boulevard."
+},
+"weho-strip": {
+"b": "The West Hollywood side of Sunset Boulevard, Doheny to Crescent Heights",
+"d": "The Sunset Strip: the boulevard itself and the city's thin band of hillside lots just above it."
+},
+"weho-center": {
+"b": "Santa Monica Boulevard to Sunset, San Vicente to La Cienega",
+"d": "Central West Hollywood: apartments, condos and small homes around Santa Monica Boulevard's busiest stretch."
+},
+"weho-north": {
+"b": "Santa Monica Boulevard to Sunset and the city line, La Cienega to Fairfax",
+"d": "West Hollywood north of Santa Monica Boulevard: historic courtyard buildings, condos and homes around Havenhurst, Harper and Kings Road."
+},
+"weho-south": {
+"b": "Santa Monica Boulevard south to the city line, La Cienega to Fairfax",
+"d": "West Hollywood south of Santa Monica Boulevard: Spanish duplexes, small homes and new builds up to the city line near Melrose."
+},
+"weho-east": {
+"b": "Fairfax Avenue to the city line at La Brea",
+"d": "West Hollywood's Eastside: apartments and condos around Plummer Park and the Formosa and Gardner streets."
+},
+"fx-melrose": {
+"b": "Melrose Avenue north to the West Hollywood line, Fairfax to La Brea",
+"d": "The blocks just north of Melrose: Spanish duplexes and homes between the shopping street and West Hollywood."
+},
+"fx-beverly-fairfax": {
+"b": "Melrose Avenue to 3rd Street, Fairfax to La Brea",
+"d": "Beverly-Fairfax: 1920s and 1930s Spanish homes and duplexes around the Grove, the Farmers Market and Pan Pacific Park."
+},
+"fx-plb": {
+"b": "3rd Street to 6th Street, Fairfax to La Brea",
+"d": "Park La Brea: the large apartment community and the residential blocks east of it toward La Brea."
+},
+"mm-north": {
+"b": "6th Street to Wilshire Boulevard, Fairfax to La Brea",
+"d": "Museum Row: LACMA, the Academy Museum and the La Brea Tar Pits, with apartments and condos north of Wilshire."
+},
+"mm-south": {
+"b": "Wilshire Boulevard to Olympic, Fairfax to La Brea",
+"d": "Miracle Mile: a historic district of 1920s and 1930s duplexes and homes south of Wilshire's museums."
+},
+"bg-melrose": {
+"b": "The West Hollywood line south to Beverly Boulevard, La Cienega to Fairfax",
+"d": "The Beverly Grove blocks between Melrose and Beverly: Spanish homes, duplexes and new builds near the Melrose shops."
+},
+"bg-burton": {
+"b": "Beverly Boulevard south to the Beverly Hills line, La Cienega west",
+"d": "Burton Way and Cedars: condo buildings along Burton Way and blocks around Cedars-Sinai and the Beverly Center."
+},
+"bg-core": {
+"b": "Beverly Boulevard to Wilshire, La Cienega to Fairfax",
+"d": "Beverly Grove: Spanish duplexes and homes around 3rd Street's shops and restaurants."
+},
+"bg-carthay": {
+"b": "Wilshire Boulevard to Olympic, La Cienega to Fairfax",
+"d": "Carthay Circle: a historic district of curving streets and Spanish homes, plus the blocks around it."
+},
+"bg-south-carthay": {
+"b": "Olympic Boulevard to Pico, La Cienega to Fairfax",
+"d": "South Carthay: a historic district of 1930s Spanish homes on a quiet grid."
+},
+"hp-la-brea-hancock": {
+"b": "Melrose Avenue to Wilshire, La Brea to Highland",
+"d": "La Brea-Hancock: Spanish and traditional homes on streets just west of Hancock Park, with apartments near the boulevards."
+},
+"hp-hancock": {
+"b": "Melrose Avenue to Wilshire, Highland to Rossmore",
+"d": "Hancock Park: large 1920s estates on wide streets around the Wilshire Country Club, one of the city's grandest historic districts."
+},
+"hp-larchmont": {
+"b": "Melrose Avenue to Beverly, Rossmore to Van Ness",
+"d": "Larchmont Village: homes and duplexes around Larchmont Boulevard's small-town strip of shops and cafes."
+},
+"hp-windsor": {
+"b": "Beverly Boulevard to Wilshire, Rossmore to Van Ness",
+"d": "Windsor Square: large historic homes on tree-lined streets, home to the mayor's residence, Getty House."
+},
+"hw-spaulding": {
+"b": "The West Hollywood line north to Sunset, Fairfax to La Brea",
+"d": "Spaulding Square and its neighbors: 1920s bungalows and Spanish homes, partly a historic district."
+},
+"hw-sunset-square": {
+"b": "Sunset Boulevard to Hollywood Boulevard, Fairfax to La Brea",
+"d": "Sunset Square: a historic district of 1920s homes and duplexes at the foot of the hills."
+},
+"hw-core": {
+"b": "Sunset Boulevard to Franklin, La Brea to the Hollywood Freeway",
+"d": "Central Hollywood: the Walk of Fame, high-rise living and older apartment buildings."
+},
+"hw-franklin": {
+"b": "Sunset Boulevard to Franklin, the Hollywood Freeway to Western",
+"d": "Franklin Village and the east side of central Hollywood: older apartments, small homes and the Franklin Avenue cafes."
+},
+"hw-media": {
+"b": "Santa Monica Boulevard to Sunset, La Brea to Western",
+"d": "Hollywood's media district: studios and post-production houses, apartments and a few small-home streets."
+},
+"hw-studio": {
+"b": "Melrose Avenue to Santa Monica Boulevard, La Brea to Western",
+"d": "The studio district between Melrose and Santa Monica: small homes and duplexes near Paramount and the Hollywood Forever cemetery."
+},
+"eh-north": {
+"b": "Hollywood Boulevard to Santa Monica Boulevard, Western to Vermont",
+"d": "Thai Town and Little Armenia: apartments and small homes along Hollywood Boulevard's restaurant strip."
+},
+"eh-south": {
+"b": "Santa Monica Boulevard to Melrose, Western to Vermont",
+"d": "The south half of East Hollywood: bungalows and duplexes, including the small Melrose Hill historic district."
+},
+"eh-virgil": {
+"b": "Hollywood Boulevard and Sunset south to Melrose, Vermont to Hoover",
+"d": "Virgil Village and Barnsdall: craftsman bungalows and small apartments near Barnsdall Art Park and the Vermont hospitals."
+},
+"lf-flats": {
+"b": "Los Feliz Boulevard to Hollywood Boulevard, Western to Vermont, around Laughlin Park",
+"d": "The Los Feliz flats: Spanish and Tudor homes and classic apartment buildings on a tree-lined grid."
+},
+"lf-laughlin": {
+"b": "Franklin Avenue to Los Feliz Boulevard, Hobart to Normandie",
+"d": "Laughlin Park: a small gated hill of historic estates above Franklin Avenue."
+},
+"lf-village": {
+"b": "Los Feliz Boulevard to Hollywood Boulevard, Vermont to Hillhurst",
+"d": "Los Feliz Village: the shops and cafes of Vermont and Hillhurst, with homes and apartments between them."
+},
+"lf-estates": {
+"b": "North of Los Feliz Boulevard, west of Vermont toward Fern Dell",
+"d": "Los Feliz Estates: hillside homes north of the boulevard near the Griffith Park entrance at Fern Dell."
+},
+"lf-oaks": {
+"b": "North of Los Feliz Boulevard around Glendower, Bryn Mawr and Commonwealth",
+"d": "Los Feliz Oaks: large hillside homes, including the Ennis House, on the slopes below Griffith Observatory."
+},
+"lf-franklin-hills": {
+"b": "Hillhurst east to Hyperion, Los Feliz Boulevard south to Sunset",
+"d": "Franklin Hills: hillside homes and public stairways around the Shakespeare Bridge."
+},
+"sl-moreno": {
+"b": "The streets around Moreno Drive west of the reservoir",
+"d": "Moreno Highlands: hillside homes above the Silver Lake Reservoir and its walking path."
+},
+"sl-heights": {
+"b": "The hills north of the reservoir toward Glendale Boulevard",
+"d": "Silver Lake Heights: hillside streets above the reservoir's north end, with views toward Griffith Park."
+},
+"sl-ivanhoe": {
+"b": "The streets around Ivanhoe Drive on the reservoir's east side",
+"d": "Ivanhoe: homes on the hills east of the reservoir, close to the Silver Lake Meadow."
+},
+"sl-west": {
+"b": "The hills around Edgecliffe Drive and Redcliff Street above Sunset",
+"d": "Silver Lake's west hills: stairways and view homes above Sunset Junction."
+},
+"sl-east": {
+"b": "The streets east of Silver Lake Boulevard toward Glendale Boulevard",
+"d": "Silver Lake's east side: hillside homes and stairways between the reservoir and Echo Park."
+},
+"sl-flats": {
+"b": "Sunset Junction and the flats south toward the 101",
+"d": "Sunset Junction and the Silver Lake flats: bungalows, apartments and Sunset Boulevard's shops."
+},
+"ep-elysian-heights": {
+"b": "The hills north of Echo Park Avenue toward Elysian Park",
+"d": "Elysian Heights: hillside homes and stairways bordering Elysian Park."
+},
+"ep-central": {
+"b": "Echo Park Avenue and the streets around Lemoyne and Logan",
+"d": "Echo Park Avenue: hillside bungalows and small apartment buildings north of Sunset."
+},
+"ep-lake": {
+"b": "The streets around Echo Park Lake",
+"d": "Echo Park Lake: homes and apartments around the lake and its lotus beds."
+},
+"ep-angelino": {
+"b": "The streets around Carroll Avenue and Kensington Road",
+"d": "Angelino Heights: one of LA's first suburbs, known for its Victorian homes on Carroll Avenue."
+},
+"ep-victor": {
+"b": "The hill streets east of Echo Park near Chinatown",
+"d": "Victor Heights: a small hillside pocket between Echo Park, Chinatown and Dodger Stadium."
+},
+"mal-lechuza": {
+"b": "Malibu's west end around Encinal Bluffs and Lechuza Beach",
+"d": "Encinal Bluffs and Lechuza: bluff-top and beach homes at the city's quiet west end."
+},
+"mal-broad-beach": {
+"b": "Broad Beach Road and the Trancas area",
+"d": "Broad Beach and Trancas: beachfront homes along Broad Beach Road plus the Trancas Canyon streets."
+},
+"mal-park": {
+"b": "North of the highway around Morning View and Busch drives",
+"d": "Malibu Park and Malibu West: larger lots, horse properties and ocean views above Zuma Beach."
+},
+"mal-point-dume": {
+"b": "The headland south of the highway around Dume Drive",
+"d": "Point Dume: flat, wide lots on the headland with bluff-top ocean views and beach access."
+},
+"mal-ramirez": {
+"b": "Paradise Cove Road, Ramirez Canyon and Zumirez Drive",
+"d": "Paradise Cove and Ramirez Canyon: gated canyon estates and the Paradise Cove beach."
+},
+"mal-latigo": {
+"b": "The coast and lower canyons around Latigo and Escondido",
+"d": "Latigo and Escondido: coastal canyon homes with ocean views."
+},
+"mal-corral": {
+"b": "The coast around Corral Canyon and Solstice Canyon",
+"d": "Corral and Solstice: a quieter stretch of coast near the Solstice Canyon trailhead."
+},
+"mal-malibu-road": {
+"b": "Malibu Road below Pepperdine",
+"d": "Malibu Road: beachfront homes on a private-feeling road below the bluffs."
+},
+"mal-colony": {
+"b": "Malibu Colony Road",
+"d": "Malibu Colony: the gated beachfront colony next to Surfrider Beach and the lagoon."
+},
+"mal-serra": {
+"b": "Serra Road, Malibu Knolls and the Civic Center",
+"d": "Serra Retreat and the Civic Center: a gated hillside enclave plus the Cross Creek shops."
+},
+"mal-carbon": {
+"b": "Carbon Beach and the mesas above it",
+"d": "Carbon Beach and Sweetwater Mesa: beachfront homes along the highway and gated view estates above."
+},
+"mal-la-costa": {
+"b": "La Costa Beach and the Las Flores Canyon streets",
+"d": "La Costa and Las Flores: beachfront homes below the Rambla Pacifico hills."
+},
+"mal-big-rock": {
+"b": "Big Rock Drive and the mesa above the highway",
+"d": "Big Rock: hillside homes on the mesa above Big Rock Beach."
+},
+"mal-east": {
+"b": "Malibu's east end around Las Tunas Beach and Tuna Canyon",
+"d": "Las Tunas: beachfront homes along the highway at the city's east end."
+},
+"sc-hills": {
+"b": "South of Ventura Boulevard to Mulholland, Coldwater Canyon east to the Cahuenga Pass",
+"d": "Studio City Hills: view homes on the hillside streets south of the boulevard, including Fryman Canyon and Woodrow Wilson Drive."
+},
+"sc-south": {
+"b": "Ventura Boulevard to Moorpark Street, Fulton Avenue to Lankershim",
+"d": "Studio City's flats south of Moorpark: homes and new builds close to Ventura Boulevard and Tujunga Village.",
+"name": "Studio City South Flats"
+},
+"sc-north": {
+"b": "Moorpark Street to the 101, Fulton Avenue to Lankershim",
+"d": "Studio City's flats north of Moorpark: single-family streets near the LA River path and Colfax Meadows."
+},
+"vv-south": {
+"b": "The 101 to Magnolia Boulevard, Fulton Avenue to the 170",
+"d": "Valley Village south of Magnolia: 1940s and 1950s homes and many new builds near the Studio City line."
+},
+"vv-north": {
+"b": "Magnolia Boulevard to Burbank Boulevard, Fulton Avenue to the 170",
+"d": "Valley Village north of Magnolia: single-family streets and apartments near Valley College."
+},
+"noho-south": {
+"b": "The 101 and 134 to Magnolia Boulevard, the 170 to Cahuenga",
+"d": "Toluca Woods and south North Hollywood: single-family streets near Toluca Lake and the studios."
+},
+"noho-arts": {
+"b": "Magnolia Boulevard to Burbank Boulevard, the 170 to Cahuenga",
+"d": "The NoHo Arts District: theaters, the Metro hub and newer apartments, with bungalow streets around them."
+},
+"noho-north": {
+"b": "Burbank Boulevard to Victory, the 170 to Vineland",
+"d": "Mid-Town North Hollywood: single-family streets and apartments north of the Arts District."
+},
+"so-south": {
+"b": "Ventura Boulevard to the 101, the 405 to Fulton Avenue",
+"d": "Sherman Oaks between the boulevard and the freeway: walkable to Ventura Boulevard's shops and the Galleria.",
+"name": "Sherman Oaks South of the 101"
+},
+"so-ne": {
+"b": "The 101 to Burbank Boulevard, Van Nuys Boulevard to Fulton",
+"d": "Northeast Sherman Oaks: single-family streets around Van Nuys-Sherman Oaks Park."
+},
+"so-nw": {
+"b": "The 101 to Burbank Boulevard, the 405 to Van Nuys Boulevard",
+"d": "Northwest Sherman Oaks: single-family streets and apartments near the Sepulveda Basin."
+},
+"so-hills-east": {
+"b": "South of Ventura Boulevard to Mulholland, east of the Sherman Oaks Hills West streets",
+"d": "The Sherman Oaks hills east of Beverly Glen's Valley side: view homes on winding streets above the boulevard."
+},
+"so-hills-west": {
+"b": "South of Ventura Boulevard to Mulholland, toward the 405",
+"d": "The western Sherman Oaks hills: view homes above Ventura Boulevard near the Sepulveda Pass."
+},
+"vn-south": {
+"b": "Burbank Boulevard to Victory, the 405 to Woodman",
+"d": "South Van Nuys: single-family streets bordering Sherman Oaks."
+},
+"vn-central": {
+"b": "Victory Boulevard to Sherman Way, the 405 to Woodman",
+"d": "Central Van Nuys: the civic center, apartments and single-family streets."
+},
+"vn-north": {
+"b": "Sherman Way to Roscoe, the 405 to Woodman",
+"d": "North Van Nuys: single-family streets around the airport and Panorama City line."
+},
+"enc-hills": {
+"b": "South of Ventura Boulevard to Mulholland, from the 405 west",
+"d": "Encino's hills: larger view homes and gated streets above the boulevard."
+},
+"enc-village": {
+"b": "Ventura Boulevard to the 101, the 405 to Lindley",
+"d": "Encino between the boulevard and the freeway: single-family streets walkable to Ventura Boulevard.",
+"name": "Encino South of the 101"
+},
+"enc-east": {
+"b": "The 101 to Burbank Boulevard, the 405 to Balboa",
+"d": "Encino's east flats near the Sepulveda Basin and Balboa Park."
+},
+"enc-amestoy": {
+"b": "The 101 to Victory Boulevard, Balboa to White Oak",
+"d": "Amestoy Estates: large flat lots and estate homes north of the freeway."
+},
+"enc-west": {
+"b": "The 101 to Victory Boulevard, White Oak to Lindley",
+"d": "Encino's west flats: single-family streets on large lots."
+},
+"tz-hills": {
+"b": "South of Ventura Boulevard into the hills",
+"d": "Tarzana's hills: view homes and larger lots above the boulevard."
+},
+"tz-village": {
+"b": "Ventura Boulevard to the 101, Lindley to Corbin",
+"d": "Tarzana between the boulevard and the freeway.",
+"name": "Tarzana South of the 101"
+},
+"tz-north": {
+"b": "The 101 to Victory Boulevard, Lindley to Corbin",
+"d": "Tarzana's flats north of the freeway: single-family streets on generous lots."
+},
+"wh-hills": {
+"b": "South of Ventura Boulevard into the hills",
+"d": "Woodland Hills south of the boulevard: hillside homes near Serrania Park and Mulholland."
+},
+"wh-east": {
+"b": "The 101 to Victory Boulevard, Corbin to De Soto",
+"d": "East Woodland Hills: single-family streets near Pierce College."
+},
+"wh-warner": {
+"b": "The 101 to Vanowen Street, De Soto to Topanga Canyon",
+"d": "Warner Center: the Valley's newer high-density district of apartments, offices and the Topanga malls."
+},
+"wh-west": {
+"b": "The 101 to Victory Boulevard, Topanga Canyon to Valley Circle",
+"d": "West Woodland Hills: single-family streets toward the Calabasas line."
+},
+"res-south": {
+"b": "Victory Boulevard to Sherman Way, White Oak to Corbin",
+"d": "South Reseda: single-family streets on larger lots near the Reseda town center."
+},
+"res-north": {
+"b": "Sherman Way to Roscoe, White Oak to Corbin",
+"d": "North Reseda: single-family streets and some apartments toward Northridge."
+}
+}

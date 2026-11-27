@@ -12,6 +12,8 @@ Local LA
 
 Tap any neighborhood for its map of hand-picked restaurants, bars and things to do, plus the homes, the rules and who it fits.
 
+[New: the LA pocket map Every micro-neighborhood, from the Bird Streets to North of Montana, drawn street by street →](https://www.nathanielgrivas.com/neighborhoods/map)
+
 ###
 
 [CoastMalibuTwenty-one miles of coast, its own city, and septic tanks. Malibu $$$$](https://www.nathanielgrivas.com/neighborhoods/malibu)

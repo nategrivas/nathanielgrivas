@@ -34,6 +34,32 @@ Marina del Rey is unincorporated LA County, built around a small-craft harbor th
 
 Call Text
 
+Block by block
+
+## The pockets of Marina del Rey
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Marina del Rey is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Marina Peninsula
+
+The strip between the ocean and the main channel, south of Venice
+
+Marina Peninsula: walk streets and beach homes between the sand and the marina channel.
+
+### Silver Strand
+
+The streets between Via Marina and the Ballona channel
+
+Silver Strand: a small grid of homes and townhomes beside the marina's south jetty.
+
+### Marina del Rey Harbor
+
+The marina's moles and Admiralty Way
+
+Marina del Rey Harbor: high-rise and mid-rise apartments and condos on the moles around the small-craft harbor.
+
 The map
 
 ## Marina del Rey, mapped

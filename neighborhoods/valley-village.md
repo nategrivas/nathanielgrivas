@@ -34,6 +34,26 @@ Valley Village is a small City of LA neighborhood between Studio City, Sherman O
 
 Call Text
 
+Block by block
+
+## The pockets of Valley Village
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Valley Village is really 2 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Valley Village South
+
+The 101 to Magnolia Boulevard, Fulton Avenue to the 170
+
+Valley Village south of Magnolia: 1940s and 1950s homes and many new builds near the Studio City line.
+
+### Valley Village North
+
+Magnolia Boulevard to Burbank Boulevard, Fulton Avenue to the 170
+
+Valley Village north of Magnolia: single-family streets and apartments near Valley College.
+
 The map
 
 ## Valley Village, mapped

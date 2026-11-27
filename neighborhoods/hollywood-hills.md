@@ -34,6 +34,104 @@ The Hollywood Hills run along the Santa Monica Mountains above Hollywood and Wes
 
 Call Text
 
+Block by block
+
+## The pockets of Hollywood Hills
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Hollywood Hills is really 15 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Bird Streets
+
+The streets named for birds above Sunset, west of Sunset Plaza
+
+The Bird Streets: Oriole, Thrasher, Blue Jay and their neighbors, steep streets of modern view homes above the Strip and among the most sought after in the hills.
+
+### Sunset Plaza
+
+The streets off Sunset Plaza Drive above the Strip
+
+Sunset Plaza: view homes reached from Sunset Plaza Drive, close to the Strip's restaurants.
+
+### Hollywood Hills West
+
+The hillside streets above the Strip between Sunset Plaza and Laurel Canyon
+
+Hollywood Hills West: winding view streets just above West Hollywood.
+
+### Laurel Canyon
+
+Laurel Canyon Boulevard and its side streets between Sunset and Mulholland
+
+Laurel Canyon: wooded canyon streets of cottages, remodels and new builds, centered on the Canyon Country Store.
+
+### Wonderland Park
+
+The streets off Wonderland Avenue and Lookout Mountain
+
+Wonderland Park: a side canyon off Laurel Canyon with its own elementary school.
+
+### Mount Olympus
+
+The Mount Olympus development off Laurel Canyon
+
+Mount Olympus: a planned hilltop neighborhood of mostly 1960s and 1970s view homes on streets named for Greek myths.
+
+### Nichols Canyon
+
+Nichols Canyon Road and its side streets
+
+Nichols Canyon: a quiet, green canyon of hillside homes between Laurel Canyon and Outpost.
+
+### Outpost Estates
+
+Outpost Drive and the Outpost Estates streets above Franklin
+
+Outpost Estates: a 1920s Spanish Revival hillside tract with underground utilities and view homes above Hollywood.
+
+### Hollywood Heights
+
+The hillside streets above Franklin near Highland and the Hollywood Bowl
+
+Hollywood Heights: older hillside homes and small apartment buildings close to the Bowl.
+
+### Whitley Heights
+
+The Whitley Heights streets above Franklin and the Hollywood Freeway
+
+Whitley Heights: a historic district of 1920s Mediterranean homes on narrow streets, an early hillside enclave of the film industry.
+
+### Cahuenga Pass
+
+The hillside streets on both sides of the Cahuenga Pass
+
+Cahuenga Pass: hillside homes along the pass between Hollywood and the Valley, quick to both.
+
+### Hollywood Dell
+
+The hillside streets north of Franklin between Cahuenga and Beachwood
+
+The Hollywood Dell: a pocket of hillside homes and small buildings tucked above Franklin, close to Lake Hollywood.
+
+### Lake Hollywood Estates
+
+The streets ringing the Hollywood Reservoir
+
+Lake Hollywood Estates: homes around the reservoir and its walking loop, with views of the Hollywood Sign.
+
+### Beachwood Canyon
+
+Beachwood Drive and its side streets up to the Hollywoodland gates
+
+Beachwood Canyon: a canyon of 1920s and later homes below the Hollywood Sign, with Beachwood Village's market and cafe.
+
+### Hollywoodland
+
+The Hollywoodland streets above the stone gates on Beachwood Drive
+
+Hollywoodland: the original 1920s development the Hollywood Sign was built to advertise, with stone retaining walls and storybook homes.
+
 The story of Hollywood Hills
 
 ## A billboard, a secret studio and a canyon full of songs

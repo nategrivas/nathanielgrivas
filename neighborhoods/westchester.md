@@ -34,6 +34,38 @@ Westchester grew up in the 1940s around LAX and the aircraft plants. It's a City
 
 Call Text
 
+Block by block
+
+## The pockets of Westchester
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Westchester is really 4 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Kentwood
+
+Manchester Avenue north to the bluffs, Loyola Boulevard to Sepulveda
+
+Kentwood: a 1940s and 1950s tract of single-family homes near Loyola Marymount, with ocean-close weather.
+
+### Loyola Village
+
+Manchester Avenue to Westchester Parkway, Lincoln to Sepulveda
+
+Loyola Village: post-war single-family streets south of Manchester near Westchester Park.
+
+### Westport Heights
+
+Manchester Avenue north to the bluffs, Sepulveda to Airport Boulevard
+
+Westport Heights: single-family streets on the bluffs east of Sepulveda with views toward the city.
+
+### Osage & East Westchester
+
+Manchester Avenue south, Sepulveda to Aviation
+
+Westchester east of Sepulveda: single-family streets and apartments between the town center and the airport.
+
 The map
 
 ## Westchester, mapped

@@ -34,6 +34,32 @@ Studio City is a City of LA neighborhood in the southeast Valley, named for the 
 
 Call Text
 
+Block by block
+
+## The pockets of Studio City
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Studio City is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Studio City Hills
+
+South of Ventura Boulevard to Mulholland, Coldwater Canyon east to the Cahuenga Pass
+
+Studio City Hills: view homes on the hillside streets south of the boulevard, including Fryman Canyon and Woodrow Wilson Drive.
+
+### Studio City South Flats
+
+Ventura Boulevard to Moorpark Street, Fulton Avenue to Lankershim
+
+Studio City's flats south of Moorpark: homes and new builds close to Ventura Boulevard and Tujunga Village.
+
+### Studio City North Flats
+
+Moorpark Street to the 101, Fulton Avenue to Lankershim
+
+Studio City's flats north of Moorpark: single-family streets near the LA River path and Colfax Meadows.
+
 The map
 
 ## Studio City, mapped

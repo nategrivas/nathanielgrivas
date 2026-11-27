@@ -34,6 +34,26 @@ Playa Vista was built from scratch starting in the early 2000s on the former Hug
 
 Call Text
 
+Block by block
+
+## The pockets of Playa Vista
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Playa Vista is really 2 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Playa Vista West
+
+Playa Vista west of the central park, around Bluff Creek
+
+Playa Vista's west side: newer condos, townhomes and single-family homes along the bluff and Bluff Creek trail.
+
+### Playa Vista East
+
+Playa Vista east of the central park, around Millennium Drive and the Runway
+
+Playa Vista's east side: the Runway shops, office campuses and newer condos and townhomes.
+
 The map
 
 ## Playa Vista, mapped

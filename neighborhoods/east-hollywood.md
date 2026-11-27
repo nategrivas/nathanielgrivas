@@ -34,6 +34,32 @@ East Hollywood is a City of LA neighborhood between Hollywood, Los Feliz and Sil
 
 Call Text
 
+Block by block
+
+## The pockets of East Hollywood
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. East Hollywood is really 3 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Thai Town & Little Armenia
+
+Hollywood Boulevard to Santa Monica Boulevard, Western to Vermont
+
+Thai Town and Little Armenia: apartments and small homes along Hollywood Boulevard's restaurant strip.
+
+### Melrose Hill & East Hollywood South
+
+Santa Monica Boulevard to Melrose, Western to Vermont
+
+The south half of East Hollywood: bungalows and duplexes, including the small Melrose Hill historic district.
+
+### Virgil Village & Barnsdall
+
+Hollywood Boulevard and Sunset south to Melrose, Vermont to Hoover
+
+Virgil Village and Barnsdall: craftsman bungalows and small apartments near Barnsdall Art Park and the Vermont hospitals.
+
 The map
 
 ## East Hollywood, mapped

@@ -34,6 +34,50 @@ Silver Lake is a City of LA neighborhood built around the Silver Lake Reservoir,
 
 Call Text
 
+Block by block
+
+## The pockets of Silver Lake
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Silver Lake is really 6 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Moreno Highlands
+
+The streets around Moreno Drive west of the reservoir
+
+Moreno Highlands: hillside homes above the Silver Lake Reservoir and its walking path.
+
+### Silver Lake Heights
+
+The hills north of the reservoir toward Glendale Boulevard
+
+Silver Lake Heights: hillside streets above the reservoir's north end, with views toward Griffith Park.
+
+### Ivanhoe
+
+The streets around Ivanhoe Drive on the reservoir's east side
+
+Ivanhoe: homes on the hills east of the reservoir, close to the Silver Lake Meadow.
+
+### Silver Lake West Hills
+
+The hills around Edgecliffe Drive and Redcliff Street above Sunset
+
+Silver Lake's west hills: stairways and view homes above Sunset Junction.
+
+### Silver Lake East
+
+The streets east of Silver Lake Boulevard toward Glendale Boulevard
+
+Silver Lake's east side: hillside homes and stairways between the reservoir and Echo Park.
+
+### Sunset Junction & Silver Lake Flats
+
+Sunset Junction and the flats south toward the 101
+
+Sunset Junction and the Silver Lake flats: bungalows, apartments and Sunset Boulevard's shops.
+
 The map
 
 ## Silver Lake, mapped

@@ -34,6 +34,38 @@ Hancock Park is one of LA's oldest wealthy neighborhoods, developed in the 1920s
 
 Call Text
 
+Block by block
+
+## The pockets of Hancock Park & Larchmont
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Hancock Park & Larchmont is really 4 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### La Brea-Hancock
+
+Melrose Avenue to Wilshire, La Brea to Highland
+
+La Brea-Hancock: Spanish and traditional homes on streets just west of Hancock Park, with apartments near the boulevards.
+
+### Hancock Park
+
+Melrose Avenue to Wilshire, Highland to Rossmore
+
+Hancock Park: large 1920s estates on wide streets around the Wilshire Country Club, one of the city's grandest historic districts.
+
+### Larchmont Village
+
+Melrose Avenue to Beverly, Rossmore to Van Ness
+
+Larchmont Village: homes and duplexes around Larchmont Boulevard's small-town strip of shops and cafes.
+
+### Windsor Square
+
+Beverly Boulevard to Wilshire, Rossmore to Van Ness
+
+Windsor Square: large historic homes on tree-lined streets, home to the mayor's residence, Getty House.
+
 The story of Hancock Park & Larchmont
 
 ## Tar pits, oil wells and the houses they paid for

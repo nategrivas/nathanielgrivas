@@ -34,6 +34,26 @@ Reseda is a City of LA neighborhood in the west-central Valley, north of Tarzana
 
 Call Text
 
+Block by block
+
+## The pockets of Reseda
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Reseda is really 2 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Reseda South
+
+Victory Boulevard to Sherman Way, White Oak to Corbin
+
+South Reseda: single-family streets on larger lots near the Reseda town center.
+
+### Reseda North
+
+Sherman Way to Roscoe, White Oak to Corbin
+
+North Reseda: single-family streets and some apartments toward Northridge.
+
 The map
 
 ## Reseda, mapped

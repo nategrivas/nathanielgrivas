@@ -34,6 +34,50 @@ Beverly Hills Post Office, or BHPO, is the hillside area above Beverly Hills tha
 
 Call Text
 
+Block by block
+
+## The pockets of Beverly Hills Post Office
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. Beverly Hills Post Office is really 6 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### Benedict Canyon
+
+The streets off Benedict Canyon Drive above the Beverly Hills city line
+
+Benedict Canyon: a long canyon of hillside homes on side streets and ridges, with a Beverly Hills mailing address and City of LA services.
+
+### Franklin Canyon & Upper Beverly Drive
+
+The streets off Franklin Canyon and upper Beverly Drive
+
+Franklin Canyon and upper Beverly Drive: wooded canyon lots near Franklin Canyon Park, between Coldwater and Benedict.
+
+### Coldwater Canyon
+
+The streets off Coldwater Canyon Drive between Beverly Hills and Mulholland
+
+Coldwater Canyon: hillside homes along the canyon and its side streets, a main route between Beverly Hills and Studio City.
+
+### Beverly Park
+
+The gated Beverly Park community off Mulholland
+
+Beverly Park: a guard-gated enclave of very large estates on the ridge, among the most exclusive addresses in Los Angeles.
+
+### Summitridge
+
+Summitridge Drive and the streets around it between Benedict and Coldwater
+
+Summitridge: ridge-top streets of view homes between Benedict and Coldwater canyons.
+
+### Doheny Estates & La Collina
+
+The hillside streets north of Sunset around Doheny Road and La Collina Drive
+
+Doheny Estates and La Collina: view homes just above the Sunset Strip and the Beverly Hills flats.
+
 The story of Beverly Hills Post Office
 
 ## The 90210 that's really Los Angeles

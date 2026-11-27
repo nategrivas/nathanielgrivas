@@ -34,6 +34,56 @@ West Hollywood is its own city of about 1.9 square miles between Beverly Hills a
 
 Call Text
 
+Block by block
+
+## The pockets of West Hollywood
+
+[Every LA pocket on one map →](https://www.nathanielgrivas.com/neighborhoods/map)
+
+In Los Angeles a single street can change the price of a house. West Hollywood is really 7 smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.
+
+### West Hollywood West
+
+Santa Monica Boulevard south to the city line at Beverly, Doheny Drive to La Cienega
+
+West Hollywood West: a quiet grid of Spanish homes, duplexes and new builds next to the Pacific Design Center and Robertson.
+
+### Norma Triangle
+
+Santa Monica Boulevard to Sunset, Doheny Drive to San Vicente
+
+Norma Triangle: small streets of cottages and duplexes in the triangle below Sunset, a short walk to both the Strip and Santa Monica Boulevard.
+
+### Sunset Strip
+
+The West Hollywood side of Sunset Boulevard, Doheny to Crescent Heights
+
+The Sunset Strip: the boulevard itself and the city's thin band of hillside lots just above it.
+
+### West Hollywood Center
+
+Santa Monica Boulevard to Sunset, San Vicente to La Cienega
+
+Central West Hollywood: apartments, condos and small homes around Santa Monica Boulevard's busiest stretch.
+
+### West Hollywood North
+
+Santa Monica Boulevard to Sunset and the city line, La Cienega to Fairfax
+
+West Hollywood north of Santa Monica Boulevard: historic courtyard buildings, condos and homes around Havenhurst, Harper and Kings Road.
+
+### West Hollywood South
+
+Santa Monica Boulevard south to the city line, La Cienega to Fairfax
+
+West Hollywood south of Santa Monica Boulevard: Spanish duplexes, small homes and new builds up to the city line near Melrose.
+
+### West Hollywood Eastside
+
+Fairfax Avenue to the city line at La Brea
+
+West Hollywood's Eastside: apartments and condos around Plummer Park and the Formosa and Gardner streets.
+
 The map
 
 ## West Hollywood, mapped

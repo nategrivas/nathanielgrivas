@@ -20,6 +20,8 @@ import guide_build as G  # noqa: E402
 GUIDES = G.load()
 import history as HI  # noqa: E402
 HIST = HI.load()
+import pockets as PKT
+POCKETS = PKT.load()
 import math  # noqa: E402
 from urllib.parse import quote_plus  # noqa: E402
 
@@ -781,6 +783,7 @@ def page_explore():
 <p class="kick">Local LA</p>
 <h1>40 neighborhoods and the places locals actually go</h1>
 <p class="xp-lede">Tap any neighborhood for its map of hand-picked restaurants, bars and things to do, plus the homes, the rules and who it fits.</p>
+<a class="pk-cta" href="/neighborhoods/map/"><b>New: the LA pocket map</b><span>Every micro-neighborhood, from the Bird Streets to North of Montana, drawn street by street &rarr;</span></a>
 <label class="search">{ICONS['search']}<input id="q" type="search" placeholder="Search a neighborhood or ZIP" autocomplete="off"></label>
 <div class="chiprow" id="regions" role="group" aria-label="Region"><button type="button" data-region="" aria-pressed="true">All</button>{regs}</div>
 <div class="chiprow" id="tags" role="group" aria-label="What you want">{tags}</div>
@@ -977,6 +980,67 @@ def hood_local(h):
 
 
 
+def pocket_items(area, full=True):
+    h = BY_SLUG.get(area)
+    an = h["name"] if h else area
+    return [dict(i=p["i"], n=p["n"], e=p["e"], an=an, a=area, u=f"/neighborhoods/{area}/", **({"d": p["d"], "b": p["b"]} if full else {})) for p in POCKETS.get(area, [])]
+
+
+def pockets_section(h):
+    """Map + cards for the pockets inside one area. Returns ("", []) when the area has none yet."""
+    pk = pocket_items(h["slug"])
+    if not pk:
+        return "", []
+    n = h["name"]
+    ctx = [x for s_ in h["near"] for x in pocket_items(s_, False)]
+    cards = "".join(
+        f'<article class="pk-card" id="pk-{p["i"]}" data-pk="{p["i"]}"><h3>{e(p["n"])}</h3>'
+        + (f'<p class="pk-b">{e(p["b"])}</p>' if p["b"] else "")
+        + (f'<p>{e(p["d"])}</p>' if p["d"] else "")
+        + '<button type="button" class="pk-show" data-pkshow>Show on the map</button></article>' for p in pk)
+    data = {"pk": pk, "ctx": ctx}
+    html = f"""<section class="band pk" id="pockets"><div class="wrap">
+<div class="sec-head"><div><p class="kick">Block by block</p><h2>The pockets of {e(n)}</h2></div><a href="/neighborhoods/map/">Every LA pocket on one map &rarr;</a></div>
+<p class="pk-sub">In Los Angeles a single street can change the price of a house. {e(n)} is really {len(pk)} smaller neighborhoods, and these are the lines between them, drawn street by street. Dashed outlines are the pockets next door.</p>
+<div class="pk-grid">
+<div class="pkmap" id="pkmap" role="region" aria-label="Map of the pockets of {e(n)}"></div>
+<div class="pk-list">{cards}</div>
+</div>
+<script type="application/json" id="pkmap-data">{json.dumps(data, separators=(",", ":")).replace("</", "<\\/")}</script>
+</div></section>"""
+    return html, pk
+
+
+def pockets_json():
+    allp = []
+    for h in ORDER:
+        allp += pocket_items(h["slug"])
+    return {"all": True, "pk": allp}
+
+
+def page_pocketmap():
+    path = "/neighborhoods/map/"
+    allp = pockets_json()["pk"]
+    areas = sorted({p["an"] for p in allp})
+    lis = "".join(f'<li><a href="/neighborhoods/{h["slug"]}/#pockets">{e(h["name"])}</a> <span>{", ".join(e(p["n"]) for p in POCKETS.get(h["slug"], []))}</span></li>' for h in ORDER if POCKETS.get(h["slug"]))
+    body = f"""{nav(path, "explore")}
+<main class="pkx">
+<div class="pkx-map"><div class="pkmap pkmap-full" id="pkmap" role="region" aria-label="Map of every pocket in Local LA"></div>
+<div class="pkx-panel"><p class="kick">Local LA</p><h1>The LA pocket map</h1>
+<p>LA is a city of pockets. Prices, lots and the feel of a street can change the second you cross one road. Here are {len(allp)} pockets across {len(areas)} neighborhoods, each one drawn on the actual streets that bound it.</p>
+<label class="search">{ICONS['search']}<input id="pk-q" type="search" placeholder="Find a pocket, like Bird Streets" autocomplete="off"></label>
+<div class="pk-res" id="pk-res"></div>
+<p class="pkx-note">Tap any shape for what it is and where it starts and stops. Boundaries are my own research from the street grid and sold history, so treat them as a guide, not a survey.</p>
+<a class="btn solid small" href="tel:{TEL}">{ICONS['call']}Ask me about a street</a></div></div>
+<section class="band"><div class="wrap"><h2>Every pocket, by neighborhood</h2><ul class="pkx-list">{lis}</ul></div></section>
+</main>
+{lead_band("Wondering which side of the line a house sits on?", "Send me the address. I'll tell you which pocket it's in and what that means for value.", first="sell")}
+{foot(path, ["vendor/leaflet.js", "pockets.js"], "explore")}"""
+    desc = f"An interactive map of {len(allp)} Los Angeles pockets and micro-neighborhoods, like the Bird Streets, Trousdale, Brentwood Park and North of Montana, with the streets that bound each one."
+    ld_ = crumbs_ld([("Home", "/"), ("Local LA", "/neighborhoods/"), ("Pocket map", path)])
+    return head("LA Neighborhood Boundaries Map: Every Pocket from the Bird Streets to North of Montana | Local LA", desc, path, ld(ld_) + '\n<link rel="stylesheet" href="/assets/vendor/leaflet.css">') + body
+
+
 def page_hood(h, posts):
     path = f"/neighborhoods/{h['slug']}/"
     r = "/"
@@ -986,6 +1050,7 @@ def page_hood(h, posts):
     ph = PHOTOS.get(h["slug"], [])
     n = h["name"]
     map_html, guide_html, mapdata = hood_local(h)
+    pk_html, pk_list = pockets_section(h)
     hx = HIST.get(h["slug"])
     hist_html = HI.render(h, hx) if hx else ""
     first = bool(hx and hx.get("story_first"))
@@ -1032,7 +1097,7 @@ def page_hood(h, posts):
                "provider": {"@id": SITE + "/#nathaniel"}, "areaServed": {"@type": "Place", "name": f"{n}, Los Angeles, CA",
                "geo": {"@type": "GeoCoordinates", "latitude": lat, "longitude": lng}}}
     crumbs = crumbs_ld([("Home", "/"), ("Local LA", "/neighborhoods/"), (n, path)])
-    sub = [("overview", "Overview")] + ([("history", "History")] if first else []) + [("map", "Map"), ("eat", "Eat, drink &amp; go")] + \
+    sub = [("overview", "Overview")] + ([("pockets", "Pockets")] if pk_list else []) + ([("history", "History")] if first else []) + [("map", "Map"), ("eat", "Eat, drink &amp; go")] + \
           ([("history", "History")] if hx and not first else []) + ([("photos", "Photos")] if gal else []) + \
           [("living", "Living here"), ("reviews", "Reviews"), ("faq", "FAQ")]
     subnav = "".join(f'<a href="#{a}">{b}</a>' for a, b in sub)
@@ -1068,6 +1133,7 @@ def page_hood(h, posts):
 <div class="nb-agent-cta"><a class="btn solid" href="tel:{TEL}">{ICONS['call']}Call</a><a class="btn" href="sms:{TEL}">{ICONS['text']}Text</a><button type="button" class="btn" data-msg>{ICONS['email']}Message</button></div>
 </aside>
 </div></section>
+{pk_html}
 {hist_html if first else ""}
 {map_html}
 {cta_strip(f"Thinking about {n}?", f"New {n} listings, off-market homes and lenders for any situation. Or a free value on your {n} home.", sell_label="What's my home worth?", buy_label=f"Get {n} listings")}
@@ -1100,7 +1166,7 @@ def page_hood(h, posts):
 {lead_band(f"Buying or selling in {n}?", f"Get new {n} listings as they hit, including ones that aren't public yet, or find out what your {n} home is worth.", first="buy", area=n, addr_ph=f"Your {n} address")}
 <div class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Photo viewer"><button type="button" class="lb-x" aria-label="Close">&times;</button><button type="button" class="lb-p" aria-label="Previous photo">&lsaquo;</button><img alt=""><button type="button" class="lb-n" aria-label="Next photo">&rsaquo;</button><p class="lb-c"></p></div>
 </main>
-{foot(path, ["vendor/leaflet.js", "hoodmap.js"] if len(mapdata["pts"]) >= 3 else (), "explore")}"""
+{foot(path, (["vendor/leaflet.js"] if len(mapdata["pts"]) >= 3 or pk_list else []) + (["hoodmap.js"] if len(mapdata["pts"]) >= 3 else []) + (["pockets.js"] if pk_list else []), "explore")}"""
     if first:
         title = f"{n}, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA"
         desc = f"The story of {n}: {hx['title']}. A timeline, landmarks and did-you-know facts, plus the best places to eat and drink nearby and what it's like to live there."[:300]
@@ -1110,6 +1176,8 @@ def page_hood(h, posts):
     items = [{"@type": "ListItem", "position": k + 1, "name": nm} for k, nm in enumerate(mapdata["all"])]
     il = {"@context": "https://schema.org", "@type": "ItemList", "name": f"Where to eat, drink and go in {n}", "itemListElement": items}
     faq_all = qa + (HI.faq_pairs(hx) if hx else [])
+    if pk_list:
+        faq_all = faq_all + [(f"What are the neighborhoods inside {n}?", f"{n} breaks into {len(pk_list)} pockets: " + "; ".join(p["n"] + (f" ({p['b']})" if p["b"] else "") for p in pk_list) + ". Values can change from one pocket to the next, sometimes across a single street.")]
     return head(title, desc, path, ld(place) + ld(service) + ld(crumbs) + ld(il) + ld(v8.faq_ld(faq_all)) + '\n<link rel="stylesheet" href="/assets/vendor/leaflet.css">', og="hero.jpg") + body
 
 
@@ -2293,8 +2361,9 @@ def main():
         "/listings/": page_listings(), "/about/": page_about(), "/news/": page_news(), "/privacy/": page_privacy(),
         "/homes/3721-evans/": page_featured("evans"), "/homes/616-fuller/": page_featured("fuller"),
         "/homes/18748-lanark/": page_deal("lanark"), "/homes/14757-hartland/": page_deal("hartland"),
-        VALUE_URL: page_value(), BUY_URL: page_buy(),
+        VALUE_URL: page_value(), BUY_URL: page_buy(), "/neighborhoods/map/": page_pocketmap(),
     }
+    (DIST / "assets" / "pockets.json").write_text(json.dumps(pockets_json(), separators=(",", ":")))
     for h in HOODS:
         pages[f"/neighborhoods/{h['slug']}/"] = page_hood(h, posts)
     for p in posts:
