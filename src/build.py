@@ -157,6 +157,7 @@ def head(title, desc, path, extra="", og="hero.jpg"):
 <link rel="alternate" type="text/markdown" href="{md_url(path)}" title="Plain text version for AI and screen readers">
 <meta name="ng-to" content="{FORM_TO}">
 <link rel="icon" href="{rel(path)}assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://images.unsplash.com">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
