@@ -1463,3 +1463,26 @@ form.lead{padding:clamp(18px,2.4vw,28px)}
 .body a{color:var(--cu)}
 .hood-body{color:var(--soft)}
 .satmap.leaflet-container{background:#1e3a4c}
+
+/* deal story pages (Lanark, Hartland) */
+.deal-hero{overflow:hidden;border:1px solid var(--line);box-shadow:var(--sh)}
+.deal-hero img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover}
+.deal-grid{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,4fr);gap:clamp(28px,5vw,72px);align-items:start}
+.deal-h{margin:6px 0 18px;font:500 clamp(30px,3.4vw,44px)/1.08 var(--serif)}
+.deal-tl{position:sticky;top:96px;padding:22px 24px;background:var(--card,#fff);border:1px solid var(--line);box-shadow:var(--sh)}
+.deal-tl ol{list-style:none;margin:10px 0 0;padding:0;border-left:2px solid var(--cu)}
+.deal-tl li{position:relative;padding:0 0 18px 18px}
+.deal-tl li:last-child{padding-bottom:0}
+.deal-tl li::before{content:"";position:absolute;left:-7px;top:5px;width:12px;height:12px;border-radius:50%;background:var(--bg);border:2px solid var(--cu)}
+.deal-tl li:last-child::before{background:var(--cu)}
+.deal-tl b{display:block;font:600 11px/1.3 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--cu)}
+.deal-tl span{display:block;margin-top:3px;font-size:15.5px;line-height:1.45;color:var(--ink)}
+.deal-media{display:grid;grid-template-columns:minmax(0,1fr);gap:clamp(18px,3vw,32px)}
+.deal-media.two{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+.deal-fig{margin:0}
+.deal-fig img{display:block;width:100%;height:clamp(380px,52vh,560px);object-fit:cover;border:1px solid var(--line);box-shadow:var(--sh)}
+.deal-fig figcaption,.deal-cap{margin:10px 0 0;font-size:13px;color:var(--mute)}
+.deal-cap a{color:var(--cu)}
+.deal-sat .deal-ph{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:saturate(.9)}
+.rv-grid.one{grid-template-columns:minmax(0,1fr)}
+@media(max-width:900px){.deal-grid,.deal-media.two{grid-template-columns:minmax(0,1fr)}.deal-tl{position:static}.deal-fig img{height:62vw}}
