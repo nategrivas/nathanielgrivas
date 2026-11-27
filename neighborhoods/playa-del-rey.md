@@ -256,6 +256,98 @@ Sources
 - [OpenTable diner reviews: Playa del Rey](https://opentable.com/features/best-outdoor-dining-restaurants-lax-ca)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+del+Rey+CA)
 
+The story of Playa del Rey
+
+## A lagoon resort and the town the airport erased
+
+Playa del Rey opened in 1902 as a seaside resort on a lagoon, with a pavilion, a hotel and a pier, and buyers rode out by streetcar. In the 1920s developers pushed it south along the dunes. Then the jets came. By the mid-1970s the airport had bought and cleared the neighborhood called Surfridge, and its empty streets became a refuge for an endangered butterfly.
+
+3 min read 8 milestones 2 chapters 4 landmarks
+
+### Timeline
+
+- 1880s
+
+Investors try and fail to build a harbor called Port Ballona at the mouth of Ballona Creek.
+
+- 1902
+
+The Playa del Rey resort opens. Buyers ride a streetcar to Alla station, where horse-drawn coaches meet them.
+
+- 1900s
+
+A pavilion, the Del Rey Hotel and a pier rise around the lagoon.
+
+- 1920s
+
+Developers Dickinson and Gillespie extend the town south along the dunes as Palisades del Rey, including Surfridge.
+
+- 1928
+
+Mines Field, the future LAX, opens just inland.
+
+- 1960s
+
+Jet traffic makes the dunes neighborhood nearly unlivable.
+
+- 1970s
+
+The airport buys out and removes roughly 800 homes in Surfridge.
+
+- Today
+
+The cleared dunes are a protected habitat for the El Segundo blue butterfly.
+
+I1902
+
+### The resort on the lagoon
+
+**1902** the resort opens
+
+Playa del Rey began as a getaway. In 1902 buyers were sent by streetcar to Alla station and carried the rest of the way by coach to a new resort on the lagoon, with a pavilion, a hotel and a pier. The lagoon survives as Del Rey Lagoon Park, the quiet heart of the neighborhood.
+
+IISurfridge
+
+### The neighborhood LAX erased
+
+**~800** homes removed
+
+In the 1920s the town grew south along the bluffs and dunes as Palisades del Rey, and its southern section, Surfridge, became a fashionable beach colony with sweeping ocean views. The airport inland grew too. When jets arrived, the noise over Surfridge became unbearable, and in the 1960s and 1970s the airport bought the homes and moved or demolished them.
+
+The streets were left behind. Today you can still see the old roads and curbs behind the fences west of LAX, and the dunes have been replanted with the buckwheat that the endangered El Segundo blue butterfly needs. The ghost town is now one of the largest refuges for the species.
+
+Test yourself
+
+### Did you know?
+
+01 **What happened to Surfridge?** Tap for the answer
+
+The airport bought and cleared its roughly 800 homes because of jet noise. The empty streets are still visible behind fences west of LAX.
+
+02 **What lives in the LAX dunes now?** Tap for the answer
+
+The endangered El Segundo blue butterfly, which depends on seacliff buckwheat growing in the restored dunes.
+
+03 **How did early buyers get to Playa del Rey?** Tap for the answer
+
+By streetcar to Alla station, then by horse-drawn coach to the lagoon.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Del Rey Lagoon Park 1902 The lagoon at the center of the original resort. Map ↗](https://www.google.com/maps/search/?api=1&query=Del+Rey+Lagoon+Park%2C+Playa+del+Rey%2C+CA)
+- [Dockweiler State Beach The long beach below the bluffs. Map ↗](https://www.google.com/maps/search/?api=1&query=Dockweiler+State+Beach%2C+Playa+del+Rey%2C+CA)
+- [LAX Dunes Preserve The former Surfridge streets, now butterfly habitat. Map ↗](https://www.google.com/maps/search/?api=1&query=LAX+Dunes+Preserve%2C+Playa+del+Rey%2C+CA)
+- [Ballona Creek bike path The path along the creek to Marina del Rey and beyond. Map ↗](https://www.google.com/maps/search/?api=1&query=Ballona+Creek+bike+path%2C+Playa+del+Rey%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Playa del Rey](https://en.wikipedia.org/wiki/Playa_del_Rey,_Los_Angeles)
+- [Wikipedia: Palisades del Rey (Surfridge)](https://en.wikipedia.org/wiki/Palisades_del_Rey,_California)
+- [LMU Magazine: Our neighborhood ghost town](https://magazine.lmu.edu/articles/our-neighborhood-ghost-town/)
+- [Atlas Obscura: El Segundo Butterfly Preserve](https://atlasobscura.com/articles/el-segundo-butterfly-preserve)
+
 Photos
 
 ## Playa del Rey in pictures

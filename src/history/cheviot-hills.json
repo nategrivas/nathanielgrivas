@@ -1,0 +1,127 @@
+{
+ "story_first": true,
+ "title": "Golf courses, a saved park and Palmer's 12",
+ "lede": "Cheviot Hills grew up in the 1920s on the rolling land of an old Spanish land grant, laid out between two golf courses for the age of the automobile. Its park was saved by neighbors in the 1940s, its newer half was built on a former country club in the 1950s, and its public golf course is where Arnold Palmer famously took a 12 on a single hole.",
+ "tl": [
+  [
+   "1821",
+   "The land is part of the Spanish grant Rancho Rincon de los Bueyes."
+  ],
+  [
+   "1920",
+   "Hillcrest Country Club opens."
+  ],
+  [
+   "1921",
+   "The Rancho Golf Club opens on the land that is now Rancho Park."
+  ],
+  [
+   "1920s",
+   "The first Cheviot Hills tracts are laid out with curving streets, and a Pacific Electric line runs along the southern edge."
+  ],
+  [
+   "1945",
+   "After a neighborhood campaign, the city creates Cheviot Hills Park, about 200 acres of golf, tennis and ball fields."
+  ],
+  [
+   "1947",
+   "Rancho Park Golf Course is laid out in its current form."
+  ],
+  [
+   "1952",
+   "California Country Club Estates, known as New Cheviot, is built on a former country club."
+  ],
+  [
+   "1956",
+   "The Los Angeles Open moves to Rancho Park and stays through 1972."
+  ],
+  [
+   "1961",
+   "On January 6, Arnold Palmer takes a 12 on the course's par-5 finishing hole."
+  ]
+ ],
+ "ch": [
+  {
+   "k": "Old and New Cheviot",
+   "h": "A neighborhood between fairways",
+   "fact": [
+    "1952",
+    "New Cheviot is built"
+   ],
+   "p": [
+    "Cheviot Hills was laid out in the 1920s on rolling land between two golf clubs, with streets that curve along the contours rather than marching in a grid. Its builders hired some of the best-known residential architects of the day, including Wallace Neff, and the first house designed by Craig Ellwood stands here. In 1952 a second neighborhood, California Country Club Estates, was built on the site of a former club. Locals still call the two halves Old Cheviot and New Cheviot."
+   ]
+  },
+  {
+   "k": "1945",
+   "h": "The park the neighbors saved",
+   "fact": [
+    "200",
+    "acres of public park and golf"
+   ],
+   "p": [
+    "The Rancho golf course changed hands several times in the 1920s and 1930s. Neighbors pushed for the city to keep it open space, and in 1945 they won: Los Angeles created Cheviot Hills Park, roughly 200 acres that include the public golf course, tennis courts, a pool and ball fields. It is one of the reasons the neighborhood feels so open."
+   ]
+  },
+  {
+   "k": "January 6, 1961",
+   "h": "Palmer's 12",
+   "fact": [
+    "12",
+    "strokes on one hole"
+   ],
+   "p": [
+    "Rancho Park hosted the Los Angeles Open from 1956 to 1972. On the first day of the 1961 tournament, Arnold Palmer, then the best golfer in the world, hit a fine drive on the par-5 finishing hole and then sent four straight shots out of bounds. He made a 12. A plaque at the hole marks the spot, and when asked how he managed it, Palmer reportedly said he had missed a putt for an 11."
+   ]
+  }
+ ],
+ "dyk": [
+  [
+   "Where did Arnold Palmer make a 12?",
+   "On the par-5 finishing hole at Rancho Park Golf Course during the 1961 Los Angeles Open. A plaque marks the spot."
+  ],
+  [
+   "What is New Cheviot?",
+   "California Country Club Estates, built in 1952 on the site of a former country club."
+  ],
+  [
+   "Who saved Rancho Park?",
+   "Neighbors, whose campaign led the city to create Cheviot Hills Park in 1945."
+  ]
+ ],
+ "lm": [
+  [
+   "Rancho Park Golf Course",
+   "1947",
+   "Public golf and Palmer's plaque on the 18th."
+  ],
+  [
+   "Cheviot Hills Recreation Center",
+   "1945",
+   "Tennis, pool, fields and an archery range."
+  ],
+  [
+   "Hillcrest Country Club",
+   "1920",
+   "The private club on the neighborhood's northern edge."
+  ]
+ ],
+ "src": [
+  [
+   "Cheviot Hills history: Recreation Center",
+   "https://cheviothillshistory.org/cheviot-hills-recreation-center"
+  ],
+  [
+   "Wikipedia: Cheviot Hills",
+   "https://en.wikipedia.org/wiki/Cheviot_Hills,_Los_Angeles"
+  ],
+  [
+   "Wikipedia: Rancho Park Golf Course",
+   "https://en.wikipedia.org/wiki/Rancho_Park_Golf_Course"
+  ],
+  [
+   "Historical Marker Database: Arnold Palmer took a 12 on this hole",
+   "https://www.hmdb.org/m.asp?m=170232"
+  ]
+ ]
+}

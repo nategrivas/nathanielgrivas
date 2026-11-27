@@ -472,6 +472,99 @@ Sources
 - [The Infatuation: Sawtelle Japantown](https://theinfatuation.com/los-angeles/neighborhoods/sawtelle-japantown)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+CA)
 
+The story of West LA & Sawtelle
+
+## The Soldiers' City and Sawtelle Japantown
+
+West LA grew up around an old soldiers' home. When the federal government opened a branch of the National Home for Disabled Volunteer Soldiers here in 1888, a town called Sawtelle grew up around it, incorporated as its own city and held out until Los Angeles absorbed it in 1922. By then nurseries lined Sawtelle Boulevard, and in 2015 the city named the district Sawtelle Japantown.
+
+3 min read 9 milestones 2 chapters 3 landmarks
+
+### Timeline
+
+- 1888
+
+The Pacific Branch of the National Home for Disabled Volunteer Soldiers opens.
+
+- 1899
+
+The City of Sawtelle incorporates, named for W.E. Sawtelle of the Pacific Land Company.
+
+- 1906
+
+The Soldiers' Home becomes a stop on a popular trolley sightseeing tour.
+
+- 1910s
+
+Japanese immigrant farmers settle in the area, then still mostly fields.
+
+- 1918
+
+In the middle of a court fight over annexation, Los Angeles police raid Sawtelle's city hall and carry off its records.
+
+- 1922
+
+Sawtelle is consolidated into the City of Los Angeles.
+
+- 1941
+
+There are 26 Japanese American nurseries along and near Sawtelle Boulevard.
+
+- 1942
+
+Japanese American families here are forcibly removed and incarcerated. Many return after the war and rebuild.
+
+- 2015
+
+The city designates Sawtelle Japantown.
+
+I1888
+
+### The Soldiers' City
+
+**1888** the Soldiers' Home opens
+
+The Pacific Branch of the National Home for Disabled Volunteer Soldiers opened in 1888 to care for Civil War veterans, and the town of Sawtelle grew around its gates. Incorporated in 1899, Sawtelle was independent for more than 20 years. Los Angeles wanted it, and the fight got ugly: in 1918, with the case still in court, LAPD officers raided Sawtelle City Hall and seized its records. The consolidation was finished in 1922. The soldiers' home lives on as the West Los Angeles VA campus.
+
+IINurseries
+
+### The gardeners of Sawtelle
+
+**26** nurseries by 1941
+
+Japanese immigrants began farming here in the 1910s, and by the 1930s Sawtelle Boulevard was lined with nurseries and garden supply shops serving the Westside's new estates and the gardeners who tended them. In 1942 those families were forcibly removed and incarcerated under wartime orders. Many came back and rebuilt. A few legacy nurseries still operate, and the restaurants and shops along the boulevard carry the story forward. The city recognized the district as Sawtelle Japantown in 2015.
+
+Test yourself
+
+### Did you know?
+
+01 **Was West LA ever its own city?** Tap for the answer
+
+Yes. The City of Sawtelle incorporated in 1899 and was absorbed by Los Angeles in 1922.
+
+02 **What is the West LA VA campus?** Tap for the answer
+
+The old Pacific Branch of the National Home for Disabled Volunteer Soldiers, opened in 1888.
+
+03 **Why are there nurseries on Sawtelle Boulevard?** Tap for the answer
+
+Japanese American families ran 26 of them by 1941, serving gardeners all over the Westside.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [West Los Angeles VA campus 1888 The former Soldiers' Home. Map ↗](https://www.google.com/maps/search/?api=1&query=West+Los+Angeles+VA+campus%2C+West+LA+%26+Sawtelle%2C+CA)
+- [Sawtelle Japantown 2015 The restaurant and shop district on Sawtelle Boulevard. Map ↗](https://www.google.com/maps/search/?api=1&query=Sawtelle+Japantown%2C+West+LA+%26+Sawtelle%2C+CA)
+- [Stoner Park Japanese garden A garden first created by local Japanese American gardeners. Map ↗](https://www.google.com/maps/search/?api=1&query=Stoner+Park+Japanese+garden%2C+West+LA+%26+Sawtelle%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Sawtelle, Los Angeles](https://en.wikipedia.org/wiki/Sawtelle,_Los_Angeles)
+- [LA City Planning: the Japanese American nurseries of Sawtelle](https://planning.lacity.gov/node/132818)
+- [Densho Encyclopedia: Sawtelle/West Los Angeles](https://encyclopedia.densho.org/Sawtelle/West%20Los%20Angeles,%20California)
+- [UCLA Newsroom: How West LA became a haven for Japanese Americans](https://newsroom.ucla.edu/stories/thinking-l-a-how-west-l-a-became-a-haven-for-japanese-americans)
+
 Living here
 
 ## The homes, the rules and who it fits

@@ -984,6 +984,117 @@ Sources
 - [The Rooftop Guide: White Rabbit Sky Lounge](https://www.therooftopguide.com/rooftop-bars-in-los-angeles/white-rabbit-sky-lounge.html)
 - [Visit West Hollywood: Nightlife](https://www.visitwesthollywood.com/nightlife/)
 
+The story of West Hollywood
+
+## The railroad town that became the Sunset Strip
+
+West Hollywood began as Sherman, a yard town for Moses Sherman's electric railway. Because it stayed outside the Los Angeles city limits, its stretch of Sunset Boulevard became the Sunset Strip, home to nightclubs beyond the reach of the city's police, then to rock clubs, and finally to a city of its own, incorporated in 1984.
+
+3 min read 10 milestones 3 chapters 5 landmarks
+
+### Timeline
+
+- 1890s
+
+The town of Sherman grows around the rail yards of Moses Sherman's Los Angeles Pacific Railroad.
+
+- 1922
+
+Architect Rudolph Schindler builds his concrete-and-glass house on Kings Road.
+
+- 1925
+
+Sherman renames itself West Hollywood.
+
+- 1929
+
+The Chateau Marmont opens above Sunset.
+
+- 1930s-40s
+
+The Trocadero, Ciro's and the Mocambo make the Strip the nightlife capital of Hollywood.
+
+- 1957
+
+The Troubadour opens on Santa Monica Boulevard.
+
+- 1964
+
+The Whisky a Go Go opens on the Strip.
+
+- 1966
+
+Young people protest a curfew in what became known as the Sunset Strip riots.
+
+- 1975
+
+The Pacific Design Center, the Blue Whale, opens.
+
+- 1984
+
+West Hollywood incorporates as a city on November 29.
+
+ISherman
+
+### A railroad town
+
+**1925** Sherman becomes West Hollywood
+
+The flats along Santa Monica Boulevard grew up as Sherman, where the Los Angeles Pacific Railroad kept its yards and shops. As Hollywood became famous, the town traded its name for West Hollywood in 1925. Its streets of bungalows and courtyard apartments date largely from those years.
+
+IIThe Strip
+
+### Outside the city limits
+
+**1.5 mi** of Sunset Boulevard on the Strip
+
+Because West Hollywood was unincorporated county land, the curving stretch of Sunset between Hollywood and Beverly Hills fell outside the Los Angeles Police Department's reach. In the 1930s and 1940s that made it the place for glamorous nightclubs like the Trocadero, Ciro's and the Mocambo, where studio stars were photographed every night. The Chateau Marmont, opened in 1929, became the hideaway hotel above it all.
+
+IIIRock and roll
+
+### From the Whisky to a city
+
+**1984** West Hollywood incorporates
+
+In the 1960s the supper clubs gave way to rock clubs. The Whisky a Go Go opened in 1964, and the Strip became a launching pad for bands from the Doors on. In 1966 crowds of young people protesting a curfew clashed with police, an episode remembered as the Sunset Strip riots. Residents voted to incorporate in 1984, and West Hollywood has since become one of the densest and most walkable cities in the county, anchored by the bright blue and green glass of the Pacific Design Center.
+
+Test yourself
+
+### Did you know?
+
+01 **Why did the Sunset Strip become a nightlife hub?** Tap for the answer
+
+It was unincorporated county land, outside the Los Angeles city limits and its police.
+
+02 **What was West Hollywood called before 1925?** Tap for the answer
+
+Sherman, after railroad builder Moses Sherman.
+
+03 **What is the Blue Whale?** Tap for the answer
+
+The nickname for the Pacific Design Center, which opened in 1975.
+
+04 **When did West Hollywood become a city?** Tap for the answer
+
+November 29, 1984.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Chateau Marmont 1929 The castle-like hotel above Sunset. Map ↗](https://www.google.com/maps/search/?api=1&query=Chateau+Marmont%2C+West+Hollywood%2C+CA)
+- [Schindler House 1922 Rudolph Schindler's modern landmark on Kings Road, now the MAK Center. Map ↗](https://www.google.com/maps/search/?api=1&query=Schindler+House%2C+West+Hollywood%2C+CA)
+- [Pacific Design Center 1975 The Blue Whale and its green and red neighbors. Map ↗](https://www.google.com/maps/search/?api=1&query=Pacific+Design+Center%2C+West+Hollywood%2C+CA)
+- [Whisky a Go Go 1964 The rock club that launched a generation of bands. Map ↗](https://www.google.com/maps/search/?api=1&query=Whisky+a+Go+Go%2C+West+Hollywood%2C+CA)
+- [Troubadour 1957 The intimate club on Santa Monica Boulevard. Map ↗](https://www.google.com/maps/search/?api=1&query=Troubadour%2C+West+Hollywood%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: West Hollywood](https://en.wikipedia.org/wiki/West_Hollywood,_California)
+- [Wikipedia: Sunset Strip](https://en.wikipedia.org/wiki/Sunset_Strip)
+- [Wikipedia: Schindler House](https://en.wikipedia.org/wiki/Schindler_House)
+- [Wikipedia: Pacific Design Center](https://en.wikipedia.org/wiki/Pacific_Design_Center)
+
 Living here
 
 ## The homes, the rules and who it fits

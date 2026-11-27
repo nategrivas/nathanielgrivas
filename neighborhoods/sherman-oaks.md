@@ -234,6 +234,90 @@ Sources
 - [The Infatuation: Sherman Oaks](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-sherman-oaks)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+CA)
 
+The story of Sherman Oaks
+
+## General Sherman's thousand acres
+
+When a syndicate of Los Angeles power brokers bought most of the southern San Fernando Valley in 1909, streetcar builder Moses Sherman kept 1,000 acres for himself. In 1927 he subdivided them, selling land for about $780 an acre, and the town took his name. Half a century later a shopping mall at Ventura and Sepulveda made Sherman Oaks the capital of Valley culture.
+
+3 min read 7 milestones 2 chapters 2 landmarks
+
+### Timeline
+
+- 1909
+
+The Los Angeles Suburban Homes Company buys 47,500 acres of the southern Valley.
+
+- 1911
+
+Moses Sherman keeps about 1,000 acres around today's Ventura and Sepulveda for himself.
+
+- 1915
+
+The Valley joins Los Angeles for aqueduct water.
+
+- 1927
+
+Sherman subdivides his land and the community of Sherman Oaks is founded.
+
+- 1980
+
+The Sherman Oaks Galleria opens on October 30.
+
+- 1982
+
+The Galleria stars in Fast Times at Ridgemont High.
+
+- 1994
+
+The Northridge earthquake damages the Galleria, which later closes and is rebuilt as an open-air center in 2002.
+
+I1909 to 1927
+
+### The syndicate and the general
+
+**$780** per acre in 1927
+
+In 1909 a syndicate that included Los Angeles Times publisher Harrison Gray Otis, his son-in-law Harry Chandler and streetcar builder Moses Sherman bought 47,500 acres of the Valley and laid out towns and boulevards. Sherman kept about 1,000 acres for himself and in 1927 subdivided them as Sherman Oaks. The street names still read like a list of the partners: Sherman Way, Chandler Boulevard and Hazeltine Avenue, named for Sherman's daughter.
+
+II1980
+
+### The Galleria
+
+**1980** the Galleria opens
+
+The Sherman Oaks Galleria opened in 1980 on the corner where Sherman's original holdings sat, and it quickly became the center of Valley teenage life, immortalized in Fast Times at Ridgemont High in 1982. The 1994 Northridge earthquake damaged it badly, and it was rebuilt as an open-air center that reopened in 2002.
+
+Test yourself
+
+### Did you know?
+
+01 **Who is Sherman Oaks named for?** Tap for the answer
+
+Moses Hazeltine Sherman, a streetcar builder and member of the syndicate that bought the Valley in 1909.
+
+02 **Where were the mall scenes in Fast Times at Ridgemont High filmed?** Tap for the answer
+
+At the Sherman Oaks Galleria.
+
+03 **Who is Hazeltine Avenue named after?** Tap for the answer
+
+Moses Sherman's daughter.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Sherman Oaks Galleria 1980 The mall of Valley legend, rebuilt in 2002. Map ↗](https://www.google.com/maps/search/?api=1&query=Sherman+Oaks+Galleria%2C+Sherman+Oaks%2C+CA)
+- [Ventura Boulevard The Valley's main street, at its busiest here. Map ↗](https://www.google.com/maps/search/?api=1&query=Ventura+Boulevard%2C+Sherman+Oaks%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Sherman Oaks](https://en.wikipedia.org/wiki/Sherman_Oaks,_Los_Angeles)
+- [Wikipedia: Sherman Oaks Galleria](https://en.wikipedia.org/wiki/Sherman_Oaks_Galleria)
+- [The Sherman Library and Gardens: Moses Sherman](https://thesherman.org/?p=48)
+- [Water and Power Associates: early views of the Valley](https://waterandpower.org/museum/Early_Views_of_the_San_Fernando_Valley_5_of_10.html)
+
 Photos
 
 ## Sherman Oaks in pictures

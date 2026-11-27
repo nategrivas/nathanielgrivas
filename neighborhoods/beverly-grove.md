@@ -344,6 +344,109 @@ Sources
 - [Lonely Planet: West Hollywood and Mid-City restaurants](https://www.lonelyplanet.com/usa/los-angeles/west-hollywood/restaurants)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Beverly+Grove+Los+Angeles+CA)
 
+The story of Beverly Grove
+
+## Oil wells, a ballpark and the Farmers Market
+
+Beverly Grove sits on the old Gilmore dairy ranch, where oil changed everything in the early 1900s. Earl Gilmore turned the family land into an entertainment district: a stadium for midget-car racing and football, a minor-league ballpark, a drive-in and, in 1934, a market where farmers sold produce off their trucks. Television City, The Grove and the Beverly Center all rose on the sites of those attractions.
+
+3 min read 9 milestones 3 chapters 4 landmarks
+
+### Timeline
+
+- 1900s
+
+Oil is struck on the Gilmore dairy ranch, founding the Gilmore Oil fortune.
+
+- 1934
+
+The Farmers Market opens at Third and Fairfax in July, and Gilmore Stadium opens next door in May.
+
+- 1939
+
+Gilmore Field opens, home of the Hollywood Stars baseball team.
+
+- 1940
+
+Gilmore Stadium hosts the NFL Pro Bowl.
+
+- 1943
+
+Beverly Park, a children's amusement park, opens at Beverly and La Cienega.
+
+- 1952
+
+CBS Television City opens on the site of Gilmore Stadium.
+
+- 1958
+
+Gilmore Field is torn down after the Stars leave town.
+
+- 1974
+
+Beverly Park closes. The Beverly Center opens on its site in 1982.
+
+- 2002
+
+The Grove opens on the site of the old Gilmore Drive-In.
+
+IGilmore Island
+
+### An entertainment district on an oil field
+
+**1934** the Farmers Market opens
+
+Arthur Gilmore ran a dairy here until oil came in, and his son Earl turned the family land into a playground for the growing city. Gilmore Stadium opened in 1934 for midget-car racing and football, Gilmore Field followed in 1939 as the home of the Pacific Coast League's Hollywood Stars, and a drive-in theater came later. In July 1934 a group of farmers began selling produce from their trucks on a Gilmore lot at Third and Fairfax. That was the beginning of the Farmers Market, which still has the feel of its first decades.
+
+II1943 to 1974
+
+### Kiddieland at Beverly and La Cienega
+
+**31** years of Beverly Park
+
+At the corner of Beverly and La Cienega, Beverly Park ran pony rides, a small roller coaster and a carousel for children from 1943 to 1974, popular with families from the nearby studios. When it closed, its site became the Beverly Center, which opened in 1982.
+
+IIIWhat replaced them
+
+### Television City and The Grove
+
+**1952** Television City opens
+
+CBS built Television City on the stadium site in 1952, and its studios have hosted decades of game shows, variety shows and specials. The ballpark became its parking lot after 1958, and the drive-in site became The Grove, which opened next to the Farmers Market in 2002. Walk the area today and almost every big landmark sits on top of a lost one.
+
+Test yourself
+
+### Did you know?
+
+01 **What was on the site of CBS Television City?** Tap for the answer
+
+Gilmore Stadium, home of midget-car racing and football from 1934 to 1952.
+
+02 **What was the Beverly Center before it was a mall?** Tap for the answer
+
+Beverly Park, a children's amusement park that ran from 1943 to 1974.
+
+03 **How did the Farmers Market start?** Tap for the answer
+
+In July 1934, farmers sold produce from their trucks on a Gilmore family lot at Third and Fairfax.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Original Farmers Market 1934 Stalls, counters and the clock tower at Third and Fairfax. Map ↗](https://www.google.com/maps/search/?api=1&query=Original+Farmers+Market%2C+Beverly+Grove%2C+CA)
+- [Television City 1952 The CBS studio complex on the old stadium site. Map ↗](https://www.google.com/maps/search/?api=1&query=Television+City%2C+Beverly+Grove%2C+CA)
+- [The Grove 2002 The shopping district on the old drive-in site. Map ↗](https://www.google.com/maps/search/?api=1&query=The+Grove%2C+Beverly+Grove%2C+CA)
+- [Beverly Center 1982 The mall on the site of Beverly Park. Map ↗](https://www.google.com/maps/search/?api=1&query=Beverly+Center%2C+Beverly+Grove%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Gilmore Stadium](https://en.wikipedia.org/wiki/Gilmore_Stadium)
+- [Wikipedia: Gilmore Field](https://en.wikipedia.org/wiki/Gilmore_Field)
+- [Wikipedia: Beverly Park](https://en.wikipedia.org/wiki/Beverly_Park_(amusement_park))
+- [LAist: the Beverly Grove theme park](https://laist.com/news/entertainment/beverly-grove-park-disney)
+- [Los Angeles Theatres: Gilmore Drive-In](https://losangelestheatres.blogspot.com/2022/02/gilmore-drive-in.html)
+
 Living here
 
 ## The homes, the rules and who it fits

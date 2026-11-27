@@ -408,6 +408,100 @@ Sources
 - [Resy: The restaurants that defined LA dining in 2025](https://blog.resy.com/2025/12/los-angeles-restaurants-2025/)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Los+Angeles+CA)
 
+The story of Mar Vista
+
+## Ocean Park Heights, a circus city and a modernist tract
+
+Mar Vista started as Ocean Park Heights, a hilltop subdivision with a view of the bay, and took its Spanish name, sea view, in 1924. Next door, a circus owner briefly ran his own city. After the Second World War aircraft workers filled its streets, and architect Gregory Ain built one of the most important modernist tracts in Los Angeles.
+
+3 min read 7 milestones 3 chapters 3 landmarks
+
+### Timeline
+
+- 1900s
+
+Ocean Park Heights, an upscale subdivision on Mar Vista Hill, goes on sale. City historians call it one of LA's first gated communities.
+
+- 1920
+
+Al G. Barnes moves his circus winter quarters to a ranch on Washington Boulevard.
+
+- 1924
+
+The local chamber of commerce renames Ocean Park Heights as Mar Vista.
+
+- 1926
+
+Barnes City incorporates in February and votes to join Los Angeles in September.
+
+- 1927
+
+Mar Vista is annexed to Los Angeles.
+
+- 1948
+
+Gregory Ain's Mar Vista Tract of 52 modern houses is built, with landscaping by Garrett Eckbo.
+
+- 2003
+
+The Ain tract becomes the first historic district in the city made up entirely of postwar modern homes.
+
+ISea view
+
+### Ocean Park Heights becomes Mar Vista
+
+**1924** the name Mar Vista is adopted
+
+Before it was Mar Vista, the hill above Venice was Ocean Park Heights, a subdivision sold on its ocean views. New tracts nearby took the name Mar Vista, and so did the Red Car stop, so in 1924 the chamber of commerce made it official. Three years later the community voted to join Los Angeles.
+
+IIBarnes City
+
+### The circus that became a city
+
+**7** months Barnes City lasted
+
+In 1920 Al G. Barnes, whose traveling wild animal show was one of the biggest in the country, moved its winter quarters to a ranch on Washington Boulevard, with a zoo the public could visit. Barnes and his allies incorporated the surrounding area as Barnes City in February 1926. Neighbors who did not want to live in a city run by a circus owner pushed back, and that September the voters chose to join Los Angeles. Barnes City lasted about seven months, and the circus soon moved to the San Gabriel Valley.
+
+III1948
+
+### Gregory Ain's Mar Vista Tract
+
+**52** modern houses in the Ain tract
+
+After the war, Mar Vista filled with workers from the nearby aircraft plants. In 1948 architect Gregory Ain designed a tract of 52 small modern houses with flexible floor plans, open to their gardens, landscaped by Garrett Eckbo. In 2003 the tract became the first Historic Preservation Overlay Zone in Los Angeles made up solely of postwar modern homes, and its houses are prized by buyers who love mid-century design.
+
+Test yourself
+
+### Did you know?
+
+01 **What does Mar Vista mean?** Tap for the answer
+
+Sea view, after the views from its hill. It was called Ocean Park Heights until 1924.
+
+02 **Did a circus really run its own city here?** Tap for the answer
+
+Yes. Barnes City, home to the Al G. Barnes circus, incorporated in 1926 and joined Los Angeles about seven months later.
+
+03 **What makes the Mar Vista Tract special?** Tap for the answer
+
+It is a 1948 neighborhood of 52 modern homes by Gregory Ain, protected since 2003 as a historic district.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Gregory Ain Mar Vista Tract 1948 Modernist houses around Moore, Meier and Beethoven streets. Map ↗](https://www.google.com/maps/search/?api=1&query=Gregory+Ain+Mar+Vista+Tract%2C+Mar+Vista%2C+CA)
+- [Mar Vista Hill The original Ocean Park Heights, with views to the bay. Map ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Hill%2C+Mar+Vista%2C+CA)
+- [Mar Vista Recreation Center The neighborhood's park on Palms Boulevard. Map ↗](https://www.google.com/maps/search/?api=1&query=Mar+Vista+Recreation+Center%2C+Mar+Vista%2C+CA)
+
+Sources for this history
+
+- [PBS SoCal Lost LA: the circus that briefly became a city](https://pbssocal.org/shows/lost-la/al-g-barnes-and-his-monkeyville-the-circus-that-briefly-became-a-city)
+- [Water and Power Associates: Barnes City](https://waterandpower.org/Museum2/Barnes_City.html)
+- [Mar Vista Community Council: history](https://www.marvista.org/committees/viewCommitteeFile/215)
+- [LA City Planning: Palms-Mar Vista-Del Rey survey](https://planning.lacity.gov/odocument/d4cf3df4-94a5-47c7-b107-8a9c89d508e0/Group_3_Palms-Mar_Vista-Del_Rey_Survey_Report_Final.pdf)
+- [Wikipedia: Mar Vista](https://en.wikipedia.org/wiki/Mar_Vista,_Los_Angeles)
+
 Living here
 
 ## The homes, the rules and who it fits

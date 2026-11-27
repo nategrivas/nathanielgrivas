@@ -373,6 +373,104 @@ Sources
 - [Foursquare: Marina del Rey, Culver City, Playa Vista, Venice](https://redirect.foursquare.com/eeena/list/marina-del-rey-culver-city-playa-vista-venice)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Marina+del+Rey+CA)
 
+The story of Marina del Rey
+
+## From salt marsh to the biggest small-craft harbor in North America
+
+For most of a century, people tried to put a harbor in the Ballona marsh and failed. In the 1950s Los Angeles County finally built one for pleasure boats instead of ships, and when Marina del Rey was dedicated in 1965 it was the largest man-made small-craft harbor in the world. Almost all of it still sits on county land.
+
+3 min read 8 milestones 3 chapters 4 landmarks
+
+### Timeline
+
+- 1839
+
+Rancho La Ballona is granted to the Machado and Talamantes families.
+
+- 1887
+
+Investors dredge a small harbor called Port Ballona. It silts up and fails.
+
+- 1916
+
+The Army Corps of Engineers calls a big commercial port here impractical and suggests a small-craft harbor.
+
+- 1949
+
+The Corps proposes a full plan for a marina.
+
+- 1956
+
+County voters approve $13 million in revenue bonds to help pay for it.
+
+- 1957
+
+Ground is broken on December 12.
+
+- 1962
+
+The first boaters arrive in Basin B, and a winter storm soon damages the harbor.
+
+- 1965
+
+Marina del Rey is formally dedicated on April 10. Total cost: $36.25 million.
+
+IBallona
+
+### The harbor that kept failing
+
+**1887** Port Ballona, the first try
+
+Before the boats, this was a salt marsh fed by Ballona Creek. In 1887 investors dredged a little harbor they called Port Ballona, and the sand closed it up. When Los Angeles went looking for a deepwater port, the federal government picked San Pedro. In 1916 the Army Corps of Engineers decided a big commercial port here would never work, but floated the idea of a harbor for small boats.
+
+II1957 to 1965
+
+### Building the marina
+
+**~5,000** boat slips
+
+It took four decades for that idea to get funded. County voters approved revenue bonds in 1956, ground was broken in 1957, and crews turned roughly 800 acres of marsh into seven basins. Architect Victor Gruen drew the master plan. The first boats tied up in 1962, a winter storm battered the unfinished breakwater, and the county added a new one before the formal dedication on April 10, 1965. Today the harbor holds roughly 5,000 boats.
+
+IIIFor buyers
+
+### A town on leased land
+
+**County** owns most of the land
+
+Marina del Rey is not a city. It is unincorporated Los Angeles County, and the county owns most of the land, leasing parcels to developers who built the apartments, condos, hotels and restaurants. That is why many condos here are sold on long-term ground leases rather than as fee simple property, a detail every buyer should understand before making an offer.
+
+Test yourself
+
+### Did you know?
+
+01 **Is Marina del Rey part of the City of Los Angeles?** Tap for the answer
+
+No. It is unincorporated Los Angeles County, and the county owns most of the land.
+
+02 **How big is the harbor?** Tap for the answer
+
+About 800 acres, roughly half of it water, with slips for about 5,000 boats.
+
+03 **When did it open?** Tap for the answer
+
+The first boats arrived in 1962, and the harbor was formally dedicated on April 10, 1965.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Fisherman's Village The harbor's waterfront village and home of the local historical society museum. Map ↗](https://www.google.com/maps/search/?api=1&query=Fisherman%27s+Village%2C+Marina+del+Rey%2C+CA)
+- [Burton Chace Park The park at the end of the mole named for the county supervisor behind the marina. Map ↗](https://www.google.com/maps/search/?api=1&query=Burton+Chace+Park%2C+Marina+del+Rey%2C+CA)
+- [Marina Beach The calm, protected beach inside the harbor. Map ↗](https://www.google.com/maps/search/?api=1&query=Marina+Beach%2C+Marina+del+Rey%2C+CA)
+- [Ballona Wetlands What the marsh looked like before the marina. Map ↗](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands%2C+Marina+del+Rey%2C+CA)
+
+Sources for this history
+
+- [LA County Beaches & Harbors: History of Marina del Rey](https://beaches.lacounty.gov/?p=13497)
+- [LA County: 60 years of Marina del Rey](https://beaches.lacounty.gov/?p=31108)
+- [Wikipedia: Marina del Rey](https://en.wikipedia.org/wiki/Marina_del_Rey,_California)
+- [LA Conservancy: Marina del Rey](https://www.laconservancy.org/locations/marina-del-rey)
+
 Photos
 
 ## Marina del Rey in pictures

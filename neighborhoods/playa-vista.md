@@ -330,6 +330,103 @@ Sources
 - [The Infatuation: Marina del Rey](https://www.theinfatuation.com/los-angeles/neighborhoods/marina-del-rey)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Playa+Vista+CA)
 
+The story of Playa Vista
+
+## Where Howard Hughes built the Spruce Goose
+
+Playa Vista sits at the edge of the Ballona Wetlands, on the land where Howard Hughes built his aircraft company, one of the longest private runways in the country and the largest wooden airplane ever flown. After decades of fights over what should replace it, a planned community rose here starting in 2002, and the old hangars now house studios and tech companies.
+
+3 min read 8 milestones 3 chapters 3 landmarks
+
+### Timeline
+
+- 1940
+
+Howard Hughes buys 380 acres below the Westchester bluffs for about $500,000.
+
+- 1941
+
+The Hughes Aircraft plant is fully running.
+
+- 1943
+
+Hughes builds a runway nearly 9,600 feet long, among the longest private runways anywhere.
+
+- 1940s
+
+The H-4 Hercules, nicknamed the Spruce Goose, is built here in a hangar made of wood because metal was scarce in wartime.
+
+- 1947
+
+The Hercules flies once, briefly, in Long Beach Harbor on November 2.
+
+- 1976
+
+Hughes dies, and the campus is later sold.
+
+- 1985
+
+Hughes Airport closes.
+
+- 2002
+
+Construction of the Playa Vista planned community begins.
+
+IHughes country
+
+### An aircraft empire in a marsh
+
+**380** acres Hughes bought in 1940
+
+In 1940 Howard Hughes bought 380 acres of the Ballona marsh at the foot of the Westchester bluffs and moved his young aircraft company here. He built factories, a private airfield and a runway nearly 9,600 feet long, and for four decades the site produced aircraft, radar, weapons systems and experimental helicopters.
+
+IIThe Hercules
+
+### The Spruce Goose
+
+**319 ft 11 in** wingspan, still the largest of any plane
+
+During the war Hughes was hired to build a giant flying boat to carry troops over the Atlantic. Because aluminum was rationed, both the plane and the hangar it was built in were made of wood. The H-4 Hercules, which Hughes hated hearing called the Spruce Goose, was moved in sections to Long Beach and flew exactly once, on November 2, 1947. Its wingspan, nearly 320 feet, is still the largest of any aircraft ever built. The plane now sits in a museum in Oregon, but the wooden hangar still stands.
+
+IIISilicon Beach
+
+### From runway to neighborhood
+
+**2002** Playa Vista breaks ground
+
+After the airport closed in 1985, developers, environmental groups and the city spent years fighting over the land. The compromise created Playa Vista, a planned neighborhood with parks every few blocks, and restored part of the Ballona wetlands next door. The Hughes hangars became sound stages and offices, and the area's tech tenants helped earn the Westside its Silicon Beach nickname.
+
+Test yourself
+
+### Did you know?
+
+01 **Is the Spruce Goose made of spruce?** Tap for the answer
+
+Mostly not. It is built largely of birch, and Hughes disliked the nickname.
+
+02 **Where is the Spruce Goose now?** Tap for the answer
+
+At the Evergreen Aviation and Space Museum in Oregon. Its original hangar still stands in Playa Vista.
+
+03 **How many times did it fly?** Tap for the answer
+
+Once, on November 2, 1947, for about a mile over Long Beach Harbor.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Spruce Goose hangar 1940s The wooden hangar where the Hercules was built. Map ↗](https://www.google.com/maps/search/?api=1&query=Spruce+Goose+hangar%2C+Playa+Vista%2C+CA)
+- [Ballona Wetlands Ecological Reserve The restored marsh at the edge of the neighborhood. Map ↗](https://www.google.com/maps/search/?api=1&query=Ballona+Wetlands+Ecological+Reserve%2C+Playa+Vista%2C+CA)
+- [Playa Vista Central Park The neighborhood's main park and concert lawn. Map ↗](https://www.google.com/maps/search/?api=1&query=Playa+Vista+Central+Park%2C+Playa+Vista%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Playa Vista](https://en.wikipedia.org/wiki/Playa_Vista,_Los_Angeles)
+- [Wikipedia: Hughes Airport](https://en.wikipedia.org/wiki/Hughes_Airport_(California))
+- [LA Conservancy: the Spruce Goose hangar](https://www.laconservancy.org/locations/google-playa-vista)
+- [Vertical Flight Society: Hughes Culver City plant](https://vtol.org/files/dmfile/hughes-helicopters-culver-city-history.pdf)
+
 Living here
 
 ## The homes, the rules and who it fits

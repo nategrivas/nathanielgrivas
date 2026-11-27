@@ -156,6 +156,108 @@ Sources
 - [The Infatuation: San Fernando Valley](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Van+Nuys+CA)
 
+The story of Van Nuys
+
+## The mother of Valley towns
+
+Van Nuys was the first town the Los Angeles Suburban Homes Company built on the Valley floor. It was founded on February 22, 1911, connected to downtown by Red Car before the year was out, joined Los Angeles in 1915 for aqueduct water and spent much of the century building airplanes and Chevrolets.
+
+3 min read 9 milestones 3 chapters 3 landmarks
+
+### Timeline
+
+- 1909
+
+The Los Angeles Suburban Homes Company buys 47,500 acres of the Valley from Isaac Van Nuys and his partners.
+
+- 1911
+
+Van Nuys is founded on February 22. Its first baby, born that October, is named Whitley Van Nuys Huffaker.
+
+- 1911
+
+The Pacific Electric Red Car reaches Van Nuys in December.
+
+- 1915
+
+Van Nuys joins Los Angeles on May 22.
+
+- 1928
+
+Metropolitan Airport opens on December 17, the 25th anniversary of the Wright brothers' first flight.
+
+- 1932
+
+The Van Nuys City Hall tower, now the Valley Municipal Building, is completed.
+
+- 1947
+
+General Motors opens the Van Nuys Assembly plant.
+
+- 1957
+
+The airport takes the name Van Nuys Airport.
+
+- 1992
+
+The GM plant closes in August.
+
+I1911
+
+### A town planned in a year
+
+**Feb. 22, 1911** Van Nuys is founded
+
+The syndicate that bought the Valley in 1909 laid out Van Nuys as its first town, named for Isaac Newton Van Nuys, the rancher whose land they had bought. Lots went on sale in 1911, a hotel and stores went up almost immediately, and the Red Car arrived that December. Four years later, with the aqueduct finished, Van Nuys voted to join Los Angeles.
+
+IIWings and wheels
+
+### Airplanes and Chevrolets
+
+**1947-1992** GM builds cars in Van Nuys
+
+Metropolitan Airport opened in 1928 and became an Army airfield in the Second World War. Workers at a plant there included a young Norma Jean Dougherty, who was photographed on the assembly line before she became Marilyn Monroe. After the war, General Motors built Chevrolets, Camaros and Firebirds at its Van Nuys plant from 1947 to 1992, and Van Nuys Boulevard became famous for weekend cruising. Van Nuys Airport is now one of the busiest general aviation airports in the world.
+
+III1932
+
+### City Hall of the Valley
+
+**1932** the City Hall tower is completed
+
+The white Art Deco tower of the Van Nuys City Hall, completed in 1932, became the civic center of the San Fernando Valley, and the government buildings around it still make Van Nuys the Valley's seat of city business.
+
+Test yourself
+
+### Did you know?
+
+01 **When was Van Nuys founded?** Tap for the answer
+
+February 22, 1911. Its first baby was named Whitley Van Nuys Huffaker.
+
+02 **When did Van Nuys Airport open?** Tap for the answer
+
+December 17, 1928, the 25th anniversary of the Wright brothers' first flight.
+
+03 **What was built at the GM plant?** Tap for the answer
+
+Chevrolets, Camaros and Firebirds, from 1947 to 1992. The site is now The Plant shopping center.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Van Nuys Airport 1928 One of the world's busiest general aviation airports. Map ↗](https://www.google.com/maps/search/?api=1&query=Van+Nuys+Airport%2C+Van+Nuys%2C+CA)
+- [Valley Municipal Building 1932 The Art Deco City Hall tower. Map ↗](https://www.google.com/maps/search/?api=1&query=Valley+Municipal+Building%2C+Van+Nuys%2C+CA)
+- [The Plant 1999 The shopping center on the old GM site. Map ↗](https://www.google.com/maps/search/?api=1&query=The+Plant%2C+Van+Nuys%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Van Nuys](https://en.wikipedia.org/wiki/Van_Nuys,_Los_Angeles)
+- [CSUN Library: Van Nuys](https://library.csun.edu/node/6035)
+- [LAWA: Van Nuys Airport history](https://lawa.org/history/van-nuys-history-firstpage)
+- [Wikipedia: Van Nuys Assembly](https://en.wikipedia.org/wiki/Van_Nuys_Assembly)
+- [Van Nuys Neighborhood Council: Van Nuys at 100](https://vnnc.org/?p=297)
+
 Track record
 
 ## My deals in Van Nuys

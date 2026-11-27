@@ -179,6 +179,107 @@ Sources
 - [OpenTable diner reviews: LAX / Westchester](https://opentable.com.au/features/best-restaurants-for-foodies-lax-ca)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westchester+Los+Angeles+CA)
 
+The story of Westchester
+
+## LAX, Loyola and a suburb built for aircraft workers
+
+Westchester was bean fields until 1928, when the city took over a small airfield called Mines Field and the Jesuits broke ground for a new Loyola campus on the bluffs. When the aircraft plants boomed in the 1940s, builders like Fritz Burns put up thousands of small houses for their workers, and the neighborhood grew up around the airport that became LAX.
+
+3 min read 9 milestones 3 chapters 3 landmarks
+
+### Timeline
+
+- 1928
+
+Los Angeles leases 640 acres for an airport at Mines Field, named for the broker who arranged the deal.
+
+- 1928
+
+Loyola breaks ground on the bluffs, with developer Fritz Burns riding around the ceremony on horseback.
+
+- 1929
+
+Loyola opens its new campus on the bluffs, and the Graf Zeppelin moors at Mines Field on its flight around the world.
+
+- 1932
+
+Westchester hosts the cross-country leg of the Olympic equestrian event.
+
+- 1941
+
+The first big tract of homes opens on December 6, the day before Pearl Harbor.
+
+- 1940s
+
+Fritz Burns and other builders raise thousands of small houses for workers at the nearby aircraft plants.
+
+- 1949
+
+The airport is renamed Los Angeles International Airport.
+
+- 1961
+
+The Theme Building opens at the center of LAX.
+
+- 1973
+
+Loyola and Marymount merge as Loyola Marymount University.
+
+I1928
+
+### An airfield in the bean fields
+
+**640** acres leased for the airport in 1928
+
+In 1928 the city leased 640 acres of farmland for a municipal airport at Mines Field, and the following year the German airship Graf Zeppelin tied up there on its trip around the world. The same year Loyola College moved its campus to the bluffs above the Ballona wetlands on land donated with help from Harry Culver. The college became Loyola Marymount University in 1973.
+
+IIThe 1940s
+
+### Burns homes
+
+**1941** the first big tract opens
+
+When the aircraft industry exploded during the Second World War, its workers needed somewhere to live. Developer Fritz Burns, who had been selling lots here since the 1920s, built neighborhoods of modest two- and three-bedroom houses for them, and much of Westchester's housing still dates from those years. Many buyers today are drawn to those same single-story houses, on lots big enough to expand.
+
+III1961
+
+### The Theme Building
+
+**1961** the Theme Building opens
+
+As the airport became LAX, the city commissioned a landmark for its center. The Theme Building, with its arches straddling a flying saucer of a restaurant, opened in 1961, designed by a team including Paul R. Williams. Airport growth also took its toll: over the decades Westchester lost thousands of homes to expansion and noise buyouts.
+
+Test yourself
+
+### Did you know?
+
+01 **Why was the airport called Mines Field?** Tap for the answer
+
+After William Mines, the real estate broker who arranged the 1928 lease.
+
+02 **Did the Graf Zeppelin really land here?** Tap for the answer
+
+Yes. It moored at Mines Field in 1929 during its flight around the world.
+
+03 **Who designed the LAX Theme Building?** Tap for the answer
+
+A team of architects that included Paul R. Williams. It opened in 1961.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [LAX Theme Building 1961 The arches at the center of the airport. Map ↗](https://www.google.com/maps/search/?api=1&query=LAX+Theme+Building%2C+Westchester%2C+CA)
+- [Loyola Marymount University 1929 The campus on the Westchester bluffs. Map ↗](https://www.google.com/maps/search/?api=1&query=Loyola+Marymount+University%2C+Westchester%2C+CA)
+- [Westchester Park The neighborhood's central park and recreation center. Map ↗](https://www.google.com/maps/search/?api=1&query=Westchester+Park%2C+Westchester%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Westchester, Los Angeles](https://en.wikipedia.org/wiki/Westchester,_Los_Angeles)
+- [LMU Magazine: Fritz Burns and Westchester](https://magazine.lmu.edu/articles/our-neighborhood-ghost-town/)
+- [PCAD: Mines Field](https://pcad.lib.washington.edu/building/3467)
+- [Westchester/Playa HomeTown News: Westchester in the 1930s](https://thehtn.com/traveling-back-in-time-through-westchester-playa-1930s/)
+
 Living here
 
 ## The homes, the rules and who it fits

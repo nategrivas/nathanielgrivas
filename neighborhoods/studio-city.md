@@ -443,6 +443,104 @@ Sources
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Studio+City+CA)
 - [OpenTable: Firefly Studio City](https://www.opentable.com/firefly-studio-city)
 
+The story of Studio City
+
+## The town named after a movie lot
+
+Studio City is the only neighborhood in Los Angeles named after a studio. Comedy producer Mack Sennett opened a lot here in 1928 and the surrounding tract took its name. The lot became Republic Pictures, then CBS Studio Center, then Radford Studio Center, and in November 2026 Netflix bought it. Down the road sits the adobe site where the fighting for California ended.
+
+3 min read 8 milestones 3 chapters 3 landmarks
+
+### Timeline
+
+- 1847
+
+On January 13, John C. Fremont and Andres Pico sign the Treaty of Cahuenga at the Campo de Cahuenga, ending the fighting in California.
+
+- 1858
+
+The Campo becomes a stop on the Butterfield stage line.
+
+- 1928
+
+Mack Sennett opens his studio at Ventura and Radford with a gala and, reportedly, the world's largest pie.
+
+- 1935
+
+Several small studios merge into Republic Pictures and take over the lot.
+
+- 1963
+
+CBS leases the studio. It buys the lot in 1967 and names it CBS Studio Center.
+
+- 1960s
+
+Gunsmoke, Gilligan's Island and other CBS series are filmed on the lot.
+
+- 2021
+
+CBS's parent sells the lot to Hackman Capital, which renames it Radford Studio Center.
+
+- 2026
+
+Netflix buys the lot for $380 million in November.
+
+I1847
+
+### Where California changed hands
+
+**1847** the Treaty of Cahuenga
+
+Near the mouth of the Cahuenga Pass stood an adobe ranch house where, on January 13, 1847, U.S. Lt. Col. John C. Fremont and Mexican Gen. Andres Pico signed the Treaty of Cahuenga, ending the fighting in California during the Mexican-American War. The adobe later served the Butterfield stagecoach line and was torn down in 1900. Its foundations lie under a small park on Lankershim Boulevard across from Universal, where the signing is reenacted every January.
+
+II1928
+
+### Sennett's studio city
+
+**1928** the Sennett studio opens
+
+Mack Sennett, the producer behind the Keystone Kops, opened a new studio at Ventura Boulevard and Radford Avenue in 1928, and the developers of the land around it named their tract Studio City. Sennett went bankrupt in the Depression, and the lot became Republic Pictures, famous for Westerns and Saturday serials.
+
+IIITV's backyard
+
+### From Republic to Netflix
+
+**$380M** Netflix's 2026 purchase price
+
+CBS moved in during the 1960s, and the lot became the home of Gunsmoke, Gilligan's Island and decades of sitcoms. After a 2021 sale to Hackman Capital for $1.85 billion, the lot was renamed Radford Studio Center, and in November 2026 Netflix bought it for $380 million. A few blocks away, the house on Dilling Street that played the Brady Bunch home is one of the most recognizable houses in television.
+
+Test yourself
+
+### Did you know?
+
+01 **Why is it called Studio City?** Tap for the answer
+
+After Mack Sennett's studio, which opened here in 1928.
+
+02 **Where was the Treaty of Cahuenga signed?** Tap for the answer
+
+At the Campo de Cahuenga, now a small park on Lankershim Boulevard.
+
+03 **Where is the Brady Bunch house?** Tap for the answer
+
+On Dilling Street in Studio City. It is a private home, so view it from the street.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Campo de Cahuenga 1847 The treaty site and museum on Lankershim Boulevard. Map ↗](https://www.google.com/maps/search/?api=1&query=Campo+de+Cahuenga%2C+Studio+City%2C+CA)
+- [Radford Studio Center 1928 The former Sennett, Republic and CBS lot. Map ↗](https://www.google.com/maps/search/?api=1&query=Radford+Studio+Center%2C+Studio+City%2C+CA)
+- [Weddington Golf and Tennis The old-school par-3 course and courts off Whitsett. Map ↗](https://www.google.com/maps/search/?api=1&query=Weddington+Golf+and+Tennis%2C+Studio+City%2C+CA)
+
+Sources for this history
+
+- [LA Recreation and Parks: Campo de Cahuenga](https://recreation.parks.lacity.gov/node/787)
+- [Wikipedia: Campo de Cahuenga](https://en.wikipedia.org/wiki/Campo_de_Cahuenga)
+- [Wikipedia: Radford Studio Center](https://en.wikipedia.org/wiki/Radford_Studio_Center)
+- [Patch: how Mack Sennett created Studio City](https://patch.com/california/studiocity/how-mack-sennett-came-to-the-valley-and-created-studio-city)
+- [ABC7: Netflix buys Radford Studio Center](https://abc7.com/post/netflix-buys-storied-radford-studio-center-city-380-million-variety-reports/20079872/)
+
 Living here
 
 ## The homes, the rules and who it fits

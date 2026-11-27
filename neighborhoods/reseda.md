@@ -164,6 +164,98 @@ Sources
 - [The Infatuation: San Fernando Valley](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Reseda+CA)
 
+The story of Reseda
+
+## Marian, Reseda and the real epicenter
+
+Reseda began in 1912 as Marian, a farm town named for Marian Otis Chandler, daughter of the Los Angeles Times publisher. It took the name of a flowering plant in 1921 when its new post office needed one, grew into a postwar suburb, and in 1994 turned out to be the true epicenter of the Northridge earthquake.
+
+3 min read 7 milestones 3 chapters 2 landmarks
+
+### Timeline
+
+- 1909
+
+The Los Angeles Suburban Homes Company buys the valley floor and plans its towns.
+
+- 1912
+
+The farm town of Marian appears, named for Marian Otis Chandler.
+
+- 1921
+
+Needing a post office, the town takes the name Reseda, after a fragrant plant.
+
+- 1929
+
+Reseda Avenue becomes Reseda Boulevard in May.
+
+- 1950s
+
+Postwar tracts fill the fields with ranch houses.
+
+- 1984
+
+The Karate Kid is filmed in and around Reseda.
+
+- 1994
+
+At 4:31 a.m. on January 17, a magnitude 6.7 earthquake strikes. The epicenter is just west of Reseda Boulevard, between Arminta and Ingomar streets.
+
+I1912
+
+### A town named Marian
+
+**1921** Marian becomes Reseda
+
+The syndicate that bought the Valley in 1909 planned a string of farm towns, and one of them was named Marian after the daughter of Times publisher Harrison Gray Otis. When the town needed a post office in 1921, the name had to change, and residents chose Reseda, the Latin name of mignonette, a fragrant plant.
+
+IIJanuary 17, 1994
+
+### The Northridge earthquake that started in Reseda
+
+**6.7** magnitude of the 1994 earthquake
+
+The earthquake that struck at 4:31 a.m. on January 17, 1994 was first reported near Northridge, and the name stuck. Seismologists later pinpointed the epicenter just west of Reseda Boulevard, between Arminta and Ingomar streets, in Reseda. It was one of the costliest natural disasters in American history, and it reshaped California's building codes and earthquake insurance.
+
+IIIOn screen
+
+### Suburbia for the movies
+
+**1984** The Karate Kid
+
+With its ranch houses, apartment courts and wide boulevards, Reseda has stood in for American suburbia in many films, most famously The Karate Kid in 1984. Its big lots and flat streets have made it a favorite of builders and investors adding ADUs.
+
+Test yourself
+
+### Did you know?
+
+01 **Was the Northridge earthquake really centered in Northridge?** Tap for the answer
+
+No. The epicenter was just west of Reseda Boulevard in Reseda.
+
+02 **Where does the name Reseda come from?** Tap for the answer
+
+From the Latin name of mignonette, a fragrant plant, chosen in 1921.
+
+03 **What was Reseda called first?** Tap for the answer
+
+Marian, after Marian Otis Chandler, daughter of the Los Angeles Times publisher.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Reseda Park The neighborhood park and lake on Reseda Boulevard. Map ↗](https://www.google.com/maps/search/?api=1&query=Reseda+Park%2C+Reseda%2C+CA)
+- [Lake Balboa The lake and cherry trees in the Sepulveda Basin nearby. Map ↗](https://www.google.com/maps/search/?api=1&query=Lake+Balboa%2C+Reseda%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Reseda](https://en.wikipedia.org/wiki/Reseda,_Los_Angeles)
+- [Council District 12: Reseda](https://cd12.lacity.gov/about/communities/reseda)
+- [Water and Power Associates: Valley name origins](https://waterandpower.org/museum/Community_Name_Origins_SFV.html)
+- [Wikipedia: 1994 Northridge earthquake](https://en.wikipedia.org/wiki/1994_Northridge_earthquake)
+
 Track record
 
 ## My deals in Reseda

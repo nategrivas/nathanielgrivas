@@ -613,6 +613,105 @@ Sources
 - [SilverKris: Los Feliz neighborhood spotlight](https://silverkris.singaporeair.com/experience/travel-tips/neighbourhood-spotlight-los-feliz-los-angeles/)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Los+Feliz+Los+Angeles+CA)
 
+The story of Los Feliz
+
+## Griffith's gift and the hillside of landmark houses
+
+Los Feliz takes its name from Rancho Los Feliz. In 1896 Griffith J. Griffith gave Los Angeles more than 3,000 acres of it for a park, and the hillsides below filled with some of the most important houses in America, including a Frank Lloyd Wright temple of textile blocks and a Richard Neutra house that announced modern architecture to the country. Walt Disney started his first Los Angeles studio a few blocks away.
+
+3 min read 8 milestones 3 chapters 5 landmarks
+
+### Timeline
+
+- Rancho era
+
+The land is Rancho Los Feliz, granted to the family of Jose Vicente Feliz.
+
+- 1896
+
+Griffith J. Griffith donates 3,015 acres to the city for Griffith Park.
+
+- 1923
+
+Walt and Roy Disney start their studio on Kingswell Avenue.
+
+- 1924
+
+Frank Lloyd Wright's Ennis House is completed on the hill above Los Feliz Boulevard.
+
+- 1929
+
+Richard Neutra's Lovell Health House, a steel-framed modern house, is finished.
+
+- 1930
+
+The Greek Theatre opens in Griffith Park.
+
+- 1935
+
+Griffith Observatory opens.
+
+- 1940
+
+The Mulholland Memorial Fountain is dedicated at Riverside and Los Feliz.
+
+I1896
+
+### Griffith's gift
+
+**3,015** acres donated for Griffith Park
+
+Griffith J. Griffith, a mining speculator, bought part of the old Rancho Los Feliz and in 1896 gave 3,015 acres of it to Los Angeles for a public park. His will later paid for the Greek Theatre and the Griffith Observatory, which opened in 1935 with the promise that anyone could look through its telescopes for free. Admission to the observatory is still free.
+
+IIThe hillside
+
+### Houses that changed architecture
+
+**1924** Ennis House
+
+The slopes below the park became a showcase. Frank Lloyd Wright's Ennis House of 1924, built of patterned concrete blocks, looks like a Mayan temple and has appeared in films from Blade Runner on. Five years later Richard Neutra finished the Lovell Health House, a steel frame hung with glass and concrete on a steep lot, one of the first fully modern houses in the United States. Both are on the hills above Los Feliz Boulevard.
+
+III1923
+
+### Where Disney began
+
+**1923** Disney's first LA studio
+
+In 1923 Walt Disney and his brother Roy set up shop on Kingswell Avenue, first in an uncle's garage and then in a small storefront nearby. They moved to a bigger studio on Hyperion Avenue in Silver Lake in 1926, but Los Feliz is where the company that would make Mickey Mouse began.
+
+Test yourself
+
+### Did you know?
+
+01 **Is Griffith Observatory free?** Tap for the answer
+
+Yes. Admission has been free since it opened in 1935, as Griffith wanted.
+
+02 **Which famous house looks like a Mayan temple?** Tap for the answer
+
+Frank Lloyd Wright's Ennis House, built in 1924 from patterned concrete blocks.
+
+03 **Where did Walt Disney start his studio?** Tap for the answer
+
+On Kingswell Avenue in Los Feliz, in 1923.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Griffith Observatory 1935 Free telescopes and the best city view. Map ↗](https://www.google.com/maps/search/?api=1&query=Griffith+Observatory%2C+Los+Feliz%2C+CA)
+- [Greek Theatre 1930 The outdoor amphitheater in Griffith Park. Map ↗](https://www.google.com/maps/search/?api=1&query=Greek+Theatre%2C+Los+Feliz%2C+CA)
+- [Ennis House 1924 Frank Lloyd Wright's textile-block landmark. Map ↗](https://www.google.com/maps/search/?api=1&query=Ennis+House%2C+Los+Feliz%2C+CA)
+- [Lovell Health House 1929 Richard Neutra's modernist breakthrough. Map ↗](https://www.google.com/maps/search/?api=1&query=Lovell+Health+House%2C+Los+Feliz%2C+CA)
+- [Mulholland Memorial Fountain 1940 The fountain at Riverside and Los Feliz. Map ↗](https://www.google.com/maps/search/?api=1&query=Mulholland+Memorial+Fountain%2C+Los+Feliz%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Los Feliz](https://en.wikipedia.org/wiki/Los_Feliz,_Los_Angeles)
+- [Wikipedia: Griffith Park](https://en.wikipedia.org/wiki/Griffith_Park)
+- [Wikipedia: Ennis House](https://en.wikipedia.org/wiki/Ennis_House)
+- [Wikipedia: Lovell House](https://en.wikipedia.org/wiki/Lovell_House)
+
 Photos
 
 ## Los Feliz in pictures

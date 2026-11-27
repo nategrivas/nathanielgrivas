@@ -1,4 +1,4 @@
-# Cheviot Hills & Rancho Park, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Cheviot Hills & Rancho Park, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/cheviot-hills
 
@@ -33,6 +33,107 @@ Cheviot Hills and Rancho Park are City of LA neighborhoods between Century City,
 **Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
 Call Text
+
+The story of Cheviot Hills & Rancho Park
+
+## Golf courses, a saved park and Palmer's 12
+
+Cheviot Hills grew up in the 1920s on the rolling land of an old Spanish land grant, laid out between two golf courses for the age of the automobile. Its park was saved by neighbors in the 1940s, its newer half was built on a former country club in the 1950s, and its public golf course is where Arnold Palmer famously took a 12 on a single hole.
+
+3 min read 9 milestones 3 chapters 3 landmarks
+
+### Timeline
+
+- 1821
+
+The land is part of the Spanish grant Rancho Rincon de los Bueyes.
+
+- 1920
+
+Hillcrest Country Club opens.
+
+- 1921
+
+The Rancho Golf Club opens on the land that is now Rancho Park.
+
+- 1920s
+
+The first Cheviot Hills tracts are laid out with curving streets, and a Pacific Electric line runs along the southern edge.
+
+- 1945
+
+After a neighborhood campaign, the city creates Cheviot Hills Park, about 200 acres of golf, tennis and ball fields.
+
+- 1947
+
+Rancho Park Golf Course is laid out in its current form.
+
+- 1952
+
+California Country Club Estates, known as New Cheviot, is built on a former country club.
+
+- 1956
+
+The Los Angeles Open moves to Rancho Park and stays through 1972.
+
+- 1961
+
+On January 6, Arnold Palmer takes a 12 on the course's par-5 finishing hole.
+
+IOld and New Cheviot
+
+### A neighborhood between fairways
+
+**1952** New Cheviot is built
+
+Cheviot Hills was laid out in the 1920s on rolling land between two golf clubs, with streets that curve along the contours rather than marching in a grid. Its builders hired some of the best-known residential architects of the day, including Wallace Neff, and the first house designed by Craig Ellwood stands here. In 1952 a second neighborhood, California Country Club Estates, was built on the site of a former club. Locals still call the two halves Old Cheviot and New Cheviot.
+
+II1945
+
+### The park the neighbors saved
+
+**200** acres of public park and golf
+
+The Rancho golf course changed hands several times in the 1920s and 1930s. Neighbors pushed for the city to keep it open space, and in 1945 they won: Los Angeles created Cheviot Hills Park, roughly 200 acres that include the public golf course, tennis courts, a pool and ball fields. It is one of the reasons the neighborhood feels so open.
+
+IIIJanuary 6, 1961
+
+### Palmer's 12
+
+**12** strokes on one hole
+
+Rancho Park hosted the Los Angeles Open from 1956 to 1972. On the first day of the 1961 tournament, Arnold Palmer, then the best golfer in the world, hit a fine drive on the par-5 finishing hole and then sent four straight shots out of bounds. He made a 12. A plaque at the hole marks the spot, and when asked how he managed it, Palmer reportedly said he had missed a putt for an 11.
+
+Test yourself
+
+### Did you know?
+
+01 **Where did Arnold Palmer make a 12?** Tap for the answer
+
+On the par-5 finishing hole at Rancho Park Golf Course during the 1961 Los Angeles Open. A plaque marks the spot.
+
+02 **What is New Cheviot?** Tap for the answer
+
+California Country Club Estates, built in 1952 on the site of a former country club.
+
+03 **Who saved Rancho Park?** Tap for the answer
+
+Neighbors, whose campaign led the city to create Cheviot Hills Park in 1945.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Rancho Park Golf Course 1947 Public golf and Palmer's plaque on the 18th. Map ↗](https://www.google.com/maps/search/?api=1&query=Rancho+Park+Golf+Course%2C+Cheviot+Hills+%26+Rancho+Park%2C+CA)
+- [Cheviot Hills Recreation Center 1945 Tennis, pool, fields and an archery range. Map ↗](https://www.google.com/maps/search/?api=1&query=Cheviot+Hills+Recreation+Center%2C+Cheviot+Hills+%26+Rancho+Park%2C+CA)
+- [Hillcrest Country Club 1920 The private club on the neighborhood's northern edge. Map ↗](https://www.google.com/maps/search/?api=1&query=Hillcrest+Country+Club%2C+Cheviot+Hills+%26+Rancho+Park%2C+CA)
+
+Sources for this history
+
+- [Cheviot Hills history: Recreation Center](https://cheviothillshistory.org/cheviot-hills-recreation-center)
+- [Wikipedia: Cheviot Hills](https://en.wikipedia.org/wiki/Cheviot_Hills,_Los_Angeles)
+- [Wikipedia: Rancho Park Golf Course](https://en.wikipedia.org/wiki/Rancho_Park_Golf_Course)
+- [Historical Marker Database: Arnold Palmer took a 12 on this hole](https://www.hmdb.org/m.asp?m=170232)
 
 The map
 

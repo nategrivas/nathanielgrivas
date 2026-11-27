@@ -420,6 +420,100 @@ Sources
 - [Time Out: Best coffee shops in West Hollywood](https://www.timeout.com/los-angeles/restaurants/the-best-coffee-shops-in-west-hollywood)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Fairfax+District+Los+Angeles+CA)
 
+The story of Fairfax District
+
+## Delis, a market and a high school that started on a farm
+
+Fairfax Avenue ran through farmland until the 1920s. Fairfax High opened in 1924 as an agricultural and mechanical school, the Farmers Market opened at Third and Fairfax in 1934, and after the Second World War delis, bakeries and bookstores moved west from Boyle Heights and turned the avenue into one of the most distinctive commercial strips in Los Angeles. Today it is also one of the world capitals of streetwear.
+
+3 min read 7 milestones 3 chapters 4 landmarks
+
+### Timeline
+
+- 1924
+
+Fairfax High School opens as an agricultural and mechanical school in a mostly rural corner of the city.
+
+- 1934
+
+The Farmers Market opens at Third and Fairfax.
+
+- 1935
+
+The streamline Pan-Pacific Auditorium opens on Beverly Boulevard.
+
+- 1948
+
+Canter's, founded in Boyle Heights in 1931, opens a location on Fairfax Avenue.
+
+- 1953
+
+Canter's moves into the former Esquire Theater at 419 N. Fairfax and starts staying open 24 hours.
+
+- 1989
+
+The long-closed Pan-Pacific Auditorium burns down. Its site is now Pan Pacific Park.
+
+- 2000s
+
+Skate and streetwear shops open on Fairfax, and lines around the block become a weekly sight.
+
+IThe avenue moves west
+
+### From Boyle Heights to Fairfax
+
+**1931** Canter's opens in Boyle Heights
+
+After the war, many families and businesses moved west from Boyle Heights, and Fairfax Avenue became their new main street. Canter's Deli, opened by the Canter brothers on Brooklyn Avenue in 1931, followed its customers to Fairfax in 1948 and in 1953 moved into a former movie theater at 419 N. Fairfax, where it began staying open around the clock. Bakeries, bookstores and delis lined the blocks between Beverly and Melrose, and many are still there.
+
+II1935 to 1989
+
+### The Pan-Pacific
+
+**1935** the Pan-Pacific Auditorium opens
+
+The Pan-Pacific Auditorium, with its streamline towers and flagpoles, opened in 1935 and hosted car shows, ice shows and political rallies for decades. It closed in 1972 and burned in 1989. The site is now Pan Pacific Park, whose recreation center nods to the streamline building that was one of the great examples of the style in America.
+
+IIIToday
+
+### Streetwear row
+
+**24/7** Canter's hours since 1953
+
+Starting in the 2000s, skate and streetwear brands opened stores on Fairfax, and the blocks north of Beverly became a destination for limited releases, with lines stretching down the sidewalk on drop days. The old delis and the new shops now share the same storefronts on the same few blocks.
+
+Test yourself
+
+### Did you know?
+
+01 **Where did Canter's start?** Tap for the answer
+
+In Boyle Heights in 1931. It moved to Fairfax Avenue in 1948 and into its current building in 1953.
+
+02 **What kind of school was Fairfax High when it opened?** Tap for the answer
+
+An agricultural and mechanical school, in 1924, when the area was still largely rural.
+
+03 **What happened to the Pan-Pacific Auditorium?** Tap for the answer
+
+It closed in 1972 and burned in 1989. Pan Pacific Park now occupies the site.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Canter's Deli 1953 The 24-hour deli at 419 N. Fairfax. Map ↗](https://www.google.com/maps/search/?api=1&query=Canter%27s+Deli%2C+Fairfax+District%2C+CA)
+- [Pan Pacific Park The park on the site of the Pan-Pacific Auditorium. Map ↗](https://www.google.com/maps/search/?api=1&query=Pan+Pacific+Park%2C+Fairfax+District%2C+CA)
+- [Fairfax High School 1924 The high school at Fairfax and Melrose. Map ↗](https://www.google.com/maps/search/?api=1&query=Fairfax+High+School%2C+Fairfax+District%2C+CA)
+- [Original Farmers Market 1934 The market at Third and Fairfax. Map ↗](https://www.google.com/maps/search/?api=1&query=Original+Farmers+Market%2C+Fairfax+District%2C+CA)
+
+Sources for this history
+
+- [USC In Search of Fairfax: Canter's Deli](https://scalar.usc.edu/hc/fairmax-project/canters-deli)
+- [USC In Search of Fairfax: Fairfax High School](https://scalar.usc.edu/hc/fairmax-project/media/fairfax-high-school)
+- [Wikipedia: Fairfax District](https://en.wikipedia.org/wiki/Fairfax_District,_Los_Angeles)
+- [Wikipedia: Pan-Pacific Auditorium](https://en.wikipedia.org/wiki/Pan-Pacific_Auditorium)
+
 Photos
 
 ## Fairfax District in pictures

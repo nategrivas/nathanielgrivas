@@ -594,6 +594,112 @@ Sources
 - [Time Out: Things to do in Culver City](https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-culver-city)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Culver+City+CA)
 
+The story of Culver City
+
+## The Heart of Screenland
+
+Harry Culver came west to sell real estate and figured movie studios would sell it for him. He founded his city in 1913, lured Thomas Ince and then the studio that became MGM, and for decades some of the most famous films ever made were shot on a few blocks between Washington and Culver boulevards.
+
+3 min read 10 milestones 3 chapters 4 landmarks
+
+### Timeline
+
+- 1913
+
+Harry Culver announces his new town between Los Angeles and Venice.
+
+- 1915
+
+Producer Thomas Ince builds a studio on Washington Boulevard.
+
+- 1917
+
+Culver City incorporates.
+
+- 1918
+
+Ince builds a second studio down the street, behind a colonial mansion facade.
+
+- 1924
+
+MGM is formed on the original Ince lot, and the Culver Hotel opens downtown.
+
+- 1931
+
+Helms Bakery opens on Venice Boulevard.
+
+- 1932
+
+Helms becomes the official baker of the Los Angeles Olympic Games.
+
+- 1939
+
+The Wizard of Oz is made at MGM, and Gone with the Wind is shot at the old Ince studio.
+
+- 1990
+
+Sony takes over the MGM lot, now Sony Pictures Studios.
+
+- 2012
+
+The Expo Line reaches Culver City.
+
+I1913
+
+### Harry Culver's pitch
+
+**1917** Culver City incorporates
+
+Harry Culver picked a spot halfway between downtown and the beach and sold it with stunts, parades and contests. His best move was recruiting the movies. Thomas Ince built a studio on Washington Boulevard in 1915 and a second one in 1918, and Culver City incorporated in 1917 with a film industry already in place.
+
+IIThe studios
+
+### Two lots, a hundred classics
+
+**1939** Oz and Gone with the Wind
+
+Ince's first lot became the home of Metro-Goldwyn-Mayer in 1924, and for decades MGM produced the musicals and epics that defined Hollywood's golden age, including The Wizard of Oz in 1939. Ince's second studio, with its white colonial mansion, became the opening logo of Selznick International, which shot Gone with the Wind there the same year. Both lots still make movies and television: the MGM lot is now Sony Pictures Studios, and the mansion lot is The Culver Studios.
+
+IIIDowntown
+
+### From bakery trucks to the Expo Line
+
+**1932** Helms bakes for the Olympics
+
+Helms Bakery opened on Venice Boulevard in 1931 and sold bread from trucks that toured LA's neighborhoods until 1969. It was the official baker of the 1932 Olympics, and its building is now a design and dining district. Downtown Culver City reinvented itself around restaurants and the Culver Hotel, built by Harry Culver in 1924, and the arrival of the Expo Line in 2012 tied it back into the regional rail network.
+
+Test yourself
+
+### Did you know?
+
+01 **What is the Culver City slogan?** Tap for the answer
+
+The Heart of Screenland, earned by the MGM and Ince studios that made it a movie capital.
+
+02 **Where was Gone with the Wind filmed?** Tap for the answer
+
+At the old Thomas Ince studio on Washington Boulevard, now The Culver Studios, with its famous colonial mansion facade.
+
+03 **Who baked the bread for the 1932 Olympics?** Tap for the answer
+
+Helms Bakery, whose 1931 building on Venice Boulevard is now a dining and design district.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Sony Pictures Studios 1924 The former MGM lot on Washington Boulevard. Map ↗](https://www.google.com/maps/search/?api=1&query=Sony+Pictures+Studios%2C+Culver+City%2C+CA)
+- [The Culver Studios 1918 Thomas Ince's studio and its colonial mansion. Map ↗](https://www.google.com/maps/search/?api=1&query=The+Culver+Studios%2C+Culver+City%2C+CA)
+- [Culver Hotel 1924 Harry Culver's flatiron hotel downtown. Map ↗](https://www.google.com/maps/search/?api=1&query=Culver+Hotel%2C+Culver+City%2C+CA)
+- [Helms Bakery District 1931 The bakery building turned dining and design destination. Map ↗](https://www.google.com/maps/search/?api=1&query=Helms+Bakery+District%2C+Culver+City%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Culver City](https://en.wikipedia.org/wiki/Culver_City,_California)
+- [Wikipedia: The Culver Studios](https://en.wikipedia.org/wiki/The_Culver_Studios)
+- [Wikipedia: Helms Bakery](https://en.wikipedia.org/wiki/Helms_Bakery)
+- [Wikipedia: Culver Hotel](https://en.wikipedia.org/wiki/Culver_Hotel)
+
 Living here
 
 ## The homes, the rules and who it fits

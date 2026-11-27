@@ -443,6 +443,104 @@ Sources
 - [The Infatuation: Westwood](https://theinfatuation.com/los-angeles/neighborhoods/westwood)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Westwood+Los+Angeles+CA)
 
+The story of Westwood
+
+## A village built around a university
+
+In the early 1920s the Janss family set out to develop the old Wolfskill ranch west of Beverly Hills with a plan: help bring the University of California to its hills, then sell everyone else the homes and shops around it. UCLA moved in in 1929, Westwood Village opened the same year, and its Spanish-style streets and movie palaces became the Westside's downtown.
+
+3 min read 8 milestones 3 chapters 4 landmarks
+
+### Timeline
+
+- 1919
+
+Department store owner Arthur Letts buys the old Wolfskill ranch, and the Janss Investment Company takes on its development.
+
+- 1919
+
+The Southern Branch of the University of California opens on Vermont Avenue in East Hollywood.
+
+- 1922
+
+The first Westwood residential tracts go on sale.
+
+- 1925
+
+Voters in Los Angeles and nearby cities approve bonds to buy the Westwood campus site.
+
+- 1929
+
+On May 31, UCLA moves to Westwood behind a police motorcade. Westwood Village opens the same year.
+
+- 1931
+
+The Fox Village Theatre opens with its landmark tower.
+
+- 1937
+
+The Bruin Theatre opens across the street.
+
+- 1990
+
+The Hammer Museum opens on Wilshire.
+
+IThe Janss plan
+
+### Selling a college town
+
+**1929** UCLA and the Village open
+
+The Janss brothers took over thousands of acres of ranch land between Beverly Hills and Sawtelle and made the University of California the centerpiece of their plan. With a campus on the hill, they reasoned, the houses and shops around it would sell themselves. Voters approved bonds to buy the campus land in 1925, and the Janss company laid out Westwood Village below it, with Mediterranean architecture, tile roofs and design rules for every building.
+
+IIMay 31, 1929
+
+### UCLA moves west
+
+**Chemistry 1A** the first class taught in Westwood
+
+UCLA began on Vermont Avenue in East Hollywood in 1919 and outgrew it within a decade. On May 31, 1929, classes on Vermont were dismissed early and a police motorcade led trucks of furniture to the new campus, where Royce Hall and the library stood almost alone on the hill. The first class held in Westwood was Chemistry 1A.
+
+IIIPremiere night
+
+### The Village and its theaters
+
+**1931** the Fox Village Theatre opens
+
+Westwood Village opened alongside the university and quickly became the Westside's shopping district. The Fox Village Theatre, with its white tower, opened in 1931, and the Bruin followed in 1937. The two theaters still host Hollywood premieres, and the Village remains one of the few walkable, master-planned business districts of its era in Los Angeles.
+
+Test yourself
+
+### Did you know?
+
+01 **Where was UCLA before Westwood?** Tap for the answer
+
+On Vermont Avenue in East Hollywood, on the campus that became Los Angeles City College.
+
+02 **What was the first class taught in Westwood?** Tap for the answer
+
+Chemistry 1A, in 1929.
+
+03 **Why do Westwood Village buildings look so alike?** Tap for the answer
+
+The Janss company planned the Village with Mediterranean architecture and rules for every building.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Royce Hall 1929 UCLA's signature building. Map ↗](https://www.google.com/maps/search/?api=1&query=Royce+Hall%2C+Westwood%2C+CA)
+- [Fox Village Theatre 1931 The premiere house with the white tower. Map ↗](https://www.google.com/maps/search/?api=1&query=Fox+Village+Theatre%2C+Westwood%2C+CA)
+- [Bruin Theatre 1937 The streamline theater across Broxton Avenue. Map ↗](https://www.google.com/maps/search/?api=1&query=Bruin+Theatre%2C+Westwood%2C+CA)
+- [Hammer Museum 1990 Art museum and free public programs on Wilshire. Map ↗](https://www.google.com/maps/search/?api=1&query=Hammer+Museum%2C+Westwood%2C+CA)
+
+Sources for this history
+
+- [UCLA Newsroom: centennial fact sheet](https://newsroom.ucla.edu/releases/fact-sheet-for-ucla-centennial)
+- [UCLA Newsroom: moving to Westwood](https://newsroom.ucla.edu/stories/ucla-moments-moving-to-westwood)
+- [Wikipedia: Westwood, Los Angeles](https://en.wikipedia.org/wiki/Westwood,_Los_Angeles)
+- [Wikipedia: Fox Village Theatre](https://en.wikipedia.org/wiki/Fox_Village_Theatre)
+
 Photos
 
 ## Westwood in pictures

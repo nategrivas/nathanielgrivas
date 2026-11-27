@@ -634,6 +634,118 @@ Sources
 - [Time Out: The Bungalow](https://www.timeout.com/los-angeles/bars/the-bungalow)
 - [Fairmont Miramar: The Bungalow](https://www.fairmont.com/en/hotels/santa-monica/fairmont-miramar-hotel-bungalows/dining/the-bungalow.html)
 
+The story of Santa Monica
+
+## The city on the sea that almost became LA's port
+
+Santa Monica was laid out in 1875 by a silver-rich senator who wanted a seaport. It lost the harbor fight to San Pedro and became a beach town instead, and along the way it built California's oldest pleasure pier, launched the first flight around the world and became the end of the most famous highway in America.
+
+3 min read 10 milestones 3 chapters 4 landmarks
+
+### Timeline
+
+- 1839
+
+Rancho San Vicente y Santa Monica is granted to the Sepulveda family.
+
+- 1872
+
+Col. Robert S. Baker buys 38,409 acres of the rancho for $54,000.
+
+- 1875
+
+Baker and Nevada Senator John P. Jones lay out the town and hold the first land sale on July 10.
+
+- 1886
+
+Santa Monica incorporates as a city.
+
+- 1890s
+
+The Long Wharf, nearly a mile out into the bay, makes Santa Monica a contender to be the port of Los Angeles. Federal harbor money goes to San Pedro instead.
+
+- 1909
+
+The Municipal Pier is built, first to carry a sewage pipe past the surf.
+
+- 1916
+
+Charles Looff builds the pleasure pier next door and the Hippodrome to house its carousel.
+
+- 1922
+
+Donald Douglas opens an aircraft plant at Clover Field.
+
+- 1924
+
+Douglas World Cruisers take off from Clover Field. Two finish the first flight around the world, landing home on September 23 to a crowd of about 200,000.
+
+- 1943
+
+Douglas employs as many as 44,000 people building wartime aircraft.
+
+ICity on the sea
+
+### A port that wasn't
+
+**1875** the first land sale, July 10
+
+Santa Monica began as a business plan. Col. Robert Baker bought most of the old Sepulveda rancho in 1872, and Senator John P. Jones, rich from Nevada silver, bought in two years later. They laid out a town in 1875, set aside the bluff-top park now called Palisades Park, and planned a seaport that would make it the gateway to Los Angeles.
+
+For a while it looked possible. Southern Pacific built the Long Wharf near the mouth of Santa Monica Canyon in the 1890s and ran trains out over the water. But the fight over where the federal government would build LA's harbor went to San Pedro in 1897, and Santa Monica turned to what it does best: sun, sand and visitors.
+
+IIThe pier
+
+### A sewage pipe that became a landmark
+
+**1909** California's oldest pleasure pier
+
+The pier that defines the city was built in 1909 to carry a sewage line out to sea, and anglers took it over almost immediately. In 1916 amusement builder Charles Looff, who had built Coney Island's first carousel, added a pleasure pier beside it with rides and the Hippodrome, an exotic building made to hold a carousel. The Hippodrome still turns one today.
+
+IIIWings
+
+### The first flight around the world
+
+**200,000** people at Clover Field to welcome the fliers home
+
+In 1922 Donald Douglas set up an aircraft factory at Clover Field, today's Santa Monica Airport. Two years later four of his Douglas World Cruisers took off to try to circle the globe. Two made it, covering more than 27,000 miles in 175 days, and came home on September 23, 1924 to a crowd of about 200,000. During the Second World War the Douglas plant employed as many as 44,000 people, and its workers filled the bungalows and apartments that still line the city's side streets.
+
+Test yourself
+
+### Did you know?
+
+01 **Why was the Santa Monica Pier built?** Tap for the answer
+
+To carry a sewage pipe out past the surf in 1909. Fishermen adopted it, and Charles Looff added the amusement pier next to it in 1916.
+
+02 **Where did the first flight around the world begin and end?** Tap for the answer
+
+At Clover Field, today's Santa Monica Airport. Two Douglas World Cruisers completed the trip in 1924.
+
+03 **Could Santa Monica have been LA's port?** Tap for the answer
+
+It tried. Its Long Wharf competed with San Pedro in the 1890s, but federal harbor money went to San Pedro in 1897.
+
+04 **Who founded Santa Monica?** Tap for the answer
+
+Col. Robert S. Baker and Nevada Senator John P. Jones, who laid out the town and held its first land sale in 1875.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Santa Monica Pier 1909 California's oldest pleasure pier. Map ↗](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Pier%2C+Santa+Monica%2C+CA)
+- [Looff Hippodrome 1916 The carousel building at the foot of the pier. Map ↗](https://www.google.com/maps/search/?api=1&query=Looff+Hippodrome%2C+Santa+Monica%2C+CA)
+- [Palisades Park 1875 The bluff-top park set aside by the founders. Map ↗](https://www.google.com/maps/search/?api=1&query=Palisades+Park%2C+Santa+Monica%2C+CA)
+- [Santa Monica Airport 1922 Clover Field, where Douglas built the World Cruisers. Map ↗](https://www.google.com/maps/search/?api=1&query=Santa+Monica+Airport%2C+Santa+Monica%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: History of Santa Monica](https://en.wikipedia.org/wiki/History_of_Santa_Monica,_California)
+- [Santa Monica History Museum](https://santamonicahistory.org/santa-monica-history/)
+- [Santa Monica Conservancy: History of Santa Monica](https://smconservancy.org/explore-santa-monica/historic-places/history-of-santa-monica/)
+- [City of Santa Monica: Pier history](https://www.santamonica.gov/blog/santa-monica-history-spotlight-looff-hippodrome-2)
+
 Photos
 
 ## Santa Monica in pictures

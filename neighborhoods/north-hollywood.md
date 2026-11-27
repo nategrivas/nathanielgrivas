@@ -285,6 +285,104 @@ Sources
 - [The Infatuation: Studio City](https://www.theinfatuation.com/los-angeles/guides/studio-city-restaurants)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=North+Hollywood+CA)
 
+The story of North Hollywood
+
+## Toluca, then Lankershim, then NoHo
+
+North Hollywood has had three names. It started as Toluca, became Lankershim in honor of the family that owned the valley floor, and in 1927 rebranded as North Hollywood to borrow some glamour from over the hill. Amelia Earhart lived here, the Television Academy settled here, and the old downtown reinvented itself as the NoHo Arts District when the subway arrived in 2000.
+
+3 min read 8 milestones 3 chapters 4 landmarks
+
+### Timeline
+
+- 1886
+
+A Southern Pacific depot opens here under the name Toluca.
+
+- 1887
+
+The Lankershim Ranch Land and Water Company lays out the town of Toluca.
+
+- 1896
+
+The post office takes the name Lankershim.
+
+- 1927
+
+On August 15, Lankershim officially becomes North Hollywood.
+
+- 1934
+
+Amelia Earhart and her husband move to Valley Spring Lane in the Toluca Lake area.
+
+- 1950s
+
+Valley Plaza claims to be the largest shopping center on the West Coast.
+
+- 1981
+
+The North Hollywood library is renamed for Amelia Earhart.
+
+- 2000
+
+The Metro Red Line, now the B Line, opens its North Hollywood terminus.
+
+IThree names
+
+### Toluca, Lankershim, North Hollywood
+
+**1927** the North Hollywood name is adopted
+
+The town began around a Southern Pacific depot called Toluca and was laid out in 1887 by the Lankershim Ranch Land and Water Company. The Lankershim name won out in the 1890s after a local feud. Then in 1927, hoping to capitalize on the movie industry next door, the town renamed itself North Hollywood, and a housing boom followed. The old depot still stands across from the subway station.
+
+II1934
+
+### Amelia Earhart's neighborhood
+
+**1981** the library takes her name
+
+In 1934 Amelia Earhart and her husband, publisher George Putnam, rented a house on Valley Spring Lane and later bought one down the street. She was living here when she set out on her final flight in 1937. The regional library on Tujunga Avenue was renamed in her honor in 1981, beside a monument in North Hollywood Park.
+
+IIINoHo
+
+### The Arts District
+
+**2000** the subway arrives
+
+After the Valley's big malls drew shoppers away, the Lankershim business district emptied out. Small theaters, galleries and studios moved into the low rents, and the area was branded the NoHo Arts District. When the subway reached North Hollywood in 2000, new apartments and offices followed, and the Television Academy's headquarters anchors the district.
+
+Test yourself
+
+### Did you know?
+
+01 **What was North Hollywood called first?** Tap for the answer
+
+Toluca, then Lankershim. It became North Hollywood in 1927.
+
+02 **Did Amelia Earhart live in North Hollywood?** Tap for the answer
+
+Yes, on Valley Spring Lane in the Toluca Lake area from 1934. The local library is named for her.
+
+03 **What is in the old Lankershim train depot?** Tap for the answer
+
+A coffee shop, across from the North Hollywood subway station.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Lankershim Depot 1896 The old train depot across from the subway station. Map ↗](https://www.google.com/maps/search/?api=1&query=Lankershim+Depot%2C+North+Hollywood%2C+CA)
+- [El Portal Theatre The restored movie palace on Lankershim Boulevard. Map ↗](https://www.google.com/maps/search/?api=1&query=El+Portal+Theatre%2C+North+Hollywood%2C+CA)
+- [Amelia Earhart Regional Library The branch named for her in 1981. Map ↗](https://www.google.com/maps/search/?api=1&query=Amelia+Earhart+Regional+Library%2C+North+Hollywood%2C+CA)
+- [NoHo Arts District Theaters, galleries and the Television Academy. Map ↗](https://www.google.com/maps/search/?api=1&query=NoHo+Arts+District%2C+North+Hollywood%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: North Hollywood](https://en.wikipedia.org/wiki/North_Hollywood,_Los_Angeles)
+- [Wikipedia: Lankershim](https://en.wikipedia.org/wiki/Lankershim,_Los_Angeles_County,_California)
+- [Los Angeles Public Library: Dig Los Angeles, North Hollywood](https://www.lapl.org/news-stories/articles/dig-los-angeles-north-hollywood-amelia-earhart-regional-branch-los-angeles)
+- [PBS SoCal Lost LA: when North Hollywood was Toluca or Lankershim](https://pbssocal.org/shows/lost-la/when-north-hollywood-was-a-town-named-toluca-or-lankershim)
+
 Living here
 
 ## The homes, the rules and who it fits

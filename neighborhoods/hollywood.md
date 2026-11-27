@@ -607,6 +607,117 @@ Sources
 - [Michelin Guide: Thompson Hollywood and Bar Lis](https://guide.michelin.com/en/hotels-stays/los-angeles-area/thompson-hollywood-12410)
 - [Time Out: Bar Lis](https://www.timeout.com/los-angeles/bars/bar-lis)
 
+The story of Hollywood
+
+## From a quiet suburb to the movie capital of the world
+
+Hollywood was named by Daeida Wilcox, whose husband Harvey subdivided a ranch here in 1887 as an orderly, tree-lined suburb. It became a city in 1903, gave up its independence to Los Angeles for water in 1910, and that same decade the filmmakers arrived. Within twenty years the name meant movies everywhere on earth.
+
+3 min read 10 milestones 3 chapters 5 landmarks
+
+### Timeline
+
+- 1887
+
+Harvey Wilcox files a subdivision map, and his wife Daeida names it Hollywood.
+
+- 1903
+
+Hollywood incorporates as a city.
+
+- 1910
+
+Hollywood merges with Los Angeles to get water.
+
+- 1911
+
+Nestor Studios opens the first film studio in Hollywood at Sunset and Gower.
+
+- 1914
+
+Cecil B. DeMille shoots The Squaw Man in a barn near Selma and Vine.
+
+- 1922
+
+Grauman's Egyptian Theatre opens on Hollywood Boulevard.
+
+- 1927
+
+Grauman's Chinese Theatre and the Hollywood Roosevelt Hotel open.
+
+- 1929
+
+The first Academy Awards are handed out at the Roosevelt on May 16.
+
+- 1956
+
+The Capitol Records Tower is completed.
+
+- 1960
+
+The first stars are installed on the Walk of Fame.
+
+I1887
+
+### The Wilcoxes' town
+
+**1903** Hollywood incorporates
+
+Harvey and Daeida Wilcox subdivided their ranch below the hills in 1887, and Daeida gave it the name Hollywood. It grew into a quiet suburb of orchards and churches, incorporated in 1903, and seven years later voted to join Los Angeles because it needed the city's water.
+
+II1911
+
+### The movies arrive
+
+**1911** the first Hollywood studio
+
+In 1911 the Nestor company opened the first film studio in Hollywood at Sunset and Gower, and the rest of the industry followed for the sunshine, cheap land and varied scenery. In 1914 Cecil B. DeMille made The Squaw Man in a horse barn near Selma and Vine. That barn, moved twice since, is now the Hollywood Heritage Museum across from the Hollywood Bowl.
+
+IIIThe boulevard
+
+### Palaces, premieres and the Walk of Fame
+
+**15 min** length of the first Oscars ceremony
+
+Showman Sid Grauman built the Egyptian Theatre in 1922 and the Chinese Theatre in 1927, where stars began leaving hand and footprints in the forecourt. The Hollywood Roosevelt opened the same year and hosted the first Academy Awards in 1929, a dinner where the awards took about 15 minutes. Capitol Records finished its round tower in 1956, and the Walk of Fame's first stars went in in 1960.
+
+Test yourself
+
+### Did you know?
+
+01 **Who named Hollywood?** Tap for the answer
+
+Daeida Wilcox, whose husband Harvey subdivided the land in 1887.
+
+02 **Where were the first Oscars held?** Tap for the answer
+
+At the Hollywood Roosevelt Hotel on May 16, 1929.
+
+03 **What does the light on top of the Capitol Records Tower spell?** Tap for the answer
+
+Hollywood, in Morse code.
+
+04 **Why did Hollywood join Los Angeles?** Tap for the answer
+
+For water. The city of Hollywood merged with LA in 1910.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [TCL Chinese Theatre 1927 Grauman's Chinese and its forecourt of footprints. Map ↗](https://www.google.com/maps/search/?api=1&query=TCL+Chinese+Theatre%2C+Hollywood%2C+CA)
+- [Hollywood Roosevelt Hotel 1927 Site of the first Academy Awards. Map ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Roosevelt+Hotel%2C+Hollywood%2C+CA)
+- [Capitol Records Tower 1956 The round tower near Hollywood and Vine. Map ↗](https://www.google.com/maps/search/?api=1&query=Capitol+Records+Tower%2C+Hollywood%2C+CA)
+- [Hollywood Heritage Museum 1914 The Lasky-DeMille Barn where The Squaw Man was made. Map ↗](https://www.google.com/maps/search/?api=1&query=Hollywood+Heritage+Museum%2C+Hollywood%2C+CA)
+- [Egyptian Theatre 1922 Grauman's first Hollywood palace. Map ↗](https://www.google.com/maps/search/?api=1&query=Egyptian+Theatre%2C+Hollywood%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Hollywood](https://en.wikipedia.org/wiki/Hollywood,_Los_Angeles)
+- [Wikipedia: Lasky-DeMille Barn](https://en.wikipedia.org/wiki/Lasky-DeMille_Barn)
+- [Wikipedia: Hollywood Roosevelt Hotel](https://en.wikipedia.org/wiki/Hollywood_Roosevelt_Hotel)
+- [Wikipedia: Capitol Records Building](https://en.wikipedia.org/wiki/Capitol_Records_Building)
+
 Photos
 
 ## Hollywood in pictures

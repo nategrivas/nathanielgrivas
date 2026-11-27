@@ -178,6 +178,86 @@ Sources
 - [OpenTable diner reviews: Tarzana](https://opentable.co.uk/phrase/1366781)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Tarzana+CA)
 
+The story of Tarzana
+
+## Named for Tarzan, by the man who wrote him
+
+Tarzana is the only neighborhood in Los Angeles named after a fictional character. In 1919 Edgar Rice Burroughs, rich from his Tarzan novels, bought the late Los Angeles Times publisher Harrison Gray Otis's country estate, renamed it Tarzana Ranch and began selling lots. When the town got its own post office in 1930, the name went with it.
+
+3 min read 6 milestones 2 chapters 2 landmarks
+
+### Timeline
+
+- 1909
+
+Harrison Gray Otis buys land in the south Valley for his country estate, Mil Flores.
+
+- 1917
+
+Otis dies, and the ranch goes up for sale.
+
+- 1919
+
+On March 1, Edgar Rice Burroughs buys the roughly 540-acre ranch and names it Tarzana Ranch.
+
+- 1920s
+
+Burroughs subdivides and sells much of the land, and a country club leases part of it.
+
+- 1927
+
+Residents petition for their own post office, and Burroughs builds an office on Ventura Boulevard.
+
+- 1930
+
+The Tarzana post office opens on December 12. About 300 people live here.
+
+IMil Flores
+
+### From a publisher's estate to Tarzan's ranch
+
+**1919** Burroughs buys the ranch
+
+Harrison Gray Otis, the publisher of the Los Angeles Times, kept a country estate in the south Valley called Mil Flores, a thousand flowers. After his death it was sold in 1919 to Edgar Rice Burroughs, the Chicago writer whose Tarzan books and movies had made him rich. Burroughs moved his family west, renamed the place Tarzana Ranch, and tried his hand at farming and ranching.
+
+IITarzana
+
+### A town takes the name
+
+**300** residents when the post office opened in 1930
+
+Ranching was expensive, and Burroughs soon began subdividing and selling lots. By the late 1920s a small community had grown up along Ventura Boulevard, and when its post office opened in 1930 it took the ranch's name. Burroughs's company still works from the office he built on Ventura Boulevard in 1927, and he is buried beneath a tree outside it.
+
+Test yourself
+
+### Did you know?
+
+01 **Is Tarzana really named after Tarzan?** Tap for the answer
+
+Yes. Edgar Rice Burroughs named his ranch Tarzana after his famous character, and the town kept the name.
+
+02 **What was the ranch called before Burroughs?** Tap for the answer
+
+Mil Flores, meaning a thousand flowers, the country estate of Los Angeles Times publisher Harrison Gray Otis.
+
+03 **Where is Edgar Rice Burroughs buried?** Tap for the answer
+
+Under a tree outside his company's office on Ventura Boulevard in Tarzana.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Edgar Rice Burroughs, Inc. office 1927 The writer's office on Ventura Boulevard. Map ↗](https://www.google.com/maps/search/?api=1&query=Edgar+Rice+Burroughs%2C+Inc.+office%2C+Tarzana%2C+CA)
+- [El Caballero Country Club The club on the old ranch land. Map ↗](https://www.google.com/maps/search/?api=1&query=El+Caballero+Country+Club%2C+Tarzana%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Tarzana](https://en.wikipedia.org/wiki/Tarzana,_Los_Angeles)
+- [LA Weekly: Burroughs and Tarzana](https://www.laweekly.com/?p=39588)
+- [ERBzine: Tarzana history](https://www.erbzine.com/tarzana)
+- [San Fernando Valley Business Journal: Writer turns failed ranch into Tarzana](https://sfvbj.com/news/2019/feb/18/writer-turns-failed-ranch-tarzana/)
+
 Living here
 
 ## The homes, the rules and who it fits

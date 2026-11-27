@@ -192,6 +192,107 @@ Sources
 - [The Infatuation: San Fernando Valley](https://www.theinfatuation.com/los-angeles/guides/the-best-restaurants-in-the-san-fernando-valley)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Encino+CA)
 
+The story of Encino
+
+## The valley of the oaks
+
+Encino is where the Spanish first named the San Fernando Valley. In 1769 the Portola expedition camped by a spring here and called the whole valley Santa Catalina de Bononia de los Encinos, the valley of the oaks. The spring still flows in Los Encinos State Historic Park beside an 1849 adobe, and a live oak more than 1,000 years old stood nearby until a storm brought it down in 1998.
+
+3 min read 9 milestones 3 chapters 3 landmarks
+
+### Timeline
+
+- 1769
+
+The Portola expedition camps at the spring and names the valley for its oaks.
+
+- 1797
+
+Mission San Fernando is founded. Its padres had used Encino as a base while exploring the valley.
+
+- 1845
+
+Rancho El Encino is granted to three Native Californians: Roman, Roque and Francisco.
+
+- 1849
+
+Vicente de la Ossa builds a nine-room adobe beside the spring.
+
+- 1872
+
+Eugene Garnier builds a two-story limestone house on the rancho.
+
+- 1941
+
+Sepulveda Dam is completed, creating the Sepulveda Basin.
+
+- 1949
+
+The adobe, spring and Garnier house become Los Encinos State Historic Park.
+
+- 1963
+
+The great Encino Oak is named a city monument.
+
+- 1998
+
+The 1,000-year-old oak falls in a February storm.
+
+I1769
+
+### Portola's spring
+
+**1769** Encino names the Valley
+
+When the Spanish expedition led by Gaspar de Portola crossed into the valley in August 1769, it camped beside a spring among great oaks and gave the whole valley a name that honored them. Encino is Spanish for live oak. The spring still feeds a pond at Los Encinos State Historic Park on Ventura Boulevard.
+
+IIRancho El Encino
+
+### An adobe on the old road
+
+**9** rooms in the 1849 adobe
+
+In 1845 the land was granted to three Native Californians. Vicente de la Ossa bought in and built a nine-room adobe in 1849 that served travelers on the road through the valley, and Eugene Garnier added a two-story limestone house in 1872. The state bought the last parcel with the spring and both buildings in 1949. They were heavily damaged in the 1994 earthquake and restored.
+
+III1998
+
+### The Lang Oak
+
+**1,000+** years old when it fell
+
+The Encino Oak, also called the Lang Oak, was already centuries old when Portola passed by. Its branches spread about 150 feet. It was named a city Historic-Cultural Monument in 1963 and fell during a storm in February 1998, mourned by neighbors who came to say goodbye.
+
+Test yourself
+
+### Did you know?
+
+01 **What does Encino mean?** Tap for the answer
+
+Live oak, after the trees the Portola expedition found here in 1769.
+
+02 **How old was the Encino Oak?** Tap for the answer
+
+About 1,000 years old when it fell in 1998.
+
+03 **What is at Los Encinos State Historic Park?** Tap for the answer
+
+An 1849 adobe, an 1872 limestone house, a blacksmith shop and the natural spring.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Los Encinos State Historic Park 1849 The adobe, Garnier house and spring on Ventura Boulevard. Map ↗](https://www.google.com/maps/search/?api=1&query=Los+Encinos+State+Historic+Park%2C+Encino%2C+CA)
+- [Sepulveda Basin 1941 Parks, lakes and golf behind Sepulveda Dam. Map ↗](https://www.google.com/maps/search/?api=1&query=Sepulveda+Basin%2C+Encino%2C+CA)
+- [Lake Balboa The lake and cherry trees in the basin. Map ↗](https://www.google.com/maps/search/?api=1&query=Lake+Balboa%2C+Encino%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Los Encinos State Historic Park](https://en.wikipedia.org/wiki/Los_Encinos_State_Historic_Park)
+- [Wikipedia: Rancho Los Encinos](https://en.wikipedia.org/wiki/Rancho_Los_Encinos)
+- [Office of Historic Preservation: Los Encinos](https://ohp.parks.ca.gov/ListedResources/Detail/689)
+- [Historical Marker Database: Encino Oak Tree](https://www.hmdb.org/m.asp?m=165309)
+
 Track record
 
 ## My deals in Encino

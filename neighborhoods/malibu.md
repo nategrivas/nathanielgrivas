@@ -427,6 +427,113 @@ Sources
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Malibu+CA)
 - [Getty: Building Getty's Future](https://www.getty.edu/about/building-gettys-future/)
 
+The story of Malibu
+
+## The ranch one family fought to keep private
+
+For decades almost all of Malibu belonged to one family. Frederick and May Rindge bought the old Malibu rancho in the 1890s, and after Frederick died, May spent her fortune fighting the railroad, the county and the state to keep everyone else out. She lost, the coast highway opened, and she turned to tiles and movie stars to pay the bills. Malibu became its own city in 1991.
+
+3 min read 9 milestones 3 chapters 4 landmarks
+
+### Timeline
+
+- Chumash era
+
+The village of Humaliwo, usually translated as the place where the surf sounds loudly, gives Malibu its name.
+
+- 1890s
+
+Frederick and May Rindge buy the Malibu rancho, more than 13,000 acres of coast and canyon.
+
+- 1903
+
+The Rindges incorporate their own railroad along the coast so a competing line cannot be built across their land.
+
+- 1905
+
+Frederick dies. May takes over the ranch and the fight to keep it private.
+
+- 1923
+
+The U.S. Supreme Court rules against her in Rindge Co. v. County of Los Angeles, clearing the way for a public road.
+
+- 1926
+
+Short of cash, May founds Malibu Potteries and begins leasing beach lots to movie stars, the start of the Malibu Colony.
+
+- 1929
+
+The Adamson House, covered in Malibu tile, is built for her daughter beside Malibu Lagoon.
+
+- 1932
+
+Malibu Potteries closes after a fire the year before.
+
+- 1991
+
+Malibu incorporates as a city on March 28.
+
+IThe Queen of the Malibu
+
+### May Rindge's war
+
+**13,000+** acres owned by one family
+
+When Frederick Rindge died in 1905, his widow May inherited a ranch that ran for miles along the coast, and she was determined to keep it whole. She posted riders on the boundaries, built a private railroad so the Southern Pacific could not run a line through, and fought the county's plans for a public highway in court for years. In 1923 the U.S. Supreme Court ruled against her, and the coast road, today's Pacific Coast Highway, opened through Malibu by the end of the decade.
+
+IITiles and movie stars
+
+### How Malibu paid its legal bills
+
+**1926** Malibu Potteries opens
+
+The lawsuits left May Rindge land-rich and cash-poor. In 1926 she opened Malibu Potteries near the pier, whose glazed tiles became some of the most prized in California, and she began leasing beach lots to film stars who built cottages there, the start of the Malibu Colony. The pottery burned in 1931 and closed a year later, but the best surviving examples of its work cover the Adamson House, built in 1929 for her daughter Rhoda and now a state historic site.
+
+III1991
+
+### A city of its own
+
+**1991** Malibu incorporates
+
+For most of the twentieth century Malibu was unincorporated county land. Residents voted to form their own city in 1991, largely to control development along the coast. The surf break at Surfrider Beach, which helped launch California surf culture, was named the first World Surfing Reserve in 2010.
+
+Test yourself
+
+### Did you know?
+
+01 **Where does the name Malibu come from?** Tap for the answer
+
+From the Chumash village Humaliwo, usually translated as the place where the surf sounds loudly.
+
+02 **Why is there so much colorful tile in the Adamson House?** Tap for the answer
+
+It was built in 1929 by the family that ran Malibu Potteries, and it holds the best surviving collection of Malibu tile.
+
+03 **Who tried to keep the public out of Malibu?** Tap for the answer
+
+May Rindge, who fought a highway through her ranch all the way to the U.S. Supreme Court and lost in 1923.
+
+04 **When did Malibu become a city?** Tap for the answer
+
+March 28, 1991.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Adamson House 1929 The Malibu tile showcase beside the lagoon, now a state historic site. Map ↗](https://www.google.com/maps/search/?api=1&query=Adamson+House%2C+Malibu%2C+CA)
+- [Malibu Pier The Rindges' pier, rebuilt many times. Map ↗](https://www.google.com/maps/search/?api=1&query=Malibu+Pier%2C+Malibu%2C+CA)
+- [Surfrider Beach The first World Surfing Reserve. Map ↗](https://www.google.com/maps/search/?api=1&query=Surfrider+Beach%2C+Malibu%2C+CA)
+- [Malibu Lagoon State Beach The creek mouth and lagoon at the center of the old rancho. Map ↗](https://www.google.com/maps/search/?api=1&query=Malibu+Lagoon+State+Beach%2C+Malibu%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Malibu](https://en.wikipedia.org/wiki/Malibu,_California)
+- [Wikipedia: May Knight Rindge](https://en.wikipedia.org/wiki/Rhoda_May_Knight_Rindge)
+- [California State Parks: Adamson House](https://www.parks.ca.gov/?page_id=24327)
+- [Office of Historic Preservation: Adamson House](https://ohp.parks.ca.gov/ListedResources/Detail/966)
+- [Wikipedia: Malibu Potteries](https://en.wikipedia.org/wiki/Malibu_Potteries)
+
 Photos
 
 ## Malibu in pictures

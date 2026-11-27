@@ -271,6 +271,94 @@ Sources
 - [Time Out: The best restaurants in LA](https://www.timeout.com/los-angeles/restaurants/best-restaurants-in-los-angeles)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Palms+Los+Angeles+CA)
 
+The story of Palms
+
+## The Westside's oldest suburb
+
+Palms was founded in 1886 as The Palms, a farm and vacation town at a railroad stop halfway between downtown and the beach. It joined Los Angeles in 1915, the oldest neighborhood on the Westside to be annexed, and its little depot was saved, moved across town and still welcomes visitors today.
+
+3 min read 8 milestones 2 chapters 3 landmarks
+
+### Timeline
+
+- 1875
+
+A station called Bay View opens on the Los Angeles and Independence Railroad.
+
+- 1886
+
+The first tract map of The Palms is dated December 26, now considered the town's birthday. The founders plant thousands of trees.
+
+- 1886-88
+
+The Southern Pacific depot is built at the center of town.
+
+- 1907
+
+The Palms Chamber of Commerce forms.
+
+- 1915
+
+On May 22, Palms joins Los Angeles, the same day as most of the San Fernando Valley.
+
+- 1963
+
+The depot becomes City Historic-Cultural Monument No. 22.
+
+- 1976
+
+Neighbors raise money to move the depot to Heritage Square Museum.
+
+- 2016
+
+Rail returns as the Expo Line opens its Palms station.
+
+I1886
+
+### A town at a railroad stop
+
+**1886** The Palms is founded
+
+The Palms grew up around a train stop on the line from Los Angeles to the coast. Its founders bought land around the station, planted thousands of trees and filed their first tract map on December 26, 1886, selling lots to farmers and to city families escaping the summer heat downtown. For nearly 30 years it was a small, independent farm town.
+
+II1915
+
+### Joining the city, saving the depot
+
+**No. 22** the depot's monument number
+
+Like the Valley, Palms joined Los Angeles in 1915 for its new aqueduct water, making it the oldest neighborhood on the Westside to be annexed. The two-story wooden depot outlived the trains. Named a monument in 1963, it was moved in 1976 to Heritage Square Museum in Montecito Heights. In 2016 trains came back, when the Expo Line opened a Palms station at National and Palms boulevards.
+
+Test yourself
+
+### Did you know?
+
+01 **Why is it called Palms?** Tap for the answer
+
+The founders named their 1886 town The Palms and planted thousands of trees around the depot.
+
+02 **Where is the old Palms train depot?** Tap for the answer
+
+At Heritage Square Museum in Montecito Heights, where it was moved in 1976.
+
+03 **When did Palms join Los Angeles?** Tap for the answer
+
+May 22, 1915, the same day as most of the San Fernando Valley.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Palms station (E Line) 2016 Rail service back at National and Palms. Map ↗](https://www.google.com/maps/search/?api=1&query=Palms+station+%28E+Line%29%2C+Palms%2C+CA)
+- [Palms Depot at Heritage Square 1886 The original depot, moved and preserved. Map ↗](https://www.google.com/maps/search/?api=1&query=Palms+Depot+at+Heritage+Square%2C+Palms%2C+CA)
+- [Museum of Jurassic Technology The famously strange museum on Venice Boulevard. Map ↗](https://www.google.com/maps/search/?api=1&query=Museum+of+Jurassic+Technology%2C+Palms%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Palms, Los Angeles](https://en.wikipedia.org/wiki/Palms,_Los_Angeles)
+- [Wikipedia: Palms depot](https://en.wikipedia.org/wiki/Palms_station_(Southern_Pacific_Railroad))
+- [L.A. Taco: things you may not know about Palms](https://lataco.com/history-palms-neighborhood)
+
 Photos
 
 ## Palms in pictures

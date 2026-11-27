@@ -284,6 +284,99 @@ Sources
 - [OpenTable diner reviews: Century City](https://www.opentable.com/lists/top-picks-century-city-restaurants-los-angeles)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Century+City+Los+Angeles+CA)
 
+The story of Century City
+
+## A studio backlot that became a skyline
+
+Century City was a movie backlot until 1961, when 20th Century Fox, short on cash, sold most of its land to Alcoa. Architects Welton Becket and Minoru Yamasaki turned the old sets into a planned city of towers, a grand hotel and a shopping center, and the Fox lot that remains still makes movies next door.
+
+3 min read 7 milestones 3 chapters 4 landmarks
+
+### Timeline
+
+- 1920s
+
+Fox Film moves production to a large lot on Pico Boulevard west of Beverly Hills.
+
+- 1961
+
+20th Century Fox sells most of its backlot to Alcoa, which plans a new city on it.
+
+- 1964
+
+The open-air shopping center, today's Westfield Century City, opens.
+
+- 1966
+
+The Century Plaza Hotel, designed by Minoru Yamasaki, opens.
+
+- 1975
+
+Yamasaki's twin triangular Century Plaza Towers are completed.
+
+- 1987
+
+Fox Plaza is finished.
+
+- 1988
+
+Fox Plaza plays Nakatomi Plaza in Die Hard.
+
+IThe backlot
+
+### From Western towns to office towers
+
+**1961** Fox sells the backlot
+
+For decades the hills between Beverly Hills and Cheviot Hills were a Fox backlot of Western towns, city streets and jungle sets. In 1961, with costs soaring, Fox sold most of the land to Alcoa, which hired Welton Becket to master-plan a city within the city: offices, apartments, a hotel and a shopping center, connected by wide boulevards including the Avenue of the Stars.
+
+IIYamasaki
+
+### Towers by the World Trade Center architect
+
+**1975** Century Plaza Towers
+
+Minoru Yamasaki, who would design New York's World Trade Center, designed the curved Century Plaza Hotel, which opened in 1966, and the twin triangular Century Plaza Towers, finished in 1975. The hotel hosted presidents and state dinners for decades and was restored and reopened in recent years.
+
+IIIOn screen
+
+### Nakatomi Plaza
+
+**1988** Die Hard
+
+The 35-story Fox Plaza, completed in 1987, became famous a year later as Nakatomi Plaza in Die Hard. The Fox studio lot right next door is still a working studio, so Century City remains one of the few places where the movie business and the office market share a fence line.
+
+Test yourself
+
+### Did you know?
+
+01 **What was Century City before the towers?** Tap for the answer
+
+The backlot of 20th Century Fox, sold to Alcoa in 1961.
+
+02 **Which building is Nakatomi Plaza?** Tap for the answer
+
+Fox Plaza, completed in 1987 and featured in Die Hard in 1988.
+
+03 **Who designed the Century Plaza Towers?** Tap for the answer
+
+Minoru Yamasaki, the architect of New York's World Trade Center.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Century Plaza Towers 1975 Yamasaki's twin triangles. Map ↗](https://www.google.com/maps/search/?api=1&query=Century+Plaza+Towers%2C+Century+City%2C+CA)
+- [Century Plaza hotel 1966 The curved hotel on Avenue of the Stars. Map ↗](https://www.google.com/maps/search/?api=1&query=Century+Plaza+hotel%2C+Century+City%2C+CA)
+- [Fox Plaza 1987 Nakatomi Plaza in Die Hard. Map ↗](https://www.google.com/maps/search/?api=1&query=Fox+Plaza%2C+Century+City%2C+CA)
+- [Westfield Century City 1964 The open-air shopping center. Map ↗](https://www.google.com/maps/search/?api=1&query=Westfield+Century+City%2C+Century+City%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Century City](https://en.wikipedia.org/wiki/Century_City,_Los_Angeles)
+- [Wikipedia: Century Plaza Towers](https://en.wikipedia.org/wiki/Century_Plaza_Towers)
+- [Wikipedia: Fox Plaza](https://en.wikipedia.org/wiki/Fox_Plaza)
+
 Photos
 
 ## Century City in pictures

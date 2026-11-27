@@ -348,6 +348,100 @@ Sources
 - [La Brea Tar Pits](https://tarpits.org/last-chance)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Miracle+Mile+Los+Angeles+CA)
 
+The story of Miracle Mile
+
+## The first shopping street built for the car
+
+In 1921 developer A.W. Ross bought land along a dirt stretch of Wilshire Boulevard and bet that Angelenos would drive, not walk, to shop. He built storefronts scaled to be read through a windshield, with parking behind them, and the strip became the Miracle Mile. Its Art Deco department stores now hold museums, and the tar pits next door are still giving up Ice Age fossils.
+
+3 min read 9 milestones 2 chapters 4 landmarks
+
+### Timeline
+
+- Ice Age
+
+Animals from mammoths to saber-toothed cats are trapped in the asphalt seeps of Rancho La Brea.
+
+- 1921
+
+A.W. Ross buys land on Wilshire Boulevard for a shopping district designed around the automobile.
+
+- 1924
+
+G. Allan Hancock donates the tar pits and 23 acres to LA County as a park.
+
+- 1939
+
+The May Company department store opens at Wilshire and Fairfax, with its gold-tiled corner cylinder.
+
+- 1940s
+
+Park La Brea, a planned apartment community, rises just north of Wilshire.
+
+- 1965
+
+The Los Angeles County Museum of Art opens on Wilshire.
+
+- 1977
+
+The Page Museum opens at the tar pits.
+
+- 1994
+
+The Petersen Automotive Museum opens in a former department store.
+
+- 2021
+
+The Academy Museum of Motion Pictures opens in the old May Company building.
+
+I1921
+
+### Built for the windshield
+
+**1921** A.W. Ross buys on Wilshire
+
+A.W. Ross noticed that Los Angeles was spreading west faster than the streetcars could follow, and that shoppers would soon arrive by car. On a quiet stretch of Wilshire between La Brea and Fairfax he planned stores with big signs and bold facades meant to be seen at 30 miles an hour, with parking lots behind them. Downtown merchants scoffed. The strip boomed, and the name Miracle Mile stuck.
+
+IIMuseum Row
+
+### Department stores become museums
+
+**1939** the May Company building opens
+
+The great Streamline and Art Deco stores of the Miracle Mile lost their shoppers to malls in the late twentieth century, and museums moved in. LACMA opened in 1965, the Petersen Automotive Museum took over a former department store in 1994, and the gold-cylindered May Company building of 1939 reopened in 2021 as the Academy Museum of Motion Pictures. The La Brea Tar Pits, still an active dig site, sit in the middle of it all.
+
+Test yourself
+
+### Did you know?
+
+01 **Why is it called the Miracle Mile?** Tap for the answer
+
+Because a dirt stretch of Wilshire turned into a booming shopping district designed for drivers in just a few years after 1921.
+
+02 **What is inside the old May Company building?** Tap for the answer
+
+The Academy Museum of Motion Pictures, which opened there in 2021.
+
+03 **Are scientists still digging at the tar pits?** Tap for the answer
+
+Yes. La Brea is an active excavation site in the middle of the city.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Academy Museum of Motion Pictures 2021 In the 1939 May Company building. Map ↗](https://www.google.com/maps/search/?api=1&query=Academy+Museum+of+Motion+Pictures%2C+Miracle+Mile%2C+CA)
+- [LACMA 1965 The county art museum. Map ↗](https://www.google.com/maps/search/?api=1&query=LACMA%2C+Miracle+Mile%2C+CA)
+- [La Brea Tar Pits 1924 Fossil pits and museum in Hancock Park. Map ↗](https://www.google.com/maps/search/?api=1&query=La+Brea+Tar+Pits%2C+Miracle+Mile%2C+CA)
+- [Petersen Automotive Museum 1994 The car museum with the steel ribbon facade. Map ↗](https://www.google.com/maps/search/?api=1&query=Petersen+Automotive+Museum%2C+Miracle+Mile%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Miracle Mile](https://en.wikipedia.org/wiki/Miracle_Mile,_Los_Angeles)
+- [La Brea Tar Pits: history](https://tarpits.org/la-brea-tar-pits-history)
+- [Wikipedia: Academy Museum of Motion Pictures](https://en.wikipedia.org/wiki/Academy_Museum_of_Motion_Pictures)
+- [Wikipedia: May Company Building](https://en.wikipedia.org/wiki/May_Company_Building)
+
 Photos
 
 ## Miracle Mile in pictures

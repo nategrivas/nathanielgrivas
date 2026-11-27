@@ -521,6 +521,100 @@ Sources
 - [Fodor's: Los Feliz and Eastside bars](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/los-feliz-and-the-eastside/things-to-do/nightlife)
 - [Roadbook: Cocktail bars locals love](https://roadbook.com/los-angeles/city-guide/best-cocktail-bars-los-angeles)
 
+The story of Silver Lake
+
+## A reservoir, a famous staircase and Disney's first big studio
+
+Silver Lake is named for a reservoir, and the reservoir for Herman Silver, a member of the city's water board. Around it grew Walt Disney's first big studio, a staircase made famous by Laurel and Hardy, and hillsides where Richard Neutra and a generation of modern architects built.
+
+3 min read 7 milestones 3 chapters 4 landmarks
+
+### Timeline
+
+- 1907
+
+The Silver Lake Reservoir is completed and named for water commissioner Herman Silver.
+
+- 1926
+
+Walt Disney moves his studio to Hyperion Avenue.
+
+- 1932
+
+Laurel and Hardy haul a piano up the Vendome Street stairs in The Music Box, which wins an Academy Award.
+
+- 1932
+
+Richard Neutra builds his VDL Research House on the reservoir.
+
+- 1937
+
+Snow White and the Seven Dwarfs, made at the Hyperion studio, premieres.
+
+- 1940
+
+Disney moves to Burbank.
+
+- 1967
+
+Patrons of the Black Cat Tavern protest a police raid, two years before Stonewall.
+
+I1907
+
+### The reservoir
+
+**1907** the reservoir is completed
+
+The Silver Lake Reservoir was built in 1907 to store water for a growing city and named for Herman Silver, a member of the water board. The hills around it filled with houses in the 1920s and 1930s, and the walking path around the water and the meadow beside it are now the neighborhood's front yard.
+
+II1926 to 1940
+
+### Disney on Hyperion
+
+**1937** Snow White premieres
+
+In 1926 Walt Disney moved his young studio to Hyperion Avenue, and over the next 14 years it produced Mickey Mouse cartoons and the first full-length animated feature, Snow White and the Seven Dwarfs. Disney moved to Burbank in 1940, and the Hyperion site is now a supermarket. A few blocks away, Laurel and Hardy filmed The Music Box on a long public staircase off Vendome Street in 1932, and the steps still carry the film's name.
+
+IIIModern hills
+
+### Neutra and the modernists
+
+**1932** Neutra's VDL Research House
+
+Richard Neutra built his own house and studio on the reservoir in 1932 and later designed a cluster of houses nearby along Silver Lake Boulevard. Rudolph Schindler, John Lautner and others built on the surrounding hills, making Silver Lake one of the densest collections of modern houses in the country.
+
+Test yourself
+
+### Did you know?
+
+01 **Who is Silver Lake named after?** Tap for the answer
+
+Herman Silver, a member of the city's water board when the reservoir was built in 1907.
+
+02 **Where are the Music Box Steps?** Tap for the answer
+
+Off Vendome Street, where Laurel and Hardy filmed The Music Box in 1932.
+
+03 **Where was Snow White made?** Tap for the answer
+
+At Disney's studio on Hyperion Avenue in Silver Lake.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Silver Lake Reservoir and Meadow 1907 The walking loop and lawn on the water. Map ↗](https://www.google.com/maps/search/?api=1&query=Silver+Lake+Reservoir+and+Meadow%2C+Silver+Lake%2C+CA)
+- [Music Box Steps 1932 The Laurel and Hardy stairs off Vendome Street. Map ↗](https://www.google.com/maps/search/?api=1&query=Music+Box+Steps%2C+Silver+Lake%2C+CA)
+- [Neutra VDL Studio and Residences 1932 Richard Neutra's home and studio. Map ↗](https://www.google.com/maps/search/?api=1&query=Neutra+VDL+Studio+and+Residences%2C+Silver+Lake%2C+CA)
+- [Black Cat 1967 The site of an early LGBTQ rights protest, now a city monument. Map ↗](https://www.google.com/maps/search/?api=1&query=Black+Cat%2C+Silver+Lake%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Silver Lake](https://en.wikipedia.org/wiki/Silver_Lake,_Los_Angeles)
+- [Wikipedia: Music Box Steps](https://en.wikipedia.org/wiki/Music_Box_Steps)
+- [Wikipedia: VDL Research House](https://en.wikipedia.org/wiki/VDL_Research_House)
+- [Wikipedia: Black Cat Tavern](https://en.wikipedia.org/wiki/Black_Cat_Tavern)
+
 Photos
 
 ## Silver Lake in pictures

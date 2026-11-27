@@ -257,6 +257,78 @@ Sources
 - [Locale: The hottest new restaurants in LA](https://localemagazine.com/hottest-new-restaurants-in-los-angeles/)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Pico-Robertson+Los+Angeles+CA)
 
+The story of Pico-Robertson & Beverlywood
+
+## Two boulevards, an old rancho and Beverlywood
+
+Pico-Robertson takes its name from the crossroads at its center: Pico Boulevard, named for Pio Pico, the last governor of Mexican California, and Robertson Boulevard. South of it, the Leimert company opened Beverlywood in 1940 with strict rules, private parks and 1,354 houses, and it still runs on them.
+
+3 min read 4 milestones 2 chapters 2 landmarks
+
+### Timeline
+
+- 1840s
+
+The land is part of a Mexican-era rancho. A later company named itself after Don Jose de Arnaz, one of its owners.
+
+- 1931
+
+Alexander Hamilton High School opens on Robertson Boulevard.
+
+- 1940
+
+The Walter H. Leimert Company opens Beverlywood with an opening-day ceremony and a homes association to enforce its rules.
+
+- 1993
+
+The Museum of Tolerance opens on Pico Boulevard.
+
+IThe crossroads
+
+### Pio Pico's boulevard
+
+**Pio Pico** last governor of Mexican California
+
+Pico Boulevard is named for Pio Pico, the last governor of California under Mexico,. Where it meets Robertson Boulevard grew a dense neighborhood of 1920s and 1930s duplexes, bungalows and apartment buildings, with one of the busiest walkable shopping strips on the Westside along Pico.
+
+II1940
+
+### Beverlywood by the rules
+
+**1,354** houses in Beverlywood
+
+In 1940 the Walter H. Leimert Company, which had already built Leimert Park, opened Beverlywood south of Pico-Robertson. It was planned from the start with binding covenants, conditions and restrictions and a homes association to enforce them, plus small private parks for residents. Its 1,354 single-family houses, mostly traditional styles from the 1940s, sit on curving streets that still look much as they did when the tract opened.
+
+Test yourself
+
+### Did you know?
+
+01 **Who is Pico Boulevard named for?** Tap for the answer
+
+Pio Pico, the last governor of California under Mexican rule.
+
+02 **Who built Beverlywood?** Tap for the answer
+
+The Walter H. Leimert Company, the developer of Leimert Park, in 1940.
+
+03 **How many houses are in Beverlywood?** Tap for the answer
+
+1,354 single-family homes, governed by a homes association founded in 1940.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Museum of Tolerance 1993 The museum on Pico Boulevard. Map ↗](https://www.google.com/maps/search/?api=1&query=Museum+of+Tolerance%2C+Pico-Robertson+%26+Beverlywood%2C+CA)
+- [Pico Boulevard The neighborhood's walkable main street. Map ↗](https://www.google.com/maps/search/?api=1&query=Pico+Boulevard%2C+Pico-Robertson+%26+Beverlywood%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Beverlywood](https://en.wikipedia.org/wiki/Beverlywood,_Los_Angeles)
+- [PBS SoCal: Beverlywood](https://www.pbssocal.org/shows/departures/beverlywood)
+- [Wikipedia: South Robertson](https://en.wikipedia.org/wiki/South_Robertson,_Los_Angeles)
+- [Wikipedia: Robertson Boulevard](https://en.wikipedia.org/wiki/Robertson_Boulevard)
+
 Track record
 
 ## My deals in Pico-Robertson & Beverlywood

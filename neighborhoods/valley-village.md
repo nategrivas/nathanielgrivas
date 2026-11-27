@@ -256,6 +256,80 @@ Sources
 - [PBS SoCal: Iconic North Hollywood restaurants](https://www.pbssocal.org/food-discovery/food/iconic-neighborhood-restaurants-north-hollywood)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Valley+Village+CA)
 
+The story of Valley Village
+
+## The neighborhood that named itself
+
+For most of its life, Valley Village was the southwestern corner of North Hollywood. Homeowners began organizing for an identity of their own in 1985, and in 1991 the city put up blue Valley Village signs. Its streets of 1930s and 1940s houses include the block where a young Norma Jean Dougherty lived before she became Marilyn Monroe.
+
+3 min read 6 milestones 2 chapters 1 landmarks
+
+### Timeline
+
+- 1880s
+
+The area is farmland on the Lankershim ranch.
+
+- 1927
+
+The surrounding town renames itself North Hollywood.
+
+- 1944
+
+Norma Jean Dougherty lives with her in-laws in a house on Hermitage Avenue.
+
+- 1985
+
+About 300 homeowners meet at Colfax Avenue Elementary to push for a separate identity.
+
+- 1991
+
+The city installs Valley Village signs.
+
+- 2015
+
+The Hermitage Avenue house is demolished during a fight over its preservation.
+
+I1985 to 1991
+
+### Breaking away from North Hollywood
+
+**1991** Valley Village signs go up
+
+Valley Village was officially part of North Hollywood for decades, although its post office already postmarked mail Valley Village. In December 1985 about 300 homeowners met at Colfax Avenue Elementary to push for their own name and tighter limits on growth. In 1991 the city put up the blue signs, and the name has stuck ever since.
+
+II1944
+
+### Norma Jean on Hermitage Avenue
+
+**1944** Norma Jean lives on Hermitage
+
+During the war, a teenage Norma Jean Dougherty lived with her husband's family in a 1940 house on Hermitage Avenue while he served overseas. Within a few years she was Marilyn Monroe. The house was demolished in 2015 for a condo project while neighbors were still trying to save it, and the fight helped spark a wider preservation effort on the block.
+
+Test yourself
+
+### Did you know?
+
+01 **Was Valley Village always its own neighborhood?** Tap for the answer
+
+No. It was part of North Hollywood until residents won the Valley Village name in 1991.
+
+02 **Did Marilyn Monroe live here?** Tap for the answer
+
+Yes. As Norma Jean Dougherty she lived on Hermitage Avenue in the mid-1940s.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Valley Village Park The neighborhood park on Westpark Drive. Map ↗](https://www.google.com/maps/search/?api=1&query=Valley+Village+Park%2C+Valley+Village%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Valley Village](https://en.wikipedia.org/wiki/Valley_Village,_Los_Angeles)
+- [PBS SoCal: a question of preservation in Valley Village](https://pbssocal.org/history-society/a-question-of-historic-preservation-in-valley-village)
+- [NBC Los Angeles: Marilyn Monroe's Valley Village house demolished](https://www.nbclosangeles.com/the-scene/demolished-marilyn-monroes-valley-village-residence/65982/)
+
 Living here
 
 ## The homes, the rules and who it fits

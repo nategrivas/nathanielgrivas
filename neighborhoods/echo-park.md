@@ -505,6 +505,109 @@ Sources
 - [Fodor's: Best restaurants in Echo Park](https://www.fodors.com/world/north-america/usa/california/los-angeles/neighborhoods/los-feliz-and-the-eastside/echo-park/restaurants)
 - [Google Maps reviews (local favorites we checked)](https://www.google.com/maps/search/?api=1&query=Echo+Park+Los+Angeles+CA)
 
+The story of Echo Park
+
+## Edendale, a lake that echoes and Sister Aimee's temple
+
+Before Hollywood, there was Edendale. In the 1910s silent-film studios lined what is now Glendale Boulevard, and the neighborhood's lake, dug as a reservoir in 1868, was rebuilt as a park in 1892 by a parks superintendent who named it for the echoes he heard. In 1923 Aimee Semple McPherson opened Angelus Temple on its shore, and in 1962 Dodger Stadium opened on the hill above.
+
+3 min read 9 milestones 3 chapters 5 landmarks
+
+### Timeline
+
+- 1868
+
+Reservoir No. 4 is created, fed by a ditch from the Los Angeles River.
+
+- 1886
+
+Elysian Park, the city's oldest public park, is established next door.
+
+- 1891
+
+Landowners give the city 33 acres around the reservoir for a park.
+
+- 1892
+
+Work on the park begins, and superintendent Joseph Henry Tomlinson names it Echo Park.
+
+- 1909
+
+William Selig opens what is often called the first permanent movie studio in Los Angeles, in Edendale.
+
+- 1912
+
+Mack Sennett's Keystone studio opens on Allesandro Street, now Glendale Boulevard.
+
+- 1923
+
+Angelus Temple opens on January 1.
+
+- 1962
+
+Dodger Stadium opens in Chavez Ravine.
+
+- 2013
+
+Echo Park Lake reopens after a two-year restoration.
+
+IEdendale
+
+### Hollywood before Hollywood
+
+**1909** the Selig studio opens
+
+In 1909 William Selig built a permanent film studio in Edendale, the old name for the area along today's Glendale Boulevard, and others followed, including Mack Sennett's Keystone studio, home of the Keystone Kops. For a few years this was the center of West Coast filmmaking. Sennett's old studio building still stands at 1712 Glendale Boulevard, a city monument.
+
+II1892
+
+### The lake that echoes
+
+**1868** the reservoir is dug
+
+Echo Park Lake started in 1868 as Reservoir No. 4, filled by a ditch from the Los Angeles River. When the city turned it into a park in 1892, parks superintendent Joseph Henry Tomlinson named it for the echoes he heard while crews worked. The lotus beds that bloom each summer are the reason for the annual Lotus Festival.
+
+III1923 and 1962
+
+### A temple and a ballpark
+
+**5,300** seats in Angelus Temple
+
+On January 1, 1923, evangelist Aimee Semple McPherson opened Angelus Temple on the lake's north shore, a domed church that drew thousands of people to the neighborhood and broadcast on its own radio station. Four decades later the Dodgers opened their stadium in Chavez Ravine on the hill above, and Echo Park has been the walk to the game ever since.
+
+Test yourself
+
+### Did you know?
+
+01 **Why is it called Echo Park?** Tap for the answer
+
+Parks superintendent Joseph Henry Tomlinson named it in 1892 for the echoes he heard during construction.
+
+02 **Was the lake always a lake?** Tap for the answer
+
+No. It began in 1868 as a drinking water reservoir.
+
+03 **Where were Keystone Kops movies made?** Tap for the answer
+
+At Mack Sennett's studio on what is now Glendale Boulevard in Edendale.
+
+Go see it
+
+### Landmarks worth the drive
+
+- [Echo Park Lake 1892 The lake, lotus beds and boathouse. Map ↗](https://www.google.com/maps/search/?api=1&query=Echo+Park+Lake%2C+Echo+Park%2C+CA)
+- [Angelus Temple 1923 Aimee Semple McPherson's domed church. Map ↗](https://www.google.com/maps/search/?api=1&query=Angelus+Temple%2C+Echo+Park%2C+CA)
+- [Mack Sennett Studios 1912 The old Keystone studio at 1712 Glendale Boulevard. Map ↗](https://www.google.com/maps/search/?api=1&query=Mack+Sennett+Studios%2C+Echo+Park%2C+CA)
+- [Elysian Park 1886 The city's oldest park. Map ↗](https://www.google.com/maps/search/?api=1&query=Elysian+Park%2C+Echo+Park%2C+CA)
+- [Dodger Stadium 1962 The ballpark in Chavez Ravine. Map ↗](https://www.google.com/maps/search/?api=1&query=Dodger+Stadium%2C+Echo+Park%2C+CA)
+
+Sources for this history
+
+- [Wikipedia: Echo Park](https://en.wikipedia.org/wiki/Echo_Park,_Los_Angeles)
+- [Wikipedia: Echo Park Lake](https://en.wikipedia.org/wiki/Echo_Park_Lake)
+- [LAist: 10 things about Echo Park](https://laist.com/news/entertainment/echo-park-10-things)
+- [PBS SoCal Lost LA: Echo Park's lake began as a reservoir](https://pbssocal.org/shows/lost-la/echo-parks-lake-began-as-a-drinking-water-reservoir)
+
 Living here
 
 ## The homes, the rules and who it fits
