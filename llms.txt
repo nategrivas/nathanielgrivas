@@ -32,6 +32,7 @@ Every page on this site has a plain-text twin: add .md to the address (for examp
 
 - [Free home valuation](https://www.nathanielgrivas.com/home-value): what a Los Angeles home is worth, built by hand from recent sales, within 24 hours
 - [Find a home](https://www.nathanielgrivas.com/buy): buyer search with off-market homes, lenders for every situation and creative financing
+- [Rentals and leasing](https://www.nathanielgrivas.com/rent): homes for lease, a rental search for tenants and a free rent estimate for landlords
 - [About Nathaniel Grivas](https://www.nathanielgrivas.com/about): background, quick facts, team, reviews
 - [Listings](https://www.nathanielgrivas.com/listings): active listings and closed deals
 - [All 40 neighborhoods on a satellite map](https://www.nathanielgrivas.com/neighborhoods)

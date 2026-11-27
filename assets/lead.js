@@ -1,4 +1,4 @@
-// Two lead flows, one tap at a time: "value" (what's my home worth) and "buy" (find me a home).
+// Lead flows, one tap at a time: "value" (what's my home worth), "buy" (find me a home), "rent" (find me a rental) and "lease" (what will my place rent for).
 // The lead is sent the moment they give contact info; the questions after that sharpen it and go out as a second note.
 (() => {
   const TO = (document.querySelector('meta[name=ng-to]') || {}).content;
@@ -15,6 +15,14 @@
   const PV = (() => { const v = []; for (let n = 300e3; n < 1e6; n += 25e3) v.push(n); for (let n = 1e6; n < 3e6; n += 50e3) v.push(n); for (let n = 3e6; n < 6e6; n += 100e3) v.push(n); for (let n = 6e6; n < 15e6; n += 250e3) v.push(n); for (let n = 15e6; n <= 30e6; n += 1e6) v.push(n); return v; })();
   const money = (n, top) => (n >= 1e6 ? '$' + (Math.round(n / 1e4) / 100).toString().replace(/\.?0+$/, '') + 'M' : '$' + Math.round(n / 1e3) + 'K') + (top ? '+' : '');
   const nearI = (n) => PV.reduce((b, v, i) => (Math.abs(v - n) < Math.abs(PV[b] - n) ? i : b), 0);
+  // Monthly rent scale: $100 steps where most renters shop, wider steps at the top.
+  const RV = (() => { const v = []; for (let n = 1500; n < 5000; n += 100) v.push(n); for (let n = 5000; n < 10000; n += 250) v.push(n); for (let n = 10000; n < 25000; n += 1000) v.push(n); for (let n = 25000; n <= 50000; n += 5000) v.push(n); return v; })();
+  const rentF = (n, top) => '$' + n.toLocaleString('en-US') + (top ? '+' : '') + '/mo';
+  const SC = {
+    buy: { v: PV, f: money, lo: 1e6, hi: 2e6, ends: ['$300K', '$30M+'], pay: true },
+    rent: { v: RV, f: rentF, lo: 3000, hi: 5000, ends: ['$1,500/mo', '$50,000+/mo'], pay: false },
+  };
+  const near = (C, n) => C.v.reduce((b, v, i) => (Math.abs(v - n) < Math.abs(C.v[b] - n) ? i : b), 0);
 
   const FLOWS = {
     value: {
@@ -61,11 +69,50 @@
       after: 'A few more so only homes that fit come through. All optional:',
       end: (A, first) => `<p class="lf-kick">All set</p><h3>Thanks, ${esc(first)}. Your search is set.</h3><p>Want to talk it through? Call or text Nathaniel anytime.</p>`,
     },
+    rent: {
+      kind: 'Rental search',
+      steps: [
+        { k: 'areas', t: 'areas', q: 'Where do you want to rent?', sub: 'Tap an area, then narrow it to neighborhoods if you like.' },
+        { k: 'home', t: 'one', q: 'What kind of place?', o: ['House', 'Condo or townhome', 'Apartment', 'Guest house or ADU', 'Open to anything'] },
+        { k: 'budget', t: 'money', sc: 'rent', q: 'Your monthly budget', sub: 'Drag both ends to your rent range.' },
+        { k: 'rooms', t: 'rooms', q: 'How many bedrooms and bathrooms?' },
+        { k: 'timing', t: 'one', q: 'When do you want to move in?', o: ['As soon as possible', 'In 1 to 2 months', 'In 2 to 3 months', 'In 3 months or more'] },
+        { k: 'contact', t: 'contact', q: 'Where should Nathaniel send rentals that fit?', sub: 'New rentals that match, sent as they come up, plus help with the application and the lease.', btn: 'Start my rental search' },
+        { k: 'must', t: 'many', post: true, q: 'What matters most?', o: ['Parking', 'In-unit laundry', 'A yard or outdoor space', 'Central AC', 'A pool', 'Furnished', 'Pet friendly', 'Walk to coffee and dinner', 'Quiet street', 'Short or flexible lease'] },
+        { k: 'pets', t: 'one', post: true, q: 'Any pets?', o: ['No pets', 'A dog', 'A cat', 'More than one pet'] },
+        { k: 'now', t: 'one', post: true, q: 'Where are you living now?', o: ['Renting in LA', 'Own in LA', 'Moving from outside LA'] },
+        { k: 'notes', t: 'area', post: true, q: 'Anything else Nathaniel should know?', ph: 'Must-haves, deal-breakers, a street you love, a lease ending on a set date.' },
+      ],
+      subject: (A) => 'Rental search: ' + [[].concat(A.areas || []).join(', '), A.budget].filter(Boolean).join(', '),
+      done: (A, first) => `<p class="lf-kick">Search started</p><h3>Got it, ${esc(first)}.</h3><p>Nathaniel is setting up your rental search now. Expect to hear from him today.</p>`,
+      after: 'A few more so only places that fit come through. All optional:',
+      end: (A, first) => `<p class="lf-kick">All set</p><h3>Thanks, ${esc(first)}. Your search is set.</h3><p>Want to talk it through? Call or text Nathaniel anytime.</p>`,
+    },
+    lease: {
+      kind: 'Rent estimate request',
+      steps: [
+        { k: 'address', t: 'text', q: "What's the address of the rental?", sub: 'Start typing and pick it from the list. The county record fills in the rest.', ph: 'Street address, city or ZIP', req: true, unit: true },
+        { k: 'record', t: 'record', q: "Here's what LA County has on file", sub: 'Pulled from the public assessor record. Confirm it or fix what is off.', when: (A) => !!A._rec },
+        { k: 'type', t: 'one', q: 'What kind of property is it?', o: ['House', 'Condo or townhome', 'Unit in a duplex to fourplex', 'Apartment building (5+ units)', 'Guest house or ADU'], when: (A) => A.recordOK !== 'Confirmed' },
+        { k: 'size', t: 'size', q: 'How big is it?', sub: 'Close is fine. Skip anything you are not sure about.', when: (A) => A.recordOK !== 'Confirmed' },
+        { k: 'condition', t: 'one', q: 'What shape is it in?', o: ['Needs work', 'Original but well kept', 'Partly updated', 'Fully remodeled', 'Built in the last 5 years'] },
+        { k: 'timing', t: 'one', q: 'When will it be available?', o: ['Now', 'Within 30 days', 'In 1 to 3 months', 'Just curious for now'] },
+        { k: 'contact', t: 'contact', q: 'Where should Nathaniel send your rent estimate?', sub: 'A monthly rent range from recent leases near you. Free, within 24 hours.', btn: 'Get my rent estimate' },
+        { k: 'occupancy', t: 'one', post: true, q: 'Who lives there now?', o: ['No one, it is vacant', 'A tenant', 'I do', 'Family or a friend'] },
+        { k: 'lease', t: 'text', post: true, q: 'When does the current lease end, and what is the rent?', ph: 'Like "month to month, $4,200"', when: (A) => A.occupancy === 'A tenant' },
+        { k: 'features', t: 'many', post: true, q: 'What does it come with?', o: ['Parking', 'In-unit laundry', 'Central AC', 'A yard', 'A pool', 'A view', 'Furnished', 'Pets allowed', 'None of these'] },
+        { k: 'notes', t: 'area', post: true, q: 'Anything else Nathaniel should know?', ph: 'Recent work, rent control questions, a target rent, a tight timeline.' },
+      ],
+      subject: (A) => 'Rent estimate request: ' + (A.address || 'no address') + (A.unit ? ' #' + A.unit : ''),
+      done: (A, first) => `<p class="lf-kick">Request received</p><h3>Got it, ${esc(first)}.</h3><p>Nathaniel is pulling recent leases around <b>${esc(A.address)}</b> now. Your rent range arrives within 24 hours, usually the same day.</p>`,
+      after: 'A few more taps make your number sharper. All optional:',
+      end: (A, first) => `<p class="lf-kick">All set</p><h3>Thanks, ${esc(first)}. That's everything Nathaniel needs.</h3><p>Want it faster? Call or text and he'll walk you through it today.</p>`,
+    },
   };
 
   const label = (k) => ({ address: 'Address', unit: 'Unit', type: 'Property type', beds: 'Bedrooms', baths: 'Bathrooms', sqft: 'Interior sq ft', lot: 'Lot sq ft', condition: 'Condition', timing: 'Timing',
     updates: 'Updated', features: 'Features', occupancy: 'Occupied by', lease: 'Lease', reason: 'Reason', next: 'Buying after', mortgage: 'Loan on it', guess: 'Owner thinks it is worth', notes: 'Notes', ain: 'APN', year: 'Year built', zoning: 'Zoning', recordOK: 'County record', units: 'Units on record', county: 'Record link',
-    areas: 'Areas', home: 'Home type', budget: 'Budget', pay: 'Paying with', must: 'Must-haves', sell_first: 'Needs to sell first', now: 'Living now', prefer: 'Best way to reach' }[k] || k);
+    areas: 'Areas', home: 'Home type', budget: 'Budget', pay: 'Paying with', must: 'Must-haves', sell_first: 'Needs to sell first', now: 'Living now', prefer: 'Best way to reach', pets: 'Pets' }[k] || k);
 
   const post = (payload) => {
     if (!TO) return Promise.reject(new Error('no endpoint'));
@@ -177,8 +224,8 @@
     let A = {};
     try { A = JSON.parse(sessionStorage.getItem(KEY) || '{}'); } catch (e) { A = {}; }
     if (A._sent && A._done) A = {};
-    if (q.get('addr') && root.dataset.flow === 'value') A.address = q.get('addr');
-    if (root.dataset.flow === 'buy') {
+    if (q.get('addr') && (root.dataset.flow === 'value' || root.dataset.flow === 'lease')) A.address = q.get('addr');
+    if (root.dataset.flow === 'buy' || root.dataset.flow === 'rent') {
       const pre0 = q.get('area') || root.dataset.area;
       if (pre0 && A._preFrom !== pre0) { A._pre = pre0; A._preFrom = pre0; }
     }
@@ -232,7 +279,7 @@
     const fields = () => {
       const o = {};
       rows(Object.keys(A).filter((k) => !k.startsWith('_') && !['name', 'email', 'phone', 'typed'].includes(k))).forEach(([k, v]) => { o[k] = v; });
-      if (A.typed) o[root.dataset.flow === 'buy' ? 'Neighborhoods typed' : 'Typed'] = A.typed;
+      if (A.typed) o[root.dataset.flow === 'buy' || root.dataset.flow === 'rent' ? 'Neighborhoods typed' : 'Typed'] = A.typed;
       return o;
     };
 
@@ -262,12 +309,12 @@
           + `<p class="lf-alink">Not sure yet? <a href="/neighborhoods/">Compare all 40 neighborhoods</a> or <a href="/neighborhoods/map/">see every pocket on the map</a>. Your answers stay saved.</p>`;
       }
       if (s.t === 'money') {
-        const lo = A._lo != null ? A._lo : nearI(1e6), hi = A._hi != null ? A._hi : nearI(2e6), top = PV.length - 1;
-        body = `<div class="lf-money"><div class="lf-mv"><b data-mlo>${money(PV[lo])}</b><span>to</span><b data-mhi>${money(PV[hi], hi === top)}</b></div>
-<div class="lf-dual" style="--a:${pctOf(lo)}%;--b:${pctOf(hi)}%"><input type="range" min="0" max="${top}" step="1" value="${lo}" data-m="lo" aria-label="Lowest price"><input type="range" min="0" max="${top}" step="1" value="${hi}" data-m="hi" aria-label="Highest price"></div>
-<div class="lf-mends"><span>$300K</span><span>$30M+</span></div>
-<p class="lf-plab">Paying with</p><div class="lf-pay">${PAY.map((x) => `<button type="button" class="lf-chip${A.pay === x ? ' on' : ''}" data-pay="${esc(x)}">${esc(x)}</button>`).join('')}</div>
-<p class="lf-pnote">Every option works. Nathaniel has lenders for each one, including bank-statement and investor loans.</p></div>`;
+        const C = SC[s.sc || 'buy'], lo = A._lo != null ? A._lo : near(C, C.lo), hi = A._hi != null ? A._hi : near(C, C.hi), top = C.v.length - 1, pc = (x) => (100 * x / top).toFixed(2);
+        body = `<div class="lf-money"><div class="lf-mv"><b data-mlo>${C.f(C.v[lo])}</b><span>to</span><b data-mhi>${C.f(C.v[hi], hi === top)}</b></div>
+<div class="lf-dual" style="--a:${pc(lo)}%;--b:${pc(hi)}%"><input type="range" min="0" max="${top}" step="1" value="${lo}" data-m="lo" aria-label="Lowest price"><input type="range" min="0" max="${top}" step="1" value="${hi}" data-m="hi" aria-label="Highest price"></div>
+<div class="lf-mends"><span>${C.ends[0]}</span><span>${C.ends[1]}</span></div>`
+          + (C.pay ? `<p class="lf-plab">Paying with</p><div class="lf-pay">${PAY.map((x) => `<button type="button" class="lf-chip${A.pay === x ? ' on' : ''}" data-pay="${esc(x)}">${esc(x)}</button>`).join('')}</div>
+<p class="lf-pnote">Every option works. Nathaniel has lenders for each one, including bank-statement and investor loans.</p>` : '') + '</div>';
       }
       if (s.t === 'text') body = `<input class="lf-in" name="${s.k}" placeholder="${esc(s.ph || '')}" value="${esc(A[s.k] || '')}"${s.k === 'address' ? ' autocomplete="street-address"' : ''}>`
         + (s.unit ? `<input class="lf-in lf-unit" name="unit" placeholder="Unit (optional)" value="${esc(A.unit || '')}">` : '')
@@ -386,7 +433,7 @@ ${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you 
       if (t.classList.contains('lf-go')) {
         grab();
         if (s.t === 'areas') { const v = (root.querySelector('.lf-as') || {}).value || ''; delete A._q; if (v.trim()) { const S = SEL(); if (!S.x.includes(v.trim())) S.x.push(v.trim()); syncAreas(); } if (!(A.areas || []).length) { err('Tap an area, or search one.'); return; } save(); go(1); return; }
-        if (s.t === 'money') { const lo = A._lo != null ? A._lo : nearI(1e6), hi = A._hi != null ? A._hi : nearI(2e6); A.budget = money(PV[lo]) + ' to ' + money(PV[hi], hi === PV.length - 1); save(); go(1); return; }
+        if (s.t === 'money') { const C = SC[s.sc || 'buy'], lo = A._lo != null ? A._lo : near(C, C.lo), hi = A._hi != null ? A._hi : near(C, C.hi); A.budget = C.f(C.v[lo]) + ' to ' + C.f(C.v[hi], hi === C.v.length - 1); save(); go(1); return; }
         if (s.req && !A[s.k]) { err(s.k === 'address' ? 'Add the address to pull the sales around it.' : 'This one is needed.'); return; }
         if (s.t === 'many' && !s.post && !(A[s.k] || []).length && !A.typed) { err('Pick at least one, or type it.'); return; }
         if (s.k === 'address' && A._recFor !== key()) {
@@ -411,11 +458,12 @@ ${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you 
     root.addEventListener('input', (ev) => {
       const el = ev.target;
       if (el.dataset && el.dataset.m) {
+        const C = SC[(live()[i] || {}).sc || 'buy'], top = C.v.length - 1;
         let lo = +root.querySelector('[data-m=lo]').value, hi = +root.querySelector('[data-m=hi]').value;
-        if (lo > hi - 1) { if (el.dataset.m === 'lo') { lo = Math.max(0, hi - 1); el.value = lo; } else { hi = Math.min(PV.length - 1, lo + 1); el.value = hi; } }
-        A._lo = lo; A._hi = hi; A.budget = money(PV[lo]) + ' to ' + money(PV[hi], hi === PV.length - 1);
-        root.querySelector('[data-mlo]').textContent = money(PV[lo]); root.querySelector('[data-mhi]').textContent = money(PV[hi], hi === PV.length - 1);
-        const d = root.querySelector('.lf-dual'); d.style.setProperty('--a', pctOf(lo) + '%'); d.style.setProperty('--b', pctOf(hi) + '%');
+        if (lo > hi - 1) { if (el.dataset.m === 'lo') { lo = Math.max(0, hi - 1); el.value = lo; } else { hi = Math.min(top, lo + 1); el.value = hi; } }
+        A._lo = lo; A._hi = hi; A.budget = C.f(C.v[lo]) + ' to ' + C.f(C.v[hi], hi === top);
+        root.querySelector('[data-mlo]').textContent = C.f(C.v[lo]); root.querySelector('[data-mhi]').textContent = C.f(C.v[hi], hi === top);
+        const d = root.querySelector('.lf-dual'); d.style.setProperty('--a', (100 * lo / top).toFixed(2) + '%'); d.style.setProperty('--b', (100 * hi / top).toFixed(2) + '%');
         save(); return;
       }
       if (el.classList && el.classList.contains('lf-as')) {
