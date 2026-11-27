@@ -7,10 +7,12 @@
   if (!D.pts || !D.pts.length) { el.closest('section').hidden = true; return; }
   const esc = (t) => String(t == null ? '' : t).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   const map = L.map(el, { scrollWheelZoom: false, zoomSnap: 0.5, minZoom: 10, maxZoom: 18 });
-  L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer/tile/{z}/{y}/{x}', {
+  const usgs = (k) => L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/' + k + '/MapServer/tile/{z}/{y}/{x}', {
     maxNativeZoom: 16, maxZoom: 18,
-    attribution: 'Imagery: <a href="https://www.usgs.gov/programs/national-geospatial-program/national-map" target="_blank" rel="noopener">USGS</a>'
-  }).addTo(map);
+    attribution: 'Map data: <a href="https://www.usgs.gov/programs/national-geospatial-program/national-map" target="_blank" rel="noopener">USGS</a>'
+  });
+  const sat = usgs('USGSImageryOnly').addTo(map);
+  L.control.layers({ Satellite: sat, Streets: usgs('USGSTopo') }, null, { position: 'topright', collapsed: false }).addTo(map);
   map.attributionControl.setPrefix('<a href="https://leafletjs.com" target="_blank" rel="noopener">Leaflet</a>');
   const marks = {};
   const layer = L.featureGroup().addTo(map);
