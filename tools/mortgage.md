@@ -12,6 +12,10 @@ Monthly payment **$0**
 
 Estimate only. Excludes PMI, Mello-Roos and special assessments, and closing costs. Loan programs, limits and qualifying rules vary by lender.
 
+**Want the real number for a real property?** Estimates are a start. Give me the address and I'll run it with current comps and the exact taxes, free.
+
+What's my home worth? Find me a home
+
 Keep going
 
 ## More tools
@@ -36,19 +40,20 @@ Keep going
 
 [LA isn't one cityTransfer taxes, rent control and schools change at every city line. Here's the map.](https://www.nathanielgrivas.com/tools/la-rules)
 
-Contact
+Free, no obligation
 
-## Want me to run it for a real property?
+## Want the real number for a real property?
 
-Send the address or the area. I'll run the real numbers with current comps and tell you what I'd do.
+Give me the address and I'll run it with current comps, or tell me what you're looking for and I'll send homes that fit.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 

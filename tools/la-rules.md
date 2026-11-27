@@ -97,6 +97,10 @@ To check an exact address, LA's [ZIMAS](https://zimas.lacity.org/) shows whether
 
 Sources: [LA Office of Finance](https://finance.lacity.gov/faq/measure-ula), [City of Santa Monica](https://santamonica.gov/documentary-transfer-tax-real-property-transfer-tax), [City of Culver City](https://www.culvercity.gov/City-Hall/General-Info-Finance/Local-Voter-Approved-Tax-Measures), [City of West Hollywood](https://weho.org/city-government/city-departments/finance-and-technology-services/taxes/property-taxes), [LA County Registrar-Recorder](https://www.lavote.gov/home/records/property-document-recording/documentary-transfer-taxes), [City of Malibu](https://www.malibucity.org/MUSD). Rent control summaries are simplified and every ordinance has exemptions.
 
+**Want the real number for a real property?** Estimates are a start. Give me the address and I'll run it with current comps and the exact taxes, free.
+
+What's my home worth? Find me a home
+
 Keep going
 
 ## More tools
@@ -121,19 +125,20 @@ Keep going
 
 [Compare two neighborhoodsSide by side: rules, schools, price level and what daily life is like.](https://www.nathanielgrivas.com/tools/compare)
 
-Contact
+Free, no obligation
 
-## Want me to run it for a real property?
+## Want the real number for a real property?
 
-Send the address or the area. I'll run the real numbers with current comps and tell you what I'd do.
+Give me the address and I'll run it with current comps, or tell me what you're looking for and I'll send homes that fit.
 
-**Call 310-269-5541** Talk it through
+- Your home's value from the latest sales near you, plus what you'd walk away with
+- Off-market and coming-soon homes before they hit Zillow
+- Lenders for self-employed, investor and non-traditional buyers
+- Creative structures like seller financing when the numbers need it
 
-**Text** 310-269-5541
+**Nathaniel Grivas** REALTOR® · The Brodsky Group at Compass [5.0 on Google](https://share.google/EwuPsirAOfl9Hvj1o)
 
-**Email** nate.grivas@compass.com
-
-[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+Call 310-269-5541 Text me
 
 ---
 
