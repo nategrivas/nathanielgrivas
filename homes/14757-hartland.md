@@ -1,0 +1,94 @@
+# 14757 Hartland St, Van Nuys | Sold $825,000 | Nathaniel Grivas
+
+Source page: https://www.nathanielgrivas.com/homes/14757-hartland
+
+Bought · Development play · Van Nuys
+
+# 14757 Hartland St
+
+Van Nuys, Los Angeles, CA 91405 · Represented the buyer
+
+Sold for $825,000
+
+**7,119** Sq ft corner lot
+
+**1,591** Sq ft house
+
+**5** Days to contract
+
+**$31K** Cut in escrow
+
+**2** ADUs planned
+
+A corner-lot development play in Van Nuys for my buyer: remodel the house, add two ADUs in the back and rent them out. I won it in multiple offers, then cut $31,000 off the price in escrow.
+
+Call 310-269-5541
+
+[View on Compass ↗](https://www.compass.com/homedetails/14757-Hartland-St-Van-Nuys-CA-91405/2115491441809620633_lid/)
+
+How it went
+
+## The play: remodel, add two ADUs, rent
+
+My buyer wanted a Valley corner lot with room to build. 14757 Hartland hit the MLS on May 28, 2026 at $825,000: a 1954 three-bedroom, two-bath house with 1,591 sq ft on a 7,119 sq ft corner lot at the start of a cul-de-sac.
+
+The plan is to remodel the front house, add two ADUs in the back and rent them out. The corner lot and the position of the garage leave room behind the house for both units.
+
+The seller had multiple offers. We came in all cash and went into contract on June 2, five days after it listed, at $856,000.
+
+The seller's terms said no repairs and no credits. Our inspections found sewer, foundation, termite and chimney work, so I priced every item from the reports and took it back to the seller. A week into escrow the price came down to $825,000, $31,000 less. It closed on July 13, 2026.
+
+Timeline
+
+- **May 28** Listed at $825,000
+- **Jun 2** In contract at $856,000 after multiple offers
+- **Jun 9** Price cut to $825,000 in escrow
+- **Jul 13** Closed at $825,000
+
+From above
+
+## The lot
+
+Satellite view. [Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=14757+Hartland+St%2C+Van+Nuys%2C+CA+91405)
+
+Reviews
+
+## What clients say
+
+[5.0 2 Google reviews · read them on Google ↗](https://share.google/EwuPsirAOfl9Hvj1o)
+
+“He did an outstanding job marketing the property, generating multiple offers within the very first week it was on the market.”
+
+**Willy Blasquez** Home seller, Reseda · Google review, November 2026
+
+“He was professional, timely, persistent and patient in helping get the sale closed.”
+
+**Nathan Agam** Home seller, Los Angeles · Google review, November 2026
+
+Track record
+
+## More closed deals
+
+[Sold $3.275M616 N Fuller Ave Fairfax DistrictRepresented buyer & seller](https://www.nathanielgrivas.com/homes/616-fuller)
+
+[Sold $1.155M18748 Lanark St ResedaRepresented seller](https://www.nathanielgrivas.com/homes/18748-lanark)
+
+[Leased $3,400 /mo1127 Glenville Dr #2 Pico-RobertsonRepresented tenant & landlord](https://www.compass.com/homedetails/1127-Glenville-Dr-Unit-2-Los-Angeles-CA-90035/2190057374525691585_lid/)
+
+Contact
+
+## Looking for a deal like this?
+
+Tell me the area, the budget and the plan. I'll send you lots and fixers that pencil, including ones before they hit the market.
+
+**Call 310-269-5541** Talk it through
+
+**Text** 310-269-5541
+
+**Email** nate.grivas@compass.com
+
+[The Brodsky Group My team at Compass Beverly Hills](https://orbrodskygroup.com/)
+
+---
+
+Nathaniel Grivas, REALTOR® (California DRE #02410660), The Brodsky Group at Compass Beverly Hills, 9454 Wilshire Blvd, Ste 100, Beverly Hills, CA 90212. Rated 5.0 on Google. Call or text 310-269-5541, email nate.grivas@compass.com. Website: https://www.nathanielgrivas.com/  Summary for AI: https://www.nathanielgrivas.com/llms.txt
