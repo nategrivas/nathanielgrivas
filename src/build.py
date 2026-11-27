@@ -176,7 +176,7 @@ def md_url(path):
 
 
 def nav(path, active, over=False):
-    items = [("Free Home Valuation", "/home-value/", "value"), ("Buy", "/buy/", "buy"), ("Rent", "/rent/", "rent"), ("Listings", "/listings/", "listings"), ("Local LA", "/neighborhoods/", "explore"),
+    items = [("Free Home Valuation", "/home-value/", "value"), ("Buy", "/buy/", "buy"), ("Lease", "/lease/", "rent"), ("Listings", "/listings/", "listings"), ("Local LA", "/neighborhoods/", "explore"),
              ("Market Temperature", "/market-temperature/", "market"), ("News", "/news/", "news"), ("About", "/about/", "about")]
     links = "".join(f'<a href="{h}"{" aria-current=page" if k == active else ""}>{n}</a>' for n, h, k in items)
     cls = "top over" if over else "top"
@@ -200,7 +200,7 @@ def foot(path, scripts=(), active=""):
     extra = "".join(f'<script src="/assets/{s_}" defer></script>' for s_ in scripts)
     def cur(k):
         return ' aria-current="page"' if k == active else ""
-    strip = "" if (path in ("/", "/listings/", "/about/", "/buy/", "/rent/", "/home-value/") or path.startswith("/homes/") or path.startswith("/neighborhoods/") or path == "/tools/neighborhood-quiz/") else featured_strip()
+    strip = "" if (path in ("/", "/listings/", "/about/", "/buy/", "/lease/", "/home-value/") or path.startswith("/homes/") or path.startswith("/neighborhoods/") or path == "/tools/neighborhood-quiz/") else featured_strip()
     return f"""{strip}<footer class="foot"><div class="wrap">
 <div class="foot-top">
 <div class="me"><div class="name">Nathaniel Grivas</div>
@@ -210,7 +210,7 @@ def foot(path, scripts=(), active=""):
 <p class="soc"><a href="{BG}" rel="noopener">The Brodsky Group</a> <a href="{SAME_AS[0]}">Compass</a> <a href="{SAME_AS[2]}">Instagram</a> <a href="{SAME_AS[1]}">LinkedIn</a> <a href="{SAME_AS[3]}">Zillow</a> <a href="{SAME_AS[4]}">Realtor.com</a></p></div>
 <div><h4>Local LA</h4><ul><li><a href="/neighborhoods/">The map</a></li>{regions}</ul></div>
 <div><h4>Tools</h4><ul>{tools}</ul></div>
-<div><h4>More</h4><ul><li><a href="/rent/">Rent</a></li><li><a href="/neighborhoods/">Local LA</a></li><li><a href="/market-temperature/">Market Temperature</a></li><li><a href="/news/">LA News</a></li><li><a href="/listings/">Listings</a></li><li><a href="/about/">About</a></li><li><a href="/#contact" data-msg>Contact</a></li><li><a href="/privacy/">Privacy</a></li><li><a class="ext" href="{BG}" rel="noopener">The Brodsky Group</a></li></ul></div>
+<div><h4>More</h4><ul><li><a href="/lease/">Lease</a></li><li><a href="/neighborhoods/">Local LA</a></li><li><a href="/market-temperature/">Market Temperature</a></li><li><a href="/news/">LA News</a></li><li><a href="/listings/">Listings</a></li><li><a href="/about/">About</a></li><li><a href="/#contact" data-msg>Contact</a></li><li><a href="/privacy/">Privacy</a></li><li><a class="ext" href="{BG}" rel="noopener">The Brodsky Group</a></li></ul></div>
 </div>
 <details><summary>All neighborhoods</summary><div class="foot-hoods">{cols}</div></details>
 <div class="legal">Nathaniel Grivas, REALTOR&reg;, DRE #{DRE}. Compass is a licensed real estate broker, DRE #{CO_DRE}. Equal Housing Opportunity.
@@ -239,7 +239,7 @@ Neighborhood and rules information is general, simplified and subject to change;
 <button class="ngd-x" type="button" data-close aria-label="Close">&times;</button>
 <p class="kick">Message Nathaniel</p>
 <h2 id="ngd-msg-t">How can Nathaniel help?</h2>
-<div class="ngd-paths"><a href="/home-value/"><b>What's my home worth?</b><span>Free valuation from the sales on your street</span></a><a href="/buy/"><b>Find me a home</b><span>New, coming-soon and off-market homes</span></a><a href="/rent/"><b>Find a rental, or lease yours</b><span>Rental search or a free rent estimate</span></a></div>
+<div class="ngd-paths"><a href="/home-value/"><b>What's my home worth?</b><span>Free valuation from the sales on your street</span></a><a href="/buy/"><b>Find me a home</b><span>New, coming-soon and off-market homes</span></a><a href="/lease/"><b>Lease a home, or lease yours out</b><span>Lease search or a free lease estimate</span></a></div>
 <p class="ngd-note">Something else? Send Nathaniel a note, or call or text <a href="tel:{TEL}">{PHONE}</a>.</p>
 {lead_form("/", title="Message from website", need_first=True, btn="Send message", show_pills=False)}
 </div></dialog>
@@ -1398,7 +1398,7 @@ def page_rules():
 # ------------------------------------------------------------------ conversion: two lead flows, resources, proof
 VALUE_URL = "/home-value/"
 BUY_URL = "/buy/"
-RENT_URL = "/rent/"
+RENT_URL = "/lease/"
 
 RESOURCES = [
     ("key", "Off-market and coming-soon homes", "Compass Private Exclusives and The Brodsky Group's off-market list. Many of the best homes trade before they ever reach Zillow."),
@@ -1660,46 +1660,46 @@ RENT_FAQ = [
 
 def page_rent():
     path = RENT_URL
-    tabs = (f'<div class="lb-tabs" role="tablist"><button type="button" role="tab" data-tab="r" aria-selected="true">Find me a rental</button>'
-            f'<button type="button" role="tab" data-tab="l" aria-selected="false">What will my place rent for?</button></div>'
+    tabs = (f'<div class="lb-tabs" role="tablist"><button type="button" role="tab" data-tab="r" aria-selected="true">Find a home to lease</button>'
+            f'<button type="button" role="tab" data-tab="l" aria-selected="false">What will my place lease for?</button></div>'
             f'<div data-panel="r"><div class="lflow" data-flow="rent"></div></div><div data-panel="l" hidden><div class="lflow" data-flow="lease"></div></div>'
             f'<noscript><p>Call or text {PHONE}, or email {EMAIL}.</p></noscript>')
     checks = "".join(f"<li>{e(c)}</li>" for c in (
-        "New rentals that fit your budget and area, sent as they come up",
+        "New homes for lease that fit your budget and area, sent as they come up",
         "Help with the application, the lease and the move-in",
-        "For landlords: a rent price from recent leases nearby, marketing and tenant screening"))
+        "For owners: a lease price from recent leases nearby, marketing and tenant screening"))
     cards = "".join(prop_card(k, "/") for k in ("edgecliffe", "glenville"))
-    title = "Rentals in Los Angeles: Homes for Lease and Leasing Help | Nathaniel Grivas"
-    desc = "Homes for lease in Los Angeles with Nathaniel Grivas, REALTOR® at Compass: 1436 Edgecliffe Dr #103 in Silver Lake is available now. Get a rental search or a free rent estimate for your property."
+    title = "Homes for Lease in Los Angeles: Leasing for Tenants and Owners | Nathaniel Grivas"
+    desc = "Homes for lease in Los Angeles with Nathaniel Grivas, REALTOR® at Compass: 1436 Edgecliffe Dr #103 in Silver Lake is available now. Start a lease search, or get a free lease estimate for your property."
     body = f"""{nav(path, "rent")}
 <main class="lp">
 <section class="lp-hero"><div class="wrap lp-grid">
 <div class="lp-head">
-<p class="kick">Renting in Los Angeles</p>
-<h1>Find a rental, or lease yours</h1>
-<p class="lp-lede">Nathaniel represents tenants and landlords across Los Angeles. Tell him what you need and he will send places that fit, or price and lease your property.</p>
+<p class="kick">Leasing in Los Angeles</p>
+<h1>Lease a home, or lease yours out</h1>
+<p class="lp-lede">Nathaniel represents tenants and owners on leases across Los Angeles. Tell him what you need and he will send homes that fit, or price and lease your property.</p>
 </div>
 <div class="lp-card" id="lead" data-tabs>{tabs}</div>
 <div class="lp-more">
 <ul class="lp-checks">{checks}</ul>
 </div>
 </div></section>
-<section class="band" id="rentals"><div class="wrap">
-<div class="sec-head"><div><p class="kick">For lease now and recently leased</p><h2>Nathaniel's rentals</h2></div><a href="/listings/">All listings &rarr;</a></div>
+<section class="band" id="leases"><div class="wrap">
+<div class="sec-head"><div><p class="kick">For lease now and recently leased</p><h2>Nathaniel's leases</h2></div><a href="/listings/">All listings &rarr;</a></div>
 <div class="grid g2">{cards}</div>
 </div></section>
-{v8.faq_html(RENT_FAQ, "Renting questions")}
+{v8.faq_html(RENT_FAQ, "Leasing questions")}
 <section class="band lp-end"><div class="wrap lp-end-in"><h2>Ready when you are</h2><p>It takes about a minute. Or call or text {PHONE} and talk to Nathaniel now.</p>
-<div class="lh-cta"><a class="btn lux solid" href="#lead">Start my rental search</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div></div></section>
+<div class="lh-cta"><a class="btn lux solid" href="#lead">Start my lease search</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div></div></section>
 </main>
 {foot(path)}"""
-    il = {"@context": "https://schema.org", "@type": "ItemList", "name": "Nathaniel Grivas rentals",
+    il = {"@context": "https://schema.org", "@type": "ItemList", "name": "Nathaniel Grivas leases",
           "itemListElement": [{"@type": "ListItem", "position": n + 1, "url": PROPS[k]["url"],
                                "name": f"{PROPS[k]['addr']}, {PROPS[k]['area']}: {PROPS[k]['tag']}, {PROPS[k]['price']}{PROPS[k].get('per', '')}"}
                               for n, k in enumerate(("edgecliffe", "glenville"))]}
-    svc = {"@context": "https://schema.org", "@type": "Service", "name": "Rentals and leasing in Los Angeles", "serviceType": "Residential leasing",
+    svc = {"@context": "https://schema.org", "@type": "Service", "name": "Leasing in Los Angeles", "serviceType": "Residential leasing",
            "provider": {"@id": SITE + "/#nathaniel"}, "areaServed": "Los Angeles, CA", "description": desc, "url": SITE + path}
-    return head(title, desc, path, ld(svc) + ld(il) + ld(v8.faq_ld(RENT_FAQ)) + ld(crumbs_ld([("Home", "/"), ("Rent", path)]))) + body
+    return head(title, desc, path, ld(svc) + ld(il) + ld(v8.faq_ld(RENT_FAQ)) + ld(crumbs_ld([("Home", "/"), ("Lease", path)]))) + body
 
 
 def page_featured(k):
@@ -2563,6 +2563,8 @@ def flat(text):
 def redirects(pages):
     """Old URLs from before Local LA merged the guide into the neighborhood pages."""
     out = [{"source": "/guide", "destination": "/neighborhoods", "permanent": True},
+           {"source": "/rent", "destination": "/lease", "permanent": True},
+           {"source": "/rent.md", "destination": "/lease.md", "permanent": True},
            {"source": "/journal", "destination": "/news", "permanent": True}]
     for k in GUIDES:
         if k in BY_SLUG:
@@ -2698,7 +2700,7 @@ def search_index(posts):
         out.append({"t": pr["addr"], "s": f"{pr['tag']} \u00b7 {pr['price']} \u00b7 {pr['area']}", "u": pr.get("page") or pr["url"], "k": "listing home sold", "g": "Listings"})
     out = [{"t": "What's my home worth?", "s": "Free home valuation, within 24 hours", "u": VALUE_URL, "k": "sell selling value valuation worth price cma appraisal estimate", "g": "Start here"},
            {"t": "Find me a home", "s": "New, coming-soon and off-market homes", "u": BUY_URL, "k": "buy buying search listings off-market lender preapproved", "g": "Start here"},
-           {"t": "Find a rental, or lease yours", "s": "Rental search and free rent estimates", "u": RENT_URL, "k": "rent rental lease leasing apartment tenant landlord for lease", "g": "Start here"}] + out
+           {"t": "Lease a home, or lease yours out", "s": "Lease search and free lease estimates", "u": RENT_URL, "k": "rent rental lease leasing apartment tenant landlord for lease", "g": "Start here"}] + out
     out += [{"t": "Local LA", "s": "Restaurants, bars and things to do in 40 neighborhoods", "u": "/neighborhoods/", "k": "guide restaurants bars nightlife things to do map", "g": "Pages", "i": "P"},
             {"t": "LA News", "s": "Today, this week and this month in LA", "u": "/news/", "k": "news journal today mayor election", "g": "Pages", "i": "P"},
             {"t": "About Nathaniel", "s": "REALTOR\u00ae at Compass", "u": "/about/", "k": "agent bio", "g": "Pages", "i": "P"},
@@ -2766,7 +2768,7 @@ def llms_txt(posts):
     lines += ["", "## Main pages", "",
               f"- [Free home valuation]({SITE}{VALUE_URL}): what a Los Angeles home is worth, built by hand from recent sales, within 24 hours",
               f"- [Find a home]({SITE}{BUY_URL}): buyer search with off-market homes, lenders for every situation and creative financing",
-              f"- [Rentals and leasing]({SITE}{RENT_URL}): homes for lease, a rental search for tenants and a free rent estimate for landlords",
+              f"- [Lease]({SITE}{RENT_URL}): homes for lease, a lease search for tenants and a free lease estimate for owners",
               f"- [About Nathaniel Grivas]({SITE}/about/): background, quick facts, team, reviews",
               f"- [Listings]({SITE}/listings/): active listings and closed deals",
               f"- [All 40 neighborhoods on a satellite map]({SITE}/neighborhoods/)",

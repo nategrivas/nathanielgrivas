@@ -1,20 +1,20 @@
-# Rentals in Los Angeles: Homes for Lease and Leasing Help | Nathaniel Grivas
+# Homes for Lease in Los Angeles: Leasing for Tenants and Owners | Nathaniel Grivas
 
-Source page: https://www.nathanielgrivas.com/rent
+Source page: https://www.nathanielgrivas.com/lease
 
-Renting in Los Angeles
+Leasing in Los Angeles
 
-# Find a rental, or lease yours
+# Lease a home, or lease yours out
 
-Nathaniel represents tenants and landlords across Los Angeles. Tell him what you need and he will send places that fit, or price and lease your property.
+Nathaniel represents tenants and owners on leases across Los Angeles. Tell him what you need and he will send homes that fit, or price and lease your property.
 
-- New rentals that fit your budget and area, sent as they come up
+- New homes for lease that fit your budget and area, sent as they come up
 - Help with the application, the lease and the move-in
-- For landlords: a rent price from recent leases nearby, marketing and tenant screening
+- For owners: a lease price from recent leases nearby, marketing and tenant screening
 
 For lease now and recently leased
 
-## Nathaniel's rentals
+## Nathaniel's leases
 
 [All listings →](https://www.nathanielgrivas.com/listings)
 
@@ -24,7 +24,7 @@ For lease now and recently leased
 
 Questions
 
-## Renting questions
+## Leasing questions
 
 What do landlords in Los Angeles usually ask for?
 
@@ -42,7 +42,7 @@ Yes. He prices the rent from recent leases nearby, markets the home, screens app
 
 It takes about a minute. Or call or text 310-269-5541 and talk to Nathaniel now.
 
-Start my rental search Call 310-269-5541
+Start my lease search Call 310-269-5541
 
 ---
 

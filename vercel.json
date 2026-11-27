@@ -19,6 +19,16 @@
       "permanent": true
     },
     {
+      "source": "/rent",
+      "destination": "/lease",
+      "permanent": true
+    },
+    {
+      "source": "/rent.md",
+      "destination": "/lease.md",
+      "permanent": true
+    },
+    {
       "source": "/journal",
       "destination": "/news",
       "permanent": true
