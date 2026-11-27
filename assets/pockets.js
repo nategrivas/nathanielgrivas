@@ -9,7 +9,7 @@
     let D;
     const inline = document.getElementById('pkmap-data');
     if (inline) D = JSON.parse(inline.textContent);
-    else { const r = await fetch('/assets/pockets.json'); D = await r.json(); }
+    else { const r = await fetch('/assets/pockets.json?v=' + (document.querySelector('meta[name=ng-v]')||{}).content||''); D = await r.json(); }
     const map = L.map(el, { scrollWheelZoom: false, zoomSnap: 0.5, minZoom: 10, maxZoom: 18 });
     const usgs = (k) => L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/' + k + '/MapServer/tile/{z}/{y}/{x}', {
       maxNativeZoom: 16, maxZoom: 18,

@@ -109,7 +109,7 @@
     const list = document.getElementById('cmdk-list');
     let data = null, items = [], sel = 0, lastFocus = null;
     const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-    const load = () => data ? Promise.resolve(data) : fetch('/assets/search.json').then((r) => r.json()).then((d) => (data = d)).catch(() => (data = []));
+    const load = () => data ? Promise.resolve(data) : fetch('/assets/search.json?v=' + (document.querySelector('meta[name=ng-v]')||{}).content||'').then((r) => r.json()).then((d) => (data = d)).catch(() => (data = []));
     const QUICK = ["What's my home worth?", 'Find me a home', 'Transfer tax & mansion tax calculator', 'Contact'];
     const score = (it, words) => {
       const t = it.t.toLowerCase(), hay = (it.t + ' ' + it.s + ' ' + it.k).toLowerCase();

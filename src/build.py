@@ -2484,6 +2484,68 @@ def page_news():
                 ld(coll) + ld(crumbs_ld([("Home", "/"), ("LA News", path)])) + fonts) + body
 
 
+# ------------------------------------------------------------------ speed: versioned assets, WebP images, non-blocking fonts
+import hashlib  # noqa: E402
+
+def asset_version():
+    """Short hash of everything under assets/ plus the data that feeds the JSON files. Fresh sessions without assets/ reuse the saved one."""
+    saved = pathlib.Path(__file__).parent / "asset_ver.txt"
+    a = ROOT / "assets"
+    if not a.exists():
+        return saved.read_text().strip() if saved.exists() else "1"
+    h = hashlib.sha1()
+    for f in sorted(a.rglob("*")):
+        if f.is_file() and f.suffix in (".css", ".js", ".svg"):
+            h.update(f.name.encode()); h.update(f.read_bytes())
+    for f in sorted((pathlib.Path(__file__).parent / "pockets").glob("*")) + [pathlib.Path(__file__).parent / "hoods.py"]:
+        if f.is_file():
+            h.update(f.read_bytes())
+    v = h.hexdigest()[:10]
+    saved.write_text(v + "\n")
+    return v
+
+
+def make_webp():
+    """WebP copies of the site's own JPGs (kept next to them in img/). The list is saved so a fresh session builds the same HTML."""
+    saved = pathlib.Path(__file__).parent / "webp.txt"
+    img = ROOT / "img"
+    if not img.exists():
+        return set(saved.read_text().split()) if saved.exists() else set()
+    from PIL import Image
+    out = set()
+    for f in sorted(img.rglob("*.jpg")):
+        w = f.with_suffix(".webp")
+        if not w.exists() or w.stat().st_mtime < f.stat().st_mtime:
+            im = Image.open(f)
+            im = im.convert("RGB")
+            if im.width > 2000:
+                im = im.resize((2000, round(im.height * 2000 / im.width)), Image.LANCZOS)
+            im.save(w, "WEBP", quality=78, method=6)
+        if w.stat().st_size < f.stat().st_size:
+            out.add("/" + str(f.relative_to(ROOT)))
+    saved.write_text("\n".join(sorted(out)) + "\n")
+    return out
+
+
+FONT_LINK = re.compile(r'<link href="(https://fonts\.googleapis\.com/css2\?[^"]+)" rel="stylesheet">')
+LEAF_CSS = re.compile(r'<link rel="stylesheet" href="(/assets/vendor/leaflet\.css[^"]*)">')
+ASSET_REF = re.compile(r'((?:src|href)="/assets/[^"?#]+\.(?:css|js|svg))"')
+IMG_ATTR = re.compile(r'((?:src|srcset|data-full|poster|data-src)=")([^"]+)(")')
+
+
+def speed(t, v, webp):
+    t = ASSET_REF.sub(lambda m: f'{m.group(1)}?v={v}"', t)
+    t = t.replace('<meta charset="utf-8">', f'<meta charset="utf-8">\n<meta name="ng-v" content="{v}">', 1)
+    t = FONT_LINK.sub(lambda m: f'<link rel="preload" as="style" href="{m.group(1)}" onload="this.onload=null;this.rel=\'stylesheet\'"><noscript><link rel="stylesheet" href="{m.group(1)}"></noscript>', t)
+    t = LEAF_CSS.sub(lambda m: f'<link rel="stylesheet" href="{m.group(1)}" media="print" onload="this.media=\'all\'">', t)
+    if webp:
+        def sw(m):
+            val = re.sub(r'(/img/[^"\s,?]+\.jpg)', lambda x: x.group(1)[:-4] + ".webp" if x.group(1) in webp else x.group(1), m.group(2))
+            return m.group(1) + val + m.group(3)
+        t = IMG_ATTR.sub(sw, t)
+    return t
+
+
 def main():
     if DIST.exists():
         shutil.rmtree(DIST)
@@ -2516,9 +2578,13 @@ def main():
     if JOURNAL:
         for i, j in enumerate(JOURNAL):
             pages[f"/journal/{j['date']}/"] = page_journal_day(j, JOURNAL[i - 1] if i > 0 else None, JOURNAL[i + 1] if i + 1 < len(JOURNAL) else None)
+    V, WEBP = asset_version(), make_webp()
+    if (ROOT / "img").exists():
+        shutil.rmtree(DIST / "img"); shutil.copytree(ROOT / "img", DIST / "img")
+    pages = {u: speed(t, V, WEBP) for u, t in pages.items()}
     for u, t in pages.items():
         write(u, t)
-    (DIST / "404.html").write_text(ext_tabs(page_404()))
+    (DIST / "404.html").write_text(ext_tabs(speed(page_404(), V, WEBP)))
     # the phone link page keeps living at /links/ and on nathanielgrivas.vercel.app
     links = ROOT / "links" / "index.html"
     if links.exists():
@@ -2582,6 +2648,10 @@ def export_deploy(pages, today):
         shutil.copy(DIST / "links" / "index.html", out / "links.html")
     (out / "vercel.json").write_text(json.dumps({
         "cleanUrls": True, "trailingSlash": False,
+        "headers": [
+            {"source": "/assets/(.*)", "headers": [{"key": "Cache-Control", "value": "public, max-age=31536000, immutable"}]},
+            {"source": "/img/(.*)", "headers": [{"key": "Cache-Control", "value": "public, max-age=604800, stale-while-revalidate=2592000"}]},
+        ],
         "redirects": [{"source": "/", "has": [{"type": "host", "value": "nathanielgrivas.vercel.app"}], "destination": "/links", "permanent": False}] + redirects(pages),
     }, indent=2))
     sm = "".join(f"<url><loc>{SITE}{u.rstrip('/') if u != '/' else '/'}</loc><lastmod>{today}</lastmod></url>" for u in pages)

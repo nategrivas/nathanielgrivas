@@ -1,6 +1,7 @@
 src/DEPLOY_PING.txt
 src/GUIDE_RUNBOOK.md
 src/MANIFEST.txt
+src/asset_ver.txt
 src/build.py
 src/changed.py
 src/guide/bel-air.json
@@ -101,3 +102,4 @@ src/posts/2026-11-25-90210-city-of-la.html
 src/posts/2026-11-25-measure-ula-2026.html
 src/posts/2026-11-25-prop-te-palisades.html
 src/v8.py
+src/webp.txt

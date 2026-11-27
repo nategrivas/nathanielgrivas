@@ -203,7 +203,7 @@
 
   // ---- Area picker data: regions, all neighborhoods, every pocket and ZIP (built from the site's own guide).
   let AD = null, ADp = null;
-  const loadAD = () => AD ? Promise.resolve(AD) : (ADp = ADp || fetch('/assets/areas.json').then((r) => r.json()).then((j) => { AD = j; return j; }).catch(() => null));
+  const loadAD = () => AD ? Promise.resolve(AD) : (ADp = ADp || fetch('/assets/areas.json?v=' + (document.querySelector('meta[name=ng-v]')||{}).content||'').then((r) => r.json()).then((j) => { AD = j; return j; }).catch(() => null));
   const regOf = (name) => { if (!AD) return null; for (const g of AD.g) if (g.h.some((h) => h[1] === name)) return g.r; return null; };
   const regLabel = (r) => (AREAS.find((a) => a[0] === r) || [r, r])[1];
   const areaFind = (txt) => {
