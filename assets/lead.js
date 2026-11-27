@@ -168,7 +168,7 @@
     if (/^9\d{1,4}$/.test(t)) Object.keys(AD.z).filter((z) => z.startsWith(t)).forEach((z) => out.push({ k: 'x', v: z, s: 'ZIP, ' + AD.z[z] }));
     return out.slice(0, 7);
   };
-  const pct = (i) => (100 * i / (PV.length - 1)).toFixed(2);
+  const pctOf = (i) => (100 * i / (PV.length - 1)).toFixed(2);
 
   roots.forEach((root) => {
     const F = FLOWS[root.dataset.flow];
@@ -264,7 +264,7 @@
       if (s.t === 'money') {
         const lo = A._lo != null ? A._lo : nearI(1e6), hi = A._hi != null ? A._hi : nearI(2e6), top = PV.length - 1;
         body = `<div class="lf-money"><div class="lf-mv"><b data-mlo>${money(PV[lo])}</b><span>to</span><b data-mhi>${money(PV[hi], hi === top)}</b></div>
-<div class="lf-dual" style="--a:${pct(lo)}%;--b:${pct(hi)}%"><input type="range" min="0" max="${top}" step="1" value="${lo}" data-m="lo" aria-label="Lowest price"><input type="range" min="0" max="${top}" step="1" value="${hi}" data-m="hi" aria-label="Highest price"></div>
+<div class="lf-dual" style="--a:${pctOf(lo)}%;--b:${pctOf(hi)}%"><input type="range" min="0" max="${top}" step="1" value="${lo}" data-m="lo" aria-label="Lowest price"><input type="range" min="0" max="${top}" step="1" value="${hi}" data-m="hi" aria-label="Highest price"></div>
 <div class="lf-mends"><span>$300K</span><span>$30M+</span></div>
 <p class="lf-plab">Paying with</p><div class="lf-pay">${PAY.map((x) => `<button type="button" class="lf-chip${A.pay === x ? ' on' : ''}" data-pay="${esc(x)}">${esc(x)}</button>`).join('')}</div>
 <p class="lf-pnote">Every option works. Nathaniel has lenders for each one, including bank-statement and investor loans.</p></div>`;
@@ -415,7 +415,7 @@ ${s.t === 'contact' ? `<p class="lf-legal">Free, no obligation. By sending, you 
         if (lo > hi - 1) { if (el.dataset.m === 'lo') { lo = Math.max(0, hi - 1); el.value = lo; } else { hi = Math.min(PV.length - 1, lo + 1); el.value = hi; } }
         A._lo = lo; A._hi = hi; A.budget = money(PV[lo]) + ' to ' + money(PV[hi], hi === PV.length - 1);
         root.querySelector('[data-mlo]').textContent = money(PV[lo]); root.querySelector('[data-mhi]').textContent = money(PV[hi], hi === PV.length - 1);
-        const d = root.querySelector('.lf-dual'); d.style.setProperty('--a', pct(lo) + '%'); d.style.setProperty('--b', pct(hi) + '%');
+        const d = root.querySelector('.lf-dual'); d.style.setProperty('--a', pctOf(lo) + '%'); d.style.setProperty('--b', pctOf(hi) + '%');
         save(); return;
       }
       if (el.classList && el.classList.contains('lf-as')) {
