@@ -157,6 +157,7 @@ def head(title, desc, path, extra="", og="hero.jpg"):
 <link rel="alternate" type="text/markdown" href="{md_url(path)}" title="Plain text version for AI and screen readers">
 <meta name="ng-to" content="{FORM_TO}">
 <link rel="icon" href="{rel(path)}assets/favicon.svg" type="image/svg+xml">
+<script type="speculationrules">{{"prefetch":[{{"where":{{"and":[{{"href_matches":"/*"}},{{"not":{{"href_matches":"/*.md"}}}},{{"not":{{"href_matches":"/*.txt"}}}}]}},"eagerness":"moderate"}}]}}</script>
 <link rel="preconnect" href="https://images.unsplash.com">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -314,8 +315,9 @@ FEATURED = {
 
 def film_evans(big=False):
     f = FEATURED["evans"]
+    # A short local loop plays on its own; the full film (with sound) loads only when someone asks for sound.
     return (f'<div class="film film-wide" data-film data-full="{f["film"]}">'
-            f'<video data-src="{f["film"]}" poster="{f["loop_poster"]}" muted loop playsinline autoplay preload="none" aria-label="Video tour of 3721 Evans St W"></video>'
+            f'<video data-src="{f["loop"]}" poster="{f["loop_poster"]}" muted loop playsinline autoplay preload="none" aria-label="Video tour of 3721 Evans St W"></video>'
             f'<button type="button" class="film-snd" aria-label="Turn sound on" aria-pressed="false"></button></div>')
 
 
@@ -361,11 +363,11 @@ def mini_map(h, width=170, aspect=0.56, r=1.0):
             f'{use_base()}<circle class="halo" cx="{cx}" cy="{cy}" r="{9 * r:g}"/><circle class="pt" cx="{cx}" cy="{cy}" r="{3.6 * r:g}"/></svg>')
 
 
-def hood_card(h, r, extra_cls=""):
+def hood_card(h, r, extra_cls="", eager=False):
     c = CITIES[h["city"]]
     chips = f'<span>{e(c["short"])}</span><span title="{TIER_WORD[h["tier"]]}">{TIER[h["tier"]]}</span>'
     ph = PHOTOS.get(h["slug"])
-    media = (ph_img(ph[0][0], ph[0][1], 520, 0.56, "(max-width:700px) 92vw, 300px", cls="hc-img") if ph
+    media = (ph_img(ph[0][0], ph[0][1], 520, 0.56, "(max-width:700px) 92vw, 300px", cls="hc-img", eager=eager) if ph
              else aerial(*h["ll"], z=15, cols=3, rows=3, ts=180, cls="hc-aer"))
     return f"""<a class="hcard{extra_cls}" href="{r}neighborhoods/{h['slug']}/" data-slug="{h['slug']}" data-region="{slug(h['region'])}" data-tags="{' '.join(h['tags'])}" data-name="{e(h['name'].lower())}" data-zips="{h['zips']}">
 <div class="hc-media">{media}</div>
@@ -751,7 +753,7 @@ def page_explore():
     r = "/"
     regs = "".join(f'<button type="button" data-region="{slug(x)}" aria-pressed="false">{e(x)}</button>' for x in REGIONS)
     tags = "".join(f'<button type="button" data-tag="{k}" aria-pressed="false">{e(v)}</button>' for k, v in TAGS.items())
-    cards = "".join(hood_card(h, r) for h in ORDER)
+    cards = "".join(hood_card(h, r, eager=k < 2) for k, h in enumerate(ORDER))
     pts = [{"slug": h["slug"], "name": h["name"], "lat": h["ll"][0], "lng": h["ll"][1], "line": h["line"], "url": f"/neighborhoods/{h['slug']}/",
             "region": slug(h["region"]), "tags": " ".join(h["tags"]), "zips": h["zips"],
             "img": photos.url(PHOTOS[h["slug"]][0][0], 480, 300) if PHOTOS.get(h["slug"]) else ""} for h in ORDER]

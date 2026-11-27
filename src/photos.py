@@ -127,7 +127,7 @@ PHOTOS = {
 }
 
 
-def url(pid, w=1200, h=None, q=72):
+def url(pid, w=1200, h=None, q=60):
     if pid.startswith("/"):
         return pid
     crop = f"&h={h}&fit=crop" if h else ""

@@ -2113,3 +2113,6 @@ textarea.lf-in{padding:14px 16px;min-height:110px;resize:vertical;line-height:1.
 @media(max-width:1300px) and (min-width:941px){.nav a{padding:10px 6px;letter-spacing:.07em}.top .searchbtn{display:none}}
 @media(max-width:1120px) and (min-width:941px){.nav a{font-size:10.5px;letter-spacing:.04em;padding:10px 5px}.brand .wm{font-size:17px;letter-spacing:.12em}}
 @media(max-width:1060px) and (min-width:941px){.nav a[href^="/news"]{display:none}}
+
+/* v16 speed: no live blur on phones (smoother scrolling) */
+@media (max-width:900px){*,*::before,*::after{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}.nb-sub{background:#fffdfa}}

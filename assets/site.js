@@ -289,6 +289,7 @@
     const go = () => { if (!v.getAttribute('src')) { v.src = v.dataset.src; v.preload = 'auto'; } const pr = v.play(); if (pr) pr.catch(() => {}); };
     seen(box, go, () => v.pause());
     if (snd) snd.addEventListener('click', () => {
+      if (v.muted && box.dataset.full && v.getAttribute('src') !== box.dataset.full) { v.src = box.dataset.full; v.loop = false; v.currentTime = 0; }
       v.muted = !v.muted; snd.setAttribute('aria-pressed', String(!v.muted)); snd.setAttribute('aria-label', v.muted ? 'Turn sound on' : 'Turn sound off');
       box.classList.toggle('sound', !v.muted); go();
       if (!v.muted && window.NG) window.NG.answer('Watched film', document.title);
