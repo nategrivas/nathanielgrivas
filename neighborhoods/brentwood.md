@@ -747,6 +747,20 @@ Next door
 
 [Beverly Hills & the Hills · $$$$Bel AirGated entrances, estate lots and the biggest houses in LA.](https://www.nathanielgrivas.com/neighborhoods/bel-air)
 
+LA News
+
+## Brentwood in the news
+
+[All LA news →](https://www.nathanielgrivas.com/news)
+
+Real estate
+
+### A new Brentwood estate sells for $39 million
+
+A newly built home at 401 N. Tigertail Road in Brentwood sold for $39 million, The Real Deal reported this week. It first shopped off market at $75 million and was later listed at $65 million.
+
+[November 27, 2026](https://www.nathanielgrivas.com/journal/2026-11-27) · Neighborhoods: [Brentwood](https://www.nathanielgrivas.com/neighborhoods/brentwood) · Sources: [The Real Deal](https://therealdeal.com/la/), [Listing record](https://pardeeproperties.com/listings/Los+Angeles/CA/90049/401+N+Tigertail+Rd%2C+Los+Angeles%2C+CA+90049/237456484/)
+
 Questions
 
 ## Brentwood: common questions

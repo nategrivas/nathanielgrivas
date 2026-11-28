@@ -902,6 +902,14 @@ LA News
 
 [All LA news →](https://www.nathanielgrivas.com/news)
 
+Beaches
+
+### King tides ease and the Manhattan Beach Pier is open again
+
+The Manhattan Beach Pier reopened Thursday afternoon after high surf forced it closed. A coastal flood advisory for the LA County coast ran until noon Friday, and a high surf advisory stays in effect until 9 p.m. Saturday, so expect strong currents if you head to the sand this weekend.
+
+[November 27, 2026](https://www.nathanielgrivas.com/journal/2026-11-27) · Neighborhoods: [Malibu](https://www.nathanielgrivas.com/neighborhoods/malibu), [Santa Monica](https://www.nathanielgrivas.com/neighborhoods/santa-monica), [Venice](https://www.nathanielgrivas.com/neighborhoods/venice), [Playa del Rey](https://www.nathanielgrivas.com/neighborhoods/playa-del-rey) · Sources: [KTLA](https://ktla.com/news/local-news/manhattan-beach-pier-closed-high-surf-king-tides/), [ABC7](https://abc7.com/post/los-angeles-weather-temperatures-southern-california/58983/)
+
 Weather
 
 ### Record king tides and big surf hit the coast on Thanksgiving morning

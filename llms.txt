@@ -191,6 +191,7 @@ Every page on this site has a plain-text twin: add .md to the address (for examp
 ## LA News: daily Los Angeles news and openings
 
 - [Today, this week and this month](https://www.nathanielgrivas.com/news)
+- [A warm Black Friday, parade weekend in Hollywood and rain on the way](https://www.nathanielgrivas.com/journal/2026-11-27) (2026-11-27): Low 80s today before back-to-back storms next week, the Hollywood Christmas Parade closes streets Sunday, USC plays UCLA at the Rose Bowl, and LAUSD switches off Google's AI summaries.
 - [King tides, the Netflix lot deal and a busy holiday weekend](https://www.nathanielgrivas.com/journal/2026-11-26) (2026-11-26): Thanksgiving in LA: record high tides along the coast, trains halted south of Irvine, Netflix buys a historic Studio City lot, and what's on this weekend.
 
 ## Tools

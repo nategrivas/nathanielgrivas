@@ -829,6 +829,14 @@ LA News
 
 Things to do
 
+### The Hollywood Christmas Parade rolls Sunday at 6 p.m.
+
+The 94th parade runs a loop of Hollywood and Sunset boulevards on Sunday, Nov. 29, with pre-show entertainment at 5:30 p.m. Hollywood Boulevard closes at La Brea Avenue starting at 6 a.m., and Sunset closes between La Brea and Highland in the afternoon. Reserved grandstand seats are sold out, but curbside viewing is free along much of the route east of Highland. Metro is the easy way in.
+
+[November 27, 2026](https://www.nathanielgrivas.com/journal/2026-11-27) · Neighborhoods: [Hollywood](https://www.nathanielgrivas.com/neighborhoods/hollywood) · Sources: [Beverly Press](https://beverlypress.com/2026/11/hollywood-christmas-parade-rings-in-the-season/), [Our Los Angeles](https://ourlosangeles.com/hollywood-christmas-parade-set-for-nov-29-as-street-closures-begin-saturday/), [Hollywood Christmas Parade](https://thehollywoodchristmasparade.org/road-closures-2026/)
+
+Things to do
+
 ### A packed holiday weekend: the Hollywood Christmas Parade, the Auto Show and holiday concerts
 
 The Hollywood Christmas Parade returns Sunday, Nov. 29, and the LA Auto Show runs downtown through the same day. Walt Disney Concert Hall kicks off its holiday series this weekend with Home Alone and Elf screened with a live orchestra, and the Smorgasburg holiday market is on the calendar too.

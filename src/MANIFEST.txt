@@ -88,6 +88,7 @@ src/history/westwood.json
 src/history/woodland-hills.json
 src/hoods.py
 src/journal/2026-11-26.json
+src/journal/2026-11-27.json
 src/lamap.py
 src/market/history.json
 src/market/latest.json
