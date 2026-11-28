@@ -1,4 +1,4 @@
-# Miracle Mile, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Miracle Mile, LA: Best Restaurants, Bars & Things to Do | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/miracle-mile
 

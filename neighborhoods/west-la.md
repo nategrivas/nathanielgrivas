@@ -1,4 +1,4 @@
-# West LA & Sawtelle, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# West LA & Sawtelle, LA: Best Restaurants, Bars & Things to Do | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/west-la
 

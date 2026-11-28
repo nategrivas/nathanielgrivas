@@ -1,4 +1,4 @@
-# Brentwood, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
+# Brentwood, LA: History, Landmarks & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/brentwood
 

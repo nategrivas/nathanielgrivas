@@ -1,4 +1,4 @@
-# Santa Monica, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Santa Monica, LA: Best Restaurants, Bars & Things to Do | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/santa-monica
 

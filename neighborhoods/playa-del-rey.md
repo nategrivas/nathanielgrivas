@@ -1,4 +1,4 @@
-# Playa del Rey, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Playa del Rey, LA: Best Restaurants, Bars & Things to Do | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/playa-del-rey
 

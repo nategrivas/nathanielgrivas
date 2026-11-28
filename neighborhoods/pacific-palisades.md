@@ -1,4 +1,4 @@
-# Pacific Palisades, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
+# Pacific Palisades, LA: History, Landmarks & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/pacific-palisades
 

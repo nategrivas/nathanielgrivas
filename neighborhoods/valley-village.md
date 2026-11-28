@@ -1,4 +1,4 @@
-# Valley Village, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Valley Village, LA: Best Restaurants, Bars & Things to Do | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/valley-village
 

@@ -1,4 +1,4 @@
-# Beverly Hills Post Office, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
+# Beverly Hills Post Office, LA: History, Landmarks & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/bhpo
 

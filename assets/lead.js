@@ -235,6 +235,14 @@
     const live = () => F.steps.filter((s) => !s.when || s.when(A));
     const pre = () => live().filter((s) => !s.post);
     const pst = () => live().filter((s) => s.post);
+    // Count steps on the likely path (county record found and confirmed) so the total doesn't jump mid-form.
+    const ofPre = () => {
+      if (!F.steps.some((s) => s.k === 'record')) return pre().length;
+      const B = Object.assign({}, A);
+      if (B._recFor === undefined) B._rec = B._rec || {};
+      if (B._rec && !B.recordOK) B.recordOK = 'Confirmed';
+      return F.steps.filter((s) => !s.post && (!s.when || s.when(B))).length;
+    };
     const SEL = () => { A._as = A._as || { any: [], h: [], x: [] }; return A._as; };
     const syncAreas = () => { const S = SEL(); A.areas = S.any.map((r) => 'Anywhere: ' + regLabel(r)).concat(S.h, S.x); if (!A.areas.length) delete A.areas; };
     const applyPre = () => {
@@ -289,7 +297,7 @@
       const P = pre().length;
       if (!s) { root.innerHTML = `<div class="lf-done">${F.end(A, (A.name || '').split(' ')[0])}${reach()}</div>`; return; }
       const inPost = s.post;
-      const n = inPost ? i - P + 1 : i + 1, of = inPost ? pst().length : P;
+      const n = inPost ? i - P + 1 : i + 1, of = inPost ? pst().length : Math.max(ofPre(), n);
       const pct = Math.round(((inPost ? n : n - 1) / of) * 100);
       let body = '';
       if (s.t === 'one') body = `<div class="lf-opts">${s.o.map((o) => `<button type="button" class="lf-opt${A[s.k] === o ? ' on' : ''}" data-v="${esc(o)}">${esc(o)}</button>`).join('')}</div>`;

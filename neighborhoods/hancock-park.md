@@ -1,4 +1,4 @@
-# Hancock Park & Larchmont, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
+# Hancock Park & Larchmont, LA: History, Landmarks & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/hancock-park
 

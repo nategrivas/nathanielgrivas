@@ -1,4 +1,4 @@
-# Cheviot Hills & Rancho Park, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
+# Cheviot Hills & Rancho Park, LA: History, Landmarks & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/cheviot-hills
 

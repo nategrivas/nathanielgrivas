@@ -1,4 +1,4 @@
-# Reseda, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Reseda, LA: Best Restaurants, Bars & Things to Do | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/reseda
 

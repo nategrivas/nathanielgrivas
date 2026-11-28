@@ -1,4 +1,4 @@
-# Bel Air, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA
+# Bel Air, LA: History, Landmarks & Where to Eat | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/bel-air
 

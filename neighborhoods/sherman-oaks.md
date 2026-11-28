@@ -1,4 +1,4 @@
-# Sherman Oaks, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# Sherman Oaks, LA: Best Restaurants, Bars & Things to Do | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/sherman-oaks
 

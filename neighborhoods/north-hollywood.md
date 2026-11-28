@@ -1,4 +1,4 @@
-# North Hollywood, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA
+# North Hollywood, LA: Best Restaurants, Bars & Things to Do | Local LA
 
 Source page: https://www.nathanielgrivas.com/neighborhoods/north-hollywood
 

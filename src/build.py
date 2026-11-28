@@ -1177,10 +1177,10 @@ def page_hood(h, posts):
 </main>
 {foot(path, (["vendor/leaflet.js"] if len(mapdata["pts"]) >= 3 or pk_list else []) + (["hoodmap.js"] if len(mapdata["pts"]) >= 3 else []) + (["pockets.js"] if pk_list else []), "explore")}"""
     if first:
-        title = f"{n}, Los Angeles: History, Landmarks, Map & Where to Eat | Local LA"
+        title = f"{n}, LA: History, Landmarks & Where to Eat | Local LA"
         desc = f"The story of {n}: {hx['title']}. A timeline, landmarks and did-you-know facts, plus the best places to eat and drink nearby and what it's like to live there."[:300]
     else:
-        title = f"{n}, Los Angeles: Best Restaurants, Bars, Things to Do & Map | Local LA"
+        title = f"{n}, LA: Best Restaurants, Bars & Things to Do | Local LA"
         desc = f"{h['line']} The best places to eat, drink and go in {n}, pinned on a map, plus its history, homes, rules and what it's like to live there."[:300]
     items = [{"@type": "ListItem", "position": k + 1, "name": nm} for k, nm in enumerate(mapdata["all"])]
     il = {"@context": "https://schema.org", "@type": "ItemList", "name": f"Where to eat, drink and go in {n}", "itemListElement": items}
@@ -1624,9 +1624,9 @@ def market_teaser():
     except Exception:
         return ""
     rg = M["regions"]; a = sum(x["active"] for x in rg); c = sum(x["cut"] for x in rg)
-    wk = datetime.date.fromisoformat(M["week"]).strftime("%B %-d")
+    wk = datetime.date.fromisoformat(M["week"]).strftime("%b %-d")
     return f"""<section class="band mt-tease"><div class="wrap"><div class="mt-tease-in">
-<div><p class="kick">Market Temperature &middot; week of {e(wk)}</p><h2>The LA market this week</h2></div>
+<div><p class="kick">Market Temperature &middot; {e(wk)}</p><h2>The LA market this week</h2></div>
 <dl><div><dt>30-year rate</dt><dd>{M["rate"]["v"]:.2f}%</dd></div><div><dt>Homes for sale</dt><dd>{a:,}</dd></div><div><dt>With a price cut</dt><dd>{100.0 * c / a:.1f}%</dd></div></dl>
 <a class="btn lux" href="{MARKET_URL}">See the full read &rarr;</a></div></div></section>"""
 
