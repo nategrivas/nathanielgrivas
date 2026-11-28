@@ -785,6 +785,7 @@ def page_explore():
 <div class="chiprow" id="regions" role="group" aria-label="Region"><button type="button" data-region="" aria-pressed="true">All</button>{regs}</div>
 <div class="chiprow" id="tags" role="group" aria-label="What you want">{tags}</div>
 <p class="count" id="count" aria-live="polite"></p>
+<h2 class="sr-only">All neighborhoods</h2>
 <div class="hgrid" id="hgrid">{cards}</div>
 <p class="empty" id="empty" hidden>No neighborhood matches all of those. Remove a filter or two.</p>
 </div>
@@ -2388,7 +2389,7 @@ def zipper(base="", label="LA News"):
     run = "".join(f'<a href="{base}#{a}"><b>{e(t)}</b>{e(h)}</a>' for t, h, a in items)
     secs = max(40, sum(len(h) for _, h, _ in items) // 5)
     return (f'<div class="zip" role="region" aria-label="Latest Los Angeles headlines"><a class="zip-l" href="/news/"><i aria-hidden="true"></i>{e(label)}</a>'
-            f'<div class="zip-w"><div class="zip-r" style="--zd:{secs}s"><div class="zip-s">{run}</div><div class="zip-s" aria-hidden="true">{run}</div></div></div></div>')
+            f'<div class="zip-w"><div class="zip-r" style="--zd:{secs}s"><div class="zip-s">{run}</div><div class="zip-s" aria-hidden="true" inert>{run.replace('<a ', '<a tabindex="-1" ')}</div></div></div></div>')
 
 
 def nstory(it, aid, cls="", photo=False, drop=False):
