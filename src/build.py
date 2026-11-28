@@ -2762,6 +2762,17 @@ def search_index(posts):
         out.append({"t": t, "s": d, "u": f"/tools/{s_}/", "k": "calculator tool", "g": "Tools"})
     for p in posts:
         out.append({"t": p["title"], "s": p["category"], "u": f"/guide/{p['slug']}/", "k": p["description"], "g": "Articles"})
+    cnt = guide_counts()
+    for k in G.ORDERED:
+        if cnt.get(k, 0) >= 3:
+            out.append({"t": f"Best {G.CATS[k][1]} in LA", "s": f"{cnt[k]} picks, neighborhood by neighborhood", "u": f"/guide/best/{k}/", "k": f"{G.CATS[k][0]} {G.CATS[k][1]} {k} best", "g": "Best of LA"})
+    for slug, d in GUIDES.items():
+        if slug not in BY_SLUG:
+            continue
+        hn = BY_SLUG[slug]["name"]
+        for pl in d["places"]:
+            out.append({"t": pl["n"], "s": f"{G.CATS[pl['c'][0]][0]} \u00b7 {hn}", "u": f"/neighborhoods/{slug}/#eat",
+                        "k": " ".join(G.CATS[c][0] + " " + G.CATS[c][1] for c in pl["c"] if c in G.CATS) + " " + hn + " " + (pl.get("a") or ""), "g": "Places"})
     for k in ACTIVE + SOLD:
         pr = PROPS[k]
         out.append({"t": pr["addr"], "s": f"{pr['tag']} \u00b7 {pr['price']} \u00b7 {pr['area']}", "u": pr.get("page") or pr["url"], "k": "listing home sold", "g": "Listings"})

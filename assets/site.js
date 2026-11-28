@@ -115,7 +115,7 @@
       const t = it.t.toLowerCase(), hay = (it.t + ' ' + it.s + ' ' + it.k).toLowerCase();
       let sc = 0;
       for (const w of words) { if (!hay.includes(w)) return -1; sc += t.startsWith(w) ? 5 : t.includes(w) ? 3 : 1; }
-      return sc + (it.g === 'Neighborhoods' ? 1 : 0);
+      return sc + (it.g === 'Neighborhoods' ? 2 : it.g === 'Best of LA' ? 2 : it.g === 'Places' ? 0 : 1);
     };
     const render = () => {
       const q = input.value.trim().toLowerCase();
@@ -127,9 +127,11 @@
       } else {
         const words = q.split(/\s+/);
         res = (data || []).map((x) => [score(x, words), x]).filter((x) => x[0] >= 0).sort((a, b) => b[0] - a[0]).slice(0, 14).map((x) => x[1]);
+        const go = []; res.forEach((x) => { if (!go.includes(x.g)) go.push(x.g); });
+        res = go.flatMap((g) => res.filter((x) => x.g === g));
       }
       items = res; sel = 0;
-      if (!res.length) { list.innerHTML = '<li class="cmdk-empty">Nothing found. Try a neighborhood name, a ZIP like 90049, or a word like "tax".</li>'; return; }
+      if (!res.length) { list.innerHTML = '<li class="cmdk-empty">Nothing found. Try a neighborhood, a ZIP like 90049, a place, or a word like "tacos".</li>'; return; }
       let g = '', html = '';
       res.forEach((x, i) => {
         if (x.g !== g) { g = x.g; html += '<li class="grp">' + esc(g) + '</li>'; }
