@@ -160,7 +160,7 @@ def head(title, desc, path, extra="", og="hero.jpg"):
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
 <link rel="alternate" type="text/markdown" href="{md_url(path)}" title="Plain text version for AI and screen readers">
 <meta name="ng-to" content="{FORM_TO}">
-<link rel="icon" href="{rel(path)}assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="{rel(path)}assets/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <script type="speculationrules">{{"prefetch":[{{"where":{{"and":[{{"href_matches":"/*"}},{{"not":{{"href_matches":"/*.md"}}}},{{"not":{{"href_matches":"/*.txt"}}}}]}},"eagerness":"moderate"}}]}}</script>
 <link rel="preconnect" href="https://images.unsplash.com">
 <link rel="preconnect" href="https://basemap.nationalmap.gov">
@@ -754,8 +754,7 @@ def page_home(posts):
 {lead_band("Let's talk", "You'll hear back today.")}
 </main>
 {foot(path, [])}"""
-    desc = ("Nathaniel Grivas, West Los Angeles REALTOR® with The Brodsky Group at Compass Beverly Hills. Buy, sell, rent, invest or build across West LA, "
-            "Beverly Hills and the Valley.")
+    desc = "Nathaniel Grivas, West LA REALTOR® with The Brodsky Group at Compass Beverly Hills. Buying, selling and investing across West LA, Beverly Hills and the Valley."
     extra = ld(person_ld()) + ld(listings_ld())
     return head("Nathaniel Grivas | West Los Angeles REALTOR® | The Brodsky Group at Compass", desc, path, extra, og="nate-hero.jpg") + body
 
@@ -795,7 +794,7 @@ def page_explore():
 {reviews_band(False, "What clients say")}
 {lead_band("Not sure where to start?", "Tell Nathaniel what you want. He'll narrow it down.", first="buy")}
 {foot(path, ["vendor/leaflet.js", "satmap.js"], "explore")}"""
-    desc = "Local LA: 40 Los Angeles neighborhoods on a satellite map, each with hand-picked restaurants, bars and things to do, from Santa Monica and Beverly Hills to Los Feliz and the Valley."
+    desc = "40 Los Angeles neighborhoods on a satellite map, each with hand-picked restaurants, bars and things to do, from Santa Monica to Los Feliz and the Valley."
     ld_ = crumbs_ld([("Home", "/"), ("Local LA", path)])
     extra = ld(ld_) + '\n<link rel="stylesheet" href="/assets/vendor/leaflet.css">\n<link rel="preload" as="script" href="/assets/vendor/leaflet.js">\n<link rel="preload" as="script" href="/assets/satmap.js">'
     return head("Local LA: Best Restaurants, Bars & Things to Do in 40 LA Neighborhoods | Nathaniel Grivas", desc, path, extra) + body
@@ -1053,7 +1052,7 @@ def page_pocketmap():
 </main>
 {lead_band("Wondering which side of the line a house sits on?", "Send the address. Nathaniel will tell you which pocket it's in and what that means for value.", first="sell")}
 {foot(path, ["vendor/leaflet.js", "pockets.js"], "explore")}"""
-    desc = f"An interactive map of {len(allp)} Los Angeles pockets and micro-neighborhoods, like the Bird Streets, Trousdale, Brentwood Park and North of Montana, with the streets that bound each one."
+    desc = f"A map of {len(allp)} LA pockets, like the Bird Streets, Trousdale and North of Montana, with the streets that bound each one."
     ld_ = crumbs_ld([("Home", "/"), ("Local LA", "/neighborhoods/"), ("Pocket map", path)])
     return head("LA Neighborhood Boundaries Map: Every Pocket from the Bird Streets to North of Montana | Local LA", desc, path, ld(ld_) + '\n<link rel="stylesheet" href="/assets/vendor/leaflet.css">') + body
 
@@ -1188,10 +1187,14 @@ def page_hood(h, posts):
 {foot(path, (["vendor/leaflet.js"] if len(mapdata["pts"]) >= 3 or pk_list else []) + (["hoodmap.js"] if len(mapdata["pts"]) >= 3 else []) + (["pockets.js"] if pk_list else []), "explore")}"""
     if first:
         title = f"{n}, LA: History, Landmarks & Where to Eat | Local LA"
-        desc = f"The story of {n}: {hx['title']}. A timeline, landmarks and did-you-know facts, plus the best places to eat and drink nearby and what it's like to live there."[:300]
+        desc = f"The story of {n}: {hx['title']}. A timeline, landmarks, where to eat nearby and what it's like to live there."
+        if len(desc) > 158:
+            desc = f"The story of {n}: {hx['title']}. Timeline, landmarks and where to eat."
     else:
         title = f"{n}, LA: Best Restaurants, Bars & Things to Do | Local LA"
-        desc = f"{h['line']} The best places to eat, drink and go in {n}, pinned on a map, plus its history, homes, rules and what it's like to live there."[:300]
+        base = f"Where to eat, drink and go in {n}, every pocket on a map, and what it's like to live there."
+        short = f"Where to eat and go in {n}, mapped, and what it's like to live there."
+        desc = next((x for x in (f"{h['line']} {base}", f"{h['line']} {short}") if len(x) <= 158), base)
     items = [{"@type": "ListItem", "position": k + 1, "name": nm} for k, nm in enumerate(mapdata["all"])]
     il = {"@context": "https://schema.org", "@type": "ItemList", "name": f"Where to eat, drink and go in {n}", "itemListElement": items}
     faq_all = qa + (HI.faq_pairs(hx) if hx else [])
@@ -1311,7 +1314,7 @@ def page_tax():
 <p class="sources">Sources: <a href="https://finance.lacity.gov/faq/measure-ula">LA Office of Finance</a>, <a href="https://santamonica.gov/documentary-transfer-tax-real-property-transfer-tax">City of Santa Monica</a>, <a href="https://www.culvercity.gov/Services/Make-a-Payment/Real-Property-Transfer-Tax">City of Culver City</a>, <a href="https://weho.org/city-government/city-departments/finance-and-technology-services/taxes/property-taxes">City of West Hollywood</a>, <a href="https://www.lavote.gov/home/records/property-document-recording/documentary-transfer-taxes">LA County Registrar-Recorder</a>.</p>
 </div>"""
     return tool_shell("transfer-tax", "LA Transfer Tax & Measure ULA Calculator (2026)",
-                      "Estimate transfer taxes on a sale in the City of LA, Santa Monica, Culver City, Beverly Hills, West Hollywood or Malibu, including the Measure ULA mansion tax cliff.",
+                      "Estimate transfer taxes on a sale in the City of LA, Santa Monica, Culver City, Beverly Hills, WeHo or Malibu, including the Measure ULA mansion tax cliff.",
                       inner, preset="sell", msg="Can you run my net proceeds for a sale at ")
 
 
@@ -1404,7 +1407,7 @@ def page_rules():
 <div class="citygrid">{cards}</div>
 <p class="sources body narrow">Sources: <a href="https://finance.lacity.gov/faq/measure-ula">LA Office of Finance</a>, <a href="https://santamonica.gov/documentary-transfer-tax-real-property-transfer-tax">City of Santa Monica</a>, <a href="https://www.culvercity.gov/City-Hall/General-Info-Finance/Local-Voter-Approved-Tax-Measures">City of Culver City</a>, <a href="https://weho.org/city-government/city-departments/finance-and-technology-services/taxes/property-taxes">City of West Hollywood</a>, <a href="https://www.lavote.gov/home/records/property-document-recording/documentary-transfer-taxes">LA County Registrar-Recorder</a>, <a href="https://www.malibucity.org/MUSD">City of Malibu</a>. Rent control summaries are simplified and every ordinance has exemptions.</p>"""
     return tool_shell("la-rules", "LA Isn't One City: Transfer Tax, Rent Control & Schools by City",
-                      "How transfer taxes, Measure ULA, rent control and school districts change between the City of LA, Santa Monica, Beverly Hills, Culver City, West Hollywood and Malibu.",
+                      "How transfer taxes, Measure ULA, rent control and schools change between the City of LA, Santa Monica, Beverly Hills, Culver City, WeHo and Malibu.",
                       inner, scripts=(), preset="sell")
 
 
@@ -1618,8 +1621,8 @@ def page_market():
 <div class="cta-row" style="justify-content:center"><a class="btn lux solid" href="{VALUE_URL}">Get a free home valuation</a><a class="btn lux" href="{BUY_URL}">Start a home search</a><a class="btn lux" href="tel:{TEL}">Call {PHONE}</a></div></div></section>
 </main>
 {foot(path)}"""
-    desc = (f"Los Angeles Market Temperature for the week of {wtxt}: {tot_a:,} homes for sale across 40 neighborhoods, {100.0 * tot_c / tot_a:.1f}% with a price cut, "
-            f"30-year rate {R['v']:.2f}%. Updated weekly by Nathaniel Grivas, REALTOR® at Compass.")
+    desc = (f"The LA housing market, week of {wtxt}: {tot_a:,} homes for sale, {100.0 * tot_c / tot_a:.1f}% with a price cut, "
+            f"30-year rate {R['v']:.2f}%. Updated weekly by Nathaniel Grivas.")
     data_ld = {"@context": "https://schema.org", "@type": "Dataset", "name": "Los Angeles Market Temperature", "description": desc,
                "url": SITE + path, "temporalCoverage": M["week"], "creator": {"@id": SITE + "/#nathaniel"},
                "variableMeasured": ["Active listings by region", "Share of listings with a price reduction", "30-year fixed mortgage rate", "Los Angeles County median price"],
@@ -1648,7 +1651,7 @@ def page_value():
                      "The option to sell quietly, off-market"],
                     "value", "lanark", VALUE_FAQ, "Home value questions",
                     "Free Home Valuation in Los Angeles: What's My Home Worth? | Nathaniel Grivas",
-                    "Get a free, hand-built home valuation from Nathaniel Grivas, REALTOR® with The Brodsky Group at Compass: your value range from recent sales near you plus your estimated net. West LA, Beverly Hills and the Valley.",
+                    "A free home valuation built by hand from recent sales on your street, plus what you would net. Nathaniel Grivas, The Brodsky Group at Compass Beverly Hills.",
                     method_band() + how_band(HOW_VALUE, "Your number in three steps"))
 
 
@@ -1658,7 +1661,7 @@ def page_buy():
                     ["New matches the day they list", "Private and off-market homes", "Lenders for every kind of income"],
                     "buy", "hartland", BUY_FAQ, "Buying questions",
                     "Buy a Home in Los Angeles: Off-Market Homes, Lenders & Creative Financing | Nathaniel Grivas",
-                    "Find a home in West LA, Beverly Hills or the Valley with Nathaniel Grivas, REALTOR® at Compass: off-market and coming-soon homes, lenders for self-employed and investor buyers, and creative financing like seller carry.")
+                    "Off-market and coming-soon homes in West LA, Beverly Hills and the Valley, with lenders for self-employed buyers and creative financing. Nathaniel Grivas.")
 
 
 RENT_FAQ = [
@@ -1680,7 +1683,7 @@ def page_rent():
         "For owners: the right price and the right tenant"))
     cards = "".join(prop_card(k, "/") for k in ("edgecliffe", "glenville"))
     title = "Homes for Lease in Los Angeles: Leasing for Tenants and Owners | Nathaniel Grivas"
-    desc = "Homes for lease in Los Angeles with Nathaniel Grivas, REALTOR® at Compass: 1436 Edgecliffe Dr #103 in Silver Lake is available now. Start a lease search, or get a free lease estimate for your property."
+    desc = "Homes for lease in Los Angeles, a lease search built around you, or a free lease estimate for your property. Nathaniel Grivas, REALTOR® at Compass."
     body = f"""{nav(path, "rent")}
 <main class="lp">
 <section class="lp-hero"><div class="wrap lp-grid">
@@ -1947,8 +1950,7 @@ def page_about():
 {lead_band("Work with Nathaniel", "You'll hear back today.", rating=False)}
 </main>
 {foot(path)}"""
-    desc = ("Nathaniel Grivas, REALTOR® with The Brodsky Group at Compass Beverly Hills ($100M+ annual team sales). Seller financing, development sites, "
-            "off-market homes and complicated deals across West LA, Beverly Hills and the Valley. DRE #02410660.")
+    desc = ("Nathaniel Grivas, REALTOR® with The Brodsky Group at Compass Beverly Hills, $100M+ in annual team sales. Off-market homes, seller financing and development.")
     return head("About Nathaniel Grivas | REALTOR® at Compass Beverly Hills | The Brodsky Group", desc, path, ld(person_ld())) + body
 
 
@@ -2184,7 +2186,12 @@ def page_privacy():
 def page_404():
     path = "/404/"
     r = "/"
-    cards = "".join(hood_card(h, r) for h in ORDER[:6])
+    picks = []
+    for reg in REGIONS:
+        first = next((h for h in ORDER if h["region"] == reg), None)
+        if first:
+            picks.append(first)
+    cards = "".join(hood_card(h, r) for h in picks[:5])
     body = f"""{nav("/", "")}
 <main><section class="band"><div class="wrap">
 <p class="eyebrow">Page not found</p><h1 class="h1">That street doesn't exist</h1>
