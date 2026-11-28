@@ -142,6 +142,7 @@ def head(title, desc, path, extra="", og="hero.jpg"):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="v0i-yFNdiWlE7Je_p4i7otiPYUqq3cAZPWjkhuNGM1o">
 <title>{e(title)}</title>
 <meta name="description" content="{e(desc)}">
 <link rel="canonical" href="{canon}">
@@ -2606,6 +2607,7 @@ def main():
     (DIST / "llms.txt").write_text(llms_txt(posts))
     (DIST / "llms-full.txt").write_text(llms_full(posts, mds))
     (DIST / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
+    (DIST / GSC_FILE).write_text(f"google-site-verification: {GSC_FILE}")
     (DIST / "assets" / "search.json").write_text(json.dumps(search_index(posts), separators=(",", ":")))
     export_deploy(pages, today)
     print(f"built {len(pages)} pages, {len(posts)} posts, {len(HOODS)} neighborhoods")
@@ -2664,6 +2666,7 @@ def export_deploy(pages, today):
     for name in ("llms.txt", "llms-full.txt"):
         (out / name).write_text(flat_txt((DIST / name).read_text()))
     (out / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
+    (out / GSC_FILE).write_text(f"google-site-verification: {GSC_FILE}")
     for u in pages:
         src = DIST / md_url(u).lstrip("/")
         if src.exists():
@@ -2678,6 +2681,7 @@ def flat_txt(text):
 
 
 INDEXNOW_KEY = "7c1f4e2a9b8d4f6e8a3c5d7e9f1b2c4d"
+GSC_FILE = "googlece0b36a21da56a27.html"
 AI_BOTS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User", "anthropic-ai", "PerplexityBot",
            "Perplexity-User", "Google-Extended", "Googlebot", "Bingbot", "Applebot", "Applebot-Extended", "DuckAssistBot", "meta-externalagent",
            "Amazonbot", "MistralAI-User", "cohere-ai", "YouBot", "CCBot"]
