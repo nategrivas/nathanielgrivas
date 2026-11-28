@@ -2150,3 +2150,5 @@ textarea.lf-in{padding:14px 16px;min-height:110px;resize:vertical;line-height:1.
 .pc-f{row-gap:6px}
 .pc-map,.pc-s a{display:inline-flex;align-items:center;min-height:24px;min-width:24px}
 .pc-s a{padding:0 2px}
+.mt-cta .res-sub{color:var(--soft)}
+.foot p.soc a{text-decoration:none}
