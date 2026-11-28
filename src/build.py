@@ -33,15 +33,18 @@ TEL = "+13102695541"
 EMAIL = "nate.grivas@compass.com"
 FORM_TO = EMAIL
 # Ad tracking: paste the IDs here when the ad accounts exist (Google tag like "AW-123..." or "G-...", Meta pixel number)
-GTAG_ID = ""
+GTAG_ID = "G-VFLK06QTHW"
 META_PIXEL = ""
 
 
 def ad_tags():
     out = ""
     if GTAG_ID:
-        out += (f'<script async src="https://www.googletagmanager.com/gtag/js?id={GTAG_ID}"></script>'
-                f"<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag('js',new Date());gtag('config','{GTAG_ID}');</script>")
+        # Google Analytics, loaded once the page is idle so it never slows the first paint. Skipped for Global Privacy Control.
+        out += (f"<script>if(navigator.globalPrivacyControl!==true){{window.dataLayer=window.dataLayer||[];window.gtag=function(){{dataLayer.push(arguments)}};"
+                f"gtag('js',new Date());gtag('config','{GTAG_ID}',{{allow_google_signals:false,allow_ad_personalization_signals:false}});"
+                f"addEventListener('load',function(){{(window.requestIdleCallback||function(f){{setTimeout(f,1200)}})(function(){{var s=document.createElement('script');s.async=1;"
+                f"s.src='https://www.googletagmanager.com/gtag/js?id={GTAG_ID}';document.head.appendChild(s)}},{{timeout:2500}})}})}}</script>")
     if META_PIXEL:
         out += ("<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};"
                 "if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];"
@@ -180,9 +183,16 @@ def md_url(path):
 
 
 def nav(path, active, over=False):
-    items = [("Free Home Valuation", "/home-value/", "value"), ("Buy", "/buy/", "buy"), ("Lease", "/lease/", "rent"), ("Listings", "/listings/", "listings"), ("Local LA", "/neighborhoods/", "explore"),
-             ("Market Temperature", "/market-temperature/", "market"), ("News", "/news/", "news"), ("About", "/about/", "about")]
-    links = "".join(f'<a href="{h}"{" aria-current=page" if k == active else ""}>{n}</a>' for n, h, k in items)
+    items = [("Free Home Valuation", "/home-value/", "value"), ("Buy", "/buy/", "buy"), ("Lease", "/lease/", "rent"), ("Listings", "/listings/", "listings"), ("Local LA", "/neighborhoods/", "explore"), ("About", "/about/", "about")]
+    sub = [("Neighborhoods &amp; map", "/neighborhoods/", "explore"), ("Market Temperature", "/market-temperature/", "market"), ("LA News", "/news/", "news"), ("Free tools", "/tools/", "tools")]
+    local_keys = {k for _, _, k in sub}
+    def link(n, h, k):
+        if k != "explore":
+            return f'<a href="{h}"{" aria-current=page" if k == active else ""}>{n}</a>'
+        dd = "".join(f'<a href="{sh}"{" aria-current=page" if sk == active else ""}>{sn}</a>' for sn, sh, sk in sub)
+        return (f'<div class="nav-dd"><a href="{h}"{" aria-current=page" if active in local_keys else ""} aria-haspopup="true">{n}<svg viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.4"/></svg></a>'
+                f'<div class="dd">{dd}</div></div>')
+    links = "".join(link(n, h, k) for n, h, k in items)
     cls = "top over" if over else "top"
     return f"""<header class="{cls}"><div class="wrap">
 <a class="brand" href="/" aria-label="Nathaniel Grivas home"><span class="wm">Nathaniel Grivas</span><span class="bk">Compass</span></a>
@@ -2142,7 +2152,7 @@ def page_post(p, posts):
 
 def page_privacy():
     path = "/privacy/"
-    updated = "November 25, 2026"
+    updated = "November 27, 2026"
     body = f"""{nav(path, "")}
 <main class="band"><div class="wrap narrow article">
 <p class="eyebrow">Privacy</p>
@@ -2157,7 +2167,9 @@ def page_privacy():
 <h2>How it is used</h2>
 <p>To reply to you, set up home searches and listing alerts, follow up about buying, selling, renting, investing or building, and improve this site. Your contact details and search may be added to Nathaniel's client records at Compass.</p>
 <h2>Who it is shared with</h2>
-<p>Nathaniel does not sell your information. It is shared with the services that run this site and deliver messages (Vercel for hosting, FormSubmit for form email), with Compass and The Brodsky Group to provide real estate services, and when the law requires it. Pages also load fonts and satellite maps from Google, neighborhood photos from Unsplash, aerial imagery from the U.S. Geological Survey, and a listing video from Vimeo when you scroll to it. These services receive standard web request data.</p>
+<p>Nathaniel does not sell your information. It is shared with the services that run this site and deliver messages (Vercel for hosting, FormSubmit for form email, Google Analytics for site statistics), with Compass and The Brodsky Group to provide real estate services, and when the law requires it. Pages also load fonts and satellite maps from Google, neighborhood photos from Unsplash, aerial imagery from the U.S. Geological Survey, and a listing video from Vimeo when you scroll to it. These services receive standard web request data.</p>
+<h2>Site statistics</h2>
+<p>Google Analytics counts visits, pages viewed, taps on Call, Text and forms, the site or ad that sent you, your device type and your approximate city, using cookies. Google signals and ad personalization are turned off. Analytics does not load if your browser sends a Global Privacy Control signal, and you can opt out anywhere with <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener">Google's opt-out add-on</a>.</p>
 <h2>Calls and texts</h2>
 <p>If you send a form, you agree Nathaniel can contact you by call, text or email about real estate. Reply STOP to any text to opt out. Message and data rates may apply.</p>
 <h2>Your choices</h2>

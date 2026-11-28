@@ -1,4 +1,13 @@
 {
+  // Google Analytics events for calls, texts, emails and listing clicks
+  document.addEventListener('click', (ev) => {
+    if (!window.gtag) return;
+    const a = ev.target.closest('a'); if (!a) return;
+    const h = a.getAttribute('href') || '';
+    const ev_ = h.startsWith('tel:') ? 'click_to_call' : h.startsWith('sms:') ? 'click_to_text' : h.startsWith('mailto:') ? 'click_to_email' : /compass\.com\/homedetails|3721evans\.com/.test(h) ? 'listing_click' : '';
+    if (ev_) window.gtag('event', ev_, { link_url: h.slice(0, 100), page_path: location.pathname });
+  }, true);
+
   // Lead forms: send to Nathaniel through FormSubmit. Show a call/text fallback if sending fails.
   document.querySelectorAll('form.lead').forEach((form) => {
     const msg = form.querySelector('.formmsg');
@@ -24,6 +33,7 @@
         if (!r.ok || j.success === 'false' || j.success === false) throw new Error('not sent');
         form.reset();
         if (window.NG) window.NG.submitted();
+        if (window.gtag) window.gtag('event', 'generate_lead', { form: form.dataset.subject || 'message' });
         say(form.dataset.ok ? form.dataset.ok.replace('{name}', name.split(' ')[0]) : 'Got it, ' + name.split(' ')[0] + '. Nathaniel will get back to you within a day.');
       } catch (err) {
         say('This message could not be sent from here. Call or text 310-269-5541, or email nate.grivas@compass.com.');
@@ -135,7 +145,7 @@
       let g = '', html = '';
       res.forEach((x, i) => {
         if (x.g !== g) { g = x.g; html += '<li class="grp">' + esc(g) + '</li>'; }
-        html += '<li><a href="' + esc(x.u) + '" role="option" data-i="' + i + '" aria-selected="' + (i === 0) + '"' + (x.u.startsWith('http') ? ' rel="noopener"' : '') + '><span><b>' + esc(x.t) + '</b><small>' + esc(x.s || '') + '</small></span><i aria-hidden="true">&rarr;</i></a></li>';
+        html += '<li><a href="' + esc(x.u) + '" role="option" data-i="' + i + '" aria-selected="' + (i === 0) + '"' + (x.u.startsWith('http') ? ' target="_blank" rel="noopener"' : '') + '><span><b>' + esc(x.t) + '</b><small>' + esc(x.s || '') + '</small></span><i aria-hidden="true">&rarr;</i></a></li>';
       });
       list.innerHTML = html;
     };

@@ -6,7 +6,7 @@ Privacy
 
 # Privacy policy
 
-Last updated November 25, 2026
+Last updated November 27, 2026
 
 This site is run by Nathaniel Grivas, REALTOR® (DRE #02410660), with The Brodsky Group at Compass, 9454 Wilshire Blvd, Ste 100, Beverly Hills, CA 90212. Questions: nate.grivas@compass.com or 310-269-5541.
 
@@ -26,7 +26,11 @@ To reply to you, set up home searches and listing alerts, follow up about buying
 
 ## Who it is shared with
 
-Nathaniel does not sell your information. It is shared with the services that run this site and deliver messages (Vercel for hosting, FormSubmit for form email), with Compass and The Brodsky Group to provide real estate services, and when the law requires it. Pages also load fonts and satellite maps from Google, neighborhood photos from Unsplash, aerial imagery from the U.S. Geological Survey, and a listing video from Vimeo when you scroll to it. These services receive standard web request data.
+Nathaniel does not sell your information. It is shared with the services that run this site and deliver messages (Vercel for hosting, FormSubmit for form email, Google Analytics for site statistics), with Compass and The Brodsky Group to provide real estate services, and when the law requires it. Pages also load fonts and satellite maps from Google, neighborhood photos from Unsplash, aerial imagery from the U.S. Geological Survey, and a listing video from Vimeo when you scroll to it. These services receive standard web request data.
+
+## Site statistics
+
+Google Analytics counts visits, pages viewed, taps on Call, Text and forms, the site or ad that sent you, your device type and your approximate city, using cookies. Google signals and ad personalization are turned off. Analytics does not load if your browser sends a Global Privacy Control signal, and you can opt out anywhere with [Google's opt-out add-on](https://tools.google.com/dlpage/gaoptout).
 
 ## Calls and texts
 
